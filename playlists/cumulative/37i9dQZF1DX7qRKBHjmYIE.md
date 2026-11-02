@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Chuwi.
 
-1,067 songs - 2 day 9 hr 17 min
+1,068 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-03 | 2022-08-25 |
 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-07-22 | 2023-02-17 |
 | [Callan](https://open.spotify.com/track/7d3birJKfYhkf3ryMhEVok) | [Mariposa](https://open.spotify.com/artist/73s1DKnwRgdsXm6a3tQEsV) | [Callan](https://open.spotify.com/album/1Hm6ifGyeI4npjiFZ0mjxt) | 3:09 | 2021-12-02 | 2022-01-25 |
+| [Cama](https://open.spotify.com/track/0nVYjNsfKAxIrUaHpyzpBR) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Cama](https://open.spotify.com/album/4fNiB7iZynQtMVMOh03A16) | 2:53 | 2026-10-30 |  |
 | [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 | 2025-09-26 |  |
 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-08-25 | 2024-01-28 |
 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 | 2023-02-17 | 2023-04-21 |
@@ -508,7 +509,7 @@
 | [lady madrizZz \(Remix\)](https://open.spotify.com/track/6JWk1sLMa1cYZYBjr1tWVE) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [lady madrizZz \(Remix\)](https://open.spotify.com/album/7CmFEPmYsEzBg4H95OigTO) | 3:21 | 2024-02-23 | 2024-04-13 |
 | [LAS PRIMERAS FLORES](https://open.spotify.com/track/5uqczHBwq5jCxlhfOmzMPm) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EL NIÑO DE LOS CORAZONES](https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i) | 3:49 | 2024-05-31 | 2025-02-15 |
 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 | 2022-04-08 | 2023-02-17 |
-| [Latemotiv](https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [El único ser sin talento](https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH) | 3:08 | 2025-11-21 |  |
+| [Latemotiv](https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [El único ser sin talento](https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH) | 3:08 | 2025-11-21 | 2026-11-02 |
 | [left you](https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [left you](https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf) | 2:35 | 2023-05-26 | 2023-07-28 |
 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 | 2024-04-05 | 2024-07-27 |
 | [Lemon Tree](https://open.spotify.com/track/1b7NUnBZaNgC7ygZOkUqGb) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Lemon Tree](https://open.spotify.com/album/5nnAxnOVudtdTDHPgShRph) | 2:49 | 2024-04-26 | 2024-05-12 |

@@ -1,18 +1,18 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 73422,
+  "num_followers": 73466,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABmiKgg503ZtFYUraRg0/BR",
+  "snapshot_id": "auUvgAAAAAA68iPgZjXi1IA/elkXFYoM",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
@@ -22,23 +22,7 @@
       ],
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 175763,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
       "added_at": null,
@@ -55,6 +39,22 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/5VHRiH48pBB008CAkrIBwP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 175763,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn It Down (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 251032,
-      "name": "Burn it Down (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 197403,
       "name": "Amen",
       "url": "https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251032,
+      "name": "Burn it Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/213uaappJODsexwkR9rxhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
     },
     {
       "added_at": null,
@@ -627,38 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 157122,
-      "name": "Horses & Hellcats",
-      "url": "https://open.spotify.com/track/2aP9pWbPvh5kVIIGJoyFLW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 138318,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 158477,
       "name": "SPAGHETTII",
       "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 138318,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
     },
     {
       "added_at": null,

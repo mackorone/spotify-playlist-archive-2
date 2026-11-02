@@ -4,7 +4,7 @@
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-135 songs - 9 hr 48 min
+136 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:25 | 2022-12-12 | 2026-02-18 |
 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Basement Tapes](https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY) | 2:43 | 2023-04-02 | 2026-08-27 |
 | [You're a Big Girl Now](https://open.spotify.com/track/4ukHl5HFRNARRnIWc4Oj83) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:34 | 2026-08-26 | 2026-08-27 |
-| [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 2:55 | 2023-09-25 |  |
+| [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 2:55 | 2023-09-25 | 2026-11-02 |
+| [You're Gonna Make Me Lonesome When You Go \- Live at Hughes Stadium, Colorado State University, Fort Collins, CO \- May 23, 1976](https://open.spotify.com/track/04oQNsG2OwL4pAspjYSQfs) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd](https://open.spotify.com/album/2J3zhPxCigOnkG09eiZpPX) | 3:19 | 2026-11-02 |  |
 | [You're No Good](https://open.spotify.com/track/2db6YvapwrwAqOXSApL6lg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Music Legends Bob Dylan : The Poet's Folk Hits](https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc) | 1:34 | 2024-04-19 | 2024-04-26 |
 
 \*This playlist was first scraped on 2022-09-25. Prior content cannot be recovered.

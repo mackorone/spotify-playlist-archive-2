@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-895 songs - 3 day 7 hr 1 min
+896 songs - 3 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 | 2026-01-30 |  |
 | [Bow Down](https://open.spotify.com/track/2FYeysP3WwvZB9OlrJWJrX) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ) | [Bow Down](https://open.spotify.com/album/5ZYoUlkl58Uh2sqIXrHMF0) | 2:55 | 2025-06-06 | 2025-06-27 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-15 | 2024-03-16 |
+| [Broken Pieces](https://open.spotify.com/track/5qKJo4x97ou5Kdz8CT6mjv) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Broken Pieces](https://open.spotify.com/album/2K2pa1AqRjNUChNI2cvkHH) | 9:32 | 2026-10-30 |  |
 | [Broken Pieces](https://open.spotify.com/track/4Go1h3lxxvLvQAu0VH2APR) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Broken Pieces](https://open.spotify.com/album/2GkBQoMhK1xUXgRm37WMr3) | 9:00 | 2025-10-03 | 2026-05-22 |
 | [BURN](https://open.spotify.com/track/1IG95S18k0RC5nUpyFCRfF) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2), [Steph Ade](https://open.spotify.com/artist/3HqZE7YMwvtMRBUw3GvoGU) | [BURN](https://open.spotify.com/album/67GxAXdtyiSkbBbm8XIGYV) | 3:34 | 2025-02-28 | 2025-06-06 |
 | [Burn \- Live](https://open.spotify.com/track/2bCgY5Cud7djpC0mATonOi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Burn \(Live\)](https://open.spotify.com/album/1oUyDYpRxf1UXG7ApONxCI) | 27:15 | 2026-02-06 |  |
@@ -526,7 +527,7 @@
 | [More of you God](https://open.spotify.com/track/770Z9OGv4gVgzDIbClpWYm) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [More of you God](https://open.spotify.com/album/03wxN0lOmPyzlziiNhKSrg) | 4:40 | 2025-09-12 | 2025-10-03 |
 | [More Than Able](https://open.spotify.com/track/1PVYkMOIxOV4JCJhoUOBrg) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [More Than Able](https://open.spotify.com/album/2eCu0jcbcaPB3no72aewOI) | 2:34 | 2025-10-10 | 2026-02-08 |
 | [More Than Enough](https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [More Than Enough](https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z) | 5:00 | 2025-10-24 | 2025-12-10 |
-| [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 | 2026-09-18 |  |
+| [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 | 2026-09-18 | 2026-11-02 |
 | [MORIRE GBA](https://open.spotify.com/track/1SXBvjlcG6KYD7rPaVWaHv) | [Fido Cleff](https://open.spotify.com/artist/0FOiZm6cMypJMnOEScNFZr), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [MORIRE GBA](https://open.spotify.com/album/2QGHB9mP6So7HRmrU2tpls) | 3:28 | 2026-07-17 |  |
 | [Most High](https://open.spotify.com/track/7m5VI4wtclDWfskjXou2Mh) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Most High](https://open.spotify.com/album/3fXrS9CHWxp2tsPCYNaqRn) | 6:15 | 2026-03-06 | 2026-05-05 |
 | [MOST HIGH](https://open.spotify.com/track/31naSIp2Ioi41c5gavyUkY) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [MOST HIGH](https://open.spotify.com/album/0NuHWN44BKVoljjBUY6VmF) | 3:20 | 2024-02-09 | 2025-05-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21634,
+  "num_followers": 21639,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAPsdyjNGfhvdLKX0tdmSJd",
+  "snapshot_id": "auUvgAAAAADEmN837y+7dA1PIp4fNx4/",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Day You Will Understand",
         "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 150000,
       "name": "Baby I'm Jealous",
       "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 135637,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 168150,
       "name": "Chop Time, No Friend",
       "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 135637,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 198952,
       "name": "KEYS TO THE KINGDOM",
       "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/3TZrhPPbC11jtPvW40PS9b"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5MnO1TJXZ01GygCXiZKLNU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 109747,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 156715,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 156715,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
       },
@@ -991,6 +991,26 @@
       "duration_ms": 148153,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obolo",
+        "url": "https://open.spotify.com/album/75lVo6dQYwfbtnOyOEEDS6"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 180140,
+      "name": "Obolo",
+      "url": "https://open.spotify.com/track/7xzMZiEAKFepQuGAPWI36d"
     },
     {
       "added_at": null,
@@ -1027,26 +1047,6 @@
       "duration_ms": 173149,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obolo",
-        "url": "https://open.spotify.com/album/75lVo6dQYwfbtnOyOEEDS6"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 180140,
-      "name": "Obolo",
-      "url": "https://open.spotify.com/track/7xzMZiEAKFepQuGAPWI36d"
     }
   ],
   "unique_name": "This Is Mr Eazi",

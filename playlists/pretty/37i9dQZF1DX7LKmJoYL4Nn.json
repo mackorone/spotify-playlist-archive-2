@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63473,
+  "num_followers": 63470,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
-        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
-      },
-      "artists": [
-        {
-          "name": "TearS",
-          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 280665,
-      "name": "\u30bb\u30c4\u30caDrops",
-      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 218159,
       "name": "SAKE OF LOVE",
       "url": "https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
+        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
+      },
+      "artists": [
+        {
+          "name": "TearS",
+          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 280665,
+      "name": "\u30bb\u30c4\u30caDrops",
+      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
-        "name": "Mellow Addiction (Short ver.)",
-        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 134100,
-      "name": "Mellow Addiction - Short ver.",
-      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
         "name": "\u6d41\u661f\u968a\u300cWILDLAND SURVIVOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/6UIrDDImQK1LXEhAvIkD8s"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 211956,
       "name": "WILDLAND SURVIVOR",
       "url": "https://open.spotify.com/track/2cGM68GNqjGdUQDGlzuYuD"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
+        "name": "Mellow Addiction (Short ver.)",
+        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 134100,
+      "name": "Mellow Addiction - Short ver.",
+      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
+      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "\u4f0f\u898b \u5f13\u5f26\u300cESCAPE\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
         "url": "https://open.spotify.com/album/1IK366qtRlSNECsDHqy94o"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 200000,
       "name": "\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661",
       "url": "https://open.spotify.com/track/60mvU2t9ThXv5bSlVugniv"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
-      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -1575,6 +1575,38 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/7qBy7Y8N9KcQ8DDbwtezqM"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "\u7425\u73c0\u30c8\u7460\u7483\u30ce\u8f2a\u821e\u66f2",
+      "url": "https://open.spotify.com/track/46H4MGC13XEQoI3Pibz2wG"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)\u3001\u4ec1\u514e\u306a\u305a\u306a(CV.\u7c73\u5185\u4f51\u5e0c)",
+          "url": "https://open.spotify.com/artist/4HzGqYlLXDoEFKbsQWEoPR"
+        }
+      ],
+      "duration_ms": 248053,
+      "name": "\u8056\u5c11\u5e74\u904a\u622f",
+      "url": "https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
         "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
@@ -1603,38 +1635,6 @@
       "duration_ms": 287960,
       "name": "Or the Beautiful Golden Drop",
       "url": "https://open.spotify.com/track/038kcqHnauJTkXHPXIVHGf"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Trickstar",
-        "url": "https://open.spotify.com/album/0KVxcYIee4ypG2hmdFCPxH"
-      },
-      "artists": [
-        {
-          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
-          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Rebellion Star - ALBUM Mix",
-      "url": "https://open.spotify.com/track/1txJMhLduXr8YvdXfuszxe"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u7d05\u6708",
-        "url": "https://open.spotify.com/album/2n2oBQlnhZm1CSS2SUp2SY"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708/\u84ee\u5df3\u656c\u4eba(CV.\u6885\u539f\u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u795e\u5d0e\u98af\u99ac(CV.\u795e\u6c38\u572d\u4f51)",
-          "url": "https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "\u60f3\u3072\u51fa\u7db4\u308a",
-      "url": "https://open.spotify.com/track/6BQdFfLJfOg98p3EVAsUIS"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

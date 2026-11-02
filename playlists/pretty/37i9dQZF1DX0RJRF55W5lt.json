@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 693868,
+  "num_followers": 693883,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
-        "name": "It's the Way '99",
-        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
-      },
-      "artists": [
-        {
-          "name": "Future Underground Nation",
-          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
-        }
-      ],
-      "duration_ms": 303606,
-      "name": "It's the Way '99",
-      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
-    },
-    {
-      "added_at": "2026-03-11 09:40:56",
-      "album": {
         "name": "R U Sleeping",
         "url": "https://open.spotify.com/album/2nRTDFUgW236bepQTOA5ST"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 304360,
       "name": "R U Sleeping - Bump 'N' Flex Remix",
       "url": "https://open.spotify.com/track/1iNeRmlqIPPcxyCAuCOi3m"
+    },
+    {
+      "added_at": "2026-03-11 09:40:56",
+      "album": {
+        "name": "It's the Way '99",
+        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
+      },
+      "artists": [
+        {
+          "name": "Future Underground Nation",
+          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
+        }
+      ],
+      "duration_ms": 303606,
+      "name": "It's the Way '99",
+      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
     },
     {
       "added_at": "2026-03-11 09:40:56",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
+        "name": "Rip Groove",
+        "url": "https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v"
+      },
+      "artists": [
+        {
+          "name": "Double 99",
+          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "RIP Groove - Radio Edit",
+      "url": "https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ"
+    },
+    {
+      "added_at": "2026-03-11 09:40:56",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
-        "name": "Rip Groove",
-        "url": "https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v"
-      },
-      "artists": [
-        {
-          "name": "Double 99",
-          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "RIP Groove - Radio Edit",
-      "url": "https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ"
-    },
-    {
-      "added_at": "2026-03-11 09:40:56",
-      "album": {
         "name": "Becoming Remixed",
         "url": "https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
+        "name": "PAY CLOSE ATTENTION: XL Recordings",
+        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
+      },
+      "artists": [
+        {
+          "name": "NuBirth",
+          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
+        }
+      ],
+      "duration_ms": 320156,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
+    },
+    {
+      "added_at": "2026-03-11 09:40:56",
+      "album": {
         "name": "Unleash The Dragon (UK COMM EXTRA TRACKS)",
         "url": "https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 334240,
       "name": "Thong Song - Artful Dodger Remix",
       "url": "https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm"
-    },
-    {
-      "added_at": "2026-03-11 09:40:56",
-      "album": {
-        "name": "Shut The Door",
-        "url": "https://open.spotify.com/album/5oWUNXF1v39yYcVWbb5GDy"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 438173,
-      "name": "Shut The Door",
-      "url": "https://open.spotify.com/track/6grf2vEapt8Fq61RuZQtS2"
     }
   ],
   "unique_name": "UK Garage Classics",

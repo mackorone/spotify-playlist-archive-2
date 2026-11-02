@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 O Tortuga
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,508 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,474 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Calienta que sales](https://open.spotify.com/track/7xR6RpEyG66VqT4TfJjCe4) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Calienta que sales](https://open.spotify.com/album/0d6aODNJfbaNZ0odNMcb34) | 3:49 |
 | 49 | [ESTO NO AVANZA](https://open.spotify.com/track/6r4KV2V5Kbg8SjonixJBBf) | [Malta Caramelo](https://open.spotify.com/artist/4nMH5OWOUdGltvRpXDydPm) | [ESTO NO AVANZA](https://open.spotify.com/album/5BOCqhYIS7mRVlFegklZT5) | 3:50 |
 
-Snapshot ID: `AAAAAA7eAfSGXR6YPfAoQTGaNRma8mjB`
+Snapshot ID: `AAAAAFMkn3y/UuPsqZ8rNm2TDWqtLmDj`

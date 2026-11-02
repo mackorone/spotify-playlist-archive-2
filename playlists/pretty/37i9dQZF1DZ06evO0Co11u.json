@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 199138,
+  "num_followers": 199147,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABr4f+PmuoOMIaBvJoY8hoa",
+  "snapshot_id": "auUvgAAAAAAJlF8jn2NpIiwQFzXyl18+",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Her Majesty's Secret Service (Original Motion Picture Soundtrack / Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Gordon Jenkins & His Orchestra",
+          "url": "https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU"
         }
       ],
-      "duration_ms": 195560,
-      "name": "We Have All The Time In The World - Remastered 2003",
-      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
+      "duration_ms": 156333,
+      "name": "Spooks",
+      "url": "https://open.spotify.com/track/5WJ0I8oaf1XYrxwVr0Fp7j"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Reunion",
-        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+        "name": "On Her Majesty's Secret Service (Original Motion Picture Soundtrack / Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 303173,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
+      "duration_ms": 195560,
+      "name": "We Have All The Time In The World - Remastered 2003",
+      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
       "artists": [
         {
@@ -372,13 +372,13 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 163106,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
+      "duration_ms": 303173,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo In Style (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
@@ -412,13 +412,13 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Gordon Jenkins & His Orchestra",
-          "url": "https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Spooks",
-      "url": "https://open.spotify.com/track/5WJ0I8oaf1XYrxwVr0Fp7j"
+      "duration_ms": 163106,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
     },
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+      "duration_ms": 244373,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Without Intro",
+      "url": "https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highlights From His Decca Years",
-        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 244373,
-      "name": "When You're Smiling (The Whole World Smiles With You) - Without Intro",
-      "url": "https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU"
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
+        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "The Skeleton In The Closet - Single Version",
+      "url": "https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
-        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "I'm In The Mood For Love - Single Version",
-      "url": "https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louis Under The Stars",
         "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 256026,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
+        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "I'm In The Mood For Love - Single Version",
+      "url": "https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO"
     },
     {
       "added_at": null,
@@ -627,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "A Fine Romance",
-      "url": "https://open.spotify.com/track/0s0AGaTAOfQnvmGKq54oUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
-        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
       "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 191200,
-      "name": "The Skeleton In The Closet - Single Version",
-      "url": "https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU"
+      "duration_ms": 234986,
+      "name": "A Fine Romance",
+      "url": "https://open.spotify.com/track/0s0AGaTAOfQnvmGKq54oUR"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
-        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of The Decca Years Volume One: The Singer",
         "url": "https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 350493,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/138Kyvy2Zuafe3gt7fyaD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
+        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 119026,
       "name": "Give Me Your Kisses",
       "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 133266,
+      "name": "I Still Get Jealous",
+      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
     },
     {
       "added_at": null,
@@ -863,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+        "name": "The Decca Singles 1935-1946",
+        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
       },
       "artists": [
         {
@@ -872,25 +904,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 133266,
-      "name": "I Still Get Jealous",
-      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
+      "duration_ms": 173983,
+      "name": "You've Got Me Voodoo'd",
+      "url": "https://open.spotify.com/track/3VoSQFhvFR9m45GYZSOoql"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 212426,
       "name": "Let's Do It (Let's Fall In Love)",
       "url": "https://open.spotify.com/track/3I9urFJh4tp2KKXpCa2cXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Cabaret - Single Version",
-      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

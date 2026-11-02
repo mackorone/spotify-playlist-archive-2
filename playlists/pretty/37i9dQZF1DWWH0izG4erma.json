@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 682962,
+  "num_followers": 683047,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy"
-      },
-      "artists": [
-        {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "Heavy Metal",
-      "url": "https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Whiskey Lullaby",
         "url": "https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 269594,
       "name": "Whiskey Lullaby",
       "url": "https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "Heavy Metal",
+      "url": "https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 187899,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Nobody's Nobody",
         "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 169390,
       "name": "Might As Well Be Me",
       "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 187899,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
+        "name": "Demon or Ghost (feat. Underoath)",
+        "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 215814,
+      "name": "Demon or Ghost (feat. Underoath)",
+      "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
         "name": "Found",
         "url": "https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03"
       },
@@ -1591,22 +1611,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -1619,6 +1623,22 @@
       "duration_ms": 183573,
       "name": "Hate My Heart",
       "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1639,26 +1659,6 @@
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
-        "name": "Demon or Ghost (feat. Underoath)",
-        "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 215814,
-      "name": "Demon or Ghost (feat. Underoath)",
-      "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
     },
     {
       "added_at": "2026-10-16 04:01:41",

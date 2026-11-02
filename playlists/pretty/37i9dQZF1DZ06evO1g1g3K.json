@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 8000,
+  "num_followers": 8003,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACMIla++iYz2amoweNifhL/",
+  "snapshot_id": "auUvgAAAAACLqjwjtHuzkUOynYJec1zx",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unblocked",
         "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
       },
@@ -227,26 +227,6 @@
       "duration_ms": 315072,
       "name": "Sam\u2019s Vibe",
       "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "E-WHIZZ",
-          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
-        }
-      ],
-      "duration_ms": 317966,
-      "name": "No Business",
-      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
       "added_at": null,
@@ -267,6 +247,26 @@
       "duration_ms": 243141,
       "name": "GODSPEED!",
       "url": "https://open.spotify.com/track/13cdpEgEmq6mFazocM0oTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "E-WHIZZ",
+          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
+        }
+      ],
+      "duration_ms": 317966,
+      "name": "No Business",
+      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 270686,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
+      "duration_ms": 263893,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 263893,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH"
+      "duration_ms": 270686,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
     },
     {
       "added_at": null,
@@ -807,42 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raw In Amsterdam (Live)",
-        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
-      },
-      "artists": [
-        {
-          "name": "Philip Lassiter",
-          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 291053,
-      "name": "Bump The Man - Live",
-      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 171460,
-      "name": "Processing...",
-      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hip 2 Hip Hypnosis",
         "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
       },
@@ -863,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
       "artists": [
         {
@@ -872,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+      "duration_ms": 171460,
+      "name": "Processing...",
+      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
     },
     {
       "added_at": null,
@@ -891,6 +855,42 @@
       "duration_ms": 213000,
       "name": "Relocate",
       "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raw In Amsterdam (Live)",
+        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
+      },
+      "artists": [
+        {
+          "name": "Philip Lassiter",
+          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 291053,
+      "name": "Bump The Man - Live",
+      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
     },
     {
       "added_at": null,

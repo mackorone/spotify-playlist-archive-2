@@ -4,7 +4,7 @@
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-114 songs - 7 hr 41 min
+115 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,10 +66,11 @@
 | [Jesus I Do \(feat\. The Clark Sisters\)](https://open.spotify.com/track/0fLwKttkpqaQDqDy8JH8Ul) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:25 | 2025-10-16 | 2026-08-28 |
 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 | 2023-12-21 | 2023-12-30 |
 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 | 2023-12-13 | 2025-07-09 |
+| [Lead The Way \- 1997 Version](https://open.spotify.com/track/5Y8LAVurqLEoatxbl8K4sa) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter \(Deluxe Edition\)](https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU) | 3:52 | 2026-11-02 |  |
 | [Love Takes Time](https://open.spotify.com/track/48l7PNpT2fBoT4cdLW6EzP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:48 | 2023-07-28 |  |
 | [Loverboy \- Remix](https://open.spotify.com/track/37V9Td9HDL6GQ8SF0To3U8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1) | [Loverboy \(Remix\)](https://open.spotify.com/album/385M8ex7dAinRxjMHlY9Ph) | 4:30 | 2026-10-22 |  |
 | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 | 2024-05-24 |  |
-| [Make It Happen](https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:08 | 2023-08-01 |  |
+| [Make It Happen](https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:08 | 2023-08-01 | 2026-11-02 |
 | [Melt Away](https://open.spotify.com/track/7c010UJj6NGc5QcM8EaIt3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:40 | 2023-07-28 | 2026-08-28 |
 | [Mi](https://open.spotify.com/track/5JB0ErYyuREMMEGLyUjXih) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 2:49 | 2025-09-28 | 2026-02-11 |
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 | 2023-12-21 | 2023-12-30 |

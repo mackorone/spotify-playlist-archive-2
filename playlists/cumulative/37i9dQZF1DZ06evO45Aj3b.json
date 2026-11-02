@@ -254,10 +254,28 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 228872,
       "name": "CAMERAS",
       "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj"
+    },
+    {
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116887,
+      "name": "CASTING CALL",
+      "url": "https://open.spotify.com/track/3El0PldZjIxF1olHHzhUxW"
     },
     {
       "album": {
@@ -390,6 +408,28 @@
       "duration_ms": 76480,
       "name": "Dominic\u2019s Interlude",
       "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"
+    },
+    {
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207477,
+      "name": "DOOMSDAY",
+      "url": "https://open.spotify.com/track/0e2FMZYYu3RxZ5P7hXPffE"
     },
     {
       "album": {
@@ -550,7 +590,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
@@ -630,10 +670,32 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 160000,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/2effyyZIgucTZ3T3DP6PSy"
+    },
+    {
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133656,
+      "name": "HONEYLOVE",
+      "url": "https://open.spotify.com/track/3uQ8p120IPeO2n0h36IAcY"
     },
     {
       "album": {
@@ -692,6 +754,24 @@
       "duration_ms": 194360,
       "name": "King of Everything",
       "url": "https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM"
+    },
+    {
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131263,
+      "name": "LILY WAS A CAVALIER",
+      "url": "https://open.spotify.com/track/5ZzoyYAFQr3L0IBQTovBjy"
     },
     {
       "album": {
@@ -1007,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157349,
+      "name": "RENO",
+      "url": "https://open.spotify.com/track/65CWvURRoOpaCZbuwaV4ZA"
+    },
+    {
+      "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
@@ -1022,7 +1124,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
@@ -1163,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124676,
+      "name": "SQUEEZE",
+      "url": "https://open.spotify.com/track/2xW7bASREYFI9hnoOtuKEv"
+    },
+    {
+      "album": {
         "name": "Will You Be My Yellow?",
         "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
       },
@@ -1178,7 +1298,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 173349,
       "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
@@ -1236,7 +1356,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 164282,
       "name": "THICKRICK",
       "url": "https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe"

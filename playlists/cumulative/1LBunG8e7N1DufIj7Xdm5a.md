@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,959 songs - 11 day 5 hr 27 min
+4,961 songs - 11 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [A.H.](https://open.spotify.com/track/49bXoanUD0uc3yF5hzNrHu) | [Barry e i Karamazov](https://open.spotify.com/artist/3hkhNa83beEx0H2lCugIsz) | [A.H.](https://open.spotify.com/album/61xgn8lmlFYm2NJV0laJ8x) | 3:03 | 2025-07-16 |  |
 | [Ababulali](https://open.spotify.com/track/4qmTY8yaMYQpZW1byhywWV) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 3:13 | 2025-05-16 |  |
 | [Abandonar](https://open.spotify.com/track/0zp5BIm0YqLEnhSi3nlWRe) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 2:59 | 2026-03-15 |  |
+| [ABOLISH ICE](https://open.spotify.com/track/0T81lv1iTVLqkh8URk1agd) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [ABOLISH ICE](https://open.spotify.com/album/4pjn1EgCN3CjAgQvCbJkp7) | 4:41 | 2026-11-01 |  |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-09-18 |  |
 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 | 2025-05-09 |  |
 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 | 2025-04-28 |  |
@@ -4952,6 +4953,7 @@
 | [בין הנהר לים](https://open.spotify.com/track/4KGy1j3MBsSoQHm3iihIGd) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 2:58 | 2025-08-14 |  |
 | [דיבור חדש](https://open.spotify.com/track/10b8wbWrQx7T5BgQb4AEHZ) | [ליעוז בלסיאנו](https://open.spotify.com/artist/5gdRakXIjx0ha2hkoCap6X) | [דיבור חדש](https://open.spotify.com/album/4ZpMwe0bHnFwDFHG1NnBtW) | 3:38 | 2025-03-30 |  |
 | [さよならの未来](https://open.spotify.com/track/4PoXSOjk9cljdE5IQQOxxi) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [さよならの未来](https://open.spotify.com/album/1MKezfwB56g6N6FNfr9Quu) | 4:22 | 2026-04-22 |  |
+| [オルゴールの思い出 \(feat\. 音街ウナ\)](https://open.spotify.com/track/56XOzEphO8uyqKSg7e2hmT) | [Miya.P](https://open.spotify.com/artist/4o81xCtpNAHmWhgFdRSC9z), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [オルゴールの思い出 \(feat\. 音街ウナ\)](https://open.spotify.com/album/3pU5W6RyX6rZSUAfOtwzds) | 3:23 | 2026-11-01 |  |
 | [オーディション \(Ōdishon\) \- 0010X0010 Remix](https://open.spotify.com/track/6bHkkIpashgTbNLrpOJuYW) | [T3TSUO 303](https://open.spotify.com/artist/3tDjB3EiKBVJstrBRbPOcM), [0010X0010](https://open.spotify.com/artist/0pTo5cRm485csNS6ouaTqh) | [オーディション \(Ōdishon\)](https://open.spotify.com/album/4SOcUEcGqpEeoyWPA5z9GH) | 6:04 | 2025-12-04 |  |
 | [ニューゲーム](https://open.spotify.com/track/7Hm3MMrFNVX0poMgXtlk4m) | [FUMITO](https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK) | [ニューゲーム](https://open.spotify.com/album/6ELX92IjpWHbwsfYt0KLo0) | 3:43 | 2026-09-24 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-26 |  |

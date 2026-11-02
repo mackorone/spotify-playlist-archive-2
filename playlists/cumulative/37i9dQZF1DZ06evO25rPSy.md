@@ -4,7 +4,7 @@
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 48 min
+71 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Esa Sí Es una Mujer](https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [No Me Acuerdo Quién Fui](https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF) | 3:51 | 2023-08-25 | 2026-01-21 |
 | [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 | 2023-08-25 | 2025-11-26 |
 | [Globo de Gas](https://open.spotify.com/track/50Fne0saOe26pnm0waxN4r) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:08 | 2023-08-25 |  |
-| [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 | 2023-08-25 |  |
+| [Hay un Modo](https://open.spotify.com/track/2txYL7Jy24r4COOii8IyZn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [30 Grandes Canciones](https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I) | 3:35 | 2026-11-02 |  |
+| [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 | 2023-08-25 | 2026-11-02 |
 | [Hoy Me Llenaré de Valor \(Tema de Tereso\)](https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:13 | 2023-08-25 | 2025-11-26 |
 | [Jugamos Todos](https://open.spotify.com/track/3d8lK0ApW7hmXu69QTnvu8) | [Pedro Suárez\-Vértiz®La Banda](https://open.spotify.com/artist/45pJt17HgV2POVNeNN725L), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Jugamos Todos](https://open.spotify.com/album/3FYY7mzDQ0V2cUXeCySlyk) | 4:23 | 2023-08-25 | 2025-12-02 |
 | [La Española](https://open.spotify.com/track/5eBYOK11r072v8FSQGDpq9) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 4:03 | 2023-08-25 | 2025-02-10 |

@@ -104,7 +104,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 233434,
       "name": "+-0",
       "url": "https://open.spotify.com/track/1MWkXV0BeBUXYiqAKfPAdF"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 185864,
       "name": "3310",
       "url": "https://open.spotify.com/track/43wnP0RoRATzj9NhBObKtp"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 241306,
       "name": "Aamuisin",
       "url": "https://open.spotify.com/track/1tquYbd0SeJEI0cEyMC4S7"
@@ -12048,7 +12048,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 163866,
       "name": "En ole terapeutti, mutta voin kuunnella (feat. Ida Paul)",
       "url": "https://open.spotify.com/track/5VAsyawAir1oMpDVXhkoAg"
@@ -15329,6 +15329,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -17648,7 +17666,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 182142,
       "name": "Herranjestas",
       "url": "https://open.spotify.com/track/5nGPkNPbq3uzgh7cF2TvKd"
@@ -20862,7 +20880,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 174453,
       "name": "Ik\u00e4v\u00e4, kyll\u00e4",
       "url": "https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv"
@@ -22214,7 +22232,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 216773,
       "name": "Join Me - Razorblade Mix",
       "url": "https://open.spotify.com/track/0d510tdfPL5wEdjUDe9CjH"
@@ -22232,7 +22250,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 216744,
       "name": "Join Me In Death",
       "url": "https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS"
@@ -40592,7 +40610,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -42866,7 +42884,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 160343,
       "name": "Onneks",
       "url": "https://open.spotify.com/track/0V4UHvcAjBu1kaYbIETEVP"
@@ -45812,6 +45830,24 @@
       "duration_ms": 208153,
       "name": "Pienii fiiliksii (feat. Pate Mustaj\u00e4rvi)",
       "url": "https://open.spotify.com/track/2gGddHXRg6XgZsz45sobH9"
+    },
+    {
+      "album": {
+        "name": "J\u00e4ttil\u00e4inen",
+        "url": "https://open.spotify.com/album/1CLUSh4BQX7clLVkF5CbLx"
+      },
+      "artists": [
+        {
+          "name": "Zen Cafe",
+          "url": "https://open.spotify.com/artist/13l03qv7mpBV432l5t8fpq"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262440,
+      "name": "Piha ilman sadettajaa",
+      "url": "https://open.spotify.com/track/56GoBnU8VlEQxD7CX86NHA"
     },
     {
       "album": {
@@ -54337,6 +54373,24 @@
     },
     {
       "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "album": {
         "name": "Sports car",
         "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
       },
@@ -59259,6 +59313,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358807,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -60170,7 +60242,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 187900,
       "name": "TOP TIER",
       "url": "https://open.spotify.com/track/6sEMr6wCHGQcXdEuy2O8yQ"
@@ -64118,7 +64190,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 256842,
       "name": "vampyyri",
       "url": "https://open.spotify.com/track/7iKr33nyPEFGu61WgtHJFN"

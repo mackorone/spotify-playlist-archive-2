@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 386480,
+  "num_followers": 386494,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADageeaLLVdVNOia4uih8Rl",
+  "snapshot_id": "auUvgAAAAAAjtbhr8IOgKLAGf7XX8z8z",
   "tracks": [
     {
       "added_at": null,
@@ -202,15 +202,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 198466,
-      "name": "D\u00edas Tristes",
-      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
+      "duration_ms": 182129,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/1Z28QAPlOTpySPJMhXZPEj"
     },
     {
       "added_at": null,
@@ -282,11 +278,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 182129,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/1Z28QAPlOTpySPJMhXZPEj"
+      "duration_ms": 198466,
+      "name": "D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "\u00bfQu\u00e9 Pasa?",
-      "url": "https://open.spotify.com/track/15YOpXrOUn6BuWiMPhJ6Ki"
     }
   ],
   "unique_name": "This Is Kenia Os",

@@ -24,6 +24,28 @@
     {
       "album": {
         "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171172,
+      "name": "8 (feat. FLO) - Remix",
+      "url": "https://open.spotify.com/track/4T9f5Btf2PvDm5DT25VHTO"
+    },
+    {
+      "album": {
+        "name": "While We Wait 2",
         "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
       "artists": [

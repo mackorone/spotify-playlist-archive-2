@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von AYLIVA, Ikkimel, ZAH1DE, Nico Santos, Gracie Abrams, Gunna & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,966 likes - 82 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,876 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

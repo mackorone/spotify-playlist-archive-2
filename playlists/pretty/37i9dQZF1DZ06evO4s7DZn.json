@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACie++r/EqMFkG/eJwCPe+D",
+  "snapshot_id": "auUvgAAAAADsfEuS8vPywuizZ5psU6Ny",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 201108,
-      "name": "Mil Cartas",
-      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
       },
       "artists": [
         {
@@ -84,9 +68,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 135012,
-      "name": "La Carcachita",
-      "url": "https://open.spotify.com/track/1c27a82906o3Vuy6gdDJzC"
+      "duration_ms": 179306,
+      "name": "Ay Maria",
+      "url": "https://open.spotify.com/track/2EjRkKev6LrPKpFJ3YCBmt"
     },
     {
       "added_at": null,
@@ -123,54 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Ay Maria",
-      "url": "https://open.spotify.com/track/2EjRkKev6LrPKpFJ3YCBmt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 211406,
-      "name": "Mi \u00daltima Parranda",
-      "url": "https://open.spotify.com/track/3FCdny607s4cotns5zJ5SE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 157680,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Carne Y Hueso",
         "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
@@ -203,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 189022,
-      "name": "Hasta La Miel Amarga",
-      "url": "https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas Del Corazon",
         "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
@@ -228,25 +148,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 225746,
-      "name": "Signo Libra",
-      "url": "https://open.spotify.com/track/51cv7tedxwQxahmV9Pux21"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 248057,
-      "name": "Que Le Vaya Bien",
-      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
+      "duration_ms": 157680,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
     },
     {
       "added_at": null,
@@ -267,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -276,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 141026,
-      "name": "Para Qu\u00e9 Volviste",
-      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
+      "duration_ms": 248057,
+      "name": "Que Le Vaya Bien",
+      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
     },
     {
       "added_at": null,
@@ -299,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
       "artists": [
         {
@@ -308,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 156013,
-      "name": "La Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
+      "duration_ms": 225746,
+      "name": "Signo Libra",
+      "url": "https://open.spotify.com/track/51cv7tedxwQxahmV9Pux21"
     },
     {
       "added_at": null,
@@ -331,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -340,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 171003,
-      "name": "Prendido A Un Sentimiento",
-      "url": "https://open.spotify.com/track/0yqxtxTyNSvhx4P8klBWw0"
+      "duration_ms": 156013,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
     },
     {
       "added_at": null,
@@ -367,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cari\u00f1o Donde Andaras",
-        "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 301578,
-      "name": "Yo Te Amo",
-      "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga En Vivo! , Vol.1",
         "url": "https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS"
       },
@@ -399,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Pico Rivera!",
-        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
+        "name": "Cari\u00f1o Donde Andaras",
+        "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
       },
       "artists": [
         {
@@ -408,9 +296,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 221006,
-      "name": "Una Noche de Banda - En Vivo",
-      "url": "https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1"
+      "duration_ms": 301578,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
     },
     {
       "added_at": null,
@@ -427,6 +315,22 @@
       "duration_ms": 208773,
       "name": "Algo Sin Igual",
       "url": "https://open.spotify.com/track/3VTUzbM88BmRgRPOP13xl1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Pico Rivera!",
+        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 221006,
+      "name": "Una Noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1"
     },
     {
       "added_at": null,
@@ -463,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 186546,
-      "name": "Amigo Mesero",
-      "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Todav\u00eda Hay Amor",
         "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
       },
@@ -491,6 +379,22 @@
       "duration_ms": 157600,
       "name": "Y Todav\u00eda Hay Amor",
       "url": "https://open.spotify.com/track/1EYigf4rSOCEY4dxD7Wyzg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "Amigo Mesero",
+      "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
     },
     {
       "added_at": null,
@@ -527,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "No Hay Vacante",
-      "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Todav\u00eda Hay Amor",
         "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
       },
@@ -575,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "No Hay Vacante",
+      "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/66LlA9AN6tO3EdzncOu0a4"
       },
@@ -587,22 +491,6 @@
       "duration_ms": 184653,
       "name": "Mi Amor Bendito",
       "url": "https://open.spotify.com/track/6A5sDbz1D4YeCAETLz3LAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 185887,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
     },
     {
       "added_at": null,
@@ -635,6 +523,22 @@
       "duration_ms": 207640,
       "name": "Como Esos Amantes",
       "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 185887,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
     },
     {
       "added_at": null,
@@ -735,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/66LlA9AN6tO3EdzncOu0a4"
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
       "artists": [
         {
@@ -744,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 193720,
-      "name": "Para Ellas",
-      "url": "https://open.spotify.com/track/10qwmqGBPHTpm91Avg9cc2"
+      "duration_ms": 201613,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
     },
     {
       "added_at": null,
@@ -783,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/66LlA9AN6tO3EdzncOu0a4"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Para Ellas",
+      "url": "https://open.spotify.com/track/10qwmqGBPHTpm91Avg9cc2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Medias Negras",
         "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
@@ -792,9 +712,41 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 201613,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
+      "duration_ms": 196101,
+      "name": "Ya para Que",
+      "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 192470,
+      "name": "12 Rosas - En Vivo",
+      "url": "https://open.spotify.com/track/6OAliOdZELuivKrVkoHqvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Mil Cartas - En Vivo",
+      "url": "https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi"
     },
     {
       "added_at": null,
@@ -811,6 +763,22 @@
       "duration_ms": 206186,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/1nELxboSKbVpGNlHJVT4YO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Carola - En Vivo",
+      "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
     }
   ],
   "unique_name": "This Is Banda Rafaga",

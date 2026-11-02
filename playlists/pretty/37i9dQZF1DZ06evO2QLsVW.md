@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 
 > This is Papa Roach\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,583 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,623 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 | 25 | [Take Me](https://open.spotify.com/track/6Mzc0iOvIHgPiiY6M5vVoN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:26 |
 | 26 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 | 27 | [Come Around](https://open.spotify.com/track/7iscuE4OcWsuHkuTv7opfL) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:30 |
-| 28 | [No Matter What](https://open.spotify.com/track/5DooZQl3JTbKQetZqtjrDN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Time For Annihilation: On the Record & On the Road](https://open.spotify.com/album/3d50lh0NuJJwtMj8NV0Tsr) | 3:33 |
-| 29 | [Hollywood Whore](https://open.spotify.com/track/2nAUcVNxXpOTohdYdONend) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Metamorphosis](https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x) | 3:54 |
+| 28 | [Hollywood Whore](https://open.spotify.com/track/2nAUcVNxXpOTohdYdONend) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Metamorphosis](https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x) | 3:54 |
+| 29 | [Broken Home](https://open.spotify.com/track/1s4BLQm5rznGLrNZd0GlwM) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/4T1iDqGZflgQdzTPSV7mBa) | 3:42 |
 | 30 | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/track/68g8ct32bqJXl4po9cWeeD) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 2:48 |
-| 31 | [Broken Home](https://open.spotify.com/track/1s4BLQm5rznGLrNZd0GlwM) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/4T1iDqGZflgQdzTPSV7mBa) | 3:42 |
+| 31 | [No Matter What](https://open.spotify.com/track/5DooZQl3JTbKQetZqtjrDN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Time For Annihilation: On the Record & On the Road](https://open.spotify.com/album/3d50lh0NuJJwtMj8NV0Tsr) | 3:33 |
 | 32 | [Periscope](https://open.spotify.com/track/0G8dkRDUB88Z4RruXPvqoc) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/5RxLd756Vagaq1aso8uqWc) | 3:36 |
 | 33 | [Give Me Back My Life](https://open.spotify.com/track/4RNA9mpIOnnCX3cLIkMbiu) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/6x5bHblLrGWaQlH6xLB38V) | 3:58 |
 | 34 | [Not Listening](https://open.spotify.com/track/5PLPeX9yiG1ZE97IvdDD3o) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:09 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 | 41 | [Where Did The Angels Go](https://open.spotify.com/track/524jdyXjPOASIEezD1QXXu) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/6x5bHblLrGWaQlH6xLB38V) | 3:10 |
 | 42 | [Kick In The Teeth](https://open.spotify.com/track/5sMlJASQgm0hgJSY4oWoI3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Time For Annihilation: On the Record & On the Road](https://open.spotify.com/album/3d50lh0NuJJwtMj8NV0Tsr) | 3:11 |
 | 43 | [Lifeline](https://open.spotify.com/track/04hf4vWXR2ObRoxz9FR4a4) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Metamorphosis](https://open.spotify.com/album/24LFCYvhIN7abbS12Ijg9x) | 4:17 |
-| 44 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/15kMBHLBO0WeQJmnuSWJYN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:18 |
-| 45 | [Warriors](https://open.spotify.com/track/6GguMeyxT0Os3GwcEcF6qA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 2:55 |
+| 44 | [Warriors](https://open.spotify.com/track/6GguMeyxT0Os3GwcEcF6qA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 2:55 |
+| 45 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/15kMBHLBO0WeQJmnuSWJYN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:18 |
 | 46 | [Infest](https://open.spotify.com/track/0ijEkXhF6IVN4qUjDkciTm) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 4:09 |
 | 47 | [Before I Die](https://open.spotify.com/track/4SILwHAUf4ERYgJmrySHNi) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/6x5bHblLrGWaQlH6xLB38V) | 4:25 |
 | 48 | [Elevate](https://open.spotify.com/track/7eqTIIO0CB21bY0Born2hw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:10 |
 | 49 | [Time And Time Again](https://open.spotify.com/track/2OAOAtuDWWfzhbgdkZ24sw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [lovehatetragedy](https://open.spotify.com/album/2bsemtYlVfVAQODavrDkS4) | 2:58 |
 | 50 | [Dying To Believe](https://open.spotify.com/track/1ZjwhGQSDINyRhYHjK1JQq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:01 |
 
-Snapshot ID: `auKMgAAAAABu/OKIlfkhyUOH55p3LW8p`
+Snapshot ID: `auUvgAAAAADw/pOlgZm30MzLy7FePzlq`

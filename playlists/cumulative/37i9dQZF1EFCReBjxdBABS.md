@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 7 hr 28 min
+138 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 | 2026-01-14 |  |
 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 | 2026-01-14 |  |
 | [Helluva Heart](https://open.spotify.com/track/3ZEtnekE1q1auJnZFJvAhs) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:19 | 2026-01-14 |  |
+| [Here Lately](https://open.spotify.com/track/5RdcWfiZCoN0YZFlITTGtS) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Here Lately](https://open.spotify.com/album/2oVkHrFtXjBUhtRgdGJXwG) | 2:39 | 2026-11-01 |  |
 | [Hungover in a Deer Stand](https://open.spotify.com/track/1gY1sOB3Vuq51B08iHQ761) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:30 | 2026-01-14 |  |
 | [I Can't Unlove You](https://open.spotify.com/track/5VvnMbz2nEBCsuQN85PmXT) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [I Can't Unlove You](https://open.spotify.com/album/45EiBixBQWJo3RlSuBcDSY) | 3:16 | 2026-01-14 |  |
 | [I Needed Christmas](https://open.spotify.com/track/0sw6GV1pKByCL0aP13IX4M) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [I Needed Christmas](https://open.spotify.com/album/74baR9ja7gPe3XNEmX25CR) | 3:39 | 2026-02-12 |  |

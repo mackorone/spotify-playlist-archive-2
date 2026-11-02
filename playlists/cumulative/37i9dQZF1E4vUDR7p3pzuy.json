@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, JUST LIZZY, post-punk'er and more",
+  "description": "With NUDNIK, DIE DIE BE, Rue Oberkampf and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 180618,
       "name": "After me",
       "url": "https://open.spotify.com/track/1bNrXATqj2VezekYuWtQWH"
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 159000,
       "name": "backyard.",
       "url": "https://open.spotify.com/track/6FcmUDURLQLWGWFdDThmte"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -3477,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Capsule",
+        "url": "https://open.spotify.com/album/6nWVjmYmbxzmSIW8zNvlQK"
+      },
+      "artists": [
+        {
+          "name": "Tic Tic",
+          "url": "https://open.spotify.com/artist/2mx5rah5ECeVjCCOza4fpk"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308440,
+      "name": "Capsule",
+      "url": "https://open.spotify.com/track/11HZLz069zPopWFCU6Nhpa"
+    },
+    {
+      "album": {
         "name": "Casa Roso",
         "url": "https://open.spotify.com/album/0ry2RbU1naSAJlmU2n2xkn"
       },
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 234881,
       "name": "Drive Me Far",
       "url": "https://open.spotify.com/track/3xITmk4oLCcSV2iOWmEXHy"
@@ -6464,7 +6482,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 239034,
       "name": "Dropping Leaves, Setting Sun",
       "url": "https://open.spotify.com/track/2dunnpZTQHMv63nKGjqHkt"
@@ -6612,6 +6630,24 @@
       "duration_ms": 257500,
       "name": "Echo's Outside of Time",
       "url": "https://open.spotify.com/track/6UInzIvjUXTJRy8vQFXxfC"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3oSYoSZAzKiYGQe7K2tTpv"
+      },
+      "artists": [
+        {
+          "name": "Black Doldrums",
+          "url": "https://open.spotify.com/artist/3yAYb9TSBzWkEIVKN0Wybb"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255257,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6scsKOnyU1lcOje6FJiVHt"
     },
     {
       "album": {
@@ -8634,7 +8670,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "Gazing Back",
       "url": "https://open.spotify.com/track/0wLwXaiQfTdsbToiIU3kso"
@@ -9210,7 +9246,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 152706,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/6PxlE8rSywCxfviSU57dQv"
@@ -10586,7 +10622,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 212343,
       "name": "I WALK AROUND ON HALLOWEEN (LOOKING FOR YOUR GHOST) - Radio Edit",
       "url": "https://open.spotify.com/track/0CEPIXPoBemKxIJv6Hhwcl"
@@ -13610,7 +13646,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 345230,
       "name": "Luvurgurl",
       "url": "https://open.spotify.com/track/05EXjL88NiXSOedFEWhBka"
@@ -15011,6 +15047,24 @@
     },
     {
       "album": {
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/1kFa7raJJcDN9IcWQ67GAK"
+      },
+      "artists": [
+        {
+          "name": "Peak Flow",
+          "url": "https://open.spotify.com/artist/719mptM9QMzyu20MGhMU3Y"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192896,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/3OpXg3H2hkDUxllLNHqCze"
+    },
+    {
+      "album": {
         "name": "never enough",
         "url": "https://open.spotify.com/album/3l2kOXJWFJbaoQEZq7x0Ba"
       },
@@ -15416,7 +15470,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 294545,
       "name": "NOTHING LEFT",
       "url": "https://open.spotify.com/track/7FgjZWcUprWKPs17zovab2"
@@ -16990,7 +17044,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -18271,6 +18325,24 @@
     },
     {
       "album": {
+        "name": "Shadow Aspect",
+        "url": "https://open.spotify.com/album/6PAc1xARYh5Ga0qbcVOWkz"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Letters",
+          "url": "https://open.spotify.com/artist/170VD9KlR4FyXgVvUfAvD4"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Shadow Aspect",
+      "url": "https://open.spotify.com/track/0j9FLQ7SQFZPaKbo44J17s"
+    },
+    {
+      "album": {
         "name": "you can have it, i don\u2019t want it no more",
         "url": "https://open.spotify.com/album/6Yxblo6AxNfg35koGtUaAX"
       },
@@ -18282,7 +18354,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 243565,
       "name": "shadow boxing",
       "url": "https://open.spotify.com/track/5sM2p9eZCSkiu2hFLLZH5W"
@@ -18520,7 +18592,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 197824,
       "name": "Sharehouse Blues",
       "url": "https://open.spotify.com/track/4AG2vjhfDzudK7KKQNLgyM"
@@ -19018,6 +19090,24 @@
       "duration_ms": 307500,
       "name": "Slave",
       "url": "https://open.spotify.com/track/5koPjIJhddd6omkAhnd4jq"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5YdpcND4NoMqTpctWCKdBy"
+      },
+      "artists": [
+        {
+          "name": "Aethereals",
+          "url": "https://open.spotify.com/artist/1GIWeDN7NIyj8cn9NwB641"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280142,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/4dfDCoMMgtBT7HnQvI8n7t"
     },
     {
       "album": {
@@ -19570,7 +19660,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 162063,
       "name": "Sou1/Spiri7",
       "url": "https://open.spotify.com/track/1QIG4U1pHWp4DU9bNFNoF8"
@@ -20372,7 +20462,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 197626,
       "name": "Suffocating",
       "url": "https://open.spotify.com/track/1MAOQ4HLZT62wDsrXsQ1tq"
@@ -23859,6 +23949,24 @@
     },
     {
       "album": {
+        "name": "Vampire Desire",
+        "url": "https://open.spotify.com/album/1Nu7D2XJaD3dqRoKQ0TRVq"
+      },
+      "artists": [
+        {
+          "name": "Lilinanna",
+          "url": "https://open.spotify.com/artist/6WREtOqRWCZYQrT5wlJBXY"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185510,
+      "name": "Vampire Desire",
+      "url": "https://open.spotify.com/track/7G4G4Dmpok1ptnbXRGSMKq"
+    },
+    {
+      "album": {
         "name": "Vanity Fair",
         "url": "https://open.spotify.com/album/5uWB6c30Yhi9nfgyQ6qFq0"
       },
@@ -24886,7 +24994,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 347000,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/15oetushp1flIyQ6ctHzVE"
@@ -25154,7 +25262,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 151876,
       "name": "where is the sign",
       "url": "https://open.spotify.com/track/0t3jA9lPbkAXrGgs6J7FYg"

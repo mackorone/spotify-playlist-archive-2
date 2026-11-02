@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1156720,
+  "num_followers": 1156947,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAqpzsnP3Z1ZqC16wHjPDvU",
+  "snapshot_id": "auUvgAAAAABcrxg734GdLN/CSOaHc5nj",
   "tracks": [
     {
       "added_at": null,
@@ -475,42 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 2)",
-        "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Segundas Partes",
-      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yakifest Vol. 4 (En Vivo)",
         "url": "https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD"
       },
@@ -531,22 +495,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
         }
       ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
+      "duration_ms": 198000,
+      "name": "Segundas Partes",
+      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 2)",
+        "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
     },
     {
       "added_at": null,
@@ -567,6 +547,26 @@
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C Y Medio",
-        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "C Y Medio",
-      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Descuide",
         "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 205624,
       "name": "Descuide",
       "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "C Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos y Secretos",
+        "url": "https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Quinto V Imperio",
+          "url": "https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+        }
+      ],
+      "duration_ms": 165836,
+      "name": "Lujos y Secretos",
+      "url": "https://open.spotify.com/track/6V9ZXuiHRGVU1sblM9LRbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ctrl + Z (En Vivo)",
         "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
       },
@@ -807,30 +831,6 @@
       "duration_ms": 192550,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos y Secretos",
-        "url": "https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Quinto V Imperio",
-          "url": "https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
-        }
-      ],
-      "duration_ms": 165836,
-      "name": "Lujos y Secretos",
-      "url": "https://open.spotify.com/track/6V9ZXuiHRGVU1sblM9LRbZ"
     },
     {
       "added_at": null,

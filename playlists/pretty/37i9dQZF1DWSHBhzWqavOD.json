@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 31817,
+  "num_followers": 31875,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -991,62 +991,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "forever be mine (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/7tWxhICLUYrxpalqEqT4kT"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "forever be mine (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/46yD4yZk5XdaLWM6WSN8cC"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "$exy Girl $ummer (Vol.1)",
-        "url": "https://open.spotify.com/album/68q09r65wcBidNleimVoLk"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Favourite Girl (with Rema)",
-      "url": "https://open.spotify.com/track/7u6T1ywvmYjg6bhSCL922T"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -1067,6 +1011,62 @@
       "duration_ms": 471428,
       "name": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "forever be mine (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/7tWxhICLUYrxpalqEqT4kT"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/46yD4yZk5XdaLWM6WSN8cC"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "$exy Girl $ummer (Vol.1)",
+        "url": "https://open.spotify.com/album/68q09r65wcBidNleimVoLk"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/7u6T1ywvmYjg6bhSCL922T"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Gangsta (Remix)",
-        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "One Acen",
-          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Jerusalema (Deluxe)",
         "url": "https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Gangsta (Remix)",
+        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -1215,26 +1215,6 @@
       "duration_ms": 225729,
       "name": "Gentility",
       "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1279,6 +1259,26 @@
       "duration_ms": 268213,
       "name": "Kiss Your Hand (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Mushin 2 Mo' Hits",
-        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "You Bad (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "B.O.A.T.S",
         "url": "https://open.spotify.com/album/4t9ZrRyO7t5Mh357L14CJh"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 339823,
       "name": "Beyonc\u00e9 Baby",
       "url": "https://open.spotify.com/track/1pTzmXKH3AgzFH8ehiOUQr"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "You Bad (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
     },
     {
       "added_at": "2026-06-30 14:51:43",

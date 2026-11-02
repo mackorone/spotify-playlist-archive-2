@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 525882,
+  "num_followers": 526016,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFKF+BfpEWiGlV7MLod+QijaVX9L",
+  "snapshot_id": "AAAAAIuKEtadjB4k+cpJOfgJpRSpxBcp",
   "tracks": [
     {
       "added_at": "2026-10-23 23:26:26",
@@ -224,8 +224,8 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Erick Rios",
-          "url": "https://open.spotify.com/artist/3t1JdFdPuRV36NhKJAaMoZ"
+          "name": "ERICK RIOS",
+          "url": "https://open.spotify.com/artist/0azo2UhDV9I6E7lr78frpL"
         }
       ],
       "duration_ms": 171984,
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2026-10-23 23:26:26",
-      "album": {
         "name": "SABOR FRESA",
         "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+    },
+    {
+      "added_at": "2026-10-23 23:26:26",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-10-23 23:26:26",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
-    },
-    {
-      "added_at": "2026-10-23 23:26:26",
-      "album": {
         "name": "111XPANTIA",
         "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 159292,
       "name": "CHAKA",
       "url": "https://open.spotify.com/track/3UZSZV80iBxSeEOpXgO4FD"
+    },
+    {
+      "added_at": "2026-10-23 23:26:26",
+      "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2026-10-23 23:26:26",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
-        "name": "Que Gacho",
-        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Que Gacho",
-      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
-    },
-    {
-      "added_at": "2026-10-23 23:26:26",
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 201322,
       "name": "On D Gas",
       "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
+    },
+    {
+      "added_at": "2026-10-23 23:26:26",
+      "album": {
+        "name": "Que Gacho",
+        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "Que Gacho",
+      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
     },
     {
       "added_at": "2026-10-23 23:26:26",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
-        "name": "LOS MENSAJES DE WHATSAPP",
-        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 199848,
-      "name": "LOS MENSAJES DE WHATSAPP",
-      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
-    },
-    {
-      "added_at": "2026-10-23 23:26:26",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2026-10-23 23:26:26",
+      "album": {
+        "name": "LOS MENSAJES DE WHATSAPP",
+        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 199848,
+      "name": "LOS MENSAJES DE WHATSAPP",
+      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
     },
     {
       "added_at": "2026-10-23 23:26:26",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
-        "name": "Aprevenido",
-        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 169402,
-      "name": "Aprevenido",
-      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
-    },
-    {
-      "added_at": "2026-10-23 23:26:26",
-      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/1CaMKKGMt4WqcNp4MBG03q"
+        "name": "Aprevenido",
+        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
       },
       "artists": [
         {
-          "name": "El Randal",
-          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 179997,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/1cp6rcjTQuMWTwpe9EiPc7"
+      "duration_ms": 169402,
+      "name": "Aprevenido",
+      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
     },
     {
       "added_at": "2026-10-23 23:26:26",
@@ -1715,6 +1699,38 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1CaMKKGMt4WqcNp4MBG03q"
+      },
+      "artists": [
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/1cp6rcjTQuMWTwpe9EiPc7"
+    },
+    {
+      "added_at": "2026-10-23 23:26:26",
+      "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-10-23 23:26:26",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": "2026-10-23 23:26:26",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2026-10-23 23:26:26",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2026-10-23 23:26:26",
       "album": {
-        "name": "CHAKA",
-        "url": "https://open.spotify.com/album/5RHNvFPGELfCyjtkrcc9uq"
-      },
-      "artists": [
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        },
-        {
-          "name": "El Randal",
-          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "CHAKA",
-      "url": "https://open.spotify.com/track/2wTWVd1YHRR5IM7pPvpUjS"
-    },
-    {
-      "added_at": "2026-10-23 23:26:26",
-      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2026-10-23 23:26:26",
+      "album": {
+        "name": "CHAKA",
+        "url": "https://open.spotify.com/album/5RHNvFPGELfCyjtkrcc9uq"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "CHAKA",
+      "url": "https://open.spotify.com/track/2wTWVd1YHRR5IM7pPvpUjS"
     },
     {
       "added_at": "2026-10-23 23:26:26",

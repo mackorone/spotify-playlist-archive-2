@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,227 likes - 236 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,228 likes - 236 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 112 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2QEHe3FQLbbXDz14YKzqU8) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [In The Dark \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/58EwvlQo4harE9P2i3bafT) | 3:05 |
 | 113 | [2step \(feat\. Quevedo\)](https://open.spotify.com/track/0YbUKWAVjJvfOvRpnvNEOz) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 114 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/0KLz5YzEQXXxEUBwtgxxM8) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 4:49 |
-| 115 | [BLIND](https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [BLIND](https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU) | 2:33 |
-| 116 | [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 |
+| 115 | [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 |
+| 116 | [BLIND](https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [BLIND](https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU) | 2:33 |
 | 117 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 |
 | 118 | [Starstruck \- OG](https://open.spotify.com/track/61u0ZxFzST17v7hkgk06VX) | [Alohomora](https://open.spotify.com/artist/36LShJFPPPGyK0yEEju96B), [novanitys](https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP) | [Starstruck \(OG\)](https://open.spotify.com/album/0YKaHzekWyhVVKQndHGJs7) | 4:20 |
 | 119 | [Comfortable \(feat\. Kranium\)](https://open.spotify.com/track/1t1xXsK199Yte7oJbE7Uoe) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 3:24 |
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 194 | [Church & State](https://open.spotify.com/track/7F9ziKa3aZSfd8Fv5aUfs7) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:18 |
 | 195 | [DARKSIDE BLUES](https://open.spotify.com/track/1r5W0EOxXAaNH91TyvhxoT) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 1:47 |
 | 196 | [Snow](https://open.spotify.com/track/16S1tKSwbeEx2SJCRgFQZ5) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:30 |
-| 197 | [E\-Ticket](https://open.spotify.com/track/5O4OhDjKIoYb6qvFwjuwfG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:18 |
-| 198 | [Back In Your Life](https://open.spotify.com/track/590rDHWNgViHdsFjXShHlP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 6:12 |
+| 197 | [Back In Your Life](https://open.spotify.com/track/590rDHWNgViHdsFjXShHlP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 6:12 |
+| 198 | [E\-Ticket](https://open.spotify.com/track/5O4OhDjKIoYb6qvFwjuwfG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:18 |
 | 199 | [Rebel Nation \(feat\. Andrew Watt\)](https://open.spotify.com/track/4iQEgWgVeYJWxeg4TaLPEL) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Wild Youth](https://open.spotify.com/album/2H4BesBBUG1SOuUdQugfLf) | 4:25 |
 | 200 | [2step \(feat\. Denise Chaila\)](https://open.spotify.com/track/5nlCMeGjtjeHkUqI43dV93) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 201 | [Mrs\. Mills](https://open.spotify.com/track/7F4MzbKH6E9ugQlNZZqvpG) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:04 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 235 | [One Night Stand \- \(Bonus Track\)](https://open.spotify.com/track/0A9ZMNesPbIXCCiaOpe2Gc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane \(Special Edition\)](https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu) | 3:15 |
 | 236 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcgcsAAAAAAaJeZP2POdXAfJP8dEEiG3`
+Snapshot ID: `AcgijAAAAADhC5A3tBqL/k3BS7LdZa+2`

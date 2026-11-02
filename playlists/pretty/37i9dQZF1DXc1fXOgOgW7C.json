@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 53813,
+  "num_followers": 53823,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Despu\u00e9s de Ver",
-        "url": "https://open.spotify.com/album/1Tr1KkQi902R047il7vFUd"
+        "name": "A Punto Caramelo",
+        "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
       },
       "artists": [
         {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
         }
       ],
-      "duration_ms": 227944,
-      "name": "Lo Que Me Mata",
-      "url": "https://open.spotify.com/track/2C6fzRAlaWOhKCOsn5a0Nk"
+      "duration_ms": 222866,
+      "name": "El Ritmo de la Vida",
+      "url": "https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA"
     }
   ],
   "unique_name": "Los 2010 Argentina",

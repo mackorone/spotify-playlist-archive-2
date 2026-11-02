@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Andersen
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,898 likes - 121 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,900 likes - 121 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

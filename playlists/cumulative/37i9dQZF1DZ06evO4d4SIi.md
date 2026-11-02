@@ -4,7 +4,7 @@
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 17 min
+84 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2023-02-08 |  |
 | [So Do I](https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:07 | 2023-05-03 |  |
 | [Son Of A Gun](https://open.spotify.com/track/2QM5kNCm26szq86xVJoauS) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:55 | 2025-08-17 |  |
+| [Steady Flame](https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Steady Flame](https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB) | 3:01 | 2026-11-02 |  |
 | [Sunday Saints](https://open.spotify.com/track/3VDENjuApDBbAO6KT4THXL) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:39 | 2023-02-20 | 2023-02-22 |
 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 | 2023-02-08 |  |
 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:27 | 2024-07-24 | 2025-08-18 |

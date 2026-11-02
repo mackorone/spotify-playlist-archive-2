@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Palak Muchhal",
-  "num_followers": 110527,
+  "num_followers": 110556,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,30 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/7fmBRUhfRUJAXWOiTCIXXf"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sonia Kapoor Reshammiya",
+          "url": "https://open.spotify.com/artist/5vvJy2gxIOIdbiMvM8lj7F"
+        }
+      ],
+      "duration_ms": 286582,
+      "name": "Jhumka Patola - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/4utW1J8xYXo0aF0sHN5b0z"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Finding Her (Female Version)",
         "url": "https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 206735,
       "name": "Finding Her (Female Version) (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
-        "url": "https://open.spotify.com/album/7fmBRUhfRUJAXWOiTCIXXf"
-      },
-      "artists": [
-        {
-          "name": "Himesh Reshammiya",
-          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Sonia Kapoor Reshammiya",
-          "url": "https://open.spotify.com/artist/5vvJy2gxIOIdbiMvM8lj7F"
-        }
-      ],
-      "duration_ms": 286582,
-      "name": "Jhumka Patola - From \"Yeh Prem Mol Liya\"",
-      "url": "https://open.spotify.com/track/4utW1J8xYXo0aF0sHN5b0z"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "LAAVAN",
-        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Mofusion",
-          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
-        }
-      ],
-      "duration_ms": 185046,
-      "name": "LAAVAN",
-      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Bairi Piya",
         "url": "https://open.spotify.com/album/2nv6BkUtcPqMBdWwloLBGO"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 236146,
       "name": "Bairi Piya",
       "url": "https://open.spotify.com/track/7J3gWwFF84eXhB6Ek4ry4N"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "LAAVAN",
+        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "duration_ms": 185046,
+      "name": "LAAVAN",
+      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -743,30 +743,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Ray",
-          "url": "https://open.spotify.com/artist/6SwbsxYcJ1zIxy1b5niCfs"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 193767,
-      "name": "Ghoom Ghoom - From \u201cMirzapur The Movie\u201d",
-      "url": "https://open.spotify.com/track/3TZ0uKl0RVbc7vAfcc1Qle"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 229218,
       "name": "Tumhare Liye (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/5giNtZnbVG9GSFJfmL1lF7"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Ray",
+          "url": "https://open.spotify.com/artist/6SwbsxYcJ1zIxy1b5niCfs"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 193767,
+      "name": "Ghoom Ghoom - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/3TZ0uKl0RVbc7vAfcc1Qle"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Mulaqatein",
-        "url": "https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ"
-      },
-      "artists": [
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        },
-        {
-          "name": "Akarsh Shetty",
-          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
-        }
-      ],
-      "duration_ms": 243851,
-      "name": "Mulaqatein",
-      "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
         "url": "https://open.spotify.com/album/4HlXMQ8upHOYvtVUoJv7sh"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 167662,
       "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
       "url": "https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Mulaqatein",
+        "url": "https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "duration_ms": 243851,
+      "name": "Mulaqatein",
+      "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Na Lage Nazar",
-        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Aditya Bisht",
-          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
-        },
-        {
-          "name": "Anurag Mishra",
-          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Na Lage Nazar",
-      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Kaise Kahoon",
         "url": "https://open.spotify.com/album/2xqBJ25q6lQiMMnSNfbzJx"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 168599,
       "name": "Kaise Kahoon",
       "url": "https://open.spotify.com/track/6qlZ1V2PSqcS7QrdJ6GpH0"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Na Lage Nazar",
+        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Na Lage Nazar",
+      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1355,6 +1355,30 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/3Dq4SEDCl3vFSOqvH7m7ik"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Sparsh Dangwal",
+          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
+        },
+        {
+          "name": "Mukul Verma",
+          "url": "https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Tum Yun Mile Ho",
         "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
       },
@@ -1379,26 +1403,22 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/3Dq4SEDCl3vFSOqvH7m7ik"
+        "name": "Jogan",
+        "url": "https://open.spotify.com/album/7agaQi6kTryQDCnTCxknJ7"
       },
       "artists": [
         {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
         },
         {
-          "name": "Sparsh Dangwal",
-          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
-        },
-        {
-          "name": "Mukul Verma",
-          "url": "https://open.spotify.com/artist/7CoPUqZrA6s6x8Iqa4eY6H"
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/5RDcDKJPV5YaNNj4C8Id12"
+      "duration_ms": 186942,
+      "name": "Gaanv",
+      "url": "https://open.spotify.com/track/7wlLtfab442Z5uV6bKM99q"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Jogan",
-        "url": "https://open.spotify.com/album/7agaQi6kTryQDCnTCxknJ7"
-      },
-      "artists": [
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Shloke Lal",
-          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
-        }
-      ],
-      "duration_ms": 186942,
-      "name": "Gaanv",
-      "url": "https://open.spotify.com/track/7wlLtfab442Z5uV6bKM99q"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Ishaare",
         "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 142173,
       "name": "Ishaare",
       "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Beparwai",
+        "url": "https://open.spotify.com/album/1BeYM2mXXPO7ZLOugJnzO8"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 160749,
+      "name": "Beparwai",
+      "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1483,6 +1499,26 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "Jiya Mora",
+        "url": "https://open.spotify.com/album/1kJagEQC1xcP69zPDgHxDb"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Jiya Mora",
+      "url": "https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Le Chal",
         "url": "https://open.spotify.com/album/2YDwbvLoFZeo8aV2X6EYhQ"
       },
@@ -1503,42 +1539,6 @@
       "duration_ms": 167663,
       "name": "Le Chal",
       "url": "https://open.spotify.com/track/1kUJWLNZMOGoYfZWXjmXra"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Beparwai",
-        "url": "https://open.spotify.com/album/1BeYM2mXXPO7ZLOugJnzO8"
-      },
-      "artists": [
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 160749,
-      "name": "Beparwai",
-      "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Jiya Mora",
-        "url": "https://open.spotify.com/album/1kJagEQC1xcP69zPDgHxDb"
-      },
-      "artists": [
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Shubham Shirule",
-          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Jiya Mora",
-      "url": "https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1707,34 +1707,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Jhoomo (From \"Don't Be Shy\")",
-        "url": "https://open.spotify.com/album/0ieS4eWlP1JGyCZNFjqyB8"
-      },
-      "artists": [
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        },
-        {
-          "name": "Devansh Vaidya",
-          "url": "https://open.spotify.com/artist/6ceevqtF0Ig1RozxJZarDJ"
-        }
-      ],
-      "duration_ms": 192037,
-      "name": "Jhoomo (From \"Don't Be Shy\")",
-      "url": "https://open.spotify.com/track/0IoR3De5p7h74bPxK3AwQS"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Saanware",
         "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
@@ -1759,6 +1731,34 @@
       "duration_ms": 214400,
       "name": "Saanware",
       "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Jhoomo (From \"Don't Be Shy\")",
+        "url": "https://open.spotify.com/album/0ieS4eWlP1JGyCZNFjqyB8"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        },
+        {
+          "name": "Devansh Vaidya",
+          "url": "https://open.spotify.com/artist/6ceevqtF0Ig1RozxJZarDJ"
+        }
+      ],
+      "duration_ms": 192037,
+      "name": "Jhoomo (From \"Don't Be Shy\")",
+      "url": "https://open.spotify.com/track/0IoR3De5p7h74bPxK3AwQS"
     }
   ],
   "unique_name": "EQUAL India",

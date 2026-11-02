@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-254 songs - 15 hr 3 min
+255 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-12-28 | 2025-04-01 |
 | [Coachella \(feat\. Kwesi Arthur\)](https://open.spotify.com/track/2MRivmDDWPs4nfu4zJKNNf) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:05 | 2025-04-01 | 2025-09-20 |
 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 | 2021-12-28 |  |
+| [Cold](https://open.spotify.com/track/37hUGd9DPyMkKrH9LC5ei0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Cold](https://open.spotify.com/album/7rDGmSgMm2VqVhnvcZP5v2) | 2:38 | 2026-11-02 |  |
 | [Come Back](https://open.spotify.com/track/4wcFfoHSRyHqpaDiN6zw4q) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Come Back](https://open.spotify.com/album/0HhNGWt104FJtcGV1DG7xA) | 3:15 | 2021-12-28 | 2022-03-17 |
 | [Confam](https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:43 | 2022-11-12 | 2024-02-13 |
 | [CONFETTI](https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 1:40 | 2024-05-26 | 2025-05-29 |
@@ -224,7 +225,7 @@
 | [Strength Of A Woman \(feat\. Stonebwoy\)](https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 3:13 | 2025-04-16 | 2026-01-27 |
 | [Strength Of A Woman \(feat\. Stonebwoy\)](https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:13 | 2021-12-28 | 2025-04-13 |
 | [Sub Zero](https://open.spotify.com/track/55z37b4GACx19xCvJezn9x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sub Zero](https://open.spotify.com/album/5djGPnowlb7n7u63XrblWp) | 3:02 | 2022-01-04 | 2022-11-25 |
-| [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 | 2025-08-31 |  |
+| [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 | 2025-08-31 | 2026-11-02 |
 | [Take My Love \(feat\. Tekno\)](https://open.spotify.com/track/7MjFK0v2TormiqNHFyXvDH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 2:54 | 2022-01-12 | 2022-09-29 |
 | [Teef Teef](https://open.spotify.com/track/675Kfnzftrr18DztlsHekL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Teef Teef](https://open.spotify.com/album/1xikDf9KeiwGCPmi2BHEVX) | 4:30 | 2022-10-12 | 2023-06-26 |
 | [The Boys](https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Boys](https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu) | 3:47 | 2025-12-14 | 2026-04-21 |

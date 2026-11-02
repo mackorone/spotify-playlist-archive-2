@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
-  "num_followers": 19467,
+  "num_followers": 19469,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "too late",
-        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
-      },
-      "artists": [
-        {
-          "name": "Juney Boy",
-          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
-        }
-      ],
-      "duration_ms": 190157,
-      "name": "too late",
-      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "SECOND PLACE SUPERSTAR",
         "url": "https://open.spotify.com/album/4QdFVBWMA7ycMozU2aFusF"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 284500,
       "name": "LAST TIME",
       "url": "https://open.spotify.com/track/7ITBO3g6NqsnQ2FnCqosD0"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+      },
+      "artists": [
+        {
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+        }
+      ],
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 213400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "Chrysalis",
         "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 209000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "In The Shade",
-        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
-      },
-      "artists": [
-        {
-          "name": "Bean Magazine",
-          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
-        }
-      ],
-      "duration_ms": 193987,
-      "name": "Don't You Die",
-      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "I Wanna Tell Somebody",
         "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2026-10-22 13:00:16",

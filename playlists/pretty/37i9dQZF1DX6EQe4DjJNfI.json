@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192197,
+  "num_followers": 192206,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -407,42 +407,6 @@
     {
       "added_at": "2026-10-16 03:01:06",
       "album": {
-        "name": "R&Belo",
-        "url": "https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Caetanoprod",
-          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
-        }
-      ],
-      "duration_ms": 195669,
-      "name": "Defeito Meu",
-      "url": "https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN"
-    },
-    {
-      "added_at": "2026-10-16 03:01:06",
-      "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 158598,
-      "name": "Tons de Marrom",
-      "url": "https://open.spotify.com/track/5FKCQSAaEO7uQAQvpk9ZXP"
-    },
-    {
-      "added_at": "2026-10-16 03:01:06",
-      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -467,6 +431,42 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": "2026-10-16 03:01:06",
+      "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 158598,
+      "name": "Tons de Marrom",
+      "url": "https://open.spotify.com/track/5FKCQSAaEO7uQAQvpk9ZXP"
+    },
+    {
+      "added_at": "2026-10-16 03:01:06",
+      "album": {
+        "name": "R&Belo",
+        "url": "https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Caetanoprod",
+          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
+        }
+      ],
+      "duration_ms": 195669,
+      "name": "Defeito Meu",
+      "url": "https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN"
     },
     {
       "added_at": "2026-10-16 03:01:06",
@@ -603,6 +603,26 @@
     {
       "added_at": "2026-10-16 03:01:06",
       "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+    },
+    {
+      "added_at": "2026-10-16 03:01:06",
+      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT"
       },
@@ -627,22 +647,18 @@
     {
       "added_at": "2026-10-16 03:01:06",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+        "name": "Ci\u00fame",
+        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
       },
       "artists": [
         {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+      "duration_ms": 200522,
+      "name": "Ci\u00fame",
+      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
     },
     {
       "added_at": "2026-10-16 03:01:06",
@@ -667,22 +683,6 @@
       "duration_ms": 158105,
       "name": "Rude",
       "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
-    },
-    {
-      "added_at": "2026-10-16 03:01:06",
-      "album": {
-        "name": "Ci\u00fame",
-        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 200522,
-      "name": "Ci\u00fame",
-      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
     },
     {
       "added_at": "2026-10-16 03:01:06",
@@ -807,30 +807,6 @@
     {
       "added_at": "2026-10-16 03:01:06",
       "album": {
-        "name": "Diz Pra Mim",
-        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Jones",
-          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
-        }
-      ],
-      "duration_ms": 199736,
-      "name": "Diz Pra Mim",
-      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
-    },
-    {
-      "added_at": "2026-10-16 03:01:06",
-      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2026-10-16 03:01:06",
+      "album": {
+        "name": "Diz Pra Mim",
+        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Jones",
+          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
+        }
+      ],
+      "duration_ms": 199736,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
     },
     {
       "added_at": "2026-10-16 03:01:06",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-10-16 03:01:06",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2026-10-16 03:01:06",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
-    },
-    {
-      "added_at": "2026-10-16 03:01:06",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-10-16 03:01:06",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-10-16 03:01:06",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2026-10-16 03:01:06",
-      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
+    },
+    {
+      "added_at": "2026-10-16 03:01:06",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2026-10-16 03:01:06",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-10-16 03:01:06",
       "album": {
-        "name": "Deixa eu Te Amar",
-        "url": "https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8"
-      },
-      "artists": [
-        {
-          "name": "Drana",
-          "url": "https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 240326,
-      "name": "Deixa Eu Te Amar",
-      "url": "https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC"
-    },
-    {
-      "added_at": "2026-10-16 03:01:06",
-      "album": {
         "name": "SKY",
         "url": "https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 245952,
       "name": "COMO ELA FAZ",
       "url": "https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9"
+    },
+    {
+      "added_at": "2026-10-16 03:01:06",
+      "album": {
+        "name": "Deixa eu Te Amar",
+        "url": "https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8"
+      },
+      "artists": [
+        {
+          "name": "Drana",
+          "url": "https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 240326,
+      "name": "Deixa Eu Te Amar",
+      "url": "https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC"
     },
     {
       "added_at": "2026-10-16 03:01:06",

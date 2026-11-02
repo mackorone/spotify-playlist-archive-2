@@ -4,7 +4,7 @@
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 27 min
+108 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Hang On](https://open.spotify.com/track/3UMdiQfcG4nNJSMDyUDYpx) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS\(X\) \(Rerecorded\)](https://open.spotify.com/album/3c2Te0BpRT0lqhPQ3fDWov) | 3:32 | 2025-09-04 | 2025-10-31 |
 | [Happy Home](https://open.spotify.com/track/1jvn8lZb2sfFQccN76MnV3) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 3:23 | 2022-10-26 | 2023-02-25 |
 | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw) | 4:55 | 2023-05-26 |  |
-| [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 | 2025-05-25 |  |
+| [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 | 2025-05-25 | 2026-11-02 |
 | [HEY CHILD](https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:28 | 2022-10-26 |  |
 | [HISTORY](https://open.spotify.com/track/0mrW7NyeWkWko7VTRu124M) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 4:17 | 2022-10-26 | 2023-12-14 |
 | [HOLD YOU DOWN](https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:17 | 2022-10-26 |  |
@@ -110,6 +110,7 @@
 | [Water \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/4IDwJJkYVZQ7GaIGjtDx0J) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Water \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/0bu5iBOXvPRMZOUGUsdA0V) | 3:13 | 2022-10-26 | 2023-02-04 |
 | [Women's Jeans](https://open.spotify.com/track/2GZVO9QH3pN8LTYJyoaix0) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:07 | 2024-04-09 | 2024-05-11 |
 | [Women's Jeans](https://open.spotify.com/track/5UFlZdTUkIMPIcprjw69KG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 3:07 | 2024-10-25 | 2024-10-26 |
+| [Y.O.T.H.](https://open.spotify.com/track/1GUBJKzZvNuZea7mnCirAe) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Y.O.T.H.](https://open.spotify.com/album/5QVdjD2cOEtSqYgAno5H6u) | 5:00 | 2026-11-02 |  |
 | [You'll Get Yours \(feat\. X Ambassadors\)](https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Atlas Underground Flood](https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6) | 3:08 | 2022-10-26 | 2025-12-11 |
 | [You'll Get Yours \(feat\. X Ambassadors\)](https://open.spotify.com/track/6OabT1njOJomxRv9qhfsz9) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Atlas Underground Flood](https://open.spotify.com/album/3JOmOhRuhZvHT2fyGzKisu) | 3:08 | 2026-02-26 | 2026-07-02 |
 | [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 | 2024-02-17 | 2024-11-03 |

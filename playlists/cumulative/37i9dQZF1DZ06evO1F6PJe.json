@@ -2463,6 +2463,48 @@
     },
     {
       "album": {
+        "name": "Everything Under The Sun",
+        "url": "https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        },
+        {
+          "name": "Sammy Hagar",
+          "url": "https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N"
+        },
+        {
+          "name": "Tommy Lee",
+          "url": "https://open.spotify.com/artist/4b9L0p4cMof32XvjwT9YrX"
+        },
+        {
+          "name": "Charlie Benante",
+          "url": "https://open.spotify.com/artist/1QBskCF2bMaiVUCeNX2bgU"
+        },
+        {
+          "name": "Brent Smith",
+          "url": "https://open.spotify.com/artist/2ZXstyqYeTwvLFsGm1khUv"
+        },
+        {
+          "name": "Zach Myers",
+          "url": "https://open.spotify.com/artist/2DEUJ3K7fD6bKYKAruR6w3"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213464,
+      "name": "Lift Somebody Up",
+      "url": "https://open.spotify.com/track/5MylX1k41bjy0Y9hSqDuRq"
+    },
+    {
+      "album": {
         "name": "Like a Prayer",
         "url": "https://open.spotify.com/album/2x7O0SauXii2wEaV01VZx4"
       },
@@ -4682,7 +4724,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 258799,
       "name": "Walk On Hot Coals (Live)",
       "url": "https://open.spotify.com/track/1BmXSXVmXCxglY5QW8ArFR"

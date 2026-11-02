@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 13046,
+  "num_followers": 13088,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Get Up (Rattle) [feat. Far East Movement]",
-        "url": "https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        }
-      ],
-      "duration_ms": 166932,
-      "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
-      "url": "https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero]",
         "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 208316,
       "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
       "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Get Up (Rattle) [feat. Far East Movement]",
+        "url": "https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        }
+      ],
+      "duration_ms": 166932,
+      "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
+      "url": "https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -527,26 +527,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 181626,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Hungry Hearts",
+        "url": "https://open.spotify.com/album/0VKyfNQ7Opq84ToOmr7JEp"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Hungry Hearts - Radio Edit",
+      "url": "https://open.spotify.com/track/2KpqVE0AuyI3gGERKuWT6r"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Until Now",
         "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 204853,
       "name": "Finale (feat. Nicholas Petricca)",
       "url": "https://open.spotify.com/track/4ATmY1hv93ehw77LrIdbEh"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "Hungry Hearts",
-        "url": "https://open.spotify.com/album/0VKyfNQ7Opq84ToOmr7JEp"
-      },
-      "artists": [
-        {
-          "name": "Nause",
-          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Hungry Hearts - Radio Edit",
-      "url": "https://open.spotify.com/track/2KpqVE0AuyI3gGERKuWT6r"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Dance Again...The Hits",
-        "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Dance Again (feat. Pitbull)",
-      "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Call Me A Spaceman",
         "url": "https://open.spotify.com/album/3kARXHLsd4qAUuTtK3jztK"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 189375,
       "name": "Call Me A Spaceman - Radio Edit",
       "url": "https://open.spotify.com/track/1UPyhGntpIx9jGJ5UVtKVS"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Dance Again (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
     },
     {
       "added_at": "2022-10-14 00:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABIYb/3RaAXfVCM/q1f/8vL",
+  "snapshot_id": "auUvgAAAAACSs+zkQ/CoFVczm2txeKYN",
   "tracks": [
     {
       "added_at": null,
@@ -239,38 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 302438,
-      "name": "Your Presence Is Heaven",
-      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parlour Worship Medley",
         "url": "https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 1832300,
       "name": "Parlour Worship Medley",
       "url": "https://open.spotify.com/track/1q3aYKfRrBtotd39lkEYzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 302438,
+      "name": "Your Presence Is Heaven",
+      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOOD and MORE",
-        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
-      },
-      "artists": [
-        {
-          "name": "Toluwanimee",
-          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 371457,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Subscribed (Live)",
         "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOOD and MORE",
+        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
+      },
+      "artists": [
+        {
+          "name": "Toluwanimee",
+          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 371457,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
     },
     {
       "added_at": null,

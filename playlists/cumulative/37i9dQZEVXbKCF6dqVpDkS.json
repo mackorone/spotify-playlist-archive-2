@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -6194,7 +6194,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -17218,7 +17218,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 143684,
       "name": "Geen Lovesong",
       "url": "https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO"
@@ -31480,7 +31480,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
@@ -31498,7 +31498,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -33946,7 +33946,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/4SNHu8Kd0AiTkwexde6eB8"
@@ -42664,7 +42664,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 160394,
       "name": "Spot aan",
       "url": "https://open.spotify.com/track/4pvlcd6a3kTnOV9W4zrvQB"
@@ -46458,6 +46458,24 @@
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358807,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
     },
     {
       "album": {
@@ -50634,7 +50652,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 188310,
       "name": "Wees Voorzichtig Met Mijn Hart",
       "url": "https://open.spotify.com/track/7gKc80RPemdMXkjvMW6bUc"
@@ -50920,7 +50938,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 174407,
       "name": "What If I Told You",
       "url": "https://open.spotify.com/track/1vyW6Xjn8fWDJaMSKGIX7U"
@@ -53686,6 +53704,24 @@
     {
       "album": {
         "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/65F8CxMAg4VUcSiHmeYqiB"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/2JYx77MXFWA5bHdssAjgvG"
+    },
+    {
+      "album": {
+        "name": "Zwoele Zomernachten",
         "url": "https://open.spotify.com/album/7E835zbKECtCXNKrKhLRVo"
       },
       "artists": [
@@ -53714,7 +53750,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 195454,
       "name": "Zwoele Zomernachten",
       "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"

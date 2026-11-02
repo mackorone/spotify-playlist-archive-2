@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 109 | [Split Personality Blues](https://open.spotify.com/track/4nI1De11kRgTRO0GGsnrVe) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [A Quiet and Harmless Living](https://open.spotify.com/album/5egJ5566L6RrYEsz1JOYvd) | 3:55 |
 | 110 | [Me Around You](https://open.spotify.com/track/1wWPKL5IyhsjaCQ2KMjD4z) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 1\)](https://open.spotify.com/album/2wVrxbonp8UA9ebuMREm4q) | 3:53 |
 | 111 | [Head To Head](https://open.spotify.com/track/6RVYfaLq4SmoNONX5irBw1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Ivory](https://open.spotify.com/album/0hdZJH49Zo6sQzdhN0Y5dQ) | 2:58 |
-| 112 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 |
-| 113 | [Meet You There](https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:31 |
+| 112 | [Meet You There](https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:31 |
+| 113 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 |
 | 114 | [I'll Lock Up](https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:11 |
 | 115 | [222](https://open.spotify.com/track/2n8sQRvylAvSM4bjE6yyw0) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:05 |
 | 116 | [When I Was](https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:55 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 190 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `Acgc2AAAAABp7NXt2YjebymNTEbXv1XS`
+Snapshot ID: `AcgieAAAAADQfS61QajIICCDHtKvbgXx`

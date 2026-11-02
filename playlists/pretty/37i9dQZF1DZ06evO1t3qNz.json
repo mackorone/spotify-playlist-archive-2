@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 62310,
+  "num_followers": 62327,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAuVE3cuiRmrZ+fgbSimHEW",
+  "snapshot_id": "auUvgAAAAAALrGc+13mZL4vXby5pZ7pr",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 147209,
+      "name": "Blue Strips",
+      "url": "https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 164678,
+      "name": "If I Died Last Night",
+      "url": "https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
       },
@@ -95,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
       "artists": [
         {
@@ -104,9 +136,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 164678,
-      "name": "If I Died Last Night",
-      "url": "https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL"
+      "duration_ms": 178472,
+      "name": "It Ain't Right",
+      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
     },
     {
       "added_at": null,
@@ -120,15 +152,15 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 147209,
-      "name": "Blue Strips",
-      "url": "https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT"
+      "duration_ms": 241291,
+      "name": "The Man That Came Back",
+      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },
       "artists": [
         {
@@ -136,9 +168,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 178472,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
+      "duration_ms": 146266,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
     },
     {
       "added_at": null,
@@ -163,38 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 241291,
-      "name": "The Man That Came Back",
-      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sip",
-        "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 172163,
-      "name": "Sip",
-      "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
+      "duration_ms": 136187,
+      "name": "I Like How I Look",
+      "url": "https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 136187,
-      "name": "I Like How I Look",
-      "url": "https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z"
+      "duration_ms": 184413,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/4yBofFU6RdztFsyffEFwIp"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 139429,
-      "name": "I'm Not There For You",
-      "url": "https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp"
+      "duration_ms": 163930,
+      "name": "Touch Me Like a Gangster",
+      "url": "https://open.spotify.com/track/5QDM1swu2rW6rLdlypy725"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+        "name": "Sip",
+        "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
       },
       "artists": [
         {
@@ -320,15 +320,15 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 163930,
-      "name": "Touch Me Like a Gangster",
-      "url": "https://open.spotify.com/track/5QDM1swu2rW6rLdlypy725"
+      "duration_ms": 172163,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
       },
       "artists": [
         {
@@ -336,45 +336,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 155983,
-      "name": "Son of a Bitch",
-      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 131824,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
+      "duration_ms": 139429,
+      "name": "I'm Not There For You",
+      "url": "https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp"
     },
     {
       "added_at": null,
@@ -395,6 +359,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 131824,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 155983,
+      "name": "Son of a Bitch",
+      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cowboys And Angels",
         "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
@@ -411,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
       "artists": [
         {
@@ -420,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 184413,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/4yBofFU6RdztFsyffEFwIp"
+      "duration_ms": 182383,
+      "name": "Bad As The Rest",
+      "url": "https://open.spotify.com/track/3RzL5fTJeqNqLwqSpKJ3xh"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
       },
       "artists": [
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 182383,
-      "name": "Bad As The Rest",
-      "url": "https://open.spotify.com/track/3RzL5fTJeqNqLwqSpKJ3xh"
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": null,

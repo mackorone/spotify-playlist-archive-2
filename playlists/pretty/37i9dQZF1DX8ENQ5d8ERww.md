@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,829 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,828 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 3 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
 | 4 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
 | 5 | [Für 1 hets Immer no glangt](https://open.spotify.com/track/7hb9E5NNeqkr60r8QxtrlR) | [Breitbild](https://open.spotify.com/artist/07h2T3RrXQzYW5YpQnXd8U) | [Legenda](https://open.spotify.com/album/6eBJisPt7283GEfYj8hKFL) | 3:43 |
-| 6 | [I de Schwiiz](https://open.spotify.com/track/0HG4ApJ5c6xTjNwIoG5rpm) | [Skor](https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt) | [Und Nachteil](https://open.spotify.com/album/1yj7QUrcOSpHhig4K5195M) | 5:37 |
-| 7 | [Häng id Luft](https://open.spotify.com/track/3tbOiz88LovKjZqipeXuAW) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Jugendsündä](https://open.spotify.com/album/4q5YmayzH2WlOJnMd1U7kj) | 3:34 |
+| 6 | [Häng id Luft](https://open.spotify.com/track/3tbOiz88LovKjZqipeXuAW) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Jugendsündä](https://open.spotify.com/album/4q5YmayzH2WlOJnMd1U7kj) | 3:34 |
+| 7 | [I de Schwiiz](https://open.spotify.com/track/0HG4ApJ5c6xTjNwIoG5rpm) | [Skor](https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt) | [Und Nachteil](https://open.spotify.com/album/1yj7QUrcOSpHhig4K5195M) | 5:37 |
 | 8 | [Iisziit](https://open.spotify.com/track/0FvcJLI5HHopkX9LdrBhsh) | [Gimma](https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv) | [I gega d'Schwiiz \(Re\-Edition\)](https://open.spotify.com/album/4EjyiXTE1J6j9mBVysYtXI) | 3:29 |
 | 9 | [Avenues](https://open.spotify.com/track/1hYjsaijcMS6kptLUUfOZ3) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Renaissance](https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976) | 3:32 |
 | 10 | [Relaxtra \(feat\. Stress & Lexx\)](https://open.spotify.com/track/6PUJbyUdWVGXX7RgPkus1y) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Lexx](https://open.spotify.com/artist/7GH9fHYSqIt0jZSGHPxwU0) | [Normal \(Deluxe Edition\)](https://open.spotify.com/album/08IevNCyhVvlIxarANOlju) | 3:42 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 19 | [Mais oú? \- Single Version](https://open.spotify.com/track/0qUmNpkiDGKyGkgcmqOEGK) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Renaissance](https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976) | 4:13 |
 | 20 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
 | 21 | [Schwiizchaschte](https://open.spotify.com/track/5Gnn8npKzj9KRhDTy4hgtN) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut und Tüütli](https://open.spotify.com/artist/77hbpDymWqmhlv7H2Mlrbu) | [Verdächtig](https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m) | 4:46 |
-| 22 | [Wenn I läb, wenn I stirb](https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf) | 3:03 |
-| 23 | [8i Bahnhof](https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s) | [TAFS](https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS) | [8i Bahnhof](https://open.spotify.com/album/53nhR2JauB25narZk2hvED) | 4:04 |
+| 22 | [8i Bahnhof](https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s) | [TAFS](https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS) | [8i Bahnhof](https://open.spotify.com/album/53nhR2JauB25narZk2hvED) | 4:04 |
+| 23 | [Wenn I läb, wenn I stirb](https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf) | 3:03 |
 | 24 | [King Size \(feat\. Kool Savas\)](https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Odyssey](https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw) | 3:26 |
 | 25 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
 | 26 | [Teil Vom Problem](https://open.spotify.com/track/7uHvavuhl528f0aIUYrt7W) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/5E8Bj7SAPRdJWbXg3Jxce0) | 3:47 |

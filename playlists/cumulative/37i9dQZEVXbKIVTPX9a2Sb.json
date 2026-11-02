@@ -682,7 +682,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 117446,
       "name": "23",
       "url": "https://open.spotify.com/track/4mgUD7Yz4YJRb4cr2NnKpu"
@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 218470,
       "name": "Aura",
       "url": "https://open.spotify.com/track/6hvuuliWPr9lRxbdo1i1m0"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
@@ -9276,7 +9276,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 203419,
       "name": "Cigan G",
       "url": "https://open.spotify.com/track/06mP3Lam9C69IC8HaHMZr7"
@@ -9316,7 +9316,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -12416,6 +12416,32 @@
       "duration_ms": 179130,
       "name": "dole",
       "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
+    },
+    {
+      "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224997,
+      "name": "DOLE VODOU",
+      "url": "https://open.spotify.com/track/25GP90hSjh7LCbsVj8Tryf"
     },
     {
       "album": {
@@ -16732,7 +16758,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 157475,
       "name": "FURT PYTLE",
       "url": "https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw"
@@ -16844,7 +16870,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 129795,
       "name": "G Party",
       "url": "https://open.spotify.com/track/1mxbzkQiU9lmF3hC7nYOv1"
@@ -27658,7 +27684,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 125437,
       "name": "Lojalita",
       "url": "https://open.spotify.com/track/1SC7ULiOnwIxZcIgUmtt5L"
@@ -32055,6 +32081,32 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161703,
+      "name": "M\u00c1LOKTO",
+      "url": "https://open.spotify.com/track/1QNO52lBUzWv5cblfkUjRi"
+    },
+    {
+      "album": {
         "name": "M\u00e1m Na Tebe Chu\u0165",
         "url": "https://open.spotify.com/album/0WLODpjnYX7AXt1VnDAd0x"
       },
@@ -34650,6 +34702,32 @@
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
+    },
+    {
+      "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185009,
+      "name": "NIKDY NEVIE\u0160",
+      "url": "https://open.spotify.com/track/4pvK7TYJfMAoNeBcMo3CYG"
     },
     {
       "album": {
@@ -44743,6 +44821,28 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "SI SPOME\u0147 \u017dE",
+      "url": "https://open.spotify.com/track/22uqY7MuD0r7HI4zLIDP4j"
+    },
+    {
+      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/5kYaJ737Xqpzx5504OhR7g"
       },
@@ -48688,7 +48788,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -48706,7 +48806,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -51599,6 +51699,28 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "TOTO NENI PREM\u0147A",
+      "url": "https://open.spotify.com/track/5U2BuMf4IuTPSwFroQmIdG"
+    },
+    {
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -52863,6 +52985,28 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148998,
+      "name": "UNIK\u00c1T",
+      "url": "https://open.spotify.com/track/2JkYoIiP9apVV9ANZqRkio"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -53358,7 +53502,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 221772,
       "name": "v mojich snoch",
       "url": "https://open.spotify.com/track/6ZgEybJNA0vk2FjJIIv3c2"
@@ -58119,6 +58263,32 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "Hajtkovi\u010d",
+          "url": "https://open.spotify.com/artist/6WgF2QDMJ1swtJSPkpYZNK"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231001,
+      "name": "ZASTAVAM SA",
+      "url": "https://open.spotify.com/track/2rWdJhviIeJs3dRAVafTf4"
+    },
+    {
+      "album": {
         "name": "Zasvoe",
         "url": "https://open.spotify.com/album/1fDny1IqbOjL4jKfHDcGZg"
       },
@@ -58616,6 +58786,32 @@
       "duration_ms": 184977,
       "name": "ZPRAVA ZLAVA",
       "url": "https://open.spotify.com/track/3t5bl91Ta23J13vjDN0u62"
+    },
+    {
+      "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184977,
+      "name": "ZPRAVA ZLAVA",
+      "url": "https://open.spotify.com/track/73xUu1D54l5nJE11wn4fEj"
     },
     {
       "album": {

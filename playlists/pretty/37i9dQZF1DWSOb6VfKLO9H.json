@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111981,
+  "num_followers": 111991,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        }
-      ],
-      "duration_ms": 177994,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Betasten",
         "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 185459,
       "name": "Betasten",
       "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 177994,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "IDALY",
-        "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 218753,
-      "name": "fallin'",
-      "url": "https://open.spotify.com/track/7dzeJHnEApWzQwm0akBxye"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "VBALERT",
         "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
       },
@@ -1671,6 +1647,30 @@
       "duration_ms": 187470,
       "name": "Op en Neer",
       "url": "https://open.spotify.com/track/6ASXDkfwJWkwfIUvXVXP5s"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "IDALY",
+        "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 218753,
+      "name": "fallin'",
+      "url": "https://open.spotify.com/track/7dzeJHnEApWzQwm0akBxye"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/4iaiyS8tLR6ub2WlSMd9SE"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 168595,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6yCcR2dLHJF11tJtOJv2pU"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gouden Plaat",
         "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
@@ -1963,26 +1983,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/4iaiyS8tLR6ub2WlSMd9SE"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 168595,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/6yCcR2dLHJF11tJtOJv2pU"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Christian Dior",
         "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
       },
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Midnight Boom",
+        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 145937,
+      "name": "Midnight Boom",
+      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "BON VIBES",
         "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 139428,
       "name": "BON VIBES",
       "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Midnight Boom",
-        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 145937,
-      "name": "Midnight Boom",
-      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
     },
     {
       "added_at": "2024-07-19 06:38:33",

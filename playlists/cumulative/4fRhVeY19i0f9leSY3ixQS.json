@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "1 Star (Deluxe)",
+        "url": "https://open.spotify.com/album/78TIJrrIDq5gXrYT5L1sp1"
+      },
+      "artists": [
+        {
+          "name": "Ahn-TiYe",
+          "url": "https://open.spotify.com/artist/2S1PFKoKlgt1gnLx9dpmBY"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "1 Star (Deluxe)",
+      "url": "https://open.spotify.com/track/6lkPcXS5rbt0nMVdZ1GFap"
+    },
+    {
+      "album": {
         "name": "100 Hod",
         "url": "https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9"
       },
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 116280,
       "name": "Billionaire",
       "url": "https://open.spotify.com/track/57b7pGYB0fcn03LgI24sN5"
@@ -5796,7 +5814,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 166530,
       "name": "Brille Pour Moi",
       "url": "https://open.spotify.com/track/4F7GN3NuQJhukvZCsfjrjK"
@@ -7962,6 +7980,24 @@
       "duration_ms": 199245,
       "name": "closer",
       "url": "https://open.spotify.com/track/4WbiXLWsy7kqpXh5ijSeDC"
+    },
+    {
+      "album": {
+        "name": "American Closet",
+        "url": "https://open.spotify.com/album/2JJBoMlIWcIHhnsbt7Hnld"
+      },
+      "artists": [
+        {
+          "name": "Gawd",
+          "url": "https://open.spotify.com/artist/76xDrhcwYuayzbzIkR3mBD"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234841,
+      "name": "Closet Crusher",
+      "url": "https://open.spotify.com/track/1yzGuavQWhxt9aLzSeOdG6"
     },
     {
       "album": {
@@ -19184,7 +19220,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 160285,
       "name": "I don't wanna be that girl",
       "url": "https://open.spotify.com/track/2Qx38kNXSslGPbi3jh8jv7"
@@ -21033,6 +21069,24 @@
     },
     {
       "album": {
+        "name": "Overheat",
+        "url": "https://open.spotify.com/album/1G9J6WiGLff1oUkNY7L9NJ"
+      },
+      "artists": [
+        {
+          "name": "The Drunk Beavers",
+          "url": "https://open.spotify.com/artist/2k4pmoE61CRdbvaBhHz4NW"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119358,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/11seBXCBMx6vOlNxuuDBRg"
+    },
+    {
+      "album": {
         "name": "(no matter) what i said",
         "url": "https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3"
       },
@@ -21988,7 +22042,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 188000,
       "name": "Just Ride",
       "url": "https://open.spotify.com/track/0j10T9XIwM5mVVtVd5Lf4f"
@@ -32804,7 +32858,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 292400,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/3400e7yuSFZbctP2A2fjoi"
@@ -37538,7 +37592,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 155555,
       "name": "Squirrel",
       "url": "https://open.spotify.com/track/3gZYufJoPTBuDwquyCpaOR"

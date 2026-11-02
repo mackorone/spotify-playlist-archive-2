@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1635698,
+  "num_followers": 1635667,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACxgiNI4qOvud4p0DR2qfuc",
+  "snapshot_id": "auUvgAAAAACh2zkylU8LtkZCpDiwLHq+",
   "tracks": [
     {
       "added_at": null,
@@ -75,42 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 179052,
-      "name": "Alone, Pt. II",
-      "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld",
         "url": "https://open.spotify.com/album/4Gsbmz1D5hh0uREWTVmCWB"
       },
@@ -135,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
       },
       "artists": [
         {
@@ -144,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+      "duration_ms": 160426,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
     },
     {
       "added_at": null,
@@ -160,13 +124,53 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 153718,
-      "name": "Not You",
-      "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
+      "duration_ms": 179052,
+      "name": "Alone, Pt. II",
+      "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
+      },
+      "artists": [
+        {
+          "name": "The Walkers",
+          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "SAPPHIRE",
+          "url": "https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": null,
@@ -191,6 +195,26 @@
       "duration_ms": 211680,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 153718,
+      "name": "Not You",
+      "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
     },
     {
       "added_at": null,
@@ -247,30 +271,6 @@
       "duration_ms": 210288,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
-      },
-      "artists": [
-        {
-          "name": "The Walkers",
-          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "SAPPHIRE",
-          "url": "https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/7rFuXulG4qi129VYAREBf2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me, Myself and The Night",
         "url": "https://open.spotify.com/album/04uFoSw7ap9Jv8P9PoZls4"
       },
@@ -423,6 +403,22 @@
       "duration_ms": 251748,
       "name": "Me, Myself and The Night",
       "url": "https://open.spotify.com/track/1ANHFjW6Z4akC9aDlBC4zY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 240005,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg"
     },
     {
       "added_at": null,
@@ -511,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/4Gsbmz1D5hh0uREWTVmCWB"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/0Z5sAboGfP3hksUOH1R3oV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legends Never Die (Remix)",
         "url": "https://open.spotify.com/album/1ITtdilZvKZAIIzZDZskCi"
       },
@@ -575,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 264048,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
@@ -591,30 +623,6 @@
       "duration_ms": 192111,
       "name": "Tired",
       "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
     },
     {
       "added_at": null,
@@ -659,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slowed",
+        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Faded - Slowed Remix",
+      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05"
       },
@@ -679,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slowed",
-        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         }
       ],
-      "duration_ms": 236400,
-      "name": "Faded - Slowed Remix",
-      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": null,
@@ -711,26 +739,6 @@
       "duration_ms": 191830,
       "name": "Heartbreak Melody",
       "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": null,
@@ -779,6 +787,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/0v8YZMnPRYQrPgBOBRayg3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mind Of A Warrior",
         "url": "https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN"
       },
@@ -815,26 +847,6 @@
       "duration_ms": 187040,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "Heart over Mind",
-      "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
     },
     {
       "added_at": null,
@@ -887,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
-        "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/4Gsbmz1D5hh0uREWTVmCWB"
       },
       "artists": [
         {
@@ -896,21 +908,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 123624,
-      "name": "Fire!",
-      "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/0gePxzCHAFLu9TCc9PQlkn"
     },
     {
       "added_at": null,
@@ -955,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space Melody (Edward Artemyev) (feat. Leony)",
         "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
       },
@@ -979,22 +1003,6 @@
       "duration_ms": 180000,
       "name": "Space Melody (Edward Artemyev) (feat. Leony)",
       "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 240005,
-      "name": "Force",
-      "url": "https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg"
     },
     {
       "added_at": null,
@@ -1040,7 +1048,7 @@
       "added_at": null,
       "album": {
         "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+        "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
       },
       "artists": [
         {
@@ -1048,29 +1056,21 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
-      },
-      "artists": [
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 264048,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx"
+      "duration_ms": 123624,
+      "name": "Fire!",
+      "url": "https://open.spotify.com/track/7qAVOMJRLOG04YTiIOt7eu"
     }
   ],
   "unique_name": "This Is Alan Walker",

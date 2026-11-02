@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua ",
-  "num_followers": 878809,
+  "num_followers": 878873,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Malas Ma\u00f1as",
-        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Malas Ma\u00f1as",
-      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 149459,
       "name": "Seguro Le Doli\u00f3",
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -627,6 +627,38 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "Bonito Bonito",
+        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Bonito Bonito",
+      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "STAR (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 177942,
+      "name": "\u00daLTIMAMENTE",
+      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Yo Era Poes\u00eda",
         "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
       },
@@ -643,38 +675,6 @@
       "duration_ms": 194923,
       "name": "Yo Era Poes\u00eda",
       "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "PUES QUE LE HAGO ?",
-        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 141607,
-      "name": "PUES QUE LE HAGO ?",
-      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "Bonito Bonito",
-        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Bonito Bonito",
-      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "STAR (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 177942,
-      "name": "\u00daLTIMAMENTE",
-      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Dr. Doctor",
         "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Hombre De Bien",
-        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+        "name": "PUES QUE LE HAGO ?",
+        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Hombre De Bien",
-      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -779,6 +763,22 @@
       "duration_ms": 172500,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Hombre De Bien",
+        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Hombre De Bien",
+      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Baj\u00f3n Emocional",
-        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Baj\u00f3n Emocional",
-      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Baj\u00f3n Emocional",
+        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Baj\u00f3n Emocional",
+      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -931,6 +931,34 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "Chaparrita (Remix)",
+        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Chaparrita (Remix)",
+      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
         "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
       },
@@ -963,34 +991,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Chaparrita (Remix)",
-        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Chaparrita (Remix)",
-      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Ooh Laka Laka La",
         "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
       },
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Me Est\u00e1 Doliendo",
-        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 202941,
-      "name": "Me Est\u00e1 Doliendo",
-      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 153566,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Me Est\u00e1 Doliendo",
+        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 202941,
+      "name": "Me Est\u00e1 Doliendo",
+      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "Es Triiste",
+        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Es Triiste",
+      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "VITILIGO",
         "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 169098,
       "name": "VITILIGO",
       "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "HD",
-        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 193295,
-      "name": "HD",
-      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Es Triiste",
-        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
+        "name": "HD",
+        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         },
         {
-          "name": "Kreamly",
-          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 185567,
-      "name": "Es Triiste",
-      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
+      "duration_ms": 193295,
+      "name": "HD",
+      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -1247,26 +1247,6 @@
       "duration_ms": 158487,
       "name": "Reminiscencia",
       "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -1311,6 +1291,26 @@
       "duration_ms": 193432,
       "name": "Perdonarte, \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": "2026-10-23 06:00:45",

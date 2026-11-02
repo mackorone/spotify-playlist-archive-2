@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 324955,
+  "num_followers": 325000,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auPeAAAAAAAviXuXzPhFBc8zQcz+tGt3",
+  "snapshot_id": "auUvgAAAAABCLq4gh3jXhM2Z+8umXh3Y",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 213480,
-      "name": "Conquer Or Die",
-      "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
+      "duration_ms": 211226,
+      "name": "Train Of Consequences - Remastered 2004",
+      "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 211226,
-      "name": "Train Of Consequences - Remastered 2004",
-      "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
+      "duration_ms": 213480,
+      "name": "Conquer Or Die",
+      "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "This Was My Life",
-      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hidden Treasures",
         "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 238946,
       "name": "99 Ways To Die",
       "url": "https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "This Was My Life",
+      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Architecture Of Aggression",
-      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 302333,
       "name": "The Conjuring - Remastered",
       "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Architecture Of Aggression",
+      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Foreclosure Of A Dream - 2004 Remastered",
-      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 305200,
       "name": "Devils Island - 2004 Remaster",
       "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "Foreclosure Of A Dream - 2004 Remastered",
+      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Is My Business...And Business Is Good!",
-        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 223040,
-      "name": "Rattlehead",
-      "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
+      "duration_ms": 295333,
+      "name": "My Last Words - Remastered",
+      "url": "https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4"
     }
   ],
   "unique_name": "This Is Megadeth",

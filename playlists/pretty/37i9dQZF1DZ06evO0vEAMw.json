@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 108247,
+  "num_followers": 108265,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAC8ziKd43YZvm/Uc1z3vGO4",
+  "snapshot_id": "auUvgAAAAABnxgAYi/RuZPK+dsXVFotr",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deal With It",
-        "url": "https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS"
+        "name": "Pheelz Good",
+        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 217216,
-      "name": "Ride For You",
-      "url": "https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02"
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pheelz Good",
-        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
+        "name": "Deal With It",
+        "url": "https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS"
       },
       "artists": [
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
+      "duration_ms": 217216,
+      "name": "Ride For You",
+      "url": "https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Betty Butter",
         "url": "https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WONDALAND",
         "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
       },
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "1 Milli",
+      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
       },
@@ -787,18 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
+        "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
       },
       "artists": [
         {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 163636,
-      "name": "1 Milli",
-      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+      "duration_ms": 204277,
+      "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
+      "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
     },
     {
       "added_at": null,
@@ -839,26 +863,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
-        "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
+        "name": "Aza",
+        "url": "https://open.spotify.com/album/1FEEBPf8hVb5OplQtmvsPv"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "DMW",
+          "url": "https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 204277,
-      "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
-      "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
+      "duration_ms": 224587,
+      "name": "Aza",
+      "url": "https://open.spotify.com/track/38CYTisSSjMhhHqFyj6w4l"
     },
     {
       "added_at": null,
@@ -899,34 +927,6 @@
       "duration_ms": 187893,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aza",
-        "url": "https://open.spotify.com/album/1FEEBPf8hVb5OplQtmvsPv"
-      },
-      "artists": [
-        {
-          "name": "DMW",
-          "url": "https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Duncan Mighty",
-          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 224587,
-      "name": "Aza",
-      "url": "https://open.spotify.com/track/38CYTisSSjMhhHqFyj6w4l"
     },
     {
       "added_at": null,

@@ -4,14 +4,15 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-114 songs - 6 hr 25 min
+115 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(9 Am\)](https://open.spotify.com/track/7LUgv3Nyuxi2j1G7OWHElI) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 0:38 | 2025-01-15 | 2025-02-01 |
 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 | 2023-03-17 |  |
 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:15 | 2023-03-17 |  |
-| [ANGEL ARMIES](https://open.spotify.com/track/3dJZ5Mhu7gMMbwBnWNQ7p6) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [ANGEL ARMIES](https://open.spotify.com/album/4Oz3HNbR1036fe7ErFLcy4) | 3:12 | 2026-09-14 |  |
+| [ANGEL ARMIES](https://open.spotify.com/track/3dJZ5Mhu7gMMbwBnWNQ7p6) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [ANGEL ARMIES](https://open.spotify.com/album/4Oz3HNbR1036fe7ErFLcy4) | 3:12 | 2026-09-14 | 2026-11-02 |
+| [ANGEL ARMIES](https://open.spotify.com/track/7h6yZHetkG6WczGGBAl5Uk) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [PROMISE LAND](https://open.spotify.com/album/4UWuBJmG3eAaH9rzS6idl3) | 3:12 | 2026-11-02 |  |
 | [Another Win](https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Another Win](https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU) | 3:45 | 2023-03-17 | 2025-09-22 |
 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:32 | 2023-03-17 |  |
 | [Away](https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:28 | 2023-08-19 | 2024-10-05 |

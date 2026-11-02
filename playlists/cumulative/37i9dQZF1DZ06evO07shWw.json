@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Snowed In With Me",
+        "url": "https://open.spotify.com/album/2j7BarIpVo1yEXEphxuf3g"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188557,
+      "name": "Snowed In With Me",
+      "url": "https://open.spotify.com/track/3hdaU2rPibQW0AgFE2a467"
+    },
+    {
+      "album": {
         "name": "Taillights",
         "url": "https://open.spotify.com/album/3TwRph25WYSUaoYqhedZ9g"
       },

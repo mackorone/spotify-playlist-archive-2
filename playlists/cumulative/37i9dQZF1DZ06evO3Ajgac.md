@@ -4,7 +4,7 @@
 
 > This is Elmo\. The essential tracks, all in one playlist.
 
-52 songs - 1 hr 42 min
+53 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Elmo Says Boo!](https://open.spotify.com/track/2Tl5VaNKw6d5D0m4eJPQxm) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [B Is for Boo!](https://open.spotify.com/album/1nYLDE2JVXIq7v3YboVUpS) | 2:44 | 2026-10-25 |  |
 | [Elmo Slide](https://open.spotify.com/track/41Jjf2GqV57uzLKIdCzLA7) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 2:02 | 2026-09-12 |  |
 | [Elmo's Ducks](https://open.spotify.com/track/2Z9MB9Mh9hg5SXGMOLFW95) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [ABC 123](https://open.spotify.com/album/0QXCIagcYSnzr59Gp0C4fr) | 1:45 | 2026-09-12 |  |
-| [Elmo's Got the Moves](https://open.spotify.com/track/4icHZi7HYdg9pv3pvkYhZs) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Happy Dance](https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg) | 1:28 | 2026-09-12 |  |
+| [Elmo's Got the Moves](https://open.spotify.com/track/00zDUMSQDWfnu5RtLRJrQn) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Elmo's Got the Beat](https://open.spotify.com/album/39EMqNqCIB4M2vhsX0WO9P) | 1:28 | 2026-11-02 |  |
+| [Elmo's Got the Moves](https://open.spotify.com/track/4icHZi7HYdg9pv3pvkYhZs) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Happy Dance](https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg) | 1:28 | 2026-09-12 | 2026-11-02 |
 | [Elmo's Rap Alphabet](https://open.spotify.com/track/4JBy0oxJ0NX2wDdhYamqxL) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [S Is for Sing!](https://open.spotify.com/album/5bPDOr55yh38yF93hvG0qx) | 1:29 | 2026-09-12 |  |
 | [Elmo's Song](https://open.spotify.com/track/3PQfLpp4ctkcwwVg1VnMlH) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Snuffleupagus](https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [All\-Time Favorites 2](https://open.spotify.com/album/66yS3ddviSwXuh7oN1w5kN) | 2:31 | 2026-09-12 |  |
 | [Elmo's Song](https://open.spotify.com/track/0xgC4HBKk7RPP4VkGYvGFp) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Snuffleupagus](https://open.spotify.com/artist/4s59qVGtHnriH2APKSliX5), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/6uiuWVIUe0WL3SE0AsxVkb) | 4:13 | 2026-09-12 |  |

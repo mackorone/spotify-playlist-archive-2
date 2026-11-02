@@ -2761,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "POV (Personal - Optimist - ...)",
+        "url": "https://open.spotify.com/album/2HGSaouTojQVwhkHGIRIHn"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176394,
+      "name": "optimist",
+      "url": "https://open.spotify.com/track/50qIwYTcQBpe4ZMDMpiitK"
+    },
+    {
+      "album": {
         "name": "optimist",
         "url": "https://open.spotify.com/album/36iy6HOYe9tweVVEHJo51b"
       },
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 176394,
       "name": "optimist",
       "url": "https://open.spotify.com/track/5CKNSvLw4A72l8ZGWD31Jz"
@@ -3669,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "POV (Personal - Optimist - ...)",
+        "url": "https://open.spotify.com/album/2HGSaouTojQVwhkHGIRIHn"
+      },
+      "artists": [
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141202,
+      "name": "WHY DON'T YOU STAY",
+      "url": "https://open.spotify.com/track/4bvux6WCMEciPUIKgKPRBH"
+    },
+    {
+      "album": {
         "name": "WHY DON'T YOU STAY",
         "url": "https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT"
       },
@@ -3680,7 +3716,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 141204,
       "name": "WHY DON'T YOU STAY",
       "url": "https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z"

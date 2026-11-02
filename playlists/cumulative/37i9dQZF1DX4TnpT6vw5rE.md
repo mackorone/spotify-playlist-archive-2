@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-444 songs - 1 day 0 hr 13 min
+445 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 | 2020-12-08\* |  |
 | [Sleeper](https://open.spotify.com/track/42wQLkL4TdggBqHbvo6E14) | [Sylwana](https://open.spotify.com/artist/5ykD7uK6jVcdssmF8qcyaQ) | [Sleeper](https://open.spotify.com/album/0KZCisewEjpiSipGXtZF8f) | 3:03 | 2024-02-16 | 2026-02-14 |
 | [slow heart](https://open.spotify.com/track/4gpBmFwJUfXxnf0PlXgsc6) | [petitula](https://open.spotify.com/artist/5w7NWdoq7vFqGETaruABww) | [slow heart](https://open.spotify.com/album/1SXhAtiNERACHka6bdca7X) | 1:42 | 2026-02-12 |  |
-| [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 | 2021-10-21 |  |
+| [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 | 2021-10-21 | 2026-11-02 |
 | [Slumber](https://open.spotify.com/track/2664GDzHnFYKktCgd0a506) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/1zRA3oOscRbH5SfqggrvyO) | 2:35 | 2023-05-19 | 2023-10-22 |
 | [Slumber](https://open.spotify.com/track/6XOJrnG0NtmKAdMCqhzT3C) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/3B09bJL9eACU7mWdyrsgwT) | 2:35 | 2023-12-01 | 2024-04-19 |
 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 | 2020-12-08\* | 2022-05-20 |
@@ -365,6 +365,7 @@
 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 | 2020-12-08\* | 2025-12-11 |
 | [Sonno scintillante](https://open.spotify.com/track/5tmH0bmkkk5haZdbvWLzAk) | [Ombra Oscura](https://open.spotify.com/artist/4jjQhCdDZfvCkOVKsQXO4i) | [Sonno scintillante](https://open.spotify.com/album/2BRhy7AI0W4k4sUNjxhL4z) | 2:03 | 2022-01-06 | 2024-09-20 |
 | [Space Musec](https://open.spotify.com/track/3JOyNKgNwndDAOh4lh5gyV) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Space Musec](https://open.spotify.com/album/6bwSamSLY9C3h6PLqAANir) | 2:58 | 2025-05-14 | 2026-02-13 |
+| [Spacious](https://open.spotify.com/track/1ywCxqOPBMIi73PCkZkuJi) | [Formosum](https://open.spotify.com/artist/6gUjwPjUglXmRujj4oasbD) | [Spacious](https://open.spotify.com/album/73UsIWyBQGrYZcHotyd38o) | 3:05 | 2026-10-05 |  |
 | [Split Second](https://open.spotify.com/track/6fWoRDNfECgRS3au8UjMqA) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Split Second](https://open.spotify.com/album/62jzv9TYMKZhDgxo1e0fA2) | 2:33 | 2021-12-22 | 2024-09-07 |
 | [Spring](https://open.spotify.com/track/14bOlJfMU6o2BLwmWNBRDK) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Spring](https://open.spotify.com/album/6OTSiKMhUELDgG1VE86Bgp) | 3:22 | 2025-05-14 | 2025-12-28 |
 | [Standing in Silence, Pt\. 3](https://open.spotify.com/track/01D1B4HGdo1qwaHoW7So0Y) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/04icFSzfHcvwq0xxAjnbei) | 5:13 | 2022-12-30 | 2023-01-21 |

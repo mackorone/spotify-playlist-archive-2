@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9773,
+  "num_followers": 9774,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACV2FRYlZ/bJLelTFVhXhJe",
+  "snapshot_id": "auUvgAAAAAAr/JfjGk+ZXKozp+owfRV1",
   "tracks": [
     {
       "added_at": null,
@@ -278,15 +278,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Badi Assad",
-          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
         }
       ],
-      "duration_ms": 340041,
-      "name": "Diya Hai",
-      "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
+      "duration_ms": 451383,
+      "name": "Saans Lo",
+      "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
     },
     {
       "added_at": null,
@@ -358,11 +354,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Badi Assad",
+          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
         }
       ],
-      "duration_ms": 451383,
-      "name": "Saans Lo",
-      "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
+      "duration_ms": 340041,
+      "name": "Diya Hai",
+      "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
     },
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trip the Night Fantastic",
         "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 337717,
       "name": "Prayer Song",
       "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
-      },
-      "artists": [
-        {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
     },
     {
       "added_at": null,
@@ -599,26 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
       },
       "artists": [
         {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
         },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
     },
     {
       "added_at": null,
@@ -647,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPELLJAMS",
-        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
-      },
-      "artists": [
-        {
-          "name": "Deru",
-          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 469421,
-      "name": "Forgotten Land",
-      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bird Under Water",
         "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 443200,
       "name": "Baghon Main Pade Jhoole",
       "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
+        }
+      ],
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -743,42 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
       },
       "artists": [
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 1064071,
-      "name": "Island No. 3",
-      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KARPEH",
-        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         },
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Kai Eckhardt",
-          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
         }
       ],
-      "duration_ms": 197474,
-      "name": "Glass Face",
-      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
     },
     {
       "added_at": null,
@@ -807,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Kai Eckhardt",
+          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "Glass Face",
+      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -827,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
-        }
-      ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 166285,
-      "name": "There Go the Clouds",
-      "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
+      "duration_ms": 209898,
+      "name": "Housing Supply",
+      "url": "https://open.spotify.com/track/3WQg3BLWkZd3VaLNoavV0u"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

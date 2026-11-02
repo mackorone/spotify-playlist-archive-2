@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-213 songs - 12 hr 24 min
+215 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dime Hoy](https://open.spotify.com/track/2VbBUTrOTTtjEWtsUHpaCn) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:29 | 2026-04-28 |  |
 | [Dimenticare](https://open.spotify.com/track/6DAgcHrCpVAvWEpscvHVR7) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Dimenticare](https://open.spotify.com/album/23nIqYsVN6ig5SBkGRS0lD) | 4:13 | 2026-06-26 |  |
 | [Do you tell](https://open.spotify.com/track/4yZES25Ta3YswJ1xjbggBa) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Do you tell](https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj) | 2:59 | 2025-11-29 | 2026-06-14 |
+| [Don't cry](https://open.spotify.com/track/1NGAmWzbNu8ouD7hlNBqqc) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Don't cry](https://open.spotify.com/album/4ovPZqK4wSIeBD9SPPtu50) | 3:09 | 2026-11-01 |  |
 | [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 | 2025-11-05 | 2025-12-09 |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2025-11-06 | 2025-12-09 |
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2025-12-15 | 2026-06-14 |
@@ -95,6 +96,7 @@
 | [House of Affection](https://open.spotify.com/track/0sHhdvNQBMxDNfC9ZzPWEi) | [Talles Cattarin](https://open.spotify.com/artist/77SAbQybNSZmuluK93v8AO) | [House of Affection](https://open.spotify.com/album/4t1EDjbrbUiGlyVgRZAtDs) | 3:25 | 2025-11-06 | 2025-12-09 |
 | [human race](https://open.spotify.com/track/422XpEXSWpB7AHTePwthGV) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [human race](https://open.spotify.com/album/6VEEMhejJyv8naAjOSfY0j) | 3:36 | 2025-11-11 | 2026-03-15 |
 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 | 2026-10-27 |  |
+| [I Wanna Go Back](https://open.spotify.com/track/16T7nFn9uhXdRBVLt6hjU5) | [Noah Robertson](https://open.spotify.com/artist/7nBX9mLCLJLsasBHIkvXxE) | [I Wanna Go Back](https://open.spotify.com/album/2GwiAqlyzPVoi3wj5o0H1Q) | 3:25 | 2026-11-01 |  |
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-15 |  |
 | [I\-95](https://open.spotify.com/track/4Sh3dTSxURmD84A9tavTWc) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:53 | 2026-06-21 |  |
 | [If I Die](https://open.spotify.com/track/6p1154wPVVepKN9XxLRVJQ) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:42 | 2026-05-31 |  |

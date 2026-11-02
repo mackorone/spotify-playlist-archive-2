@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 939 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 25 | [Circlesz](https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:21 |
 | 26 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
 | 27 | [Max Potential](https://open.spotify.com/track/3wCTxgp40YtdPAWWaqPVKI) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 3:52 |
-| 28 | [Wind](https://open.spotify.com/track/7FhHFW6ghJbgLFYK7YpHaJ) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [My Garden](https://open.spotify.com/album/3uKTwMTQGmTTxBSXqOQzIm) | 5:27 |
-| 29 | [Oh, Memory](https://open.spotify.com/track/6rpvBoYmL0PThOjbW4s2of) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 3:47 |
+| 28 | [Oh, Memory](https://open.spotify.com/track/6rpvBoYmL0PThOjbW4s2of) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 3:47 |
+| 29 | [Wind](https://open.spotify.com/track/7FhHFW6ghJbgLFYK7YpHaJ) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [My Garden](https://open.spotify.com/album/3uKTwMTQGmTTxBSXqOQzIm) | 5:27 |
 | 30 | [Stillness Blues](https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:18 |
 | 31 | [T00STEP](https://open.spotify.com/track/5MzR3ttkqFVCBkscYr7fFz) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [T00STEP](https://open.spotify.com/album/7FCTs0W90tv2y0i0UprCx4) | 3:56 |
 | 32 | [Comet](https://open.spotify.com/track/3QGQjDVIX4pdaLku5p9pG6) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Horizon](https://open.spotify.com/album/2JcplFbFkf2GKnuhlIRi2n) | 6:13 |

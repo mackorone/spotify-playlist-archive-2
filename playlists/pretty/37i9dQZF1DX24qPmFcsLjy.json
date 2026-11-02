@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 147488,
+  "num_followers": 147519,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Gold - The Best of Spandau Ballet",
-        "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 161600,
       "name": "Talkin' Bout a Revolution",
       "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Gold - The Best of Spandau Ballet",
+        "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "Slippery People - Live",
-      "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Het Beste Van Klein Orkest",
         "url": "https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 209493,
       "name": "Over De Muur",
       "url": "https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "Slippery People - Live",
+      "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Fortune Fairytales",
         "url": "https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 238360,
       "name": "It's The First Time - Bonus Track",
       "url": "https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Works (2011 Remaster)",
-        "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 348226,
-      "name": "Radio Ga Ga - Remastered 2011",
-      "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "De Top 10 Van",
         "url": "https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 192413,
       "name": "I Save The Day",
       "url": "https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Works (2011 Remaster)",
+        "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 348226,
+      "name": "Radio Ga Ga - Remastered 2011",
+      "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "A Kind Of Magic (2011 Remaster)",
-        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "A Kind Of Magic - Remastered 2011",
-      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "The Best Of Bzn",
         "url": "https://open.spotify.com/album/1RpZLWCTg891sLear2kA7J"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 186933,
       "name": "Rockin' The Trolls",
       "url": "https://open.spotify.com/track/091S7IqNRQoxuaK3bjs7yp"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Greatest Vol.1 - Belinda Carlisle",
         "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 246520,
       "name": "Heaven Is A Place On Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Brothers In Arms (Remastered)",
-        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Walk Of Life",
-      "url": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Invisible Touch",
         "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Hello, I Must Be Going",
-        "url": "https://open.spotify.com/album/0FqbBSfKYpnhGWa5M1TxkY"
+        "name": "Brothers In Arms (Remastered)",
+        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 175346,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/4YUlGNZfYA6EUE5KDsGqpC"
+      "duration_ms": 249960,
+      "name": "Walk Of Life",
+      "url": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Celebrate (Greatest Hits)",
+        "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "Don't You (Forget About Me) - Remastered",
+      "url": "https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1"
     }
   ],
   "unique_name": "80's Allerbeste",

@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 189813,
+  "num_followers": 189830,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "TUTTA VITA",
-        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+        "name": "MAX 20",
+        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
         }
       ],
-      "duration_ms": 212853,
-      "name": "Per due come noi",
-      "url": "https://open.spotify.com/track/5nFyfjGy6AMZqkW0OMUWJJ"
+      "duration_ms": 253100,
+      "name": "L'universo tranne noi",
+      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -115,18 +107,26 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "MAX 20",
-        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
       },
       "artists": [
         {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 253100,
-      "name": "L'universo tranne noi",
-      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+      "duration_ms": 212853,
+      "name": "Per due come noi",
+      "url": "https://open.spotify.com/track/5nFyfjGy6AMZqkW0OMUWJJ"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -167,22 +167,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Questa domenica",
-        "url": "https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh"
+        "name": "Ligabue [Remastered Version]",
+        "url": "https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
         }
       ],
-      "duration_ms": 216098,
-      "name": "Questa domenica",
-      "url": "https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27"
+      "duration_ms": 238893,
+      "name": "Piccola stella senza cielo",
+      "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -203,18 +199,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Ligabue [Remastered Version]",
-        "url": "https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB"
+        "name": "Questa domenica",
+        "url": "https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh"
       },
       "artists": [
         {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Piccola stella senza cielo",
-      "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
+      "duration_ms": 216098,
+      "name": "Questa domenica",
+      "url": "https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "La canzone del sole/ Anche per te",
-        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
       "artists": [
         {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
         }
       ],
-      "duration_ms": 324826,
-      "name": "La canzone del sole - Remastered",
-      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -403,6 +387,22 @@
       "duration_ms": 240466,
       "name": "Vattene amore (feat. Amedeo Minghi)",
       "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "La canzone del sole/ Anche per te",
+        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "La canzone del sole - Remastered",
+      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Domenica",
-      "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 234600,
       "name": "Unica",
       "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Domenica",
+      "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -719,6 +719,38 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Niente Canzoni D'Amore",
+      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s"
       },
@@ -743,34 +775,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
       },
       "artists": [
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 205253,
-      "name": "Niente Canzoni D'Amore",
-      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Anche Fragile",
-      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -787,22 +803,6 @@
       "duration_ms": 242653,
       "name": "Fuoco nel fuoco",
       "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Fabio Concato",
+        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
+      },
+      "artists": [
+        {
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Fiore Di Maggio",
+      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Fabio Concato",
-        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
-      },
-      "artists": [
-        {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Fiore Di Maggio",
-      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Appena prima di partire",
         "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 223053,
       "name": "Svegliarsi la mattina",
       "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Oh, Vita!",
-        "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Chiaro Di Luna",
-      "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Come Thelma E Louise",
         "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 300306,
       "name": "Come saprei",
       "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Oh, Vita!",
+        "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Chiaro Di Luna",
+      "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
     },
     {
       "added_at": "2026-04-21 16:02:40",

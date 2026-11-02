@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: The Creekers
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,058 likes - 99 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,059 likes - 99 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

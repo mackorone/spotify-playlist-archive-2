@@ -912,7 +912,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 150857,
       "name": "buss out",
       "url": "https://open.spotify.com/track/58GGyuw63QOWRrtkMlCsaa"
@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -4538,6 +4538,24 @@
       "duration_ms": 127491,
       "name": "PDL",
       "url": "https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn"
+    },
+    {
+      "album": {
+        "name": "Rude Babi",
+        "url": "https://open.spotify.com/album/58zlK7ulZAvWBCj0aHCDyX"
+      },
+      "artists": [
+        {
+          "name": "Atl Smook",
+          "url": "https://open.spotify.com/artist/00VLi51B5wjgE5jg3lmOKB"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132203,
+      "name": "Peppermint Coupe",
+      "url": "https://open.spotify.com/track/3p464l3rlgsoRygtrysnfS"
     },
     {
       "album": {
@@ -5930,7 +5948,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 120639,
       "name": "Tap Hour",
       "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"

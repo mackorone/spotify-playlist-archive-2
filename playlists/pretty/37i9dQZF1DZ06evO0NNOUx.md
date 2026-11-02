@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,937 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,064 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 5 | [CELEBRATION](https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:41 |
 | 6 | [NEVER GET USED TO THIS \(feat\. JVKE\)](https://open.spotify.com/track/25f7KnoDqO7nBbPahi15UE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:25 |
 | 7 | [2 STEP THE ENEMY](https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [LOST & FOUND](https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo), [ZVC](https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI) | [2 STEP THE ENEMY](https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB) | 2:42 |
-| 8 | [LEMONADE](https://open.spotify.com/track/29UECtQE2aqbuHIjvAlAU8) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 3:02 |
-| 9 | [JESUS IS COMING BACK SOON](https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [JESUS IS COMING BACK SOON](https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP) | 3:00 |
+| 8 | [JESUS IS COMING BACK SOON](https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [JESUS IS COMING BACK SOON](https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP) | 3:00 |
+| 9 | [LEMONADE](https://open.spotify.com/track/29UECtQE2aqbuHIjvAlAU8) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 3:02 |
 | 10 | [UP!](https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:16 |
 | 11 | [NOTHING ELSE](https://open.spotify.com/track/10ngdDwCfjLTdFqDnkE2Jg) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 1:58 |
 | 12 | [PRAISES \(remix\)](https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [PRAISES \(remix\)](https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 49 | [BREAK OF DAWN](https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:34 |
 | 50 | [YAHWEH](https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:05 |
 
-Snapshot ID: `auKMgAAAAACzJhLUACDUaJYYz3O3V1yh`
+Snapshot ID: `auUvgAAAAADmVwEIeEoYxjH5FJ/Y/gDC`

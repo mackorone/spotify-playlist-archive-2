@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284 likes - 182 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 182 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 75 | [FICHAJE DEL AÑO](https://open.spotify.com/track/0shb1hFrVP3Lstj1mmaHiQ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:13 |
 | 76 | [Pa' Guayarte](https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:17 |
 | 77 | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/track/51FihYpM9aCxMcmG09Z2VG) | [Elio Leiros](https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/album/2mXMkrvsDuokZdnRK9Spc8) | 3:14 |
-| 78 | [Sincero](https://open.spotify.com/track/4UEd4q4IHbj12G58IPNZJz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:15 |
-| 79 | [Ruca](https://open.spotify.com/track/7lTzzQWLu79UVztchgFAMR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:01 |
+| 78 | [Ruca](https://open.spotify.com/track/7lTzzQWLu79UVztchgFAMR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:01 |
+| 79 | [Sincero](https://open.spotify.com/track/4UEd4q4IHbj12G58IPNZJz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:15 |
 | 80 | [Vuelve o Vete](https://open.spotify.com/track/3veYAXkDS2BIxK9RwamGhQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:36 |
 | 81 | [A Escondidas](https://open.spotify.com/track/4HVzCG4ntiixZjPwOUFWHu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:20 |
 | 82 | [Stoker](https://open.spotify.com/track/5v8WFJFQz3BTcjeOOppkIY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:24 |
@@ -144,10 +144,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 134 | [Borracho Y Loco](https://open.spotify.com/track/2R7sqvdlpFDH3Lm1JMjvQ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Borracho Y Loco](https://open.spotify.com/album/47pLgGfLbJiQUSwvPlxD8q) | 3:10 |
 | 135 | [Kiki](https://open.spotify.com/track/0TkdRKpejpwRE4r4C4DgzV) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Kiki](https://open.spotify.com/album/43e1C3XcVXK0KytOlJtg8D) | 2:11 |
 | 136 | [Dandote](https://open.spotify.com/track/3h0mwHmFyAS1oYLF9sUzrL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 2:43 |
-| 137 | [Mi Momento Favorito](https://open.spotify.com/track/68OpadfcNyC3iMIPaKrikB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [El Cambio](https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1) | 3:28 |
-| 138 | [sí pero no](https://open.spotify.com/track/5u2zGzzdD2lYh5BaB3cln3) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [sí pero no](https://open.spotify.com/album/60KPn7JVQPekEWxc0lYbxw) | 4:22 |
-| 139 | [Hielo](https://open.spotify.com/track/0EV6tbm3gubSQ4vNrKhJHN) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:52 |
-| 140 | [QUE TALENTO](https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [QUE TALENTO](https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk) | 2:59 |
+| 137 | [sí pero no](https://open.spotify.com/track/5u2zGzzdD2lYh5BaB3cln3) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [sí pero no](https://open.spotify.com/album/60KPn7JVQPekEWxc0lYbxw) | 4:22 |
+| 138 | [Mi Momento Favorito](https://open.spotify.com/track/68OpadfcNyC3iMIPaKrikB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [El Cambio](https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1) | 3:28 |
+| 139 | [QUE TALENTO](https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [QUE TALENTO](https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk) | 2:59 |
+| 140 | [Hielo](https://open.spotify.com/track/0EV6tbm3gubSQ4vNrKhJHN) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:52 |
 | 141 | [La Pena](https://open.spotify.com/track/1MXDyt63gNC0sDbtDa9HFr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:02 |
 | 142 | [Que Pase](https://open.spotify.com/track/1sl3BFidCGYy9FdchsRPJ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:46 |
 | 143 | [Mini Falda \(feat\. Yandel\)](https://open.spotify.com/track/1zIkMVCO14PnzGm4LEeDOx) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Aqui Se Vino A Perrear](https://open.spotify.com/album/6jsgg7vxTJXwOTipq5aoot) | 3:16 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 181 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 | 182 | [Bby Wow](https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU) | [Facu Sanchez](https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG) | [Bby Wow](https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94) | 2:15 |
 
-Snapshot ID: `AcgcsAAAAABCOP9zhRcuq/DW5mDqCVw0`
+Snapshot ID: `AcgijAAAAACFhnlAa4jaTdYmqsXtzF/q`

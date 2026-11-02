@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Mas Alto Que El Everest",
+        "url": "https://open.spotify.com/album/2ouqn69x2uZbiqqSyLVMFN"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181824,
+      "name": "Mas Alto Que El Everest",
+      "url": "https://open.spotify.com/track/6qq8x1UZ1xz5BKzzxwHllU"
+    },
+    {
+      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 356,
+  "num_followers": 357,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAL/21zkjII/5r2wisNY8XzuuQd33ap",
+  "snapshot_id": "AAAMAWdkswRoPCzVtdpwyFSyjTXq3pbM",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -48047,6 +48047,26 @@
       "duration_ms": 180402,
       "name": "Meditative Melodies 432 Hz",
       "url": "https://open.spotify.com/track/7nexLjEq9jBN4pzohz6FSC"
+    },
+    {
+      "added_at": "2026-11-01 20:22:19",
+      "album": {
+        "name": "Minuana",
+        "url": "https://open.spotify.com/album/7MqjhzkQIN1ce0JIMeOfz5"
+      },
+      "artists": [
+        {
+          "name": "Ayllu Project",
+          "url": "https://open.spotify.com/artist/3KNIsls78ngMH4muPLQEeW"
+        },
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        }
+      ],
+      "duration_ms": 209228,
+      "name": "Minuana",
+      "url": "https://open.spotify.com/track/61hfnG3sWitCGTEGqnr28F"
     },
     {
       "added_at": "2026-10-31 22:44:01",

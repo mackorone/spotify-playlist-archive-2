@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 175188,
+  "num_followers": 175210,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADyKT0xrJp1UwAqSpS/WNS6",
+  "snapshot_id": "auUvgAAAAAAgOZnsbuK/krcbJQdhYedH",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 255186,
-      "name": "Sable on Blond - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2u8fEGC5PpKDDb2cvg1dkb"
+      "duration_ms": 301293,
+      "name": "Nightbird - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
     },
     {
       "added_at": null,
@@ -356,15 +356,15 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 301293,
-      "name": "Nightbird - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
+      "duration_ms": 255186,
+      "name": "Sable on Blond - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2u8fEGC5PpKDDb2cvg1dkb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 289626,
-      "name": "Trouble in Shangri-La",
-      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
+      "duration_ms": 421800,
+      "name": "Rhiannon - Live 2005",
+      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Visions...The Very Best of Stevie Nicks",
-        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 421800,
-      "name": "Rhiannon - Live 2005",
-      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
+      "duration_ms": 285666,
+      "name": "Planets of the Universe",
+      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
     },
     {
       "added_at": null,
@@ -431,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
       "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 285666,
-      "name": "Planets of the Universe",
-      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
+      "duration_ms": 149492,
+      "name": "Remedy (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2"
     },
     {
       "added_at": null,
@@ -463,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
       "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 149492,
-      "name": "Remedy (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2"
+      "duration_ms": 289626,
+      "name": "Trouble in Shangri-La",
+      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "George Is On",
-        "url": "https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT"
-      },
-      "artists": [
-        {
-          "name": "Deep Dish",
-          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 279110,
-      "name": "Dreams - Album Mix",
-      "url": "https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 260972,
       "name": "Insider",
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "George Is On",
+        "url": "https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT"
+      },
+      "artists": [
+        {
+          "name": "Deep Dish",
+          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 279110,
+      "name": "Dreams - Album Mix",
+      "url": "https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 224773,
-      "name": "I Sing for Things",
-      "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
+      "duration_ms": 251066,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 251066,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
+      "duration_ms": 224773,
+      "name": "I Sing for Things",
+      "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31520,
+  "num_followers": 31514,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAoTJo1u2N9PXU3W7zELwIQ",
+  "snapshot_id": "auUvgAAAAAAyTd2wWG9h5qWrtpUgN96y",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": null,
@@ -51,26 +71,6 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HABIBTI (FOMO)",
         "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 188877,
       "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2bPrEAsc7qDz5Y8YDhnutq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130707,
-      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
-      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130612,
-      "name": "Meet The Redds (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KmlTyhLGcrgHyhqhrJ1EH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NDA",
+        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130612,
+      "name": "Meet The Redds (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KmlTyhLGcrgHyhqhrJ1EH"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTH WAYS",
+        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
+      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTH WAYS",
-        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
-      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IN THE CLUB (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV"
       },
@@ -1027,22 +1027,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Like",
-        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
       "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 152157,
-      "name": "I Like It (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4"
+      "duration_ms": 147048,
+      "name": "It's My Birthday",
+      "url": "https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ"
     }
   ],
   "unique_name": "This Is Sexyy Red",

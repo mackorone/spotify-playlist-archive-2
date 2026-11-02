@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, Learke, SPARKLEWOLF RADIO and more",
+  "description": "With UrvTek, Learke, sixwing and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/05IkWPjeS75WWmqfVNnYXz"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 192000,
       "name": "Adhd Music for Furries!!!",
       "url": "https://open.spotify.com/track/3mTWUYAUnQrA4dnaujwXgv"
@@ -302,6 +302,24 @@
       "duration_ms": 122666,
       "name": "AH AH v2",
       "url": "https://open.spotify.com/track/400W5KE8EeK4wNwrmXahBG"
+    },
+    {
+      "album": {
+        "name": "All My Frens R Rainbowz, but I'm Still Dead Inside!!!",
+        "url": "https://open.spotify.com/album/2AOMQUvPrlGauIuE3HiWwf"
+      },
+      "artists": [
+        {
+          "name": "SPARKLEWOLF RADIO",
+          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "All My Frens R Rainbowz, but I'm Still Dead Inside!!!",
+      "url": "https://open.spotify.com/track/7DVzWeTKujkJyfh1BJaucX"
     },
     {
       "album": {
@@ -428,7 +446,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 182278,
       "name": "ANGEL FANGS",
       "url": "https://open.spotify.com/track/57LIGB0F1s8pGOYO5IG5PK"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 209958,
       "name": "CATASTR0PHZ1NG ALL BY URSELF",
       "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 220988,
       "name": "CELLULAR",
       "url": "https://open.spotify.com/track/3TYt6xQTU3hCazzI8pUoEM"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 101210,
       "name": "DRAIN PUPPY MAIL ME IMMEDIATELY",
       "url": "https://open.spotify.com/track/7eD7HWP4KdhTczwpw29YWJ"
@@ -2676,7 +2694,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 196800,
       "name": "fresh carcasses.",
       "url": "https://open.spotify.com/track/7gRlBmCxBdIpn14Y9aqq3I"
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 139695,
       "name": "IMAGINARY",
       "url": "https://open.spotify.com/track/4bqcPGa8ABHhItEYWDRQUi"
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 128957,
       "name": "ITS NOT ME ITS YOU",
       "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "JuiceBox",
       "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
@@ -4292,7 +4310,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 193885,
       "name": "Like It Never Happened",
       "url": "https://open.spotify.com/track/7CuugUWtJwr1KroazE3l1n"
@@ -4930,7 +4948,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 170403,
       "name": "narcissist",
       "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
@@ -5838,7 +5856,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Quit While You're Ahead",
       "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"
@@ -6174,7 +6192,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 156585,
       "name": "SEPARATION ANXIETY",
       "url": "https://open.spotify.com/track/1vGFKxSq0rzOU6MBF7MKke"
@@ -6347,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "Spellcaster!",
+        "url": "https://open.spotify.com/album/6OjimeGXcvgVqZqJxfxsnI"
+      },
+      "artists": [
+        {
+          "name": "SPARKLEWOLF RADIO",
+          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Spellcaster!",
+      "url": "https://open.spotify.com/track/7wCzyQxyZZuZaOV3fQrfFB"
+    },
+    {
+      "album": {
         "name": "squarewalker",
         "url": "https://open.spotify.com/album/60s5zKl6UQkd933ausNY91"
       },
@@ -6416,7 +6452,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 248000,
       "name": "Stay true",
       "url": "https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x"
@@ -7488,7 +7524,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 205125,
       "name": "www.PUPPYLUV.xoxo",
       "url": "https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ"

@@ -4,7 +4,7 @@
 
 > layan je
 
-379 songs - 1 day 1 hr 3 min
+380 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 | 2024-01-18 | 2024-07-07 |
 | [Adakah Kau Pasti](https://open.spotify.com/track/6rufD5k8CBP4LYs3sjfQl9) | [Keka Nizam](https://open.spotify.com/artist/4ltnkPy6GrvCalfth4WhNK) | [Adakah Kau Pasti](https://open.spotify.com/album/0bfHm3nM5WT7QHIwXcolpL) | 3:44 | 2024-05-16 | 2024-05-24 |
 | [Adinda](https://open.spotify.com/track/38WWdmm499Z0BTcYTrVHtY) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [OFF GUARD](https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s) | 3:48 | 2026-02-20 | 2026-06-24 |
-| [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-18 |  |
+| [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-18 | 2026-11-02 |
 | [Agung](https://open.spotify.com/track/7rwRzDJZf9M5iBr8YfVdHX) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:47 | 2025-04-24 | 2025-05-16 |
 | [Airmataku](https://open.spotify.com/track/7M5oVMNHBdqUJqMTw9bHfm) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Glorious](https://open.spotify.com/album/0gpLxjZBBdWsHJjQFS59Mt) | 4:05 | 2025-01-16 | 2025-02-18 |
 | [Akan Tiba](https://open.spotify.com/track/0yM2rAvalsqBtcFEWgkUrb) | [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Akan Tiba](https://open.spotify.com/album/3jmjlZE6a2LyGocLvqrTVv) | 3:31 | 2024-07-12 | 2024-07-27 |
@@ -287,6 +287,7 @@
 | [Saksi](https://open.spotify.com/track/08snDJCYojWgX0MopLjNJ4) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Saksi](https://open.spotify.com/album/1oRqfjBav3yJ3zja9rbhzU) | 3:11 | 2025-05-16 | 2025-06-20 |
 | [Salah Apa Aku](https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 3:47 | 2026-06-26 |  |
 | [Salah Tapi Baik](https://open.spotify.com/track/2WoOsj3iKTbDhIHvndRh0R) | [Safira Zaza](https://open.spotify.com/artist/5NxVpojpPiq02sqDD4hWap) | [Salah Tapi Baik](https://open.spotify.com/album/4HNENDyea9xr7kF2HBF4t9) | 4:23 | 2026-02-20 | 2026-05-09 |
+| [Salahkah Aku?](https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Salahkah Aku?](https://open.spotify.com/album/1vpe9NBN0SN5c0BoEPI8wJ) | 4:04 | 2026-09-18 |  |
 | [Salam Perpisahan](https://open.spotify.com/track/7JfPwAK5GSnUDoFU3nSSsg) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Berbunga](https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42) | 4:34 | 2024-06-20 | 2024-07-13 |
 | [Sampai Bertemu Lagi](https://open.spotify.com/track/0nXp170HMJr7a5Zj1uU5As) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Sampai Bertemu Lagi](https://open.spotify.com/album/7MrqprT4KZWTzdXYLseZuE) | 4:11 | 2024-10-17 | 2024-12-13 |
 | [Sampai Mati Kan Ku Kejar](https://open.spotify.com/track/4TveE7nbH7XNSdlQEo123z) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 3:55 | 2024-05-23 | 2024-06-07 |

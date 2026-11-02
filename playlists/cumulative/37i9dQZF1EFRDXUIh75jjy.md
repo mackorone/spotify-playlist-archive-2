@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-370 songs - 19 hr 0 min
+372 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [Pretty Idea](https://open.spotify.com/track/2dm9ovqfua9wQFsepLvugc) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:34 | 2025-10-12 |  |
 | [Puppy Love](https://open.spotify.com/track/1aiZFf1PbJNNBNuUmiMXYL) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Contender](https://open.spotify.com/album/75OmZv2K9rN3ySHEvc8GIQ) | 2:59 | 2024-06-07 |  |
 | [QUEEN BED](https://open.spotify.com/track/5DIaxQUR8p0cFx2kfgEJag) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 2:35 | 2026-05-19 |  |
-| [Question Of The Day](https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Question Of The Day](https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1) | 2:31 | 2026-09-19 |  |
+| [Question Of The Day](https://open.spotify.com/track/19eN1TGsgjPI3b97HtEc5M) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 2:31 | 2026-11-01 |  |
+| [Question Of The Day](https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Question Of The Day](https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1) | 2:31 | 2026-09-19 | 2026-11-02 |
 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 | 2024-06-07 |  |
 | [Raised By The Radio \(A Reintroduction\)](https://open.spotify.com/track/0rXEZxeUQKmOPsPCUzvzkr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 2:02 | 2026-10-17 |  |
 | [Reach You](https://open.spotify.com/track/6cwDhGKJn5CsZtC0vvH1kZ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 2:47 | 2025-11-14 |  |
@@ -375,7 +376,8 @@
 | [WORSE](https://open.spotify.com/track/3kdGlc9nZofnYVJbp0fLQn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:13 | 2025-07-22 |  |
 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 | 2024-06-07 |  |
 | [WYA](https://open.spotify.com/track/4jLn0A5vbC3Nh7oaL4Cbgc) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/7DfD1AIvTaHaj1HKTmGkQg) | 3:11 | 2024-06-07 |  |
-| [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-03-15 |  |
+| [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-03-15 | 2026-11-02 |
+| [YDH](https://open.spotify.com/track/3os7zzaUHaw3rWaCOzsNVg) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 3:17 | 2026-11-01 |  |
 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 | 2024-06-07 |  |
 | [YoYo](https://open.spotify.com/track/2Buz2pUvqM5xT28KuCGZJ7) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 3:08 | 2025-06-14 |  |
 

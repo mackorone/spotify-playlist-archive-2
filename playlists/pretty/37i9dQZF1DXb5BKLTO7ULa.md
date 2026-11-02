@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Isabèl Usher, Armin van Buuren & Douwe Bob, Claude, MEAU, Gracie Abrams en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,481 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,473 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

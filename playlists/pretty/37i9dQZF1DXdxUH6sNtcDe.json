@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 20th anniversary of Taylor Swift's debut album on 2000s Country!",
-  "num_followers": 1011431,
+  "num_followers": 1011504,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGJZDmeyVo0BLuDkC0/2SUECzIfl",
+  "snapshot_id": "AAAAAO7pPXd4i2GRFUemMyF7PvZ8DAAX",
   "tracks": [
     {
       "added_at": "2026-10-24 04:00:14",
@@ -823,18 +823,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
         }
       ],
-      "duration_ms": 221266,
-      "name": "Ol' Red",
-      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
+      "duration_ms": 290520,
+      "name": "When the Sun Goes Down",
+      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -871,22 +875,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 290520,
-      "name": "When the Sun Goes Down",
-      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
+      "duration_ms": 221266,
+      "name": "Ol' Red",
+      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
-      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "If You're Going Through Hell (Before The Devil Even Knows)",
+      "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Let's Be Us Again",
-        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "Mr. Mom",
-      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Who Needs Pictures",
         "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Let's Be Us Again",
+        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "Mr. Mom",
+      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+      "duration_ms": 284173,
+      "name": "Modern Day Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 284173,
-      "name": "Modern Day Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/58rdbCe3SBJuJeWEJa8Htm"
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
+        "name": "Lady Antebellum",
+        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Love Don't Live Here",
+      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/1AGAaPw6yMh1WCAninJag0"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 239200,
       "name": "Bring On The Rain",
       "url": "https://open.spotify.com/track/1OnXz5v4hVdrNLJ9N4MqzL"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "Lady Antebellum",
-        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Love Don't Live Here",
-      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Making Memories Of Us",
-      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
       },
       "artists": [
         {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+      "duration_ms": 236000,
+      "name": "Making Memories Of Us",
+      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
     },
     {
       "added_at": "2026-10-24 04:00:14",

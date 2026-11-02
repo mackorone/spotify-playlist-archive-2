@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 232870,
+  "num_followers": 232885,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
+        "name": "Memorias de Navidad",
+        "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 274787,
+      "name": "Ya Se Ven las Bombillitas",
+      "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
         "name": "Feliz Christmas (Vol.1)",
         "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 207152,
       "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
       "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
-        "name": "Memorias de Navidad",
-        "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 274787,
-      "name": "Ya Se Ven las Bombillitas",
-      "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "24 de Diciembre",
-      "url": "https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Christmas Through Your Eyes",
         "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
-          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Se Va Diciembre",
-      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
+      "duration_ms": 207320,
+      "name": "24 de Diciembre",
+      "url": "https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -583,6 +567,22 @@
       "duration_ms": 145898,
       "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
       "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
+          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Se Va Diciembre",
+      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Laura Xmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Patrick Williams Orchestra",
-          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
-        }
-      ],
-      "duration_ms": 181146,
-      "name": "Va a nevar (with the Patrick Williams Orchestra)",
-      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Sweet Christmas Ukulele & Jazz",
-        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
+        "name": "Laura Xmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
       "artists": [
         {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Patrick Williams Orchestra",
+          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
         }
       ],
-      "duration_ms": 253424,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
+      "duration_ms": 181146,
+      "name": "Va a nevar (with the Patrick Williams Orchestra)",
+      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -723,18 +707,18 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "Sweet Christmas Ukulele & Jazz",
+        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
         }
       ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+      "duration_ms": 253424,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -751,6 +735,22 @@
       "duration_ms": 148740,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2025-12-04 18:43:31",

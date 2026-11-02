@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains du moment\. Cover: Shaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,862 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,079 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CARAPACE](https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [CARAPACE](https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX) | 2:49 |
 | 2 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 |
 | 3 | [Couci Couca](https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [UFUL](https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3) | 3:05 |
-| 4 | [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 |
+| 4 | [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 |
 | 5 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
 | 6 | [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 |
-| 7 | [GHALAT](https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [FALLEN ANGEL](https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4) | 2:44 |
-| 8 | [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 |
+| 7 | [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 |
+| 8 | [GHALAT](https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [FALLEN ANGEL](https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4) | 2:44 |
 | 9 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 |
 | 10 | [LAMARA](https://open.spotify.com/track/2L3tTR70X3MTvBbU3Mcor6) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [LAMARA](https://open.spotify.com/album/2kWkiUrRJmA6ovFfiOCeGG) | 2:59 |
 | 11 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [El Hlawa](https://open.spotify.com/track/6GO2By21Bc9nWETXxhCHvN) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [El Hlawa](https://open.spotify.com/album/3nzMdlYU0HMchzRzajMAtH) | 3:12 |
 | 50 | [DAZOU LYAM](https://open.spotify.com/track/5ibGXVIgn6Z82imF6z3OuV) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 2:34 |
 
-Snapshot ID: `AAAAAPFomlXMXFr2YOugNvKRiYhPUMmA`
+Snapshot ID: `AAAAAI59ByPt1/lLLK6OsMDswatewxq2`

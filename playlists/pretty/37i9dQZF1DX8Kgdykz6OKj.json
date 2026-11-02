@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1598168,
+  "num_followers": 1598371,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEL9v1CjUG885t9JZlGYuGVdET70",
+  "snapshot_id": "AAAAADI7V/wyBjLnsd7833W/7SF272gW",
   "tracks": [
     {
       "added_at": "2026-10-23 04:00:34",
@@ -787,6 +787,30 @@
     {
       "added_at": "2026-10-23 04:00:34",
       "album": {
+        "name": "The Actual Proof",
+        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2026-10-23 04:00:34",
+      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
-    },
-    {
-      "added_at": "2026-10-23 04:00:34",
-      "album": {
-        "name": "The Actual Proof",
-        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
     },
     {
       "added_at": "2026-10-23 04:00:34",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-23 04:00:34",
       "album": {
-        "name": "Pray For Haiti",
-        "url": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 114329,
-      "name": "No Blood No Sweat",
-      "url": "https://open.spotify.com/track/4DCZxox8ZvICoaG02cxHnj"
-    },
-    {
-      "added_at": "2026-10-23 04:00:34",
-      "album": {
         "name": "Sleep Is the Cousin of Death",
         "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 154837,
       "name": "Street Jazz",
       "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
+    },
+    {
+      "added_at": "2026-10-23 04:00:34",
+      "album": {
+        "name": "Pray For Haiti",
+        "url": "https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 114329,
+      "name": "No Blood No Sweat",
+      "url": "https://open.spotify.com/track/4DCZxox8ZvICoaG02cxHnj"
     },
     {
       "added_at": "2026-10-23 04:00:34",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-10-23 04:00:34",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 289426,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
-    },
-    {
-      "added_at": "2026-10-23 04:00:34",
-      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
       },
@@ -1015,18 +995,22 @@
     {
       "added_at": "2026-10-23 04:00:34",
       "album": {
-        "name": "Paradise Records (Compilation)",
-        "url": "https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 129032,
-      "name": "A Man Free",
-      "url": "https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4"
+      "duration_ms": 289426,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
     },
     {
       "added_at": "2026-10-23 04:00:34",
@@ -1047,6 +1031,22 @@
       "duration_ms": 205627,
       "name": "Mula",
       "url": "https://open.spotify.com/track/3seg6hHqbFbQoi4hsgR0ux"
+    },
+    {
+      "added_at": "2026-10-23 04:00:34",
+      "album": {
+        "name": "Paradise Records (Compilation)",
+        "url": "https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "A Man Free",
+      "url": "https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4"
     },
     {
       "added_at": "2026-10-23 04:00:34",

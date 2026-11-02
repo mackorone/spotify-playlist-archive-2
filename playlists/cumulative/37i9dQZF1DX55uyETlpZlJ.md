@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Ashwin Mandoth, Vivek Kiran
 
-744 songs - 1 day 18 hr 5 min
+745 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 | 2024-08-04 |
 | [Gharjane](https://open.spotify.com/track/457iVBylCZyPip3Gv4H5h3) | [Mohith Gowda](https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ), [Prop\-c](https://open.spotify.com/artist/6gXh5lDPn9YmcUejoDlXtX) | [Gharjane](https://open.spotify.com/album/2M62wvOOYWATPiFTePxCPf) | 3:35 | 2026-05-29 |  |
 | [Giliyu Panjaradolilla](https://open.spotify.com/track/0tiXZfVfKlUrSyYEBIGGoG) | [Shruthi S Bhat](https://open.spotify.com/artist/16nJsLk3LarQFlCXziGg3y) | [Giliyu Panjaradolilla](https://open.spotify.com/album/7Ddee1QHeZUNaJ62PvjVvI) | 6:42 | 2025-08-07 | 2025-12-02 |
-| [Gira Gira](https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Gira Gira](https://open.spotify.com/album/62iSk44yQVg8v2wpSiCIK4) | 3:30 | 2026-04-13 |  |
+| [Gira Gira](https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Gira Gira](https://open.spotify.com/album/62iSk44yQVg8v2wpSiCIK4) | 3:30 | 2026-04-13 | 2026-11-02 |
 | [GOD COMPLEX](https://open.spotify.com/track/42DWUXHGsMHxNZuVvhqagU) | [ANAMIKA](https://open.spotify.com/artist/4sPJkVa68fMIryD4jjvugk) | [GOD COMPLEX](https://open.spotify.com/album/6lH51RbBq03YVA8kKsWKrh) | 3:03 | 2026-08-31 |  |
 | [GODLY](https://open.spotify.com/track/0CXrAoAUipEKGI4YpdHCno) | [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4), [Raathee](https://open.spotify.com/artist/6hAV1GWoSJRkaRz8MGifQK) | [GODLY](https://open.spotify.com/album/4i1EpyQCnxCDu2Pfi1gBBf) | 3:11 | 2026-04-13 |  |
 | [GOLDEN](https://open.spotify.com/track/0LR0fbUDL6Av3WWCWEDyib) | [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4), [Hitesh High](https://open.spotify.com/artist/3rSYZ6tJgkSf15X3Go4Dzb), [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [GOLDEN](https://open.spotify.com/album/6Dhu79IVReEOdJ8MLsJibT) | 2:54 | 2026-09-25 |  |
@@ -420,6 +420,7 @@
 | [Melusire \(Remix\)](https://open.spotify.com/track/0BpOi8WfgJPoMroHN4eknX) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ) | [Melusire \(Remix\)](https://open.spotify.com/album/4m781UWN8QgGhXeypMpSLE) | 0:47 | 2022-11-28 | 2024-01-01 |
 | [Melusire \(Remix\)](https://open.spotify.com/track/2JjTtuqudMf9hoVbXsIw5w) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ) | [Melusire \(Remix\)](https://open.spotify.com/album/6J4APiB6I2wow3uGmVqX4j) | 0:47 | 2022-11-28 | 2024-01-30 |
 | [Menace](https://open.spotify.com/track/0qPN8o1cxVZr8IlUKxIj5K) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA) | [Menace](https://open.spotify.com/album/068DUvPlsJwTz6WNo3IH2k) | 2:24 | 2026-05-19 |  |
+| [Menake](https://open.spotify.com/track/2AyPZ58nZ0FgImtrRt5tJV) | [Tanmay Gururaj](https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5), [Shrushti](https://open.spotify.com/artist/7dXxlULtgTtjA3M8T6wIt9) | [Menake](https://open.spotify.com/album/0MY3ocHCC4TtBezNUKqDj8) | 2:55 | 2026-11-02 |  |
 | [Meravanige](https://open.spotify.com/track/7m870UBsNZsAdfy72ACwK4) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Meravanige](https://open.spotify.com/album/71W4tZRy5inMM8R6wA9KET) | 3:01 | 2026-09-16 |  |
 | [Mi Amor](https://open.spotify.com/track/4257sWSwAnFjI725qd4YT4) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Mi Amor](https://open.spotify.com/album/0GmaAGG2IIdoIhdH2rRTfX) | 3:02 | 2024-11-12 | 2025-04-18 |
 | [Middle Class](https://open.spotify.com/track/3og2Ymk1krtW30QTf8xTFV) | [MrinmayMS](https://open.spotify.com/artist/6v5DdTFX82mPM3PS0GDj0x) | [Middle Class](https://open.spotify.com/album/1lvqtLmDTND6dZ0PbUM5Uq) | 1:11 | 2026-03-13 | 2026-09-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 88474,
+  "num_followers": 88616,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Evening Veil",
-        "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
-      },
-      "artists": [
-        {
-          "name": "Seth Sands",
-          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Evening Veil",
-      "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Where Silence Heals",
         "url": "https://open.spotify.com/album/26B5JB0X8l53PrLk9STVx3"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 202587,
       "name": "Where Silence Heals",
       "url": "https://open.spotify.com/track/4DrU5AIgI9aCf5TRomj5T8"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Evening Veil",
+        "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
+      },
+      "artists": [
+        {
+          "name": "Seth Sands",
+          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Evening Veil",
+      "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Unwind",
-        "url": "https://open.spotify.com/album/6cpSrWzOJ4os7xncWtp3oj"
-      },
-      "artists": [
-        {
-          "name": "Solros",
-          "url": "https://open.spotify.com/artist/1nYR0YG5gsvYQFqiFW76RA"
-        }
-      ],
-      "duration_ms": 126276,
-      "name": "Unwind",
-      "url": "https://open.spotify.com/track/5gLITXErIKVyey5JNinATB"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "When The Day Fades",
         "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 151367,
       "name": "When The Day Fades",
       "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Unwind",
+        "url": "https://open.spotify.com/album/6cpSrWzOJ4os7xncWtp3oj"
+      },
+      "artists": [
+        {
+          "name": "Solros",
+          "url": "https://open.spotify.com/artist/1nYR0YG5gsvYQFqiFW76RA"
+        }
+      ],
+      "duration_ms": 126276,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/5gLITXErIKVyey5JNinATB"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Transform",
-        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
-      },
-      "artists": [
-        {
-          "name": "Ceny Noes",
-          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
-        }
-      ],
-      "duration_ms": 162627,
-      "name": "Transform",
-      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Spatial",
         "url": "https://open.spotify.com/album/5A7i6u2mU0k3uvWcrNi7pZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 154640,
       "name": "Spatial",
       "url": "https://open.spotify.com/track/2KYErsAVxGCdxCjRdZIoY0"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Transform",
+        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
+      },
+      "artists": [
+        {
+          "name": "Ceny Noes",
+          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
+        }
+      ],
+      "duration_ms": 162627,
+      "name": "Transform",
+      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Mist Over Mountains",
-        "url": "https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG"
-      },
-      "artists": [
-        {
-          "name": "Matsyendrasana",
-          "url": "https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mist Over Mountains",
-      "url": "https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Lumen",
         "url": "https://open.spotify.com/album/025PjPtslp6pG3gm40PJ8n"
       },
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Technetium",
-        "url": "https://open.spotify.com/album/1SId4iArgWNI0ALzHxuCo9"
+        "name": "Mist Over Mountains",
+        "url": "https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG"
       },
       "artists": [
         {
-          "name": "Hudba Lyrika",
-          "url": "https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7"
+          "name": "Matsyendrasana",
+          "url": "https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m"
         }
       ],
-      "duration_ms": 155056,
-      "name": "Technetium",
-      "url": "https://open.spotify.com/track/5PkD63dtA3QCUl8OGTraij"
+      "duration_ms": 168000,
+      "name": "Mist Over Mountains",
+      "url": "https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Poise",
+        "url": "https://open.spotify.com/album/21qM9vHe0nFzHpsi1erigc"
+      },
+      "artists": [
+        {
+          "name": "Solitudes",
+          "url": "https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX"
+        }
+      ],
+      "duration_ms": 160540,
+      "name": "Poise",
+      "url": "https://open.spotify.com/track/7mIVnf8ZqCCmfuVvoMszu1"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Earth Chant",
-        "url": "https://open.spotify.com/album/6btQx5ijYLC9eEy5lyvORV"
+        "name": "Technetium",
+        "url": "https://open.spotify.com/album/1SId4iArgWNI0ALzHxuCo9"
       },
       "artists": [
         {
-          "name": "Dave Orvian",
-          "url": "https://open.spotify.com/artist/3TGqcTNmaItoQVA20w2Rj5"
+          "name": "Hudba Lyrika",
+          "url": "https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7"
         }
       ],
-      "duration_ms": 129637,
-      "name": "Earth Chant",
-      "url": "https://open.spotify.com/track/1A87ykk04sq2aAJSLQ6I2U"
+      "duration_ms": 155056,
+      "name": "Technetium",
+      "url": "https://open.spotify.com/track/5PkD63dtA3QCUl8OGTraij"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Poise",
-        "url": "https://open.spotify.com/album/21qM9vHe0nFzHpsi1erigc"
+        "name": "Earth Chant",
+        "url": "https://open.spotify.com/album/6btQx5ijYLC9eEy5lyvORV"
       },
       "artists": [
         {
-          "name": "Solitudes",
-          "url": "https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX"
+          "name": "Dave Orvian",
+          "url": "https://open.spotify.com/artist/3TGqcTNmaItoQVA20w2Rj5"
         }
       ],
-      "duration_ms": 160540,
-      "name": "Poise",
-      "url": "https://open.spotify.com/track/7mIVnf8ZqCCmfuVvoMszu1"
+      "duration_ms": 129637,
+      "name": "Earth Chant",
+      "url": "https://open.spotify.com/track/1A87ykk04sq2aAJSLQ6I2U"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Cloudy Texture",
-        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
-      },
-      "artists": [
-        {
-          "name": "Laura Dawson",
-          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Astral Shore",
         "url": "https://open.spotify.com/album/20WsWxa6BNAjMEHhbDlgUs"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216597,
       "name": "Astral Shore",
       "url": "https://open.spotify.com/track/6TwKx5FT7krdphWDcq2S9V"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Cloudy Texture",
+        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
+      },
+      "artists": [
+        {
+          "name": "Laura Dawson",
+          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Dreams of Another",
-        "url": "https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS"
-      },
-      "artists": [
-        {
-          "name": "Jack Allenson",
-          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "Dreams of Another",
-      "url": "https://open.spotify.com/track/3pOOs5JqVXvvZFwOeEb1g6"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Moonrise",
         "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 208515,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Dreams of Another",
+        "url": "https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "duration_ms": 166125,
+      "name": "Dreams of Another",
+      "url": "https://open.spotify.com/track/3pOOs5JqVXvvZFwOeEb1g6"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Meditatio Lux",
-        "url": "https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO"
-      },
-      "artists": [
-        {
-          "name": "Maurie",
-          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Meditatio Lux",
-      "url": "https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Clear Horizon",
         "url": "https://open.spotify.com/album/2KHlOaheSp4cgJUzPCLcyC"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 198095,
       "name": "Clear Horizon",
       "url": "https://open.spotify.com/track/5FbOETGBJmTS4oHQP5dRRv"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Meditatio Lux",
+        "url": "https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO"
+      },
+      "artists": [
+        {
+          "name": "Maurie",
+          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Meditatio Lux",
+      "url": "https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1431,6 +1431,22 @@
       "duration_ms": 198000,
       "name": "Spiritual Connection",
       "url": "https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "duration_ms": 146625,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Mind Balance",
-        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
-      },
-      "artists": [
-        {
-          "name": "Angelic Planet",
-          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Mind Balance",
-      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Stones Underwater",
         "url": "https://open.spotify.com/album/5wR5DqW6YEwzKHAPQJYHM6"
       },
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "A Special Place",
-        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
       },
       "artists": [
         {
-          "name": "Celestial Aura",
-          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
         }
       ],
-      "duration_ms": 146625,
-      "name": "A Special Place",
-      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
+      "duration_ms": 178723,
+      "name": "Mind Balance",
+      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Issa",
-        "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
-      },
-      "artists": [
-        {
-          "name": "Sufi Pyramid",
-          "url": "https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "ISSA",
-      "url": "https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Bare dreams",
         "url": "https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 159950,
       "name": "Bare dreams",
       "url": "https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Issa",
+        "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
+      },
+      "artists": [
+        {
+          "name": "Sufi Pyramid",
+          "url": "https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "ISSA",
+      "url": "https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW"
-      },
-      "artists": [
-        {
-          "name": "AuraLoom",
-          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
-        }
-      ],
-      "duration_ms": 200536,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Golden Age",
         "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Expanded Reality",
-        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW"
       },
       "artists": [
         {
-          "name": "Axial Flow",
-          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Expanded Reality",
-      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
+      "duration_ms": 200536,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1831,6 +1815,22 @@
       "duration_ms": 144830,
       "name": "Silent Waters",
       "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Expanded Reality",
+        "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
+      },
+      "artists": [
+        {
+          "name": "Axial Flow",
+          "url": "https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Expanded Reality",
+      "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
     },
     {
       "added_at": "2026-09-14 14:26:28",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Yalmi",
-        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
-      },
-      "artists": [
-        {
-          "name": "Merc La",
-          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Yalmi",
-      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Amoralis",
         "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
       },
@@ -1899,22 +1883,6 @@
     {
       "added_at": "2026-09-14 14:26:28",
       "album": {
-        "name": "Wu Wei",
-        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 169382,
-      "name": "Wu Wei",
-      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
-    },
-    {
-      "added_at": "2026-09-14 14:26:28",
-      "album": {
         "name": "Light From Within",
         "url": "https://open.spotify.com/album/0SuSHZGd091t2p0JwOXQtK"
       },
@@ -1927,6 +1895,38 @@
       "duration_ms": 198000,
       "name": "Light From Within",
       "url": "https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Yalmi",
+        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
+      },
+      "artists": [
+        {
+          "name": "Merc La",
+          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Yalmi",
+      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "added_at": "2026-09-14 14:26:28",
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

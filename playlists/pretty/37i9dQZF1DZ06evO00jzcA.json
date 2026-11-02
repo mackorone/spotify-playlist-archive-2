@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 488579,
+  "num_followers": 488583,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACt5/RolX7cT82iVl/OYKMj",
+  "snapshot_id": "auUvgAAAAADL+2W9o21DXFj9+F46rt1L",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 198933,
       "name": "Mr. Speed - Eddie Kramer 2026 Mix",
       "url": "https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makin' Love / Mr. Speed / Hard Luck Woman",
+        "url": "https://open.spotify.com/album/4QIDu6vNzsYIaehcKvRA15"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "Makin' Love - Live At The Nippon Budokan, Tokyo, Japan - April 2, 1977 - Show 1",
+      "url": "https://open.spotify.com/track/0ak7Z0TLdj61EW2S0TsGku"
     },
     {
       "added_at": null,
@@ -75,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lick It Up",
-        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Lick It Up",
-      "url": "https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smashes, Thrashes & Hits",
         "url": "https://open.spotify.com/album/3Lh4LR8zXHUAq1ntllcx7u"
       },
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot In The Shade",
-        "url": "https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM"
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 232640,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg"
+      "duration_ms": 236640,
+      "name": "Lick It Up",
+      "url": "https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck"
     },
     {
       "added_at": null,
@@ -135,6 +135,22 @@
       "duration_ms": 241106,
       "name": "I Was Made For Lovin' You - Single Mix",
       "url": "https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot In The Shade",
+        "url": "https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 257280,
-      "name": "War Machine - 2022 Remastered",
-      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 169026,
       "name": "Shout It Out Loud",
       "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 257280,
+      "name": "War Machine - 2022 Remastered",
+      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmasked",
-        "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Shandi",
-      "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss (Remastered 1997)",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 186200,
       "name": "Deuce - Remastered 1997",
       "url": "https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmasked",
+        "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Shandi",
+      "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss (Remastered 1997)",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Cold Gin - Remastered 1997",
-      "url": "https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 279066,
       "name": "Every Time I Look At You",
       "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss (Remastered 1997)",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Cold Gin - Remastered 1997",
+      "url": "https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8"
     },
     {
       "added_at": null,
@@ -591,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/5fMNBSecex43kyvmPIkxqW"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Creatures Of The Night - 2022 Remastered",
+      "url": "https://open.spotify.com/track/0pd7tyhNtTKOySAvbDDbVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 178669,
       "name": "C'mon And Love Me - 2025 Remaster",
       "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creatures Of The Night",
-        "url": "https://open.spotify.com/album/5fMNBSecex43kyvmPIkxqW"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Creatures Of The Night - 2022 Remastered",
-      "url": "https://open.spotify.com/track/0pd7tyhNtTKOySAvbDDbVV"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Turn On The Night",
-      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss (Remastered 1997)",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Turn On The Night",
+      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lick It Up",
         "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 274573,
       "name": "All Hell's Breakin' Loose",
       "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Beth - Live From MTV Unplugged/1995",
-      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
     },
     {
       "added_at": null,
@@ -783,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll All Nite (MOONLGHT Remix)",
-        "url": "https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
       "artists": [
         {
           "name": "KISS",
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        },
-        {
-          "name": "MOONLGHT",
-          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
         }
       ],
-      "duration_ms": 135918,
-      "name": "Rock And Roll All Nite - MOONLGHT Remix",
-      "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
+      "duration_ms": 175013,
+      "name": "Beth - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
     },
     {
       "added_at": null,

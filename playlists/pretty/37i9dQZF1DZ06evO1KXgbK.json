@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABgP23iDfv0XV2qxiiLJ4NQ",
+  "snapshot_id": "auUvgAAAAAC1LZjHA+FuVAhYd7BPeOSu",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bargain Store",
-        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164505,
-      "name": "The Bargain Store",
-      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 199872,
       "name": "But You Know I Love You",
       "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bargain Store",
+        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "The Bargain Store",
+      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "The House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trackhouse (Daytona 500 Edition)",
         "url": "https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q"
       },
@@ -863,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Like A Song (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
       "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 193906,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
+      "duration_ms": 243493,
+      "name": "The House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL"
     },
     {
       "added_at": null,
@@ -895,6 +875,26 @@
       "duration_ms": 253666,
       "name": "Little Sparrow",
       "url": "https://open.spotify.com/track/2U3hRXmqSm6Tk2m33d9J8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is Like A Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
     },
     {
       "added_at": null,

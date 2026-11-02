@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 229898,
+  "num_followers": 229908,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAB+ly2obeqFxtY0H2ZDSKp",
+  "snapshot_id": "auUvgAAAAADgi/taEmh4bb0fccO2oew3",
   "tracks": [
     {
       "added_at": null,
@@ -119,18 +119,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music, Fashion, Film",
-        "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
       "artists": [
         {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6FFHObl8rAxig1QZewCTXN"
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": null,
@@ -171,34 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music, Fashion, Film",
         "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
       },
@@ -208,25 +192,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 137323,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/0N7tCm0qrH7JFmDfwkRfRI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6FFHObl8rAxig1QZewCTXN"
     },
     {
       "added_at": null,
@@ -243,6 +211,22 @@
       "duration_ms": 182038,
       "name": "Dying for You",
       "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": null,
@@ -272,25 +256,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 124045,
-      "name": "2007",
-      "url": "https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 178579,
-      "name": "B2b",
-      "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+      "duration_ms": 137323,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/0N7tCm0qrH7JFmDfwkRfRI"
     },
     {
       "added_at": null,
@@ -307,6 +275,22 @@
       "duration_ms": 170211,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "B2b",
+      "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
     },
     {
       "added_at": null,
@@ -336,25 +320,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 167674,
-      "name": "SS26",
-      "url": "https://open.spotify.com/track/0g8FizeHVo2cG7qxBfmckf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+      "duration_ms": 124045,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng"
     },
     {
       "added_at": null,
@@ -375,6 +343,22 @@
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": null,
@@ -404,25 +388,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 157039,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/4HQMNDSYtXgZvsCHIsuWTS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151125,
-      "name": "Sympathy is a knife",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/0g8FizeHVo2cG7qxBfmckf"
     },
     {
       "added_at": null,
@@ -447,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 129817,
       "name": "Hot In It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music, Fashion, Film",
+        "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157039,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/4HQMNDSYtXgZvsCHIsuWTS"
     },
     {
       "added_at": null,
@@ -603,26 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop 2",
-        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 232933,
-      "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
-      "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
+      "duration_ms": 189373,
+      "name": "Constant Repeat",
+      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
     },
     {
       "added_at": null,
@@ -679,18 +671,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 189373,
-      "name": "Constant Repeat",
-      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+      "duration_ms": 232933,
+      "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+      "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
     },
     {
       "added_at": null,
@@ -863,34 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is Romantic",
-        "url": "https://open.spotify.com/album/112GawXdnJBQmtCMcKK2BK"
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Orchestra Club",
-          "url": "https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX"
-        },
-        {
-          "name": "Jae Deal",
-          "url": "https://open.spotify.com/artist/0uZEkOwBS978PP7EvoyCDQ"
-        },
-        {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Jasper Harris",
-          "url": "https://open.spotify.com/artist/57B9ghF6pGxBzFfOYLAcRA"
         }
       ],
-      "duration_ms": 141641,
-      "name": "Everything Is Romantic",
-      "url": "https://open.spotify.com/track/2hq4SgBu1nvOQAsMu6Pjl9"
+      "duration_ms": 243672,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
     }
   ],
   "unique_name": "This Is Charli xcx",

@@ -380,7 +380,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 189176,
       "name": "100 roosi",
       "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 227299,
       "name": "armastatud",
       "url": "https://open.spotify.com/track/31Xy2EPTJmg2UPz1CudinL"
@@ -5816,7 +5816,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 182686,
       "name": "BEIBE",
       "url": "https://open.spotify.com/track/6NjdgyfD4uSjdTkaVzsczU"
@@ -6162,7 +6162,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 150825,
       "name": "BIEBER",
       "url": "https://open.spotify.com/track/01Kz0R5u6fzDhD1iIxXw36"
@@ -12334,6 +12334,24 @@
       "duration_ms": 225293,
       "name": "dispositsioon",
       "url": "https://open.spotify.com/track/6fAfPKd1MKvn8kN9Yu1UOg"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1YhbfKnjrFgnYyWz6cn9mN"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/30VrBsh1STRBoIrhQOAwzK"
     },
     {
       "album": {
@@ -18628,9 +18646,9 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 239133,
-      "name": "Ghostbusters",
+      "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
@@ -36217,6 +36235,24 @@
     },
     {
       "album": {
+        "name": "Sinister Stomp",
+        "url": "https://open.spotify.com/album/5oBxNVnIhfXuOlYLqtQLhO"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194063,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/4uUVNaxpS4zYcXkTrrRp6R"
+    },
+    {
+      "album": {
         "name": "The Original Monster Mash",
         "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
       },
@@ -43962,7 +43998,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 161633,
       "name": "PRILLID PEAS",
       "url": "https://open.spotify.com/track/4O1gSIDP13zB3PZhcjkZ7w"
@@ -48740,7 +48776,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 142654,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
@@ -50239,6 +50275,24 @@
     },
     {
       "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "album": {
         "name": "Nevermind (30th Anniversary Super Deluxe)",
         "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
       },
@@ -50678,7 +50732,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -51700,7 +51754,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 199460,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
@@ -55675,6 +55729,24 @@
     },
     {
       "album": {
+        "name": "The Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
+    },
+    {
+      "album": {
         "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
       },
@@ -55770,6 +55842,24 @@
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358807,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Aldous Harding",
-  "num_followers": 336056,
+  "num_followers": 336084,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 312613,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "Paradise Hotel",
+        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
+      },
+      "artists": [
+        {
+          "name": "Eliza Gilkyson",
+          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Is It Like Today",
+      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Paradise Hotel",
-        "url": "https://open.spotify.com/album/2PEWS3JPX85pShEiYXmlLa"
-      },
-      "artists": [
-        {
-          "name": "Eliza Gilkyson",
-          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Is It Like Today",
-      "url": "https://open.spotify.com/track/09DewAwnhcRWoN0VOEB8u4"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Not Dark Yet",
         "url": "https://open.spotify.com/album/6KLlg2TYo3TlQjoJ5kACeQ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
-      },
-      "artists": [
-        {
-          "name": "Britti",
-          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
-        }
-      ],
-      "duration_ms": 215869,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Clotho's Web",
         "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 186320,
       "name": "Fire, Water, Earth And Air",
       "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 215869,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Black Irish",
         "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 241203,
       "name": "Banshee Moan",
       "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "The Best Of The BBC Recordings",
+        "url": "https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4"
+      },
+      "artists": [
+        {
+          "name": "Sandy Denny",
+          "url": "https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ"
+        }
+      ],
+      "duration_ms": 336333,
+      "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
+      "url": "https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "The Best Of The BBC Recordings",
-        "url": "https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4"
-      },
-      "artists": [
-        {
-          "name": "Sandy Denny",
-          "url": "https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ"
-        }
-      ],
-      "duration_ms": 336333,
-      "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
-      "url": "https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "A Feather's Not A Bird",
-      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Polaroid Lovers",
         "url": "https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 180524,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "A Feather's Not A Bird",
+      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Will the Circle Be Unbroken",
-      "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Do You See The Light Around Me?",
         "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Will the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -2191,6 +2175,38 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 270520,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2219,22 +2235,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 270520,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Teeth Marks",
         "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Stand In",
         "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 286388,
       "name": "Stand In",
       "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Till the Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Singing The Traditional Songs Of Her Kentucky Mountain Family",
-        "url": "https://open.spotify.com/album/61V1HdEA3F24DmZIyry7MW"
-      },
-      "artists": [
-        {
-          "name": "Jean Ritchie",
-          "url": "https://open.spotify.com/artist/7cWhIVoEYJd0oWnxULFt8s"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "Black Is the Color",
-      "url": "https://open.spotify.com/track/7hdVMPuU0ur50wAW9uGZD5"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "The Hazel and Alice Sessions",
         "url": "https://open.spotify.com/album/13onfRu5O11Vp0pR9muCjQ"
       },
@@ -2403,6 +2387,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "Singing The Traditional Songs Of Her Kentucky Mountain Family",
+        "url": "https://open.spotify.com/album/61V1HdEA3F24DmZIyry7MW"
+      },
+      "artists": [
+        {
+          "name": "Jean Ritchie",
+          "url": "https://open.spotify.com/artist/7cWhIVoEYJd0oWnxULFt8s"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "Black Is the Color",
+      "url": "https://open.spotify.com/track/7hdVMPuU0ur50wAW9uGZD5"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "baja bird",
         "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
       },
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 225484,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "May Your Kindness Remain",
         "url": "https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 234306,
       "name": "May Your Kindness Remain",
       "url": "https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 225484,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
     },
     {
       "added_at": "2026-05-15 04:01:12",

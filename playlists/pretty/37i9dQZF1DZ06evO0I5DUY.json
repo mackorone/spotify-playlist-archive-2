@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 245659,
+  "num_followers": 245710,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAC2U9lINAqJKbHta6U1GNYl",
+  "snapshot_id": "auUvgAAAAAB/iyj2NRqVyyNkVVSEl4HX",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 184213,
-      "name": "Cruz Negra",
-      "url": "https://open.spotify.com/track/1iEweQPoM1pgXHMWTk0iBM"
+      "duration_ms": 157880,
+      "name": "Rezando Por Ella",
+      "url": "https://open.spotify.com/track/235g5dKnBjF45Bhpou8qiO"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Recuerdos Adios Amigo Del Alma",
-        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 140640,
-      "name": "Por Ser Tan Pobre",
-      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
+      "duration_ms": 177293,
+      "name": "Lucio Pena",
+      "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
     },
     {
       "added_at": null,
@@ -644,15 +644,15 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 157880,
-      "name": "Rezando Por Ella",
-      "url": "https://open.spotify.com/track/235g5dKnBjF45Bhpou8qiO"
+      "duration_ms": 184213,
+      "name": "Cruz Negra",
+      "url": "https://open.spotify.com/track/1iEweQPoM1pgXHMWTk0iBM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Mis Recuerdos Adios Amigo Del Alma",
+        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Lucio Pena",
-      "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
+      "duration_ms": 140640,
+      "name": "Por Ser Tan Pobre",
+      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
     },
     {
       "added_at": null,

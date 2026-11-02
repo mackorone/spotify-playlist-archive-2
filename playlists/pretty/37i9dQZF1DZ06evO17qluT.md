@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,534 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,583 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 23 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
 | 24 | [Se eu não lembrar](https://open.spotify.com/track/7muDgXKZhU3qXR7ylkAXCq) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV) | 3:57 |
 | 25 | [Não Adianta Chorar](https://open.spotify.com/track/5gxljBy1tymSkb9hJZJaEl) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3) | 3:50 |
-| 26 | [Morro Sem Você](https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:13 |
-| 27 | [Regras da Loja](https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [CrimeNow](https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g) | [Lógos](https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR) | 3:50 |
+| 26 | [Regras da Loja](https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [CrimeNow](https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g) | [Lógos](https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR) | 3:50 |
+| 27 | [Morro Sem Você](https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:13 |
 | 28 | [Quadros](https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 5:09 |
 | 29 | [Almas](https://open.spotify.com/track/2nOaBepWvTS9HdZ25YYode) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Juyè](https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb) | [Antes dos Gigantes Chegarem, Vol\. 2](https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp) | 3:47 |
 | 30 | [se joga](https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 |
 | 50 | [Julius](https://open.spotify.com/track/3BYG6GNJypc1bIOxSkorDh) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 4:11 |
 
-Snapshot ID: `auKMgAAAAABJHkq3cpuxqzMLkSYTXlUG`
+Snapshot ID: `auUvgAAAAAAaVFw8rWKJkiZY8qmsow6H`

@@ -4,7 +4,7 @@
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-47 songs - 3 hr 5 min
+48 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [The Great Divide](https://open.spotify.com/track/29SyOOUe940ehXSe1jSAxg) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:07 | 2023-11-10 | 2025-04-27 |
 | [Two Guns To The Temple](https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 2:53 | 2022-12-03 | 2026-03-16 |
 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 | 2022-10-25 |  |
-| [Worms Of The Earth \- Live](https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn \- X](https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae) | 3:45 | 2022-10-25 |  |
+| [Worms Of The Earth \- Live](https://open.spotify.com/track/54EMMVZE3O2N0NvV9LGen8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn \- X \(Live\)](https://open.spotify.com/album/35mPHiPaDrGko737O1oPNA) | 3:45 | 2026-11-02 |  |
+| [Worms Of The Earth \- Live](https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn \- X](https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae) | 3:45 | 2022-10-25 | 2026-11-02 |
 
 \*This playlist was first scraped on 2022-10-26. Prior content cannot be recovered.

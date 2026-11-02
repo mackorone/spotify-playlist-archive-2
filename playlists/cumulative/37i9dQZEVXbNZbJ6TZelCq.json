@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 138274,
       "name": "Are basul big",
       "url": "https://open.spotify.com/track/5288pWStsdWkmd6nHwQbue"
@@ -11474,7 +11474,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 161142,
       "name": "C\u00e2t vrei tu",
       "url": "https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr"
@@ -12372,7 +12372,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 216666,
       "name": "De dor",
       "url": "https://open.spotify.com/track/4EGRn08pP3tFFUV3NClsM7"
@@ -14840,7 +14840,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 167203,
       "name": "E Adev\u0103rat",
       "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
@@ -23472,7 +23472,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "Inima fara noroc",
       "url": "https://open.spotify.com/track/5DwFy1Hh4B6Net4HTuznM6"
@@ -28018,7 +28018,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 266983,
       "name": "M-as Certa Iar Cu Tine",
       "url": "https://open.spotify.com/track/1krlXaWKv5ziuRuGsQXFMW"
@@ -30602,7 +30602,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 203920,
       "name": "MonCher",
       "url": "https://open.spotify.com/track/1S7tbZ8cDzZ0Pu2OOACEjX"
@@ -42102,7 +42102,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
@@ -42138,7 +42138,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 142654,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
@@ -44480,7 +44480,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 214649,
       "name": "STIU CA TI-E DOR",
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
@@ -47729,6 +47729,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358807,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
+    },
+    {
+      "album": {
         "name": "Ti-Am Sarutat Buzele",
         "url": "https://open.spotify.com/album/59aKChQ8UtkmpMFtunDeEt"
       },
@@ -49720,7 +49738,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/4xqcdWSI76WcQBottrpm1Z"

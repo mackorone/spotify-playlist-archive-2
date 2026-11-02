@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Josie Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,679 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,674 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [BANDERA BLANCA](https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 3:04 |
 | 32 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
 | 33 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |
-| 34 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
-| 35 | [Too Much Of A Good Thing](https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Too Much Of A Good Thing](https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x) | 2:53 |
-| 36 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
+| 34 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
+| 35 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
+| 36 | [Too Much Of A Good Thing](https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Too Much Of A Good Thing](https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x) | 2:53 |
 | 37 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
 | 38 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
 | 39 | [Used To Be](https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Used To Be](https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG) | 3:01 |
 | 40 | [WYO](https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [NOT DA 2](https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi) | 2:36 |
-| 41 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
-| 42 | [Crucified](https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Crucified](https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A) | 3:10 |
+| 41 | [Crucified](https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Crucified](https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A) | 3:10 |
+| 42 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
 | 43 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
 | 44 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 45 | [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,159 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,164 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 15 | [Who Did You Touch?](https://open.spotify.com/track/6CTctWuXG9ZyGkV6ZcgIB2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/3L1ds7cxGur2ccGMrnhPJD) | 3:28 |
 | 16 | [You Make Me Feel Loved](https://open.spotify.com/track/0QkcHeNisSRIND5lsdHxwh) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Seraphim](https://open.spotify.com/album/5ppyF8wHl6ceiE5ZEWUIWh) | 2:40 |
 | 17 | [Every Night](https://open.spotify.com/track/1lX8V2xUmdIyUrzivuDUD6) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 2:28 |
-| 18 | [Ostentatious \- piano edit](https://open.spotify.com/track/4worOXgLQwsE6uFW2h2TUy) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Ostentatious \(piano edit\)](https://open.spotify.com/album/7yqeWL0Gd9iIbzlbAWdvi7) | 3:12 |
-| 19 | [DISTRACTION](https://open.spotify.com/track/5vI1m5V38fFdYNRWpqAHRW) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/5cmwRxgjoi3TZbgz7UGYLp) | 3:00 |
+| 18 | [DISTRACTION](https://open.spotify.com/track/5vI1m5V38fFdYNRWpqAHRW) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/5cmwRxgjoi3TZbgz7UGYLp) | 3:00 |
+| 19 | [Ostentatious \- piano edit](https://open.spotify.com/track/4worOXgLQwsE6uFW2h2TUy) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Ostentatious \(piano edit\)](https://open.spotify.com/album/7yqeWL0Gd9iIbzlbAWdvi7) | 3:12 |
 | 20 | [Enough For You](https://open.spotify.com/track/2LdSGeevF8S4LF2oWyONWO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 0:49 |
 | 21 | [Exscape](https://open.spotify.com/track/2hybPIpFIDRa8XEY5D4VE2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 2:22 |
 | 22 | [i cant tell \(love my money\)](https://open.spotify.com/track/1vlsRbS3ZEGLgX6sxpHnrS) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/1zZ4iplHe7z3ONNPnVYkVD) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Stay Patient.](https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay Patient.](https://open.spotify.com/album/2XhxedyLppu92AMi3038ES) | 3:20 |
 | 50 | [3:35am](https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt) | 3:02 |
 
-Snapshot ID: `auKMgAAAAACAKslVdtldWLmRPaJUqMml`
+Snapshot ID: `auUvgAAAAADZgDIvp7MSmZI0NoP6WmiU`

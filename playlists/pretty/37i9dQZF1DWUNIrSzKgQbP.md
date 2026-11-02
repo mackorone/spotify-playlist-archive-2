@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,626,919 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,626,735 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 42 | [Smoked](https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [I'll Be Waving As You Drive Away](https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe) | 5:18 |
 | 43 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
 | 44 | [Twin](https://open.spotify.com/track/4l7sD2PFNFdeJpQueQR2YK) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Theatre](https://open.spotify.com/album/0EoYsG4MursZcQp8DGp5pH) | 5:17 |
-| 45 | [Lost](https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Half Blue](https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP) | 3:52 |
-| 46 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
-| 47 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 |
+| 45 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 |
+| 46 | [Lost](https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Half Blue](https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP) | 3:52 |
+| 47 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 | 48 | [Somebody Like Me](https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:56 |
 | 49 | [Summer of Love](https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 4:48 |
 | 50 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |

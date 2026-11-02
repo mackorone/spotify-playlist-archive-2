@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1267286,
+  "num_followers": 1267326,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 253909,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Season of the Witch",
-      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "The Essentials: Tommy James & The Shondells",
-        "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
-      },
-      "artists": [
-        {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Crimson & Clover - Single Version",
-      "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Sunshine Superman",
         "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 195000,
       "name": "Sunshine Superman",
       "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "The Essentials: Tommy James & The Shondells",
+        "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Crimson & Clover - Single Version",
+      "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Back To The Story",
-        "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
-      },
-      "artists": [
-        {
-          "name": "The Idle Race",
-          "url": "https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G"
-        }
-      ],
-      "duration_ms": 108626,
-      "name": "Morning Sunshine",
-      "url": "https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Ogdens' Nut Gone Flake - 50th Anniversary Edition (2018 Remaster)",
         "url": "https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 185695,
       "name": "Lazy Sunday (Stereo Version) (2018 Remaster)",
       "url": "https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Back To The Story",
+        "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
+      },
+      "artists": [
+        {
+          "name": "The Idle Race",
+          "url": "https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G"
+        }
+      ],
+      "duration_ms": 108626,
+      "name": "Morning Sunshine",
+      "url": "https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Friday on My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Friday on My Mind",
+      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 178146,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Singles 1965-1967",
+        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 275840,
+      "name": "We Love You - Stereo Version",
+      "url": "https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1215,22 +1231,6 @@
       "duration_ms": 197013,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/6hXHOrhKW9dgQt35Mc5dCb"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Born To Be Wild (Best Of....)",
-        "url": "https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 348560,
-      "name": "The Pusher",
-      "url": "https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5"
     }
   ],
   "unique_name": "Psychedelic Rock",

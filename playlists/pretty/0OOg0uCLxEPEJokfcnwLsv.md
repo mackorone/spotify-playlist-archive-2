@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,432 likes - 63 songs - 3 hr 47 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,441 likes - 65 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 61 | [Butterfly](https://open.spotify.com/track/16O07dMipBszv1IXqPO3Bl) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [Butterfly](https://open.spotify.com/album/6fAmumUIB9Xcne6enUXwCD) | 4:31 |
 | 62 | [Hole In The Page](https://open.spotify.com/track/0YnttbLpSAZxLWF0TqYZw0) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 3:06 |
 | 63 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
+| 64 | [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 |
+| 65 | [\(not\) Hard To Love](https://open.spotify.com/track/1H2N7wWdmrESclVCkq88a2) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [\(not\) Hard To Love](https://open.spotify.com/album/62wWEOz1JMT297bowmB8tf) | 4:00 |
 
-Snapshot ID: `AAAHScQ0k/mJe+aHONmbNWnzM2hb+Os2`
+Snapshot ID: `AAAHS2ZIdOFsEM2oKxG4OqgJF2N564oh`

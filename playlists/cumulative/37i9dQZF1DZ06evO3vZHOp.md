@@ -4,7 +4,7 @@
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-134 songs - 7 hr 19 min
+135 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Arizona](https://open.spotify.com/track/60ms6HaoWLPNJPYWp3K84t) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Archivos Eladio Vol\. 3](https://open.spotify.com/album/6CP0fTkaAGE803geakDl3b) | 3:20 | 2025-09-20 | 2025-11-22 |
 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 | 2024-01-20 | 2024-02-18 |
 | [BFF](https://open.spotify.com/track/02hz9U9L9TmnTLm4iFP7ub) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 3:11 | 2024-12-22 | 2025-03-02 |
-| [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 | 2026-05-03 |  |
+| [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 | 2026-05-03 | 2026-11-02 |
+| [Body \- Remix](https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Body \(Remix\)](https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS) | 3:54 | 2026-11-02 |  |
 | [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 | 2026-02-11 |  |
 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 | 2024-01-19 | 2025-04-06 |
 | [Chance](https://open.spotify.com/track/4gFklzyutaUi4ScR9Qe1iS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Archivos Eladio Vol\. 3](https://open.spotify.com/album/6CP0fTkaAGE803geakDl3b) | 2:33 | 2025-09-26 | 2025-11-05 |

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1432,
+  "num_followers": 1441,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHScQ0k/mJe+aHONmbNWnzM2hb+Os2",
+  "snapshot_id": "AAAHS2ZIdOFsEM2oKxG4OqgJF2N564oh",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -1027,6 +1027,38 @@
       "duration_ms": 222239,
       "name": "Storm The Castle",
       "url": "https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK"
+    },
+    {
+      "added_at": "2026-11-01 15:53:58",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz"
+      },
+      "artists": [
+        {
+          "name": "Groove Vultures",
+          "url": "https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq"
+    },
+    {
+      "added_at": "2026-11-01 16:42:36",
+      "album": {
+        "name": "(not) Hard To Love",
+        "url": "https://open.spotify.com/album/62wWEOz1JMT297bowmB8tf"
+      },
+      "artists": [
+        {
+          "name": "Reverliee",
+          "url": "https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "(not) Hard To Love",
+      "url": "https://open.spotify.com/track/1H2N7wWdmrESclVCkq88a2"
     }
   ],
   "unique_name": "Unsigned Rock",

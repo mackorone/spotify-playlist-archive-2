@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 697101,
+  "num_followers": 697116,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auPeAAAAAABbYlTMnc2jzAbgZwo0hXFF",
+  "snapshot_id": "auUvgAAAAABE2L47dAtwenkym+0bW84C",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "Riders On The Storm (Fredwreck Remix)",
+        "url": "https://open.spotify.com/album/4Amv0hrD1UuVHSnexg1iqP"
       },
       "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
         {
           "name": "The Doors",
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 133826,
-      "name": "Hello, I Love You",
-      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
+      "duration_ms": 382240,
+      "name": "Riders On The Storm - Fredwreck Remix",
+      "url": "https://open.spotify.com/track/0RcYEWXtbu4ehdv1tiBOi0"
     },
     {
       "added_at": null,
@@ -219,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riders On The Storm (Fredwreck Remix)",
-        "url": "https://open.spotify.com/album/4Amv0hrD1UuVHSnexg1iqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 382240,
-      "name": "Riders On The Storm - Fredwreck Remix",
-      "url": "https://open.spotify.com/track/0RcYEWXtbu4ehdv1tiBOi0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -248,9 +232,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 169533,
-      "name": "Love Street",
-      "url": "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
+      "duration_ms": 133826,
+      "name": "Hello, I Love You",
+      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Break on Through (To the Other Side) - New Stereo Mix",
+      "url": "https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of the Doors",
-        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Break on Through (To the Other Side) - New Stereo Mix",
-      "url": "https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE"
+      "duration_ms": 169533,
+      "name": "Love Street",
+      "url": "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "The Spy",
-      "url": "https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 190200,
       "name": "Hyacinth House",
       "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "The Spy",
+      "url": "https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW"
     },
     {
       "added_at": null,
@@ -663,42 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An American Prayer",
-        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
-      },
-      "artists": [
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        },
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 63773,
-      "name": "Bird of Prey",
-      "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 514640,
-      "name": "The Soft Parade",
-      "url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unbound and Dangerous (Live)",
         "url": "https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ"
       },
@@ -724,9 +688,29 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 287600,
-      "name": "Shaman's Blues",
-      "url": "https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil"
+      "duration_ms": 514640,
+      "name": "The Soft Parade",
+      "url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 63773,
+      "name": "Bird of Prey",
+      "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
     },
     {
       "added_at": null,
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 175826,
-      "name": "Wishful Sinful",
-      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
+      "duration_ms": 287600,
+      "name": "Shaman's Blues",
+      "url": "https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 535492,
       "name": "Light My Fire (Live, 1970) - 2026 Mix",
       "url": "https://open.spotify.com/track/5GCcUWe7V70x1JfpqoMqjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 175826,
+      "name": "Wishful Sinful",
+      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
     },
     {
       "added_at": null,

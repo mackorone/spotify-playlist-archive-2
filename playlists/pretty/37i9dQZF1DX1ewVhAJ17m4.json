@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604619,
+  "num_followers": 604617,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Stare at the Sun",
+        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
+      },
+      "artists": [
+        {
+          "name": "Makari",
+          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Barely Here",
         "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 190000,
       "name": "Deadbeat",
       "url": "https://open.spotify.com/track/0HekjtwjtV06N95r56zLmA"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Stare at the Sun",
-        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
-      },
-      "artists": [
-        {
-          "name": "Makari",
-          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Hard Call",
+        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Hard Call",
+      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Hard Call",
-        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
+        "name": "That's So True",
+        "url": "https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4"
       },
       "artists": [
         {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+          "name": "Jack The Underdog",
+          "url": "https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Hard Call",
-      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
+      "duration_ms": 167142,
+      "name": "That's So True",
+      "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1143,22 +1159,6 @@
       "duration_ms": 155668,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "That's So True",
-        "url": "https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4"
-      },
-      "artists": [
-        {
-          "name": "Jack The Underdog",
-          "url": "https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "That's So True",
-      "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "when we were friends",
-        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "when we were friends",
-      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Nice to Know Ya",
         "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "when we were friends",
+        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "when we were friends",
+      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Can You Keep A Secret?",
         "url": "https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8"
       },
@@ -1419,38 +1403,6 @@
       "duration_ms": 146869,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/60ONsKRNx01Zr4W0lVWs7A"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Don't Let Me Get Too Low",
-        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 158999,
-      "name": "Don't Let Me Get Too Low",
-      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Take What You Want",
-        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 146703,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1471,18 +1423,50 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "As It Is",
-        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
+        "name": "Don't Let Me Get Too Low",
+        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
       "artists": [
         {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 213364,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
+      "duration_ms": 158999,
+      "name": "Don't Let Me Get Too Low",
+      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Take What You Want",
+        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 146703,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "As It Is",
+        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 213364,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Someone You Need",
         "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "I Feel Like Shit And It's All Your Fault",
-        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 177236,
-      "name": "Hate My Mom",
-      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "me against me",
         "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 223229,
       "name": "me against me",
       "url": "https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "I Feel Like Shit And It's All Your Fault",
+        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 177236,
+      "name": "Hate My Mom",
+      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Like Me Less",
-        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
-      },
-      "artists": [
-        {
-          "name": "Harrison Gordon",
-          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
-        }
-      ],
-      "duration_ms": 172351,
-      "name": "Like Me Less",
-      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Fields Behind The House",
         "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 162666,
       "name": "Fields Behind the House",
       "url": "https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Like Me Less",
+        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
+      },
+      "artists": [
+        {
+          "name": "Harrison Gordon",
+          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
+        }
+      ],
+      "duration_ms": 172351,
+      "name": "Like Me Less",
+      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "The Opposite of Luck",
-        "url": "https://open.spotify.com/album/4G770FQ0qYG6aoBUcYF2dh"
-      },
-      "artists": [
-        {
-          "name": "Goalkeeper",
-          "url": "https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n"
-        }
-      ],
-      "duration_ms": 157610,
-      "name": "The Opposite of Luck",
-      "url": "https://open.spotify.com/track/56fk5nFh3D3XPX9QzQaPHh"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3WRLRzAkTcrrGemtia8jxF"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 183588,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2YcUWBymYJzYYumtJPMJE4"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "The Opposite of Luck",
+        "url": "https://open.spotify.com/album/4G770FQ0qYG6aoBUcYF2dh"
+      },
+      "artists": [
+        {
+          "name": "Goalkeeper",
+          "url": "https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n"
+        }
+      ],
+      "duration_ms": 157610,
+      "name": "The Opposite of Luck",
+      "url": "https://open.spotify.com/track/56fk5nFh3D3XPX9QzQaPHh"
     },
     {
       "added_at": "2026-10-23 04:01:58",

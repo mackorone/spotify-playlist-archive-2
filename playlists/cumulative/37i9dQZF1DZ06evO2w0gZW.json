@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Glitter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232663,
+      "name": "Lead The Way - 1997 Version",
+      "url": "https://open.spotify.com/track/5Y8LAVurqLEoatxbl8K4sa"
+    },
+    {
+      "album": {
         "name": "Mariah Carey",
         "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
       },
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 308018,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: FullyChop
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,648 likes - 85 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,701 likes - 85 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [Sexxy](https://open.spotify.com/track/7DGr8RxLyy0ofCtSLmZtxW) | [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw) | [Sexxy](https://open.spotify.com/album/49OujRbYAHaPrUj6kFBqRg) | 3:17 |
 | 76 | [Otha Siiide](https://open.spotify.com/track/7hi9NNb00NqPVLJKJgRDid) | [okay coleman!](https://open.spotify.com/artist/2kAc58JeMNRXTVm3sVHrSN) | [001](https://open.spotify.com/album/5dlOlHtFoosm0B2bCz2Y4u) | 2:14 |
 | 77 | [Cannes](https://open.spotify.com/track/2LDtIlX8RS5qfI7Pw7EAxN) | [Pz'](https://open.spotify.com/artist/1lLUEzsrrtS8LRMtg5xTGT) | [No Turning Back](https://open.spotify.com/album/6oIBwTH7nRFbIOtbewYEAO) | 2:08 |
-| 78 | [Irresponsible](https://open.spotify.com/track/0SYpRF77aDTsKEaVfPyfwg) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [SAVE!](https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE) | 3:11 |
+| 78 | [Irresponsible](https://open.spotify.com/track/0SYpRF77aDTsKEaVfPyfwg) | [Nahree](https://open.spotify.com/artist/3ykDsdvm7KEfk05HH9t0ax), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [SAVE!](https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE) | 3:11 |
 | 79 | [or not](https://open.spotify.com/track/7r9xcGm6JJsgbyNQATmQwC) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [or not](https://open.spotify.com/album/7jPIkuY4JiMUdCZrl3Iumw) | 2:58 |
 | 80 | [MULA THA ROOT OF ALL EVIL](https://open.spotify.com/track/178Kk0lBFBHRh8EhuRj7YY) | [Lil Novi](https://open.spotify.com/artist/0p2aFROS95bdLkYYL0pYSz), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [MULA THA ROOT OF ALL EVIL](https://open.spotify.com/album/1nhuz9B3Goim5GgBDPh1km) | 2:17 |
 | 81 | [what goes around comes around](https://open.spotify.com/track/304PcJh2LSxHA5PJKeSSfn) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [YEAH BOP!](https://open.spotify.com/album/74Oufv2Vxlxq4aUF5UCPCD) | 2:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 84 | [I'm Scared](https://open.spotify.com/track/63qpDL0lQDGtCIISBiLUuf) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [5 Problems](https://open.spotify.com/album/6B5fS73xLbj00E9mttG5Qp) | 2:05 |
 | 85 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAABAeLl2IdHfBTSfKkHibBG3NLTe5`
+Snapshot ID: `AAAAAGUooO39xgtwwC+xBWB9CLW0khl+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 697058,
+  "num_followers": 697078,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABcVbAFqVlG7YM/A8ushMuQ",
+  "snapshot_id": "auUvgAAAAABIj1mkWNUYHQMCHa+w8x1c",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Beat Edition)",
-        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7kPfYWVMd3vifrji4ADsw5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanna Be (Remix Alternate Versions)",
         "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 224000,
       "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
       "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM I THE DRAMA? (Beat Edition)",
+        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7kPfYWVMd3vifrji4ADsw5"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Beat Edition)",
-        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Pretty & Petty",
-      "url": "https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Side (feat. Cardi B)",
         "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
       },
@@ -603,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+        "name": "AM I THE DRAMA? (Beat Edition)",
+        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
       },
       "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 158706,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+      "duration_ms": 183426,
+      "name": "Pretty & Petty",
+      "url": "https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 276013,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158706,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
     },
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "Press",
+        "url": "https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ"
       },
       "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 161167,
-      "name": "Bet You Wanna (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+      "duration_ms": 143791,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv"
     },
     {
       "added_at": null,
@@ -779,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Press",
-        "url": "https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ"
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
       "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 143791,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv"
+      "duration_ms": 161167,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 232574,
-      "name": "Pocket (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/61WdhGJZSILRG11rRJP1gm"
+      "duration_ms": 189473,
+      "name": "COSITA",
+      "url": "https://open.spotify.com/track/1VmIru4R2y5INQgqpSh2gb"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 232574,
+      "name": "Pocket (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/61WdhGJZSILRG11rRJP1gm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rumors (feat. Cardi B)",
         "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
@@ -891,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -907,22 +943,6 @@
       "duration_ms": 154200,
       "name": "PUT EM IN THE FRIDGE",
       "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
     },
     {
       "added_at": null,
@@ -971,30 +991,6 @@
       "duration_ms": 226185,
       "name": "I Just Wanna Know (feat. Ty Dolla $ign & Cardi B)",
       "url": "https://open.spotify.com/track/5eD5JBetKz2JdeGlIBIPvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gusta (with Cardi B & Myke Towers)",
-        "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 180788,
-      "name": "Me Gusta (with Cardi B & Myke Towers)",
-      "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
     },
     {
       "added_at": null,

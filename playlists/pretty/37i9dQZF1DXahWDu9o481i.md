@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,980 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,987 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 3 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
 | 4 | [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 |
 | 5 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
-| 6 | [Why Don’t You Say So \(feat\. Avery Anna\)](https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Friends That I Don't Like](https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF) | 3:26 |
-| 7 | [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Rohan Pinnock\-Hamilton](https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 |
+| 6 | [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Rohan Pinnock\-Hamilton](https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 |
+| 7 | [Why Don’t You Say So \(feat\. Avery Anna\)](https://open.spotify.com/track/0JTvM3WnB7C2X8LxOcnCS5) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Friends That I Don't Like](https://open.spotify.com/album/7eyv7hW1A1tara9sbIE2LF) | 3:26 |
 | 8 | [Where Is Gone?](https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 5:16 |
-| 9 | [Channel 13](https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine \(10th Anniversary\)](https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI) | 4:24 |
-| 10 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 |
+| 9 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 |
+| 10 | [Channel 13](https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine \(10th Anniversary\)](https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI) | 4:24 |
 | 11 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
 | 12 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
 | 13 | [Waiting Room](https://open.spotify.com/track/0g1yZo3wKgRtexXZzhZ98m) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Waiting Room](https://open.spotify.com/album/4OTN6499OJjQcswppxk0lv) | 3:02 |

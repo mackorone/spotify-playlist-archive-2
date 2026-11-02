@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 231470,
       "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
       "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 187469,
       "name": "Everything BoZ (feat. Coi Leray) - Sped Up",
       "url": "https://open.spotify.com/track/51S023IDC6NvK6gPl49PT9"
@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Milk N Cookies (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/663MzUMu38eFbJ3zlCvnVG"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160397,
+      "name": "Milk N Cookies (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/1tbhlvwnHDLa47DaLupyNk"
+    },
+    {
+      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 185477,
       "name": "Push Start (with Coi Leray feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79"

@@ -1327,6 +1327,32 @@
     },
     {
       "album": {
+        "name": "Greatness",
+        "url": "https://open.spotify.com/album/0YlejC2NYCGaasm2yVJ6Tt"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392113,
+      "name": "Greatness",
+      "url": "https://open.spotify.com/track/476NZpK9PwbxMd7ya9IX9C"
+    },
+    {
+      "album": {
         "name": "He Has Done Great Things (Live)",
         "url": "https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d"
       },
@@ -1630,7 +1656,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 519770,
       "name": "I Belong To Jesus (Live)",
       "url": "https://open.spotify.com/track/3PO1bLMdUGmpRWnNuraEsn"

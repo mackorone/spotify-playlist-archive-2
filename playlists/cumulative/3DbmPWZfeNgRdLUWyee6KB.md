@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,654 songs - 4 day 0 hr 34 min
+1,657 songs - 4 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 | 2026-06-05 | 2026-07-03 |
 | [Drug Infused Love](https://open.spotify.com/track/0zvHPpFftBopYcKXTexcjm) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Drug Infused Love](https://open.spotify.com/album/7falbSgkPHlEQ8WfjnRhPf) | 2:45 | 2026-02-25 | 2026-03-25 |
 | [Dry Land](https://open.spotify.com/track/1serZjuQxClBxPTGcUqaVa) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Dry Land](https://open.spotify.com/album/0xo0hP4MfnRfOlnMAuLD9p) | 6:18 | 2026-06-04 | 2026-07-03 |
+| [Dry Your Eyes](https://open.spotify.com/track/4Yc6aY5A1X2ZHVuVHDNjMP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Price Of Your Love](https://open.spotify.com/album/7KGqtWbKkhlCcvC26uUS32) | 2:34 | 2026-11-01 |  |
 | [DU BIST WILD](https://open.spotify.com/track/2pAAKvqH7VTBde8kQ1UEPH) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [DU BIST WILD](https://open.spotify.com/album/0xruuJobmDpHM0auPUh4uh) | 3:00 | 2026-08-27 | 2026-09-20 |
 | [Du är fri](https://open.spotify.com/track/53Vdv4GR4yCrBTA9ufhGjk) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [Du är fri](https://open.spotify.com/album/2CZgO1nVD6zL1MuAKHbJl5) | 3:09 | 2026-06-29 | 2026-08-10 |
 | [Dual](https://open.spotify.com/track/5vN9W5CbFtWYv17mp6bzLR) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Dual](https://open.spotify.com/album/15P2VvizUmctB7VhJ6Obk2) | 2:59 | 2025-12-09 | 2026-01-05 |
@@ -954,6 +955,7 @@
 | [New Beginning](https://open.spotify.com/track/0j8MBA8Z4UWqEuuKxLQLVJ) | [C\-Blanch](https://open.spotify.com/artist/3P4f8K6ylyCWcD8sP23BhM), [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [New Beginning](https://open.spotify.com/album/1NvoxvesaqQU9i10LeyQjH) | 2:12 | 2026-01-11 | 2026-02-07 |
 | [New Coat of Paint](https://open.spotify.com/track/0km6LmWEBCRpdU8ey7e7dW) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Stephen Cole](https://open.spotify.com/artist/76iXJt5FHxefmr6S8wPi6g) | [Jazz Me up!, Vol\. 1](https://open.spotify.com/album/1kOCeKNNKP19NWYTCcjmJK) | 3:29 | 2026-09-09 | 2026-10-23 |
 | [New Moon](https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu) | [Green House](https://open.spotify.com/album/31bUl1V0mz4jLtXEBbV32q) | 3:11 | 2026-03-12 | 2026-04-12 |
+| [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2026-11-01 |  |
 | [Next to Where You Are](https://open.spotify.com/track/6QNExFOxoIw3QvqHD74Gtt) | [Chris Carbon](https://open.spotify.com/artist/6JxWjdVW8CVnrdgj1ZMjfT) | [Next to Where You Are](https://open.spotify.com/album/2EQmEvcmOOo08UY6z8hSFu) | 4:16 | 2026-04-21 | 2026-06-05 |
 | [Nfs](https://open.spotify.com/track/5AWeIqorfxJeSe5VOJhWx1) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 2:40 | 2026-01-14 | 2026-02-20 |
 | [Nicht nur heut](https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 3:22 | 2026-09-03 | 2026-10-03 |
@@ -1465,6 +1467,7 @@
 | [Touch](https://open.spotify.com/track/43NZJKAwliwhhf92fVfwwx) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Touch](https://open.spotify.com/album/4Ai7hZRY0AFkeTwZsVhgwt) | 2:46 | 2025-12-13 | 2026-01-15 |
 | [Toxic Trait](https://open.spotify.com/track/34KZgwr2aDJQSeclVpdKB6) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Toxic Trait](https://open.spotify.com/album/0c4tXSpPZgmfezbQiri3q4) | 2:45 | 2026-01-28 | 2026-02-28 |
 | [Tracks and Trials](https://open.spotify.com/track/4xGRKrYSF8wyPqtXnYwnNp) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Tracks and Trials](https://open.spotify.com/album/0qti15pcmEyYpzolt4OiWB) | 3:40 | 2023-06-29 | 2025-11-29 |
+| [Train of Thought](https://open.spotify.com/track/7A4kVgPas3xUgR6up9mhWd) | [Robbie Hail](https://open.spotify.com/artist/5MjcWlEZfsAx2JE7OwVmv4) | [Don't Know? Have a Go! \(Music From & Inspired By\)](https://open.spotify.com/album/27C5m8RY9mQz6nq0F2SHjk) | 4:44 | 2026-11-01 |  |
 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 | 2026-07-05 | 2026-08-10 |
 | [Tranced](https://open.spotify.com/track/6lAhFQSwozOyNAEmTSeYxf) | [Lreds](https://open.spotify.com/artist/484AKhrbNYknWTxBc5cn0K) | [Tranced](https://open.spotify.com/album/1GPbQAIy1QwhNcLvRgBqaU) | 2:50 | 2026-03-11 | 2026-04-12 |
 | [Tranquility](https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Tranquility](https://open.spotify.com/album/5EOfIpRs4JMH9M52TVzxs4) | 4:34 | 2025-11-04 | 2025-12-21 |

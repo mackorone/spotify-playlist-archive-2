@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 34812,
+  "num_followers": 34860,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "RESONATE",
-        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
-      },
-      "artists": [
-        {
-          "name": "Surya Hearts",
-          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "RESONATE",
-      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "Electricity (salute Remix)",
         "url": "https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 250675,
       "name": "Electricity (salute Remix)",
       "url": "https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "RESONATE",
+        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
+      },
+      "artists": [
+        {
+          "name": "Surya Hearts",
+          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "RESONATE",
+      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -171,18 +171,22 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "ZAMBIENT",
-        "url": "https://open.spotify.com/album/0NcaumRmEsh0CVU6yGptCg"
+        "name": "The Moon's Elbow",
+        "url": "https://open.spotify.com/album/69quTR1SlD7t3cAjoNhvYZ"
       },
       "artists": [
         {
-          "name": "TOWA TEI",
-          "url": "https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD"
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
         }
       ],
-      "duration_ms": 213793,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY"
+      "duration_ms": 185200,
+      "name": "The Moon's Elbow",
+      "url": "https://open.spotify.com/track/25qXnyckAQv0djLzPQ6ECh"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -203,22 +207,18 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "The Moon's Elbow",
-        "url": "https://open.spotify.com/album/69quTR1SlD7t3cAjoNhvYZ"
+        "name": "ZAMBIENT",
+        "url": "https://open.spotify.com/album/0NcaumRmEsh0CVU6yGptCg"
       },
       "artists": [
         {
-          "name": "Ichika Nito",
-          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
-        },
-        {
-          "name": "Marcin",
-          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+          "name": "TOWA TEI",
+          "url": "https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD"
         }
       ],
-      "duration_ms": 185200,
-      "name": "The Moon's Elbow",
-      "url": "https://open.spotify.com/track/25qXnyckAQv0djLzPQ6ECh"
+      "duration_ms": 213793,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/7nz1Skh9UvcfcG1vvoAwyY"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "higher",
-        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
-      },
-      "artists": [
-        {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "higher",
-      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "who do u love?",
         "url": "https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 197863,
       "name": "who do u love?",
       "url": "https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "sign",
+        "url": "https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "sign",
+      "url": "https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "sign",
-        "url": "https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE"
-      },
-      "artists": [
-        {
-          "name": "LAUSBUB",
-          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "sign",
-      "url": "https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -659,38 +643,18 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "Odoriko",
-        "url": "https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG"
+        "name": "higher",
+        "url": "https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK"
       },
       "artists": [
         {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
-        },
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
         }
       ],
-      "duration_ms": 289880,
-      "name": "Odoriko",
-      "url": "https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
-        "name": "Miyanosawa",
-        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Miyanosawa",
-      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+      "duration_ms": 214733,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -711,6 +675,42 @@
       "duration_ms": 200655,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "Miyanosawa",
+        "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Miyanosawa",
+      "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "Odoriko",
+        "url": "https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 289880,
+      "name": "Odoriko",
+      "url": "https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "Achi Kochi",
-        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
-      },
-      "artists": [
-        {
-          "name": "Aili & Orson",
-          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Achi Kochi",
-      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "Combo",
         "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 166613,
       "name": "Combo",
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "Achi Kochi",
+        "url": "https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog"
+      },
+      "artists": [
+        {
+          "name": "Aili & Orson",
+          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Achi Kochi",
+      "url": "https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv"
     },
     {
       "added_at": "2026-10-20 15:26:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-20 15:26:42",
       "album": {
-        "name": "ALL HAZE",
-        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
-      },
-      "artists": [
-        {
-          "name": "TESTSET",
-          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
-        }
-      ],
-      "duration_ms": 259400,
-      "name": "Dry Action Pump",
-      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
-    },
-    {
-      "added_at": "2026-10-20 15:26:42",
-      "album": {
         "name": "ON-Netoh",
         "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 375875,
       "name": "Wwww",
       "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
+    },
+    {
+      "added_at": "2026-10-20 15:26:42",
+      "album": {
+        "name": "ALL HAZE",
+        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
+      },
+      "artists": [
+        {
+          "name": "TESTSET",
+          "url": "https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD"
+        }
+      ],
+      "duration_ms": 259400,
+      "name": "Dry Action Pump",
+      "url": "https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n"
     },
     {
       "added_at": "2026-10-20 15:26:42",

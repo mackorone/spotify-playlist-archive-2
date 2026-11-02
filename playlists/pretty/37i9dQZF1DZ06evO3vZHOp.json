@@ -1,13 +1,37 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 381474,
+  "num_followers": 381478,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABfL4VwwDJWDCDRz4rswZnx",
+  "snapshot_id": "auUvgAAAAADvgGfwylZv1he7GCbLQNlm",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body (Remix)",
+        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Body - Remix",
+      "url": "https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK"
+    },
     {
       "added_at": null,
       "album": {
@@ -195,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 187098,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -363,34 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensabas",
-        "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Pensabas",
-      "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -427,22 +407,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
+        "name": "Pensabas",
+        "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 217736,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
+      "duration_ms": 292000,
+      "name": "Pensabas",
+      "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
     },
     {
       "added_at": null,
@@ -467,6 +455,26 @@
       "duration_ms": 240000,
       "name": "No Podemos - Remix",
       "url": "https://open.spotify.com/track/1jZXWu9aglrtzS9IqLbnrd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 217736,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
     },
     {
       "added_at": null,
@@ -663,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
       },
       "artists": [
         {
@@ -672,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 151627,
-      "name": "100 Conmigo",
-      "url": "https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A"
+      "duration_ms": 168659,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/6PnXTyFIJIW16j9ut633vJ"
     },
     {
       "added_at": null,
@@ -699,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
       "artists": [
         {
@@ -708,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 168659,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/6PnXTyFIJIW16j9ut633vJ"
+      "duration_ms": 151627,
+      "name": "100 Conmigo",
+      "url": "https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A"
     },
     {
       "added_at": null,
@@ -743,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00e1rgolas Forever",
         "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
       },
@@ -763,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Leyendas Nunca Mueren",
         "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
@@ -779,38 +819,6 @@
       "duration_ms": 176538,
       "name": "North Carolina",
       "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": null,
@@ -871,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 244166,
-      "name": "Impredecible",
-      "url": "https://open.spotify.com/track/6RlMyEKTup093DPweRgiSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/2POOBpENGAB9LDhnT3OSJ6"
       },
@@ -911,6 +899,26 @@
       "duration_ms": 261714,
       "name": "Andando",
       "url": "https://open.spotify.com/track/2AG1Rn7k5OPiiylRoGkOq2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 244166,
+      "name": "Impredecible",
+      "url": "https://open.spotify.com/track/6RlMyEKTup093DPweRgiSB"
     },
     {
       "added_at": null,
@@ -1011,22 +1019,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nota",
-        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 159482,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+      "duration_ms": 178560,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
     },
     {
       "added_at": null,
@@ -1051,18 +1055,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Hugo",
-      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
+      "duration_ms": 159482,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 59233,
+  "num_followers": 59247,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADamSQIySIiA5CXjcs2xySj",
+  "snapshot_id": "auUvgAAAAAADbD3DXD9YZTVrLyi6Coaj",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 224581,
-      "name": "Hair Salon",
-      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
+      "duration_ms": 227399,
+      "name": "Say When",
+      "url": "https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Am I Okay? (I'll Be Fine)",
         "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 163633,
       "name": "Bless Your Heart",
       "url": "https://open.spotify.com/track/0R7mbF0KQERtpLaTuugWZg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 227399,
-      "name": "Say When",
-      "url": "https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg"
     },
     {
       "added_at": null,

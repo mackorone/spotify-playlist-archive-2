@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 169003,
+  "num_followers": 169019,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -571,66 +571,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
-      },
-      "artists": [
-        {
-          "name": "Baby Maikol",
-          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Rey Tony",
-          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
-        },
-        {
-          "name": "Helabusador",
-          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
-        },
-        {
-          "name": "Dave Produce",
-          "url": "https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9"
-        },
-        {
-          "name": "Michel Boutic",
-          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
-        }
-      ],
-      "duration_ms": 218971,
-      "name": "Fantasia - Prod. by Dave Produce x Michel Boutic",
-      "url": "https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
-        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
-        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
-        }
-      ],
-      "duration_ms": 158484,
-      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
-      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Papita Frita",
         "url": "https://open.spotify.com/album/5hWtMDpR5ID7uqtezFcVQo"
       },
@@ -663,6 +603,66 @@
       "duration_ms": 167981,
       "name": "Papita Frita - Prod. by Ernesto Losa x Mauro El C\u00f3digo Secreto x Roberto Ferrante",
       "url": "https://open.spotify.com/track/4Q5haXnrTisp0rMaZYYaL4"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Roberto Ferrante)",
+        "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "duration_ms": 158484,
+      "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Roberto Ferrante",
+      "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
+      },
+      "artists": [
+        {
+          "name": "Baby Maikol",
+          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "Dave Produce",
+          "url": "https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9"
+        },
+        {
+          "name": "Michel Boutic",
+          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
+        }
+      ],
+      "duration_ms": 218971,
+      "name": "Fantasia - Prod. by Dave Produce x Michel Boutic",
+      "url": "https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -755,34 +755,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
-      },
-      "artists": [
-        {
-          "name": "Akoy",
-          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
-        },
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        }
-      ],
-      "duration_ms": 194036,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Uff",
         "url": "https://open.spotify.com/album/45te0DqNJr2j75nyaXzFSZ"
       },
@@ -807,6 +779,34 @@
       "duration_ms": 197894,
       "name": "Uff - Prod. by Dj Honda",
       "url": "https://open.spotify.com/track/7tqyxyev63WRu0k3hxbc7p"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
+      },
+      "artists": [
+        {
+          "name": "Akoy",
+          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
+        },
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "duration_ms": 194036,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Firme Contigo",
-        "url": "https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO"
-      },
-      "artists": [
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        }
-      ],
-      "duration_ms": 125831,
-      "name": "Firme Contigo",
-      "url": "https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 178055,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "Firme Contigo",
+        "url": "https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO"
+      },
+      "artists": [
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "duration_ms": 125831,
+      "name": "Firme Contigo",
+      "url": "https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
+        "name": "#Round2",
+        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
       "artists": [
         {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+          "name": "Divan",
+          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
-      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+      "duration_ms": 219220,
+      "name": "Te Amo (Versos Gastados) - Prod. by Cuban Deejay$",
+      "url": "https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w"
     }
   ],
   "unique_name": "Hecho en Cuba",

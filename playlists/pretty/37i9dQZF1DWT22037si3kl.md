@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,471 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,472 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 15 | [Amanheceu](https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Neyriellen Ferreira](https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 3:20 |
 | 16 | [Chicago \(feat\. Veigh\)](https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:42 |
 | 17 | [Lado Negro](https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 2:53 |
-| 18 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
-| 19 | [Respire](https://open.spotify.com/track/7t5Hs59TO36wls9JGwdei7) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [Um Novo Dya](https://open.spotify.com/album/0leNfO1lfD9XFIsKEZAKS2) | 2:08 |
+| 18 | [Respire](https://open.spotify.com/track/7t5Hs59TO36wls9JGwdei7) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [Um Novo Dya](https://open.spotify.com/album/0leNfO1lfD9XFIsKEZAKS2) | 2:08 |
+| 19 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
 | 20 | [Foco](https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [JECI](https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 3:20 |
 | 21 | [KIT NOVO](https://open.spotify.com/track/2DPjad5luoIoVifhhtfvIc) | [Galick](https://open.spotify.com/artist/0NwxDrYgtiPOK5nmXmNp2H), [Nick Dilla](https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j) | [KIT NOVO](https://open.spotify.com/album/59D6Nai1sKVyUr9ZWjHeOq) | 2:37 |
 | 22 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |

@@ -1,6 +1,6 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 241095,
+  "num_followers": 241137,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Saint Mary Of The Woods",
+        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 513440,
+      "name": "Choctaw Bingo",
+      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Freedom Bus (feat. Jesse Welles)",
         "url": "https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 283234,
       "name": "Freedom Bus (feat. Jesse Welles)",
       "url": "https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Saint Mary Of The Woods",
-        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 513440,
-      "name": "Choctaw Bingo",
-      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The River & The Thread",
         "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 198200,
       "name": "A Feather's Not A Bird",
       "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "California Sober / In Your Ocean (Acoustic)",
-        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 208453,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Am I Missing Out",
-        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Am I Missing Out",
-      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Am I Missing Out",
+        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Am I Missing Out",
+      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Big Day in a Small Town",
-        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Drinkin' Smokin' Cheatin'",
-      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 160120,
       "name": "Tell Heaven",
       "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Big Day in a Small Town",
+        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Drinkin' Smokin' Cheatin'",
+      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Please Don't Make Me Beg",
-      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The Essential Guy Clark",
         "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 272866,
       "name": "Desperados Waiting For A Train",
       "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Please Don't Make Me Beg",
+      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 284030,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Don\u2019t Look Back",
-        "url": "https://open.spotify.com/album/2l3s0hwnmxikBw8MaHOZv6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Miller",
-          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
-        },
-        {
-          "name": "Dan Penn",
-          "url": "https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB"
-        }
-      ],
-      "duration_ms": 210540,
-      "name": "Don\u2019t Look Back",
-      "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
       },
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Don\u2019t Look Back",
+        "url": "https://open.spotify.com/album/2l3s0hwnmxikBw8MaHOZv6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        },
+        {
+          "name": "Dan Penn",
+          "url": "https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB"
+        }
+      ],
+      "duration_ms": 210540,
+      "name": "Don\u2019t Look Back",
+      "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Airline Highway (Deluxe)",
-        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "When You\u2019re With Him - Bonus Track",
-      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 219108,
       "name": "The Rock and the Hill",
       "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Airline Highway (Deluxe)",
+        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "When You\u2019re With Him - Bonus Track",
+      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Electro Melodier",
+        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 215570,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 251826,
       "name": "Keeps Me Alive",
       "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Electro Melodier",
-        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 215570,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Birds Of St. Marks",
-        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "The Birds Of St. Marks",
-      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Mr. Lincoln",
         "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 284710,
       "name": "American Midnight",
       "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Birds Of St. Marks",
+        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Birds Of St. Marks",
+      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Finest Feelings",
-        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 205348,
-      "name": "Finest Feelings",
-      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "1970 - 1987",
         "url": "https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 236266,
       "name": "Taxes on the Farmer Feeds Us All",
       "url": "https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Finest Feelings",
+        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 205348,
+      "name": "Finest Feelings",
+      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
     },
     {
       "added_at": "2026-10-02 04:01:37",

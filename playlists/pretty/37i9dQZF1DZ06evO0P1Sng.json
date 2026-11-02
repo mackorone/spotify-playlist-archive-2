@@ -6,8 +6,32 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAD5mbgJp7XbnlT19bKPgb2k",
+  "snapshot_id": "auUvgAAAAAAZq3NiNbm7fxZO1DdkZgqv",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set da Zyzy (gosta de brincar cmg)",
+        "url": "https://open.spotify.com/album/3eTJiQw8fJl9HyUlq1XH5r"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Set da Zyzy (gosta de brincar cmg)",
+      "url": "https://open.spotify.com/track/2hlFT18leCLSIx0GpYKwpk"
+    },
     {
       "added_at": null,
       "album": {
@@ -687,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OgEMr",
-        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205576,
-      "name": "BRONCA",
-      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desce & Sobe",
         "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
       },
@@ -731,6 +731,30 @@
       "duration_ms": 164571,
       "name": "Desce & Sobe",
       "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OgEMr",
+        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "BRONCA",
+      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
     },
     {
       "added_at": null,
@@ -823,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -867,22 +907,6 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
     },
     {
       "added_at": null,
@@ -987,30 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dona de Mim (Novela)",
-        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Sandra S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 151737,
-      "name": "Dona de Mim - Novela",
-      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resumo",
         "url": "https://open.spotify.com/album/3lzIJ9gBamGfS2iEQw63Mg"
       },
@@ -1031,6 +1031,30 @@
       "duration_ms": 142279,
       "name": "Resumo",
       "url": "https://open.spotify.com/track/60VIiC7hY10xz8QT3NSQek"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dona de Mim (Novela)",
+        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Sandra S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 151737,
+      "name": "Dona de Mim - Novela",
+      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
     },
     {
       "added_at": null,
@@ -1071,30 +1095,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milhas",
-        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
+        "name": "2 Minutos",
+        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
       "artists": [
         {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
         },
         {
-          "name": "Da Paz",
-          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
         }
       ],
-      "duration_ms": 163720,
-      "name": "Milhas",
-      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
+      "duration_ms": 215520,
+      "name": "2 Minutos",
+      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
     },
     {
       "added_at": null,
@@ -1127,34 +1155,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Minutos",
-        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
+        "name": "Milhas",
+        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
       },
       "artists": [
         {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
         },
         {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+          "name": "Da Paz",
+          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
         }
       ],
-      "duration_ms": 215520,
-      "name": "2 Minutos",
-      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+      "duration_ms": 163720,
+      "name": "Milhas",
+      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
     },
     {
       "added_at": null,
@@ -1359,6 +1383,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efeito Borboleta",
+        "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "C.Z",
+          "url": "https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Sensa\u00e7\u00e3o de Poder",
+      "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R\u00edmel",
         "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
       },
@@ -1399,62 +1459,6 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/3kSdh13BSy0Is3c0yq185D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efeito Borboleta",
-        "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "C.Z",
-          "url": "https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Sensa\u00e7\u00e3o de Poder",
-      "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uma Rapper Gangster",
-        "url": "https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Dom do Toque",
-      "url": "https://open.spotify.com/track/3l83Ti1Y8r8kBe9EOiz1R9"
     },
     {
       "added_at": null,

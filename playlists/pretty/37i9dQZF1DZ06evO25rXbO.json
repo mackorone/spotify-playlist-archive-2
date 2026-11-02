@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1255413,
+  "num_followers": 1255509,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACdAMJjrnjwhfwz+wWlnwbd",
+  "snapshot_id": "auUvgAAAAADTASyeBzxfnKsq4fl3qdMy",
   "tracks": [
     {
       "added_at": null,
@@ -507,42 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleeping Powder",
-        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 166481,
-      "name": "Sleeping Powder",
-      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 230141,
-      "name": "Oil (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -567,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
       "artists": [
         {
@@ -576,13 +540,45 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Humility (feat. George Benson)",
-      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
+      "duration_ms": 230141,
+      "name": "Oil (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleeping Powder",
+        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 166481,
+      "name": "Sleeping Powder",
+      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 274760,
+      "name": "Souk Eye",
+      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
     },
     {
       "added_at": null,
@@ -658,11 +654,15 @@
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 274760,
-      "name": "Souk Eye",
-      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
+      "duration_ms": 197933,
+      "name": "Humility (feat. George Benson)",
+      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
     },
     {
       "added_at": null,

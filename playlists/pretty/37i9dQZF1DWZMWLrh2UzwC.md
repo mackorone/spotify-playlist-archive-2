@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Insomniacks, XONE, JISOO, Dominic Fike, Gracie Abrams, Hael Husaini, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,333 likes - 114 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,329 likes - 114 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -355,6 +355,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "MONTAGEM XONADA",
         "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 75682,
       "name": "MONTAGEM XONADA",
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "ACELERADA",
-        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        },
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 61269,
-      "name": "ACELERADA",
-      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ACELERADA",
+        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        },
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "duration_ms": 61269,
+      "name": "ACELERADA",
+      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Montagem Mysterious Game",
+        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 103495,
+      "name": "Montagem Mysterious Game",
+      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "NUNCA MUDA?",
         "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Montagem Mysterious Game",
-        "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 103495,
-      "name": "Montagem Mysterious Game",
-      "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "LOVELY BASTARDS",
         "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "He's A Pirate (Save Me)",
         "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 153125,
       "name": "He's A Pirate (Save Me)",
       "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 136189,
-      "name": "Like Wooh Wooh - Radio Edit",
-      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 136189,
+      "name": "Like Wooh Wooh - Radio Edit",
+      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "ESTA NOCHE",
-        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 68702,
-      "name": "ESTA NOCHE",
-      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "AVANGARD",
         "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
       },
@@ -1303,22 +1287,38 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "i like the way you kiss me (remixes)",
-        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+        "name": "ESTA NOCHE",
+        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
         }
       ],
-      "duration_ms": 137986,
-      "name": "i like the way you kiss me - southstar remix",
-      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+      "duration_ms": 68702,
+      "name": "ESTA NOCHE",
+      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "i like the way you kiss me - southstar remix",
+      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 226831,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "ONE FOR YOU",
-        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "ONE FOR YOU",
-      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        }
-      ],
-      "duration_ms": 169326,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -1567,6 +1543,30 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "duration_ms": 169326,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SMACK TALK",
         "url": "https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc"
       },
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "In My Arms",
-        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Duro",
         "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 185600,
       "name": "Duro",
       "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2535,26 +2535,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Wall-To-Wall",
-        "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
-      },
-      "artists": [
-        {
-          "name": "msft",
-          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Reset (feat. Killa P)",
-      "url": "https://open.spotify.com/track/6QtSmbIT7WsGgrqdNrZktD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Good Luck (Deluxe)",
         "url": "https://open.spotify.com/album/027HKBDXnf9MZOgSul9omC"
       },
@@ -2571,6 +2551,26 @@
       "duration_ms": 145143,
       "name": "God",
       "url": "https://open.spotify.com/track/6BKy2OYJaSKqSBCSPCujrU"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Wall-To-Wall",
+        "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
+      },
+      "artists": [
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Reset (feat. Killa P)",
+      "url": "https://open.spotify.com/track/6QtSmbIT7WsGgrqdNrZktD"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "PHONKY TOWN",
-        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "PHONKY TOWN",
-      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "When The Summer Dies",
         "url": "https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 329531,
       "name": "When The Summer Dies",
       "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "PHONKY TOWN",
+        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "PHONKY TOWN",
+      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
     },
     {
       "added_at": "2026-04-13 15:38:24",

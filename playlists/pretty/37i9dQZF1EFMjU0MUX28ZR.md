@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 78 | [loser](https://open.spotify.com/track/4k7tf8uhjXGJWxYAElWnRj) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [loser](https://open.spotify.com/album/2kDtsh8A4CTdgDOc35prCn) | 2:22 |
 | 79 | [Nail Gun](https://open.spotify.com/track/7CyrYDA2C74KHD6sFNmud1) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX), [Far Too Loud](https://open.spotify.com/artist/6zL4UbVtrGZPjvTTeNKyAc) | [Squirm EP](https://open.spotify.com/album/3NhpQP1U1CmiALyZw7m4aH) | 4:07 |
 | 80 | [Teddy Bear](https://open.spotify.com/track/3iV7EY5EfDEtueI3sUGjon) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Teddy Bear](https://open.spotify.com/album/2tMxvr0VuZGMwCXqn4n8K6) | 2:59 |
-| 81 | [NEVER LOVED ANYONE BEFORE](https://open.spotify.com/track/4Ww8tuLk8Uc49Z6nCCdGVj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:54 |
-| 82 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 |
-| 83 | [Ain't No Friend Of Mine](https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4) | 3:32 |
-| 84 | [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 |
+| 81 | [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 |
+| 82 | [NEVER LOVED ANYONE BEFORE](https://open.spotify.com/track/4Ww8tuLk8Uc49Z6nCCdGVj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:54 |
+| 83 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 |
+| 84 | [Ain't No Friend Of Mine](https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4) | 3:32 |
 | 85 | [Dirty Work \- Instrumental](https://open.spotify.com/track/1KgS5Jp4C22gNUhZTiNaDN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 |
 | 86 | [Sweatpants](https://open.spotify.com/track/5nIkCBRTvwEyEVqyXP25xC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Glorification of Sadness](https://open.spotify.com/album/3TpQfWDRBdDBqn9Edfr8uk) | 3:31 |
 | 87 | [Change Shapes](https://open.spotify.com/track/2o86nd5msNOHPGVHpaQQ9p) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 3:25 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 115 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 116 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AcgcsAAAAAAjEh8CZtt9XvFVJNsG8dlh`
+Snapshot ID: `AcgijAAAAABKG/ixRy81jSMZlmCb695d`

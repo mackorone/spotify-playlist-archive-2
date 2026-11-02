@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 233165,
       "name": "De Ti Enamorado",
       "url": "https://open.spotify.com/track/02MIYH9EHLAHZVu6iIFiNx"
@@ -1418,6 +1418,24 @@
       "duration_ms": 174027,
       "name": "Para Que No Te Acuerdes",
       "url": "https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v"
+    },
+    {
+      "album": {
+        "name": "Despu\u00e9s Del Silencio",
+        "url": "https://open.spotify.com/album/3Xt6dMXBpu4QNf4ng4w8d7"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "Que Se Entere El Mundo",
+      "url": "https://open.spotify.com/track/3HvNOquSNGT7rdDzsfZsC9"
     },
     {
       "album": {

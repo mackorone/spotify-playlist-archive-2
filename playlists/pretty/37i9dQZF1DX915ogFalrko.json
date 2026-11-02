@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188627,
+  "num_followers": 188633,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "High Hopes 3000",
-        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 245755,
-      "name": "High Hopes 3000",
-      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 151565,
       "name": "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
       "url": "https://open.spotify.com/track/6g2BiiVQqY5v1S4HIrM54F"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Old Lovers (feat. The Lumineers)",
-        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 213188,
-      "name": "Old Lovers (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "A Real Hero EP",
         "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 267859,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "Old Lovers (feat. The Lumineers)",
+        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 213188,
+      "name": "Old Lovers (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
+      },
+      "artists": [
+        {
+          "name": "Club des Belugas",
+          "url": "https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo"
+        },
+        {
+          "name": "Ester Rada",
+          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+        }
+      ],
+      "duration_ms": 212532,
+      "name": "Save a Little Love for Me",
+      "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
         "name": "Things Take Time",
         "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 179042,
       "name": "No Thank You, I Love You, Goodbye",
       "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
-      },
-      "artists": [
-        {
-          "name": "Club des Belugas",
-          "url": "https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo"
-        },
-        {
-          "name": "Ester Rada",
-          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
-        }
-      ],
-      "duration_ms": 212532,
-      "name": "Save a Little Love for Me",
-      "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6YDXIYzh182auw0avklzbq"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
         "name": "Two of Diamonds",
         "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 177440,
       "name": "Out of Time Man",
       "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "East Village",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -855,6 +839,22 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "Sacatela",
         "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2nBJ4KPNSVr6FYLdExRoAA"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt"
       },
       "artists": [
         {
@@ -1268,9 +1268,41 @@
           "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
         }
       ],
-      "duration_ms": 195360,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/4MqnoDLDaYFZL9JxtCKiJT"
+      "duration_ms": 253466,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "I try my best",
+        "url": "https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS"
+      },
+      "artists": [
+        {
+          "name": "Lou Doillon",
+          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "I try my best",
+      "url": "https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "100S",
+        "url": "https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC"
+      },
+      "artists": [
+        {
+          "name": "Milhan",
+          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
+        }
+      ],
+      "duration_ms": 201521,
+      "name": "100S",
+      "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1295,38 +1327,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "100S",
-        "url": "https://open.spotify.com/album/0ECvPUBuvkS1I4U8X3LAjC"
-      },
-      "artists": [
-        {
-          "name": "Milhan",
-          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
-        }
-      ],
-      "duration_ms": 201521,
-      "name": "100S",
-      "url": "https://open.spotify.com/track/6boMeUCYx9v8UG1cVfxlyb"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
-        "name": "I try my best",
-        "url": "https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS"
-      },
-      "artists": [
-        {
-          "name": "Lou Doillon",
-          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "I try my best",
-      "url": "https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "When the Magic Comes",
         "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
       },
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2nBJ4KPNSVr6FYLdExRoAA"
       },
       "artists": [
         {
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
         }
       ],
-      "duration_ms": 253466,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij"
+      "duration_ms": 195360,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/4MqnoDLDaYFZL9JxtCKiJT"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "END OF THE SKY",
-        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
-      },
-      "artists": [
-        {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
-        }
-      ],
-      "duration_ms": 159807,
-      "name": "END OF THE SKY",
-      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 201973,
       "name": "Don't Forget Yourself",
       "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "END OF THE SKY",
+        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 159807,
+      "name": "END OF THE SKY",
+      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
     },
     {
       "added_at": "2026-10-23 14:20:20",

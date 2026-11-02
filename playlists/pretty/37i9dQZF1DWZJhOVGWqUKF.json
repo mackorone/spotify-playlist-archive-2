@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Enemy Inside, As Everything Unfolds, Lake Malice",
-  "num_followers": 336771,
+  "num_followers": 336756,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Twisting The Knife (feat. Mckenna Grace)",
         "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 201477,
       "name": "Twisting The Knife (feat. Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Insignificant Other",
-        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Insignificant Other",
-      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Palace for the People",
         "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 279576,
       "name": "Heya",
       "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
+        "name": "Insignificant Other",
+        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 353666,
+      "name": "Insignificant Other",
+      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Saw You Stand",
-        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 289187,
-      "name": "Saw You Stand",
-      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Social Apocalypse",
         "url": "https://open.spotify.com/album/6TBRv74cGwsNjrRWKx1pWk"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 239394,
       "name": "Social Apocalypse",
       "url": "https://open.spotify.com/track/7LYrWNctGC55Ch60eU8AxK"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
+        "name": "Saw You Stand",
+        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 289187,
+      "name": "Saw You Stand",
+      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 386253,
-      "name": "Emergence",
-      "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "The Laugh Track",
         "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/463nsRpoLRViNinPdht7t0"
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 219618,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2fxVTedZUETGQy0Kcyugil"
+      "duration_ms": 386253,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/463nsRpoLRViNinPdht7t0"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 219618,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2fxVTedZUETGQy0Kcyugil"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
         "name": "Lost In Translation",
         "url": "https://open.spotify.com/album/4Bb2zE4hUL1g0Bc2aSfX55"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 195334,
       "name": "Lost In Translation",
       "url": "https://open.spotify.com/track/0HZK8CFbJECGqCXhCMlrQJ"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "HELEN KELLER",
-        "url": "https://open.spotify.com/album/3PhznlJ1F4bGmsuSuUkBwB"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 283991,
-      "name": "HELEN KELLER",
-      "url": "https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Even If It Kills Me",
         "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 212239,
       "name": "Even If It Kills Me",
       "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
+        "name": "HELEN KELLER",
+        "url": "https://open.spotify.com/album/3PhznlJ1F4bGmsuSuUkBwB"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 283991,
+      "name": "HELEN KELLER",
+      "url": "https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Tear It Down",
-        "url": "https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 263727,
-      "name": "Tear It Down",
-      "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
       },
@@ -999,22 +983,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Swallow The Bomb",
-        "url": "https://open.spotify.com/album/15sTjwRdBcNiRwHT2fjso4"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 199479,
-      "name": "Swallow The Bomb",
-      "url": "https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Foreign Tongues",
         "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
       },
@@ -1031,6 +999,22 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
+        "name": "Swallow The Bomb",
+        "url": "https://open.spotify.com/album/15sTjwRdBcNiRwHT2fjso4"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 199479,
+      "name": "Swallow The Bomb",
+      "url": "https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 240151,
       "name": "Wonderwall - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 263727,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
+        "name": "Drive Myself Home",
+        "url": "https://open.spotify.com/album/4EHBw2Nv87XerwlcvJxiXx"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 219935,
+      "name": "Drive Myself Home",
+      "url": "https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
         "name": "Prot\u00e9g\u00e9",
         "url": "https://open.spotify.com/album/79Fvi89pb2gaC0DLSIKju9"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Drive Myself Home",
-        "url": "https://open.spotify.com/album/4EHBw2Nv87XerwlcvJxiXx"
+        "name": "Death To Something",
+        "url": "https://open.spotify.com/album/4PiPObaFqaRSOgRaknNrJ6"
       },
       "artists": [
         {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
         }
       ],
-      "duration_ms": 219935,
-      "name": "Drive Myself Home",
-      "url": "https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e"
+      "duration_ms": 195818,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/5jnXvYY1Ppwf8uAXClMvsp"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Landfall",
-        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 222418,
-      "name": "Landfall",
-      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Death To Something",
-        "url": "https://open.spotify.com/album/4PiPObaFqaRSOgRaknNrJ6"
+        "name": "Landfall",
+        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
       },
       "artists": [
         {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 195818,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/5jnXvYY1Ppwf8uAXClMvsp"
+      "duration_ms": 222418,
+      "name": "Landfall",
+      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "PARTY'S OVER",
         "url": "https://open.spotify.com/album/3r2knZRYbnfSq8Lepyv7Bx"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 348439,
       "name": "PARTY'S OVER",
       "url": "https://open.spotify.com/track/5eJqtTJXQkOnJ6XR4FU60q"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/20Tmo6elKHBrSnz6hsuHKz"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3TaeBT5aGh7qxbxTPoLpf1"
-    },
-    {
-      "added_at": "2026-10-29 23:00:59",
-      "album": {
         "name": "Cryogen",
         "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "added_at": "2026-10-29 23:00:59",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/20Tmo6elKHBrSnz6hsuHKz"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 203633,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3TaeBT5aGh7qxbxTPoLpf1"
     },
     {
       "added_at": "2026-10-29 23:00:59",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-10-29 23:00:59",
       "album": {
-        "name": "Private Lives",
-        "url": "https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
       },
       "artists": [
         {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 185117,
-      "name": "Private Lives",
-      "url": "https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks"
+      "duration_ms": 176066,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
     }
   ],
   "unique_name": "Rock Rotation",

@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 209967,
+  "num_followers": 209998,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAA1Q9kwkUx9k1I56cG4J5Af",
+  "snapshot_id": "auUvgAAAAAAyPpdH9OZnKCq5fGDy145V",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 176263,
-      "name": "Modo de Dizer",
-      "url": "https://open.spotify.com/track/3lAHnDr46AbZKq4XSSvxO2"
+      "duration_ms": 190062,
+      "name": "Ainda Te Amo",
+      "url": "https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 190062,
-      "name": "Ainda Te Amo",
-      "url": "https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z"
+      "duration_ms": 176263,
+      "name": "Modo de Dizer",
+      "url": "https://open.spotify.com/track/3lAHnDr46AbZKq4XSSvxO2"
     },
     {
       "added_at": null,

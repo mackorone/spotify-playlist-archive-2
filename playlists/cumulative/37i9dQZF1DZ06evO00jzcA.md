@@ -4,7 +4,7 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-122 songs - 7 hr 54 min
+123 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 | 2022-01-11 |  |
 | [Love Theme From Kiss](https://open.spotify.com/track/3h65F8R0FKA70GRGdt1ftw) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 2:24 | 2022-01-11 | 2022-10-13 |
 | [Magic Touch](https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:42 | 2022-12-14 |  |
+| [Makin' Love \- Live At The Nippon Budokan, Tokyo, Japan \- April 2, 1977 \- Show 1](https://open.spotify.com/track/0ak7Z0TLdj61EW2S0TsGku) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Makin' Love / Mr\. Speed / Hard Luck Woman](https://open.spotify.com/album/4QIDu6vNzsYIaehcKvRA15) | 3:22 | 2026-11-02 |  |
 | [Modern Day Delilah](https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 3:36 | 2022-01-11 | 2022-10-13 |
 | [Mr\. Speed](https://open.spotify.com/track/6IDOdsJrrQ5p205vENDADn) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:18 | 2023-02-13 | 2024-07-08 |
 | [Mr\. Speed \- Eddie Kramer 2026 Mix](https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Mr\. Speed / Hard Luck Woman](https://open.spotify.com/album/3H4aImRAbw3JXfzvXWdRny) | 3:18 | 2026-10-19 |  |
@@ -105,7 +106,7 @@
 | [Rock And Roll All Nite \- 2025 Remaster](https://open.spotify.com/track/1Buwv1iql0YsxftE5LHIgq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:47 | 2025-12-07 |  |
 | [Rock And Roll All Nite \- Live At RKO Orpheum Theatre, Davenport, Iowa, July 20, 1975 / Show 1](https://open.spotify.com/track/2CHDWttzPjCzwfwJswGhjG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(50th Anniversary Super Deluxe\)](https://open.spotify.com/album/04aIkLhIZW1QDcDzd7F1nP) | 4:17 | 2025-10-26 | 2025-11-23 |
 | [Rock And Roll All Nite \- Live From Detroit, MI/1975](https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 4:07 | 2022-01-12 | 2022-11-07 |
-| [Rock And Roll All Nite \- MOONLGHT Remix](https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Rock And Roll All Nite \(MOONLGHT Remix\)](https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn) | 2:15 | 2025-11-02 |  |
+| [Rock And Roll All Nite \- MOONLGHT Remix](https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Rock And Roll All Nite \(MOONLGHT Remix\)](https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn) | 2:15 | 2025-11-02 | 2026-11-02 |
 | [Rock N' Rolls Royce \- Gene Simmons Demo](https://open.spotify.com/track/38uoylRVHZNxcCzfq7YydG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer \(45th Anniversary Super Deluxe\)](https://open.spotify.com/album/6HmXiwrdWemxIYbzR7GXtk) | 3:02 | 2022-01-11 | 2022-10-13 |
 | [Rocket Ride](https://open.spotify.com/track/3xjObvccQUvtUcV5GL3Hh3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive II \(Live\)](https://open.spotify.com/album/32e3bKpExvJ6o3H9UZ9rV1) | 4:08 | 2022-01-13 | 2022-01-17 |
 | [Save Your Love](https://open.spotify.com/track/1RUQIkl3vHaOUPKC885STa) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:40 | 2022-01-13 | 2022-07-25 |

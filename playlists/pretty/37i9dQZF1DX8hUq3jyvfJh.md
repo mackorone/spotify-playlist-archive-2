@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,225 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,220 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Pagode de Mulher](https://open.spotify.com/track/6LeFKU9Jl3tdfrhKZzBwqu) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd), [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy), [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Pagode de Mulher](https://open.spotify.com/album/3k3Jo3udbIGxfaneTsUNfB) | 3:42 |
 | 29 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |
 | 30 | [Segura Minha Mão](https://open.spotify.com/track/6aktgiF9qEDr2c7MX3kBJY) | [Lais Bianchessi](https://open.spotify.com/artist/07VC3ObjCMjhPFwAJxs1Nj) | [Segura Minha Mão](https://open.spotify.com/album/0URk62oupLW4NWsBJYjWhp) | 2:51 |
-| 31 | [belo horizonte](https://open.spotify.com/track/5vOX7DaMTkk8jtO4b7Y5jJ) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [escapismo](https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb) | 2:47 |
-| 32 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
+| 31 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
+| 32 | [belo horizonte](https://open.spotify.com/track/5vOX7DaMTkk8jtO4b7Y5jJ) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [escapismo](https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb) | 2:47 |
 | 33 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 34 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
 | 35 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 38 | [Você Não Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/3lDGU5FKsywJzNbdAINxhR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Só Vvamo na Ilha \(Ao Vivo\)](https://open.spotify.com/album/1q3K1MYoCr97RFIwVNvGWL) | 3:12 |
 | 39 | [Sonho Meu](https://open.spotify.com/track/5rbxBmoBDxvnhyVYWBSBRa) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j), [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Para Sempre](https://open.spotify.com/album/4zSZT5Qre7hpFgEk0yQy0C) | 3:22 |
 | 40 | [Consegue](https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6) | [Rafa Laranja](https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7) | [Consegue](https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir) | 3:26 |
-| 41 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
-| 42 | [Buquê de Rosas](https://open.spotify.com/track/4eBpX20rWTv6sKozgz4C26) | [Gaby Valentim](https://open.spotify.com/artist/7hIw5Ce8GiFF4MwMnKLsCB) | [Posturada](https://open.spotify.com/album/6l6RRc7iWCKA6qXwinhxl3) | 3:04 |
+| 41 | [Buquê de Rosas](https://open.spotify.com/track/4eBpX20rWTv6sKozgz4C26) | [Gaby Valentim](https://open.spotify.com/artist/7hIw5Ce8GiFF4MwMnKLsCB) | [Posturada](https://open.spotify.com/album/6l6RRc7iWCKA6qXwinhxl3) | 3:04 |
+| 42 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
 | 43 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
 | 44 | [Hoje Não](https://open.spotify.com/track/7yCxFpi9yX3hCOfQIc5c52) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Relíquia](https://open.spotify.com/album/76tgZEWG23gdRLRtwBYQSv) | 2:15 |
 | 45 | [Pior Que Eu Gosto](https://open.spotify.com/track/3LHbu66zyrDoHuvCz9ml1r) | [Isabela Liberato](https://open.spotify.com/artist/0WMsrTFkDc9rDkue68ORWt) | [Pior Que Eu Gosto](https://open.spotify.com/album/04KQu0FDP4zNaVnFHaOEzD) | 3:41 |

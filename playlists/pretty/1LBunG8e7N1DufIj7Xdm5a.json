@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAK4HCqy/eVq3GSBUF87j45nHHwxcGL",
+  "snapshot_id": "AAAK4g5yNqDIlyFNXhNp1zFpcj+o5fAM",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -81843,6 +81843,42 @@
       "duration_ms": 187004,
       "name": "Entrada",
       "url": "https://open.spotify.com/track/2v2i3wcQIcYARJ2J1bCobj"
+    },
+    {
+      "added_at": "2026-11-01 09:07:43",
+      "album": {
+        "name": "ABOLISH ICE",
+        "url": "https://open.spotify.com/album/4pjn1EgCN3CjAgQvCbJkp7"
+      },
+      "artists": [
+        {
+          "name": "Chuck Mullen",
+          "url": "https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO"
+        }
+      ],
+      "duration_ms": 281634,
+      "name": "ABOLISH ICE",
+      "url": "https://open.spotify.com/track/0T81lv1iTVLqkh8URk1agd"
+    },
+    {
+      "added_at": "2026-11-01 09:07:52",
+      "album": {
+        "name": "\u30aa\u30eb\u30b4\u30fc\u30eb\u306e\u601d\u3044\u51fa (feat. \u97f3\u8857\u30a6\u30ca)",
+        "url": "https://open.spotify.com/album/3pU5W6RyX6rZSUAfOtwzds"
+      },
+      "artists": [
+        {
+          "name": "Miya.P",
+          "url": "https://open.spotify.com/artist/4o81xCtpNAHmWhgFdRSC9z"
+        },
+        {
+          "name": "Una Otomachi",
+          "url": "https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp"
+        }
+      ],
+      "duration_ms": 203846,
+      "name": "\u30aa\u30eb\u30b4\u30fc\u30eb\u306e\u601d\u3044\u51fa (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/56XOzEphO8uyqKSg7e2hmT"
     }
   ],
   "unique_name": "playlist spotify free",

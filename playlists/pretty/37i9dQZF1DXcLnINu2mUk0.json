@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Archie",
-  "num_followers": 56267,
+  "num_followers": 56272,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
-      },
-      "artists": [
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
-        }
-      ],
-      "duration_ms": 176425,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
         "name": "Camisa 10 (Primavera)",
         "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 151875,
       "name": "Camisa 10 (Primavera)",
       "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "duration_ms": 176425,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
         "name": "Bon Vivan",
         "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 175294,
       "name": "\u00c0 Janela",
       "url": "https://open.spotify.com/track/0xSMmvj8aQl9twNz7RQoEt"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Prod\u00edgio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 229244,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 219692,
       "name": "Sei-te de Cor",
       "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 229244,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
     },
     {
       "added_at": "2026-10-22 23:00:49",

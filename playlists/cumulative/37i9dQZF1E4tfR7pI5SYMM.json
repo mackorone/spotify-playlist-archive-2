@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Sanguine, The Inklings, M\u00e4rvel and more",
+  "description": "With Autoimmune, Sanguine, Bad Scullianz and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 247073,
       "name": "Adj\u00f8",
       "url": "https://open.spotify.com/track/6KDEqsx3lb25sDcJ4C8Wzp"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 228150,
       "name": "Arvidsjaur",
       "url": "https://open.spotify.com/track/0Bziz2o8iBriC8mTfloP2C"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 91809,
       "name": "Asap",
       "url": "https://open.spotify.com/track/2sttjobesgyDaLx4cffx8J"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 157866,
       "name": "Before the Cock Crows",
       "url": "https://open.spotify.com/track/3ntw5G0nnECXctMPZzpO4D"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 242853,
       "name": "Bitch Slap Rapper",
       "url": "https://open.spotify.com/track/3tXV6j9iKqsw7x7P6xgcns"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 183125,
       "name": "Disgrace",
       "url": "https://open.spotify.com/track/079TsXrlX6Ua8Tbqgven4m"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 274924,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
@@ -5351,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Diamante Tes\u00e3o",
+        "url": "https://open.spotify.com/album/6VRhkQh1QZboyHEifXiN5b"
+      },
+      "artists": [
+        {
+          "name": "TheLira",
+          "url": "https://open.spotify.com/artist/4CgBdbe5dg7KHV2jlVzDqR"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202372,
+      "name": "Entre Na Pista",
+      "url": "https://open.spotify.com/track/0Q7LaoLZuiGQywTCyljHaK"
+    },
+    {
+      "album": {
         "name": "Es Mi Calma",
         "url": "https://open.spotify.com/album/4Gm1H5YqFf4EWkw8yWRNDV"
       },
@@ -5820,7 +5838,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -6498,7 +6516,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 277500,
       "name": "Free Country",
       "url": "https://open.spotify.com/track/5R0LTj36xTIQiC1bfsRKUc"
@@ -6516,7 +6534,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 287093,
       "name": "Freedom Train",
       "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
@@ -7282,7 +7300,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 210929,
       "name": "He's Back (The Man Behind The Mask)",
       "url": "https://open.spotify.com/track/5AnRQkfvrh3YPIeADpNvOb"
@@ -8046,7 +8064,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 204999,
       "name": "Hvis jeg f\u00e5r lov",
       "url": "https://open.spotify.com/track/0442X9eSmosvLUvC2hgL8V"
@@ -8090,6 +8108,24 @@
       "duration_ms": 265070,
       "name": "I Am Darkness",
       "url": "https://open.spotify.com/track/5fDE5WBATo9ZbyxG23ZG7i"
+    },
+    {
+      "album": {
+        "name": "Unproper",
+        "url": "https://open.spotify.com/album/0sBt2ogUT71rtvv8zMyzFJ"
+      },
+      "artists": [
+        {
+          "name": "The No Good Crowd",
+          "url": "https://open.spotify.com/artist/2XyZ4Ak22CQBimeIvsxRzl"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289487,
+      "name": "I Can Give You Heartbreak, Just Like Elvis",
+      "url": "https://open.spotify.com/track/6xkYJHz1Oiwn1iDqs811FJ"
     },
     {
       "album": {
@@ -8324,7 +8360,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "I TRIED - Remastered",
       "url": "https://open.spotify.com/track/6I4IgbVQCcz29puOorIlbI"
@@ -9334,7 +9370,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 211626,
       "name": "Kanskje p\u00e5 tide",
       "url": "https://open.spotify.com/track/3oDizYKL6swQ5DIARE5ojF"
@@ -9482,7 +9518,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 254426,
       "name": "Kings of the City",
       "url": "https://open.spotify.com/track/7pfAmgSGUXCsgQqBVoyNWu"
@@ -9536,7 +9572,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -10778,7 +10814,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 199578,
       "name": "Mamma Africa",
       "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
@@ -10886,7 +10922,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -11106,7 +11142,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 222624,
       "name": "Meet The Hoopla",
       "url": "https://open.spotify.com/track/3GmK5H8aPYlJ8QQ1XrGnAv"
@@ -11236,7 +11272,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -11914,7 +11950,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -12246,7 +12282,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Next Call - Remaster",
       "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
@@ -12712,7 +12748,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 169674,
       "name": "N\u00e4r kommer du hem till mig igen?",
       "url": "https://open.spotify.com/track/5KbhspQpwoUFChZhOh63zs"
@@ -13030,7 +13066,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 214013,
       "name": "On Her Own",
       "url": "https://open.spotify.com/track/2Ka5ivvoPaZ3aGh1bWcJZw"
@@ -13412,7 +13448,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -14404,7 +14440,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 230357,
       "name": "Red",
       "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
@@ -14902,7 +14938,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 271730,
       "name": "Say",
       "url": "https://open.spotify.com/track/43zAa5vbPv7Vph7FHt98hF"
@@ -15464,7 +15500,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 148166,
       "name": "Silence please",
       "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
@@ -15518,7 +15554,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 200086,
       "name": "Sinnsyke Sanger",
       "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
@@ -15554,7 +15590,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 235400,
       "name": "Sister Satan",
       "url": "https://open.spotify.com/track/1oimF27za8gamGoPY57n6n"
@@ -16739,6 +16775,24 @@
     },
     {
       "album": {
+        "name": "Swooping with Vultures",
+        "url": "https://open.spotify.com/album/01jpikKiA7kP9Ald8hkgTS"
+      },
+      "artists": [
+        {
+          "name": "Society of Beggars",
+          "url": "https://open.spotify.com/artist/5VOkSkO7ZSBnNjlPfKqjY3"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233247,
+      "name": "Swooping with Vultures",
+      "url": "https://open.spotify.com/track/3AcCq6GdPlmNRI7Ppjq6CY"
+    },
+    {
+      "album": {
         "name": "Symbol of Absence",
         "url": "https://open.spotify.com/album/3GeTP3sWi4i4acX36zKfDo"
       },
@@ -17104,6 +17158,24 @@
       "duration_ms": 197000,
       "name": "Testify",
       "url": "https://open.spotify.com/track/0nGgprHN8K6Gyl1fBXwHKv"
+    },
+    {
+      "album": {
+        "name": "That Kind of Love",
+        "url": "https://open.spotify.com/album/01JdmV3Tj4Xm90IMxICnTV"
+      },
+      "artists": [
+        {
+          "name": "The Jix",
+          "url": "https://open.spotify.com/artist/2JDWsjauYuOi6uAGK5xMp1"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "That Kind of Love",
+      "url": "https://open.spotify.com/track/3Jr3IIZLtnsnESwR9byBGC"
     },
     {
       "album": {
@@ -21406,7 +21478,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"
@@ -21460,7 +21532,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "\u00d8de \u00f8y",
       "url": "https://open.spotify.com/track/19vmu2vywwa2pAeKOKPGJL"

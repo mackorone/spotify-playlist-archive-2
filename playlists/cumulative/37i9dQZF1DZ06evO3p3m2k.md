@@ -4,7 +4,7 @@
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 52 min
+53 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [La Primera Vez](https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ) | 3:50 | 2026-03-20 |  |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2026-03-20 |  |
 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 | 2026-03-20 |  |
-| [La Primera Vez \- Remix](https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 3:38 | 2026-05-12 |  |
+| [La Primera Vez \- Remix](https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 3:38 | 2026-05-12 | 2026-11-02 |
 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 | 2026-03-20 |  |
 | [La Última Vez](https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 2:53 | 2026-05-14 |  |
 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 | 2026-03-20 |  |
@@ -48,6 +48,7 @@
 | [Mujer Desastre](https://open.spotify.com/track/2abH8STrNnJuYjQBZN0Ggb) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:17 | 2026-09-13 |  |
 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 | 2026-03-20 |  |
 | [Paciente](https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:07 | 2026-03-20 |  |
+| [PARACAÍDAS](https://open.spotify.com/track/2Erg9cMQHdIXWBmhoSgiFl) | [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [PARACAÍDAS](https://open.spotify.com/album/0VhOjpHRE9lUk0yJE39bYq) | 2:42 | 2026-11-02 |  |
 | [Pendejada feat\. Mabiland](https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:27 | 2026-03-20 |  |
 | [PorquE Si Te QuedAs](https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [PorquE Si Te QuedAs](https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8) | 2:59 | 2026-04-25 |  |
 | [Presiento](https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:55 | 2026-03-20 |  |

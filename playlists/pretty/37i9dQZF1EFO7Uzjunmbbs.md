@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 220 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,095 likes - 220 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 73 | [One Desire](https://open.spotify.com/track/3EMJyAkW85BUNyv0g2uNBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 3:19 |
 | 74 | [Goodbye, Again](https://open.spotify.com/track/0uc49i27OzyaIapdIuYL3i) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:01 |
 | 75 | [Play It by Heart](https://open.spotify.com/track/3PN9O9A0Mc6EMo7RyuyP50) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Play It by Heart](https://open.spotify.com/album/0CVEqKSdls4EYyZqtY96hJ) | 3:25 |
-| 76 | [Strong](https://open.spotify.com/track/3akedMTYQ5BBTuyQinbFYB) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:25 |
-| 77 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 |
+| 76 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 |
+| 77 | [Strong](https://open.spotify.com/track/3akedMTYQ5BBTuyQinbFYB) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:25 |
 | 78 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 |
 | 79 | [Girls In My Hometown](https://open.spotify.com/track/3bCzxQSvg3Tb53668slgnI) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:13 |
 | 80 | [You Don't](https://open.spotify.com/track/1BWVyk9ZbG4SzGyZAA9sWG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:33 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `Acgc2AAAAABe/bdne9nHErBV0xBmBcL2`
+Snapshot ID: `AcgieAAAAABbjKtJCFQj4YZn4AxKu6IQ`

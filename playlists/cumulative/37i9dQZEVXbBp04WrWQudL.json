@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/3B7HOLJNxLmFValo2tr0s7"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/50uIKJ5s8zmS6RxzFxZg0A"
+    },
+    {
+      "album": {
         "name": "AMARGURA (En Vivo)",
         "url": "https://open.spotify.com/album/6Eqcw9gjj1MEvzg3pBylvq"
       },
@@ -380,7 +398,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 138816,
       "name": "ARL",
       "url": "https://open.spotify.com/track/4AHeCo92HbCXljXdpuQ2Kq"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 298602,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0ObFg0ZQ3QgZ1AbJKtZZy9"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 245336,
       "name": "Bodies On The Floor",
       "url": "https://open.spotify.com/track/5v9iamIiq4WjdrAvbnVu0J"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 162048,
       "name": "BODYPAINTING",
       "url": "https://open.spotify.com/track/0E0ppoTPc2mSg5g32GFzK9"
@@ -868,7 +886,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 94811,
       "name": "BOMBS",
       "url": "https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -1521,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Disturbia",
+        "url": "https://open.spotify.com/album/115t3wnba405yk53iMWML5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269110,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/4l441nLxQK38Jgnk94Ebfc"
+    },
+    {
+      "album": {
         "name": "DOGGY",
         "url": "https://open.spotify.com/album/0zFtGkkr7nLEBAcpHmUmSh"
       },
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 191914,
       "name": "Drip",
       "url": "https://open.spotify.com/track/5RPsgkGUhQ4hCNNK7PDnqV"
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 181680,
       "name": "Eri solo da incontrare",
       "url": "https://open.spotify.com/track/63Dbz2ZmE04p2GWqOmoNCr"
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 223341,
       "name": "expectations (feat. Chappell Roan) - wheel of misfortune",
       "url": "https://open.spotify.com/track/4JitNOIelgPCMf5aF3tZtL"
@@ -3282,7 +3318,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 4743082,
       "name": "Max Styler - Live at Portola Music Festival",
       "url": "https://open.spotify.com/track/333Kt2zzWgHpW0BJtyPXiY"
@@ -3398,7 +3434,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 183524,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/1B3DrO9PIwoVhqOtRRIQvG"
@@ -3692,7 +3728,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 201950,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ"
@@ -4116,7 +4152,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 193472,
       "name": "Piquito",
       "url": "https://open.spotify.com/track/7LDa5cnRIZ2F1K93tTCVed"
@@ -4192,7 +4228,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -4857,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
+        "url": "https://open.spotify.com/album/40RqHiCnJDRcxJvOjURAxg"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125130,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/3jLDvbjCaTvbnjlvY4W349"
+    },
+    {
+      "album": {
         "name": "Stateside + Zara Larsson",
         "url": "https://open.spotify.com/album/2oYO6jxypHjUrE56nf0g4l"
       },
@@ -4912,7 +4966,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 208298,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
@@ -4992,6 +5046,24 @@
       "duration_ms": 243952,
       "name": "Style",
       "url": "https://open.spotify.com/track/0wcvnSPKvF9BzmNsY2Ohze"
+    },
+    {
+      "album": {
+        "name": "Super Freak",
+        "url": "https://open.spotify.com/album/5rFz7ppqJPeWtasKR0qsEF"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/7caFg3qzsnhl0CjYatTFzZ"
     },
     {
       "album": {
@@ -5305,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/7IrLQPK6Y6g1FBIjOSSpBd"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211605,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/68QF7ZdRyyIJyEnCfBeVKx"
+    },
+    {
+      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/1MSyEdSdvuzYb9k78wtjdi"
       },
@@ -5410,7 +5500,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 244502,
       "name": "Unloveu - Official Visual",
       "url": "https://open.spotify.com/track/6kAsEs1uckPjz41spirAda"
@@ -5681,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4DeaylrO7ipHolMJmAsQqq"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305920,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/76fqoIuUaPDZjX2AMzHIzK"
+    },
+    {
+      "album": {
         "name": "Zombieland (feat. Tony Boy, Capo Plaza & Skrilla)",
         "url": "https://open.spotify.com/album/3zMUinOfNiEAgKQriWdlqe"
       },
@@ -5704,7 +5812,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 162431,
       "name": "Zombieland (feat. Tony Boy, Capo Plaza & Skrilla)",
       "url": "https://open.spotify.com/track/6gjXtuZs4Hz4lLXpUEOrK5"

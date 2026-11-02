@@ -510,7 +510,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 147460,
       "name": "Amber",
       "url": "https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol"
@@ -8158,6 +8158,24 @@
       "duration_ms": 224386,
       "name": "Strange Little Consequence",
       "url": "https://open.spotify.com/track/5cRO8vypa1jd8UCiL1Nsbo"
+    },
+    {
+      "album": {
+        "name": "Win Win",
+        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163479,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/1Jl5HcTkOOKKLQ4IiT7odi"
     },
     {
       "album": {

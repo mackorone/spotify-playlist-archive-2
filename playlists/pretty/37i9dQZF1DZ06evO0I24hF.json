@@ -1,12 +1,12 @@
 {
   "description": "This is Gigi Perez. The essential tracks, all in one playlist.",
-  "num_followers": 11681,
+  "num_followers": 11691,
   "original_name": "This Is Gigi Perez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADL1JhN0ZfJ2J3uE+dYfyyS",
+  "snapshot_id": "auUvgAAAAABQWYkZaFuYfqC5UL9U7rS8",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 303698,
       "name": "Sugar Water",
       "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 335367,
+      "name": "Favor - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C"
     },
     {
       "added_at": null,
@@ -151,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like girls the album",
-        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 223456,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/2HKNgr0zZjp7DfPoWuLhtd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -199,6 +199,26 @@
       "duration_ms": 224184,
       "name": "Kill For You",
       "url": "https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like girls the album",
+        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 223456,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/2HKNgr0zZjp7DfPoWuLhtd"
     },
     {
       "added_at": null,

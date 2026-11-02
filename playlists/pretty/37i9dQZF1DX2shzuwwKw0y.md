@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Jaziel Avilez
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,426,634 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,426,481 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7 Pecados](https://open.spotify.com/track/2gQLsrjC79nh1ungYRz8AA) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Mi Legado](https://open.spotify.com/album/1ouTQFck9RBEKl6FViSLQ3) | 3:20 |
 | 2 | [Voy Tendido](https://open.spotify.com/track/6fT8ZPMd2oaZP3ibFYirkP) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Voy Tendido](https://open.spotify.com/album/5JCpMVgXoHPVKahOFcphLJ) | 2:45 |
-| 3 | [100 TROCAS POLVEADAS](https://open.spotify.com/track/3jD4G3ffPoINcQDj7lVCwy) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Erick Rios](https://open.spotify.com/artist/3t1JdFdPuRV36NhKJAaMoZ) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:51 |
+| 3 | [100 TROCAS POLVEADAS](https://open.spotify.com/track/3jD4G3ffPoINcQDj7lVCwy) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [ERICK RIOS](https://open.spotify.com/artist/0azo2UhDV9I6E7lr78frpL) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:51 |
 | 4 | [Arriba la Seriesada](https://open.spotify.com/track/4psiCRwWpM1jMgWKsxq7gR) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Arriba la Seriesada](https://open.spotify.com/album/1a19Bb715RBlYwlzuiYfWC) | 2:39 |
 | 5 | [Beretta \(De Los Cerros La Escuela\) \- Remix](https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Beretta \(De Los Cerros La Escuela\) \[Remix\]](https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI) | 2:21 |
 | 6 | [Somos Mas Americanos](https://open.spotify.com/track/1grsm6TpzFbgxXEVa2PmmS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |

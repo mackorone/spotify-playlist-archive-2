@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,528 songs - 2 day 17 hr 45 min
+1,529 songs - 2 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Chemicals](https://open.spotify.com/track/6uflD5CJQvJ5agADZxw50K) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Chemicals](https://open.spotify.com/album/5GV6Kt8uRRdL6ZhLSb0fEL) | 3:06 | 2024-08-23 | 2024-10-28 |
 | [Cherish](https://open.spotify.com/track/256duzyAQ2cgNI0Bh89K0m) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Cherish](https://open.spotify.com/album/5OVwztAS3zX3ufTgXZNA8R) | 2:28 | 2024-04-15 | 2024-08-12 |
 | [Cherry Gold Sunset](https://open.spotify.com/track/54R0urLnxf4XZhPlAkWV7r) | [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Cherry Gold Sunset](https://open.spotify.com/album/6kBiELU4A0x34pZ5UGfmC6) | 2:34 | 2025-07-26 | 2025-08-09 |
-| [Chills](https://open.spotify.com/track/7mCz5ly2yn5HEzc34IgUQG) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Chills](https://open.spotify.com/album/5lckTaYHovHJdMHPKLp766) | 2:51 | 2026-06-24 |  |
+| [Chills](https://open.spotify.com/track/7mCz5ly2yn5HEzc34IgUQG) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Chills](https://open.spotify.com/album/5lckTaYHovHJdMHPKLp766) | 2:51 | 2026-06-24 | 2026-11-02 |
 | [Choose Myself](https://open.spotify.com/track/1X4WbnKf6baCXhxhziUhKp) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Choose Myself](https://open.spotify.com/album/6oPrY3FWp74VCPwoG93oVD) | 2:52 | 2026-01-14 | 2026-10-06 |
 | [Cigarette Daydreams](https://open.spotify.com/track/4xjj8Z3Rgu1ZEdKlBsk117) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Angie Robba](https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4), [Tim Goldn](https://open.spotify.com/artist/1sd8Wm3zt7VgoUMOO5Zfj3) | [Cigarette Daydreams](https://open.spotify.com/album/7xanVq3fHOsfqQcplYz9zu) | 2:31 | 2025-05-30 | 2026-04-13 |
 | [City At Night](https://open.spotify.com/track/4E0DCejl5hZzjz40X7TjX3) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Angie Robba](https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4) | [City At Night](https://open.spotify.com/album/7ADamDyHiyJ6FZgG7IyThk) | 2:20 | 2026-07-25 |  |
@@ -1002,6 +1002,7 @@
 | [Only Us](https://open.spotify.com/track/3K1MapNENokJiM7hEKPVFY) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4) | [Only Us](https://open.spotify.com/album/0Q7CHtFnknIDlRplfLOoy9) | 2:34 | 2025-04-25 | 2025-06-15 |
 | [Only Way](https://open.spotify.com/track/5Pz7tQgDJLGp4lvBEcu0yM) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Only Way](https://open.spotify.com/album/2maCenF3IGESK8yBjd67vI) | 3:10 | 2023-09-22 | 2024-07-31 |
 | [Only You](https://open.spotify.com/track/2CP064YG2J51WCpTmn7rmu) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Tropical Tide](https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW) | [Only You](https://open.spotify.com/album/0ZUYmMNbSmAlMtEcXJnLPH) | 2:51 | 2024-08-25 | 2024-09-09 |
+| [Only You](https://open.spotify.com/track/4CjwuiCcHn5lgZUtLkfeAI) | [Eugene Becker](https://open.spotify.com/artist/0CyuzTTSv7rrrgSkbereey), [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo), [køhvt](https://open.spotify.com/artist/7HHOIV7VtXL6hgacfGdOxc) | [Only You](https://open.spotify.com/album/6ojsCYA4UgF9sjwZcLT87b) | 2:38 | 2026-11-01 |  |
 | [only you](https://open.spotify.com/track/1ADFFBf4Bwq0xZduQ7SRc3) | [Pablo Leo](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [nunsi](https://open.spotify.com/artist/0ko8WZ1htClMmTyjMG9ARi) | [only you](https://open.spotify.com/album/0q5VAnF36O5CfCGPYsb8Og) | 2:27 | 2024-11-01 | 2025-02-15 |
 | [Open My Heart](https://open.spotify.com/track/1Tk13lYcRGCnE05e53GTbm) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Open My Heart](https://open.spotify.com/album/2u3djXi2f4WrUdAA7YyqqL) | 2:32 | 2024-02-18 | 2024-03-18 |
 | [Open Sky](https://open.spotify.com/track/4Qv2LPz6qyh3vuFq0MyB0U) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [terro](https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Open Sky](https://open.spotify.com/album/0ZGi9Q2MXp3Nj1oVo1L5Zi) | 2:38 | 2024-10-11 | 2024-11-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 394745,
+  "num_followers": 394810,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
-      },
-      "artists": [
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
-        }
-      ],
-      "duration_ms": 472690,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Special Love (Micky More & Andy Tee 7\" Jazz Mix)",
@@ -867,6 +851,22 @@
       "duration_ms": 297067,
       "name": "Special Love - Micky More & Andy Tee 7\" Jazz Mix",
       "url": "https://open.spotify.com/track/49oV3dPlR3cyzuL8xYZruD"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+      },
+      "artists": [
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "duration_ms": 472690,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Acid Jazz Collection: Jazz",
-        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
-      },
-      "artists": [
-        {
-          "name": "Max Beesley's High Vibes",
-          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Mr. Jeckle",
-      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The Whole Thing",
         "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 228933,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Acid Jazz Collection: Jazz",
+        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+      },
+      "artists": [
+        {
+          "name": "Max Beesley's High Vibes",
+          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Mr. Jeckle",
+      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
     },
     {
       "added_at": "2024-03-26 13:55:21",
@@ -1441,26 +1441,6 @@
       "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
     },
     {
-      "added_at": "2025-03-21 04:00:36",
-      "album": {
-        "name": "Silver Rings",
-        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
-      },
-      "artists": [
-        {
-          "name": "New Street Adventure",
-          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
-        },
-        {
-          "name": "Nick Corbin",
-          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Silver Rings",
-      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
-    },
-    {
       "added_at": "2026-05-15 04:00:31",
       "album": {
         "name": "SUN",
@@ -1479,6 +1459,26 @@
       "duration_ms": 230679,
       "name": "The Way We Go",
       "url": "https://open.spotify.com/track/2iruUpQD0YhqePMyyzhaaU"
+    },
+    {
+      "added_at": "2025-03-21 04:00:36",
+      "album": {
+        "name": "Silver Rings",
+        "url": "https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl"
+      },
+      "artists": [
+        {
+          "name": "New Street Adventure",
+          "url": "https://open.spotify.com/artist/6JEgSTui49GrTS57INox42"
+        },
+        {
+          "name": "Nick Corbin",
+          "url": "https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg"
+        }
+      ],
+      "duration_ms": 178264,
+      "name": "Silver Rings",
+      "url": "https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA"
     },
     {
       "added_at": "2022-07-14 19:24:43",

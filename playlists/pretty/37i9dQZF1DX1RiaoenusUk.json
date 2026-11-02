@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35616,
+  "num_followers": 35617,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Gotta Get Funky",
+      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
         "name": "flaitelegante",
         "url": "https://open.spotify.com/album/4rR775JAUeEFFaVIpRRZRO"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 225000,
       "name": "flaitelegante",
       "url": "https://open.spotify.com/track/2tO7o50o83GmCf8mDaKziP"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Gotta Get Funky",
-      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Musica Pa'l Mundo",
-        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
-      },
-      "artists": [
-        {
-          "name": "De Kiruza",
-          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
-        }
-      ],
-      "duration_ms": 293013,
-      "name": "Liviano Como el Viento",
-      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 209546,
       "name": "Tal para Cual",
       "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Musica Pa'l Mundo",
+        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
+      },
+      "artists": [
+        {
+          "name": "De Kiruza",
+          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
+        }
+      ],
+      "duration_ms": 293013,
+      "name": "Liviano Como el Viento",
+      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
-      },
-      "artists": [
-        {
-          "name": "N\u00fakuma",
-          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
-        }
-      ],
-      "duration_ms": 274102,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 259880,
       "name": "Bienvenidos al Presente",
       "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
+      },
+      "artists": [
+        {
+          "name": "N\u00fakuma",
+          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
+        }
+      ],
+      "duration_ms": 274102,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Sudamericano",
-        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 235836,
       "name": "Baba",
       "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Sudamericano",
+        "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
-    },
-    {
-      "added_at": "2026-10-23 03:00:47",
-      "album": {
         "name": "No la Ves",
         "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 259553,
       "name": "No la Ves",
       "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2026-10-23 03:00:47",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
         }
       ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "El Efecto Calma",
-        "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 246085,
-      "name": "El Efecto Calma",
-      "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2026-10-23 03:00:47",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-10-23 03:00:47",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "El Efecto Calma",
+        "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+      "duration_ms": 246085,
+      "name": "El Efecto Calma",
+      "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
     },
     {
       "added_at": "2026-10-23 03:00:47",

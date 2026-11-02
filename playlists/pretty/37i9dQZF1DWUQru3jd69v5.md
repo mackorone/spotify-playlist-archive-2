@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > UNK in cover della playlist con il futuro del rap italiano 🐎
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,406 likes - 81 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,394 likes - 81 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

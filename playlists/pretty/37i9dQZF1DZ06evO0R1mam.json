@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAF5FMj3WXqaanM//vprwjV",
+  "snapshot_id": "auUvgAAAAAAL7PxIIkdFr5rv3JSLyfcF",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 493826,
-      "name": "The Worship Medley (There Is Nothing Like/Glory To God Forever) - Live",
-      "url": "https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds"
+      "duration_ms": 245146,
+      "name": "If He Did It Before....Same God - Live",
+      "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 245146,
-      "name": "If He Did It Before....Same God - Live",
-      "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
+      "duration_ms": 493826,
+      "name": "The Worship Medley (There Is Nothing Like/Glory To God Forever) - Live",
+      "url": "https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 331013,
-      "name": "Bless The Lord (Son Of Man)",
-      "url": "https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR"
+      "duration_ms": 249880,
+      "name": "Victory - Live",
+      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 249880,
-      "name": "Victory - Live",
-      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
+      "duration_ms": 331013,
+      "name": "Bless The Lord (Son Of Man)",
+      "url": "https://open.spotify.com/track/1iAn7QNrwCvHndzxU84CoR"
     },
     {
       "added_at": null,
@@ -595,38 +595,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
       "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
+      "duration_ms": 372760,
+      "name": "Chasing Me Down (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 392586,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+      "duration_ms": 307586,
+      "name": "We Are Victorious (feat. Tye Tribbett)",
+      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
     },
     {
       "added_at": null,
@@ -663,46 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 307586,
-      "name": "We Are Victorious (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 372760,
-      "name": "Chasing Me Down (feat. Tye Tribbett)",
-      "url": "https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
@@ -712,9 +676,29 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 307266,
-      "name": "Still Have Joy - Live",
-      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
+      "duration_ms": 198226,
+      "name": "1-2 (Victory Check) - Live",
+      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
     },
     {
       "added_at": null,
@@ -731,6 +715,38 @@
       "duration_ms": 292813,
       "name": "Champion",
       "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 130505,
+      "name": "Every Time I Turn Around - Live In Houston",
+      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 307266,
+      "name": "Still Have Joy - Live",
+      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
     },
     {
       "added_at": null,
@@ -774,11 +790,19 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Jalisa Faye",
+          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
+        },
+        {
+          "name": "Rone Grant",
+          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
         }
       ],
-      "duration_ms": 130505,
-      "name": "Every Time I Turn Around - Live In Houston",
-      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
+      "duration_ms": 282888,
+      "name": "Look Up - Live In LA",
+      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
     },
     {
       "added_at": null,
@@ -831,30 +855,6 @@
       "duration_ms": 509186,
       "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
       "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Jalisa Faye",
-          "url": "https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6"
-        },
-        {
-          "name": "Rone Grant",
-          "url": "https://open.spotify.com/artist/4xDPXCO8vNDgNtZR7aEWGb"
-        }
-      ],
-      "duration_ms": 282888,
-      "name": "Look Up - Live In LA",
-      "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
     },
     {
       "added_at": null,

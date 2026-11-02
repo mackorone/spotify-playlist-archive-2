@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 43 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 44 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
 | 45 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 |
-| 46 | [Proof](https://open.spotify.com/track/1RpDQeE8kXFIrvoRzlWi5G) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:46 |
-| 47 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 46 | [Breakdown](https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Breakdown](https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B) | 3:58 |
+| 47 | [Proof](https://open.spotify.com/track/1RpDQeE8kXFIrvoRzlWi5G) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:46 |
 | 48 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
 | 49 | [To The Girl That Gets Him Next](https://open.spotify.com/track/5tfY4sv86EelJYS14Qm8Lj) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [I'd Step On Lego For You.](https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG) | 2:33 |
 | 50 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TIPI\-TAP](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 81 | [Mutual](https://open.spotify.com/track/08Nx4AFHToRhGfgPrzMlc8) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Boy From Barcelona, Baby](https://open.spotify.com/album/0TqqeYC86OzqZBPGNuVFlR) | 2:36 |
 | 82 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
 | 83 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
-| 84 | [Wish You The Best](https://open.spotify.com/track/0QcM7UYxKyCantEBDN6d6V) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus \(Deluxe\)](https://open.spotify.com/album/3RvEN43t9XzBsSEzBupbrq) | 2:58 |
-| 85 | [Sky High](https://open.spotify.com/track/7DKwTEaFimmz8Coym9gydg) | [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [Hey, Somebody \- The 1st Mini Album](https://open.spotify.com/album/6M3nDcroueOxuORgRuVV1o) | 3:40 |
-| 86 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
-| 87 | [Heartbeat](https://open.spotify.com/track/6nkOj0akF4rZt4c7MCxKpx) | [Sandro Soro](https://open.spotify.com/artist/00XA2DHpsl0JYh0LCywnhx) | [Heartbeat](https://open.spotify.com/album/6YSYvAlysBgSUJAJQpnhfK) | 2:30 |
+| 84 | [Sky High](https://open.spotify.com/track/7DKwTEaFimmz8Coym9gydg) | [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [Hey, Somebody \- The 1st Mini Album](https://open.spotify.com/album/6M3nDcroueOxuORgRuVV1o) | 3:40 |
+| 85 | [Wish You The Best](https://open.spotify.com/track/0QcM7UYxKyCantEBDN6d6V) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus \(Deluxe\)](https://open.spotify.com/album/3RvEN43t9XzBsSEzBupbrq) | 2:58 |
+| 86 | [Heartbeat](https://open.spotify.com/track/6nkOj0akF4rZt4c7MCxKpx) | [Sandro Soro](https://open.spotify.com/artist/00XA2DHpsl0JYh0LCywnhx) | [Heartbeat](https://open.spotify.com/album/6YSYvAlysBgSUJAJQpnhfK) | 2:30 |
+| 87 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 
-Snapshot ID: `Acgc4gAAAAArBR2U+FEL41cgqybjYW5E`
+Snapshot ID: `AcgiggAAAABi8IxxsFd8dE8rzHg94zvw`

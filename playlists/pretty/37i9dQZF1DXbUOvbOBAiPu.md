@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dressed Like Boys, TeddyBear, Mylène Farmer & DJ Snake, Ronisia, MEAU,  Armin van Buuren and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,680 likes - 118 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,679 likes - 118 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

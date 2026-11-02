@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58567,
+  "num_followers": 58568,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABptv/n69O2wx6CeIzmdwVR",
+  "snapshot_id": "auUvgAAAAABUcfEll9Ki0rxpsFfVpJLP",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Nada Me Va A Importar",
-      "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Nada Me Va A Importar",
+      "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cholo en un Low",
-      "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampa (Lqra Session #18)",
         "url": "https://open.spotify.com/album/63w06mgr86dK1f54QBG9Ol"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 260859,
       "name": "Trampa (Lqra Session #18)",
       "url": "https://open.spotify.com/track/2R1bshCgs0J87uteHfkrog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cholo en un Low",
+      "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que No Me Mata",
-        "url": "https://open.spotify.com/album/56DTzOY0cyxCeFHzVtsPZY"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Lo Que No Me Mata",
-      "url": "https://open.spotify.com/track/2u50rEfF46zbbwYj0mmV1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Hasta Arriba Vol.2",
         "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 280421,
       "name": "El Cumbi\u00f3n",
       "url": "https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que No Me Mata",
+        "url": "https://open.spotify.com/album/56DTzOY0cyxCeFHzVtsPZY"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Lo Que No Me Mata",
+      "url": "https://open.spotify.com/track/2u50rEfF46zbbwYj0mmV1a"
     },
     {
       "added_at": null,
@@ -1123,6 +1123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mamoncita y Chula",
+      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Compas X Vida",
         "url": "https://open.spotify.com/album/0UKBcgFTj9tQvzQBmX7l7m"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 236800,
       "name": "Compas X Vida",
       "url": "https://open.spotify.com/track/6UU8pebY7jf2F6n52bqnui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mamoncita y Chula",
-      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
     },
     {
       "added_at": null,

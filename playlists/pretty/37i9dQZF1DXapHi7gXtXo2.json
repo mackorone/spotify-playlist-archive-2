@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 94733,
+  "num_followers": 94734,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0EeRsz6rD97ujvUvtvdCF6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 234113,
       "name": "You",
       "url": "https://open.spotify.com/track/76p149xwpgu1LkSmYKfqeI"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
+      },
+      "artists": [
+        {
+          "name": "Walter Esa\u00fa",
+          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+        }
+      ],
+      "duration_ms": 228306,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
-      },
-      "artists": [
-        {
-          "name": "Walter Esa\u00fa",
-          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
-        }
-      ],
-      "duration_ms": 228306,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
     },
     {
       "added_at": "2024-09-20 03:00:00",

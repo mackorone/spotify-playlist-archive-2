@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Arp Check",
+        "url": "https://open.spotify.com/album/772DcJZpe3vFfXzn280f8E"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209538,
+      "name": "Arp Check",
+      "url": "https://open.spotify.com/track/42e9zncTaI8P355UjYgyNg"
+    },
+    {
+      "album": {
         "name": "Asa",
         "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 157000,
       "name": "Blue Planet - Qrion Remix",
       "url": "https://open.spotify.com/track/4X3pXPqpLT0h36L0aIjPyy"
@@ -2232,6 +2250,28 @@
       "duration_ms": 216336,
       "name": "Condition",
       "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/3jNoqnyyAd0W6hDTWyngkC"
+      },
+      "artists": [
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        },
+        {
+          "name": "Aera",
+          "url": "https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335973,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/4IwrYj9eqq6IFjmXqttipX"
     },
     {
       "album": {
@@ -6593,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "Arp Check",
+        "url": "https://open.spotify.com/album/772DcJZpe3vFfXzn280f8E"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348900,
+      "name": "Khaeng Party - Extended",
+      "url": "https://open.spotify.com/track/0zwXQurKtmLBR3jHTtRSWE"
+    },
+    {
+      "album": {
         "name": "Kids Never Stop Dancing",
         "url": "https://open.spotify.com/album/4hVlAyuPyi8fh2FAldsCB5"
       },
@@ -8420,7 +8478,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 186363,
       "name": "Ocean - Mike Williams Remix",
       "url": "https://open.spotify.com/track/10HJkJe2IedKVBAcObfwvD"
@@ -9274,7 +9332,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 264615,
       "name": "Pura",
       "url": "https://open.spotify.com/track/00IjlvL9A5TFrAE68iq3tZ"
@@ -10784,7 +10842,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 324073,
       "name": "Sonic Riots",
       "url": "https://open.spotify.com/track/00mlkZ36gt7WBR0LKnsT7J"
@@ -10864,6 +10922,24 @@
       "duration_ms": 167619,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/6Qog1jVmV4qSXWGIa0nNDS"
+    },
+    {
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/0ayg7XbMI5SxEvKSswnam1"
+      },
+      "artists": [
+        {
+          "name": "Dachshund",
+          "url": "https://open.spotify.com/artist/0UusOWDKVBRFrZoKJdVuWv"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376133,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/2yHVXnO8xSA9tTr25j3p0s"
     },
     {
       "album": {
@@ -13440,7 +13516,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 281129,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/1eCbYVNIkLFf54XkKWN6uf"
@@ -13528,6 +13604,24 @@
       "duration_ms": 249678,
       "name": "Wooden Mask",
       "url": "https://open.spotify.com/track/0xE9ngrd3jXLaWO38ZoUvA"
+    },
+    {
+      "album": {
+        "name": "Woop Woop EP",
+        "url": "https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193194,
+      "name": "Woop Woop",
+      "url": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc"
     },
     {
       "album": {

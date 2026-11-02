@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the American songbook classics. Cover: Miles Davis",
-  "num_followers": 183021,
+  "num_followers": 183087,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 380240,
-      "name": "Old Folks",
-      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
         "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 394173,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 380240,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Piano In The Background (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 224053,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Piano In The Background (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 553066,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/3xEAZQNPiwucPdGagdoD5j"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Small Groups: 1941-1945",
-        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Quintet",
-          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 483946,
       "name": "Hello, Young Lovers - Remastered 2006",
       "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Small Groups: 1941-1945",
+        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman Quintet",
+          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Take Five: Jazz Classics",
-        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson Trio",
-          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 185240,
       "name": "Long Ago (And Far Away)",
       "url": "https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Take Five: Jazz Classics",
+        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson Trio",
+          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
     },
     {
       "added_at": "2026-05-28 09:37:04",

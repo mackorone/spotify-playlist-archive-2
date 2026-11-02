@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Vedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,365,434 likes - 262 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,365,327 likes - 262 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

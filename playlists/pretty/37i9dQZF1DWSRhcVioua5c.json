@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 93969,
+  "num_followers": 93987,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -991,38 +991,6 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 205557,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
-        "name": "RODRI MEDINA",
-        "url": "https://open.spotify.com/album/6HKP89nYFB5tQQZoWBcqpm"
-      },
-      "artists": [
-        {
-          "name": "Rodri Medina",
-          "url": "https://open.spotify.com/artist/1ZnjYxFDilv3uIe4taNppL"
-        }
-      ],
-      "duration_ms": 255275,
-      "name": "AMOR EN ZAMBA",
-      "url": "https://open.spotify.com/track/5oafGRRyvPezFkPj95u91S"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
+        "name": "RODRI MEDINA",
+        "url": "https://open.spotify.com/album/6HKP89nYFB5tQQZoWBcqpm"
+      },
+      "artists": [
+        {
+          "name": "Rodri Medina",
+          "url": "https://open.spotify.com/artist/1ZnjYxFDilv3uIe4taNppL"
+        }
+      ],
+      "duration_ms": 255275,
+      "name": "AMOR EN ZAMBA",
+      "url": "https://open.spotify.com/track/5oafGRRyvPezFkPj95u91S"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 183866,
       "name": "La Guada",
       "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 205557,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1091,22 +1091,6 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
-        "name": "El Punto Final",
-        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 213418,
-      "name": "El Punto Final",
-      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
+        "name": "El Punto Final",
+        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "El Punto Final",
+      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
         "name": "La Del Otro Beso",
         "url": "https://open.spotify.com/album/4188TKduMsT76W4sTRBvkI"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
         "name": "Mi Loco Amor",
         "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
       },
@@ -1211,54 +1195,6 @@
       "duration_ms": 213705,
       "name": "Mi Loco Amor",
       "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
-        "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
-        "url": "https://open.spotify.com/album/1Dbq7br5fPpceiVaoNnBEH"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 446264,
-      "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
-      "url": "https://open.spotify.com/track/6vGgOdL3ouVHmuw8U7oA2v"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        }
-      ],
-      "duration_ms": 236854,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Amor Salvaje",
-      "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1279,6 +1215,54 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
+        "name": "Al Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Al Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+        "url": "https://open.spotify.com/album/1Dbq7br5fPpceiVaoNnBEH"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 446264,
+      "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+      "url": "https://open.spotify.com/track/6vGgOdL3ouVHmuw8U7oA2v"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Amor Salvaje",
+      "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
         "name": "Ya te olvid\u00e9",
         "url": "https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 147310,
       "name": "Ya te olvid\u00e9",
       "url": "https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        }
+      ],
+      "duration_ms": 236854,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 185429,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
         "name": "Por amarte as\u00ed",
         "url": "https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 212828,
       "name": "Por amarte as\u00ed",
       "url": "https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 185429,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
         "name": "Grito Chayero",
         "url": "https://open.spotify.com/album/23mFODVimmTGsrOTzBBp3z"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 242840,
       "name": "Fabula De Amor",
       "url": "https://open.spotify.com/track/0lww1e8bH0k8JUXB2rPvIp"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
       },
       "artists": [
         {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 224573,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
+      "duration_ms": 130576,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

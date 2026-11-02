@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49197,
+  "num_followers": 49195,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "La volta buona",
         "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 234525,
       "name": "La volta buona",
       "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Sindrome di Stendhal",
-      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 172151,
+      "name": "Sindrome di Stendhal",
+      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Pixel",
-        "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        },
-        {
-          "name": "NeS",
-          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Cielo Grigio (feat. NeS)",
-      "url": "https://open.spotify.com/track/4PXaODmjOGleP7q9UkyYQy"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Pixel",
+        "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        },
+        {
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Cielo Grigio (feat. NeS)",
+      "url": "https://open.spotify.com/track/4PXaODmjOGleP7q9UkyYQy"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Fuoco Sacro",
-        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Quante Notti (feat. Franco126)",
-      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Milano Docet",
         "url": "https://open.spotify.com/album/0fcpty63ePPqtCKKD9CP17"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 217806,
       "name": "Sogni Diventano Incubi",
       "url": "https://open.spotify.com/track/0HLrzfagUoPKEdKpN536H9"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Fuoco Sacro",
+        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Quante Notti (feat. Franco126)",
+      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1995,34 +1995,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "4 MANI",
-        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
-      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -2051,6 +2023,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 368156,
+      "name": "Delle Volte",
+      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Melograno",
         "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
       },
@@ -2071,18 +2059,30 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
       },
       "artists": [
         {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 368156,
-      "name": "Delle Volte",
-      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
+      "duration_ms": 219053,
+      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
+      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2247,30 +2247,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "IncrEdible Freestyle, Pt. III",
-        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
-      },
-      "artists": [
-        {
-          "name": "W.edy Wonders",
-          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        }
-      ],
-      "duration_ms": 85500,
-      "name": "IncrEdible Freestyle, Pt. III",
-      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
       },
@@ -2299,6 +2275,30 @@
       "duration_ms": 280000,
       "name": "Svegliarsi a Roma",
       "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "IncrEdible Freestyle, Pt. III",
+        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
+      },
+      "artists": [
+        {
+          "name": "W.edy Wonders",
+          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "duration_ms": 85500,
+      "name": "IncrEdible Freestyle, Pt. III",
+      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2547,26 +2547,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 235329,
-      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Grimorivm",
         "url": "https://open.spotify.com/album/0NX5D6rBnq9zTpO0lIjgcm"
       },
@@ -2595,6 +2575,26 @@
       "duration_ms": 246083,
       "name": "Svspiria",
       "url": "https://open.spotify.com/track/137ix4kq7j3PPK1SYXv4Gd"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 235329,
+      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Il viaggio dell'anima",
-        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
-      },
-      "artists": [
-        {
-          "name": "Jesto",
-          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Il viaggio dell'anima",
-      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Might Delete Later (Oppure Forse No)",
         "url": "https://open.spotify.com/album/4DXU2wEJaMipE4tyolJzEK"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 145045,
       "name": "Might Delete Later (Oppure Forse No)",
       "url": "https://open.spotify.com/track/6lQAel2CNOlN1gsh2GyAmd"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Il viaggio dell'anima",
+        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
+      },
+      "artists": [
+        {
+          "name": "Jesto",
+          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Il viaggio dell'anima",
+      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
     },
     {
       "added_at": "2026-05-29 09:57:53",

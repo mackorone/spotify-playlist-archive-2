@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10557,
+  "num_followers": 10558,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAE1Za7P39mpKJ3Mi09PI1A",
+  "snapshot_id": "auUvgAAAAADhZ33QZTZliQc9519GshVq",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Quisiera Amarte Menos",
-      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
+      "duration_ms": 203728,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 172303,
-      "name": "Hermosa Tirana",
-      "url": "https://open.spotify.com/track/42jgtQjhL2Qu5nbZKUSO7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Mi Reina",
         "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 172303,
+      "name": "Hermosa Tirana",
+      "url": "https://open.spotify.com/track/42jgtQjhL2Qu5nbZKUSO7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 203728,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
+      "duration_ms": 216973,
+      "name": "Quisiera Amarte Menos",
+      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Nuestro Amor Es Grande",
+      "url": "https://open.spotify.com/track/4vLBtIwx14pBMasSo7DTNc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Supone",
         "url": "https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 165887,
       "name": "Se Supone",
       "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 187036,
-      "name": "Nuestro Amor Es Grande",
-      "url": "https://open.spotify.com/track/4vLBtIwx14pBMasSo7DTNc"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 169116,
+      "name": "En Tu Dia Mi Amor",
+      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 211017,
       "name": "Esta Tristeza Mia",
       "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "De Su Vida Me Ire",
-      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "De Su Vida Me Ire",
+      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cara a Cara",
         "url": "https://open.spotify.com/album/3RwlERz4moNAWgCbKtectx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 191033,
       "name": "Por una Mujer Bonita",
       "url": "https://open.spotify.com/track/6L1B9w1dSvNI5dCASNb4Ez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 169116,
-      "name": "En Tu Dia Mi Amor",
-      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 187663,
+      "name": "Cuando Sola Estes",
+      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 189546,
       "name": "De Cantina En Cantina",
       "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Que Te Perdone Dios",
-      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
     },
     {
       "added_at": null,
@@ -799,42 +799,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/26SuK8JzjDQO7oGQQauiuj"
+        "name": "Rumba Cha Cha Cha",
+        "url": "https://open.spotify.com/album/4BDjxZHbMW3ikcuFmFBdxD"
       },
       "artists": [
         {
-          "name": "Los Dinamicos Del Norte",
-          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
-        },
-        {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 217336,
-      "name": "Vuela Paloma",
-      "url": "https://open.spotify.com/track/56JWh6yS9DbgHQH6wwtI3y"
+      "duration_ms": 239382,
+      "name": "Rumba Cha Cha Cha",
+      "url": "https://open.spotify.com/track/1nO1avK5JH6nJbRLzpMN3r"
     },
     {
       "added_at": null,
       "album": {
-        "name": "De La Tierra Al Cielo",
-        "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
       "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 157559,
-      "name": "De La Tierra Al Cielo",
-      "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
+      "duration_ms": 205400,
+      "name": "Que Te Perdone Dios",
+      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

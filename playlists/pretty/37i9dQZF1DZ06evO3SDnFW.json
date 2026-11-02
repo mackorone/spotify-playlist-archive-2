@@ -1,12 +1,12 @@
 {
   "description": "This is Sam Fender. The essential tracks, all in one playlist.",
-  "num_followers": 255464,
+  "num_followers": 255577,
   "original_name": "This Is Sam Fender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAABlOBMbDvjtSSfnZEeF6/o",
+  "snapshot_id": "auUvgAAAAABQ8034wJkLW/88gq8Ab6I6",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 275186,
-      "name": "You're Not The Only One",
-      "url": "https://open.spotify.com/track/50PsIMoFsYh2clFHipEi8c"
+      "duration_ms": 181293,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/3kROc4cT1QMKyQdPd0Gbvm"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/3kROc4cT1QMKyQdPd0Gbvm"
+      "duration_ms": 275186,
+      "name": "You're Not The Only One",
+      "url": "https://open.spotify.com/track/50PsIMoFsYh2clFHipEi8c"
     },
     {
       "added_at": null,

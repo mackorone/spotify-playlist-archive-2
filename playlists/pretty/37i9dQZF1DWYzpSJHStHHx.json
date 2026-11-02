@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483424,
+  "num_followers": 483406,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Read My Mind",
-        "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 212490,
-      "name": "Read My Mind",
-      "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "A Long Long Time",
         "url": "https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 258054,
       "name": "A Long Long Time",
       "url": "https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Read My Mind",
+        "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 212490,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Valley Girl",
         "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 211829,
       "name": "Valley Girl",
       "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 124636,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "twenty bucks (the friend song)",
         "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 113232,
       "name": "twenty bucks (the friend song)",
       "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 124636,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
     },
     {
       "added_at": "2026-10-22 13:00:19",

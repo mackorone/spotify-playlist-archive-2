@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Miniatures de auto rhythm",
         "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 242553,
       "name": "Le soleil dans le monde",
       "url": "https://open.spotify.com/track/4Ve8G6KOhjDwi1fSOOdYds"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
     },
     {
       "added_at": "2026-09-17 14:01:29",

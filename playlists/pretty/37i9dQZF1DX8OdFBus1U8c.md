@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,012 likes - 86 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,024 likes - 86 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

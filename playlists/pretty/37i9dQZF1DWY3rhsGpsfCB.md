@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,457 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,458 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 33 | [Stars Misaligned II](https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u) | [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Stars Misaligned II](https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc) | 2:50 |
 | 34 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 35 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
-| 36 | [For The Moment](https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:26 |
-| 37 | [Jam](https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 3:00 |
+| 36 | [Jam](https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 3:00 |
+| 37 | [For The Moment](https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:26 |
 | 38 | [24 Hours](https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [24 Hours](https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP) | 3:17 |
 | 39 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 40 | [On Me \(with Odeal\)](https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Love is the New Gangsta](https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq) | 3:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 70 | [LFTOS](https://open.spotify.com/track/2kNlFphwGsURo77TMRjDpL) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [T's & C's Apply](https://open.spotify.com/album/381comodDFpQlXwdxvAix1) | 2:56 |
 | 71 | [Solace II](https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Solace II](https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa) | 2:34 |
 | 72 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
-| 73 | [Pami](https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Pami](https://open.spotify.com/album/647NndPt3TbMUYlTojxes9) | 3:06 |
-| 74 | [Obobe](https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [NIGHT](https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr) | 2:39 |
+| 73 | [Obobe](https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [NIGHT](https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr) | 2:39 |
+| 74 | [Pami](https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Pami](https://open.spotify.com/album/647NndPt3TbMUYlTojxes9) | 3:06 |
 | 75 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 |
 | 76 | [Eden](https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love Is a Machinery](https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC) | 2:43 |
 | 77 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |

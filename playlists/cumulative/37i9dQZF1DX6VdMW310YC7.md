@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,943 songs - 5 day 11 hr 47 min
+1,944 songs - 5 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1404,7 +1404,7 @@
 | [Rise Above](https://open.spotify.com/track/30qiELbAZ83xKkj23MhdhH) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Rise Above](https://open.spotify.com/album/19EPuUvxNIptO3sEJRhJAm) | 3:19 | 2024-07-12 | 2024-09-14 |
 | [Rise Up](https://open.spotify.com/track/2sTe3y5xjQvVb9tDTVaI35) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Rise Up](https://open.spotify.com/album/71OvAYyGpaspUbSFoKw1Tn) | 3:01 | 2020-05-22 | 2020-07-03 |
 | [Riverwards Stream](https://open.spotify.com/track/4HunXDbm6cFDmsH3pFOg7h) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:07 | 2020-03-16 | 2022-01-14 |
-| [RnR \(UN Chamber Music Society arrangement\) \- Remix](https://open.spotify.com/track/0rkKla01DvtHeJSdSbqqjP) | [UN Chamber Music Society](https://open.spotify.com/artist/0XQ5BQl5Flub2d1xLAPj41), [Brenda Vongova](https://open.spotify.com/artist/4rLrQtQ3P20peYEv005X6r), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [HARMONY](https://open.spotify.com/album/1A9nBNZ1kAiRCLPJc9Vtb4) | 5:03 | 2026-01-16 |  |
+| [RnR \(UN Chamber Music Society arrangement\) \- Remix](https://open.spotify.com/track/0rkKla01DvtHeJSdSbqqjP) | [UN Chamber Music Society](https://open.spotify.com/artist/0XQ5BQl5Flub2d1xLAPj41), [Brenda Vongova](https://open.spotify.com/artist/4rLrQtQ3P20peYEv005X6r), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [HARMONY](https://open.spotify.com/album/1A9nBNZ1kAiRCLPJc9Vtb4) | 5:03 | 2026-01-16 | 2026-11-02 |
 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 | 2020-02-29\* | 2022-09-24 |
 | [Roadkill \- EDX Radio Mix](https://open.spotify.com/track/74DCZkyPij6E5MDF8oTMen) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Roadkill \(EDX's Ibiza Sunrise Remix\)](https://open.spotify.com/album/13XCSbkgM0VwWINERGIYVA) | 3:25 | 2020-05-22 | 2020-07-03 |
 | [Rock Paper Scissors](https://open.spotify.com/track/4ODbtbeIRdD7GCoaAAHaO8) | [Prince Fox](https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT) | [Rock Paper Scissors](https://open.spotify.com/album/6G0i9lrEKq51xClK0jbaJk) | 3:06 | 2020-03-17 | 2022-04-19 |
@@ -1904,6 +1904,7 @@
 | [With Me](https://open.spotify.com/track/1j52kz97UfunMcCswumapr) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [With Me](https://open.spotify.com/album/5HtAwkxnYLbg8fMXErCxx9) | 5:48 | 2020-05-18 | 2020-07-18 |
 | [With You](https://open.spotify.com/track/5xkPxBrNxPWDxO7CBDqYyJ) | [JAZ von D](https://open.spotify.com/artist/2h7mdSLRyUBIeSHhcUBgGG) | [Reflection EP](https://open.spotify.com/album/4mTfby45rGd0cIHsLFircs) | 2:42 | 2020-05-18 | 2020-07-03 |
 | [With You](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [With You](https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH) | 2:48 | 2023-09-29 | 2025-08-30 |
+| [With You](https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Higher Note](https://open.spotify.com/album/0Jlm4EJqBKBUtm9sNtTwFe) | 4:11 | 2026-10-30 |  |
 | [With You \(feat\. Quinn XCII\)](https://open.spotify.com/track/5qxLvazzinSf4Cb1N6zIhb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Ashes](https://open.spotify.com/album/1aNWsfl6osnt0NO7Kubknx) | 3:06 | 2020-05-18 | 2020-07-03 |
 | [With You \- LöKii Remix](https://open.spotify.com/track/2aFAmDBycyEnj3lcS95JMe) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [With You \- The Remixes](https://open.spotify.com/album/5cHgBxHHpJLjMWGBBiJEVJ) | 3:51 | 2020-03-17 | 2020-07-03 |
 | [Woman](https://open.spotify.com/track/477nsrJgEucX7WEdxc149q) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Woman](https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2) | 10:27 | 2023-04-21 | 2024-04-19 |

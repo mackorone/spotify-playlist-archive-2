@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 289200,
       "name": "Acuerdate De Mi",
       "url": "https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD"
@@ -788,6 +788,28 @@
       "duration_ms": 308105,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a Bonita (Remix)",
+        "url": "https://open.spotify.com/album/7qGJ5nkmntotdKepwPcQYk"
+      },
+      "artists": [
+        {
+          "name": "Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222580,
+      "name": "Ni\u00f1a Bonita - Remix",
+      "url": "https://open.spotify.com/track/6hR7NSSe8V3EBXYdeN7q9B"
     },
     {
       "album": {

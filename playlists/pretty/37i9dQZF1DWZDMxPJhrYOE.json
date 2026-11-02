@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105569,
+  "num_followers": 105562,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 156856,
-      "name": "EMERALD EYES",
-      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "Popstar",
         "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 140520,
       "name": "Nobody Wanna Dance Anymore",
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -563,6 +563,22 @@
       "duration_ms": 305875,
       "name": "Over country",
       "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "Here You Come, There You Go",
+        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 170582,
+      "name": "Here You Come, There You Go",
+      "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -635,18 +651,22 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Here You Come, There You Go",
-        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ"
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 170582,
-      "name": "Here You Come, There You Go",
-      "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
+      "duration_ms": 88586,
+      "name": "Airbender",
+      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -703,26 +723,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Heavy Is The Crown",
-        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 88586,
-      "name": "Airbender",
-      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "Pylon",
         "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "PANGEA",
-        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 145099,
-      "name": "PANGEA",
-      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "SLEEP",
         "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 151654,
       "name": "SLEEP",
       "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "PANGEA",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 145099,
+      "name": "PANGEA",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -807,6 +807,22 @@
       "duration_ms": 167666,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "Sex & Drugs",
+        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sex & Drugs",
+      "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -859,22 +875,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Sex & Drugs",
-        "url": "https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sex & Drugs",
-      "url": "https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Pay That Toll",
-        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 167553,
-      "name": "Pay That Toll",
-      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "Hvis Jeg Er Uden Dig",
         "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 187262,
       "name": "Hvis Jeg Er Uden Dig",
       "url": "https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "Pay That Toll",
+        "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 167553,
+      "name": "Pay That Toll",
+      "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
       },
       "artists": [
         {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -1059,22 +1075,6 @@
       "duration_ms": 222316,
       "name": "SO GOOD",
       "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 174282,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
         "name": "Pillow Fight / I\u2019d Rather Be Alone",
         "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Hvem er det der gr\u00e6der nu?",
-        "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
-      },
-      "artists": [
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hvem er det der gr\u00e6der nu?",
-      "url": "https://open.spotify.com/track/6UngwLrGYSueVi0PPIUZpt"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "YAP.",
         "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 171797,
       "name": "FORMIDABEL",
       "url": "https://open.spotify.com/track/2PTABhzpf5o3gI8H6rAZoV"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "Hvem er det der gr\u00e6der nu?",
+        "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hvem er det der gr\u00e6der nu?",
+      "url": "https://open.spotify.com/track/6UngwLrGYSueVi0PPIUZpt"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 192449,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
         "name": "Jazz dreams",
         "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT"
       },
@@ -1383,34 +1367,18 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
-        "name": "KBH",
-        "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
-      },
-      "artists": [
-        {
-          "name": "Nik & Jay",
-          "url": "https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr"
-        }
-      ],
-      "duration_ms": 175562,
-      "name": "KBH",
-      "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
+      "duration_ms": 192449,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
     },
     {
       "added_at": "2026-10-29 23:01:37",
@@ -1435,6 +1403,54 @@
     {
       "added_at": "2026-10-29 23:01:37",
       "album": {
+        "name": "KBH",
+        "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
+      },
+      "artists": [
+        {
+          "name": "Nik & Jay",
+          "url": "https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "KBH",
+      "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
+        "name": "Circadian Rhythm",
+        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
+      },
+      "artists": [
+        {
+          "name": "SKAI",
+          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
+        }
+      ],
+      "duration_ms": 144451,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
+    },
+    {
+      "added_at": "2026-10-29 23:01:37",
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 216833,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl"
-    },
-    {
-      "added_at": "2026-10-29 23:01:37",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 162757,
-      "name": "Blod",
-      "url": "https://open.spotify.com/track/75pme3Ywol4lQNgV1h4kLZ"
     }
   ],
   "unique_name": "De nye",

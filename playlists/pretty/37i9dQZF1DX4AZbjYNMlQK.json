@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 266494,
+  "num_followers": 266502,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,46 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "Estefan Family Christmas",
+        "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Emily Estefan",
+          "url": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "name": "Sasha Estefan-Coppola",
+          "url": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Doy Gracias Por Ti",
+      "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Todo Es Posible En Navidad",
+        "url": "https://open.spotify.com/album/3fHzqWh0lSGDtIhZc186FT"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Todo Es Posible En Navidad",
+      "url": "https://open.spotify.com/track/41bfCU4YfqWsvNHNGsTVFM"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Se Acerca Navidad",
         "url": "https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C"
       },
@@ -515,46 +555,6 @@
       "duration_ms": 196166,
       "name": "Se Acerca Navidad",
       "url": "https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Todo Es Posible En Navidad",
-        "url": "https://open.spotify.com/album/3fHzqWh0lSGDtIhZc186FT"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Todo Es Posible En Navidad",
-      "url": "https://open.spotify.com/track/41bfCU4YfqWsvNHNGsTVFM"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Estefan Family Christmas",
-        "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Emily Estefan",
-          "url": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
-        },
-        {
-          "name": "Sasha Estefan-Coppola",
-          "url": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Doy Gracias Por Ti",
-      "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Navisad",
-        "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 186775,
-      "name": "Navisad",
-      "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 188520,
       "name": "Navidad Contigo",
       "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Navisad",
+        "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 186775,
+      "name": "Navisad",
+      "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "El Mix-Tape De Santa",
         "url": "https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 202632,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Una Navidad Sin Nieve",
         "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Con Mi Coqueta",
-        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
       },
       "artists": [
         {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Con Mi Coqueta",
-      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1059,6 +1043,22 @@
       "duration_ms": 145876,
       "name": "Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Con Mi Coqueta",
+        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Con Mi Coqueta",
+      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 195842,
+      "name": "Last Christmas - Spanish Version",
+      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 195842,
-      "name": "Last Christmas - Spanish Version",
-      "url": "https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Recalentado navide\u00f1o",
-        "url": "https://open.spotify.com/album/4JQPKQd3HaDKmacMzeuMej"
+        "name": "Navidad Contigo",
+        "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
         }
       ],
-      "duration_ms": 206814,
-      "name": "Ven a cantar - Pau Laggies Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK"
+      "duration_ms": 123333,
+      "name": "Navidad Contigo",
+      "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
     }
   ],
   "unique_name": "Feliz Navidad",

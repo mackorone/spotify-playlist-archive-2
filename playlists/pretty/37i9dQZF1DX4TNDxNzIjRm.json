@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1248607,
+  "num_followers": 1248445,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,30 @@
     {
       "added_at": "2026-10-02 08:11:38",
       "album": {
+        "name": "MUCHACHA",
+        "url": "https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "MUCHACHA",
+      "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"
+    },
+    {
+      "added_at": "2026-10-02 08:11:38",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
-    },
-    {
-      "added_at": "2026-10-02 08:11:38",
-      "album": {
-        "name": "MUCHACHA",
-        "url": "https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Kreamly",
-          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "MUCHACHA",
-      "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"
     },
     {
       "added_at": "2026-10-02 08:11:38",

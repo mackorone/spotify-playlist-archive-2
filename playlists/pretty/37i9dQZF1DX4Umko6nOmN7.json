@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 609621,
+  "num_followers": 609594,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
-        "name": "Utan dina andetag - Spotify Singles",
-        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 204913,
-      "name": "Utan dina andetag - Spotify Singles",
-      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
         "name": "80's",
         "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 210500,
       "name": "80's",
       "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
+        "name": "Utan dina andetag - Spotify Singles",
+        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 204913,
+      "name": "Utan dina andetag - Spotify Singles",
+      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
     },
     {
       "added_at": "2026-10-29 23:00:39",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
+        "name": "Misstro",
+        "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        },
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 170162,
+      "name": "Misstro",
+      "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
         "name": "Feeling Good (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 189152,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
-        "name": "Misstro",
-        "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        },
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 170162,
-      "name": "Misstro",
-      "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
     },
     {
       "added_at": "2026-10-29 23:00:39",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "The Best Is Yet to Come",
+      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
     },
     {
       "added_at": "2026-10-29 23:00:39",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
-        "name": "Stockholm \u00e4r f\u00f6r stort",
-        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Stockholm \u00e4r f\u00f6r stort",
-      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
         "name": "Fotografi",
         "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 201680,
       "name": "Fotografi",
       "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
+        "name": "Stockholm \u00e4r f\u00f6r stort",
+        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Stockholm \u00e4r f\u00f6r stort",
+      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
     },
     {
       "added_at": "2026-10-29 23:00:39",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
         "name": "Sarkofag",
         "url": "https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 197973,
       "name": "Sarkofag",
       "url": "https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2026-10-29 23:00:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
-        "name": "Mirror (Deluxe)",
-        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175550,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
         "name": "Den jag kunde blivit - Den jag blev",
         "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 243760,
       "name": "R\u00f6da sten",
       "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "added_at": "2026-10-29 23:00:39",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
+        "name": "Oh love",
+        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 256047,
+      "name": "Oh love",
+      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
         "name": "Kite (Acoustic)",
         "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
-        "name": "Oh love",
-        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 256047,
-      "name": "Oh love",
-      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
         "name": "Back To My Roots",
         "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-10-29 23:00:39",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
-    },
-    {
-      "added_at": "2026-10-29 23:00:39",
-      "album": {
         "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
         "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 167843,
       "name": "Deep Down - From the Film \u2018The Abyss\u2019",
       "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
+    },
+    {
+      "added_at": "2026-10-29 23:00:39",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2026-10-29 23:00:39",

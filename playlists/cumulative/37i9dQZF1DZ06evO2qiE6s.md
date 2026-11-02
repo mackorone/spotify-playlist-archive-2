@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-158 songs - 6 hr 59 min
+159 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Let Me Love You Tonight](https://open.spotify.com/track/08MGDBwkSopRdXxr5BjeiO) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 2:25 | 2024-01-30 | 2024-07-24 |
 | [Let There Be Love / You're Nobody Till Somebody Loves You](https://open.spotify.com/track/5uhf1e6TB5V8PKcetYmAiP) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Let There Be Love / You're Nobody Till Somebody Loves You](https://open.spotify.com/album/6JjZnmerwGsfY2bValukHU) | 2:15 | 2023-12-26 | 2024-02-11 |
 | [Love Me, My Love](https://open.spotify.com/track/0CMkKjLLIsCr2rSt7lpJaN) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 10 \(1959\-1960\)](https://open.spotify.com/album/2gWp6ct1c3hFGIN1rR9j18) | 2:54 | 2024-05-29 | 2024-07-24 |
-| [Luna Mezzo Mare](https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:08 | 2024-01-05 |  |
+| [Luna Mezzo Mare](https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:08 | 2024-01-05 | 2026-11-02 |
 | [Make the World Go Away](https://open.spotify.com/track/4bbm7ntU8aKrksCinskzO7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [My Woman, My Woman, My Wife](https://open.spotify.com/album/72SyCEbbglnB4vh5Ocaq95) | 2:48 | 2023-12-26 | 2024-07-24 |
 | [Mambo Italiano](https://open.spotify.com/track/5G4JTc4HlIsg7CyiDwoPV2) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:19 | 2025-05-23 | 2026-03-29 |
 | [Mambo Italiano](https://open.spotify.com/track/7DuqCAxfOEKBfQgrnWfHrh) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:22 | 2023-12-26 | 2026-10-13 |
@@ -157,6 +157,7 @@
 | [We'll Sing in the Sunshine](https://open.spotify.com/track/1WKMAaCkDKt4SUqn7BRQ3G) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Door Is Still Open to My Heart](https://open.spotify.com/album/6neAuqwU6qcZgXHD2irQFI) | 2:47 | 2023-12-26 | 2024-07-24 |
 | [Welcome to My World](https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:22 | 2023-12-26 |  |
 | [When You're Smiling \(The Whole World Smiles With You\) \- Digitally Remastered 97](https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:03 | 2023-12-26 |  |
+| [White Christmas](https://open.spotify.com/track/67mEvPm9yHq9XUKPwxy9ph) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Classic Christmas](https://open.spotify.com/album/40db1dU3H6We95TkzEmbCP) | 1:38 | 2026-11-02 |  |
 | [White Christmas](https://open.spotify.com/track/7H0ABcbcZLjVD83SgeU19l) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:29 | 2023-12-26 | 2023-12-30 |
 | [Who Was That Lady?](https://open.spotify.com/track/6Y7Y6NzPv4Zu288vIlK0Gg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 10 \(1959\-1960\)](https://open.spotify.com/album/2gWp6ct1c3hFGIN1rR9j18) | 2:26 | 2023-12-26 | 2024-01-28 |
 | [Winter Wonderland](https://open.spotify.com/track/6JzICCKjjIzQ5M2YqzLhWF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:54 | 2023-12-26 | 2023-12-30 |

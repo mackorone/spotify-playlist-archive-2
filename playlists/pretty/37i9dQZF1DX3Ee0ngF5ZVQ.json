@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 397965,
+  "num_followers": 397934,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Never Again One More Time",
-        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
-      },
-      "artists": [
-        {
-          "name": "Walker Montgomery",
-          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        }
-      ],
-      "duration_ms": 178284,
-      "name": "Never Again One More Time",
-      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+      },
+      "artists": [
+        {
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
     },
     {
       "added_at": "2026-08-07 04:01:44",

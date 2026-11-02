@@ -1,13 +1,29 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17896,
+  "num_followers": 17895,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAC9T6+JqntNojAONE3kFd7c",
+  "snapshot_id": "auUvgAAAAAC5cwSexFjtR235K4ie64DN",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "HEART ATTACK",
+      "url": "https://open.spotify.com/track/1kbaSH9fGTFauyWz1hvodx"
+    },
     {
       "added_at": null,
       "album": {
@@ -191,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleu",
-        "url": "https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN"
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/5xbEWVYh6xBdMyOxqOkqD9"
       },
       "artists": [
         {
-          "name": "Claire Laffut",
-          "url": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
-        },
-        {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 199009,
-      "name": "Nudes",
-      "url": "https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1"
+      "duration_ms": 239960,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/26ivjFyAPRjNnhhZ1IbeAQ"
     },
     {
       "added_at": null,
@@ -231,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/5xbEWVYh6xBdMyOxqOkqD9"
+        "name": "Bleu",
+        "url": "https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN"
       },
       "artists": [
         {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "Claire Laffut",
+          "url": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
         },
         {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 239960,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/26ivjFyAPRjNnhhZ1IbeAQ"
+      "duration_ms": 199009,
+      "name": "Nudes",
+      "url": "https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1"
     },
     {
       "added_at": null,
@@ -391,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart Of Glass",
-        "url": "https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH"
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
       },
       "artists": [
         {
@@ -400,9 +416,25 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 195327,
-      "name": "Heart Of Glass",
-      "url": "https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p"
+      "duration_ms": 129090,
+      "name": "1-900-XXX-XXXX",
+      "url": "https://open.spotify.com/track/1JceTxHqLMrs7yLJ4yybnp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
     },
     {
       "added_at": null,
@@ -423,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+        "name": "Heart Of Glass",
+        "url": "https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH"
       },
       "artists": [
         {
@@ -432,9 +464,25 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
+      "duration_ms": 195327,
+      "name": "Heart Of Glass",
+      "url": "https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 42535,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/3aZRZTCUJW6xmyKu2xXLQo"
     },
     {
       "added_at": null,
@@ -471,42 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u2019Amour",
-        "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
-      },
-      "artists": [
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "CATCHEUR",
-      "url": "https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rien \u00e0 prouver",
-        "url": "https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 242908,
-      "name": "Rien \u00e0 prouver",
-      "url": "https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Kitchen EP",
         "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
       },
@@ -527,6 +539,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rien \u00e0 prouver",
+        "url": "https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 242908,
+      "name": "Rien \u00e0 prouver",
+      "url": "https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 229489,
+      "name": "DEAR GOD",
+      "url": "https://open.spotify.com/track/3bSOODQdlqvcGUA7yqJCFd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u2019Amour",
+        "url": "https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "CATCHEUR",
+      "url": "https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MENTAL",
         "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
       },
@@ -539,6 +603,38 @@
       "duration_ms": 162000,
       "name": "TUNING",
       "url": "https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 213601,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 213336,
+      "name": "IS IT A CRIME",
+      "url": "https://open.spotify.com/track/3nJCuoX4WeSbQXGxF93ec7"
     },
     {
       "added_at": null,
@@ -559,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
       },
       "artists": [
         {
@@ -568,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 213601,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
+      "duration_ms": 214650,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI"
     },
     {
       "added_at": null,
@@ -595,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MENTAL",
-        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
       },
       "artists": [
         {
@@ -604,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 214650,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI"
+      "duration_ms": 143265,
+      "name": "SEXX",
+      "url": "https://open.spotify.com/track/6xTiGLyxogKgMRwdXKYJF4"
     },
     {
       "added_at": null,
@@ -631,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
       },
       "artists": [
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        },
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         }
       ],
-      "duration_ms": 381226,
-      "name": "101 REGRETS",
-      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
+      "duration_ms": 206000,
+      "name": "SUICIDE",
+      "url": "https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv"
     },
     {
       "added_at": null,
@@ -667,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MENTAL",
-        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
       "artists": [
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         }
       ],
-      "duration_ms": 206000,
-      "name": "SUICIDE",
-      "url": "https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv"
+      "duration_ms": 381226,
+      "name": "101 REGRETS",
+      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
     },
     {
       "added_at": null,
@@ -715,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encore + pour de vrai",
+        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
+      },
+      "artists": [
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "+ M\u00e9lange",
+      "url": "https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRUT",
         "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
@@ -743,26 +859,6 @@
       "duration_ms": 133416,
       "name": "GAR\u00c7ON",
       "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encore + pour de vrai",
-        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
-      },
-      "artists": [
-        {
-          "name": "Ichon",
-          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "+ M\u00e9lange",
-      "url": "https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y"
     },
     {
       "added_at": null,
@@ -799,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MENTAL",
-        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 42500,
-      "name": "FUCK ME",
-      "url": "https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diego",
         "url": "https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2"
       },
@@ -827,98 +907,6 @@
       "duration_ms": 167773,
       "name": "Diego",
       "url": "https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "La vague",
-      "url": "https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 183020,
-      "name": "Rod\u00e9o",
-      "url": "https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le gang des antillais",
-        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
-      },
-      "artists": [
-        {
-          "name": "Lino",
-          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 218467,
-      "name": "Meilleur homme",
-      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUTAAL",
-        "url": "https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ"
-      },
-      "artists": [
-        {
-          "name": "Zwangere Guy",
-          "url": "https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0"
-        },
-        {
-          "name": "Blu Samu",
-          "url": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 246490,
-      "name": "BRUTAAL",
-      "url": "https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "La mamma",
-      "url": "https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6"
     }
   ],
   "unique_name": "This Is Yseult",

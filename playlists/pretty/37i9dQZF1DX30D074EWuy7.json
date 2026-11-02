@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35237,
+  "num_followers": 35242,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Sogni",
+        "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
+      },
+      "artists": [
+        {
+          "name": "I PATAGARRI",
+          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
+        }
+      ],
+      "duration_ms": 154223,
+      "name": "Sogni",
+      "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Oltreoceano",
         "url": "https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 199639,
       "name": "Fine Di Un'Era",
       "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Sogni",
-        "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
-      },
-      "artists": [
-        {
-          "name": "I PATAGARRI",
-          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
-        }
-      ],
-      "duration_ms": 154223,
-      "name": "Sogni",
-      "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "High Fever",
-        "url": "https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1"
-      },
-      "artists": [
-        {
-          "name": "Electric Circus",
-          "url": "https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "High Fever",
-      "url": "https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 278773,
       "name": "Musica e Fumo",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "High Fever",
+        "url": "https://open.spotify.com/album/1kEHJ7NkxBnvGVnBtUT5q1"
+      },
+      "artists": [
+        {
+          "name": "Electric Circus",
+          "url": "https://open.spotify.com/artist/1U6ZJR2dru7HSglnG1MPn6"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "High Fever",
+      "url": "https://open.spotify.com/track/3Ee0GnJ0lg3L4u0yBV5pAx"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "MADRE",
         "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 245500,
       "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
       "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
       "artists": [
         {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     }
   ],
   "unique_name": "Jazz Italia",

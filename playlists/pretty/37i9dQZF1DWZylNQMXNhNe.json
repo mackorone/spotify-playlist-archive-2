@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247494,
+  "num_followers": 247487,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Party Everyday",
-        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 137681,
-      "name": "Party Everyday",
-      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "Calor Nacional",
         "url": "https://open.spotify.com/album/2Uz4LigDz88y7lAt3p6m8X"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 189473,
       "name": "Dan\u00e7ar Pelada",
       "url": "https://open.spotify.com/track/2w6Kaxt4xp8DzhW1KIiZRr"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "Party Everyday",
+        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 137681,
+      "name": "Party Everyday",
+      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Tamborim",
+        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 165568,
+      "name": "Tamborim",
+      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 140454,
       "name": "ME ALIMENTA",
       "url": "https://open.spotify.com/track/4LPHHIENj6SYHDC92WnbrK"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Tamborim",
-        "url": "https://open.spotify.com/album/2FNuxRIspVSmquBNFR1x51"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 165568,
-      "name": "Tamborim",
-      "url": "https://open.spotify.com/track/0331uqlvE3OmOHsSGkrGbB"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -867,6 +867,26 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Tar\u00f4",
+        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 200345,
+      "name": "Tar\u00f4",
+      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 201230,
       "name": "DISK NAMORADA",
       "url": "https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Tar\u00f4",
-        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "Tar\u00f4",
-      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Intui\u00e7\u00e3o Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz"
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
         }
       ],
-      "duration_ms": 192298,
-      "name": "200 Anos - Ao Vivo",
-      "url": "https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4"
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1127,22 +1131,18 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
+        "name": "Intui\u00e7\u00e3o Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz"
       },
       "artists": [
         {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
         }
       ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
+      "duration_ms": 192298,
+      "name": "200 Anos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4"
     },
     {
       "added_at": "2026-10-16 14:04:25",

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 316025,
+  "num_followers": 316030,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Evangelina",
+        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Evangelina",
+      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Evangelina",
-        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Evangelina",
-      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "You Make Sense To Me",
         "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 235804,
       "name": "You Make Sense To Me",
       "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Love You To Death",
-        "url": "https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp"
-      },
-      "artists": [
-        {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Love You To Death",
-      "url": "https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Welcome to Hard Times",
         "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Love You To Death",
+        "url": "https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp"
+      },
+      "artists": [
+        {
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Love You To Death",
+      "url": "https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Mr. Jukebox",
+        "url": "https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Mr. Jukebox",
+      "url": "https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1131,18 +1147,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Mr. Jukebox",
-        "url": "https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs"
+        "name": "Same Devil (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
       "artists": [
         {
-          "name": "Joshua Hedley",
-          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 196280,
-      "name": "Mr. Jukebox",
-      "url": "https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL"
+      "duration_ms": 187466,
+      "name": "Same Devil (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1179,26 +1199,6 @@
       "duration_ms": 286146,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Same Devil (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "Same Devil (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Love All Night (Work All Day)",
-        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Tom Turkey (Alternate Version)",
         "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 234656,
       "name": "Tom Turkey - Alternate Version",
       "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Love All Night (Work All Day)",
+        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Cherie Vico",
-        "url": "https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I"
-      },
-      "artists": [
-        {
-          "name": "Peter One",
-          "url": "https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo"
-        }
-      ],
-      "duration_ms": 316440,
-      "name": "Cherie Vico",
-      "url": "https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Cherie Vico",
+        "url": "https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I"
+      },
+      "artists": [
+        {
+          "name": "Peter One",
+          "url": "https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo"
+        }
+      ],
+      "duration_ms": 316440,
+      "name": "Cherie Vico",
+      "url": "https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Flyin'",
         "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 145995,
       "name": "Flyin'",
       "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 199991,
+      "name": "Nothing Wrong with Texas",
+      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1431,22 +1447,6 @@
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 199991,
-      "name": "Nothing Wrong with Texas",
-      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
     },
     {
       "added_at": "2026-09-11 04:01:25",

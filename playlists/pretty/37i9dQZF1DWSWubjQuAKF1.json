@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: kubera",
-  "num_followers": 26736,
+  "num_followers": 26735,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "JAK MAM CI POWIEDZIE\u0106?",
-        "url": "https://open.spotify.com/album/6GVqEkqRrNf9CXUNjYJhMZ"
-      },
-      "artists": [
-        {
-          "name": "kubera",
-          "url": "https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw"
-        }
-      ],
-      "duration_ms": 130736,
-      "name": "JAK MAM CI POWIEDZIE\u0106?",
-      "url": "https://open.spotify.com/track/5XMiP4IYRMlXDn7RrnNCCS"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 160846,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "JAK MAM CI POWIEDZIE\u0106?",
+        "url": "https://open.spotify.com/album/6GVqEkqRrNf9CXUNjYJhMZ"
+      },
+      "artists": [
+        {
+          "name": "kubera",
+          "url": "https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw"
+        }
+      ],
+      "duration_ms": 130736,
+      "name": "JAK MAM CI POWIEDZIE\u0106?",
+      "url": "https://open.spotify.com/track/5XMiP4IYRMlXDn7RrnNCCS"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "MAM TO",
-        "url": "https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn"
-      },
-      "artists": [
-        {
-          "name": "maja janowska",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "MAM TO",
-      "url": "https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "chodzi o nas",
         "url": "https://open.spotify.com/album/7LnqXRWxS6hWDUkTOMupx8"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
+        "name": "MAM TO",
+        "url": "https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn"
+      },
+      "artists": [
+        {
+          "name": "maja janowska",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "MAM TO",
+      "url": "https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
         "name": "DOM\u00d3WKI",
         "url": "https://open.spotify.com/album/1NyDAAb27rumGN0PD6SdtG"
       },
@@ -455,18 +455,22 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "PRZEZ PRZYPADEK",
-        "url": "https://open.spotify.com/album/0p6HbDKQrGV3MpypC2sm4a"
+        "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/4S1xRdbttN4GYwgJSfEhD2"
       },
       "artists": [
         {
-          "name": "HELA",
-          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+        },
+        {
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
         }
       ],
-      "duration_ms": 183829,
-      "name": "PRZEZ PRZYPADEK",
-      "url": "https://open.spotify.com/track/23BvVrhz0PtNYyIx1dd5MD"
+      "duration_ms": 166153,
+      "name": "Oceany",
+      "url": "https://open.spotify.com/track/4lzFGh4DOthegbONkaJ09l"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -483,6 +487,22 @@
       "duration_ms": 200454,
       "name": "SZTUCZNE USTA",
       "url": "https://open.spotify.com/track/3TaKlH1BbZ6swEF5GECVo9"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "PRZEZ PRZYPADEK",
+        "url": "https://open.spotify.com/album/0p6HbDKQrGV3MpypC2sm4a"
+      },
+      "artists": [
+        {
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "PRZEZ PRZYPADEK",
+      "url": "https://open.spotify.com/track/23BvVrhz0PtNYyIx1dd5MD"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -515,26 +535,6 @@
       "duration_ms": 193846,
       "name": "To zabola\u0142o",
       "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
-        "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
-        "url": "https://open.spotify.com/album/4S1xRdbttN4GYwgJSfEhD2"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Kida",
-          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
-        },
-        {
-          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
-          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Oceany",
-      "url": "https://open.spotify.com/track/4lzFGh4DOthegbONkaJ09l"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
+        "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+        "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
+      },
+      "artists": [
+        {
+          "name": "Larah",
+          "url": "https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp"
+        }
+      ],
+      "duration_ms": 174243,
+      "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
+      "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
         "name": "sad, alone?",
         "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 161904,
       "name": "sad, alone?",
       "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
-        "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
-        "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
-      },
-      "artists": [
-        {
-          "name": "Larah",
-          "url": "https://open.spotify.com/artist/57LOwYXV6VIq1pMLQUwkjp"
-        }
-      ],
-      "duration_ms": 174243,
-      "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
-      "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -763,6 +763,26 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
+        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
+      },
+      "artists": [
+        {
+          "name": "Karolina Charko",
+          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
+        },
+        {
+          "name": "Profanumbeats",
+          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
+        }
+      ],
+      "duration_ms": 258296,
+      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
         "name": "Nie umiem kocha\u0107",
         "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
       },
@@ -795,26 +815,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
-      },
-      "artists": [
-        {
-          "name": "Karolina Charko",
-          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
-        },
-        {
-          "name": "Profanumbeats",
-          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "Ta\u0144cz i kochaj",
         "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 120685,
       "name": "luvvv<3",
       "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "Piosenki o mi\u0142o\u015bci: nieopowiedziane historie",
+        "url": "https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "Komary i motyle",
+      "url": "https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -883,38 +899,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "D\u0142o\u0144 trzymam w laysach",
-        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        }
-      ],
-      "duration_ms": 146280,
-      "name": "D\u0142o\u0144 trzymam w laysach",
-      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
-        "name": "Piosenki o mi\u0142o\u015bci: nieopowiedziane historie",
-        "url": "https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "Komary i motyle",
-      "url": "https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "Po drugiej stronie szk\u0142a",
         "url": "https://open.spotify.com/album/2QRmQC5t6mD4aXdUQuPfjV"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 158222,
       "name": "Po drugiej stronie szk\u0142a",
       "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "D\u0142o\u0144 trzymam w laysach",
+        "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "duration_ms": 146280,
+      "name": "D\u0142o\u0144 trzymam w laysach",
+      "url": "https://open.spotify.com/track/13epEQaevgVluo5VW66M9t"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "Czuj\u0119 si\u0119 sexy af",
-        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Czuj\u0119 si\u0119 sexy af",
-      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "Plamy",
         "url": "https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P"
       },
@@ -1007,22 +987,6 @@
       "duration_ms": 211705,
       "name": "\u017bebro",
       "url": "https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
-        "name": "Halina",
-        "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 230547,
-      "name": "Halina",
-      "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -1043,6 +1007,42 @@
       "duration_ms": 203888,
       "name": "kim mam by\u0107?",
       "url": "https://open.spotify.com/track/4bN4eZWTCASsnzf8vK27oc"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "Czuj\u0119 si\u0119 sexy af",
+        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Czuj\u0119 si\u0119 sexy af",
+      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "Halina",
+        "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 230547,
+      "name": "Halina",
+      "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
     },
     {
       "added_at": "2026-10-29 23:01:09",

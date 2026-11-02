@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933 likes - 147 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 934 likes - 147 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 46 | [Both Ways](https://open.spotify.com/track/4Hp6v2zrHf8F5sX0CAtKd8) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:18 |
 | 47 | [No Place Like Home](https://open.spotify.com/track/4L5meqHGYtxZnVMtcLvMrE) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:56 |
 | 48 | [Liquid](https://open.spotify.com/track/3kz2zSK5RjbFdmH6jvdlu3) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:43 |
-| 49 | [Do It \(feat\. Becky G & Raquel Castro\)](https://open.spotify.com/track/1dZPKmuRXygzVKmoQk4gPW) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX) | [Empire: Music From 'Without A Country'](https://open.spotify.com/album/6klL39wpPDD7Ojnin5DtyU) | 3:15 |
-| 50 | [Feel The Same](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Feel The Same \(feat\. RuthAnne\)](https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB) | 2:50 |
+| 49 | [Feel The Same](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Feel The Same \(feat\. RuthAnne\)](https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB) | 2:50 |
+| 50 | [Do It \(feat\. Becky G & Raquel Castro\)](https://open.spotify.com/track/1dZPKmuRXygzVKmoQk4gPW) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX) | [Empire: Music From 'Without A Country'](https://open.spotify.com/album/6klL39wpPDD7Ojnin5DtyU) | 3:15 |
 | 51 | [On And On](https://open.spotify.com/track/65j4tmIraduYx8J0AqlQ0A) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 4:49 |
 | 52 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
 | 53 | [Proud](https://open.spotify.com/track/2P6pcE74d5TMQLy4fn6TqD) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:00 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 86 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
 | 87 | [Remember This](https://open.spotify.com/track/4GaXpQAh6e0ItV1jFHOzPK) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/0JeBuIbqH1NaM0cvICe9J3) | 3:46 |
 | 88 | [The Way I Love You](https://open.spotify.com/track/2QtVSNgeddQkXqifFiiXab) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 2:58 |
-| 89 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
-| 90 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 89 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 90 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
 | 91 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
 | 92 | [Together at Christmas](https://open.spotify.com/track/4Y0KsTh7z3u5iCwFQUeR7L) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/4oYP3y50gnOTMe7l3jF3K9) | 3:37 |
 | 93 | [Help](https://open.spotify.com/track/1UVwjv1Czxhg9cdla2gc7N) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Help](https://open.spotify.com/album/2GojD4oCIW4AHzQaIQDZVv) | 2:23 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 146 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 147 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Acgc4gAAAABuWobmgWLEFy7iqsoRRV2b`
+Snapshot ID: `AcgiggAAAADuu48m3iSiiPV6BgQaeXXf`

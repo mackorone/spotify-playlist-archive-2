@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 166112,
       "name": "La Feria de San Marcos",
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
@@ -2050,6 +2050,24 @@
       "duration_ms": 274314,
       "name": "No Dejes Que",
       "url": "https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/57MpzLGl24x5safno1ocmW"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139846,
+      "name": "No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3nQozRR8HvViV4ho41xUjY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,655 songs - 3 day 23 hr 34 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,659 songs - 3 day 23 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1663,5 +1663,9 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1653 | [Staying](https://open.spotify.com/track/6Jp9tZ8NrwXcrhSIriiwAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 2:31 |
 | 1654 | [I Guess](https://open.spotify.com/track/4CJpN2itULOBs95ltiSjbd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:44 |
 | 1655 | [Broken Glass](https://open.spotify.com/track/5Pm5OI224uMuOpxb3dWGAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:40 |
+| 1656 | [Coffee](https://open.spotify.com/track/5BN121xq4XIwWnZSUCQpxg) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:25 |
+| 1657 | [Sun Bleached Flies](https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:36 |
+| 1658 | [California](https://open.spotify.com/track/2dJ0meBZeGXqCovFOA1y4S) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:18 |
+| 1659 | [Kaleidoscope](https://open.spotify.com/track/5nMuwcyQ0rlDjFQ4X8tltL) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:42 |
 
-Snapshot ID: `AAAOi6Cwl9IptuMi4DdeOGmK+aNCx8Kp`
+Snapshot ID: `AAAOkZFedTGJPc0YoH+ZsvVsCNhyTT2E`

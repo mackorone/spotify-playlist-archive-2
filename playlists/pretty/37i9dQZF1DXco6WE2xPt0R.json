@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 128231,
+  "num_followers": 128230,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "When The City Sleeps",
+        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "Maybe Again",
+      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "Maybe Again",
-      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Pressha",
         "url": "https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Crack The Code",
-        "url": "https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Crack The Code",
-      "url": "https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Lil' Obsession",
         "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 181921,
       "name": "Lil' Obsession",
       "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Crack The Code",
+        "url": "https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Crack The Code",
+      "url": "https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Waiting In Vain (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 252573,
-      "name": "Waiting in Vain - Spotify Singles",
-      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Waiting In Vain (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 252573,
+      "name": "Waiting in Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Stay Here Tonight",
-      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
         "name": "Falling or flying",
         "url": "https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Stay Here Tonight",
+      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
     },
     {
       "added_at": "2026-08-07 14:25:39",

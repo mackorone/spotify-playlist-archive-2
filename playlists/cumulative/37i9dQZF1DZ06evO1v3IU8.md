@@ -4,7 +4,7 @@
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 33 min
+104 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [El Ausente](https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 2:42 | 2025-09-23 |  |
 | [El Candidato](https://open.spotify.com/track/1iq2sO3eDU2l8Eca9HKDSW) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Candidato](https://open.spotify.com/album/4kfjtm9i1lYuIcVnGSdvgI) | 3:00 | 2024-10-19 | 2024-11-16 |
 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 | 2023-08-08 |  |
+| [El Día Que Yo Quiera \- Bonus Track](https://open.spotify.com/track/76EFsBEh4KDIYer3po0yGe) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Día Que Yo Quiera \(Bonus Track\)](https://open.spotify.com/album/7eyKbzvAPU6i3NdE2k5Nuu) | 2:40 | 2026-11-02 |  |
 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 | 2023-12-29 | 2026-01-15 |
 | [El Águila Blanca](https://open.spotify.com/track/3E4GdT4R1KED6AA7knLELK) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [MS 20 Años](https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj) | 2:15 | 2025-12-07 | 2026-05-21 |
 | [El Último Minuto](https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Último Minuto](https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps) | 3:31 | 2026-02-11 | 2026-03-02 |
@@ -103,7 +104,7 @@
 | [Tu Falta De Querer](https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Falta De Querer](https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW) | 3:13 | 2026-07-12 | 2026-09-11 |
 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 | 2024-02-16 |  |
 | [Tu Postura](https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 4:41 | 2023-08-08 |  |
-| [Tú Ni En Cuenta](https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Tú Ni En Cuenta](https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH) | 3:23 | 2026-05-31 |  |
+| [Tú Ni En Cuenta](https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Tú Ni En Cuenta](https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH) | 3:23 | 2026-05-31 | 2026-11-02 |
 | [Un Chingo de Tequila](https://open.spotify.com/track/3mUe9jWtdpNk9qkE976D1j) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl) | [Un Chingo de Tequila](https://open.spotify.com/album/30Hta2ADfO018Wef7ycbBh) | 3:34 | 2023-08-08 | 2023-10-05 |
 | [Y Que Soporten](https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Y Que Soporten](https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3) | 3:35 | 2023-12-13 | 2024-05-11 |
 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 | 2023-08-08 | 2023-08-26 |

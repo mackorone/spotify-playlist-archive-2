@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Leiva en portada.",
-  "num_followers": 426080,
+  "num_followers": 425977,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
-        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 337453,
-      "name": "All\u00ed donde sol\u00edamos gritar",
-      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
+      "duration_ms": 258106,
+      "name": "Quiero Que Me Llames",
+      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Quiero Que Me Llames",
-      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
         "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
       },
@@ -400,57 +384,9 @@
           "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Club de fans de John Boy",
-      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 145239,
-      "name": "Accidente",
-      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Fruta (Vol. II)",
-        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Viento de Cara",
-        "url": "https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x"
-      },
-      "artists": [
-        {
-          "name": "Supersubmarina",
-          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
-        }
-      ],
-      "duration_ms": 257111,
-      "name": "Viento de Cara",
-      "url": "https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys"
+      "duration_ms": 337453,
+      "name": "All\u00ed donde sol\u00edamos gritar",
+      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -471,6 +407,70 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Viento de Cara",
+        "url": "https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x"
+      },
+      "artists": [
+        {
+          "name": "Supersubmarina",
+          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
+        }
+      ],
+      "duration_ms": 257111,
+      "name": "Viento de Cara",
+      "url": "https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Club de fans de John Boy",
+      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 237386,
       "name": "Vidas Paralelas",
       "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -535,22 +551,6 @@
       "duration_ms": 189360,
       "name": "Mira c\u00f3mo vuelo",
       "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Santacruz",
-        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
-      },
-      "artists": [
-        {
-          "name": "Supersubmarina",
-          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "De las Dudas Infinitas",
-      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Santacruz",
+        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
+      },
+      "artists": [
+        {
+          "name": "Supersubmarina",
+          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "De las Dudas Infinitas",
+      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 237880,
       "name": "Ca\u00f3tica Belleza",
       "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 119632,
-      "name": "Pel\u00edcula",
-      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Por su Atenci\u00f3n, Gracias",
         "url": "https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 217173,
       "name": "Reina Japonesa",
       "url": "https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 119632,
+      "name": "Pel\u00edcula",
+      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Run... The Sun Is Burning All Your Hopes",
-        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Balnear",
         "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 213386,
       "name": "Solitario",
       "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Run... The Sun Is Burning All Your Hopes",
+        "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Mena",
-        "url": "https://open.spotify.com/album/5sJ8qbvnUMa3I4yTOmCeBj"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Un Aud\u00edfono T\u00fa, Un Aud\u00edfono Yo",
-      "url": "https://open.spotify.com/track/33BKenEc2lkctirgnT9Rhc"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Isla de Oro",
         "url": "https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 209577,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Mena",
+        "url": "https://open.spotify.com/album/5sJ8qbvnUMa3I4yTOmCeBj"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Un Aud\u00edfono T\u00fa, Un Aud\u00edfono Yo",
+      "url": "https://open.spotify.com/track/33BKenEc2lkctirgnT9Rhc"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

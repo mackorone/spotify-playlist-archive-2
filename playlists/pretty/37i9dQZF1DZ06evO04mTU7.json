@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 17942,
+  "num_followers": 17954,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABonY84pfu7ot3bBuXhWSjT",
+  "snapshot_id": "auUvgAAAAAAixsNsPNeqAy3tfa3L6d+y",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "voc\u00ea vai gostar",
+        "url": "https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 204767,
+      "name": "voc\u00ea vai gostar",
+      "url": "https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -55,26 +75,6 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "voc\u00ea vai gostar",
-        "url": "https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 204767,
-      "name": "voc\u00ea vai gostar",
-      "url": "https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasci pra ser - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 175402,
-      "name": "Nasci pra ser - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasci pra ser - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 175402,
+      "name": "Nasci pra ser - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Marido de Bandida",
+      "url": "https://open.spotify.com/track/3fq4fqr3Oy2bQkNS990y0p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -739,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Marido de Bandida",
-      "url": "https://open.spotify.com/track/3fq4fqr3Oy2bQkNS990y0p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -775,34 +775,6 @@
       "duration_ms": 160000,
       "name": "Amo Te Ver de Juju",
       "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 186273,
-      "name": "Cifr\u00e3o",
-      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
     },
     {
       "added_at": null,
@@ -835,38 +807,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
       "artists": [
         {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
         {
           "name": "AJULLIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 138545,
-      "name": "Cigana",
-      "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
+      "duration_ms": 186273,
+      "name": "Cifr\u00e3o",
+      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
     },
     {
       "added_at": null,
@@ -891,6 +855,42 @@
       "duration_ms": 204013,
       "name": "O Suficiente (feat. N.I.N.A)",
       "url": "https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 138545,
+      "name": "Cigana",
+      "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
     },
     {
       "added_at": null,
@@ -1055,26 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tente Outra Vez",
-        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Sebrae Nosso Canto",
-          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
-        }
-      ],
-      "duration_ms": 114196,
-      "name": "Tente Outra Vez",
-      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Tom",
         "url": "https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 120893,
       "name": "7 Ruas",
       "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tente Outra Vez",
+        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Sebrae Nosso Canto",
+          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
+        }
+      ],
+      "duration_ms": 114196,
+      "name": "Tente Outra Vez",
+      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
     },
     {
       "added_at": null,

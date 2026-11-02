@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 469763,
+  "num_followers": 469804,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACZdU/+58/Pc7EmqBftTfMK",
+  "snapshot_id": "auUvgAAAAAD7bTMERPKla543p0M2mPy4",
   "tracks": [
     {
       "added_at": null,
@@ -108,7 +108,7 @@
       "added_at": null,
       "album": {
         "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+        "url": "https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 258132,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4JUoQxflbZ4DH21s2Pp6Tq"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k"
     },
     {
       "added_at": null,
@@ -172,7 +172,7 @@
       "added_at": null,
       "album": {
         "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr"
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k"
+      "duration_ms": 258132,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4JUoQxflbZ4DH21s2Pp6Tq"
     },
     {
       "added_at": null,

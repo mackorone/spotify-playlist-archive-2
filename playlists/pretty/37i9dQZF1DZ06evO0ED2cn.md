@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ED2cn.md) - [plain]
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,795 likes - 33 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,798 likes - 28 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ED2cn.md) - [plain]
 | 25 | [桜が丘女子高等学校校歌\[Rock Ver.\]](https://open.spotify.com/track/3AjvtfyeaRAsKGxi4fCSTj) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [ぴゅあぴゅあはーと](https://open.spotify.com/album/2LzFCGMIey8z63tAahxbhO) | 2:57 |
 | 26 | [Don't say “lazy”\(ライブイベント \~Come with Me!!\~Ver.\)](https://open.spotify.com/track/0hhYHcUykRa24dcn9CAEKI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [『けいおん!! ライブイベント \~Come with Me!!\~』LIVE!\(通常盤\)](https://open.spotify.com/album/2CqVt9ORWGhzmC8YMna8h9) | 4:49 |
 | 27 | [ごはんはおかず\(映画「けいおん!」Mix\)](https://open.spotify.com/track/7I09aPsWkBK4ncYG33iR4D) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 3:55 |
-| 28 | [Always Here for You](https://open.spotify.com/track/6t0eFPq6PnlSiELUKaBYYt) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:54 |
-| 29 | [五月雨20ラブ\(映画「けいおん!」Mix\)](https://open.spotify.com/track/1fXj8tNK06PRelTDhABigF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 4:04 |
-| 30 | [My Heart Is Shining](https://open.spotify.com/track/3nLoyZ222i1y9xCabWd75M) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:32 |
-| 31 | [Sweet Afternoon Melody](https://open.spotify.com/track/3kgJ7BNArH6HveAneAW9US) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:34 |
-| 32 | [Strawberry Dreams Never End](https://open.spotify.com/track/1R5res2b9c7JcDbjhnw6zf) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:33 |
-| 33 | [Our Never Ending Days](https://open.spotify.com/track/5bq916OQMbGubWT2IE5JjB) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:35 |
+| 28 | [五月雨20ラブ\(映画「けいおん!」Mix\)](https://open.spotify.com/track/1fXj8tNK06PRelTDhABigF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 4:04 |
 
-Snapshot ID: `auKMgAAAAABVcs0OkNuIIDgLwytJbWjo`
+Snapshot ID: `auUvgAAAAACZktEbUMsqQK+b9kRo75Gh`

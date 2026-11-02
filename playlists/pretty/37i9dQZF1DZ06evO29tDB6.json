@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 146837,
+  "num_followers": 146839,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABrRf+1sRIoOeAICxfMXC1e",
+  "snapshot_id": "auUvgAAAAABRn8FfArFcVPBpqN+q+0ya",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Nocivo para la salud",
-      "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
         "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 311773,
       "name": "Mar\u00eda Sabina",
       "url": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Nocivo para la salud",
+      "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 239360,
-      "name": "L\u00e1grimas en la lluvia",
-      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
+      "duration_ms": 246960,
+      "name": "Caseta de cobro",
+      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Que viva el rocanrol - En vivo",
-      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+      "duration_ms": 281600,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
     },
     {
       "added_at": null,
@@ -624,15 +624,15 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 246960,
-      "name": "Caseta de cobro",
-      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
+      "duration_ms": 239360,
+      "name": "L\u00e1grimas en la lluvia",
+      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
+      "duration_ms": 194200,
+      "name": "Que viva el rocanrol - En vivo",
+      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
     },
     {
       "added_at": null,

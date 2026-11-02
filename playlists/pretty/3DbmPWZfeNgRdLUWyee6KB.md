@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 133 songs - 8 hr 1 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 136 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 131 | [Die Zeit heilt alle Wunden](https://open.spotify.com/track/5HwfKgNv2wa9Z7XvRbfWbt) | [Parksj](https://open.spotify.com/artist/71guvFwcryVsE5kZwDLH07) | [Die Zeit heilt alle Wunden](https://open.spotify.com/album/0rTZROHETJU7878Sc7wOtp) | 2:57 |
 | 132 | [Wildflower Skin \- Acoustic Version](https://open.spotify.com/track/25G6D8vXxBoSsCph9Gy4OB) | [Bloom Duet](https://open.spotify.com/artist/553BCMHF8yVAM1hkgB9XEu) | [Wildflower Skin \(Acoustic Version\)](https://open.spotify.com/album/4RIviYvR2pU3MvsK3Xghya) | 3:46 |
 | 133 | [Fang mich auf](https://open.spotify.com/track/2DtFCgX69morsn4q2rFggn) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 2:50 |
+| 134 | [Train of Thought](https://open.spotify.com/track/7A4kVgPas3xUgR6up9mhWd) | [Robbie Hail](https://open.spotify.com/artist/5MjcWlEZfsAx2JE7OwVmv4) | [Don't Know? Have a Go! \(Music From & Inspired By\)](https://open.spotify.com/album/27C5m8RY9mQz6nq0F2SHjk) | 4:44 |
+| 135 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 |
+| 136 | [Dry Your Eyes](https://open.spotify.com/track/4Yc6aY5A1X2ZHVuVHDNjMP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Price Of Your Love](https://open.spotify.com/album/7KGqtWbKkhlCcvC26uUS32) | 2:34 |
 
-Snapshot ID: `AAAZLUORS6eI0zbTE+rUjA7c1HPaTkE4`
+Snapshot ID: `AAAZMHWx+t1zgB2+nr8Q+BwbWB0HY0ui`

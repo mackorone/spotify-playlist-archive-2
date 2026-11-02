@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 770694,
+  "num_followers": 770757,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
-        "name": "Blackoak",
-        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9"
       },
       "artists": [
         {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         }
       ],
-      "duration_ms": 288613,
-      "name": "Blackoak",
-      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+      "duration_ms": 214958,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+    },
+    {
+      "added_at": "2026-10-02 00:00:02",
+      "album": {
         "name": "Music is Life",
         "url": "https://open.spotify.com/album/2w2CJpHGsCYFPjh6Ma6YuO"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 288000,
       "name": "Music is Life",
       "url": "https://open.spotify.com/track/4blPk8aWh2odUS0ENW2gfr"
-    },
-    {
-      "added_at": "2026-10-02 00:00:02",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 214958,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I"
     },
     {
       "added_at": "2026-10-02 00:00:02",

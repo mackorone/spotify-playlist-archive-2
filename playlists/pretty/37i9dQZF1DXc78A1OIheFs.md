@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,467 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,469 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 24 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 |
 | 25 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
 | 26 | [My Boy](https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [My Boy](https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD) | 4:14 |
-| 27 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
-| 28 | [LAST TIME](https://open.spotify.com/track/7ITBO3g6NqsnQ2FnCqosD0) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [SECOND PLACE SUPERSTAR](https://open.spotify.com/album/4QdFVBWMA7ycMozU2aFusF) | 4:44 |
+| 27 | [LAST TIME](https://open.spotify.com/track/7ITBO3g6NqsnQ2FnCqosD0) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [SECOND PLACE SUPERSTAR](https://open.spotify.com/album/4QdFVBWMA7ycMozU2aFusF) | 4:44 |
+| 28 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
 | 29 | [PRETTY GYAL](https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [PRETTY GYAL](https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO) | 3:38 |
 | 30 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
-| 31 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
-| 32 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |
+| 31 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |
+| 32 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
 | 33 | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 |
 | 34 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 |
 | 35 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 42 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
 | 43 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
 | 44 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
-| 45 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
-| 46 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
+| 45 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
+| 46 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 47 | [24/7](https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [24/7](https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY) | 3:18 |
 | 48 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
 | 49 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 68 | [Floodlights](https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [Floodlights](https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ) | 4:18 |
 | 69 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
 | 70 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
-| 71 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
-| 72 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 |
+| 71 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 |
+| 72 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
 | 73 | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 |
 | 74 | [BLEED](https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BLEED](https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2) | 3:35 |
 | 75 | [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98895,
+  "num_followers": 98897,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADwB1d1ASBmTT5yf/4IKfh4",
+  "snapshot_id": "auUvgAAAAAD3giMn+XbLDP/t6aMHVd2o",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 474546,
       "name": "Poderoso Dios",
       "url": "https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 650657,
-      "name": "Hermoso Eres",
-      "url": "https://open.spotify.com/track/3TbInL4DEBxLRExpqtHDw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volver\u00e1 (En Vivo)",
         "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 329377,
       "name": "\u00bfA qui\u00e9n ir\u00e9?",
       "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 650657,
+      "name": "Hermoso Eres",
+      "url": "https://open.spotify.com/track/3TbInL4DEBxLRExpqtHDw8"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homenaje a Jes\u00fas (En Vivo)",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 481175,
+      "name": "Damos honor a Ti",
+      "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
@@ -815,18 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Jes\u00fas (En Vivo)",
-        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
       },
       "artists": [
         {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 481175,
-      "name": "Damos honor a Ti",
-      "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
+      "duration_ms": 251000,
+      "name": "A Dios Sea la Gloria",
+      "url": "https://open.spotify.com/track/3AdIDRkzIT38CeqYYqQqdz"
     },
     {
       "added_at": null,
@@ -867,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "A Dios Sea la Gloria",
-      "url": "https://open.spotify.com/track/3AdIDRkzIT38CeqYYqQqdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu y Yo (Remasterizado)",
         "url": "https://open.spotify.com/album/37hQTftDd8dpXOCz2xxdlI"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 118244,
       "name": "Hoy es tiempo",
       "url": "https://open.spotify.com/track/2v5eRrE5BRncsLxChJMUyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proyecto AA",
-        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 268565,
-      "name": "Quiero Levantar mis Manos",
-      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
     },
     {
       "added_at": null,
@@ -939,6 +923,22 @@
       "duration_ms": 210282,
       "name": "Ser\u00e1 Llena La Tierra",
       "url": "https://open.spotify.com/track/0b39lBHTetw0TvHnvNtjAe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 268565,
+      "name": "Quiero Levantar mis Manos",
+      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
     }
   ],
   "unique_name": "This Is Marcos Witt",

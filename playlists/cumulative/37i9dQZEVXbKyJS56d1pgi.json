@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 197862,
       "name": "Acordar",
       "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -15720,9 +15720,9 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 239133,
-      "name": "Ghostbusters",
+      "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
@@ -19276,7 +19276,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -19748,7 +19748,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
@@ -20094,7 +20094,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -23514,7 +23514,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 206210,
       "name": "Mapa Cor de Rosa",
       "url": "https://open.spotify.com/track/4UzqpJRQcimoTGzD1uSqj2"
@@ -24288,21 +24288,21 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+          "name": "ZANOLINI",
+          "url": "https://open.spotify.com/artist/1wMfs3UxnvluH33Wfgieuc"
         },
         {
           "name": "Mc Lele JP",
           "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
         },
         {
-          "name": "ZANOLINI",
-          "url": "https://open.spotify.com/artist/1wMfs3UxnvluH33Wfgieuc"
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
         }
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 234461,
       "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
       "url": "https://open.spotify.com/track/5ooFbBHL6xleehCpWACc9M"
@@ -24332,7 +24332,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 215433,
       "name": "Mente Barulhenta",
       "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
@@ -24632,7 +24632,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 222178,
       "name": "Meu Deus",
       "url": "https://open.spotify.com/track/6jx4yp7a9uUUN28Hr244fp"
@@ -25414,6 +25414,28 @@
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "Monster Mash (Monster Party Spoooky Versions)",
+        "url": "https://open.spotify.com/album/2FZo0PX8puTO2u6E0HFXqz"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/2D7iDoCv55FL4ZaCF5y89f"
     },
     {
       "album": {
@@ -32678,7 +32700,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -36686,7 +36708,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 238786,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
@@ -37666,7 +37688,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 199460,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
@@ -40220,7 +40242,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -40264,8 +40286,8 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
-      "duration_ms": 357800,
+      "date_removed": null,
+      "duration_ms": 358807,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
     },

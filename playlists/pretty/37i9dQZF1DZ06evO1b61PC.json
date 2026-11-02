@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAkc9MLwDgo0mB291iA2NzV",
+  "snapshot_id": "auUvgAAAAACyUneCdQYh2MddlFXLzp+V",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7AyfRe3XBXiIe6FFiW2rv4"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "The Chain Gang Of 1974",
-          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5MFyKapK3F3jonD8A5Rh2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 184163,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/7AyfRe3XBXiIe6FFiW2rv4"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "The Chain Gang Of 1974",
+          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5MFyKapK3F3jonD8A5Rh2u"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 210923,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
     },
     {
       "added_at": null,

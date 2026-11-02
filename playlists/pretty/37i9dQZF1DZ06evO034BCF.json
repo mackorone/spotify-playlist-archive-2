@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAABf09yB4hp6SSPC2VKEj1rG",
+  "snapshot_id": "auUvgAAAAACXSyDHCl//xggwUzeLA0Uz",
   "tracks": [
     {
       "added_at": null,
@@ -667,34 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lalo: Symphonie espagnole, Op. 21: I. Allegro non troppo",
-        "url": "https://open.spotify.com/album/5EQgHlE2nSD2GCNH7PDwIv"
-      },
-      "artists": [
-        {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 504733,
-      "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
-      "url": "https://open.spotify.com/track/1iCkBg993KuHJXRBStcF28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
         "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
       },
@@ -715,30 +687,6 @@
       "duration_ms": 162253,
       "name": "Tik-Tak Polka, Polka schnell, Op. 365",
       "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mussorgsky: Pictures At An Exhibition",
-        "url": "https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd"
-      },
-      "artists": [
-        {
-          "name": "Modest Mussorgsky",
-          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 132480,
-      "name": "Pictures at an Exhibition (Orch. Ravel): I. Gnomus",
-      "url": "https://open.spotify.com/track/4gKrD45pSLOwGndDsmtisn"
     },
     {
       "added_at": null,
@@ -767,6 +715,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mussorgsky: Pictures At An Exhibition",
+        "url": "https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "Pictures at an Exhibition (Orch. Ravel): I. Gnomus",
+      "url": "https://open.spotify.com/track/4gKrD45pSLOwGndDsmtisn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dvo\u0159\u00e1k: Symphonies Nos. 7-9",
         "url": "https://open.spotify.com/album/6b7rzLJNjDot2WLtTyFQwt"
       },
@@ -787,6 +759,34 @@
       "duration_ms": 591586,
       "name": "Symphony No. 8 in G Major, Op. 88, B. 163: I. Allegro con brio",
       "url": "https://open.spotify.com/track/3Xg6nZtQsjamXL7vDrdNMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lalo: Symphonie espagnole, Op. 21: I. Allegro non troppo",
+        "url": "https://open.spotify.com/album/5EQgHlE2nSD2GCNH7PDwIv"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 504733,
+      "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/1iCkBg993KuHJXRBStcF28"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-661 songs - 1 day 8 hr 59 min
+662 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,7 +605,7 @@
 | [Trust Me](https://open.spotify.com/track/72rJBBioVhxm4A3XajM3Yn) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Trust Me](https://open.spotify.com/album/5lbREVWBYthTp6SLpzCWus) | 3:06 | 2020-10-10 | 2021-10-14 |
 | [Trusty Chords](https://open.spotify.com/track/1Vi8NTwgsR63dhltQPtb6N) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Caution](https://open.spotify.com/album/2lwXTpfrqn0zvutmFKBhV2) | 2:49 | 2020-03-20\* | 2022-07-26 |
 | [Turn Inside Out](https://open.spotify.com/track/6PezgCRWfwoEYRM8amj7OO) | [Rehasher](https://open.spotify.com/artist/3JegvPNbAf7Pt3zrKsgXWu) | [Turn Inside Out](https://open.spotify.com/album/7chX7Nzb5cWpcOIWiM8Gzi) | 2:25 | 2020-05-16 | 2021-08-21 |
-| [Two Notes Shy of an Octave](https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH) | [Red City Radio](https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL) | [Titles](https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq) | 3:03 | 2020-03-20 |  |
+| [Two Notes Shy of an Octave](https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH) | [Red City Radio](https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL) | [Titles](https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq) | 3:03 | 2020-03-20 | 2026-11-02 |
 | [Tyranny](https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Exiled: B\-Sides](https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk) | 2:41 | 2020-03-20\* | 2022-07-28 |
 | [Unbroken](https://open.spotify.com/track/3Cg2n4J5khHySQmGLVdUwv) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [Escalating Quickly](https://open.spotify.com/album/6HroHm1sVuWQQuTHqpIziH) | 3:13 | 2020-04-02 | 2022-03-01 |
 | [Under the Western Sky](https://open.spotify.com/track/2ND216AhoGI8HteYI1hhQu) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Under the Western Sky](https://open.spotify.com/album/3EMux3szEE6gvb6XUF5fTY) | 3:51 | 2020-03-20\* | 2022-07-18 |
@@ -644,6 +644,7 @@
 | [What I Got](https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:51 | 2021-10-14 |  |
 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 | 2021-07-24 |  |
 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 | 2020-03-20\* | 2022-07-29 |
+| [When You're Gone](https://open.spotify.com/track/2HwQ96y7MiYxamAERVIyOF) | [High Wire](https://open.spotify.com/artist/5djG2fWMe75twMqdSDorI6) | [Find Me Here, Pt\. 1](https://open.spotify.com/album/2Kmuf6e92jIKmxmjGye33U) | 3:28 | 2022-07-26 |  |
 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 | 2020-03-20\* |  |
 | [White People for Peace](https://open.spotify.com/track/6hfODX7cwTX4k1CApv0G4v) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [Body Of War: Songs That Inspired An Iraq War Veteran](https://open.spotify.com/album/6zjzOSeUEaU6vSUCr89u4A) | 3:31 | 2020-03-25 | 2022-07-27 |
 | [White Shadow](https://open.spotify.com/track/4jqy0f4qG9Hs3txHOosw3M) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [White Shadow](https://open.spotify.com/album/7de7XF3Zl8YGKjZ8dS7MK2) | 3:15 | 2021-09-06 | 2022-07-29 |

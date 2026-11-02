@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267893,
+  "num_followers": 267899,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADMG7mlU152goxFXkTJs2Mk",
+  "snapshot_id": "auUvgAAAAAC+V0lsPqFoJRFvvyDHRWE7",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 153337,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 176800,
       "name": "The one (Pero no como yo)",
       "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 153337,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1lpqJ8XnJS9tXbXmkN2CH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/1lpqJ8XnJS9tXbXmkN2CH8"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Be the Same (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 225539,
-      "name": "Never Be the Same (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Restless Road - EP",
         "url": "https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 201749,
       "name": "Take Me Home (with Kane Brown)",
       "url": "https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Be the Same (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 225539,
+      "name": "Never Be the Same (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
     },
     {
       "added_at": null,

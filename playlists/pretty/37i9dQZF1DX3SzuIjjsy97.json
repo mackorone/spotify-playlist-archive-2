@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407110,
+  "num_followers": 407111,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,26 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
+        "name": "Breaking Free",
+        "url": "https://open.spotify.com/album/6q0I6xK4VkMPGELXVAxuMO"
       },
       "artists": [
         {
-          "name": "Will Ferrell",
-          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
+          "name": "Troy",
+          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
         },
         {
-          "name": "My Marianne",
-          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 202286,
-      "name": "Husavik (My Hometown)",
-      "url": "https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX"
+      "duration_ms": 209360,
+      "name": "Breaking Free",
+      "url": "https://open.spotify.com/track/4itkS9rw2pjr9PqnOOhxpb"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -1175,26 +1179,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Breaking Free",
-        "url": "https://open.spotify.com/album/6q0I6xK4VkMPGELXVAxuMO"
+        "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
       "artists": [
         {
-          "name": "Troy",
-          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
+          "name": "Will Ferrell",
+          "url": "https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0"
         },
         {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
         }
       ],
-      "duration_ms": 209360,
-      "name": "Breaking Free",
-      "url": "https://open.spotify.com/track/4itkS9rw2pjr9PqnOOhxpb"
+      "duration_ms": 202286,
+      "name": "Husavik (My Hometown)",
+      "url": "https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX"
     },
     {
       "added_at": "2026-07-29 10:41:14",

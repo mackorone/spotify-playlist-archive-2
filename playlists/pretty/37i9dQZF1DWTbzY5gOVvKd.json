@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1300026,
+  "num_followers": 1300015,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Someone to Watch Over Me",
-        "url": "https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Signature",
         "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 284133,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "Someone to Watch Over Me",
+        "url": "https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
+        "name": "Sweet Pumpkin",
+        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Dave Baron",
+          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Sweet Pumpkin",
+      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
         "name": "True Love: A Celebration Of Cole Porter",
         "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 261130,
       "name": "under a blanket of blue (feat. Jacob Chung)",
       "url": "https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
-        "name": "Sweet Pumpkin",
-        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Dave Baron",
-          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Sweet Pumpkin",
-      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+      },
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+        }
+      ],
+      "duration_ms": 262920,
+      "name": "It Amazes Me",
+      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 423013,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
-      },
-      "artists": [
-        {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
-        }
-      ],
-      "duration_ms": 262920,
-      "name": "It Amazes Me",
-      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
     },
     {
       "added_at": "2026-09-25 08:21:10",

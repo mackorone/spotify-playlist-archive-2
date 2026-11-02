@@ -4,7 +4,7 @@
 
 > 
 
-988 songs - 2 day 15 hr 30 min
+989 songs - 2 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [damp damp](https://open.spotify.com/track/61wrhrQEnRgcP3j6IcAl1C) | [siraph](https://open.spotify.com/artist/4OQN2l6vYHuqeXFp3M5ZYb) | [past & current](https://open.spotify.com/album/3nJC7qjem2hJbrpPUsGSqk) | 4:34 | 2024-09-27 |  |
 | [dance and](https://open.spotify.com/track/2q2Bp2OnN8HF0grI6HIJQG) | [chouchou merged syrups.](https://open.spotify.com/artist/1rMlvq1rWmYdg0lzZcf7G0) | [clepsydra](https://open.spotify.com/album/5lIy1uUXZbNdEH4y05hdnd) | 4:11 | 2023-07-09 |  |
 | [danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl) | [my dead girlfriend](https://open.spotify.com/artist/6PAbMbxHZaXPwtxwu0wcXG) | [hades \(the nine stages of change at the deceased remains\)](https://open.spotify.com/album/4hBL8N0YTn1d8P1c0AZdLw) | 4:32 | 2023-12-21 |  |
+| [Dawn and Fireflies](https://open.spotify.com/track/3i1dqflrqcLVxZeWi7r0pm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 5:08 | 2026-11-01 |  |
 | [Dearly Departed](https://open.spotify.com/track/2Wz1csnKdKijMpk3FM3Wop) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [Dearly Departed](https://open.spotify.com/album/6fJYwluf7RN6Hrpy4ZrsGB) | 5:28 | 2024-03-18 |  |
 | [Death Metal Cheese Cake](https://open.spotify.com/track/1MQtK8wmVdStnfiKg7plaZ) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [音のする部屋](https://open.spotify.com/album/4yagD5QweRyEZWvnMB59RX) | 4:12 | 2025-04-27 |  |
 | [Declaration Ceremony](https://open.spotify.com/track/3ZPrXvL5xqQJJZyWncZXJr) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Object](https://open.spotify.com/album/5MPvrs3Xzela08ir7DTHhV) | 3:05 | 2024-05-18 | 2026-10-10 |

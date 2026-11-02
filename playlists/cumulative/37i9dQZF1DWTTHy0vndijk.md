@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: MINNIE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-570 songs - 1 day 6 hr 52 min
+571 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 | 2024-01-03 | 2024-02-15 |
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-11-29 | 2022-07-28 |
 | [JELLY JELLY](https://open.spotify.com/track/7yHmdxQBHXPSVrHaw8urk1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:30 | 2021-11-29 | 2022-04-18 |
-| [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-21 |  |
+| [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-21 | 2026-11-02 |
 | [JJan! Koong! Kwang!](https://open.spotify.com/track/0mACEYbz42CQdqAPjIJHi6) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Welcome to MOMOLAND](https://open.spotify.com/album/3i5ryBAE1wpNq50qqDxxUG) | 3:19 | 2022-01-04 | 2022-07-05 |
 | [Just Do It](https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [NXT <Just Do It>](https://open.spotify.com/album/6wv9HJNrlzn53b3OLvsijR) | 2:33 | 2024-01-04 | 2024-03-02 |
 | [KICK\-START](https://open.spotify.com/track/0KWHVBiWSYqbJ0dBs3UOi5) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [I'M ON IT!](https://open.spotify.com/album/23lpY8fhHxNLi5mc8OrxRU) | 3:21 | 2023-07-19 | 2023-07-25 |
@@ -568,6 +568,7 @@
 | [You&I](https://open.spotify.com/track/2QiWUA1Jk1QZ2aYH87dfrC) | [UNI.T](https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ) | [line](https://open.spotify.com/album/0JTo1wOJtMlFnDaa1SZozo) | 3:19 | 2021-11-29 | 2022-07-15 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-05-09 | 2024-04-19 |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
+| [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 | 2026-11-02 |  |
 | [YoYo](https://open.spotify.com/track/1WpZTJ75xyLy7EQtK8zYb6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Re:Scene](https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF) | 3:30 | 2024-03-27 | 2024-04-19 |
 | [ZOOM](https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t) | [USPEER](https://open.spotify.com/artist/1p7Fm42iZrBEvG2wIaRCoL) | [SPEED ZONE](https://open.spotify.com/album/6eWgaSgtuchEdVEuJ5TOiX) | 2:58 | 2025-06-04 | 2025-07-09 |
 | [가위바위보 Eeny meeny miny moe](https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Too Much Part 1](https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki) | 2:43 | 2025-11-04 | 2025-12-04 |

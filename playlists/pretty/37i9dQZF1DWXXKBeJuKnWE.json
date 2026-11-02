@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Polyphia",
-  "num_followers": 486587,
+  "num_followers": 486530,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
+        "name": "critic",
+        "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 146058,
+      "name": "critic",
+      "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
         "name": "An Ending In Itself",
         "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 195161,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
-        "name": "critic",
-        "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 146058,
-      "name": "critic",
-      "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Zero Day",
-        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
+        "name": "rehearsed",
+        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
       },
       "artists": [
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 145129,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
+      "duration_ms": 110346,
+      "name": "rehearsed",
+      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -659,18 +659,34 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "rehearsed",
-        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
+        "name": "Zero Day",
+        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
       },
       "artists": [
         {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 110346,
-      "name": "rehearsed",
-      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
+      "duration_ms": 145129,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 191543,
+      "name": "La Promesa",
+      "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -691,18 +707,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
+        "name": "split",
+        "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
       },
       "artists": [
         {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 191543,
-      "name": "La Promesa",
-      "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
+      "duration_ms": 131004,
+      "name": "split",
+      "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "split",
-        "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "split",
-      "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Crestfallen",
         "url": "https://open.spotify.com/album/4Gh2aBuvIo91syfV3IaeYb"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Lay Cold",
         "url": "https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 220705,
       "name": "Lay Cold",
       "url": "https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Modern Life Is Lonely",
-        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 282726,
-      "name": "Modern Life Is Lonely",
-      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Doom Tripping",
         "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 253333,
       "name": "Doom Tripping",
       "url": "https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
+        "name": "Fatal Paradox",
+        "url": "https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 223941,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
+      "duration_ms": 162373,
+      "name": "Fatal Paradox",
+      "url": "https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Fatal Paradox",
-        "url": "https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo"
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
       },
       "artists": [
         {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Fatal Paradox",
-      "url": "https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT"
+      "duration_ms": 223941,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
     },
     {
       "added_at": "2026-10-23 00:00:24",

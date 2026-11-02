@@ -11683,6 +11683,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "album": {
         "name": "Dit Liv Dit Valg",
         "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
       },
@@ -13734,7 +13752,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 203300,
       "name": "En Ild Der Altid Br\u00e6nder",
       "url": "https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7"
@@ -18416,24 +18434,6 @@
     {
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "date_added": "2025-11-01",
-      "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
-    },
-    {
-      "album": {
-        "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2bzvRIU2dVDWb3J9khpkxo"
       },
       "artists": [
@@ -18448,6 +18448,24 @@
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/6thXB4RmajS4oZPNiBAKy0"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "album": {
@@ -21130,7 +21148,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 301280,
       "name": "Herunder M\u00e6lkevejen - Det D\u00e9r Udenfor B-side",
       "url": "https://open.spotify.com/track/46GiZpPYzRDks8LCMhyyTj"
@@ -31040,7 +31058,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 132061,
       "name": "Lucky Pige",
       "url": "https://open.spotify.com/track/6e6dTvI52uvPCELtaEyCOc"
@@ -33582,6 +33600,28 @@
       "duration_ms": 136819,
       "name": "Money Talks",
       "url": "https://open.spotify.com/track/0hjlzcCK6cOnKKb5jo9esn"
+    },
+    {
+      "album": {
+        "name": "Monster Mash (Monster Party Spoooky Versions)",
+        "url": "https://open.spotify.com/album/2FZo0PX8puTO2u6E0HFXqz"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/2D7iDoCv55FL4ZaCF5y89f"
     },
     {
       "album": {
@@ -38616,7 +38656,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 117249,
       "name": "Problemer",
       "url": "https://open.spotify.com/track/77KcgHrOwfOpkuZeFQYbOd"
@@ -41668,7 +41708,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
@@ -41704,7 +41744,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 142654,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
@@ -42732,7 +42772,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 198388,
       "name": "Smelter Under M\u00e5nen",
       "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
@@ -43391,6 +43431,24 @@
     },
     {
       "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "album": {
         "name": "NOW That's What I Call Music, Vol. 71",
         "url": "https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB"
       },
@@ -43802,7 +43860,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -45334,7 +45392,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 158598,
       "name": "Supernar",
       "url": "https://open.spotify.com/track/1BurSvmpyb1lx32jmnuUBe"
@@ -47388,7 +47446,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -47468,8 +47526,8 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
-      "duration_ms": 357800,
+      "date_removed": null,
+      "duration_ms": 358807,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
     },
@@ -50804,7 +50862,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 190925,
       "name": "Vinden Bl\u00e6ser",
       "url": "https://open.spotify.com/track/54a4KNL27zQgM2dljamEsn"

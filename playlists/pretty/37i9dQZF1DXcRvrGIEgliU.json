@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 20701,
+  "num_followers": 20720,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
-        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Small Change",
         "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 165020,
       "name": "Small Change",
       "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Big Day",
-        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "L\u1ee1 Say Bye L\u00e0 Bye",
         "url": "https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 214948,
       "name": "L\u1ee1 Say Bye L\u00e0 Bye",
       "url": "https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Big Day",
+        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Emily Can't Sing",
-        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blue Tequila",
         "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 202624,
       "name": "Blue Tequila",
       "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Emily Can't Sing",
+        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
-        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
-      },
-      "artists": [
-        {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Flight of the Crows",
-      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "A BEGINNER'S GUIDE TO FAKING YOUR DEATH",
+        "url": "https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Flight of the Crows",
+      "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 226153,
       "name": "Sweet (feat. Landon Sears)",
       "url": "https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 174462,
-      "name": "high school boy",
-      "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Ditch",
-        "url": "https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210233,
-      "name": "Ditch",
-      "url": "https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 147920,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Ditch",
+        "url": "https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210233,
+      "name": "Ditch",
+      "url": "https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb"
     },
     {
       "added_at": "2025-05-19 03:00:14",

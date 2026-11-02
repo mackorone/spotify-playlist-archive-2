@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-137 songs - 8 hr 6 min
+138 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [El Último Romántico](https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM) | [Mesteño](https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Último Romántico](https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC) | 3:06 | 2025-12-21 | 2026-05-27 |
 | [Enamórate De Mí](https://open.spotify.com/track/7islxZYyqqiYOoRVfPvxOq) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp) | 3:12 | 2023-06-24 | 2024-04-19 |
 | [Enséñame](https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:09 | 2022-06-01 |  |
+| [Enséñame](https://open.spotify.com/track/7Fbi5BRtKEvj9Kix4lfLxw) | [Los Internacionales Váskez De Rolando "El Tiburón"](https://open.spotify.com/artist/10tFywSQ9iXCXns61s3RCL), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/0grJkMKGVIVifMXroFp6pn) | 3:34 | 2026-11-02 |  |
 | [Enséñame \- En Vivo](https://open.spotify.com/track/7FvsYByDv8zyUuRQk9IxE1) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [X Aniversario En Vivo Desde Mty](https://open.spotify.com/album/1pnuGKjAtIjIpX4Vk8wEmm) | 1:38 | 2024-11-17 | 2025-02-22 |
 | [Estoy Sólo](https://open.spotify.com/track/2ga3yCVSylyMyff8kvbfeC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:10 | 2022-06-03 | 2022-09-17 |
 | [For Keeps](https://open.spotify.com/track/4L6CImNn1NeH8HgRcJj5Ht) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 | 2022-09-14 | 2022-10-13 |
@@ -112,7 +113,7 @@
 | [Separarnos](https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 2:58 | 2022-06-02 |  |
 | [Separarnos \- En Vivo](https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:14 | 2025-06-07 |  |
 | [Sergio El Bailador \- En Vivo](https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:02 | 2025-06-20 |  |
-| [Si No Te Hubiera Conocido](https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Si No Te Hubiera Conocido](https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY) | 3:14 | 2022-06-01 |  |
+| [Si No Te Hubiera Conocido](https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Si No Te Hubiera Conocido](https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY) | 3:14 | 2022-06-01 | 2026-11-02 |
 | [Soy Yo](https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:38 | 2022-06-02 | 2022-12-08 |
 | [Sustancia](https://open.spotify.com/track/7M3hiMMj3jNkPLj7dzd9sp) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:21 | 2022-06-03 | 2022-10-13 |
 | [Sustancia](https://open.spotify.com/track/6hv1hLcfVaQyqEvkVq37Vk) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Sólo Hits \(20 Éxitos\)](https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp) | 3:21 | 2024-03-30 | 2024-04-03 |

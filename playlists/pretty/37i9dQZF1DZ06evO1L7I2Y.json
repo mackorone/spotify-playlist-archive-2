@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAB58kNs0n42MzjJY0ilt6oz",
+  "snapshot_id": "auUvgAAAAADL5GmsCP4xftJPgMFmesoC",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOVA ERA",
-        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
       "artists": [
         {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
+      "duration_ms": 178542,
+      "name": "Efeito Mandela",
+      "url": "https://open.spotify.com/track/72bgfihRCD9wIAQggaWP4Y"
     },
     {
       "added_at": null,
@@ -415,42 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
+        "name": "NOVA ERA",
+        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
       },
       "artists": [
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         }
       ],
-      "duration_ms": 178542,
-      "name": "Efeito Mandela",
-      "url": "https://open.spotify.com/track/72bgfihRCD9wIAQggaWP4Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 301182,
-      "name": "Met\u00e1fora",
-      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
+      "duration_ms": 215400,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
     },
     {
       "added_at": null,
@@ -471,6 +451,26 @@
       "duration_ms": 244000,
       "name": "Coisa de Acender",
       "url": "https://open.spotify.com/track/6uwu2ccApOhVVCSSIRl3rq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 301182,
+      "name": "Met\u00e1fora",
+      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
     },
     {
       "added_at": null,
@@ -767,26 +767,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
+        "name": "Respeito \u00c9 Pra Quem Tem",
+        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
       },
       "artists": [
         {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 199860,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
+      "duration_ms": 234090,
+      "name": "Respeito \u00c9 Pra Quem Tem",
+      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
     },
     {
       "added_at": null,
@@ -811,26 +811,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respeito \u00c9 Pra Quem Tem",
-        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
       "artists": [
         {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         }
       ],
-      "duration_ms": 234090,
-      "name": "Respeito \u00c9 Pra Quem Tem",
-      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
+      "duration_ms": 199860,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
     },
     {
       "added_at": null,

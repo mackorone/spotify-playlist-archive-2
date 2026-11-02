@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3694,
+  "num_followers": 3693,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Gooi Dit Af",
+        "url": "https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        }
+      ],
+      "duration_ms": 177917,
+      "name": "Gooi Dit Af",
+      "url": "https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "First Day Out",
         "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 186263,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Gooi Dit Af",
-        "url": "https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        }
-      ],
-      "duration_ms": 177917,
-      "name": "Gooi Dit Af",
-      "url": "https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -943,6 +943,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Ek Sal Nie Lieg Nie",
+        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
+        }
+      ],
+      "duration_ms": 151196,
+      "name": "Ek Sal Nie Lieg Nie",
+      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Hewig",
         "url": "https://open.spotify.com/album/3aA38orHnU25drrbkGit6J"
       },
@@ -959,22 +979,6 @@
       "duration_ms": 222208,
       "name": "Hewig",
       "url": "https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz"
-    },
-    {
-      "added_at": "2025-08-07 22:00:54",
-      "album": {
-        "name": "Hulle Weet Nog Niks",
-        "url": "https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe"
-      },
-      "artists": [
-        {
-          "name": "Vaughn Valentine",
-          "url": "https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH"
-        }
-      ],
-      "duration_ms": 139070,
-      "name": "Hulle Weet Nog Niks",
-      "url": "https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

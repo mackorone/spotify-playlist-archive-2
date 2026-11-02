@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 372783,
+  "num_followers": 372907,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Double Negative",
+        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 382674,
+      "name": "Dancing and Blood",
+      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Forever Held",
         "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 158651,
       "name": "Forever Held",
       "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Double Negative",
-        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 382674,
-      "name": "Dancing and Blood",
-      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "RITUAL (nothing is lost)",
-        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 195044,
-      "name": "RITUAL (nothing is lost)",
-      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "I Could Live In Hope",
         "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 348800,
       "name": "Words",
       "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "RITUAL (nothing is lost)",
+        "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 195044,
+      "name": "RITUAL (nothing is lost)",
+      "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "lingering on",
+        "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
+      },
+      "artists": [
+        {
+          "name": "sleep forever",
+          "url": "https://open.spotify.com/artist/4r66CxFiq5gsPI7yzXDdpF"
+        }
+      ],
+      "duration_ms": 81083,
+      "name": "lingering on",
+      "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Sleep Circle (Faded)",
         "url": "https://open.spotify.com/album/1yjWF5EuGlmJN8PD3jkalo"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 335539,
       "name": "Path 3 / Whose Name Is Written On Water - Pt. 1 / Faded",
       "url": "https://open.spotify.com/track/1HxJyQzfqJCjshpokKVKEa"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "lingering on",
-        "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
-      },
-      "artists": [
-        {
-          "name": "sleep forever",
-          "url": "https://open.spotify.com/artist/4r66CxFiq5gsPI7yzXDdpF"
-        }
-      ],
-      "duration_ms": 81083,
-      "name": "lingering on",
-      "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Non Fiction: I. Sonore - Animato - Meno Mosso",
         "url": "https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 207939,
       "name": "Non Fiction: I.I Sonore",
       "url": "https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
-      },
-      "artists": [
-        {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
-        }
-      ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "The Importance of Birds",
         "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 98196,
       "name": "its never enough",
       "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "CROW! (after the snowfall)",
+        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "antihistamine. - instrumental",
+      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "now i know what i mean",
         "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "CROW! (after the snowfall)",
-        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
+        "name": "last days of summer",
+        "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
       },
       "artists": [
         {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
         }
       ],
-      "duration_ms": 176000,
-      "name": "antihistamine. - instrumental",
-      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
+      "duration_ms": 125606,
+      "name": "last days of summer",
+      "url": "https://open.spotify.com/track/5sImR8kG7oW7csP4QhtoXI"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1203,22 +1219,6 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "last days of summer",
-        "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
-      },
-      "artists": [
-        {
-          "name": "n\u0153m.",
-          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
-        }
-      ],
-      "duration_ms": 125606,
-      "name": "last days of summer",
-      "url": "https://open.spotify.com/track/5sImR8kG7oW7csP4QhtoXI"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "II Reworked",
         "url": "https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 254634,
       "name": "Spun - Kjartan Holm & Sin Fang Rework",
       "url": "https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Symmetry",
-        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
-      },
-      "artists": [
-        {
-          "name": "Alexander John",
-          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Symmetry",
-      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "my heart",
         "url": "https://open.spotify.com/album/3PXDESsfEy8pAmOeanlaOY"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 74584,
       "name": "my heart",
       "url": "https://open.spotify.com/track/7IveK650zPJHeNx15gBlbE"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Symmetry",
+        "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
+      },
+      "artists": [
+        {
+          "name": "Alexander John",
+          "url": "https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
     },
     {
       "added_at": "2026-09-23 13:23:25",

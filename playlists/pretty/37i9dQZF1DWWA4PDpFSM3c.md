@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,676 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,738 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 42 | [Seetaaloo Nuvveleka](https://open.spotify.com/track/2gHh47zmMSM6FfapMfi2ZD) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Donga Donga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KMG2UKnAQbbkVXtu7KYRM) | 4:27 |
 | 43 | [Yedha Okka Prayamu](https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l) | [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Ashok Anand](https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn) | [Psych Siddhartha](https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw) | 3:20 |
 | 44 | [Anuvanuvuu](https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Om Bheem Bush](https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr) | 3:31 |
-| 45 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |
-| 46 | [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 |
+| 45 | [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 |
+| 46 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |
 | 47 | [Nee Neeli Kannullona](https://open.spotify.com/track/2yu7RgQlNTwvyUPk7lsD9j) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Rehman](https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7) | [Dear Comrade](https://open.spotify.com/album/5WkhNq7kpZIdZC5BZysNFy) | 2:26 |
 | 48 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 |
 | 49 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Chxrry. The essential tracks, all in one playlist.",
-  "num_followers": 837,
+  "num_followers": 839,
   "original_name": "This Is Chxrry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAApw8TMWlzZ3ztRGtNgcqvq",
+  "snapshot_id": "auUvgAAAAAB8d9yySFblqY5GFBhft3L5",
   "tracks": [
     {
       "added_at": null,
@@ -198,15 +198,11 @@
         {
           "name": "Chxrry",
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Bottles & Lights",
-      "url": "https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt"
+      "duration_ms": 191408,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/4IzjE27aZz4uYc9DruS2oo"
     },
     {
       "added_at": null,
@@ -250,11 +246,15 @@
         {
           "name": "Chxrry",
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 191408,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/4IzjE27aZz4uYc9DruS2oo"
+      "duration_ms": 205714,
+      "name": "Bottles & Lights",
+      "url": "https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt"
     },
     {
       "added_at": null,

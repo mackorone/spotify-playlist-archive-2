@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24881,
+  "num_followers": 24886,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAC7WMVoEdcPMc0bbwxBB3WO",
+  "snapshot_id": "auUvgAAAAABN953eUkQ6e383GlAeRYWh",
   "tracks": [
     {
       "added_at": null,
@@ -650,15 +650,11 @@
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 165600,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
+      "duration_ms": 178181,
+      "name": "NDA",
+      "url": "https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf"
     },
     {
       "added_at": null,
@@ -726,31 +722,15 @@
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "NDA",
-      "url": "https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 188920,
-      "name": "Anya Mmiri",
-      "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
+      "duration_ms": 165600,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "Anya Mmiri",
+      "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
     },
     {
       "added_at": null,

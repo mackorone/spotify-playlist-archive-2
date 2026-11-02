@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Jamie T",
-  "num_followers": 132419,
+  "num_followers": 132413,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Favourite",
         "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 189009,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Thorn",
         "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 248480,
       "name": "Thorn - EP Version",
       "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 189009,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Moving Target",
-        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
       "artists": [
         {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
         }
       ],
-      "duration_ms": 195811,
-      "name": "Moving Target",
-      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Peace Song",
-        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
       },
       "artists": [
         {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
         }
       ],
-      "duration_ms": 190784,
-      "name": "Peace Song",
-      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+      "duration_ms": 195811,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 204543,
-      "name": "Diamond In The Dark",
-      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 204543,
+      "name": "Diamond In The Dark",
+      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1003,22 +1003,6 @@
       "duration_ms": 213688,
       "name": "Something To Be Said",
       "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
-        "name": "Pistol",
-        "url": "https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 205365,
-      "name": "Pistol",
-      "url": "https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "The Theory Of Whatever",
-        "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo"
       },
       "artists": [
         {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
         }
       ],
-      "duration_ms": 235666,
-      "name": "The Old Style Raiders",
-      "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
+      "duration_ms": 205365,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+        "name": "The Theory Of Whatever",
+        "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
       },
       "artists": [
         {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
         }
       ],
-      "duration_ms": 191786,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
+      "duration_ms": 235666,
+      "name": "The Old Style Raiders",
+      "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
         "name": "Dirty White Lies",
         "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Back To Belle Vue",
-        "url": "https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp"
-      },
-      "artists": [
-        {
-          "name": "Arkayla",
-          "url": "https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "Vivian",
-      "url": "https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Fuck Me (I Didn\u2019t Know How To Say)",
         "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
       },
@@ -1203,18 +1187,34 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Standing On A Pane Of Glass",
-        "url": "https://open.spotify.com/album/254x00BfO4GX5R3Tao3Dbq"
+        "name": "Back To Belle Vue",
+        "url": "https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp"
       },
       "artists": [
         {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+          "name": "Arkayla",
+          "url": "https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50"
         }
       ],
-      "duration_ms": 175631,
-      "name": "Standing On A Pane Of Glass",
-      "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"
+      "duration_ms": 198109,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Rushmere",
-        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+        "name": "Standing On A Pane Of Glass",
+        "url": "https://open.spotify.com/album/254x00BfO4GX5R3Tao3Dbq"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+      "duration_ms": 175631,
+      "name": "Standing On A Pane Of Glass",
+      "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 173987,
-      "name": "Canyons",
-      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Vain",
         "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 156106,
       "name": "Vain",
       "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "I Blow Out Big Candles",
-        "url": "https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 183925,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 197791,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "I Blow Out Big Candles",
+        "url": "https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "At Any Cost",
-        "url": "https://open.spotify.com/album/505KDNtgQ2l9lZ0g1TmFGA"
+        "name": "Waste Your Time On Me",
+        "url": "https://open.spotify.com/album/6U1VjOb3CAF9ROW20CvVf2"
       },
       "artists": [
         {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+          "name": "Raynor",
+          "url": "https://open.spotify.com/artist/6tPWER6b155VUhE7eIJdtb"
         }
       ],
-      "duration_ms": 211768,
-      "name": "At Any Cost",
-      "url": "https://open.spotify.com/track/7rMZiAA0QAuSXbYlX7CKFn"
+      "duration_ms": 130100,
+      "name": "Waste Your Time On Me",
+      "url": "https://open.spotify.com/track/6fxa77Av1RxYmGPlC7uYEM"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Waste Your Time On Me",
-        "url": "https://open.spotify.com/album/6U1VjOb3CAF9ROW20CvVf2"
+        "name": "At Any Cost",
+        "url": "https://open.spotify.com/album/505KDNtgQ2l9lZ0g1TmFGA"
       },
       "artists": [
         {
-          "name": "Raynor",
-          "url": "https://open.spotify.com/artist/6tPWER6b155VUhE7eIJdtb"
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
         }
       ],
-      "duration_ms": 130100,
-      "name": "Waste Your Time On Me",
-      "url": "https://open.spotify.com/track/6fxa77Av1RxYmGPlC7uYEM"
+      "duration_ms": 211768,
+      "name": "At Any Cost",
+      "url": "https://open.spotify.com/track/7rMZiAA0QAuSXbYlX7CKFn"
     }
   ],
   "unique_name": "Proper Belters",

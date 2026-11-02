@@ -4,7 +4,7 @@
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 16 min
+76 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Take Care Of Business \- Solomun Mix](https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Take Care Of Business \(Solomun Mix\)](https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH) | 3:10 | 2026-02-22 | 2026-06-27 |
 | [Tell It Like It Is](https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:51 | 2025-07-20 |  |
 | [Tell Me More And More And Then Some](https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:07 | 2025-09-13 | 2026-07-12 |
-| [Tell Me More And More And Then Some \- dublon Remix](https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Tell Me More And More And Then Some \(dublon Remix\)](https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz) | 2:31 | 2026-07-12 |  |
+| [Tell Me More And More And Then Some \- dublon Remix](https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Tell Me More And More And Then Some \(dublon Remix\)](https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz) | 2:31 | 2026-07-12 | 2026-11-02 |
+| [Tell Me More And More And Then Some \- dublon Remix / Extended Edit](https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Verve Remixed // Nina Simone](https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5) | 4:02 | 2026-11-02 |  |
 | [That's All I Ask](https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 2:27 | 2026-02-16 |  |
 | [That's All I Ask \- HAAi Remix / Edit](https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [That's All I Ask \(HAAi Remix\)](https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX) | 4:17 | 2026-06-14 | 2026-07-12 |
 | [The Look of Love](https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:22 | 2025-07-20 |  |

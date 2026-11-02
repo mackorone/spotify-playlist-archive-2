@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Olamide",
-  "num_followers": 240388,
+  "num_followers": 240473,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -611,30 +611,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "Uzama The 3rd",
-        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 180765,
-      "name": "Ewo",
-      "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "Straata",
         "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/6hq5k40Xy1HtlVh3rxubL4"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "Uzama The 3rd",
+        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 180765,
+      "name": "Ewo",
+      "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Ego - Live in London",
-      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "MY HEALER",
         "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 157023,
       "name": "MY HEALER",
       "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Ego - Live in London",
+      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 116410,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 205674,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -947,6 +931,22 @@
       "duration_ms": 147696,
       "name": "BODY (danz)",
       "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 205674,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 171999,
-      "name": "Bad Boy - Live in London",
-      "url": "https://open.spotify.com/track/7cVfyaApAStNeOqArVln4c"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 139424,
       "name": "Lakute",
       "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 171999,
+      "name": "Bad Boy - Live in London",
+      "url": "https://open.spotify.com/track/7cVfyaApAStNeOqArVln4c"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 174159,
       "name": "ARMED & DANGEROUS (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
-        "name": "LAPOPIANO",
-        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "LAPOPIANO",
-      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
     },
     {
       "added_at": "2026-10-23 00:01:30",

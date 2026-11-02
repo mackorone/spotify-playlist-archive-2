@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 130774,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
@@ -638,6 +638,28 @@
       "duration_ms": 121160,
       "name": "Comes & Goes (feat. Tommy Newport)",
       "url": "https://open.spotify.com/track/6HaciYi0PXePK4rY3BbZBr"
+    },
+    {
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149533,
+      "name": "DA FUCC (feat. Ro$ama)",
+      "url": "https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI"
     },
     {
       "album": {
@@ -864,7 +886,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 208583,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS"
@@ -1428,6 +1450,28 @@
       "duration_ms": 164954,
       "name": "New Day",
       "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
+    },
+    {
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "NO LIMIT (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT"
     },
     {
       "album": {

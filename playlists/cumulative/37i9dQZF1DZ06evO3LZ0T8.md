@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 0 min
+81 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bumpin'](https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Bumpin'](https://open.spotify.com/album/1Zs0tvWEiGsszEnjKjr2yA) | 2:55 | 2023-09-18 |  |
 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 | 2022-10-10 |  |
 | [Confidence \- SUBSHIFT Remix](https://open.spotify.com/track/37QXitclHmmRDGpgG7quDI) | [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Confidence \(Remixes\)](https://open.spotify.com/album/6UAuxSY5rkE5IEa7gYFHw5) | 4:11 | 2025-11-20 | 2025-11-22 |
+| [Crank That](https://open.spotify.com/track/6XQqMSx46CLu23i0S97pix) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Crank That](https://open.spotify.com/album/0YwsxngSCT4Dx60KIa4Ph4) | 2:33 | 2026-11-02 |  |
 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 | 2022-10-10 |  |
 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 | 2024-09-29 |  |
 | [DNA \- Extended Mix](https://open.spotify.com/track/4dDnCAPIY5SAgecGhm7yIO) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Stereohype Rising, Vol\. 1](https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2) | 3:58 | 2024-08-10 | 2024-11-24 |
@@ -42,9 +43,9 @@
 | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf) | 2:29 | 2024-07-21 |  |
 | [Go Deep](https://open.spotify.com/track/2eKTlpPoUDSZkxrMgUVMkU) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Go Deep](https://open.spotify.com/album/5603mFkdEKzWAD9eXMgdn6) | 3:21 | 2026-03-22 |  |
 | [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 | 2022-10-10 |  |
-| [Honey Dip](https://open.spotify.com/track/0606StM2HkTudakYuVy2rd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd) | 3:03 | 2022-10-10 |  |
+| [Honey Dip](https://open.spotify.com/track/0606StM2HkTudakYuVy2rd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd) | 3:03 | 2022-10-10 | 2026-11-02 |
 | [Honey Dip](https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ) | 3:03 | 2023-06-01 | 2025-04-23 |
-| [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 | 2022-10-10 | 2026-06-24 |
+| [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 | 2022-10-10 |  |
 | [I Want](https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [I Want](https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl) | 2:54 | 2022-10-10 | 2026-11-01 |
 | [In My Bag](https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [In My Bag](https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9) | 3:04 | 2022-10-10 |  |
 | [Is It Me](https://open.spotify.com/track/78X3wVabb53TjzNQkskUFy) | [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Is It Me](https://open.spotify.com/album/6HhGVvJDOagok3JtTcuS4X) | 2:32 | 2025-09-09 |  |
@@ -74,7 +75,7 @@
 | [Shaka](https://open.spotify.com/track/63pv4p9YcLpVP3QXlgasfP) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Shaka](https://open.spotify.com/album/4OUDrkk6FqwQTBuwwwutbk) | 2:33 | 2024-10-07 |  |
 | [Shake The Dice \(SUBSHIFT Remix\)](https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake The Dice \(Remixes\)](https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH) | 3:16 | 2023-06-10 |  |
 | [Shutdown](https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0) | 2:52 | 2022-10-10 | 2024-08-27 |
-| [Shutdown](https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582) | 2:52 | 2024-08-27 |  |
+| [Shutdown](https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582) | 2:52 | 2024-08-27 | 2026-11-02 |
 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 | 2023-12-13 |  |
 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 | 2024-06-30 |  |
 | [Tap That](https://open.spotify.com/track/10Z2ViSDjIXKW5dB1Oog1X) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Tap That](https://open.spotify.com/album/7iLjS24vCdwEHXTENrz9TD) | 2:48 | 2026-01-18 |  |

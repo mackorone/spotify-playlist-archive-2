@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 150695,
       "name": "Certified BOP",
       "url": "https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 179869,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 208685,
       "name": "Happy",
       "url": "https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 200732,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/13bQmqqTXXpQt4qmHPcINr"
@@ -2036,6 +2036,24 @@
       "duration_ms": 171878,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4Dz7EP3E3x6MNp6Vpa5qsb"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0Toah6uxtHgm8zSt5dU6bF"
     },
     {
       "album": {
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 151093,
       "name": "Purple People Eater",
       "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
@@ -2720,6 +2738,24 @@
       "duration_ms": 227906,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/6zbeqvNSnXVyW2FYOUnpgh"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167732,
+      "name": "Spooky, Scary Skeletons",
+      "url": "https://open.spotify.com/track/6RPJ1EvnTu8AgaLoVxTm6d"
     },
     {
       "album": {
@@ -3022,7 +3058,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 149266,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/5SMWoVugXGwvzzEeytPM8Y"

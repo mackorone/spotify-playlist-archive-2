@@ -1,12 +1,12 @@
 {
   "description": "Cover: Bo9al",
-  "num_followers": 447083,
+  "num_followers": 447198,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZ6k5UEBOozvQyYPHiZA7zn3KTF",
+  "snapshot_id": "AAAAAONZGq5lVHyQZdU83PxQN3lpETcN",
   "tracks": [
     {
       "added_at": "2026-10-30 00:01:20",
@@ -23,6 +23,22 @@
       "duration_ms": 177000,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz"
+    },
+    {
+      "added_at": "2026-10-30 00:01:20",
+      "album": {
+        "name": "CARAPACE",
+        "url": "https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 169218,
+      "name": "CARAPACE",
+      "url": "https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo"
     },
     {
       "added_at": "2026-10-23 00:01:29",
@@ -45,22 +61,6 @@
       "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
     },
     {
-      "added_at": "2026-10-30 00:01:20",
-      "album": {
-        "name": "CARAPACE",
-        "url": "https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX"
-      },
-      "artists": [
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 169218,
-      "name": "CARAPACE",
-      "url": "https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo"
-    },
-    {
       "added_at": "2026-10-10 07:56:22",
       "album": {
         "name": "UFUL",
@@ -79,6 +79,22 @@
       "duration_ms": 185663,
       "name": "Couci Couca",
       "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
+    },
+    {
+      "added_at": "2026-10-30 00:01:20",
+      "album": {
+        "name": "THUGCLUB x 9OWA",
+        "url": "https://open.spotify.com/album/4lDnrD66KUn4cURbXktMgc"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "duration_ms": 155640,
+      "name": "9OWA",
+      "url": "https://open.spotify.com/track/3vWP59HuuZOgpsd834VKbt"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -113,58 +129,6 @@
       "url": "https://open.spotify.com/track/40CuKUccAO41clJy6BWqzq"
     },
     {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "PILLAVE",
-        "url": "https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6"
-      },
-      "artists": [
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 153041,
-      "name": "PILLAVE",
-      "url": "https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6"
-    },
-    {
-      "added_at": "2026-10-21 10:17:22",
-      "album": {
-        "name": "Risala",
-        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
-      },
-      "artists": [
-        {
-          "name": "Kira7",
-          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
-        },
-        {
-          "name": "FRIZZY",
-          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Risala",
-      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
-    },
-    {
-      "added_at": "2026-10-30 00:01:20",
-      "album": {
-        "name": "THUGCLUB x 9OWA",
-        "url": "https://open.spotify.com/album/4lDnrD66KUn4cURbXktMgc"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        }
-      ],
-      "duration_ms": 155640,
-      "name": "9OWA",
-      "url": "https://open.spotify.com/track/3vWP59HuuZOgpsd834VKbt"
-    },
-    {
       "added_at": "2026-10-23 00:01:29",
       "album": {
         "name": "Mazal",
@@ -183,22 +147,6 @@
       "duration_ms": 173233,
       "name": "Mazal",
       "url": "https://open.spotify.com/track/0Ll1dO3F5zpJZfIXuPDoa3"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "Zone De Confort",
-        "url": "https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us"
-      },
-      "artists": [
-        {
-          "name": "Figoshin",
-          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
-        }
-      ],
-      "duration_ms": 184512,
-      "name": "Zone De Confort",
-      "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -223,6 +171,54 @@
     {
       "added_at": "2026-10-10 07:56:22",
       "album": {
+        "name": "PILLAVE",
+        "url": "https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 153041,
+      "name": "PILLAVE",
+      "url": "https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6"
+    },
+    {
+      "added_at": "2026-10-10 07:56:22",
+      "album": {
+        "name": "Zone De Confort",
+        "url": "https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "duration_ms": 184512,
+      "name": "Zone De Confort",
+      "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
+    },
+    {
+      "added_at": "2026-10-10 07:56:22",
+      "album": {
+        "name": "AGOGO",
+        "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 187969,
+      "name": "AGOGO",
+      "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
+    },
+    {
+      "added_at": "2026-10-10 07:56:22",
+      "album": {
         "name": "A MAN WITH A GUN",
         "url": "https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV"
       },
@@ -243,18 +239,38 @@
     {
       "added_at": "2026-10-10 07:56:22",
       "album": {
-        "name": "AGOGO",
-        "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
+        "name": "WA3RA",
+        "url": "https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8"
       },
       "artists": [
         {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+          "name": "Mirv48",
+          "url": "https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma"
         }
       ],
-      "duration_ms": 187969,
-      "name": "AGOGO",
-      "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
+      "duration_ms": 141543,
+      "name": "WA3RA",
+      "url": "https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY"
+    },
+    {
+      "added_at": "2026-10-21 10:17:22",
+      "album": {
+        "name": "Risala",
+        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        },
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Risala",
+      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -277,6 +293,22 @@
       "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
     },
     {
+      "added_at": "2026-10-12 07:45:12",
+      "album": {
+        "name": "OLYMPICS",
+        "url": "https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "duration_ms": 153945,
+      "name": "CESAR",
+      "url": "https://open.spotify.com/track/4Re910e8EhQCrvUW7Yp9IC"
+    },
+    {
       "added_at": "2026-10-10 07:56:22",
       "album": {
         "name": "DESPERADO",
@@ -291,22 +323,6 @@
       "duration_ms": 150857,
       "name": "CANDYSHOP",
       "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "WA3RA",
-        "url": "https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8"
-      },
-      "artists": [
-        {
-          "name": "Mirv48",
-          "url": "https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma"
-        }
-      ],
-      "duration_ms": 141543,
-      "name": "WA3RA",
-      "url": "https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -345,20 +361,24 @@
       "url": "https://open.spotify.com/track/3cUcxgPW9sVomnspNZbaHA"
     },
     {
-      "added_at": "2026-10-12 07:45:12",
+      "added_at": "2026-10-30 00:01:20",
       "album": {
-        "name": "OLYMPICS",
-        "url": "https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8"
+        "name": "GENIUS",
+        "url": "https://open.spotify.com/album/5ePSnrvivC8ydE5eguINUY"
       },
       "artists": [
         {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        },
+        {
+          "name": "GELLO 4031",
+          "url": "https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW"
         }
       ],
-      "duration_ms": 153945,
-      "name": "CESAR",
-      "url": "https://open.spotify.com/track/4Re910e8EhQCrvUW7Yp9IC"
+      "duration_ms": 139130,
+      "name": "GENIUS",
+      "url": "https://open.spotify.com/track/5HmAymmymqouGgacg9ZDHK"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -393,26 +413,6 @@
       "url": "https://open.spotify.com/track/5Sz23m2mG79tygWLURPjTC"
     },
     {
-      "added_at": "2026-10-30 00:01:20",
-      "album": {
-        "name": "GENIUS",
-        "url": "https://open.spotify.com/album/5ePSnrvivC8ydE5eguINUY"
-      },
-      "artists": [
-        {
-          "name": "VALEN",
-          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
-        },
-        {
-          "name": "GELLO 4031",
-          "url": "https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "GENIUS",
-      "url": "https://open.spotify.com/track/5HmAymmymqouGgacg9ZDHK"
-    },
-    {
       "added_at": "2026-10-10 07:56:22",
       "album": {
         "name": "LASTIQUE",
@@ -435,6 +435,26 @@
       "duration_ms": 195884,
       "name": "LASTIQUE",
       "url": "https://open.spotify.com/track/6bf5KIUKYNUthbNjmsNjNI"
+    },
+    {
+      "added_at": "2026-10-30 00:01:20",
+      "album": {
+        "name": "flou",
+        "url": "https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX"
+      },
+      "artists": [
+        {
+          "name": "Jbiina",
+          "url": "https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR"
+        },
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        }
+      ],
+      "duration_ms": 129772,
+      "name": "flou",
+      "url": "https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -495,26 +515,6 @@
       "duration_ms": 167866,
       "name": "Different League",
       "url": "https://open.spotify.com/track/7aNFirYDjpSjQlZhAmAPtD"
-    },
-    {
-      "added_at": "2026-10-30 00:01:20",
-      "album": {
-        "name": "flou",
-        "url": "https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX"
-      },
-      "artists": [
-        {
-          "name": "Jbiina",
-          "url": "https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR"
-        },
-        {
-          "name": "Tchubi",
-          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
-        }
-      ],
-      "duration_ms": 129772,
-      "name": "flou",
-      "url": "https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC"
     },
     {
       "added_at": "2026-10-10 07:56:22",

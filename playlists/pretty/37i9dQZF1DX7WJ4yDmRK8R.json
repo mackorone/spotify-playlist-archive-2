@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Travelers All Stars  on cover ",
-  "num_followers": 414947,
+  "num_followers": 414954,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
         }
       ],
-      "duration_ms": 273066,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
       "artists": [
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+      "duration_ms": 273066,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -511,18 +511,22 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "More Noise And Other Disturbances",
-        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
+        "name": "Fuera de Control",
+        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
+      "duration_ms": 210824,
+      "name": "Fuera de Control",
+      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -543,22 +547,18 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Fuera de Control",
-        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
+        "name": "More Noise And Other Disturbances",
+        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
         }
       ],
-      "duration_ms": 210824,
-      "name": "Fuera de Control",
-      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+      "duration_ms": 206800,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -755,8 +755,8 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 159381,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -835,8 +835,8 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
+        "name": "Escape from Everything",
+        "url": "https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy"
+      },
+      "artists": [
+        {
+          "name": "Codename Colin",
+          "url": "https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 202106,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
-        "name": "Escape from Everything",
-        "url": "https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy"
-      },
-      "artists": [
-        {
-          "name": "Codename Colin",
-          "url": "https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Losing Touch",
-      "url": "https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Room For Abuse '06",
-        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
-      },
-      "artists": [
-        {
-          "name": "[spunge]",
-          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
-        }
-      ],
-      "duration_ms": 186804,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 219706,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "Room For Abuse '06",
+        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
+      },
+      "artists": [
+        {
+          "name": "[spunge]",
+          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
+        }
+      ],
+      "duration_ms": 186804,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
     },
     {
       "added_at": "2026-10-16 06:00:42",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-16 06:00:42",
       "album": {
-        "name": "Un Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 222648,
-      "name": "Un Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak"
-    },
-    {
-      "added_at": "2026-10-16 06:00:42",
-      "album": {
         "name": "Un Amor Violento",
         "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 289000,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
+    },
+    {
+      "added_at": "2026-10-16 06:00:42",
+      "album": {
+        "name": "Un Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 222648,
+      "name": "Un Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak"
     },
     {
       "added_at": "2026-10-16 06:00:42",

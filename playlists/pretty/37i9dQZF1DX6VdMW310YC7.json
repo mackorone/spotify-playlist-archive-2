@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4014803,
+  "num_followers": 4014731,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "As Soon As I Get Home",
         "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 239885,
       "name": "As Soon As I Get Home",
       "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 228880,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "NAKED",
-        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1167,30 +1167,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "I Cared For You",
-        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        },
-        {
-          "name": "Noah Kulaga",
-          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "I Cared For You",
-      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 265250,
       "name": "drops of oil",
       "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "One Love (Nobody Else)",
-        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 217487,
-      "name": "One Love (Nobody Else)",
-      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -1315,6 +1299,38 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "One Love (Nobody Else)",
+        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "One Love (Nobody Else)",
+      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 316097,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Fading Out",
         "url": "https://open.spotify.com/album/0HrNoFYHg4dNuosyMjmbZy"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 252693,
       "name": "How Will I Know?",
       "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "All Is Right",
         "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
@@ -1571,6 +1571,26 @@
       "duration_ms": 212903,
       "name": "Sewn",
       "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Return to Ojai",
+        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Return to Ojai",
+      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1615,42 +1635,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Return to Ojai",
-        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Return to Ojai",
-      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
@@ -1679,6 +1663,42 @@
       "duration_ms": 184761,
       "name": "The last dance...",
       "url": "https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Hiding / Shallow Water",
+        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Claxy",
+          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
+        }
+      ],
+      "duration_ms": 232130,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1731,26 +1751,6 @@
       "duration_ms": 201600,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Hiding / Shallow Water",
-        "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
-      },
-      "artists": [
-        {
-          "name": "Steven Weston",
-          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
-        },
-        {
-          "name": "Claxy",
-          "url": "https://open.spotify.com/artist/6bkGiWj2DzRkZ0S3QPqCw2"
-        }
-      ],
-      "duration_ms": 232130,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1919,26 +1919,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "HARMONY",
-        "url": "https://open.spotify.com/album/1A9nBNZ1kAiRCLPJc9Vtb4"
+        "name": "Higher Note",
+        "url": "https://open.spotify.com/album/0Jlm4EJqBKBUtm9sNtTwFe"
       },
       "artists": [
         {
-          "name": "UN Chamber Music Society",
-          "url": "https://open.spotify.com/artist/0XQ5BQl5Flub2d1xLAPj41"
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
         },
         {
-          "name": "Brenda Vongova",
-          "url": "https://open.spotify.com/artist/4rLrQtQ3P20peYEv005X6r"
-        },
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
         }
       ],
-      "duration_ms": 303542,
-      "name": "RnR (UN Chamber Music Society arrangement) - Remix",
-      "url": "https://open.spotify.com/track/0rkKla01DvtHeJSdSbqqjP"
+      "duration_ms": 251100,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb"
     }
   ],
   "unique_name": "Chill Tracks",

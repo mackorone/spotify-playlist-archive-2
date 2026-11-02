@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,165 songs - 3 day 5 hr 30 min
+1,166 songs - 3 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,6 +1000,7 @@
 | [THAT GENERATION \- Live From The Song Of Sons Project](https://open.spotify.com/track/410PJqCS2fOaTu058aFNPr) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [THAT GENERATION \(Live From The Song Of Sons Project\)](https://open.spotify.com/album/1iWxYvs1BENg4iGSahahEz) | 4:19 | 2025-04-04 | 2025-06-13 |
 | [That's Who I Praise](https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [That's Who I Praise](https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR) | 3:48 | 2025-06-06 |  |
 | [The Altar](https://open.spotify.com/track/4RPSvj2f17KfaYsEPxarj2) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi) | [The Altar](https://open.spotify.com/album/6BZOiGsDoo6mpIiV3zv0sW) | 3:15 | 2025-11-21 | 2026-10-09 |
+| [THE DAY](https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [AFFIRMED](https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD) | 2:35 | 2026-10-30 |  |
 | [The Journey](https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Victorious Lucas](https://open.spotify.com/artist/1pHZMBHrislFKRnW5mto8q), [House of Faith](https://open.spotify.com/artist/2gd3Nx0mLp4GLIODtehPDy) | [The Journey](https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL) | 3:26 | 2025-10-31 | 2026-01-15 |
 | [The Light](https://open.spotify.com/track/2fo0l5Sb7E5G3DIeJ0L53p) | [Miracle GA](https://open.spotify.com/artist/0m5jxcbhsVsSRpqyYSHu8h), [Sam Peezy](https://open.spotify.com/artist/6RwHspzAaN3L0zCFfInW18) | [LIMITLESS](https://open.spotify.com/album/07PjalJ8GfLW3meulY7IE7) | 3:26 | 2024-10-11 | 2025-03-21 |
 | [The Light \- Remix](https://open.spotify.com/track/05513HK49JLjuixTDFU6CX) | [Miracle GA](https://open.spotify.com/artist/0m5jxcbhsVsSRpqyYSHu8h), [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [The Light \(Remix\)](https://open.spotify.com/album/22NTsLVVtQSVr7BkBdJmcq) | 3:08 | 2025-07-04 | 2025-09-26 |
@@ -1154,7 +1155,7 @@
 | [You Do](https://open.spotify.com/track/5A6h9Hqw2iCVSRCuSsslWw) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [You Do](https://open.spotify.com/album/3mFcXxJamX75qlIc6p8VAH) | 2:20 | 2025-04-25 | 2025-06-27 |
 | [You Do All](https://open.spotify.com/track/4W9LFXWcFmPUbSFaEMKIwE) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0) | [You Do All](https://open.spotify.com/album/5THGF7t8qOhlRhKX3MtPfl) | 3:21 | 2025-07-04 | 2025-08-08 |
 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-10-27 | 2025-10-03 |
-| [You have done me well](https://open.spotify.com/track/6O0L0N1TKQpAbWg5VREspl) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [You have done me well](https://open.spotify.com/album/3MdUSSHMu6HFf2oYWUpLHU) | 6:01 | 2026-09-04 |  |
+| [You have done me well](https://open.spotify.com/track/6O0L0N1TKQpAbWg5VREspl) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [You have done me well](https://open.spotify.com/album/3MdUSSHMu6HFf2oYWUpLHU) | 6:01 | 2026-09-04 | 2026-11-02 |
 | [You Hold My Hand](https://open.spotify.com/track/2PgS6xqCCMwskRXngkqzoX) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Stonelo](https://open.spotify.com/artist/6gj2OYv2QQsyICck6amPRL) | [You Hold My Hand](https://open.spotify.com/album/7wnlAbSh8n1KPtEiFprhnP) | 3:04 | 2025-03-07 | 2025-06-06 |
 | [You Raise Me Up](https://open.spotify.com/track/2NDUaoJ9h3mTXrAucL0Vv3) | [Mpilo West](https://open.spotify.com/artist/5qSASw5aGWOfyHnZrVR8cf), [Deepkid RSA](https://open.spotify.com/artist/1nxzAYhUMCE6o3uRwAxzw3), [Momo RSA](https://open.spotify.com/artist/1xkXXWRbLxrqpevGE7eHI5) | [PHEZULU](https://open.spotify.com/album/1dO3Y6U400UZbTTatRpxiy) | 3:32 | 2026-04-10 | 2026-04-21 |
 | [You Thought of Me](https://open.spotify.com/track/1PWjLU214MmESMxzI9rMPI) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [You Thought of Me](https://open.spotify.com/album/1CbIESMkBJPirkBmOTudGB) | 3:18 | 2025-07-25 | 2026-05-22 |

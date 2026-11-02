@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 13199,
+  "num_followers": 13201,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACNp69MVaCs3wE+vF9utALD",
+  "snapshot_id": "auUvgAAAAAAjnrxYx/+tWzBV6WFyPCZb",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 326733,
+      "name": "Audience of One",
+      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Volume 3",
         "url": "https://open.spotify.com/album/6LhBi5MCG1JHC5rfO8RWJH"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 257940,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/7MRQ4joddMDJeA2TUiD1a4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One And Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 326733,
-      "name": "Audience of One",
-      "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 262079,
       "name": "I Belong To God",
       "url": "https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Completely Free",
-      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
     },
     {
       "added_at": null,
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What I Was Made For",
-        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 334173,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2w1ztbOA65oNxOjBVKpnQo"
+      "duration_ms": 213200,
+      "name": "Completely Free",
+      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 258440,
       "name": "Revive Us Again",
       "url": "https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 334173,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2w1ztbOA65oNxOjBVKpnQo"
     },
     {
       "added_at": null,

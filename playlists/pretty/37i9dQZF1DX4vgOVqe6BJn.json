@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 437670,
+  "num_followers": 437727,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "I Love Life (feat. RANI)",
-        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "I Love Life (feat. RANI)",
-      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "NAIL",
         "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 162853,
       "name": "NAIL (feat. Lolo Zoua\u00ef)",
       "url": "https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "I Love Life (feat. RANI)",
+        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "I Love Life (feat. RANI)",
+      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Husband",
-        "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Husband",
-      "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Viene De Mi",
         "url": "https://open.spotify.com/album/1KNxX4OodpFzWuFTqscdgT"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 275013,
       "name": "Trocitos De Madera",
       "url": "https://open.spotify.com/track/1x1DggLKpWW1RCHZ1du5FP"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Husband",
+        "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Husband",
+      "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 184904,
-      "name": "Look Up",
-      "url": "https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "UN D\u00cdA NUEVO (FUEGO)",
         "url": "https://open.spotify.com/album/7jY6TxiqsreKO8znOxzHAR"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 184904,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "\u5186\u76f8 \uff5cEnso",
         "url": "https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 259000,
       "name": "\u30c7\u30c8\u30ed\u30a4\u30c8\uff5cDetoroito",
       "url": "https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Small Town Life",
+        "url": "https://open.spotify.com/album/09I0lCsItGZqM5pD6DsmQ3"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Small Town Life",
+      "url": "https://open.spotify.com/track/0pMHeLbRHgky3mGNKqEXHu"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Small Town Life",
-        "url": "https://open.spotify.com/album/09I0lCsItGZqM5pD6DsmQ3"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Small Town Life",
-      "url": "https://open.spotify.com/track/0pMHeLbRHgky3mGNKqEXHu"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "The Rush",
-        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Prier",
-          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
-        }
-      ],
-      "duration_ms": 273956,
-      "name": "The Rush",
-      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Moon And Back",
         "url": "https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Prier",
+          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
+        }
+      ],
+      "duration_ms": 273956,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "Steel Beans",
         "url": "https://open.spotify.com/album/3HWe5b34UFa85VqZNvxNFD"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 221804,
       "name": "Too On",
       "url": "https://open.spotify.com/track/3Q4TgCU3WopMMQFgs3iutO"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "It Grows On Trees (Money)",
-        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
-        }
-      ],
-      "duration_ms": 184100,
-      "name": "It Grows On Trees (Money)",
-      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1291,6 +1275,22 @@
       "duration_ms": 157555,
       "name": "Chirotear",
       "url": "https://open.spotify.com/track/4TQ4Q6zYB3bNvujQUApEYd"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "It Grows On Trees (Money)",
+        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
+        }
+      ],
+      "duration_ms": 184100,
+      "name": "It Grows On Trees (Money)",
+      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "ANGIE",
-        "url": "https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 161644,
-      "name": "Assis",
-      "url": "https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "In All Of My Tomorrows",
         "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 141546,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/0iSLB5okQOzIwzx9vJiDdT"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "ANGIE",
+        "url": "https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 161644,
+      "name": "Assis",
+      "url": "https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R"
     },
     {
       "added_at": "2026-09-25 16:48:56",

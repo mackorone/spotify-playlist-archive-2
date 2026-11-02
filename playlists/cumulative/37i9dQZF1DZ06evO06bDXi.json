@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 316426,
       "name": "Remembrances",
       "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 195973,
       "name": "Sarasate: Spanish Dances, Op. 23: II. Zapateado (Allegro)",
       "url": "https://open.spotify.com/track/0l0wAg37zHIadmfSc282Hu"
@@ -1706,6 +1706,28 @@
       "duration_ms": 300906,
       "name": "Slavonic Dances, Op. 72, B. 147: No. 2, Dumka, Allegretto grazioso",
       "url": "https://open.spotify.com/track/2rNRM5wJuBxApcNhh3GVlP"
+    },
+    {
+      "album": {
+        "name": "The Way We Were: My American Songbook",
+        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194947,
+      "name": "Some Enchanted Evening",
+      "url": "https://open.spotify.com/track/2WmifghEEOx5lJeClSAMDZ"
     },
     {
       "album": {
@@ -1896,7 +1918,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 421266,
       "name": "Tchaikovsky: Violin Concerto in D Major, Op. 35: II. Canzonetta. Andante",
       "url": "https://open.spotify.com/track/6Zl4htTpRUhdTklneDiVhJ"

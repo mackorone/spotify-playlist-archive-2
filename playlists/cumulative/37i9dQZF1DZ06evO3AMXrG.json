@@ -2027,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/5grvcNXm5pIdssFlocY9BS"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Solo Por Ti",
+      "url": "https://open.spotify.com/track/3ZE5fFiG8VrcxtYSKkjYF9"
+    },
+    {
+      "album": {
         "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5UHNIjot3Su72sWvuuy0WH"
       },
@@ -2132,7 +2154,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 235466,
       "name": "S\u00f3lo Por Ti",
       "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"

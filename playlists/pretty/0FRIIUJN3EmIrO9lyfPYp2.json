@@ -1,13 +1,145 @@
 {
   "description": "updated with new <a href=\"https://youtube.com/c/dreamscapeyt\">youtube uploads</a>...",
-  "num_followers": 14878,
+  "num_followers": 14876,
   "original_name": "dreamscape uploads",
   "owner": {
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACs8LNX/lZk1awcUh/lKQY2STvIjpI",
+  "snapshot_id": "AAACtUXvi6Ash1hVJjRUTFMBIGvr1Vza",
   "tracks": [
+    {
+      "added_at": "2026-11-01 06:44:08",
+      "album": {
+        "name": "passed out",
+        "url": "https://open.spotify.com/album/6P2aBQw0oqXULDX0o4Lou9"
+      },
+      "artists": [
+        {
+          "name": "remind me",
+          "url": "https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI"
+        }
+      ],
+      "duration_ms": 113571,
+      "name": "passed out",
+      "url": "https://open.spotify.com/track/0pKhnd73Z6jcqYBte7Q9yr"
+    },
+    {
+      "added_at": "2026-11-01 06:44:08",
+      "album": {
+        "name": "startide",
+        "url": "https://open.spotify.com/album/6Gl1Uh37jpTqEaCLHWRrWK"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 64537,
+      "name": "startide",
+      "url": "https://open.spotify.com/track/5od3hYBK8BXh0rhxNDKBDs"
+    },
+    {
+      "added_at": "2026-11-01 06:44:08",
+      "album": {
+        "name": "unspoken",
+        "url": "https://open.spotify.com/album/2KNJMI0QjBl1H7Lc0muJP8"
+      },
+      "artists": [
+        {
+          "name": "Blut Own",
+          "url": "https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "unspoken",
+      "url": "https://open.spotify.com/track/5CxzPHrtk5pQXq5ZAnQ6O4"
+    },
+    {
+      "added_at": "2026-11-01 06:44:08",
+      "album": {
+        "name": "no longer",
+        "url": "https://open.spotify.com/album/52Jyx33PsC7YVdcRUMw1PO"
+      },
+      "artists": [
+        {
+          "name": "KouchiSeu",
+          "url": "https://open.spotify.com/artist/71IV8tOE33girHpPJcUB8I"
+        }
+      ],
+      "duration_ms": 146629,
+      "name": "echo of panel house",
+      "url": "https://open.spotify.com/track/6CBI6xEdfuyCAbNkmjCwA5"
+    },
+    {
+      "added_at": "2026-11-01 06:44:08",
+      "album": {
+        "name": "dream sequence",
+        "url": "https://open.spotify.com/album/2ZAJ4oYhABMaffsiA3K7jy"
+      },
+      "artists": [
+        {
+          "name": "\u00d8XMI",
+          "url": "https://open.spotify.com/artist/2ZwYlOl3XChBOCL6CBGrBn"
+        }
+      ],
+      "duration_ms": 116842,
+      "name": "dream sequence",
+      "url": "https://open.spotify.com/track/2Genhjdszx2WytbRMsPh7b"
+    },
+    {
+      "added_at": "2026-11-01 06:44:08",
+      "album": {
+        "name": "empyrean",
+        "url": "https://open.spotify.com/album/74EGL8W1wsZG3FapsYhU1y"
+      },
+      "artists": [
+        {
+          "name": "One Million Flowers",
+          "url": "https://open.spotify.com/artist/4wG9asMejSEaInbXHnc3Zm"
+        }
+      ],
+      "duration_ms": 102799,
+      "name": "empyrean",
+      "url": "https://open.spotify.com/track/4qUPH7cwAnRAhMlOX25wM1"
+    },
+    {
+      "added_at": "2026-11-01 06:44:08",
+      "album": {
+        "name": "no longer",
+        "url": "https://open.spotify.com/album/52Jyx33PsC7YVdcRUMw1PO"
+      },
+      "artists": [
+        {
+          "name": "KouchiSeu",
+          "url": "https://open.spotify.com/artist/71IV8tOE33girHpPJcUB8I"
+        }
+      ],
+      "duration_ms": 67427,
+      "name": "myself never be okay",
+      "url": "https://open.spotify.com/track/7iLnGrHJCpG2Qr0f6YnpTJ"
+    },
+    {
+      "added_at": "2026-11-01 06:46:18",
+      "album": {
+        "name": "sunkiss",
+        "url": "https://open.spotify.com/album/5LNZQCJDTyDA4ZXzcbGohh"
+      },
+      "artists": [
+        {
+          "name": "lienu",
+          "url": "https://open.spotify.com/artist/0WRJNZY1CNsywmFn89i6GP"
+        },
+        {
+          "name": "ohhdeer",
+          "url": "https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "sunkiss",
+      "url": "https://open.spotify.com/track/4BKd2yHwSRpRfLKPheNZSe"
+    },
     {
       "added_at": "2026-10-25 08:18:54",
       "album": {

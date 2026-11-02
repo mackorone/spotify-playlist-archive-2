@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from TEEKS, Xduppy, Gracie Abrahams, Mr Thela and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,984 likes - 72 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,007 likes - 72 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

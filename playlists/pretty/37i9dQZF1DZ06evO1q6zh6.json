@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 186382,
+  "num_followers": 186394,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAB624MUTRjDI+jtIDagl15Z",
+  "snapshot_id": "auUvgAAAAAAebov+Z5uxazXsGsOyUrzR",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stained Class",
-        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 409800,
-      "name": "Beyond the Realms of Death",
-      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War Pigs (Charity Version)",
         "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 484779,
       "name": "War Pigs - Charity Version",
       "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 409800,
+      "name": "Beyond the Realms of Death",
+      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Grinder",
-      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
+      "duration_ms": 274866,
+      "name": "Desert Plains",
+      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 274866,
-      "name": "Desert Plains",
-      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
+      "duration_ms": 237800,
+      "name": "Grinder",
+      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 381067,
-      "name": "Invincible Shield",
-      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+      "duration_ms": 253093,
+      "name": "Judas Rising",
+      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Of Retribution",
-        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 253093,
-      "name": "Judas Rising",
-      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 263973,
       "name": "Never The Heroes",
       "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ram It Down",
-        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+        "name": "Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/3cMTwZIk74swzrWUSPVzcI"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 279400,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
+      "duration_ms": 350295,
+      "name": "Dreamer Deceiver - 2026 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/36qbkcRCDvqE7UhHOpLjHt"
     }
   ],
   "unique_name": "This Is Judas Priest",

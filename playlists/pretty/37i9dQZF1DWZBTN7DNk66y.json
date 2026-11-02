@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29784,
+  "num_followers": 29790,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "NUNCA DA IGUAL",
-        "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
       "artists": [
         {
-          "name": "Mariana Michi",
-          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
-        },
-        {
-          "name": "Ezequiel Kronenberg",
-          "url": "https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx"
-        },
-        {
-          "name": "Nicolas Btesh",
-          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 219826,
-      "name": "M\u00e1quinas de hacer todo al mismo tiempo",
-      "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -615,18 +607,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+        "name": "NUNCA DA IGUAL",
+        "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
       "artists": [
         {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        },
+        {
+          "name": "Ezequiel Kronenberg",
+          "url": "https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx"
+        },
+        {
+          "name": "Nicolas Btesh",
+          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+      "duration_ms": 219826,
+      "name": "M\u00e1quinas de hacer todo al mismo tiempo",
+      "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        },
-        {
-          "name": "Lowrenz",
-          "url": "https://open.spotify.com/artist/4aahIgxhhcOW07Y0TbIX50"
-        }
-      ],
-      "duration_ms": 222006,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        },
+        {
+          "name": "Lowrenz",
+          "url": "https://open.spotify.com/artist/4aahIgxhhcOW07Y0TbIX50"
+        }
+      ],
+      "duration_ms": 222006,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Que siga el baile",
+        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
+      },
+      "artists": [
+        {
+          "name": "Seba Ulivi",
+          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
+        },
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        }
+      ],
+      "duration_ms": 165059,
+      "name": "Que siga el baile",
+      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Matilda",
         "url": "https://open.spotify.com/album/3U9I5ENgoFkz9OonQXWRNY"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 203701,
       "name": "Juana De C\u00e1diz",
       "url": "https://open.spotify.com/track/6HPltAAAB93eEXGfPuDW7K"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Que siga el baile",
-        "url": "https://open.spotify.com/album/46oKQE0htUjsQfXXQmLskb"
-      },
-      "artists": [
-        {
-          "name": "Seba Ulivi",
-          "url": "https://open.spotify.com/artist/2UUndQ8hpbGQCHnfpYvpKl"
-        },
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        }
-      ],
-      "duration_ms": 165059,
-      "name": "Que siga el baile",
-      "url": "https://open.spotify.com/track/21BrwLt1MgeHJpxhvvr7J5"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Inflexion (En Vivo)",
+        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 228789,
+      "name": "Inflexion - En Vivo",
+      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Traviarca",
         "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 233418,
       "name": "Tan Solo Canci\u00f3n",
       "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Inflexion (En Vivo)",
-        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 228789,
-      "name": "Inflexion - En Vivo",
-      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "S\u00e1banas Azules",
-        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "S\u00e1banas Azules",
-      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
         "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
       },
@@ -1415,22 +1399,38 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Fuera de mi lugar (a la medianoche)",
-        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
+        "name": "S\u00e1banas Azules",
+        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
       },
       "artists": [
         {
-          "name": "Marina Wil",
-          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
         }
       ],
-      "duration_ms": 235558,
-      "name": "Fuera de mi lugar (a la medianoche)",
-      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
+      "duration_ms": 177000,
+      "name": "S\u00e1banas Azules",
+      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Shangril\u00e1",
+        "url": "https://open.spotify.com/album/5zFxx45avjpTQlFV7cF6sm"
+      },
+      "artists": [
+        {
+          "name": "Ninguna Higuera",
+          "url": "https://open.spotify.com/artist/5L9ZrNaSTvFWmAyGAOqpVW"
+        },
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Shangril\u00e1",
+      "url": "https://open.spotify.com/track/7D9vbNoGjTDBZlqFVnUT5m"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Fuera de mi lugar (a la medianoche)",
+        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
+      },
+      "artists": [
+        {
+          "name": "Marina Wil",
+          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "Fuera de mi lugar (a la medianoche)",
+      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Shangril\u00e1",
-        "url": "https://open.spotify.com/album/5zFxx45avjpTQlFV7cF6sm"
-      },
-      "artists": [
-        {
-          "name": "Ninguna Higuera",
-          "url": "https://open.spotify.com/artist/5L9ZrNaSTvFWmAyGAOqpVW"
-        },
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Shangril\u00e1",
-      "url": "https://open.spotify.com/track/7D9vbNoGjTDBZlqFVnUT5m"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
+      },
+      "artists": [
+        {
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "REGALAMOS ROSAS EN LA LUNA",
         "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 199429,
       "name": "Empez\u00e1",
       "url": "https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Cantor",
+        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Cantor",
+      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
         "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
       },
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Cantor",
-        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Cantor",
-      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/0axvfQLHypEXhvM6wccZHk"
       },
@@ -1847,22 +1847,6 @@
       "duration_ms": 178576,
       "name": "Soles en la Luna - Ma'\u1ebdna anga",
       "url": "https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "VIEJO LOCO",
-        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Tor",
-          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
-        }
-      ],
-      "duration_ms": 174144,
-      "name": "TE DE TILO",
-      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1899,6 +1883,22 @@
       "duration_ms": 177750,
       "name": "D\u00eda tras d\u00eda",
       "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "VIEJO LOCO",
+        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Tor",
+          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
+        }
+      ],
+      "duration_ms": 174144,
+      "name": "TE DE TILO",
+      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
     }
   ],
   "unique_name": "Voces del Sur",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,324 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,326 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 25 | [sweet savage](https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 2:21 |
 | 26 | [úm ba la xì bùa](https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:33 |
 | 27 | [Tan Ca](https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:08 |
-| 28 | [Sau Cơn Mưa](https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Sau Cơn Mưa](https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2) | 2:34 |
+| 28 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
 | 29 | [chanh tuyết](https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [chanh tuyết](https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy) | 2:40 |
-| 30 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
+| 30 | [Sau Cơn Mưa](https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Sau Cơn Mưa](https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2) | 2:34 |
 | 31 | [có nhau](https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 3:07 |
 | 32 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
 | 33 | [FASHION RAPPER](https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO) | [Rockey](https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Adam, The Litder](https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT) | [FASHION RAPPER](https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW) | 3:25 |

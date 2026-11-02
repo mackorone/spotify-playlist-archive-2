@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf41",
-  "num_followers": 144165,
+  "num_followers": 144184,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "ulysse",
-        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 195980,
-      "name": "ulysse",
-      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
@@ -367,22 +351,6 @@
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
-        "name": "intersection",
-        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
-      },
-      "artists": [
-        {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "intersection",
-      "url": "https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -403,6 +371,38 @@
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
+        "name": "intersection",
+        "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
+      },
+      "artists": [
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "intersection",
+      "url": "https://open.spotify.com/track/2AEkFnLKAWMQQwKmWGqxkr"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
+        "name": "ulysse",
+        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 195980,
+      "name": "ulysse",
+      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -455,18 +455,22 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Shoes",
-        "url": "https://open.spotify.com/album/4kqdgVtxEmeePLtQA4QLKn"
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
       },
       "artists": [
         {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
         }
       ],
-      "duration_ms": 220594,
-      "name": "Shoes",
-      "url": "https://open.spotify.com/track/5Cl3FkjKKCGkPSXxI8lmTV"
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -487,22 +491,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
+        "name": "Shoes",
+        "url": "https://open.spotify.com/album/4kqdgVtxEmeePLtQA4QLKn"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
         }
       ],
-      "duration_ms": 261379,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
+      "duration_ms": 220594,
+      "name": "Shoes",
+      "url": "https://open.spotify.com/track/5Cl3FkjKKCGkPSXxI8lmTV"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Ensorcel\u00e9e",
-        "url": "https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i"
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 163059,
-      "name": "Ensorcel\u00e9e",
-      "url": "https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH"
+      "duration_ms": 199909,
+      "name": "Did Life Work Out for You?",
+      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+        "name": "Ensorcel\u00e9e",
+        "url": "https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 199909,
-      "name": "Did Life Work Out for You?",
-      "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
+      "duration_ms": 163059,
+      "name": "Ensorcel\u00e9e",
+      "url": "https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+        "name": "Tu reviendras",
+        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
+      "duration_ms": 134581,
+      "name": "Tu reviendras",
+      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Tu reviendras",
-        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
         }
       ],
-      "duration_ms": 134581,
-      "name": "Tu reviendras",
-      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Fantasy Prologue",
-        "url": "https://open.spotify.com/album/4e6CxjLswiuoTkqMAPP7gL"
-      },
-      "artists": [
-        {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
-        }
-      ],
-      "duration_ms": 159138,
-      "name": "The Shallow End",
-      "url": "https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
         "name": "Si les bateaux",
         "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 193493,
       "name": "Si les bateaux",
       "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
+        "name": "Fantasy Prologue",
+        "url": "https://open.spotify.com/album/4e6CxjLswiuoTkqMAPP7gL"
+      },
+      "artists": [
+        {
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+        }
+      ],
+      "duration_ms": 159138,
+      "name": "The Shallow End",
+      "url": "https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo"
-      },
-      "artists": [
-        {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
-        }
-      ],
-      "duration_ms": 169642,
-      "name": "Surface Tension",
-      "url": "https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1347,18 +1331,34 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Laughter (Bouquet Version)",
-        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo"
       },
       "artists": [
         {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
         }
       ],
-      "duration_ms": 221245,
-      "name": "Laughter - Bouquet Version",
-      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
+      "duration_ms": 169642,
+      "name": "Surface Tension",
+      "url": "https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1375,6 +1375,22 @@
       "duration_ms": 141509,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
+        "name": "Laughter (Bouquet Version)",
+        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 221245,
+      "name": "Laughter - Bouquet Version",
+      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "pas de vagues",
-      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
         "name": "2 go\u00e9lands",
         "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
       },
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Dahlia",
-        "url": "https://open.spotify.com/album/79I7Ni0EYfsnW4wjjlc8KD"
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
       },
       "artists": [
         {
-          "name": "Violette Lapierre",
-          "url": "https://open.spotify.com/artist/2yf6K4enZDC4UntKaEdQSO"
-        },
-        {
-          "name": "Violette & Jordan",
-          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
         }
       ],
-      "duration_ms": 202025,
-      "name": "Dahlia",
-      "url": "https://open.spotify.com/track/3agckIPLw6x61oiODAdth4"
+      "duration_ms": 184360,
+      "name": "pas de vagues",
+      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1479,18 +1475,22 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+        "name": "Dahlia",
+        "url": "https://open.spotify.com/album/79I7Ni0EYfsnW4wjjlc8KD"
       },
       "artists": [
         {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+          "name": "Violette Lapierre",
+          "url": "https://open.spotify.com/artist/2yf6K4enZDC4UntKaEdQSO"
+        },
+        {
+          "name": "Violette & Jordan",
+          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
         }
       ],
-      "duration_ms": 242653,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+      "duration_ms": 202025,
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/3agckIPLw6x61oiODAdth4"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "The Music That Makes Me Dance",
-        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
       },
       "artists": [
         {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 307567,
-      "name": "The Music That Makes Me Dance",
-      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+        "name": "The Music That Makes Me Dance",
+        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
         }
       ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+      "duration_ms": 307567,
+      "name": "The Music That Makes Me Dance",
+      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
     },
     {
       "added_at": "2026-10-30 04:02:41",

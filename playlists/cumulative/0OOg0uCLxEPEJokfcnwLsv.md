@@ -4,10 +4,11 @@
 
 > These are some independent rock bands you need to hear.
 
-694 songs - 1 day 18 hr 42 min
+696 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(not\) Hard To Love](https://open.spotify.com/track/1H2N7wWdmrESclVCkq88a2) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [\(not\) Hard To Love](https://open.spotify.com/album/62wWEOz1JMT297bowmB8tf) | 4:00 | 2026-11-01 |  |
 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 | 2026-04-25 | 2026-06-13 |
 | [1968 \(Revolution!\)](https://open.spotify.com/track/21Ots6rJlHoUidEw23tsLy) | [The Munyks](https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9) | [1968 \(Revolution!\)](https://open.spotify.com/album/64eYAjoS73rJKask7i9SrC) | 4:16 | 2026-09-08 | 2026-10-11 |
 | [27 Club](https://open.spotify.com/track/3UjPYwiPULXhmVK91dHYhd) | [justJOY](https://open.spotify.com/artist/7xpJWxpoYSVlE9rTgn5Wna) | [27 Club](https://open.spotify.com/album/6Ym82PzOA7dAM7UgtwMby3) | 4:24 | 2026-04-16 | 2026-06-13 |
@@ -278,6 +279,7 @@
 | [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 | 2026-03-22 | 2026-04-20 |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-23 |
 | [Hunt Me Down](https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq) | [Forestt Light](https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35) | [Hunt Me Down](https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh) | 3:57 | 2026-04-11 | 2026-05-08 |
+| [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 | 2026-11-01 |  |
 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-02-14 | 2026-05-17 |
 | [Hypernormal](https://open.spotify.com/track/1ACaEDG5jQ8KfvKTUKjEu5) | [Dead Broke](https://open.spotify.com/artist/5pAHHsGlcYhq7bUJNvjKsu) | [Hypernormal](https://open.spotify.com/album/1uwOBbr56z90M0sxbWYr6M) | 3:17 | 2025-12-12 | 2026-01-05 |
 | [I Am Flawed](https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [I Am Flawed](https://open.spotify.com/album/20ZRfSRKjTMNCYtRXmWI36) | 3:16 | 2025-12-07 | 2025-12-28 |

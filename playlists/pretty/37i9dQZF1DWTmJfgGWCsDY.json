@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Zuchu",
-  "num_followers": 12688,
+  "num_followers": 12699,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Bado Nakupenda",
-        "url": "https://open.spotify.com/album/1n2LZ7DJW1QFoBrLdxAdbO"
+        "name": "Peace And Money",
+        "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
       },
       "artists": [
         {
           "name": "Zuchu",
           "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 163265,
-      "name": "Bado Nakupenda",
-      "url": "https://open.spotify.com/track/6Pk0SaknPaIZSB8ZE3EWQq"
+      "duration_ms": 258125,
+      "name": "Hujanizidi (feat. D Voice)",
+      "url": "https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -127,22 +131,18 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Peace And Money",
-        "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
+        "name": "Bado Nakupenda",
+        "url": "https://open.spotify.com/album/1n2LZ7DJW1QFoBrLdxAdbO"
       },
       "artists": [
         {
           "name": "Zuchu",
           "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 258125,
-      "name": "Hujanizidi (feat. D Voice)",
-      "url": "https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B"
+      "duration_ms": 163265,
+      "name": "Bado Nakupenda",
+      "url": "https://open.spotify.com/track/6Pk0SaknPaIZSB8ZE3EWQq"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -163,50 +163,6 @@
       "duration_ms": 238400,
       "name": "Kidonda",
       "url": "https://open.spotify.com/track/69d5UucEEcnbC0NryJ7bcj"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Mama Yangu",
-        "url": "https://open.spotify.com/album/1w40QZXQPxIcNVCBzWLoXV"
-      },
-      "artists": [
-        {
-          "name": "Billnass",
-          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/49mdQ4LqDjjUPSJ3p5Kc6G"
-        },
-        {
-          "name": "Mzee Wa Bwax",
-          "url": "https://open.spotify.com/artist/3foxaOijucHOO507Jr6ZKO"
-        }
-      ],
-      "duration_ms": 227692,
-      "name": "Mama Yangu",
-      "url": "https://open.spotify.com/track/3TCC9MfUM5BbV1l1LMNrJW"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Mganga",
-        "url": "https://open.spotify.com/album/704pr6JliSJqMyGA3eFcmm"
-      },
-      "artists": [
-        {
-          "name": "Gigy Money",
-          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
-        },
-        {
-          "name": "Amthebubby",
-          "url": "https://open.spotify.com/artist/1nQBFlG6eew2akfZgTqzrb"
-        }
-      ],
-      "duration_ms": 234604,
-      "name": "Mganga",
-      "url": "https://open.spotify.com/track/7DZWMNXmsuvReH3JfVVfqB"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -239,6 +195,50 @@
       "duration_ms": 261971,
       "name": "Mapenzi Hisia (feat. Jetty Mc, Vanillah, Baddest 47 & Jay Combat)",
       "url": "https://open.spotify.com/track/5AOLHEODPUTgPJSxs5DceH"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Mganga",
+        "url": "https://open.spotify.com/album/704pr6JliSJqMyGA3eFcmm"
+      },
+      "artists": [
+        {
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
+        },
+        {
+          "name": "Amthebubby",
+          "url": "https://open.spotify.com/artist/1nQBFlG6eew2akfZgTqzrb"
+        }
+      ],
+      "duration_ms": 234604,
+      "name": "Mganga",
+      "url": "https://open.spotify.com/track/7DZWMNXmsuvReH3JfVVfqB"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Mama Yangu",
+        "url": "https://open.spotify.com/album/1w40QZXQPxIcNVCBzWLoXV"
+      },
+      "artists": [
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/49mdQ4LqDjjUPSJ3p5Kc6G"
+        },
+        {
+          "name": "Mzee Wa Bwax",
+          "url": "https://open.spotify.com/artist/3foxaOijucHOO507Jr6ZKO"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Mama Yangu",
+      "url": "https://open.spotify.com/track/3TCC9MfUM5BbV1l1LMNrJW"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -279,42 +279,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Ma Mkali",
-        "url": "https://open.spotify.com/album/6rr9uYBdz4SQhOLswkYAf8"
-      },
-      "artists": [
-        {
-          "name": "Msomali",
-          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
-        },
-        {
-          "name": "Gigy Money",
-          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Ma Mkali",
-      "url": "https://open.spotify.com/track/65a0cI6yNHO7MvH5atTJFF"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Room Number 3",
-        "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 266272,
-      "name": "Asumani",
-      "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Wivu Remix (feat. Baddest 47, Jay Combat & Ibraah)",
         "url": "https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa"
       },
@@ -339,6 +303,42 @@
       "duration_ms": 225880,
       "name": "Wivu Remix (feat. Baddest 47, Jay Combat & Ibraah)",
       "url": "https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Room Number 3",
+        "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 266272,
+      "name": "Asumani",
+      "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Ma Mkali",
+        "url": "https://open.spotify.com/album/6rr9uYBdz4SQhOLswkYAf8"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Ma Mkali",
+      "url": "https://open.spotify.com/track/65a0cI6yNHO7MvH5atTJFF"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Nakuja (Remix)",
-        "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Nakuja - Remix",
-      "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Ganda",
         "url": "https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 196040,
       "name": "Ganda",
       "url": "https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Nakuja (Remix)",
+        "url": "https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Nakuja - Remix",
+      "url": "https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "Ungewezaje",
+        "url": "https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW"
+      },
+      "artists": [
+        {
+          "name": "Dogo Paten",
+          "url": "https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9"
+        }
+      ],
+      "duration_ms": 165287,
+      "name": "Ungewezaje",
+      "url": "https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "A DAY TO REMEMBER",
         "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 244645,
       "name": "EX WA NANI",
       "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Ungewezaje",
-        "url": "https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW"
-      },
-      "artists": [
-        {
-          "name": "Dogo Paten",
-          "url": "https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9"
-        }
-      ],
-      "duration_ms": 165287,
-      "name": "Ungewezaje",
-      "url": "https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Makombolelo singeli version",
-        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
-      },
-      "artists": [
-        {
-          "name": "Mazegele Boy",
-          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Makombolelo singeli version",
-      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Dua",
         "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Hujanikomoa",
-        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
         }
       ],
-      "duration_ms": 359026,
-      "name": "Hujanikomoa",
-      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1011,6 +995,22 @@
       "duration_ms": 314493,
       "name": "Penzi Jipya",
       "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Hujanikomoa",
+        "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 359026,
+      "name": "Hujanikomoa",
+      "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Kama Ujui Utajua",
         "url": "https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 239046,
       "name": "Kama Ujui Utajua",
       "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        }
+      ],
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
     },
     {
       "added_at": "2026-10-09 18:37:41",

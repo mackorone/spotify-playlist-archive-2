@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,227 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,289 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 36 | [Deserto](https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Deserto](https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK) | 5:02 |
 | 37 | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \- Ao Vivo](https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \(Ao Vivo\)](https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA) | 6:39 |
 | 38 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 |
-| 39 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
-| 40 | [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 |
+| 39 | [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 |
+| 40 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 | 41 | [Tua Graça \(feat\. Priscilla Alcantara\)](https://open.spotify.com/track/5SoyAxzmqc7yc1PdngMewL) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Priscilla Alcantara](https://open.spotify.com/artist/63W02eshTwySpJjkeiMDEA) | [Tua Graça \(feat\. Priscilla Alcantara\)](https://open.spotify.com/album/0G6oHBDRbkuSr6JQNRkonP) | 4:59 |
 | 42 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/5JfiqvXnyiGfATt2c5sqJQ) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Diante do Trono 10 Anos \- Tempo de Festa \(Ao Vivo\)](https://open.spotify.com/album/2EWR5135TNFC58nhMIalIG) | 11:08 |
 | 43 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
-| 44 | [Que Se Abram Os Céus](https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Que Se Abram Os Céus](https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne) | 5:07 |
-| 45 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
+| 44 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
+| 45 | [Que Se Abram Os Céus](https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Que Se Abram Os Céus](https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne) | 5:07 |
 | 46 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
 | 47 | [Me Rendo A Ti](https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Global Project PORTUGUÊS \(Portuguese\)](https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv) | 6:10 |
 | 48 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |

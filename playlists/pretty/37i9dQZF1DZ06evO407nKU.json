@@ -1,13 +1,29 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 58778,
+  "num_followers": 58791,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADbthpBFTOrkK/6i6v+Ugxv",
+  "snapshot_id": "auUvgAAAAABJG7/V4MPcTnecnthdm3mL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preg\u00fantenle",
+        "url": "https://open.spotify.com/album/5d34201e1DDsbUSSs4CGnx"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Preg\u00fantenle",
+      "url": "https://open.spotify.com/track/46NcaZ2F3aN21HSbuiIAhN"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo S\u00e9",
-        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 143081,
-      "name": "Voy a Amarte",
-      "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 253478,
       "name": "Como Te Olvido",
       "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Voy a Amarte",
+      "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
     },
     {
       "added_at": null,
@@ -107,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 222469,
-      "name": "Mujer Hermosa",
-      "url": "https://open.spotify.com/track/0XhaVvPNfXxl3qDV5cpg4T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 183857,
       "name": "Tu Forma De Ser",
       "url": "https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 222469,
+      "name": "Mujer Hermosa",
+      "url": "https://open.spotify.com/track/0XhaVvPNfXxl3qDV5cpg4T"
     },
     {
       "added_at": null,
@@ -231,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo S\u00e9",
-        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 184458,
-      "name": "Daria Todo Por Ti",
-      "url": "https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 247200,
       "name": "Queda Restringido",
       "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 184458,
+      "name": "Daria Todo Por Ti",
+      "url": "https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf"
     },
     {
       "added_at": null,
@@ -571,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Le Das Color A Mi Existir (En Vivo)",
-        "url": "https://open.spotify.com/album/738IVA2fI3Jj98CtTShkpG"
-      },
-      "artists": [
-        {
-          "name": "Los Nenes MX",
-          "url": "https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 214601,
-      "name": "T\u00fa Le Das Color A Mi Existir - En Vivo",
-      "url": "https://open.spotify.com/track/4nrfaLjjoVNegWNUJXKq9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -611,38 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Amar Sin Pensarlo - En Vivo",
-      "url": "https://open.spotify.com/track/0KgLontgLrWfnnF6k61GUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Tienes Enamorado",
         "url": "https://open.spotify.com/album/5TRTcKElL8hp3a2Neaq1KU"
       },
@@ -659,6 +623,58 @@
       "duration_ms": 172931,
       "name": "Me Tienes Enamorado",
       "url": "https://open.spotify.com/track/2GBh5nyW1OeLxRXtT6Dzko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Le Das Color A Mi Existir (En Vivo)",
+        "url": "https://open.spotify.com/album/738IVA2fI3Jj98CtTShkpG"
+      },
+      "artists": [
+        {
+          "name": "Los Nenes MX",
+          "url": "https://open.spotify.com/artist/7eeVv5cv5tlW4LB6FqIRLj"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 214601,
+      "name": "T\u00fa Le Das Color A Mi Existir - En Vivo",
+      "url": "https://open.spotify.com/track/4nrfaLjjoVNegWNUJXKq9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 141589,
+      "name": "La Hungara - En Vivo",
+      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Amar Sin Pensarlo - En Vivo",
+      "url": "https://open.spotify.com/track/0KgLontgLrWfnnF6k61GUS"
     },
     {
       "added_at": null,
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 141589,
-      "name": "La Hungara - En Vivo",
-      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Duele Menos",
-        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 184348,
-      "name": "Ya Duele Menos",
-      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+        "name": "Ya Duele Menos",
+        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
       "artists": [
         {
@@ -804,9 +804,29 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Mi Sueno Seria",
-      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
+      "duration_ms": 184348,
+      "name": "Ya Duele Menos",
+      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
     },
     {
       "added_at": null,
@@ -835,42 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dariel Party, Vol 1.",
-        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 192086,
-      "name": "Siempre A Tu Lado (En Vivo)",
-      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
+      "duration_ms": 210520,
+      "name": "Mi Sueno Seria",
+      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
     },
     {
       "added_at": null,
@@ -895,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "Siempre A Tu Lado (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Luchon",
         "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
       },
@@ -907,38 +923,6 @@
       "duration_ms": 163893,
       "name": "Luchon",
       "url": "https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Ranchito",
-        "url": "https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Grupo X30",
-          "url": "https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Mi Ranchito - En Vivo",
-      "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

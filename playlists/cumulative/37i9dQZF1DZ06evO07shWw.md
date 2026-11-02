@@ -4,7 +4,7 @@
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 55 min
+53 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Runnin \(with JP Saxe\)](https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:26 | 2023-03-04 |  |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-09-08 | 2025-08-18 |
 | [Seeing Someone Else](https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:26 | 2025-08-18 |  |
+| [Snowed In With Me](https://open.spotify.com/track/3hdaU2rPibQW0AgFE2a467) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Snowed In With Me](https://open.spotify.com/album/2j7BarIpVo1yEXEphxuf3g) | 3:08 | 2026-11-02 |  |
 | [Taillights](https://open.spotify.com/track/38vArX5IoSoYL9r2lkn0P5) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Taillights](https://open.spotify.com/album/3TwRph25WYSUaoYqhedZ9g) | 2:59 | 2026-03-29 |  |
 | [Talk](https://open.spotify.com/track/52nr0MLyxZwe6zcSo7Jfmr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:49 | 2022-09-08 | 2025-01-31 |
 | [Tattoos](https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Tattoos](https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt) | 3:18 | 2026-04-26 |  |

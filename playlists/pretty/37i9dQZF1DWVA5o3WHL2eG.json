@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51565,
+  "num_followers": 51560,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/6j1LFvHglLSVGl8TTyzlfo"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 170704,
       "name": "AMG",
       "url": "https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Le Vol",
-        "url": "https://open.spotify.com/album/5Qzl6dr6ufoO2LTUVjodsR"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Le Vol",
-      "url": "https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "Typologie eines Lebens",
         "url": "https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 181546,
       "name": "Neues Leben",
       "url": "https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Le Vol",
+        "url": "https://open.spotify.com/album/5Qzl6dr6ufoO2LTUVjodsR"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Le Vol",
+      "url": "https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz"
     },
     {
       "added_at": "2026-10-07 22:00:17",

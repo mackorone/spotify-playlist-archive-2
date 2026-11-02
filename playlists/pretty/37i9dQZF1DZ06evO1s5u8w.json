@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 205460,
+  "num_followers": 205466,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAD143NLjMoH6xd0okbXDnad",
+  "snapshot_id": "auUvgAAAAABBxcH9pp/OnypBUt8yF6aN",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 330706,
-      "name": "The Big Country",
-      "url": "https://open.spotify.com/track/1YoRuPU8F05eVcSjiAEq7r"
+      "duration_ms": 189266,
+      "name": "New Feeling",
+      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 189266,
-      "name": "New Feeling",
-      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
+      "duration_ms": 330706,
+      "name": "The Big Country",
+      "url": "https://open.spotify.com/track/1YoRuPU8F05eVcSjiAEq7r"
     },
     {
       "added_at": null,

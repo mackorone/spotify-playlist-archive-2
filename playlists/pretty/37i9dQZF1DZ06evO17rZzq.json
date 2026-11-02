@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAC9lcPaHynP/3ZOOn/YTRHL",
+  "snapshot_id": "auUvgAAAAAC/+QaO3DFRQaj/qEYvSPvi",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 103436,
+      "name": "Old Me",
+      "url": "https://open.spotify.com/track/4EwoWsIt1lzB6bRHV9jGPT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOZO",
         "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
       },
@@ -391,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Ken The Man",
+          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ain't FWM (feat. Ken the Man)",
+      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
         "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
       },
@@ -415,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Ken The Man",
-          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ain't FWM (feat. Ken the Man)",
-      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -447,6 +463,30 @@
       "duration_ms": 188014,
       "name": "Ms. Lick Back",
       "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
+        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "SHAKE - feat. Kaliii and Stunna Girl",
+      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
     },
     {
       "added_at": null,
@@ -479,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
-        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "SHAKE - feat. Kaliii and Stunna Girl",
-      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blu\u20acs (d\u20aclux\u20ac)",
         "url": "https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk"
       },
@@ -523,6 +539,22 @@
       "duration_ms": 148915,
       "name": "do it 4 th\u20ac gram - r\u20acmix",
       "url": "https://open.spotify.com/track/7MVmS6K6kxRrhJQJ35nfjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
     },
     {
       "added_at": null,
@@ -567,22 +599,6 @@
       "duration_ms": 203960,
       "name": "Netreba",
       "url": "https://open.spotify.com/track/0xIobPrJrJ9GyoCGZqs0uC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 175819,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
     },
     {
       "added_at": null,
@@ -655,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 142697,
+      "name": "BYB",
+      "url": "https://open.spotify.com/track/3J64O7nqy9ORcZgYRvoA5m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -687,22 +719,6 @@
       "duration_ms": 168148,
       "name": "This",
       "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Girl Maybach",
-        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 140409,
-      "name": "Hot Girl Maybach",
-      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     },
     {
       "added_at": null,
@@ -743,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Girl Maybach",
+        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 140409,
+      "name": "Hot Girl Maybach",
+      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gas You Up (feat. Hunxho)",
         "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
       },
@@ -759,6 +791,22 @@
       "duration_ms": 171392,
       "name": "Gas You Up (feat. Hunxho)",
       "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Reward",
+      "url": "https://open.spotify.com/track/35fkQcdrVBYiXyeMcTJFCs"
     },
     {
       "added_at": null,
@@ -839,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do A Bitch (Club Mix)",
+        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 156096,
+      "name": "Do A Bitch - Club Mix",
+      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -855,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do A Bitch (Club Mix)",
-        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
       },
       "artists": [
         {
@@ -864,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 156096,
-      "name": "Do A Bitch - Club Mix",
-      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
+      "duration_ms": 163862,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2hLRpT0GeNCpbtAJDPXt1z"
     },
     {
       "added_at": null,
@@ -907,82 +971,6 @@
       "duration_ms": 301374,
       "name": "Po\u00e9zia Ulice",
       "url": "https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Little Thing (feat. Kaliii)",
-        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 143020,
-      "name": "Bad Little Thing (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep It Playa",
-        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "ill nana (feat. Kali)",
-      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BARE CHAT",
-        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 155761,
-      "name": "Let It Ring",
-      "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 138288,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
     }
   ],
   "unique_name": "This Is Kaliii",

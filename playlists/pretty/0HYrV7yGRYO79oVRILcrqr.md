@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,941 likes - 187 songs - 11 hr 51 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,944 likes - 194 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,12 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 185 | [Punk Rock Changed My Life](https://open.spotify.com/track/61bqm8GBhy0uVX4486D6Z8) | [SMFC](https://open.spotify.com/artist/37AQAlwmPfdt7xlzv0Wbsm) | [Unadulterated](https://open.spotify.com/album/7FDUbUbgQCAro9FM5zCn13) | 2:49 |
 | 186 | [Fist full of lies](https://open.spotify.com/track/3KL4wNDzQV6Rk7TpyPIk2z) | [Moral Demise](https://open.spotify.com/artist/2aJD3abHtV67hSLPptMQgM) | [Stomp](https://open.spotify.com/album/5I8CHzZpprQpuqxp1BpbCt) | 2:10 |
 | 187 | [Does She Love Me](https://open.spotify.com/track/0KscrUf74Y7ZYkXaryE1cu) | [Chaz Mason](https://open.spotify.com/artist/6IGb012Y9A2RHpb4m3v0dt) | [Does She Love Me](https://open.spotify.com/album/61WqmM4kmN6nHBhhlv8JP0) | 4:58 |
+| 188 | [Come on Baby, Come On](https://open.spotify.com/track/27ZEfFWl5xYkRY0hnpWPfL) | [Star Crystal](https://open.spotify.com/artist/0heeideNtetIRa4LIz2kO5) | [Come on Baby, Come On](https://open.spotify.com/album/4QU0wugrKQLSmnM3oJXBOR) | 3:43 |
+| 189 | [¡YA BASTA!](https://open.spotify.com/track/7moS1lCufUhFdwVNRiJRnS) | [AETHEROHM](https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww) | [¡YA BASTA!](https://open.spotify.com/album/4YIG0a67SoYtm4LYM5C6yq) | 3:10 |
+| 190 | [Grooveyard](https://open.spotify.com/track/491ct7ri3HxtwSvWPzRNfY) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Grooveyard](https://open.spotify.com/album/5Yj0GnB1cCyU262KF7VguA) | 4:05 |
+| 191 | [Blue Out Your Mind](https://open.spotify.com/track/5x63004K3YIr47nvaBQEnQ) | [Archangel Radio](https://open.spotify.com/artist/5wq1jJ9NruVSEBnvxBlP87) | [Witching Hour Blues](https://open.spotify.com/album/766n2QYspV2qNG3lV9y4Bk) | 2:07 |
+| 192 | [Kendi Dünyam](https://open.spotify.com/track/643dEOMjkJ3vcY0AqIXWtn) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Kendi Dünyam](https://open.spotify.com/album/5Kv5Rnnna9hKfjKcv4pY41) | 2:36 |
+| 193 | [SANCOCHO](https://open.spotify.com/track/76RUHJgHO72jPSzuZlcxKK) | [R69.](https://open.spotify.com/artist/7HyKPvhSUoLztKsDq2wGFj) | [SANCOCHO](https://open.spotify.com/album/7dlZFkwBoU2r8vEQnX5tKi) | 2:05 |
+| 194 | [Gum On My Shoe](https://open.spotify.com/track/6RxMgMkrKsNBW6OFClALJf) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Gum On My Shoe](https://open.spotify.com/album/1pCNAudbov019XN9bmYycg) | 2:49 |
 
-Snapshot ID: `AAAM6Mi5QX1IiFj6cKHKUTwKgIa8uj0L`
+Snapshot ID: `AAAM76s8JjmDsiuJF3z186z0jfSmm1OE`

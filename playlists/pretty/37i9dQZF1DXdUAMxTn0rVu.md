@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, 2000s underground hip\-hop scene\. Cover: J Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,513 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,560 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 47 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 48 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
 | 49 | [Blue Flowers](https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt) | [Dr\. Octagon](https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr) | [Dr\. Octagonecologyst](https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW) | 3:17 |
-| 50 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
+| 50 | [Neva Forget](https://open.spotify.com/track/1Zonfgke599Z9UMCVK6peB) | [Cali Agents](https://open.spotify.com/artist/5lUJxGxTTkeRC5xAouxIe4) | [How The West Was One](https://open.spotify.com/album/317lVPzxQwlBb744XATUXS) | 3:46 |
 
 Snapshot ID: `AAAAAMVIA9yRO1YIITRUHbih+dZ7tKyx`

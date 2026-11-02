@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1219050,
+  "num_followers": 1219056,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAC+InKqKydfEtfCxsv0ehxf",
+  "snapshot_id": "auUvgAAAAACbf/uf+nSF3iLr3OWaEm6Z",
   "tracks": [
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream - Remix EP",
-        "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 234920,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
+      "duration_ms": 161962,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
+        "name": "Teenage Dream - Remix EP",
+        "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 161962,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
+      "duration_ms": 234920,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 171 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684 likes - 171 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 101 | [Mirage \(Don’t Stop\)](https://open.spotify.com/track/5CZ53WFltsPPyLmx34QJwh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:47 |
 | 102 | [Thinking About You](https://open.spotify.com/track/2mKbpshbaoOAWWcjlq98vt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 3:28 |
 | 103 | [If You Love Me](https://open.spotify.com/track/4Mqlo3nYpi7HLhR6PR4nsd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:11 |
-| 104 | [Ivy](https://open.spotify.com/track/3cDqalqQ92W0H8ZJEjlgcZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 3:28 |
-| 105 | [A Question Of You](https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:42 |
+| 104 | [A Question Of You](https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:42 |
+| 105 | [Ivy](https://open.spotify.com/track/3cDqalqQ92W0H8ZJEjlgcZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 3:28 |
 | 106 | [Be Cool](https://open.spotify.com/track/13WcpETaTUAFDyhVvvXdDa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 2:57 |
 | 107 | [Don't Panic](https://open.spotify.com/track/02CH3KEpNtFgN4ItgqZdbG) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:15 |
 | 108 | [Old Navy Blue](https://open.spotify.com/track/2sZxMkr5Qq5FzaymQy2nFc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:08 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 170 | [Hold On](https://open.spotify.com/track/1Jfl0IXNH6aJgNWSpBNqN2) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:15 |
 | 171 | [Numb](https://open.spotify.com/track/4mlcYfLYLVVIqp9pKL0pcS) | [Kimberly Anne](https://open.spotify.com/artist/7uX9gyS2bhEYXaOjqKnAWq) | [From the Trauma Care Unit](https://open.spotify.com/album/4aDPxEMbiEuwxmzR2s1FKv) | 3:23 |
 
-Snapshot ID: `AcgcsAAAAAC0WuybS5uvuXwy1XuwpiFr`
+Snapshot ID: `AcgijAAAAAChWtLpRPzludSy2rPVyz4i`

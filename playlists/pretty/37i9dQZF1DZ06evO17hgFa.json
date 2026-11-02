@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 151160,
+  "num_followers": 151175,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAbwXmZojf8waN+pnS8pjzv",
+  "snapshot_id": "auUvgAAAAAD4MfrGzFqE982HTtapwtl8",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billie Holiday With Ray Ellis And His Orchestra",
         "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 152346,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Billie Holiday On Verve 1945 - 1959",
-        "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "P.S. I Love You",
-      "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "An Evening With Billie Holiday",
         "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 222417,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Billie Holiday On Verve 1945 - 1959",
+        "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "That Ole Devil Called Love",
-      "url": "https://open.spotify.com/track/0AQneI6Ek7V7pQEcRZfPwF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body and Soul",
         "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 378400,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/0AQneI6Ek7V7pQEcRZfPwF"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blues Are Brewin'",
         "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 193800,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": null,

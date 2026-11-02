@@ -23,6 +23,40 @@
     },
     {
       "album": {
+        "name": "A Flight To Forever",
+        "url": "https://open.spotify.com/album/21UVIJ02KQOj8suiiUQM0R"
+      },
+      "artists": [
+        {
+          "name": "Sri Tharun",
+          "url": "https://open.spotify.com/artist/5IAa8nCxJxWlCgqjtA2Ny9"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Akhilesh Reddy",
+          "url": "https://open.spotify.com/artist/4fNqEQXAhGtAEv29uike2u"
+        },
+        {
+          "name": "Venkat Manikanta Chittineni",
+          "url": "https://open.spotify.com/artist/2LO75w2qR7ulPCg43Ysu6G"
+        },
+        {
+          "name": "Blanche Jacob",
+          "url": "https://open.spotify.com/artist/2zk1I34BC5SupBXw4s1QZJ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "A Flight To Forever",
+      "url": "https://open.spotify.com/track/38knXBRe2LGqO1MeqcNozZ"
+    },
+    {
+      "album": {
         "name": "Aadibidda Relare Ganga Rakhi Paata",
         "url": "https://open.spotify.com/album/5WIMv18PBrRDWl3WOCUDo7"
       },
@@ -5434,6 +5468,10 @@
         {
           "name": "Vikhyat sairam Burra",
           "url": "https://open.spotify.com/artist/3PbAWWMzxZXA6dVzHY4itW"
+        },
+        {
+          "name": "Hemanth Kashyap",
+          "url": "https://open.spotify.com/artist/4ZNSNlmiVP3hZcCErVPolq"
         }
       ],
       "date_added": "2026-06-08",
@@ -11036,7 +11074,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 239016,
       "name": "Taara",
       "url": "https://open.spotify.com/track/7si2JnbJv6gAkAcG0mUaWX"
@@ -11328,7 +11366,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 164400,
       "name": "Telupana Cheli",
       "url": "https://open.spotify.com/track/7Mwdxcy1LsYtghUphU2yzI"
@@ -12568,7 +12606,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 181090,
       "name": "Yamuna Theera Vihari",
       "url": "https://open.spotify.com/track/0qkgjU4Z6mxv4tKzZ4Phon"

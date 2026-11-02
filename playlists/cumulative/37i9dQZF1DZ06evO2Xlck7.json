@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "What It Is To Burn - X (Live)",
+        "url": "https://open.spotify.com/album/35mPHiPaDrGko737O1oPNA"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225408,
+      "name": "Worms Of The Earth - Live",
+      "url": "https://open.spotify.com/track/54EMMVZE3O2N0NvV9LGen8"
+    },
+    {
+      "album": {
         "name": "What It Is To Burn - X",
         "url": "https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae"
       },
@@ -848,7 +866,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 225408,
       "name": "Worms Of The Earth - Live",
       "url": "https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7"

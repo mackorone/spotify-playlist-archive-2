@@ -1,12 +1,12 @@
 {
   "description": "The best new and classic South African Rock. Cover: Spoegwolf",
-  "num_followers": 28844,
+  "num_followers": 28850,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAABQcTCTdOqeNCeNEaRfWGmQ2kav",
+  "snapshot_id": "AAAAAJiiqj6FKBfBI70xMkwOZHA2Q82H",
   "tracks": [
     {
       "added_at": "2026-10-16 08:01:36",
@@ -131,18 +131,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
-        "url": "https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK"
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
       },
       "artists": [
         {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 201000,
-      "name": "I CHANGED (I'M UP)",
-      "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
       "added_at": "2026-10-23 12:52:58",
@@ -163,18 +163,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+        "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
+        "url": "https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         }
       ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
+      "duration_ms": 201000,
+      "name": "I CHANGED (I'M UP)",
+      "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
     },
     {
       "added_at": "2026-10-08 22:02:27",
@@ -239,22 +239,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Ryk Met Tyd",
-        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
+        "name": "DOOD",
+        "url": "https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        },
-        {
           "name": "Zaan Sonnekus",
           "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        },
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
         }
       ],
-      "duration_ms": 148999,
-      "name": "Ryk Met Tyd",
-      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
+      "duration_ms": 205191,
+      "name": "DOOD",
+      "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
     },
     {
       "added_at": "2026-09-24 22:01:39",
@@ -275,22 +275,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "DOOD",
-        "url": "https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC"
+        "name": "Ryk Met Tyd",
+        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         },
         {
-          "name": "Tasch\u00e9",
-          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 205191,
-      "name": "DOOD",
-      "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
+      "duration_ms": 148999,
+      "name": "Ryk Met Tyd",
+      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -325,38 +325,6 @@
       "url": "https://open.spotify.com/track/0Cv9K5F37x5jYgAI6ccsru"
     },
     {
-      "added_at": "2026-09-24 22:01:39",
-      "album": {
-        "name": "Sweef",
-        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 205032,
-      "name": "Sweef",
-      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
-    },
-    {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "S\u00ea My Hoe",
-        "url": "https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2"
-      },
-      "artists": [
-        {
-          "name": "Sonder Onderbroeke",
-          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
-        }
-      ],
-      "duration_ms": 172571,
-      "name": "S\u00ea My Hoe",
-      "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
-    },
-    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Vanfokkingtasties Akoesties",
@@ -375,6 +343,38 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "S\u00ea My Hoe",
+        "url": "https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2"
+      },
+      "artists": [
+        {
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "S\u00ea My Hoe",
+      "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
+    },
+    {
+      "added_at": "2026-09-24 22:01:39",
+      "album": {
+        "name": "Sweef",
+        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 205032,
+      "name": "Sweef",
+      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+        "name": "KLEUR",
+        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
       "artists": [
         {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
         }
       ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+      "duration_ms": 201420,
+      "name": "KLEUR",
+      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "KLEUR",
-        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
       "artists": [
         {
-          "name": "MOEGOE",
-          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
         }
       ],
-      "duration_ms": 201420,
-      "name": "KLEUR",
-      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-08-27 22:01:29",

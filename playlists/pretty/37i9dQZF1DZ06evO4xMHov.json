@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63432,
+  "num_followers": 63435,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADupct+tDksD6qnF+Hw4buS",
+  "snapshot_id": "auUvgAAAAAD/D5KboAFLQAMtJwTWPi2E",
   "tracks": [
     {
       "added_at": null,
@@ -71,8 +71,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
+        "name": "Bondade e Fidelidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MJBJomcDxF18DqL9FmPYF"
       },
       "artists": [
         {
@@ -86,7 +86,7 @@
       ],
       "duration_ms": 454133,
       "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
-      "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
+      "url": "https://open.spotify.com/track/2510SuoLNYUJHd2iJxjaiR"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Preto no Branco 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 285120,
       "name": "Estado De Gra\u00e7a (feat. N\u00edvea Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/4Lsq6TlJTt1pLZ2lTmGrZx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": null,
@@ -443,6 +443,30 @@
       "duration_ms": 415099,
       "name": "Pardal - Ao Vivo",
       "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Ele a Gl\u00f3ria na Igreja",
+        "url": "https://open.spotify.com/album/03Oehqdaqtyu4ubVUcBh7k"
+      },
+      "artists": [
+        {
+          "name": "Thamires Garcia",
+          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Giovana Chartres",
+          "url": "https://open.spotify.com/artist/1Cbv61WBoMPhe7nTGNBE24"
+        }
+      ],
+      "duration_ms": 904635,
+      "name": "At\u00e9 que o Senhor venha + At\u00e9 que Ele venha + Ser achado Fiel",
+      "url": "https://open.spotify.com/track/1iH4wVFCRPZjmL4VlyHiFs"
     },
     {
       "added_at": null,
@@ -579,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Ele a Gl\u00f3ria na Igreja",
-        "url": "https://open.spotify.com/album/03Oehqdaqtyu4ubVUcBh7k"
-      },
-      "artists": [
-        {
-          "name": "Thamires Garcia",
-          "url": "https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Giovana Chartres",
-          "url": "https://open.spotify.com/artist/1Cbv61WBoMPhe7nTGNBE24"
-        }
-      ],
-      "duration_ms": 904635,
-      "name": "At\u00e9 que o Senhor venha + At\u00e9 que Ele venha + Ser achado Fiel",
-      "url": "https://open.spotify.com/track/1iH4wVFCRPZjmL4VlyHiFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
       },
@@ -719,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alvo Mais Que a Neve",
         "url": "https://open.spotify.com/album/2rjke7YMI8dwuldfIgrvAz"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 349600,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/0715W8VVrXKZ0AEGvh0NV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KND26Pkj1XgCBKhKU9coH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/06jRcTQyd3QIYA0psw5yQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5kvWQeoWmyZ7OXHZtlF43c"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 413311,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gRfQQ22dumRwar1kRAYKU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
       },
@@ -863,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 352037,
-      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria E Honra (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
       },
@@ -892,25 +888,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra - Ao Vivo",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grande \u00e9 o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 413311,
-      "name": "Grande \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
+      "duration_ms": 291266,
+      "name": "Meu Maior Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
     },
     {
       "added_at": null,
@@ -927,6 +907,22 @@
       "duration_ms": 826880,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 508432,
+      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
+      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
     },
     {
       "added_at": null,
@@ -956,25 +952,29 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 291266,
-      "name": "Meu Maior Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/07v04MgOyAk8ydF6OlKF4q"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 508432,
-      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
-      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
+      "duration_ms": 352037,
+      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Sdrwq8zngkVO1ChdJeZhu"
     },
     {
       "added_at": null,

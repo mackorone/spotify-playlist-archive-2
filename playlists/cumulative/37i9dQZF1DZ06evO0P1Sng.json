@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 157000,
       "name": "Dom do Toque",
       "url": "https://open.spotify.com/track/3l83Ti1Y8r8kBe9EOiz1R9"
@@ -3134,6 +3134,32 @@
       "duration_ms": 180923,
       "name": "Sensa\u00e7\u00e3o de Poder",
       "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
+    },
+    {
+      "album": {
+        "name": "Set da Zyzy (gosta de brincar cmg)",
+        "url": "https://open.spotify.com/album/3eTJiQw8fJl9HyUlq1XH5r"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Set da Zyzy (gosta de brincar cmg)",
+      "url": "https://open.spotify.com/track/2hlFT18leCLSIx0GpYKwpk"
     },
     {
       "album": {

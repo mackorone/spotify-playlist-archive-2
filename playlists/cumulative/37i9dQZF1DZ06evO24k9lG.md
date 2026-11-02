@@ -4,11 +4,11 @@
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 53 min
+76 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Acuerdate De Mi](https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:49 | 2023-12-29 |  |
+| [Acuerdate De Mi](https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:49 | 2023-12-29 | 2026-11-02 |
 | [Amigo el Corazón](https://open.spotify.com/track/4N4HpuGlzf9lOmVTvrta2K) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:55 | 2022-12-16 |  |
 | [Amores Del Río](https://open.spotify.com/track/3u4KgCRh0DA4zxQkCFJYeu) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Amores Del Río](https://open.spotify.com/album/3C7GoMYOyZTT0msr1PBIW8) | 4:28 | 2025-05-24 | 2025-06-21 |
 | [Ay Mi Valle](https://open.spotify.com/track/6mH0bTdVS73lFdQLiZaW8B) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Ay Mi Valle](https://open.spotify.com/album/3kVEpk0bQYus0kCKesBI9Y) | 4:14 | 2026-02-28 | 2026-03-28 |
@@ -49,6 +49,7 @@
 | [Me Voy De Ti](https://open.spotify.com/track/3IJfVcDe4tZlLAPpEPuGvs) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:44 | 2022-12-16 |  |
 | [Mi Segunda Vida](https://open.spotify.com/track/2aRFBt9T9HrNAjP5pwl8wd) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:36 | 2022-12-16 |  |
 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:08 | 2022-12-16 |  |
+| [Niña Bonita \- Remix](https://open.spotify.com/track/6hR7NSSe8V3EBXYdeN7q9B) | [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Niña Bonita \(Remix\)](https://open.spotify.com/album/7qGJ5nkmntotdKepwPcQYk) | 3:42 | 2026-11-02 |  |
 | [No Me Resignare](https://open.spotify.com/track/0bmLUt1Gt466W82eREpJsH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:56 | 2022-12-16 |  |
 | [No Me Vuelvo a Ilusionar](https://open.spotify.com/track/4hgX90wBttJ4VZeSXEWJ6P) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:56 | 2022-12-16 |  |
 | [No Pude Olvidarte](https://open.spotify.com/track/55lwN8AEwtgdG9YDTXwKKh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 4:49 | 2022-12-16 |  |

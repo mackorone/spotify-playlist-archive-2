@@ -1130,10 +1130,32 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 151260,
       "name": "Tell Me More And More And Then Some - dublon Remix",
       "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
+    },
+    {
+      "album": {
+        "name": "Verve Remixed // Nina Simone",
+        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242029,
+      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
+      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
     },
     {
       "album": {

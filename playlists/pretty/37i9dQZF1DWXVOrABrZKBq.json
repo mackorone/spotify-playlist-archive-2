@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Heuss L'enfoir\u00e9, PLK",
-  "num_followers": 24847,
+  "num_followers": 24863,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/1peyUGGTK1VCTcX13D9pkr"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Baraque au Bled",
+      "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
         "name": "REQUIEM : MIEUX QU'HIER",
         "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "Mati\u00e8re Noire",
-        "url": "https://open.spotify.com/album/1peyUGGTK1VCTcX13D9pkr"
+        "name": "RANIA",
+        "url": "https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV"
       },
       "artists": [
         {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
         }
       ],
-      "duration_ms": 175346,
-      "name": "Baraque au Bled",
-      "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
+      "duration_ms": 222369,
+      "name": "RANIA",
+      "url": "https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "RANIA",
-        "url": "https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "RANIA",
-      "url": "https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "SALGOAT (Vol. 2)",
         "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "FRENCH CONNEXION, Pt.3",
-        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "FRENCH CONNEXION, Pt.3",
-      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "\u00c0 tes c\u00f4t\u00e9s",
         "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 147462,
       "name": "\u00c0 tes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "FRENCH CONNEXION, Pt.3",
+        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "FRENCH CONNEXION, Pt.3",
+      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -991,26 +991,18 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "ATL",
-        "url": "https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2"
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/7oIYfGvrSN74YK9cKCyxGq"
       },
       "artists": [
         {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 163465,
-      "name": "ATL",
-      "url": "https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt"
+      "duration_ms": 170382,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/2FuofUVE32dk7jRIvqirxU"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1047,18 +1039,26 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/7oIYfGvrSN74YK9cKCyxGq"
+        "name": "ATL",
+        "url": "https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         }
       ],
-      "duration_ms": 170382,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/2FuofUVE32dk7jRIvqirxU"
+      "duration_ms": 163465,
+      "name": "ATL",
+      "url": "https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "Dans la temp\u00eate",
-        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
-      },
-      "artists": [
-        {
-          "name": "HMZ",
-          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 150741,
-      "name": "Saison",
-      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "Dans la temp\u00eate",
+        "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
+      },
+      "artists": [
+        {
+          "name": "HMZ",
+          "url": "https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 150741,
+      "name": "Saison",
+      "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
         "name": "1981 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4g5gIL6vDqvTJ2fywP1oVy"
       },
@@ -1439,22 +1459,18 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/3aBWGrSwqmQwcEGpCvXXLu"
       },
       "artists": [
         {
-          "name": "Le Crime",
-          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
-        },
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
         }
       ],
-      "duration_ms": 176190,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+      "duration_ms": 187200,
+      "name": "Prohib\u00e9",
+      "url": "https://open.spotify.com/track/7oNYzT2f496mdWLzE4J7XK"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1491,22 +1507,6 @@
       "duration_ms": 198690,
       "name": "ZODIAC",
       "url": "https://open.spotify.com/track/2f4hDz8SlJuqHhPkkXN4QN"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
-        "name": "Sarah B.",
-        "url": "https://open.spotify.com/album/3aBWGrSwqmQwcEGpCvXXLu"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Prohib\u00e9",
-      "url": "https://open.spotify.com/track/7oNYzT2f496mdWLzE4J7XK"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 129880,
-      "name": "Tequila Shot",
-      "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
       },
@@ -1587,34 +1571,18 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "FENG SHUI",
-        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat"
       },
       "artists": [
         {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
         }
       ],
-      "duration_ms": 160320,
-      "name": "FENG SHUI",
-      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
-        "name": "MCM",
-        "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
-      },
-      "artists": [
-        {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "MCM",
-      "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
+      "duration_ms": 129880,
+      "name": "Tequila Shot",
+      "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1635,6 +1603,38 @@
       "duration_ms": 158776,
       "name": "INCOGNITO",
       "url": "https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "MCM",
+        "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "MCM",
+      "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "FENG SHUI",
+        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "FENG SHUI",
+      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "MONSIEUR LOYAL",
-        "url": "https://open.spotify.com/album/5JC5o4GqWtW677G9t5EexW"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 133080,
-      "name": "LES FOURMIS",
-      "url": "https://open.spotify.com/track/2EqnGIIrQmPcUpq5nskkPz"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "Devin Booker",
         "url": "https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt"
       },
@@ -1711,22 +1695,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "De ma fen\u00eatre",
-        "url": "https://open.spotify.com/album/1l7e95OCyOoPrxn5klPLfp"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Fran\u00e7ois Besse",
-      "url": "https://open.spotify.com/track/5U5FsHmXubZJsot12ebXlA"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "EXTASIAAAAA",
         "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
       },
@@ -1739,6 +1707,38 @@
       "duration_ms": 171776,
       "name": "L\u00c9 TAL",
       "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "MONSIEUR LOYAL",
+        "url": "https://open.spotify.com/album/5JC5o4GqWtW677G9t5EexW"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 133080,
+      "name": "LES FOURMIS",
+      "url": "https://open.spotify.com/track/2EqnGIIrQmPcUpq5nskkPz"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "De ma fen\u00eatre",
+        "url": "https://open.spotify.com/album/1l7e95OCyOoPrxn5klPLfp"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Fran\u00e7ois Besse",
+      "url": "https://open.spotify.com/track/5U5FsHmXubZJsot12ebXlA"
     },
     {
       "added_at": "2026-10-30 04:02:47",

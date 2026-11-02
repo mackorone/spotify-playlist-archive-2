@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with BigXthaPlug, Gunna, Megan Thee Stallion, and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,057 likes - 55 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,913 likes - 55 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

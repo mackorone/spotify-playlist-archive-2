@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Armin van Buuren & Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,482 likes - 105 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,477 likes - 105 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 76501,
+  "num_followers": 76498,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACxy9iYfJl1FSoPhazwLUA0",
+  "snapshot_id": "auUvgAAAAAD4TSpwRR2ZvNGNQy5Gpgco",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop Pesado",
-        "url": "https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Te vas alejando",
-      "url": "https://open.spotify.com/track/7IxEohlBivgdJMRC9p95Bg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C\u00d3DiGOS DE MU\u00d1EKA",
         "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 199148,
       "name": "SiNKRONiZAMOS",
       "url": "https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop Pesado",
+        "url": "https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Te vas alejando",
+      "url": "https://open.spotify.com/track/7IxEohlBivgdJMRC9p95Bg"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "abu$adora",
+        "url": "https://open.spotify.com/album/7uzyUfGXOjehThVwU91LTF"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "abu$adora",
+      "url": "https://open.spotify.com/track/3AKEFvc2d6yiXCDYdFfdx5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 239420,
       "name": "Me Decepcionaste",
       "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "abu$adora",
-        "url": "https://open.spotify.com/album/7uzyUfGXOjehThVwU91LTF"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "abu$adora",
-      "url": "https://open.spotify.com/track/3AKEFvc2d6yiXCDYdFfdx5"
     },
     {
       "added_at": null,

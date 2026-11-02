@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 
 > This is Chxrry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 839 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 | 9 | [Bible](https://open.spotify.com/track/72muCO9onwLshiUj0ni7jq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:53 |
 | 10 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 |
 | 11 | [The Falls](https://open.spotify.com/track/1RM9s6AbvAwESHrOZxU3Vq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:50 |
-| 12 | [Bottles & Lights](https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:25 |
+| 12 | [Hall of Fame](https://open.spotify.com/track/4IzjE27aZz4uYc9DruS2oo) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:11 |
 | 13 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
 | 14 | [Alone](https://open.spotify.com/track/7BF1cr6h98dIWhdXrBnRox) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 3:55 |
-| 15 | [Hall of Fame](https://open.spotify.com/track/4IzjE27aZz4uYc9DruS2oo) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:11 |
+| 15 | [Bottles & Lights](https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:25 |
 | 16 | [Ride 4 Me](https://open.spotify.com/track/7k8b7rSMp7MMfaLcKt4XVs) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:29 |
 | 17 | [The Other Side](https://open.spotify.com/track/59VW8y8ag9vwNNGrztCsMd) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:49 |
 | 18 | [Call Security](https://open.spotify.com/track/4guaicBZF35p1P5IQHheAV) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:22 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 | 20 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
 | 21 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 |
 
-Snapshot ID: `auKMgAAAAAApw8TMWlzZ3ztRGtNgcqvq`
+Snapshot ID: `auUvgAAAAAB8d9yySFblqY5GFBhft3L5`

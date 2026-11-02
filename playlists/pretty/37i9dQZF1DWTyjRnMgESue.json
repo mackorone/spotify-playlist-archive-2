@@ -335,6 +335,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "The Bend",
         "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Drink The Water (from the SURFILMUSIC Soundtrack)",
         "url": "https://open.spotify.com/album/24ZRYH7bU3IA8cyL8mjGQl"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 222857,
       "name": "Drink The Water",
       "url": "https://open.spotify.com/track/4NqIyYNBSkv0VMnwC3Rl74"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Sunflowers and Leather",
-        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Rattlesnake (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Sunflowers and Leather",
+        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 213419,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "4 songs",
         "url": "https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 184540,
       "name": "pull me out",
       "url": "https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 213419,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 187403,
-      "name": "Like The Rain",
-      "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 190923,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 187403,
+      "name": "Like The Rain",
+      "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/5l746yNWWESUlLuveqla2p"
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
       },
       "artists": [
         {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 160013,
-      "name": "KISSING",
-      "url": "https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P"
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5l746yNWWESUlLuveqla2p"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
         }
       ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+      "duration_ms": 160013,
+      "name": "KISSING",
+      "url": "https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "I Talk About You",
-        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "I Talk About You",
-      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Twilight Override",
         "url": "https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 263040,
       "name": "Caught Up In the Past",
       "url": "https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "I Talk About You",
+        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "I Talk About You",
+      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
     },
     {
       "added_at": "2026-09-04 04:02:01",

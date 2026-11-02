@@ -30821,6 +30821,28 @@
     },
     {
       "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/1wqaXS2ywUf72wrVEQKzrs"
+      },
+      "artists": [
+        {
+          "name": "Planet Asia",
+          "url": "https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200487,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/4Ir8aHokqildeFFR9xA7Oe"
+    },
+    {
+      "album": {
         "name": "Haunting (Slowed Down)",
         "url": "https://open.spotify.com/album/2cCkf1fozjBrPPEFuo302P"
       },
@@ -34440,7 +34462,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 123466,
       "name": "I LIKE IT (feat. Loe Shimmy)",
       "url": "https://open.spotify.com/track/27OOVdqE1aZI6scIxeES0T"
@@ -47538,6 +47560,24 @@
       "duration_ms": 112751,
       "name": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
       "url": "https://open.spotify.com/track/040LDuJ8MWKKhV9Fdwc64N"
+    },
+    {
+      "album": {
+        "name": "Mission Of Love",
+        "url": "https://open.spotify.com/album/3Zu5rXt5orELopk6ZH1J50"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Mission Of Love",
+      "url": "https://open.spotify.com/track/2L0MrJLBmAvtMMSdfdje2X"
     },
     {
       "album": {
@@ -74447,6 +74487,32 @@
     },
     {
       "album": {
+        "name": "The Sign (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4UTkTXiTjXCwlR3A2lOb8S"
+      },
+      "artists": [
+        {
+          "name": "Flourish",
+          "url": "https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7"
+        },
+        {
+          "name": "Wolf Cutt",
+          "url": "https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159416,
+      "name": "The Sign (Ti\u00ebsto Remix)",
+      "url": "https://open.spotify.com/track/2mpQ27UDus3ObaJV0wJ2f2"
+    },
+    {
+      "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
       },
@@ -75286,7 +75352,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 146392,
       "name": "Thin Ice",
       "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"
@@ -77602,7 +77668,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 264287,
       "name": "True Talk",
       "url": "https://open.spotify.com/track/65FgMHb4tFEy9cFkVPDLGv"

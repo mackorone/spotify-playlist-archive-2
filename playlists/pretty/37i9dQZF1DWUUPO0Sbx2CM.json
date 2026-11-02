@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 241358,
+  "num_followers": 241391,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "God Is Love",
-        "url": "https://open.spotify.com/album/3raWYstLV7sZ5AlOEs63Us"
+        "name": "ASOMBROSO",
+        "url": "https://open.spotify.com/album/3GcC6quUiV2rD3UdgreWqG"
       },
       "artists": [
         {
-          "name": "Vision of Leo",
-          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
-        },
-        {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
-        },
-        {
-          "name": "Nyman",
-          "url": "https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 222721,
-      "name": "God Is Love",
-      "url": "https://open.spotify.com/track/1bOZu4FZQPrXZ5jFjYSmGQ"
+      "duration_ms": 190143,
+      "name": "ASOMBROSO",
+      "url": "https://open.spotify.com/track/30CNQBNkzwcQI5CeHM8RH0"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -131,6 +123,30 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "God Is Love",
+        "url": "https://open.spotify.com/album/3raWYstLV7sZ5AlOEs63Us"
+      },
+      "artists": [
+        {
+          "name": "Vision of Leo",
+          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+        },
+        {
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+        },
+        {
+          "name": "Nyman",
+          "url": "https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "God Is Love",
+      "url": "https://open.spotify.com/track/1bOZu4FZQPrXZ5jFjYSmGQ"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Not Hopeless (Rave Jesus Remix)",
         "url": "https://open.spotify.com/album/11xBnpvOL5i7FwezgVwsH9"
       },
@@ -159,6 +175,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "YAHWEH",
+        "url": "https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 156964,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "You Say",
         "url": "https://open.spotify.com/album/5VIlrqMHyurkTbLFzSWRlz"
       },
@@ -183,38 +215,6 @@
       "duration_ms": 162531,
       "name": "You Say",
       "url": "https://open.spotify.com/track/0pjEw5bZaLpDNyVq8QOoKa"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "YAHWEH",
-        "url": "https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 156964,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "ASOMBROSO",
-        "url": "https://open.spotify.com/album/3GcC6quUiV2rD3UdgreWqG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 190143,
-      "name": "ASOMBROSO",
-      "url": "https://open.spotify.com/track/30CNQBNkzwcQI5CeHM8RH0"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -399,62 +399,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "What Are We Waiting For? (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/4uH31kFJI6iLJogC6gQHJ4"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
-        }
-      ],
-      "duration_ms": 189728,
-      "name": "What Are We Waiting For? (Gregatron Remix)",
-      "url": "https://open.spotify.com/track/7cppJoWsVXvMZDbv8bHQNA"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "ADONAI",
-        "url": "https://open.spotify.com/album/72HelvzO1kLosfAqH5xbau"
-      },
-      "artists": [
-        {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "ADONAI",
-      "url": "https://open.spotify.com/track/6T8KEJsD03OQenIa15lyP8"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Esto es Otra Cosa",
-        "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Nueva Temporada",
-      "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "My Help Comes from the Lord",
         "url": "https://open.spotify.com/album/6o8NMn2fp0LA4yIPKexsvP"
       },
@@ -479,6 +423,42 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "ADONAI",
+        "url": "https://open.spotify.com/album/72HelvzO1kLosfAqH5xbau"
+      },
+      "artists": [
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "ADONAI",
+      "url": "https://open.spotify.com/track/6T8KEJsD03OQenIa15lyP8"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "What Are We Waiting For? (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/4uH31kFJI6iLJogC6gQHJ4"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
+        }
+      ],
+      "duration_ms": 189728,
+      "name": "What Are We Waiting For? (Gregatron Remix)",
+      "url": "https://open.spotify.com/track/7cppJoWsVXvMZDbv8bHQNA"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "big energy.wav",
         "url": "https://open.spotify.com/album/441DOkBH454XFYiUZ9Z4x1"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 144798,
       "name": "big energy.wav",
       "url": "https://open.spotify.com/track/2Rh1hfKV3dg8WbWID4W5D2"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Esto es Otra Cosa",
+        "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Nueva Temporada",
+      "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "all i need is God",
         "url": "https://open.spotify.com/album/3OKM1CeCwQY1aeqmLeuh0K"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 127877,
       "name": "all i need is God",
       "url": "https://open.spotify.com/track/0lEw9va6qgMmLazeGWnbFK"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "crown",
+        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "crown",
+      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/0mEevGKejWZoxMBfUxCWPA"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 233617,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/79jc0351izWDJTdRSBYA3d"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "crown",
-        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "crown",
-      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1359,62 +1359,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Who I was",
-        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
-      },
-      "artists": [
-        {
-          "name": "Sintapia",
-          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
-        },
-        {
-          "name": "ZooFunktion",
-          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Who I Was",
-      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Energy (EchoStorms Remix)",
-        "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
-      },
-      "artists": [
-        {
-          "name": "LZ7",
-          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
-        },
-        {
-          "name": "EchoStorms",
-          "url": "https://open.spotify.com/artist/6buVxxQZC5V3NzSUjFOM8A"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Energy - EchoStorms Remix",
-      "url": "https://open.spotify.com/track/6GhjGsYPSglelleu3kIFmt"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
-      },
-      "artists": [
-        {
-          "name": "Kislaw",
-          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "S150",
         "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
       },
@@ -1435,18 +1379,58 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "SO GOOD !!!",
-        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+        "name": "Who I was",
+        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
       },
       "artists": [
         {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+          "name": "Sintapia",
+          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
+        },
+        {
+          "name": "ZooFunktion",
+          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
         }
       ],
-      "duration_ms": 120700,
-      "name": "SO GOOD !!!",
-      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
+      "duration_ms": 208800,
+      "name": "Who I Was",
+      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
+      },
+      "artists": [
+        {
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Energy (EchoStorms Remix)",
+        "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
+      },
+      "artists": [
+        {
+          "name": "LZ7",
+          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
+        },
+        {
+          "name": "EchoStorms",
+          "url": "https://open.spotify.com/artist/6buVxxQZC5V3NzSUjFOM8A"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Energy - EchoStorms Remix",
+      "url": "https://open.spotify.com/track/6GhjGsYPSglelleu3kIFmt"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "SO GOOD !!!",
+        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 120700,
+      "name": "SO GOOD !!!",
+      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Looking For Happiness",
         "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
       },
@@ -1499,6 +1499,30 @@
       "duration_ms": 143997,
       "name": "Looking For Happiness",
       "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Freddy Fercho",
+          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
+        },
+        {
+          "name": "Juan Carlos Ochoa",
+          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
+        }
+      ],
+      "duration_ms": 193208,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1527,30 +1551,6 @@
       "duration_ms": 416093,
       "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
       "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "You Love Me",
-        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Freddy Fercho",
-          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
-        },
-        {
-          "name": "Juan Carlos Ochoa",
-          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
-        }
-      ],
-      "duration_ms": 193208,
-      "name": "You Love Me",
-      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/10wcPx1WEMKA7ch9MY1cxn"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 216513,
+      "name": "Seen",
+      "url": "https://open.spotify.com/track/389KvTzmyE1B7lSQfzva9n"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 171467,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Seen",
-        "url": "https://open.spotify.com/album/10wcPx1WEMKA7ch9MY1cxn"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 216513,
-      "name": "Seen",
-      "url": "https://open.spotify.com/track/389KvTzmyE1B7lSQfzva9n"
     },
     {
       "added_at": "2026-10-30 04:00:37",

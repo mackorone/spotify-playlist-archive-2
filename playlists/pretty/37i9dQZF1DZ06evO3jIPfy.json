@@ -1,12 +1,12 @@
 {
   "description": "This is Yo-Yo Ma. The essential tracks, all in one playlist.",
-  "num_followers": 103989,
+  "num_followers": 103998,
   "original_name": "This Is Yo-Yo Ma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAfGl5zJw7+gKU3w34M3EiR",
+  "snapshot_id": "auUvgAAAAAB6rYioSLhu3maf4YhCifFX",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+        "name": "Essential Yo-Yo Ma",
+        "url": "https://open.spotify.com/album/528CHvW7EMT21kVKwZfu5N"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
-      "duration_ms": 176293,
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: IV. Sarabande",
-      "url": "https://open.spotify.com/track/7jOJwH4kze92qMREpVI4cr"
+      "duration_ms": 346853,
+      "name": "Tha\u00efs: M\u00e9ditation (Arr. for Cello & Piano)",
+      "url": "https://open.spotify.com/track/1suv0FzP6WA1rIK7tSJ1oH"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Yo-Yo Ma",
-        "url": "https://open.spotify.com/album/528CHvW7EMT21kVKwZfu5N"
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
       },
       "artists": [
         {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Kathryn Stott",
-          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
-      "duration_ms": 346853,
-      "name": "Tha\u00efs: M\u00e9ditation (Arr. for Cello & Piano)",
-      "url": "https://open.spotify.com/track/1suv0FzP6WA1rIK7tSJ1oH"
+      "duration_ms": 176293,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: IV. Sarabande",
+      "url": "https://open.spotify.com/track/7jOJwH4kze92qMREpVI4cr"
     },
     {
       "added_at": null,
@@ -499,150 +499,6 @@
       "duration_ms": 164680,
       "name": "Salut d'Amour, Op. 12",
       "url": "https://open.spotify.com/track/0P7UwPB9vL74bD6gzYaKIu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: V. Menuets I & II",
-      "url": "https://open.spotify.com/track/4JXQV1LS3lw09MwCFFASso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo-Yo Ma Plays Ennio Morricone (Remastered)",
-        "url": "https://open.spotify.com/album/1ZReq7RYxh0d0IqLONfBHk"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Roma Sinfonietta",
-          "url": "https://open.spotify.com/artist/4YfTc2eW16fPZ1O7Yncj9I"
-        }
-      ],
-      "duration_ms": 145146,
-      "name": "The Mission: The Falls",
-      "url": "https://open.spotify.com/track/7ufjlAqHC2ED4y8574RM6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beethoven for Three: Symphony No. 3 \"Eroica\" and Leonore Overture No. 3",
-        "url": "https://open.spotify.com/album/3Hw8f8DBaeohURaMuWo2Bb"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Leonidas Kavakos",
-          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
-        },
-        {
-          "name": "Emanuel Ax",
-          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
-        },
-        {
-          "name": "Antoine Tamestit",
-          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
-        }
-      ],
-      "duration_ms": 812000,
-      "name": "Leonore Overture No. 3 in C Major, Op. 72b",
-      "url": "https://open.spotify.com/track/3Yz8BuiJ47zkKpbYhFPHMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs from the Arc of Life",
-        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Kathryn Stott",
-          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
-        }
-      ],
-      "duration_ms": 116920,
-      "name": "Songs My Mother Taught Me (from \"Gypsy Songs\", Op. 55, No. 4)",
-      "url": "https://open.spotify.com/track/0q4XPi4qT3dFf4sO5QflQm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 107626,
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue",
-      "url": "https://open.spotify.com/track/7BWwT75IPTKbHbxn4P6Bwm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo-Yo Ma Plays Ennio Morricone (Remastered)",
-        "url": "https://open.spotify.com/album/1ZReq7RYxh0d0IqLONfBHk"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Roma Sinfonietta",
-          "url": "https://open.spotify.com/artist/4YfTc2eW16fPZ1O7Yncj9I"
-        }
-      ],
-      "duration_ms": 108986,
-      "name": "Giuseppe Tornatore Suite: Playing Love from \"The Legend of 1900\"",
-      "url": "https://open.spotify.com/track/393qU26zNVIQNzdBxWQPek"
     },
     {
       "added_at": null,
@@ -707,6 +563,150 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo-Yo Ma Plays Ennio Morricone (Remastered)",
+        "url": "https://open.spotify.com/album/1ZReq7RYxh0d0IqLONfBHk"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Roma Sinfonietta",
+          "url": "https://open.spotify.com/artist/4YfTc2eW16fPZ1O7Yncj9I"
+        }
+      ],
+      "duration_ms": 145146,
+      "name": "The Mission: The Falls",
+      "url": "https://open.spotify.com/track/7ufjlAqHC2ED4y8574RM6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: V. Menuets I & II",
+      "url": "https://open.spotify.com/track/4JXQV1LS3lw09MwCFFASso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs from the Arc of Life",
+        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "duration_ms": 116920,
+      "name": "Songs My Mother Taught Me (from \"Gypsy Songs\", Op. 55, No. 4)",
+      "url": "https://open.spotify.com/track/0q4XPi4qT3dFf4sO5QflQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beethoven for Three: Symphony No. 3 \"Eroica\" and Leonore Overture No. 3",
+        "url": "https://open.spotify.com/album/3Hw8f8DBaeohURaMuWo2Bb"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "duration_ms": 812000,
+      "name": "Leonore Overture No. 3 in C Major, Op. 72b",
+      "url": "https://open.spotify.com/track/3Yz8BuiJ47zkKpbYhFPHMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo-Yo Ma Plays Ennio Morricone (Remastered)",
+        "url": "https://open.spotify.com/album/1ZReq7RYxh0d0IqLONfBHk"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Roma Sinfonietta",
+          "url": "https://open.spotify.com/artist/4YfTc2eW16fPZ1O7Yncj9I"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "Giuseppe Tornatore Suite: Playing Love from \"The Legend of 1900\"",
+      "url": "https://open.spotify.com/track/393qU26zNVIQNzdBxWQPek"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 107626,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue",
+      "url": "https://open.spotify.com/track/7BWwT75IPTKbHbxn4P6Bwm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -727,26 +727,6 @@
       "duration_ms": 91493,
       "name": "Sayuri's Theme (From \"Memoirs of a Geisha\" Soundtrack)",
       "url": "https://open.spotify.com/track/0RGZCtszeCpGRgbMyVigAG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: III. Courante",
-      "url": "https://open.spotify.com/track/70rlzUf9y1skkI3agyvbjg"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: III. Courante",
+      "url": "https://open.spotify.com/track/70rlzUf9y1skkI3agyvbjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Six Evolutions - Bach: Cello Suites",
         "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 207800,
       "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: V. Menuets I & II",
       "url": "https://open.spotify.com/track/52ef2T9KALMGFdLt3RdeUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/0dDcSr2vBxvILNB8oTpI01"
     },
     {
       "added_at": null,
@@ -863,30 +843,6 @@
       "duration_ms": 362520,
       "name": "While My Guitar Gently Weeps (feat. India.Arie & Yo-Yo Ma)",
       "url": "https://open.spotify.com/track/6s6nuBUe2alx3Rfk9JLPij"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Appassionato",
-        "url": "https://open.spotify.com/album/7abtu4eie5vhF1c9LyZKYy"
-      },
-      "artists": [
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Roma Sinfonietta",
-          "url": "https://open.spotify.com/artist/4YfTc2eW16fPZ1O7Yncj9I"
-        }
-      ],
-      "duration_ms": 113200,
-      "name": "Cinema Paradiso: Looking for You from Giuseppe Tornatore Suite",
-      "url": "https://open.spotify.com/track/40bGG826j9SAPf6XKr6sLF"
     },
     {
       "added_at": null,
@@ -924,9 +880,33 @@
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
-      "duration_ms": 304346,
-      "name": "Cello Suite No. 4 in E-Flat Major, BWV 1010: V. Bourr\u00e9es I & II",
-      "url": "https://open.spotify.com/track/7pEmROhQAmH6xGjhlaMTEm"
+      "duration_ms": 290226,
+      "name": "Cello Suite No. 4 in E-Flat Major, BWV 1010: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/0dDcSr2vBxvILNB8oTpI01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appassionato",
+        "url": "https://open.spotify.com/album/7abtu4eie5vhF1c9LyZKYy"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        },
+        {
+          "name": "Roma Sinfonietta",
+          "url": "https://open.spotify.com/artist/4YfTc2eW16fPZ1O7Yncj9I"
+        }
+      ],
+      "duration_ms": 113200,
+      "name": "Cinema Paradiso: Looking for You from Giuseppe Tornatore Suite",
+      "url": "https://open.spotify.com/track/40bGG826j9SAPf6XKr6sLF"
     },
     {
       "added_at": null,
@@ -975,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 304346,
+      "name": "Cello Suite No. 4 in E-Flat Major, BWV 1010: V. Bourr\u00e9es I & II",
+      "url": "https://open.spotify.com/track/7pEmROhQAmH6xGjhlaMTEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivaldi's Cello (Remastered)",
         "url": "https://open.spotify.com/album/36eVEeDGGTRLsab8AzI2Yj"
       },
@@ -999,38 +999,6 @@
       "duration_ms": 210266,
       "name": "Concerto in B-flat Major for Cello, Strings and Basso continuo, RV 423: III. Allegro",
       "url": "https://open.spotify.com/track/2FDBZsJdZf1xeUsdMlH76j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
-        "url": "https://open.spotify.com/album/0Z3NEbszFJ6dMTCIloKdQP"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Leonidas Kavakos",
-          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
-        },
-        {
-          "name": "Emanuel Ax",
-          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
-        },
-        {
-          "name": "Antoine Tamestit",
-          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
-      "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
     },
     {
       "added_at": null,
@@ -1095,6 +1063,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
+        "url": "https://open.spotify.com/album/0Z3NEbszFJ6dMTCIloKdQP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Appassionato",
         "url": "https://open.spotify.com/album/7abtu4eie5vhF1c9LyZKYy"
       },
@@ -1147,6 +1147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/2vO5wNNXjXU28OWp5gyHEO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 159533,
       "name": "The Chairman's Waltz (From \"Memoirs of a Geisha\" Soundtrack)",
       "url": "https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Six Evolutions - Bach: Cello Suites",
-        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/2vO5wNNXjXU28OWp5gyHEO"
     },
     {
       "added_at": null,
@@ -1239,6 +1239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 108413,
+      "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: III. Courante",
+      "url": "https://open.spotify.com/track/1xvvuNKdndTwtS6EH4AxFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Goat Rodeo Sessions",
         "url": "https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 341855,
       "name": "Attaboy",
       "url": "https://open.spotify.com/track/2Y0tFR4iYR57EnBK4mf34l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Six Evolutions - Bach: Cello Suites",
-        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 108413,
-      "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: III. Courante",
-      "url": "https://open.spotify.com/track/1xvvuNKdndTwtS6EH4AxFZ"
     },
     {
       "added_at": null,

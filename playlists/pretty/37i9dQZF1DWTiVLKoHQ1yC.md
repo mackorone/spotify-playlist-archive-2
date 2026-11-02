@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,594 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,653 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 29 | [Feel The Beat Of My Heart](https://open.spotify.com/track/4NVvZMu1g4JijcxDD2puSt) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Feel The Beat Of My Heart](https://open.spotify.com/album/67TKhqqjMVTO6LJpGRAy10) | 2:10 |
 | 30 | [Like I Do](https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Like I Do](https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA) | 2:38 |
 | 31 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
-| 32 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
-| 33 | [Sunday Sunrise](https://open.spotify.com/track/3yn9JKlURgymXnZzl7E9ht) | [Martim Rola](https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt) | [Sunday Sunrise](https://open.spotify.com/album/3BU5kYeGA0c5DvgwP3mryt) | 3:17 |
+| 32 | [Sunday Sunrise](https://open.spotify.com/track/3yn9JKlURgymXnZzl7E9ht) | [Martim Rola](https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt) | [Sunday Sunrise](https://open.spotify.com/album/3BU5kYeGA0c5DvgwP3mryt) | 3:17 |
+| 33 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 |
 | 34 | [Save Me](https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [CAMELPHAT](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Save Me](https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte) | 3:32 |
 | 35 | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx) | 2:39 |
 | 36 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 38 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 |
 | 39 | [Major Drop](https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Major Drop](https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk) | 3:10 |
 | 40 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
-| 41 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
-| 42 | [Spacer](https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Michael Anthony](https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2) | [Spacer](https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK) | 3:04 |
+| 41 | [Spacer](https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Michael Anthony](https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2) | [Spacer](https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK) | 3:04 |
+| 42 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
 | 43 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
 | 44 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 45 | [Just Can't Stop](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB), [flyckt](https://open.spotify.com/artist/7gqK3L4rJ38jXJTuaymRs9) | [Just Can't Stop](https://open.spotify.com/album/4g6vXqmOf7qusOBDp5nWWJ) | 3:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 55 | [Forgive Them](https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [City Reverie](https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4) | 3:32 |
 | 56 | [I Never Want This To End](https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [I Never Want This To End EP](https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw) | 2:58 |
 | 57 | [Man On Fire](https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Man On Fire](https://open.spotify.com/album/00FLZ59B8FtGV9IVFuWKlj) | 3:06 |
-| 58 | [When I Look In Your Eyes](https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj) | [When I Look In Your Eyes](https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj) | 3:33 |
-| 59 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
+| 58 | [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 |
+| 59 | [When I Look In Your Eyes](https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj) | [When I Look In Your Eyes](https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj) | 3:33 |
 | 60 | [Burn For You](https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Burn For You](https://open.spotify.com/album/48ydweaf3dibsmtvnscQFj) | 2:41 |
 
 Snapshot ID: `AAAAAB9oH6jdJsQbtqZ6QllFChgDoK0K`

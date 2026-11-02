@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 160478,
+  "num_followers": 160510,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
+        "url": "https://open.spotify.com/album/565HTqHjIx6LIELWCWjt8F"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 249249,
+      "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7mpaRCyqIZ5Tj5wTB5612U"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 235666,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
-        "url": "https://open.spotify.com/album/565HTqHjIx6LIELWCWjt8F"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 249249,
-      "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Automatic For The People (U.S. Version)",
-        "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 318240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 271760,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Automatic For The People (U.S. Version)",
+        "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 318240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "21' Sampler",
+        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "20 Mejores Melodias Encadenadas Vol.5",
         "url": "https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA"
       },
@@ -799,6 +815,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276253,
+      "name": "My Way - Remastered 2008",
+      "url": "https://open.spotify.com/track/5XAGevtAmPWTN9kyaJwFbx"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "A Night At The Opera",
         "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
       },
@@ -815,22 +847,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "21' Sampler",
-        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Ultimate",
         "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 293573,
       "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
       "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276253,
-      "name": "My Way - Remastered 2008",
-      "url": "https://open.spotify.com/track/5XAGevtAmPWTN9kyaJwFbx"
     },
     {
       "added_at": "2024-06-14 18:07:20",

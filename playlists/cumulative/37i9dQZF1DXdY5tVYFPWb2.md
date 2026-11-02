@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-988 songs - 2 day 17 hr 0 min
+989 songs - 2 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,7 @@
 | [あなたとContigo](https://open.spotify.com/track/5VTCQoa0aLoSxZcked94A5) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Telepa Telepa](https://open.spotify.com/album/4ZepYRvl5D4aMx3WSVdorF) | 3:20 | 2025-03-25 | 2025-10-01 |
 | [あなたの形の霧の中で](https://open.spotify.com/track/45BS4oogIChJr66wJtiYuz) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [あなたの形の霧の中で](https://open.spotify.com/album/18X1VeLsXy0TtwayYiUm5r) | 4:14 | 2026-05-26 | 2026-08-26 |
 | [あなたはトリコ](https://open.spotify.com/track/2gkYR4SyJu4TDHz8r39B7y) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [あなたはトリコ](https://open.spotify.com/album/6FceyUYmiyCgs67TWi3OhA) | 4:45 | 2024-04-23 | 2024-08-03 |
-| [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 |  |
+| [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 | 2026-11-02 |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 | 2026-10-21 |
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-05-14 | 2024-07-31 |
 | [あれはたしかSEPTEMBER](https://open.spotify.com/track/791HxlnHPH2qEATdus4Uyq) | [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [DREAMIN'](https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI) | 3:49 | 2023-08-01 | 2023-08-03 |
@@ -839,6 +839,7 @@
 | [乙女の剣](https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [乙女の剣](https://open.spotify.com/album/54rGAYE7lUEKMIDE2zdLt1) | 3:36 | 2026-10-20 |  |
 | [低気圧ボーイ](https://open.spotify.com/track/4vZMcTObOGq67qN6aiDgim) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [低気圧ボーイ](https://open.spotify.com/album/12wpyZQ1Y3JKoQPhUrECsW) | 4:33 | 2022-06-21 | 2022-07-13 |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
+| [元気にしてた？](https://open.spotify.com/track/3BuvSvdcWB5MTEbbxWJhdp) | [齊藤京子](https://open.spotify.com/artist/1nP8BuW6kU5YCRzxfCqLCL) | [元気にしてた？](https://open.spotify.com/album/3ytBar1hZ3Wrt44YdJy6DC) | 3:37 | 2026-10-20 |  |
 | [入江にて](https://open.spotify.com/track/5xHubhwMi8QcbEz6ZpinEa) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [Sunset Rain](https://open.spotify.com/album/22BSXUMxOXc7ld5DxexT6J) | 4:08 | 2023-03-21 | 2023-03-29 |
 | [出ていけ！カレシ！](https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [出ていけ！カレシ！](https://open.spotify.com/album/6FucYwKJxu8VRNCzvrMWIx) | 4:21 | 2024-01-09 | 2024-01-20 |
 | [君とdrive](https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [君とdrive](https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK) | 4:19 | 2024-04-16 |  |

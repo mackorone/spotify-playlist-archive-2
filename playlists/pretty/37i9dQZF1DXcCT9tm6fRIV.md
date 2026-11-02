@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,453 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,457 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 49 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 |
 | 50 | [El Corazón al Sur](https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Ramón Maschio](https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh) | [Canciones del Sur](https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy) | 3:25 |
 | 51 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
-| 52 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
-| 53 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 |
+| 52 | [Ave de Paso](https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Oro y Plata](https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV) | 3:11 |
+| 53 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
 | 54 | [Las Ciudades](https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Piazzolla & Amelita Baltar](https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw) | 4:36 |
 | 55 | [Muchacha \(ojos de papel\)](https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW) | [Spinettango](https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Muchacha \(ojos de papel\)](https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl) | 3:18 |
 | 56 | [Pompas de Jabón](https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A), [Baffa\-Berlingieri](https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd) | [15 Grandes Exitos \- Los Discos De Oro De Roberto Goyeneche](https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8) | 2:56 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 77 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
 | 78 | [Payada Gardel\-Razzano](https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [De Criollos y Tangueros](https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU) | 4:13 |
 | 79 | [Quedemonos Aqui \- En Vivo](https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 3:56 |
-| 80 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |
+| 80 | [Tangos \(Arr\. Vidal\): Decaríssimo](https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Lluís Vidal](https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH), [Orquestra De Cambra Teatre Lliure](https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr), [Josep Pons](https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV) | [Piazzolla: Bandonéon Concerto; Tangos](https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN) | 2:43 |
 
 Snapshot ID: `AAAAANV2oecekVoDN98ceKJV6Ymp4XF8`

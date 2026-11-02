@@ -777,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/0grJkMKGVIVifMXroFp6pn"
+      },
+      "artists": [
+        {
+          "name": "Los Internacionales V\u00e1skez De Rolando \"El Tibur\u00f3n\"",
+          "url": "https://open.spotify.com/artist/10tFywSQ9iXCXns61s3RCL"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214875,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7Fbi5BRtKEvj9Kix4lfLxw"
+    },
+    {
+      "album": {
         "name": "X Aniversario En Vivo Desde Mty",
         "url": "https://open.spotify.com/album/1pnuGKjAtIjIpX4Vk8wEmm"
       },
@@ -2048,7 +2070,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 194021,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,811 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,813 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 49 | [La Vida Sigue Igual](https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Todo](https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95) | 5:50 |
 | 50 | [Colegiala \(La\)](https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:58 |
 | 51 | [Ya Te Olvide](https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Manuel, Solo Y Con Los Sabrosos Del Merengue](https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH) | 4:46 |
-| 52 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
-| 53 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 52 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 53 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
 | 54 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 |
 | 55 | [Bailando](https://open.spotify.com/track/6aM2gI3fpSOXRuq5EecqTH) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 4:33 |
 | 56 | [Te Amo](https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Canta Manny Manuel](https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK) | 4:47 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 75 | [Melina](https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Edición Limitada](https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0) | 4:26 |
 | 76 | [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 |
 | 77 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |
-| 78 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 |
+| 78 | [Si Algun Dia la Ves](https://open.spotify.com/track/6RiDziyC7ycj1wCmAWr808) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo) | 4:44 |
 | 79 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
 | 80 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
 | 81 | [Ay Doctor](https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [!Ay Doctor!](https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0) | 5:02 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 127 | [Hecha Para Mi](https://open.spotify.com/track/1DbtNvGpWDRf2tD68leVQy) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:25 |
 | 128 | [Los Caminos De La Vida](https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Me Equivoque](https://open.spotify.com/album/4zXyOR4Y3Bas2anvleiOGZ) | 5:00 |
 | 129 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 |
-| 130 | [Si Algun Dia la Ves](https://open.spotify.com/track/6RiDziyC7ycj1wCmAWr808) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo) | 4:44 |
+| 130 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 |
 | 131 | [Jenny](https://open.spotify.com/track/0M72uHdSxJeBFulYmXmIeR) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 4:01 |
 | 132 | [Nadie Como Tú](https://open.spotify.com/track/4xWscZB7u3fzs49cxbw1QP) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Generaciones](https://open.spotify.com/album/4c2uimu7V6ICz4mRNW2ud0) | 4:29 |
 | 133 | [Quero Conocerte](https://open.spotify.com/track/64EvOShIj4iNaQa1Y2kCbo) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:48 |

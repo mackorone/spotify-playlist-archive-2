@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130585,
+  "num_followers": 130592,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Eclissi",
-        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Ciao Baby",
-      "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "ASTRO",
         "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 176838,
       "name": "1 MOMENTO (feat. ANNA)",
       "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Ciao Baby",
+      "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 169256,
-      "name": "TU",
-      "url": "https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "HOTEL MONTANA",
         "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 207400,
       "name": "Kiss You (F**k You) [feat. Geolier]",
       "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 169256,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "SOLO TUTTO",
-        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "STUPIDO",
-      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 202600,
       "name": "LEI (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "SOLO TUTTO",
+        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "STUPIDO",
+      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "UFORIA",
         "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 163939,
       "name": "2000 Pensieri",
       "url": "https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Mafia Slime 2",
-        "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
-      },
-      "artists": [
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
-        }
-      ],
-      "duration_ms": 185343,
-      "name": "A Lei",
-      "url": "https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "UFORIA",
         "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 179210,
       "name": "Tu ed io (feat. thasup, Finesse)",
       "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "Mafia Slime 2",
+        "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "duration_ms": 185343,
+      "name": "A Lei",
+      "url": "https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R"
     },
     {
       "added_at": "2026-08-26 22:01:25",

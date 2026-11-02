@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Polyphia
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,587 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,530 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 30 | [Heartclub](https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:07 |
 | 31 | [Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [A Stranger To You](https://open.spotify.com/album/6cIaFWlRULnxMrYsiRnBXv) | 3:25 |
 | 32 | [Beautiful Again](https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH) | 3:30 |
-| 33 | [House Of Matches](https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c) | 3:01 |
-| 34 | [Eye Of The Storm](https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Eye Of The Storm](https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp) | 3:15 |
-| 35 | [critic](https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [critic](https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm) | 2:26 |
+| 33 | [critic](https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [critic](https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm) | 2:26 |
+| 34 | [House Of Matches](https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c) | 3:01 |
+| 35 | [Eye Of The Storm](https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Eye Of The Storm](https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp) | 3:15 |
 | 36 | [Landfall](https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Landfall](https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE) | 3:42 |
 | 37 | [DOOM LOOP](https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [DOOM LOOP](https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC) | 4:00 |
-| 38 | [Zero Day](https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Zero Day](https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV) | 2:25 |
+| 38 | [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 |
 | 39 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 |
-| 40 | [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 |
-| 41 | [Crucified](https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Crucified](https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE) | 4:23 |
-| 42 | [La Promesa](https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [La Promesa](https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5) | 3:11 |
-| 43 | [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 |
-| 44 | [\(I Used to Make Out With\) Medusa \- 2026 Repented](https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings \| Repented](https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO) | 6:05 |
-| 45 | [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 |
+| 40 | [Zero Day](https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Zero Day](https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV) | 2:25 |
+| 41 | [La Promesa](https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [La Promesa](https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5) | 3:11 |
+| 42 | [Crucified](https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Crucified](https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE) | 4:23 |
+| 43 | [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 |
+| 44 | [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 |
+| 45 | [\(I Used to Make Out With\) Medusa \- 2026 Repented](https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Count Your Blessings \| Repented](https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO) | 6:05 |
 | 46 | [Crestfallen](https://open.spotify.com/track/15tdjaSaSNFxjrKtj52kDZ) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Crestfallen](https://open.spotify.com/album/4Gh2aBuvIo91syfV3IaeYb) | 4:04 |
-| 47 | [Sweet Dreams](https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Sweet Dreams](https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D) | 3:07 |
-| 48 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
+| 47 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
+| 48 | [Sweet Dreams](https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Sweet Dreams](https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D) | 3:07 |
 | 49 | [Hunter](https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [At Work In The Fields Of The Bomb](https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R) | 7:16 |
 | 50 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 |
 | 51 | [If Not Now, When](https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [If Not Now, When](https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6) | 3:57 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 76 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
 | 77 | [Far](https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Far](https://open.spotify.com/album/0ER0N9enALbr72SfW154lP) | 3:28 |
 | 78 | [do or die](https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [do or die](https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk) | 3:24 |
-| 79 | [Modern Life Is Lonely](https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Modern Life Is Lonely](https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA) | 4:42 |
-| 80 | [Doom Tripping](https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Doom Tripping](https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ) | 4:13 |
+| 79 | [Doom Tripping](https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Doom Tripping](https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ) | 4:13 |
+| 80 | [Modern Life Is Lonely](https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Modern Life Is Lonely](https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA) | 4:42 |
 | 81 | [Bullshit](https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Bullshit](https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr) | 3:35 |
 | 82 | [Death To Something](https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Death To Something](https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4) | 4:32 |
 | 83 | [Black & Blue \- 2026 Repented](https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Black & Blue \(2026 Repented\)](https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm) | 4:32 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 93 | [Halo](https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [SIDE EFFECTS PT.1](https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K) | 3:16 |
 | 94 | [MISSING](https://open.spotify.com/track/2doVEgUhYXZbNw6u8J1f9m) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [MISSING](https://open.spotify.com/album/2UWQDA2qWX7liC1h0HqNvN) | 2:30 |
 | 95 | [Bruised](https://open.spotify.com/track/1EvYAo0qfXX8ug2tnzsRmO) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Bruised](https://open.spotify.com/album/0ofgnfS0nzFKnTWGEFy7Pz) | 2:53 |
-| 96 | [Reflection](https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Reflection](https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg) | 3:43 |
+| 96 | [Fatal Paradox](https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Fatal Paradox](https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo) | 2:42 |
 | 97 | [Blunt Force Blues](https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Blunt Force Blues](https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG) | 4:11 |
-| 98 | [Fatal Paradox](https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Fatal Paradox](https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo) | 2:42 |
+| 98 | [Reflection](https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Reflection](https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg) | 3:43 |
 | 99 | [Bad Faith](https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm) | 2:48 |
 | 100 | [Cry](https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Cry](https://open.spotify.com/album/775FTflkHkZfaZYP130ALj) | 3:25 |
 

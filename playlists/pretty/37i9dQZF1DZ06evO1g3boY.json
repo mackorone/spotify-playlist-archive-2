@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 175206,
+  "num_followers": 175232,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAWgrZ6jLK3f0ROcLqkieP4",
+  "snapshot_id": "auUvgAAAAAC4GJ6fUHWjFqoUb8PG5NjR",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Gosto de Sol",
-        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 194183,
-      "name": "Deixa acontecer",
-      "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
     },
     {
       "added_at": null,
@@ -259,22 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+        "name": "Um Gosto de Sol",
+        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         },
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 233320,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
+      "duration_ms": 194183,
+      "name": "Deixa acontecer",
+      "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
     },
     {
       "added_at": null,
@@ -483,6 +483,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "RPB/Para Tio",
+        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Puro Suco",
+          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "RPB",
+      "url": "https://open.spotify.com/track/6Kdkt4iI1mKmx2fH8ZrGUd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Mundo D\u00e1 Voltas",
         "url": "https://open.spotify.com/album/1fmt1VeCfsXnQTVQ9CgY8y"
       },
@@ -507,30 +531,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RPB/Para Tio",
-        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Puro Suco",
-          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
-        },
-        {
-          "name": "BEATDOMK",
-          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "RPB",
-      "url": "https://open.spotify.com/track/6Kdkt4iI1mKmx2fH8ZrGUd"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
-        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 188518,
-      "name": "DESCOBRIDOR",
-      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emicidio",
         "url": "https://open.spotify.com/album/7JcUXadRJlfoeo4Nj597CO"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 197746,
       "name": "Eu Gosto Dela",
       "url": "https://open.spotify.com/track/1fQ9v8EmKsTDzcrucB00K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
+        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 188518,
+      "name": "DESCOBRIDOR",
+      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Ooorra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
         "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
@@ -883,30 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RPB/Para Tio",
-        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "LR Beats",
-          "url": "https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7"
-        },
-        {
-          "name": "Damien Seth",
-          "url": "https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
         }
       ],
-      "duration_ms": 226285,
-      "name": "Para Tio",
-      "url": "https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS"
+      "duration_ms": 284693,
+      "name": "Ooorra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
     },
     {
       "added_at": null,
@@ -947,6 +919,34 @@
       "duration_ms": 344373,
       "name": "A mema pra\u00e7a",
       "url": "https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RPB/Para Tio",
+        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "LR Beats",
+          "url": "https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7"
+        },
+        {
+          "name": "Damien Seth",
+          "url": "https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Para Tio",
+      "url": "https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor \u00c9 Tudo de Bom",
-        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
-      },
-      "artists": [
-        {
-          "name": "Mundo Bita",
-          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "O Amor \u00c9 Tudo de Bom",
-      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
         "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
@@ -1055,38 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dai a Cesar o Que \u00c9 de Cesar",
-        "url": "https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH"
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
       },
       "artists": [
         {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Tibery",
-          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
-        },
-        {
-          "name": "Felipe Artioli",
-          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
-        },
-        {
-          "name": "NAVE",
-          "url": "https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Antes Que a Bala Perdida Me Ache",
-      "url": "https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV"
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     },
     {
       "added_at": null,
@@ -1143,6 +1107,42 @@
       "duration_ms": 170453,
       "name": "Trevo, Figuinha e Suor na Camisa",
       "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dai a Cesar o Que \u00c9 de Cesar",
+        "url": "https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Felipe Artioli",
+          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
+        },
+        {
+          "name": "NAVE",
+          "url": "https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Antes Que a Bala Perdida Me Ache",
+      "url": "https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV"
     }
   ],
   "unique_name": "This Is Emicida",

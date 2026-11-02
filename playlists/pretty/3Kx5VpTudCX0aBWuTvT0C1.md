@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,329 likes - 109 songs - 6 hr 32 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,329 likes - 111 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 107 | [café de los viernes \(el tiempo\)](https://open.spotify.com/track/5g86G6yvzEcDQRwvRUI5k9) | [MAZU](https://open.spotify.com/artist/2breQ5ihxCV86kdRRWHWBf) | [café de los viernes \(el tiempo\)](https://open.spotify.com/album/4rS1YJ7P7UWECrxDo7CtkY) | 2:25 |
 | 108 | [My Bow](https://open.spotify.com/track/7vfsMALBTyHIt0IJLK8SN4) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa), [Jezabel Martinez](https://open.spotify.com/artist/2ip1Pd2RxWbJLFwHgjrc1c) | [My Bow](https://open.spotify.com/album/15ha5azvbwWyriffkF1D2F) | 3:49 |
 | 109 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
+| 110 | [I Wanna Go Back](https://open.spotify.com/track/16T7nFn9uhXdRBVLt6hjU5) | [Noah Robertson](https://open.spotify.com/artist/7nBX9mLCLJLsasBHIkvXxE) | [I Wanna Go Back](https://open.spotify.com/album/2GwiAqlyzPVoi3wj5o0H1Q) | 3:25 |
+| 111 | [Don't cry](https://open.spotify.com/track/1NGAmWzbNu8ouD7hlNBqqc) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Don't cry](https://open.spotify.com/album/4ovPZqK4wSIeBD9SPPtu50) | 3:09 |
 
-Snapshot ID: `AAAC4XHs3HjcPTpNZc44PRRzRNRPut/O`
+Snapshot ID: `AAAC48hEhPzpnUuxhDG1wEodxxzY4UBj`

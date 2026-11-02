@@ -1,13 +1,125 @@
 {
   "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Tu Jhoothi Main Makkaar",
-  "num_followers": 561571,
+  "num_followers": 561732,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNUxtiB06hHBbDCu5RiB3TUKYyG",
+  "snapshot_id": "AAAAAHvBD+s9Fpn6aEIhXyKqhO9kU1Sd",
   "tracks": [
+    {
+      "added_at": "2026-10-09 05:34:55",
+      "album": {
+        "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
+        "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 266094,
+      "name": "Tere Pyaar Mein",
+      "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
+    },
+    {
+      "added_at": "2026-11-02 02:25:39",
+      "album": {
+        "name": "Tu Mil Jaaye (From \"KING\")",
+        "url": "https://open.spotify.com/album/2tZVL9wbyu3UXw9ctZ36X1"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Tu Mil Jaaye (From \"KING\")",
+      "url": "https://open.spotify.com/track/2g20aO38HBLIpg6NbCrjE3"
+    },
+    {
+      "added_at": "2026-10-09 05:34:55",
+      "album": {
+        "name": "Aavan Jaavan (From \"WAR 2\")",
+        "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 225535,
+      "name": "Aavan Jaavan (From \"WAR 2\")",
+      "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
+    },
+    {
+      "added_at": "2026-10-09 05:34:55",
+      "album": {
+        "name": "Jawan",
+        "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Chaleya",
+      "url": "https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv"
+    },
     {
       "added_at": "2026-10-09 05:34:55",
       "album": {
@@ -51,62 +163,6 @@
       "duration_ms": 159108,
       "name": "Malang Sajna",
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
-    },
-    {
-      "added_at": "2026-10-09 05:34:55",
-      "album": {
-        "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
-        "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 266094,
-      "name": "Tere Pyaar Mein",
-      "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
-    },
-    {
-      "added_at": "2026-10-09 05:34:55",
-      "album": {
-        "name": "Aavan Jaavan (From \"WAR 2\")",
-        "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 225535,
-      "name": "Aavan Jaavan (From \"WAR 2\")",
-      "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
     },
     {
       "added_at": "2026-10-09 05:34:55",
@@ -185,6 +241,22 @@
       "url": "https://open.spotify.com/track/5czJMpadRTKwheBXCfiJkm"
     },
     {
+      "added_at": "2026-10-09 05:34:55",
+      "album": {
+        "name": "Andhadhun (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "duration_ms": 210951,
+      "name": "Naina Da Kya Kasoor",
+      "url": "https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP"
+    },
+    {
       "added_at": "2026-10-23 03:53:17",
       "album": {
         "name": "The Everafter",
@@ -203,34 +275,6 @@
       "duration_ms": 214054,
       "name": "Jaadu",
       "url": "https://open.spotify.com/track/1naQotUFUSddNWbGsd6kRi"
-    },
-    {
-      "added_at": "2026-10-16 09:01:25",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4yxNmNIECVfdHVXznEzK4n"
-      },
-      "artists": [
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
-        },
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        }
-      ],
-      "duration_ms": 191024,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4PklS7o8eJTGx744IZUOH0"
     },
     {
       "added_at": "2026-10-09 05:34:55",
@@ -311,50 +355,6 @@
       "duration_ms": 178954,
       "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
       "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
-    },
-    {
-      "added_at": "2026-10-14 03:32:47",
-      "album": {
-        "name": "Heer",
-        "url": "https://open.spotify.com/album/1AtWoJ9GiG9E2aSW0PDtnt"
-      },
-      "artists": [
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
-        },
-        {
-          "name": "Gurpreet Saini",
-          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Heer",
-      "url": "https://open.spotify.com/track/2hVoqLqVg1CRLMG4zt0E3o"
-    },
-    {
-      "added_at": "2026-10-09 05:34:55",
-      "album": {
-        "name": "Andhadhun (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        }
-      ],
-      "duration_ms": 210951,
-      "name": "Naina Da Kya Kasoor",
-      "url": "https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP"
     },
     {
       "added_at": "2026-10-09 05:34:55",
@@ -773,6 +773,34 @@
       "url": "https://open.spotify.com/track/00Ydicbcw4f2bp1Yh9SAVG"
     },
     {
+      "added_at": "2026-10-16 09:01:25",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4yxNmNIECVfdHVXznEzK4n"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "duration_ms": 191024,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4PklS7o8eJTGx744IZUOH0"
+    },
+    {
       "added_at": "2026-10-09 05:34:55",
       "album": {
         "name": "Makhna (From \"Drive\")",
@@ -1067,34 +1095,6 @@
       "duration_ms": 287134,
       "name": "Ishq Di Baajiyaan",
       "url": "https://open.spotify.com/track/6gHVMInOPMsA4ujf0nWHSt"
-    },
-    {
-      "added_at": "2026-10-09 05:34:55",
-      "album": {
-        "name": "Jawan",
-        "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Chaleya",
-      "url": "https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv"
     },
     {
       "added_at": "2026-10-09 05:34:55",

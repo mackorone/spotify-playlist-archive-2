@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,382 likes - 277 songs - 17 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 277 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 103 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 |
 | 104 | [Age of Apathy](https://open.spotify.com/track/3ZzMnokqu1zCrHI9NJviKj) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:58 |
 | 105 | [Electricity](https://open.spotify.com/track/2NMElDA4A4dvY9kcPilC9n) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/39ehhJZ21SnOepT4RoNgmO) | 3:03 |
-| 106 | [Dreamland](https://open.spotify.com/track/5XW3N712ZKk671xYEKKBtf) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [A Father's Lullaby \(Deluxe Edition\)](https://open.spotify.com/album/2wMu9rUX2LwtYyY7qm9cjt) | 4:38 |
-| 107 | [Soul Is A Star](https://open.spotify.com/track/4ICqFn2E5X7wINlmXNrVGj) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/0pi649ICghmlm3qNFddjRv) | 3:17 |
+| 106 | [Soul Is A Star](https://open.spotify.com/track/4ICqFn2E5X7wINlmXNrVGj) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/0pi649ICghmlm3qNFddjRv) | 3:17 |
+| 107 | [Dreamland](https://open.spotify.com/track/5XW3N712ZKk671xYEKKBtf) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [A Father's Lullaby \(Deluxe Edition\)](https://open.spotify.com/album/2wMu9rUX2LwtYyY7qm9cjt) | 4:38 |
 | 108 | [Banquet](https://open.spotify.com/track/0ZuvJuuG2kZx97L9twGVPN) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/39ehhJZ21SnOepT4RoNgmO) | 3:03 |
 | 109 | [Not to Blame](https://open.spotify.com/track/5QUBmoVPLT25eaeesozYrf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 4:18 |
 | 110 | [See You Sometime](https://open.spotify.com/track/5W34HawVJ8yI5GwWXC1FoM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/39ehhJZ21SnOepT4RoNgmO) | 2:59 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 276 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 277 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AcgcsAAAAADqXjpnsqpaej4s48fLAYuw`
+Snapshot ID: `AcgijAAAAAAJfEqAe1KscIgmoL+kw8eW`

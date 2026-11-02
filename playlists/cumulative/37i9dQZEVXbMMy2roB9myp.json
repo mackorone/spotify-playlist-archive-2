@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 188423,
       "name": "Amor de Vago",
       "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 154502,
       "name": "BAILAR O MORIR",
       "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
@@ -5816,7 +5816,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 200653,
       "name": "COMPA COLETO (uy_como)",
       "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
@@ -14818,7 +14818,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -25560,7 +25560,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
@@ -25974,7 +25974,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 196559,
       "name": "Si No Es Muy Tarde - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/65AR7sjBz1cXjDO0BnnFRp"
@@ -26816,7 +26816,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -27120,6 +27120,24 @@
       "duration_ms": 184807,
       "name": "TANTO DESORDEN",
       "url": "https://open.spotify.com/track/1m4KyhkTyvllZDPfIY14Sr"
+    },
+    {
+      "album": {
+        "name": "TAPA LA CARA",
+        "url": "https://open.spotify.com/album/3ALiOmVFZ2TZbngtuaTk3A"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160620,
+      "name": "TAPA LA CARA",
+      "url": "https://open.spotify.com/track/5RFLmBGJbcD5nFHFYA3FXo"
     },
     {
       "album": {
@@ -29500,7 +29518,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 214125,
       "name": "T\u00fa No Lo Amas",
       "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
@@ -32490,7 +32508,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 160510,
       "name": "\u00bfQui\u00e9n te dijo? - En Vivo",
       "url": "https://open.spotify.com/track/7D3INyQTrKEkKzWJe4Eigr"

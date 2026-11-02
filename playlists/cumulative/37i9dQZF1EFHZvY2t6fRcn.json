@@ -3599,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "COMING OF AGE",
+        "url": "https://open.spotify.com/album/4W3wCFg1EMEg6ALG47mS5f"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158351,
+      "name": "THE MOVEMENT",
+      "url": "https://open.spotify.com/track/7urjWk4GVZ94gTpRInEvAh"
+    },
+    {
+      "album": {
         "name": "The Night (belongs to lovers)",
         "url": "https://open.spotify.com/album/5naJHMgqYdZycqUSE3Vi9D"
       },

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 39 likes - 11 songs - 42 min 54 sec
+[royva06](https://open.spotify.com/user/royva06) - 39 likes - 11 songs - 40 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crying Laughing Loving Lying \(From "The Holdovers"\)](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 |
-| 2 | [Mountain Queen](https://open.spotify.com/track/7B3vlydTgi16aYoGokv0qX) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 2:57 |
-| 3 | [Try Again](https://open.spotify.com/track/54uLTcjNraWuwjqLrDhG23) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/1ftUEfy0whqUibQrUY6wNT) | 4:44 |
-| 4 | [Ra Ra Etc.](https://open.spotify.com/track/6FzhD1qFwYfzgVfY7ECni5) | [Me Like Bees](https://open.spotify.com/artist/6b0G9aPXmaLLDWJHhCrv1Q) | [The Ides](https://open.spotify.com/album/2UC6E2eFp6ixqvbe4oVjex) | 3:24 |
-| 5 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 |
-| 6 | [Stories up High](https://open.spotify.com/track/4QiL2el2iAfbToqtmrgPqb) | [Laney Jones](https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS) | [Stories up High](https://open.spotify.com/album/2Obbm5E6IR6nNBmvSKrcl9) | 2:58 |
-| 7 | [Washer](https://open.spotify.com/track/3oNP9Gh1NY4sjqaVUaNjTQ) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 8:50 |
-| 8 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |
-| 9 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 |
-| 10 | [Canyon](https://open.spotify.com/track/1Hf2JdAVewsNTWKumoo67k) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Wish You Were Here](https://open.spotify.com/album/7d0SVeZ9lBZ83EBAn6DgWu) | 2:44 |
-| 11 | [Blue \(Da Ba Dee\) \- Gabry Ponte Video Edit](https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 3:39 |
+| 1 | [The Town I Live In \- Original Version](https://open.spotify.com/track/79DQJbKVZty7GRnr9fMYzT) | [McKinley Mitchell](https://open.spotify.com/artist/24Z0p1WmIFcsp30Kl5Nicw) | [The One\-Derful! Collection: One\-Derful! Records](https://open.spotify.com/album/6Ew95Jq4RvmjBeFMG3ePDa) | 2:46 |
+| 2 | [Paid Time Off](https://open.spotify.com/track/3IBLeIzqewsCR4Pvp5jqD3) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 3:47 |
+| 3 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
+| 4 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 |
+| 5 | [All the Debts I Owe](https://open.spotify.com/track/3mg2GWeQoe9QnXizWvyAr2) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/2vUB37lx6QDXvF7wPmPkFr) | 3:13 |
+| 6 | [Something About The Way You Look Tonight \- Edit Version](https://open.spotify.com/track/5LjSxAIKwyZvQqJ04ZQ0Da) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:00 |
+| 7 | [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 |
+| 8 | [I Saw My Twin](https://open.spotify.com/track/0QqIJ2o57gKmjUou1JOFF5) | [Hop Along](https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp) | [Painted Shut](https://open.spotify.com/album/16fimHkQtXptYBytXfHfUs) | 3:23 |
+| 9 | [The Unguarded Moment \- 2002 Remastered](https://open.spotify.com/track/00W0z4GR2fU8v11dhszOdw) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Of Skins And Heart](https://open.spotify.com/album/3QFUhbSxlj6Ajwx90mdHO4) | 4:14 |
+| 10 | [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 5:34 |
+| 11 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
 
-Snapshot ID: `AAAMtygTeL7hYejOzA0NbOdmbAhYHwI5`
+Snapshot ID: `AAAMzUBK3sF2cBGfQ5NPtNQYdL1/JTiB`

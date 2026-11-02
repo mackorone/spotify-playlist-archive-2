@@ -28709,6 +28709,28 @@
     },
     {
       "album": {
+        "name": "Minuana",
+        "url": "https://open.spotify.com/album/7MqjhzkQIN1ce0JIMeOfz5"
+      },
+      "artists": [
+        {
+          "name": "Ayllu Project",
+          "url": "https://open.spotify.com/artist/3KNIsls78ngMH4muPLQEeW"
+        },
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209228,
+      "name": "Minuana",
+      "url": "https://open.spotify.com/track/61hfnG3sWitCGTEGqnr28F"
+    },
+    {
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/2yWCvhmN1z9qcVuwSGON9d"
       },

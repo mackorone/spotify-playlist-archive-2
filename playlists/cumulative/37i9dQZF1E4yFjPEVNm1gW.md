@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Cuo Zay and more
 
-356 songs - 13 hr 53 min
+357 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Boys Don’t Cry](https://open.spotify.com/track/0uNKyWtOudnH1fnNlwHywQ) | [YDG Breezy](https://open.spotify.com/artist/40wED5G8ggmynCzzr6Z9bM) | [Nightmare On Gardens St](https://open.spotify.com/album/5MUtxI5q19RNyq0ySlrBID) | 2:34 | 2025-12-13 | 2025-12-16 |
 | [Bruce Wayne](https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m) | [Slash4L](https://open.spotify.com/artist/3n6TbPQYtcx4F1w9Yg388N) | [World Class](https://open.spotify.com/album/3NlvDTSCXBRcGGLsEWmXEe) | 2:05 | 2026-03-26 | 2026-04-06 |
 | [Budget](https://open.spotify.com/track/6L2b6JI3ANJeGmFHdPW7SN) | [BADNEWZJIZZ](https://open.spotify.com/artist/4UcaI2RROaYWPoCGKgOqtt) | [Am I The Profit](https://open.spotify.com/album/1u2yqxrbRvvWybPwSWBjbG) | 2:52 | 2026-01-02 | 2026-01-04 |
-| [buss out](https://open.spotify.com/track/58GGyuw63QOWRrtkMlCsaa) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [buss out](https://open.spotify.com/album/34ncOrnimLD1vL3vVY9rV4) | 2:30 | 2026-10-28 |  |
+| [buss out](https://open.spotify.com/track/58GGyuw63QOWRrtkMlCsaa) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [buss out](https://open.spotify.com/album/34ncOrnimLD1vL3vVY9rV4) | 2:30 | 2026-10-28 | 2026-11-02 |
 | [BUTTERCUP](https://open.spotify.com/track/5CZnd1cnvccvT0dJVsqdF0) | [JimiSAG](https://open.spotify.com/artist/7wE6uom6u4lFCqkvZgBVV9) | [LYFE !N GREEN](https://open.spotify.com/album/2N31HRXVry26aE5r1T5ECq) | 1:56 | 2026-02-03 | 2026-02-16 |
 | [can i get a kiss?](https://open.spotify.com/track/1zwiH0mNMsGXUAPAHc9bij) | [brxbandz](https://open.spotify.com/artist/7rc1zn1vIGqvykU0x2FAJb) | [crash life](https://open.spotify.com/album/2Ah6LQleoaiHyoA77ACfTq) | 1:37 | 2025-12-16 | 2026-07-06 |
 | [Carrick\-On\-Shannon](https://open.spotify.com/track/05pLimKiHqV1nzaEUHgaIP) | [Lil Skag](https://open.spotify.com/artist/78Z3VDkltCPHMYFdx8AgIs), [Sugabooo](https://open.spotify.com/artist/0UVpX7NAx5NLuEhGNAluXS) | [Carrick\-On\-Shannon](https://open.spotify.com/album/7a5ivjR7wm0HD6uhR7xuCR) | 3:03 | 2026-03-02 | 2026-03-09 |
@@ -212,7 +212,7 @@
 | [Never that](https://open.spotify.com/track/0D50kcPvpyuGG6aIWi48WA) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [Never that](https://open.spotify.com/album/4o9ltariIy117ZZ15zd9pq) | 2:43 | 2025-12-08 | 2025-12-26 |
 | [Never Theirs](https://open.spotify.com/track/3tImnBbcBQK6pE0G28VAg6) | [YFG Trap](https://open.spotify.com/artist/42MiKfvv8YFBf9SdijIlci) | [Okay, Wait...](https://open.spotify.com/album/6gOcbSfYL9qCPAmN2c9LaI) | 2:16 | 2025-12-01 | 2025-12-08 |
 | [Nightcore 2](https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:02 | 2025-11-29 |  |
-| [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 | 2026-10-19 |
+| [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 |  |
 | [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
 | [No Folding \(Bonus\)](https://open.spotify.com/track/5bOhFcWSkQfDRTNblpLicF) | [VazClare](https://open.spotify.com/artist/0nYdbzhczBc4XzpFdHOG75), [killfazos](https://open.spotify.com/artist/3gstM7z6Ou4hsmy3CTrJFj) | [ANTI](https://open.spotify.com/album/4LsamGhaJ4QVjy3z6t2snN) | 2:03 | 2026-05-09 | 2026-06-03 |
 | [No Luv](https://open.spotify.com/track/3DmSkzTtzNisgROnoIbw4I) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [No Luv](https://open.spotify.com/album/35HuNLOzxkWe7rtw8xu4Ur) | 2:17 | 2026-02-24 | 2026-03-20 |
@@ -236,6 +236,7 @@
 | [passion](https://open.spotify.com/track/4VxjqioRNX95lLuNeakxEz) | [Favo](https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe) | [Alignment](https://open.spotify.com/album/0atrSqUdYaPhqqtKWmaAl1) | 1:41 | 2026-09-06 | 2026-09-21 |
 | [Pause](https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Danny G Beats](https://open.spotify.com/artist/2GKXcaJjE7H2z9WdY7sG0x), [jakesand](https://open.spotify.com/artist/3H9itUD9PSCzrLJfe3tllo) | [Pause](https://open.spotify.com/album/23YuMwACsvWrPlBf3mPOXi) | 2:02 | 2026-03-28 | 2026-03-29 |
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
+| [Peppermint Coupe](https://open.spotify.com/track/3p464l3rlgsoRygtrysnfS) | [Atl Smook](https://open.spotify.com/artist/00VLi51B5wjgE5jg3lmOKB) | [Rude Babi](https://open.spotify.com/album/58zlK7ulZAvWBCj0aHCDyX) | 2:12 | 2026-11-02 |  |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 | 2026-01-23 |
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 | 2026-02-15 |
 | [Pole Janky](https://open.spotify.com/track/3b01MpEZcTCBOLj0XTsryu) | [Wank Stiller](https://open.spotify.com/artist/46Zk36M5Lzblzcq24MeM31) | [Therapeutic](https://open.spotify.com/album/72kRgrX5AaI1Ix4oVztqRd) | 1:58 | 2026-06-25 | 2026-06-26 |
@@ -307,7 +308,7 @@
 | [SØB](https://open.spotify.com/track/4nGVDgCX2QWDaM7tbkRTOM) | [YhungBrazy](https://open.spotify.com/artist/2ltchQPvrP8I9FT0DfmUMf), [B4byTk](https://open.spotify.com/artist/0WYRmKLUKVSnkw15uMGzrm) | [EXPERIMENT II](https://open.spotify.com/album/6p0WzwLsrGQOuJrKF8i19J) | 2:48 | 2025-11-29 | 2025-12-05 |
 | [Tag v2](https://open.spotify.com/track/3lLDeOxmhUOkZnr4J9Qqwb) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [Tag v2](https://open.spotify.com/album/3E4YlOe4SLxhvym7yHqo1H) | 1:42 | 2026-04-13 | 2026-04-21 |
 | [Talaband Anthem, Pt\. 2](https://open.spotify.com/track/3bn2rF5MouNNY4nhzt9Jw0) | [ReallyRichDon](https://open.spotify.com/artist/1aLigTPiKQEmEYQVJt5NwZ), [Mannie2SL](https://open.spotify.com/artist/5EqyhUvnzGrkp0N7DSR3zu), [Talaband Jizzle](https://open.spotify.com/artist/53w5mR8gB6gx3Tn506foHD) | [As Long as I Make It](https://open.spotify.com/album/4FIDcOnc5qpRAITSW8fBYC) | 2:40 | 2025-12-22 | 2025-12-28 |
-| [Tap Hour](https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY) | [Ueecho](https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp) | [Tap Hour](https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT) | 2:00 | 2026-04-19 |  |
+| [Tap Hour](https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY) | [Ueecho](https://open.spotify.com/artist/048Dbv78tdxtLrcBZ2s5Dp) | [Tap Hour](https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT) | 2:00 | 2026-04-19 | 2026-11-02 |
 | [Telephones](https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU) | [Curry B](https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF) | [All 4 Bop](https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb) | 2:25 | 2026-02-19 |  |
 | [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 | 2026-02-19 |
 | [Temari](https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo) | [craz3teki](https://open.spotify.com/artist/556amiCwJrWWDOfSGdOXuv) | [Reanimation](https://open.spotify.com/album/0ZNHiNd1m4BGl5yKlc7hg1) | 1:19 | 2025-12-08 | 2025-12-16 |

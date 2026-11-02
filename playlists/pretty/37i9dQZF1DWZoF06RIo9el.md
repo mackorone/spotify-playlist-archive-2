@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las favoritas de octubre 2026\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,422 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,222 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 17 | [Ghost In The Shell](https://open.spotify.com/track/5lBvNgYIUMxlfLPaUXELMx) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 4:38 |
 | 18 | [For Eva](https://open.spotify.com/track/69jTHsPXAij557lc73zcp2) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Cuando Sean Mayores](https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG) | 2:39 |
 | 19 | [Mami](https://open.spotify.com/track/3py6ylZiCGaPQa1MWltbTz) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mami](https://open.spotify.com/album/2qwDdtnfWmVY1DuQ8tSrvp) | 2:24 |
-| 20 | [gaviotas de cristal](https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 1:57 |
-| 21 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 |
+| 20 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 |
+| 21 | [gaviotas de cristal](https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 1:57 |
 | 22 | [Amarillo nena](https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Amarillo nena](https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr) | 2:28 |
 | 23 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
 | 24 | [Detective](https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K) | [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Detective](https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ) | 2:45 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 51 | [santa lucía \(impala\)](https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [todavía no vuelvo](https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK) | 3:35 |
 | 52 | [LA MENTIRA](https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex) | 3:01 |
 | 53 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
-| 54 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
-| 55 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
+| 54 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
+| 55 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
 | 56 | [INTERÉS HACIA TI](https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2) | 2:29 |
 | 57 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
 | 58 | [Kamikaze](https://open.spotify.com/track/337HLzkpopP6hTZLVdoMRq) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Kamikaze](https://open.spotify.com/album/7xTXZtNhkE0igCjsCYzyUw) | 3:28 |

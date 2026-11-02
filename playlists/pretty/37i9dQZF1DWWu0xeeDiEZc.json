@@ -1,6 +1,6 @@
 {
   "description": "Get your kids singing along with this fun playlist! They're sure to know these kid-friendly classics.",
-  "num_followers": 412488,
+  "num_followers": 412500,
   "original_name": "Sing Along",
   "owner": {
     "name": "Spotify",
@@ -493,30 +493,6 @@
       "url": "https://open.spotify.com/track/3wwjGWZLyBv4SJwYxc9KZy"
     },
     {
-      "added_at": "2023-11-08 20:23:20",
-      "album": {
-        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
-      },
-      "artists": [
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Cast - The Little Mermaid",
-          "url": "https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/79juTmh89v1xqOLYsr6wSq"
-    },
-    {
       "added_at": "2022-07-25 13:31:43",
       "album": {
         "name": "Aladdin: Special Edition Soundtrack",
@@ -539,6 +515,30 @@
       "duration_ms": 160800,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
+    },
+    {
+      "added_at": "2023-11-08 20:23:20",
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Cast - The Little Mermaid",
+          "url": "https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/79juTmh89v1xqOLYsr6wSq"
     },
     {
       "added_at": "2022-07-25 13:31:43",

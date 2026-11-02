@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 636725,
+  "num_followers": 636744,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAJ7PwgdTwHKdYiTIjJi6X+",
+  "snapshot_id": "auUvgAAAAADMlCtk6zDuyg12egMlHmQe",
   "tracks": [
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 210240,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
+      "duration_ms": 245013,
+      "name": "Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 245013,
-      "name": "Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
+      "duration_ms": 210240,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
     },
     {
       "added_at": null,

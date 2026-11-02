@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Brown Door",
+        "url": "https://open.spotify.com/album/3eILRXWLfUX1mm9OLEpnO0"
+      },
+      "artists": [
+        {
+          "name": "Westshore",
+          "url": "https://open.spotify.com/artist/5Xx0X72nNvUqxDbJ1vcX1p"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242416,
+      "name": "Brown Door",
+      "url": "https://open.spotify.com/track/3nZLuDlKf2bZDdDqPsEfov"
+    },
+    {
+      "album": {
         "name": "Burst (ANNA Remix)",
         "url": "https://open.spotify.com/album/1bVcpOwHIrXjWKNouJ7ybL"
       },
@@ -1191,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "HALLOWEEN CANDY TRICKS",
+        "url": "https://open.spotify.com/album/0h0PodJwJuYQAcTPzHLVYO"
+      },
+      "artists": [
+        {
+          "name": "Dolly Demeli",
+          "url": "https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120279,
+      "name": "HALLOWEEN CANDY TRICKS",
+      "url": "https://open.spotify.com/track/3Xh8fpDnP89rnRXfMdol3R"
+    },
+    {
+      "album": {
         "name": "HALLOWEEN JOY",
         "url": "https://open.spotify.com/album/0vwWikrr0eTyXFP3FYnfLO"
       },
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 96738,
       "name": "HALLOWEEN JOY",
       "url": "https://open.spotify.com/track/4cZoBYsTW6faSSpV7Vq0sz"
@@ -1495,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Il Mare",
+        "url": "https://open.spotify.com/album/2lIeTeoTo9QVWGxclThgUa"
+      },
+      "artists": [
+        {
+          "name": "Walter Nestola",
+          "url": "https://open.spotify.com/artist/3coAcYbeeNA0IX8xK2CbtL"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202747,
+      "name": "Il Mare",
+      "url": "https://open.spotify.com/track/5Nhcl6kpHONxF8a5rjMfqZ"
+    },
+    {
+      "album": {
         "name": "In My Way",
         "url": "https://open.spotify.com/album/1VONvnDOsrBbequpLPtl64"
       },
@@ -1662,6 +1716,24 @@
       "duration_ms": 228000,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/0KneIjtUUQDHihRadOGnVZ"
+    },
+    {
+      "album": {
+        "name": "Kim Kiminle",
+        "url": "https://open.spotify.com/album/0KlLqfSVsFbUJSuWNN13uz"
+      },
+      "artists": [
+        {
+          "name": "Cem Onur Se\u00e7kin",
+          "url": "https://open.spotify.com/artist/4XtVem56Aic26h1rbAcOW6"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Kim Kiminle",
+      "url": "https://open.spotify.com/track/5T70WBM5quNGLLrWZ2yBji"
     },
     {
       "album": {
@@ -2404,6 +2476,28 @@
       "duration_ms": 198000,
       "name": "Shallow One",
       "url": "https://open.spotify.com/track/7oy9mEkLxR28XH0gzvL6Do"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/4xqU6Iymdrx74JdjCoPfPg"
+      },
+      "artists": [
+        {
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+        },
+        {
+          "name": "Enlia",
+          "url": "https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182433,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/7APVFRanbYN3p12ykiERSs"
     },
     {
       "album": {

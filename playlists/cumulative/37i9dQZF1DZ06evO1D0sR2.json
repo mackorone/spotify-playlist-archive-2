@@ -400,6 +400,28 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
+          "name": "Benita Jones",
+          "url": "https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228144,
+      "name": "Be Glorified (feat. Benita Jones)",
+      "url": "https://open.spotify.com/track/1W7osezuyKy3Duz4WlXiet"
+    },
+    {
+      "album": {
+        "name": "Anthems & Prayers",
+        "url": "https://open.spotify.com/album/5z8AlEQOw77HkHtugXD4B9"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
           "name": "Ayana MacDonald",
           "url": "https://open.spotify.com/artist/19xP8cbNh0IYWIBuFiL0rl"
         },
@@ -410,7 +432,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 189407,
       "name": "Be Glorified Forever (feat. Ayana Macdonald & Benita Jones)",
       "url": "https://open.spotify.com/track/4WMhYwNyGqYi04pL13JEdT"
@@ -2922,7 +2944,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 201765,
       "name": "Praise To The Rock - Live",
       "url": "https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6"
@@ -2948,7 +2970,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 475254,
       "name": "Promise Keeper - Live",
       "url": "https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN"

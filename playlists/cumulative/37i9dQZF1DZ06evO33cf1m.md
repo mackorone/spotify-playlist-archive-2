@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 51 min
+106 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ahora Que Me Acuerdo](https://open.spotify.com/track/7r81SDmiDwPX4rcZJ6ULAp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Labios Mentirosos](https://open.spotify.com/album/7bHWxQdY2ys61jxpYMdicP) | 3:31 | 2023-08-08 | 2024-01-27 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 | 2024-04-21 | 2025-03-23 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/25VVwcwK5OKa4XMsVmsmJ0) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3J4IsXHUfmSLZfLne1eg2I) | 2:59 | 2025-03-23 |  |
-| [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 | 2023-08-08 |  |
+| [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 | 2023-08-08 | 2026-11-02 |
 | [Así Fue](https://open.spotify.com/track/5g3lwRodnp65oV0yclWTK6) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 5:19 | 2024-10-22 | 2026-09-01 |
 | [Aunque Tiren Hate](https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Tiren Hate](https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S) | 2:57 | 2025-06-08 | 2025-07-05 |
 | [Belleza Pura](https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Belleza Pura](https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5) | 3:24 | 2023-08-08 | 2023-08-28 |
@@ -79,6 +79,7 @@
 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/2pMuDOFexQPDbEFFBFusq1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Para Olvidarme De Tus Besos](https://open.spotify.com/album/2h1wqI83F96yH2UT7Y33YS) | 3:17 | 2025-03-16 | 2025-04-12 |
 | [Perdona Mi Franqueza](https://open.spotify.com/track/3enF9m98BImHABaF7vcC3A) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Acabó El Amor](https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3) | 3:24 | 2024-09-28 |  |
 | [Perdón ¿Por Qué?](https://open.spotify.com/track/05j5qhTcoVl3WTdMVQEOqc) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:07 | 2023-08-08 |  |
+| [Pervertida a mi medida](https://open.spotify.com/track/15sMueKVYyW1oaphY0SQq6) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Pervertida a mi medida](https://open.spotify.com/album/6lvIK0qQhochXUoBy852lC) | 3:23 | 2026-11-02 |  |
 | [Roman Iriarte](https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:34 | 2023-12-14 | 2024-04-07 |
 | [Se Les Pelo Baltazar](https://open.spotify.com/track/5SQPSfvwQiu0g3HTOSm7Iv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 2:23 | 2023-08-08 | 2025-11-20 |
 | [Se Me Canso El Corazon](https://open.spotify.com/track/29qY2kVjH6wtaoD5cj09q7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 3:08 | 2023-08-08 | 2023-12-15 |

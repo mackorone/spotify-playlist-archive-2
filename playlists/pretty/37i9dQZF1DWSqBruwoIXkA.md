@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like sad hour, with Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,389,727 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389,740 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 55 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 |
 | 56 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 |
 | 57 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 |
-| 58 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
-| 59 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
+| 58 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
+| 59 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
 | 60 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 61 | [As the World Caves In](https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH) | 2:41 |
 | 62 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 111 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 112 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 |
 | 113 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
-| 114 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
-| 115 | [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 |
+| 114 | [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 |
+| 115 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
 | 116 | [Placeholder](https://open.spotify.com/track/0W4eLntQDmc8yDJ7roRdK8) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [Placeholder](https://open.spotify.com/album/4HPi2f6Tf6Jhq7j9IrIaWC) | 2:47 |
 | 117 | [Miss Us](https://open.spotify.com/track/28SR8JQIpAsletgV04f6Sc) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Miss Us](https://open.spotify.com/album/63vG8L5oT4GogDnlMqXbQv) | 2:37 |
 | 118 | [Sorta, kinda](https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Isn't That Sweet?](https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw) | 3:56 |
@@ -141,14 +141,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 131 | [The Rain Isn't Over](https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [The Rain Isn't Over](https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB) | 3:02 |
 | 132 | [PAPERCUT](https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [PAPERCUT](https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo) | 3:14 |
 | 133 | [Not Even Gone](https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Not Even Gone](https://open.spotify.com/album/5uAJEBWK6rxWAKa87d66Hn) | 3:46 |
-| 134 | [Dream I Shouldn't Have](https://open.spotify.com/track/5tOBFpHf6F4WHtspB4I408) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dream I Shouldn't Have](https://open.spotify.com/album/0LXCFNJvK8o48kMxi6q2BK) | 4:08 |
-| 135 | [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 |
+| 134 | [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 |
+| 135 | [Dream I Shouldn't Have](https://open.spotify.com/track/5tOBFpHf6F4WHtspB4I408) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dream I Shouldn't Have](https://open.spotify.com/album/0LXCFNJvK8o48kMxi6q2BK) | 4:08 |
 | 136 | [Myth Of You](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 3:38 |
 | 137 | [Charlie](https://open.spotify.com/track/5Vo9RNnqrD6mhrnkbN4jZR) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Charlie](https://open.spotify.com/album/2G2L3fjd7YNsDmJocMoKUs) | 3:59 |
 | 138 | [Best Days](https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Best Days](https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv) | 3:31 |
 | 139 | [i've missed you longer](https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [i've missed you longer](https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd) | 3:19 |
-| 140 | [How To Lose The Girl](https://open.spotify.com/track/3OxTk4NL6r8bAOxuSbYeSp) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [How To Lose The Girl](https://open.spotify.com/album/5kDrkzA4Q0yBWWUgjZpDTL) | 3:11 |
-| 141 | [Don’t Stop Trying To Love Me](https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Reverie](https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T) | 4:10 |
+| 140 | [Don’t Stop Trying To Love Me](https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Reverie](https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T) | 4:10 |
+| 141 | [How To Lose The Girl](https://open.spotify.com/track/3OxTk4NL6r8bAOxuSbYeSp) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [How To Lose The Girl](https://open.spotify.com/album/5kDrkzA4Q0yBWWUgjZpDTL) | 3:11 |
 | 142 | [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 |
 | 143 | [i hate Berlin!!](https://open.spotify.com/track/7IaAZ5JLPXXOnV78chiHdO) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [i hate Berlin!!](https://open.spotify.com/album/1baPOa1qSk34CSSfIXWO1O) | 3:09 |
 | 144 | [DAMN!](https://open.spotify.com/track/4oT51TvKioioao01lzE8vO) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [TRISTAN1](https://open.spotify.com/album/7txEo8xATuZOJys8TIWnL2) | 3:57 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [Postcard](https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Postcard](https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM) | 2:59 |
 | 150 | [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 |
 
-Snapshot ID: `AAAAAKPtEIkJV/u/iSGDS10QkeYy7FEo`
+Snapshot ID: `AAAAANJoDFzTVUkpsP0hG36NfMEnzp2f`

@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 463906,
+  "num_followers": 463894,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Sea, Swallow Me",
-      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
+      "duration_ms": 271266,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -207,18 +203,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS"
+      "duration_ms": 189040,
+      "name": "Sea, Swallow Me",
+      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 110820,
-      "name": "Slither",
-      "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 231467,
       "name": "Drink Deep",
       "url": "https://open.spotify.com/track/21sDgrgghtQMdUGsCqGVXI"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 110820,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Come Down",
         "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 273360,
       "name": "Physical",
       "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "The Waves Pt. 1",
-        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
-      },
-      "artists": [
-        {
-          "name": "Kele",
-          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
-        }
-      ],
-      "duration_ms": 262040,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Horror Scene (feat. aldn)",
         "url": "https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 119396,
       "name": "Horror Scene (feat. aldn)",
       "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "The Waves Pt. 1",
+        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
+      },
+      "artists": [
+        {
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
+        }
+      ],
+      "duration_ms": 262040,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Little Vampire",
+      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
         "name": "Spelling",
         "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
-      },
-      "artists": [
-        {
-          "name": "Gretel",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Little Vampire",
-      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Whole Lotta Nothing",
         "url": "https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3"
       },
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
         "name": "Ecstasy Homosexuality",
         "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Tears In The Typing Pool [Demo]",
         "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 127832,
       "name": "Tears In The Typing Pool [Demo]",
       "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "...and she's still listening",
+        "url": "https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 189260,
+      "name": "anything at all",
+      "url": "https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "...and she's still listening",
-        "url": "https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr"
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr"
       },
       "artists": [
         {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+          "name": "Plastic Mermaids",
+          "url": "https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ"
         }
       ],
-      "duration_ms": 189260,
-      "name": "anything at all",
-      "url": "https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb"
+      "duration_ms": 340410,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1571,34 +1587,30 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hazards",
-        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
+        "name": "Fire Leap",
+        "url": "https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr"
       },
       "artists": [
         {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 199496,
-      "name": "Dead Girls",
-      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
-        "name": "Something Better",
-        "url": "https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr"
-      },
-      "artists": [
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        },
         {
-          "name": "Plastic Mermaids",
-          "url": "https://open.spotify.com/artist/0K2bb637U0v3bBiwE7vtjQ"
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "Sarah Meth",
+          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
         }
       ],
-      "duration_ms": 340410,
-      "name": "Something Better",
-      "url": "https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH"
+      "duration_ms": 171098,
+      "name": "Fire Leap",
+      "url": "https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1635,18 +1647,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Religion for One",
-        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+        "name": "Hazards",
+        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
       },
       "artists": [
         {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
         }
       ],
-      "duration_ms": 199727,
-      "name": "Religion for One",
-      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
+      "duration_ms": 199496,
+      "name": "Dead Girls",
+      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
     }
   ],
   "unique_name": "Spooky",

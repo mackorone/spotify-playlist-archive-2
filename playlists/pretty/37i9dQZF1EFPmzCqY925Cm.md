@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 60 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 |
 | 61 | [uh uh \(outside\)](https://open.spotify.com/track/5nT60m44V8pI8fxYW8F5XH) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [uh uh \(outside\)](https://open.spotify.com/album/3ElOgRYBG6fZDjubmlr1ca) | 3:09 |
 | 62 | [Do It](https://open.spotify.com/track/66FcNBFB1rh6sXgFR1YkfG) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 1:51 |
-| 63 | [DO OR DIE](https://open.spotify.com/track/1q90IzbN4Cs4R2DLVlsMWe) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DARKER WHITE](https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP) | 2:23 |
-| 64 | [Elevate](https://open.spotify.com/track/6G5XiYJ4nSvVdbdQeFPVax) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:53 |
+| 63 | [Elevate](https://open.spotify.com/track/6G5XiYJ4nSvVdbdQeFPVax) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:53 |
+| 64 | [DO OR DIE](https://open.spotify.com/track/1q90IzbN4Cs4R2DLVlsMWe) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DARKER WHITE](https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP) | 2:23 |
 | 65 | [Go Crazy](https://open.spotify.com/track/4RBCfqM0kITfgZDCMbfUDb) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:44 |
 | 66 | [I Can't Be Sad](https://open.spotify.com/track/0pXkLZoYe43k0ZDQSYm3YA) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [I Can't Be Sad](https://open.spotify.com/album/7631gVK7n6wyEWQnsNSHHu) | 2:19 |
 | 67 | [MISS INTERNATIONAL](https://open.spotify.com/track/7q2UiCJ2VYBaWwPh814Ir0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:41 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 70 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 71 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `Acgc2AAAAABstAZvK3Qyq7hYboy5DywD`
+Snapshot ID: `AcgieAAAAAAieiIhWpqwBkBt/OR46hig`

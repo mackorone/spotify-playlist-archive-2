@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 137736,
+  "num_followers": 137749,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAACcXjAJMMVKfQvLdb7eY99W",
+  "snapshot_id": "auUvgAAAAAC3+STaVkpKmitTpkP00rcX",
   "tracks": [
     {
       "added_at": null,
@@ -323,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Howard Stern",
+          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
         }
       ],
-      "duration_ms": 247040,
-      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-      "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
+      "duration_ms": 234106,
+      "name": "The Great American Nightmare",
+      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
     },
     {
       "added_at": null,
@@ -371,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Howard Stern",
-          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
         }
       ],
-      "duration_ms": 234106,
-      "name": "The Great American Nightmare",
-      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+      "duration_ms": 247040,
+      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
     },
     {
       "added_at": null,
@@ -423,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Without Fear (Feat. Rob Zombie)",
-        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
       "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 200826,
-      "name": "The Man Without Fear (Feat. Rob Zombie)",
-      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
+      "duration_ms": 234240,
+      "name": "The Devil's Rejects",
+      "url": "https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1"
     },
     {
       "added_at": null,
@@ -491,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man Without Fear (Feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "The Man Without Fear (Feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venomous Rat Regeneration Vendor",
         "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
@@ -507,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+        "name": "Halloween Hootenanny",
+        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
         }
       ],
-      "duration_ms": 234240,
-      "name": "The Devil's Rejects",
-      "url": "https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1"
+      "duration_ms": 170066,
+      "name": "Halloween (She's So Mean)",
+      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
     },
     {
       "added_at": null,
@@ -539,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
       "artists": [
         {
@@ -548,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 200853,
-      "name": "Boom-Boom-Boom",
-      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
+      "duration_ms": 208946,
+      "name": "Foxy, Foxy",
+      "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
     },
     {
       "added_at": null,
@@ -571,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -580,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 208946,
-      "name": "Foxy, Foxy",
-      "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
+      "duration_ms": 200853,
+      "name": "Boom-Boom-Boom",
+      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
     },
     {
       "added_at": null,
@@ -667,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halloween Hootenanny",
-        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "The Ghastly Ones",
-          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
         }
       ],
-      "duration_ms": 170066,
-      "name": "Halloween (She's So Mean)",
-      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
+      "duration_ms": 174466,
+      "name": "The Life And Times Of A Teenage Rock God",
+      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
     },
     {
       "added_at": null,
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 174466,
-      "name": "The Life And Times Of A Teenage Rock God",
-      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
+      "duration_ms": 236706,
+      "name": "The Girl Who Loved The Monsters",
+      "url": "https://open.spotify.com/track/4rtzNf8AcFARJf7wv6AfyP"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 184613,
       "name": "Black Rat Coffin",
       "url": "https://open.spotify.com/track/5gPnQOKPrAeGAO1b3kW49N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "The Girl Who Loved The Monsters",
-      "url": "https://open.spotify.com/track/4rtzNf8AcFARJf7wv6AfyP"
     },
     {
       "added_at": null,

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 TROCAS POLVEADAS](https://open.spotify.com/track/3jD4G3ffPoINcQDj7lVCwy) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Erick Rios](https://open.spotify.com/artist/3t1JdFdPuRV36NhKJAaMoZ) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:51 | 2026-10-23 |  |
+| [100 TROCAS POLVEADAS](https://open.spotify.com/track/3jD4G3ffPoINcQDj7lVCwy) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [ERICK RIOS](https://open.spotify.com/artist/0azo2UhDV9I6E7lr78frpL) | [EL GATITO NEGRO](https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3) | 2:51 | 2026-10-23 |  |
 | [1004 Kilómetros](https://open.spotify.com/track/0pt0wjZNeFOMIeCudmXRrl) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico](https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv) | 4:37 | 2022-05-13 | 2022-09-24 |
 | [130XDNV](https://open.spotify.com/track/2U5Ki0kV2zNcVDjvybvCAS) | [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7) | [130XDNV](https://open.spotify.com/album/25EQf7WLkOFGKQZ5HEVali) | 2:38 | 2026-08-14 | 2026-10-03 |
 | [18 Libras](https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 3:05 | 2022-05-13 | 2024-04-19 |

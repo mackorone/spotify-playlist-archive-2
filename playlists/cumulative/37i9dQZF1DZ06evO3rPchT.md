@@ -4,7 +4,7 @@
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-148 songs - 8 hr 24 min
+149 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Boy From The South \(HARDY feat\. Cole Swindell, Dustin Lynch\)](https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:05 | 2024-07-27 |  |
 | [Bro Country \(feat\. ERNEST\)](https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Bro Country](https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f) | 4:45 | 2025-08-31 | 2025-11-18 |
 | [Buck On The Wall](https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG) | 3:04 | 2025-04-13 | 2026-03-08 |
+| [By God](https://open.spotify.com/track/1NKrKsvA7XFwhdiRQcB25L) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Sides](https://open.spotify.com/album/6mgte0B9tIUdIKAtzVrUXf) | 2:43 | 2026-11-02 |  |
 | [Car That Drove You Away](https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 | 2025-05-31 | 2025-10-09 |
 | [Car That Drove You Away](https://open.spotify.com/track/6qbkwyYczMk1AohVIJVyjW) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/42IN9N5RNKdC1QApYWR0xi) | 3:04 | 2025-05-07 | 2025-05-31 |
 | [Colorado \(feat\. HARDY\)](https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Whiskey On Whiskey](https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO) | 2:48 | 2024-08-26 | 2025-03-02 |
@@ -130,7 +131,7 @@
 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 | 2023-02-08 | 2025-02-23 |
 | [Third Rock From The Sun \(feat\. Brooks & Dunn\)](https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 2:50 | 2024-03-30 | 2025-05-07 |
 | [THIS OLE BOY](https://open.spotify.com/track/191CjRdmcxUYOrFEDQx7QA) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk) | 3:16 | 2023-02-08 | 2024-07-17 |
-| [THIS OLE BOY](https://open.spotify.com/track/1ef578eLDJncvK2SCeXM7y) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:16 | 2024-08-22 |  |
+| [THIS OLE BOY](https://open.spotify.com/track/1ef578eLDJncvK2SCeXM7y) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:16 | 2024-08-22 | 2026-11-02 |
 | [THROWBACK](https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:23 | 2024-07-27 |  |
 | [THROWBACK](https://open.spotify.com/track/7fToSlGPKlugVUCAZWvydi) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk) | 3:23 | 2023-02-08 | 2024-07-27 |
 | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/track/5jXpVEZgi9NV0Wvq7xuu97) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:17 | 2024-08-22 | 2024-09-14 |

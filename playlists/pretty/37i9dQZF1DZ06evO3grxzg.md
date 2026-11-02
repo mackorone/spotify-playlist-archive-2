@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,315 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,305 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 24 | [A Coro](https://open.spotify.com/track/1lKEEDNsqdVcF2pD8zYjqO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 4:12 |
 | 25 | [De Mí Enamórate](https://open.spotify.com/track/6y4LoOGFtztZhLHZm2KgjF) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Los Dúo \- Colección Completa](https://open.spotify.com/album/3dVLM0RBBR4pVLkl0Dh6Dr) | 4:59 |
 | 26 | [Dame Corazon](https://open.spotify.com/track/3XcowngSbS2cfi1FUMs3xr) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 3:25 |
-| 27 | [Una Señal](https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:51 |
+| 27 | [Mi Capitan](https://open.spotify.com/track/6AfN38ELK3MZVOCoDebg44) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:44 |
 | 28 | [tqum \- Remix](https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [La Música y las Mujeres](https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5) | 2:29 |
 | 29 | [Caminos De Luz](https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 3:40 |
 | 30 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/5I9V9CKa0czqhqiySv8L0S) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Fresh Finds Hits](https://open.spotify.com/album/2gtSd14b8h4A6M0llkdG87) | 3:17 |
-| 31 | [Mi Capitan](https://open.spotify.com/track/6AfN38ELK3MZVOCoDebg44) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:44 |
+| 31 | [Una Señal](https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:51 |
 | 32 | [Everybody Hands Up!!](https://open.spotify.com/track/1W00m9l5aElQhpzLEfgPtp) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrevete A Soñar \(Original Sountrack\)](https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu) | 0:34 |
 | 33 | [Milagrito](https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 3:02 |
 | 34 | [Fiesta \- En Vivo](https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrévete A Soñar El Concierto \(En Vivo\)](https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1) | 3:30 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 46 | [Chiquita Pero Picosa \- Versión Pop](https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 3:28 |
 | 47 | [No Es Cierto](https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [No Es Cierto](https://open.spotify.com/album/6EQfZS6wgjOXRCWYn0oJmg) | 3:45 |
 
-Snapshot ID: `auKMgAAAAAAhznLJN3p15S2Ncm7n0wWa`
+Snapshot ID: `auUvgAAAAADgSgAmw9rkqf5KuUoSU70t`

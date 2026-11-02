@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 247592,
+  "num_followers": 247621,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MnluuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MnrCkAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Hvis Jeg Er Uden Dig",
         "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Lad Det Br\u00e6nde",
-        "url": "https://open.spotify.com/album/2uLAGT444QyqYy2TNsiYvE"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
-        }
-      ],
-      "duration_ms": 150621,
-      "name": "Lad Det Br\u00e6nde",
-      "url": "https://open.spotify.com/track/4tCRLYfh6l9ZO8uW0LWwy8"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
         "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
@@ -89,7 +73,7 @@
       "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Vil du noget?",
         "url": "https://open.spotify.com/album/0ZjD0TJyuPL3H8bmF8rsVb"
@@ -109,7 +93,7 @@
       "url": "https://open.spotify.com/track/4BDFCtjvCP99vx5bhvsFH4"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Shen Mao",
         "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
@@ -125,23 +109,7 @@
       "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Sygt jeg stadig savner dig",
-        "url": "https://open.spotify.com/album/6o8QEdwfJKT01ZKLbVf2VK"
-      },
-      "artists": [
-        {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
-        }
-      ],
-      "duration_ms": 158879,
-      "name": "Sygt jeg stadig savner dig",
-      "url": "https://open.spotify.com/track/3YT4FLkIGMuMzht3erEUWX"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Ringer Om Natten",
         "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
@@ -157,7 +125,39 @@
       "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Sygt jeg stadig savner dig",
+        "url": "https://open.spotify.com/album/6o8QEdwfJKT01ZKLbVf2VK"
+      },
+      "artists": [
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "duration_ms": 158879,
+      "name": "Sygt jeg stadig savner dig",
+      "url": "https://open.spotify.com/track/3YT4FLkIGMuMzht3erEUWX"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 358807,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Noahs Ark II",
         "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
@@ -177,59 +177,75 @@
       "url": "https://open.spotify.com/track/680scZlQIxfYaYbL7thyQY"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "D\u00e9t Der Udenfor + B-sider",
-        "url": "https://open.spotify.com/album/2hGHd6xmjd4LqNkAVYNYKY"
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 301280,
-      "name": "Herunder M\u00e6lkevejen - Det D\u00e9r Udenfor B-side",
-      "url": "https://open.spotify.com/track/46GiZpPYzRDks8LCMhyyTj"
+      "duration_ms": 193306,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "se p\u00e5 mig",
-        "url": "https://open.spotify.com/album/5uakZTtEb8o1QsZSFKYCQQ"
+        "name": "WAVY",
+        "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
       },
       "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
-        },
         {
           "name": "Lamin",
           "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 140043,
-      "name": "se p\u00e5 mig",
-      "url": "https://open.spotify.com/track/0t2J4HDNDKgSy57JufNZQ3"
+      "duration_ms": 163437,
+      "name": "Hold Mit Tempo",
+      "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "D\u00e9t Der Udenfor",
-        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
         }
       ],
-      "duration_ms": 214739,
-      "name": "D\u00e9t Der Udenfor",
-      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
+      "duration_ms": 239133,
+      "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Alle Kender Nogen",
         "url": "https://open.spotify.com/album/0qPC1VQqDkA8jkpqPUMy2s"
@@ -301,27 +317,7 @@
       "url": "https://open.spotify.com/track/7r49zBYaM5kjsiRW5ztt95"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "WAVY",
-        "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 163437,
-      "name": "Hold Mit Tempo",
-      "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
@@ -337,10 +333,94 @@
       "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
+        "name": "se p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5uakZTtEb8o1QsZSFKYCQQ"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 140043,
+      "name": "se p\u00e5 mig",
+      "url": "https://open.spotify.com/track/0t2J4HDNDKgSy57JufNZQ3"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "D\u00e9t Der Udenfor",
+        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "D\u00e9t Der Udenfor",
+      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Lad Det Br\u00e6nde",
+        "url": "https://open.spotify.com/album/2uLAGT444QyqYy2TNsiYvE"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "duration_ms": 150621,
+      "name": "Lad Det Br\u00e6nde",
+      "url": "https://open.spotify.com/track/4tCRLYfh6l9ZO8uW0LWwy8"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Livsforladt",
+        "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
       },
       "artists": [
         {
@@ -348,28 +428,12 @@
           "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
+      "duration_ms": 182204,
+      "name": "Livsforladt",
+      "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 183713,
-      "name": "Ingen Kommentar",
-      "url": "https://open.spotify.com/track/5iK37UFKFmMbn1DsM436To"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
@@ -389,59 +453,7 @@
       "url": "https://open.spotify.com/track/19JSG4O2wKnhBXCkfg0ZIH"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "MEN S\u00c5 KOM I MORGEN",
-        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 197724,
-      "name": "Drukner",
-      "url": "https://open.spotify.com/track/6smQDSmvTjn5wCtTmL8tSt"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Livsforladt",
-        "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 182204,
-      "name": "Livsforladt",
-      "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Larger Than Life ft. Benjamin Hav",
         "url": "https://open.spotify.com/album/4yImdIG0lmAc3alJc52PGG"
@@ -461,7 +473,59 @@
       "url": "https://open.spotify.com/track/5oz5hbrPeOH7HUPdy1YP8x"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Ham Med Guitaren",
+        "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Ham Med Guitaren",
+      "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 197724,
+      "name": "Drukner",
+      "url": "https://open.spotify.com/track/6smQDSmvTjn5wCtTmL8tSt"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 183713,
+      "name": "Ingen Kommentar",
+      "url": "https://open.spotify.com/track/5iK37UFKFmMbn1DsM436To"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -477,23 +541,43 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "En Ild Der Altid Br\u00e6nder",
-        "url": "https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU"
+        "name": "H\u00f8jt At Flyve Dybt At Falde",
+        "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
       },
       "artists": [
         {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        },
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
         }
       ],
-      "duration_ms": 203300,
-      "name": "En Ild Der Altid Br\u00e6nder",
-      "url": "https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7"
+      "duration_ms": 177618,
+      "name": "Hele Vejen (feat. Mumle)",
+      "url": "https://open.spotify.com/track/7d3A0GKJHATJuMxWh3fcc3"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "PPC",
         "url": "https://open.spotify.com/album/3hsG9b9I3od2hi7SXr0zZP"
@@ -513,23 +597,7 @@
       "url": "https://open.spotify.com/track/7M9Fk9ftwb9VxiImk28LBL"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Ham Med Guitaren",
-        "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Ham Med Guitaren",
-      "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "En Som Dig (feat. Bl\u00e6st, ADAAM & Back To Back)",
         "url": "https://open.spotify.com/album/0egJx0r3KVGFeckHPcMHDs"
@@ -561,43 +629,43 @@
       "url": "https://open.spotify.com/track/2zRpuPGERrbAfRXqjCAKix"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "H\u00f8jt At Flyve Dybt At Falde",
-        "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Monster Mash (Monster Party Spoooky Versions)",
+        "url": "https://open.spotify.com/album/2FZo0PX8puTO2u6E0HFXqz"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
         },
         {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
         }
       ],
-      "duration_ms": 177618,
-      "name": "Hele Vejen (feat. Mumle)",
-      "url": "https://open.spotify.com/track/7d3A0GKJHATJuMxWh3fcc3"
+      "duration_ms": 193626,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/2D7iDoCv55FL4ZaCF5y89f"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Problemer",
-        "url": "https://open.spotify.com/album/4iquQrgSxvUhW3wFBlVGgW"
-      },
-      "artists": [
-        {
-          "name": "Cizzo",
-          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
-        }
-      ],
-      "duration_ms": 117249,
-      "name": "Problemer",
-      "url": "https://open.spotify.com/track/77KcgHrOwfOpkuZeFQYbOd"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Har Du M\u00e6rket Dig Selv?",
         "url": "https://open.spotify.com/album/1apQ8jZgQrju3g8J1xHZ7p"
@@ -613,7 +681,39 @@
       "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Flue i et spind",
+      "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "S\u00f8n",
+        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/4jb8K3rzTBL95ydWylkT3U"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Lighter (feat. Gilli)",
         "url": "https://open.spotify.com/album/6SWJQIXybUPfmjzxwzXPdi"
@@ -633,87 +733,7 @@
       "url": "https://open.spotify.com/track/1VcwyFJ80YEgfmKYwEtQLJ"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Supernar",
-        "url": "https://open.spotify.com/album/1i2OXqXBPllKaX6uZJJojH"
-      },
-      "artists": [
-        {
-          "name": "Burhan G",
-          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
-        }
-      ],
-      "duration_ms": 158598,
-      "name": "Supernar",
-      "url": "https://open.spotify.com/track/1BurSvmpyb1lx32jmnuUBe"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Den lange vej",
-        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 168285,
-      "name": "Ivrig",
-      "url": "https://open.spotify.com/track/0c15Rz4i6ri8pFONJHhCib"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "S\u00f8n",
-        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/4jb8K3rzTBL95ydWylkT3U"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
@@ -733,111 +753,23 @@
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "Sofie, Jeg Elsker Dig",
-        "url": "https://open.spotify.com/album/0rGVuzaCE7EZdrMlJPL2Uk"
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
       },
       "artists": [
         {
-          "name": "Sondergaard",
-          "url": "https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz"
-        },
-        {
-          "name": "Thor Farlov",
-          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
         }
       ],
-      "duration_ms": 155887,
-      "name": "Sofie, Jeg Elsker Dig",
-      "url": "https://open.spotify.com/track/6IPoBxgqN4QHuoqmzbVscZ"
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Noahs Ark II",
-        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
-      },
-      "artists": [
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 153641,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "Flue i et spind",
-      "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Shotta's.",
-        "url": "https://open.spotify.com/album/2cnHP1RKCTDYKyrRByy69K"
-      },
-      "artists": [
-        {
-          "name": "Season 25",
-          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
-        }
-      ],
-      "duration_ms": 142654,
-      "name": "Shotta's.",
-      "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "Lige Her, Lige Nu",
-        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "Bliv hvor du er (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
-      "album": {
-        "name": "(over)lever",
-        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 136503,
-      "name": "hader ik mig selv sammen med dig",
-      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
-    },
-    {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -857,39 +789,111 @@
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "Lucky Pige",
-        "url": "https://open.spotify.com/album/798E42cNi2Ze2SmURryhui"
+        "name": "Den lange vej",
+        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
       },
       "artists": [
         {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
         }
       ],
-      "duration_ms": 132061,
-      "name": "Lucky Pige",
-      "url": "https://open.spotify.com/track/6e6dTvI52uvPCELtaEyCOc"
+      "duration_ms": 168285,
+      "name": "Ivrig",
+      "url": "https://open.spotify.com/track/0c15Rz4i6ri8pFONJHhCib"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "Smelter Under M\u00e5nen",
-        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+        "name": "Lige Her, Lige Nu",
+        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
         }
       ],
-      "duration_ms": 198388,
-      "name": "Smelter Under M\u00e5nen",
-      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+      "duration_ms": 172844,
+      "name": "Bliv hvor du er (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "N1YA",
+        "url": "https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 217374,
+      "name": "NATTEN BLIVER MORGEN",
+      "url": "https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Sofie, Jeg Elsker Dig",
+        "url": "https://open.spotify.com/album/0rGVuzaCE7EZdrMlJPL2Uk"
+      },
+      "artists": [
+        {
+          "name": "Sondergaard",
+          "url": "https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz"
+        },
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        }
+      ],
+      "duration_ms": 155887,
+      "name": "Sofie, Jeg Elsker Dig",
+      "url": "https://open.spotify.com/track/6IPoBxgqN4QHuoqmzbVscZ"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
+      "album": {
+        "name": "(over)lever",
+        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 136503,
+      "name": "hader ik mig selv sammen med dig",
+      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
+    },
+    {
+      "added_at": "2026-11-01 13:50:53",
       "album": {
         "name": "Verden Er Din",
         "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
@@ -905,36 +909,36 @@
       "url": "https://open.spotify.com/track/0O08IPl7Ug0vbu8i9wHhjA"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
+        "name": "Noahs Ark II",
+        "url": "https://open.spotify.com/album/6HWkoZ6FCzS84LBcJaKLlo"
       },
       "artists": [
         {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
         }
       ],
-      "duration_ms": 190925,
-      "name": "Vinden Bl\u00e6ser",
-      "url": "https://open.spotify.com/track/54a4KNL27zQgM2dljamEsn"
+      "duration_ms": 153641,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/1EZXjJCv0agDuBhIUAL6ks"
     },
     {
-      "added_at": "2026-10-31 14:09:56",
+      "added_at": "2026-11-01 13:50:53",
       "album": {
-        "name": "N1YA",
-        "url": "https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY"
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
       "artists": [
         {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 217374,
-      "name": "NATTEN BLIVER MORGEN",
-      "url": "https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk"
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
     }
   ],
   "unique_name": "Top 50 - Denmark",

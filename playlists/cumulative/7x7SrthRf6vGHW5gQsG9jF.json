@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308840,
+      "name": "Dawn and Fireflies",
+      "url": "https://open.spotify.com/track/3i1dqflrqcLVxZeWi7r0pm"
+    },
+    {
+      "album": {
         "name": "Dearly Departed",
         "url": "https://open.spotify.com/album/6fJYwluf7RN6Hrpy4ZrsGB"
       },

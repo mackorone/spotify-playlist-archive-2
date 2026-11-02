@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60678,
+  "num_followers": 60676,
   "original_name": "Compact Cassette \ud83c\udf83",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABl/m9uEWO2TTricgp2hLYfIZ8J6fGS",
+  "snapshot_id": "AABmAr+3i495GXRuybjofPcLtNXvucXj",
   "tracks": [
     {
       "added_at": "2026-10-25 06:33:10",
@@ -39,22 +39,6 @@
       "duration_ms": 272033,
       "name": "Haunted Love",
       "url": "https://open.spotify.com/track/74YhnjitgYoL9VJeAdU38e"
-    },
-    {
-      "added_at": "2026-10-25 06:33:10",
-      "album": {
-        "name": "Good - EP",
-        "url": "https://open.spotify.com/album/61P95KNer53pcgekoRxRm5"
-      },
-      "artists": [
-        {
-          "name": "Poppies",
-          "url": "https://open.spotify.com/artist/0YXCfjaUrDVnaSjjxgswcX"
-        }
-      ],
-      "duration_ms": 208153,
-      "name": "Dumb Advice",
-      "url": "https://open.spotify.com/track/0uSAY6IK9wRtYuUBdBxqsA"
     },
     {
       "added_at": "2026-10-25 06:33:10",
@@ -395,22 +379,6 @@
     {
       "added_at": "2026-10-25 06:33:10",
       "album": {
-        "name": "Radio Broken",
-        "url": "https://open.spotify.com/album/1ugfk6v7fKbOqsNqgXg7fi"
-      },
-      "artists": [
-        {
-          "name": "Halogen Beaches",
-          "url": "https://open.spotify.com/artist/1PXvipGXPYxU3FsYTXdUZA"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "What Isn't There",
-      "url": "https://open.spotify.com/track/4b7N34lahCzjZr28P5ckcD"
-    },
-    {
-      "added_at": "2026-10-25 06:33:10",
-      "album": {
         "name": "Now You See Me, Now You Don't",
         "url": "https://open.spotify.com/album/2DlJlWjvi1XNl3n0DnJgtS"
       },
@@ -523,22 +491,6 @@
       "duration_ms": 186139,
       "name": "Discount",
       "url": "https://open.spotify.com/track/0UrHqy4GxZzEvCycsoSazk"
-    },
-    {
-      "added_at": "2026-10-25 06:33:10",
-      "album": {
-        "name": "Trendoids",
-        "url": "https://open.spotify.com/album/3rIMrhmLrQNWKBig3EiFdx"
-      },
-      "artists": [
-        {
-          "name": "Bloodhype",
-          "url": "https://open.spotify.com/artist/09gUA4mTEM2pZTSN3GndR0"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "/r/lovespell",
-      "url": "https://open.spotify.com/track/4Mf7dnOOsWf7lLWQc9n9qr"
     },
     {
       "added_at": "2026-10-25 06:33:10",
@@ -2743,6 +2695,22 @@
       "duration_ms": 164976,
       "name": "Four",
       "url": "https://open.spotify.com/track/3aSRXoNXPDMafKcQb4Y6GA"
+    },
+    {
+      "added_at": "2026-10-25 06:33:10",
+      "album": {
+        "name": "Good - EP",
+        "url": "https://open.spotify.com/album/61P95KNer53pcgekoRxRm5"
+      },
+      "artists": [
+        {
+          "name": "Poppies",
+          "url": "https://open.spotify.com/artist/0YXCfjaUrDVnaSjjxgswcX"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "Dumb Advice",
+      "url": "https://open.spotify.com/track/0uSAY6IK9wRtYuUBdBxqsA"
     },
     {
       "added_at": "2026-10-25 06:33:10",
@@ -5463,6 +5431,22 @@
     {
       "added_at": "2026-10-25 06:33:10",
       "album": {
+        "name": "Radio Broken",
+        "url": "https://open.spotify.com/album/1ugfk6v7fKbOqsNqgXg7fi"
+      },
+      "artists": [
+        {
+          "name": "Halogen Beaches",
+          "url": "https://open.spotify.com/artist/1PXvipGXPYxU3FsYTXdUZA"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "What Isn't There",
+      "url": "https://open.spotify.com/track/4b7N34lahCzjZr28P5ckcD"
+    },
+    {
+      "added_at": "2026-10-25 06:33:10",
+      "album": {
         "name": "Follower / Mercy Street",
         "url": "https://open.spotify.com/album/0g7HuGGBrOMDimvGjdQbwv"
       },
@@ -5523,6 +5507,22 @@
       "duration_ms": 169912,
       "name": "2008 Financial Crash Theme Song",
       "url": "https://open.spotify.com/track/4k3nE1IAA7yhaKi4YQa710"
+    },
+    {
+      "added_at": "2026-10-25 06:33:10",
+      "album": {
+        "name": "Trendoids",
+        "url": "https://open.spotify.com/album/3rIMrhmLrQNWKBig3EiFdx"
+      },
+      "artists": [
+        {
+          "name": "Bloodhype",
+          "url": "https://open.spotify.com/artist/09gUA4mTEM2pZTSN3GndR0"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "/r/lovespell",
+      "url": "https://open.spotify.com/track/4Mf7dnOOsWf7lLWQc9n9qr"
     },
     {
       "added_at": "2026-10-25 06:33:10",

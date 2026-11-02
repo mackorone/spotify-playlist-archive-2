@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,764 songs - 6 day 17 hr 3 min
+2,765 songs - 6 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1516,6 +1516,7 @@
 | [Mil historias](https://open.spotify.com/track/4zrvkZ2lWDtkE2eptSMTNa) | [Carmen Medina](https://open.spotify.com/artist/6ZLUv9UIr1MenBK4LPGIee) | [Mil historias](https://open.spotify.com/album/77n6l3YxN57Dj9LfNuxfAU) | 2:55 | 2025-10-26 |  |
 | [Milonga RAP](https://open.spotify.com/track/5NgksNuDrs6zXjUA5bxTtZ) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 2:46 | 2026-05-27 |  |
 | [Minds Eye Dub](https://open.spotify.com/track/3mjVDhtVAT5UKwxFS3Vd2F) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:36 | 2024-03-25 |  |
+| [Minuana](https://open.spotify.com/track/61hfnG3sWitCGTEGqnr28F) | [Ayllu Project](https://open.spotify.com/artist/3KNIsls78ngMH4muPLQEeW), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Minuana](https://open.spotify.com/album/7MqjhzkQIN1ce0JIMeOfz5) | 3:29 | 2026-11-01 |  |
 | [Miracle Maker](https://open.spotify.com/track/3Dbfxlaz4yHlLQE8x24Inq) | [My Left Eye](https://open.spotify.com/artist/6LDbzrknLQSi9OcjYxzD7T) | [Miracle Maker](https://open.spotify.com/album/2yWCvhmN1z9qcVuwSGON9d) | 3:33 | 2025-06-28 |  |
 | [Mirage](https://open.spotify.com/track/7jekjMWZ9b7CGQZ6r9Itw3) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [Mirage](https://open.spotify.com/album/58ulkgENTR5zT5TCvJJXu4) | 2:43 | 2025-09-16 |  |
 | [Mirando al Techo](https://open.spotify.com/track/59VkarVZ22hK6mzNox9H64) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Mirando al Techo](https://open.spotify.com/album/7GJ7S0u5Jlu1njiSm44Buh) | 3:14 | 2026-03-12 |  |

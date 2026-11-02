@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears! ",
-  "num_followers": 328386,
+  "num_followers": 328407,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-10-16 08:00:13",
       "album": {
-        "name": "Fool Proof",
-        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
-      },
-      "artists": [
-        {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Fool Proof",
-      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
-    },
-    {
-      "added_at": "2026-10-16 08:00:13",
-      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2026-10-16 08:00:13",
+      "album": {
+        "name": "Fool Proof",
+        "url": "https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Fool Proof",
+      "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
     },
     {
       "added_at": "2026-10-16 08:00:13",

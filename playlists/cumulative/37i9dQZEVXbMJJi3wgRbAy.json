@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 188423,
       "name": "Amor de Vago",
       "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
@@ -15356,7 +15356,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 201706,
       "name": "Los Mayores",
       "url": "https://open.spotify.com/track/595GxxymShUzSRVGgDrkGI"
@@ -18198,7 +18198,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 189103,
       "name": "Nadie Esta Hablando De Amar",
       "url": "https://open.spotify.com/track/1nQRoMDJBlSokeU8NKiNvY"
@@ -19300,7 +19300,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM"
@@ -20766,6 +20766,24 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+    },
+    {
+      "album": {
+        "name": "PERRA",
+        "url": "https://open.spotify.com/album/3v7GytozWQfABUcQ09OqFB"
+      },
+      "artists": [
+        {
+          "name": "Lezcano Alan",
+          "url": "https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123173,
+      "name": "PERRA",
+      "url": "https://open.spotify.com/track/0QQthhuTn2aYB0ZxILCf48"
     },
     {
       "album": {
@@ -28386,7 +28404,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"

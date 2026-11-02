@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,694 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,693 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New Lat](https://open.spotify.com/track/3jojiJ4Acs3LldIzqbImqJ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [New Lat](https://open.spotify.com/album/1H1i8QbwJUR4vjiTVQvtV9) | 1:52 |
-| 2 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
-| 3 | [Gooi Dit Af](https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Gooi Dit Af](https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc) | 2:57 |
+| 2 | [Gooi Dit Af](https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Gooi Dit Af](https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc) | 2:57 |
+| 3 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
 | 4 | [Real Lyfe](https://open.spotify.com/track/1CpgfoRZqeQTEseUV6TegV) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Young & Wreckless](https://open.spotify.com/album/10h8RUTPJjpQOOjY5BTFVv) | 1:48 |
 | 5 | [Hoeveel](https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC) | [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Hoeveel](https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD) | 2:03 |
 | 6 | [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \(Remix\)](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 46 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
 | 47 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
 | 48 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
-| 49 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
-| 50 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
+| 49 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
+| 50 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
 
 Snapshot ID: `AAAAAHSFxm+gZFO72Z/8aGc4hpy2Utiq`

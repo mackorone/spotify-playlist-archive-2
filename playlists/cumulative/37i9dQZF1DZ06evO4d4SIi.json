@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Steady Flame",
+        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181677,
+      "name": "Steady Flame",
+      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
+    },
+    {
+      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },

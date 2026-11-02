@@ -4,7 +4,7 @@
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 4 min
+95 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Se Me Amanece](https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:34 | 2026-05-25 |  |
 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 | 2025-03-15 |  |
 | [Si Yo Me Activo](https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:31 | 2024-01-29 | 2025-03-15 |
-| [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 | 2025-07-06 |  |
+| [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 | 2025-07-06 | 2026-11-02 |
 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [SOY GRACIAS A DIOS](https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4) | 2:43 | 2025-09-16 | 2026-07-02 |
 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7zgkP78Tll2hcD61KPJPF6) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 2:43 | 2026-07-02 |  |
 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 | 2024-01-29 |  |
@@ -102,5 +102,6 @@
 | [Yo Soy del Golfo](https://open.spotify.com/track/1HVE8VfDWqjQpcSxrDeJgE) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Somos Leyenda](https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D) | 2:40 | 2025-10-11 |  |
 | [Yo Soy del Golfo](https://open.spotify.com/track/2z0v4DMAbcKCOJPY1CJjlo) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 2:40 | 2025-03-30 | 2025-10-11 |
 | [¿Para Qué Hacernos Daño?](https://open.spotify.com/track/5GLGvYyZDnfsMM0UP5Q8uu) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [¿Para Qué Hacernos Daño?](https://open.spotify.com/album/36QxJlstLErfxZ2m1HI1jg) | 2:40 | 2026-02-22 | 2026-08-10 |
+| [¿Por Qué Terminamos?](https://open.spotify.com/track/6EGJOnJKbrcgwTdlBG4AUx) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [¿Por Qué Terminamos?](https://open.spotify.com/album/2jCrFqDrv5Cjk9ZUVTlYEF) | 3:07 | 2026-11-02 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

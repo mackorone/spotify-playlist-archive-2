@@ -4917,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151003,
+      "name": "Question Of The Day",
+      "url": "https://open.spotify.com/track/19eN1TGsgjPI3b97HtEc5M"
+    },
+    {
+      "album": {
         "name": "Question Of The Day",
         "url": "https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1"
       },
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 151003,
       "name": "Question Of The Day",
       "url": "https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48"
@@ -6826,10 +6844,28 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 197043,
       "name": "YDH",
       "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
+    },
+    {
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197043,
+      "name": "YDH",
+      "url": "https://open.spotify.com/track/3os7zzaUHaw3rWaCOzsNVg"
     },
     {
       "album": {

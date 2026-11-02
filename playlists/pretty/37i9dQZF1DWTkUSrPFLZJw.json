@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24715,
+  "num_followers": 24724,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 187187,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 187187,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Down Flat",
+        "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "duration_ms": 172747,
+      "name": "Down Flat",
+      "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 141818,
       "name": "Better",
       "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Down Flat",
-        "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
-      },
-      "artists": [
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        }
-      ],
-      "duration_ms": 172747,
-      "name": "Down Flat",
-      "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
     },
     {
       "added_at": "2026-10-23 00:01:41",

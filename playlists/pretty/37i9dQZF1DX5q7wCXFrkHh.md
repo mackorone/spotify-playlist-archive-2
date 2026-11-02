@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,154 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,230 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 82 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 7](https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG) | 3:55 |
 | 83 | [Pound For Pound](https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Made Possible](https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs) | 6:10 |
 | 84 | [Útviklingssang](https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV) | [Duets](https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG) | 4:38 |
-| 85 | [Two Bass Hit \- Remastered 2001/Rudy Van Gelder Edition](https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(Remastered 2001/Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 3:45 |
-| 86 | [The Lady's In Love With You](https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Vince Guaraldi Trio](https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87) | 3:53 |
+| 85 | [The Lady's In Love With You](https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Vince Guaraldi Trio](https://open.spotify.com/album/2dER90qO41LJ9pqRh3YG87) | 3:53 |
+| 86 | [Two Bass Hit \- Remastered 2001/Rudy Van Gelder Edition](https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(Remastered 2001/Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 3:45 |
 | 87 | [Moonglow](https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 1 \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0) | 2:58 |
 | 88 | [I'm Your Pal](https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 3:58 |
 | 89 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/0Dg8zEmH6R1l67u1bsNKr0) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Rojo](https://open.spotify.com/album/5a7kLOKVUt6vf0KznST8Pl) | 6:43 |

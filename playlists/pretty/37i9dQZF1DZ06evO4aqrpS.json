@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 70097,
+  "num_followers": 70149,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAMfTaA7LIUYo7T/bZoBlzK",
+  "snapshot_id": "auUvgAAAAABlCRVwipcdMjo++zEuUGD7",
   "tracks": [
     {
       "added_at": null,
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 130306,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz"
+      "duration_ms": 277486,
+      "name": "Un Rayo De Luz",
+      "url": "https://open.spotify.com/track/4FglsPNvL4avF0MWJIeZm8"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 220084,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z"
+      "duration_ms": 130306,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 277486,
-      "name": "Un Rayo De Luz",
-      "url": "https://open.spotify.com/track/4FglsPNvL4avF0MWJIeZm8"
+      "duration_ms": 220084,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z"
     },
     {
       "added_at": null,
@@ -575,38 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/4xlQ2xYTgzuY7LMGmHxfeu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Sagrado",
         "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
       },
@@ -627,6 +595,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/4xlQ2xYTgzuY7LMGmHxfeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
       },
@@ -639,38 +639,6 @@
       "duration_ms": 172386,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/6Dl4YchtNJFRswO95gyZMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 220365,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 135306,
-      "name": "M\u00e1s o Menos Antes",
-      "url": "https://open.spotify.com/track/0yozlAb1wVR4UFJf28XXjx"
     },
     {
       "added_at": null,
@@ -695,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 135306,
+      "name": "M\u00e1s o Menos Antes",
+      "url": "https://open.spotify.com/track/0yozlAb1wVR4UFJf28XXjx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Libro Abierto",
         "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
       },
@@ -711,6 +695,42 @@
       "duration_ms": 161739,
       "name": "D\u00edas Que No Lloro",
       "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 220365,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Sagrado",
+        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "duration_ms": 123114,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6yxrZLNJAYmhLJ1QXikSkM"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Sagrado",
-        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        }
-      ],
-      "duration_ms": 123114,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6yxrZLNJAYmhLJ1QXikSkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica por Mi M\u00e9xico",
         "url": "https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 170790,
       "name": "Dios Nunca Muere",
       "url": "https://open.spotify.com/track/4n6WuF8iQ8zELVtwjdyzV0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 278886,
       "name": "El Agua Y La Miel",
       "url": "https://open.spotify.com/track/6S32t8SspzeR7Pr9qQfe0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": null,

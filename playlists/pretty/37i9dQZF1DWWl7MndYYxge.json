@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1177301,
+  "num_followers": 1177275,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 310333,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
       "artists": [
         {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -335,6 +319,22 @@
       "duration_ms": 266600,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+      },
+      "artists": [
+        {
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Rita Mitsouko",
         "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 335746,
       "name": "Marcia Ba\u00efla",
       "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
+        "name": "L'Autre",
+        "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
         "name": "All The Best (UK Version)",
         "url": "https://open.spotify.com/album/0jXLd4eGxSh8TIGEdRbdH4"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "L'Autre",
-        "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "D\u00e9senchant\u00e9e",
-      "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "M & J",
         "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Natural History - The Very Best of Talk Talk",
-        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "Such a Shame",
-      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Quand la musique est bonne",
         "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 234986,
       "name": "Au bout de mes r\u00eaves",
       "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Natural History - The Very Best of Talk Talk",
+        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Such a Shame",
+      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
     },
     {
       "added_at": "2026-09-09 09:06:15",

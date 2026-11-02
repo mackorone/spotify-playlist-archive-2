@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,457 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,454 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,21 +51,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 41 | [Bluebird](https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Bluebird](https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF) | 3:04 |
 | 42 | [Postcard](https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Postcard](https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg) | 3:06 |
 | 43 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 |
-| 44 | [Reasons](https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX) | [Luke Tyler Shelton](https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC) | [Reasons](https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv) | 3:03 |
-| 45 | [Little Birds](https://open.spotify.com/track/68QocdDNclivXB1TmfkTLY) | [The Wildwoods](https://open.spotify.com/artist/2wPWBhOid8BNr5lgEf8GKe) | [Little Birds](https://open.spotify.com/album/3eBCf9wkFfycV9am64MYVa) | 4:23 |
+| 44 | [Little Birds](https://open.spotify.com/track/68QocdDNclivXB1TmfkTLY) | [The Wildwoods](https://open.spotify.com/artist/2wPWBhOid8BNr5lgEf8GKe) | [Little Birds](https://open.spotify.com/album/3eBCf9wkFfycV9am64MYVa) | 4:23 |
+| 45 | [Reasons](https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX) | [Luke Tyler Shelton](https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC) | [Reasons](https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv) | 3:03 |
 | 46 | [For a Long While](https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [For a Long While](https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD) | 3:19 |
 | 47 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 48 | [Orphan Girl](https://open.spotify.com/track/28RSIjTle8Rru7vnZxTPQr) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/4naSRPW5EBkUY7d0JxPgP5) | 3:57 |
 | 49 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 |
 | 50 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
 | 51 | [Hands of Time](https://open.spotify.com/track/46kDii7UJSHtXvEXjexFq1) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 6:09 |
-| 52 | [Undo](https://open.spotify.com/track/56g0RZZnk3NRAOxhELYdHj) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Undo](https://open.spotify.com/album/5REc8JIZ9W788zAhBZHWIj) | 4:01 |
-| 53 | [Days Of You](https://open.spotify.com/track/56FfcCAWjPgyZeTX66NElO) | [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30) | [Days Of You](https://open.spotify.com/album/62qmLB2dXwppJXzYh8Fm0f) | 3:47 |
+| 52 | [Days Of You](https://open.spotify.com/track/56FfcCAWjPgyZeTX66NElO) | [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30) | [Days Of You](https://open.spotify.com/album/62qmLB2dXwppJXzYh8Fm0f) | 3:47 |
+| 53 | [Undo](https://open.spotify.com/track/56g0RZZnk3NRAOxhELYdHj) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Undo](https://open.spotify.com/album/5REc8JIZ9W788zAhBZHWIj) | 4:01 |
 | 54 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 |
 | 55 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
 | 56 | [Heart is the Hero](https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Heart is the Hero](https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS) | 2:56 |
-| 57 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 58 | [Where is the Heart of My Country](https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Where is the Heart of My Country](https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5) | 5:13 |
+| 57 | [Where is the Heart of My Country](https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Where is the Heart of My Country](https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5) | 5:13 |
+| 58 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 59 | [The Cure](https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Brother Sister](https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL) | 3:57 |
 | 60 | [Book Cover](https://open.spotify.com/track/18f64McwMz3Vqqsfk8Z6e0) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Book Cover](https://open.spotify.com/album/487GKzw9ereaLcviRXxDZZ) | 3:22 |
 | 61 | [Red Bird Morning](https://open.spotify.com/track/6dZueQyPiXXlvhSZuOQ0IY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 99 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 |
 | 100 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 |
 
-Snapshot ID: `AAAAADrOvNnTIjyjYs0m5AXiPxZkPadX`
+Snapshot ID: `AAAAAAaNiKPasWEms9gP8Bf/jD1tKChQ`

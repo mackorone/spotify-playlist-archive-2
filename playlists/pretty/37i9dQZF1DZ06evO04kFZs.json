@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 498958,
+  "num_followers": 498967,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAMDQMll1HTfb1qmHC8DnR4",
+  "snapshot_id": "auUvgAAAAAAei8StuyDlAIXvUu86Czja",
   "tracks": [
     {
       "added_at": null,
@@ -726,19 +726,11 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 203586,
-      "name": "Bout A Million",
-      "url": "https://open.spotify.com/track/4JfyaqKAw2u2smAMJpFYfp"
+      "duration_ms": 120827,
+      "name": "More Time",
+      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
     },
     {
       "added_at": null,
@@ -810,11 +802,19 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 120827,
-      "name": "More Time",
-      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
+      "duration_ms": 203586,
+      "name": "Bout A Million",
+      "url": "https://open.spotify.com/track/4JfyaqKAw2u2smAMJpFYfp"
     },
     {
       "added_at": null,

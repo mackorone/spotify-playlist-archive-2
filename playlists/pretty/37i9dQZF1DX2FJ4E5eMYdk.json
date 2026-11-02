@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 197410,
+  "num_followers": 197420,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,18 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw"
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     }
   ],
   "unique_name": "Psych & Groove",

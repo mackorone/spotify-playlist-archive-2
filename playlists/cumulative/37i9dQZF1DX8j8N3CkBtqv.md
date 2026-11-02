@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Shreya Jain, The F16s and other exciting artists.
 
-1,649 songs - 3 day 18 hr 57 min
+1,650 songs - 3 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,6 +899,7 @@
 | [Listen](https://open.spotify.com/track/4heuLQuyeST64cfOXQpxL9) | [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Listen](https://open.spotify.com/album/2cMDOueosDY7NUegSENIN6) | 3:21 | 2023-07-07 | 2023-08-05 |
 | [little things](https://open.spotify.com/track/2rfHzzJly9NRjFLc3eBGMh) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Shariva Parulkar](https://open.spotify.com/artist/24mPm1zXXsdJBQc4lok9Jc) | [little things](https://open.spotify.com/album/5EuOEycZWVKFOUfjhsBouu) | 2:50 | 2025-10-10 | 2025-10-17 |
 | [Long To Be](https://open.spotify.com/track/3PHGkNX8caEkn31C63u3Bl) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Long To Be](https://open.spotify.com/album/08nya3WQcReGtynYWaH7Tu) | 4:30 | 2024-06-28 | 2024-07-27 |
+| [Lost In You](https://open.spotify.com/track/4YREh59w3UnAwAwUWnIWo0) | [Priyanshu Bhartiya](https://open.spotify.com/artist/5Gg1GTGlFjLED8vqMggMCv), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Lost In You](https://open.spotify.com/album/185fSpPxrAnIkuKt96RMXl) | 3:10 | 2026-10-16 |  |
 | [Lost You](https://open.spotify.com/track/1TZnTjX5nOrQLCGa1K21Nw) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s), [DEVM](https://open.spotify.com/artist/63pRfyoFG1zPRQsASFo2dr) | [Lost You](https://open.spotify.com/album/0q1JgMQUVAWFttYY5A51lB) | 3:35 | 2025-10-24 | 2025-11-08 |
 | [Love & Limerence](https://open.spotify.com/track/2d83P9vmxC8Mc39vv7RtWY) | [Rudy](https://open.spotify.com/artist/5u5YWSbUXrkan2dIMVPyV5), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Love & Limerence](https://open.spotify.com/album/13PKuzINirCBhssbAslKp9) | 3:12 | 2025-09-12 | 2025-09-28 |
 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 | 2024-02-23 | 2024-03-30 |
@@ -1321,7 +1322,7 @@
 | [Savera](https://open.spotify.com/track/78jMmdZjTYTL830iFUdDqe) | [Chayan](https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U) | [Savera](https://open.spotify.com/album/3J0nkJMQuMBsSgE0LPdtVq) | 4:57 | 2026-02-06 | 2026-04-25 |
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-06-14 | 2024-12-07 |
 | [SAVERA](https://open.spotify.com/track/3sLVQHa6ivHL6eXO2N5NTw) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [SAVERA](https://open.spotify.com/album/0cDDEZJfDjRXZJLkrbFKsZ) | 3:46 | 2023-10-13 | 2023-11-18 |
-| [Saviour Complex](https://open.spotify.com/track/6C0HqndvyBSowdnZ4m2w9Y) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Saviour Complex](https://open.spotify.com/album/4OWci34sg3gb0Fkgb0vSfn) | 3:33 | 2026-09-04 |  |
+| [Saviour Complex](https://open.spotify.com/track/6C0HqndvyBSowdnZ4m2w9Y) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Saviour Complex](https://open.spotify.com/album/4OWci34sg3gb0Fkgb0vSfn) | 3:33 | 2026-09-04 | 2026-11-02 |
 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 | 2025-09-12 | 2025-11-21 |
 | [Sawaal](https://open.spotify.com/track/4z5v9itifJc7hq3cyR3Tn8) | [Third Hour](https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ) | [Sawaal](https://open.spotify.com/album/3qxQCckVXydZtEWzkamf8M) | 2:30 | 2023-11-10 | 2023-12-02 |
 | [Sawan Barse](https://open.spotify.com/track/66fIxdc4n5D0Jd07RvKQv5) | [Piyush Ambhore](https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s), [DEVM](https://open.spotify.com/artist/63pRfyoFG1zPRQsASFo2dr) | [Sawan Barse](https://open.spotify.com/album/0TWsz5snJOUyRC69hUCQaR) | 4:23 | 2026-05-01 | 2026-07-18 |

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Sydney Ross Mitchell",
-  "num_followers": 1659393,
+  "num_followers": 1659337,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 170320,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "FF",
-      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Shelly 2",
         "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
       },
@@ -495,22 +479,6 @@
       "duration_ms": 228692,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -531,6 +499,38 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "From Down Here",
         "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Mary Jane",
-        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 151671,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Soft 2",
         "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 230521,
       "name": "When Did You Stop Loving Me?",
       "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Broken chair",
-        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 220677,
-      "name": "Broken chair",
-      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 265606,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Equus Caballus",
-        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
-    },
-    {
       "added_at": "2026-10-30 04:00:54",
       "album": {
         "name": "Mad World",
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "In Twos",
-        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
       "artists": [
         {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 166897,
-      "name": "In Twos",
-      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+      "duration_ms": 207500,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -915,6 +899,22 @@
       "duration_ms": 208997,
       "name": "collagen",
       "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "PARTY",
-        "url": "https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "PARTY",
-      "url": "https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 116000,
       "name": "Messy Hair",
       "url": "https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/0UItZbJtLu7g845Zgiyoji"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 239831,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/6CjejdRVV6I4MbDJkNKqJ6"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Shuteye",
         "url": "https://open.spotify.com/album/6eNzaqs01BxZq3EAQR9b2B"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 194149,
       "name": "cranberry",
       "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/0UItZbJtLu7g845Zgiyoji"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 239831,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6CjejdRVV6I4MbDJkNKqJ6"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
     },
     {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
-    },
-    {
       "added_at": "2026-10-16 04:01:49",
       "album": {
         "name": "Back to Pennsylvania",
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Endless Sundays",
-        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
       },
       "artists": [
         {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 248281,
-      "name": "Endless Sundays",
-      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
+      "duration_ms": 239377,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1299,6 +1283,38 @@
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
+    },
+    {
+      "added_at": "2026-10-09 05:26:14",
+      "album": {
+        "name": "After the Fact (Deluxe)",
+        "url": "https://open.spotify.com/album/07jLvT3K1q3uUTy2OzU7uC"
+      },
+      "artists": [
+        {
+          "name": "Syd Taylor",
+          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+        }
+      ],
+      "duration_ms": 177567,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/3MA12tbX1avdc0ljdqLOdI"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1333,22 +1349,6 @@
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
-      "added_at": "2026-10-09 05:26:14",
-      "album": {
-        "name": "After the Fact (Deluxe)",
-        "url": "https://open.spotify.com/album/07jLvT3K1q3uUTy2OzU7uC"
-      },
-      "artists": [
-        {
-          "name": "Syd Taylor",
-          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
-        }
-      ],
-      "duration_ms": 177567,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/3MA12tbX1avdc0ljdqLOdI"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Keep It To Yourself",
@@ -1379,6 +1379,22 @@
       "duration_ms": 208555,
       "name": "Fuck Without Feelings",
       "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
+    },
+    {
+      "added_at": "2026-10-16 04:01:49",
+      "album": {
+        "name": "Pull Me Under",
+        "url": "https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 292125,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1413,22 +1429,6 @@
       "url": "https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2"
     },
     {
-      "added_at": "2026-10-16 04:01:49",
-      "album": {
-        "name": "Pull Me Under",
-        "url": "https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 292125,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Belinda",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
+      "added_at": "2026-10-23 04:40:19",
+      "album": {
+        "name": "Leave Me There",
+        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 256538,
+      "name": "Leave Me There",
+      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Crab",
@@ -1459,6 +1475,38 @@
       "duration_ms": 195577,
       "name": "Crab",
       "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
+    },
+    {
+      "added_at": "2026-10-23 04:02:09",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP"
+    },
+    {
+      "added_at": "2026-10-16 04:01:49",
+      "album": {
+        "name": "HURTS LIKE 17",
+        "url": "https://open.spotify.com/album/2HLSQ2QFP7kJEFYdTVDrKH"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "HURTS LIKE 17",
+      "url": "https://open.spotify.com/track/2Uk8qwrNnd17wBBqlB0nX7"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1483,38 +1531,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "human nature",
-        "url": "https://open.spotify.com/album/0WEiLAjjiwYpCdGSR3cAsR"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 149100,
-      "name": "human nature",
-      "url": "https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR"
-    },
-    {
-      "added_at": "2026-10-23 04:02:09",
-      "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Dust Settles and So Will I",
         "url": "https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH"
       },
@@ -1529,36 +1545,20 @@
       "url": "https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj"
     },
     {
-      "added_at": "2026-10-23 04:40:19",
+      "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Leave Me There",
-        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+        "name": "human nature",
+        "url": "https://open.spotify.com/album/0WEiLAjjiwYpCdGSR3cAsR"
       },
       "artists": [
         {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 256538,
-      "name": "Leave Me There",
-      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
-    },
-    {
-      "added_at": "2026-10-16 04:01:49",
-      "album": {
-        "name": "HURTS LIKE 17",
-        "url": "https://open.spotify.com/album/2HLSQ2QFP7kJEFYdTVDrKH"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "HURTS LIKE 17",
-      "url": "https://open.spotify.com/track/2Uk8qwrNnd17wBBqlB0nX7"
+      "duration_ms": 149100,
+      "name": "human nature",
+      "url": "https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Nothing's Accidental",
-        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Nothing's Accidental",
-      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Fall In Love With Me",
         "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 168685,
       "name": "Fall In Love With Me",
       "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Nothing's Accidental",
+        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Nothing's Accidental",
+      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
     },
     {
       "added_at": "2026-10-09 04:02:47",

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398626,
+  "num_followers": 398642,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "Last Goodbyes",
+      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 226813,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Cruisin\u2019",
-        "url": "https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI"
-      },
-      "artists": [
-        {
-          "name": "TOINE",
-          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
-        }
-      ],
-      "duration_ms": 204082,
-      "name": "Cruisin\u2019",
-      "url": "https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -159,18 +159,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Last Goodbyes",
-        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+        "name": "Cruisin\u2019",
+        "url": "https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI"
       },
       "artists": [
         {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+          "name": "TOINE",
+          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
         }
       ],
-      "duration_ms": 203264,
-      "name": "Last Goodbyes",
-      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
+      "duration_ms": 204082,
+      "name": "Cruisin\u2019",
+      "url": "https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Guy From Outer Space",
-        "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
-      },
-      "artists": [
-        {
-          "name": "FENNE",
-          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
-        }
-      ],
-      "duration_ms": 163176,
-      "name": "Guy From Outer Space",
-      "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Light Over You",
         "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 176746,
       "name": "Light Over You",
       "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Guy From Outer Space",
+        "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
+      },
+      "artists": [
+        {
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
+        }
+      ],
+      "duration_ms": 163176,
+      "name": "Guy From Outer Space",
+      "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 227408,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Light of My Life",
         "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 259518,
       "name": "Light of My Life",
       "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 227408,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "Saturday Silence",
+        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+      "duration_ms": 175844,
+      "name": "Saturday Silence",
+      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Saturday Silence",
-        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
       "artists": [
         {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 175844,
-      "name": "Saturday Silence",
-      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
-      },
-      "artists": [
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 184424,
       "name": "Pray",
       "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Save It For Later",
         "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 208575,
       "name": "Not The One",
       "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Be My Own",
         "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 219746,
       "name": "Be My Own",
       "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
-        }
-      ],
-      "duration_ms": 232082,
-      "name": "Don't Leave Me Now",
-      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 226853,
       "name": "Easy To Love (feat. Iris Jean)",
       "url": "https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 199000,
       "name": "Always Lost",
       "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Redeeming Grace",
-        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
-      },
-      "artists": [
-        {
-          "name": "SJ Hoffman",
-          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Afraid Of What You Might Find",
-      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 222691,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Redeeming Grace",
+        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
+      },
+      "artists": [
+        {
+          "name": "SJ Hoffman",
+          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Afraid Of What You Might Find",
+      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Lonely On Lovers Lane",
+      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Hunter",
         "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 236801,
       "name": "Bend",
       "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Lonely On Lovers Lane",
-      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
     },
     {
       "added_at": "2026-10-15 22:00:36",

@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 11233,
+  "num_followers": 11246,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
+        "name": "tears",
+        "url": "https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 127510,
+      "name": "tears",
+      "url": "https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 189706,
       "name": "Small girl (feat. D.O.)",
       "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
-        "name": "tears",
-        "url": "https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 127510,
-      "name": "tears",
-      "url": "https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "INSTANT (feat. SUMIN)",
-        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 178860,
-      "name": "INSTANT (feat. SUMIN)",
-      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
         "name": "MY MAN",
         "url": "https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 170312,
       "name": "MY MAN",
       "url": "https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
+        "name": "INSTANT (feat. SUMIN)",
+        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 178860,
+      "name": "INSTANT (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
     },
     {
       "added_at": "2026-06-26 09:20:00",

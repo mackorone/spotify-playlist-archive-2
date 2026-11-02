@@ -790,10 +790,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 137104,
       "name": "say it back",
       "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+    },
+    {
+      "album": {
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/2qk0vagquh5WnBcF54E8oI"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137104,
+      "name": "say it back",
+      "url": "https://open.spotify.com/track/6VbD1cKFOkL1ScX02MwOEx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-188 songs - 11 hr 30 min
+189 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Blood Red Moon](https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj) | 4:31 | 2023-10-27 |  |
 | [Boogieman](https://open.spotify.com/track/2nMog3num0pGta2SsWEuRG) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Lucky Dog](https://open.spotify.com/artist/2EzEehpkduwnWPYQdHaJfi) | [Boogieman](https://open.spotify.com/album/3ngRFbcy8cThWOZ7FFqS1K) | 3:02 | 2023-10-17 | 2023-10-28 |
 | [Boris The Spider \- Mono Version](https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Expanded Edition\)](https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P) | 2:29 | 2022-10-26 | 2024-04-19 |
-| [Boris The Spider \- New Remix](https://open.spotify.com/track/17JpQPUX1xbtpL19dDmYCQ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Remastered\)](https://open.spotify.com/album/0tLm9oyw4uz02ZHJDBRdmM) | 2:29 | 2023-10-27 |  |
+| [Boris The Spider \- New Remix](https://open.spotify.com/track/17JpQPUX1xbtpL19dDmYCQ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Remastered\)](https://open.spotify.com/album/0tLm9oyw4uz02ZHJDBRdmM) | 2:29 | 2023-10-27 | 2026-11-02 |
 | [Boris The Spider \- Remix](https://open.spotify.com/track/6G2n0YoqgcWxkGvowyYOBl) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Halloween Party Songs](https://open.spotify.com/album/1fuhAoWdCjTNFkAf0QyaHC) | 2:26 | 2022-11-02 | 2022-11-14 |
 | [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 | 2023-10-16 |  |
 | [Burn The Witch](https://open.spotify.com/track/1i7DbKzPcWERPNFa48NwwB) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi) | 3:35 | 2023-10-27 |  |
@@ -127,6 +127,7 @@
 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 | 2022-10-26 |  |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-10-26 |  |
 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 | 2022-10-26 |  |
+| [Ramalama \(Bang Bang\)](https://open.spotify.com/track/1i4JlWqVDl8nG8lL6ybjuN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Ruby Blue](https://open.spotify.com/album/2yseKsHTGnuXWn79vCC8FU) | 3:35 | 2026-11-01 |  |
 | [Release The Bats](https://open.spotify.com/track/5Nb2FhpX5DjmvybICaqDoU) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Live 81\-82](https://open.spotify.com/album/2FbzZ11gAKgysGmMRqmrZf) | 3:05 | 2022-10-26 | 2022-11-03 |
 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 | 2022-10-26 | 2024-04-19 |
 | [Right On, Frankenstein!](https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw) | 3:05 | 2023-10-27 |  |

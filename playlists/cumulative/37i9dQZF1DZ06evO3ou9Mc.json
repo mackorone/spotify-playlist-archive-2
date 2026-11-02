@@ -304,10 +304,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 228586,
       "name": "Coming For You",
       "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
+    },
+    {
+      "album": {
+        "name": "Coming For You (Hometown Remix)",
+        "url": "https://open.spotify.com/album/62NbAvdDqkkuHff5v9MSBb"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "yaboyNOIS",
+          "url": "https://open.spotify.com/artist/7LDnsvMHUPhLu0fkjRoVkG"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162302,
+      "name": "Coming For You - Hometown Remix",
+      "url": "https://open.spotify.com/track/1W7CnNSMlOTGQezT8NlgUl"
     },
     {
       "album": {

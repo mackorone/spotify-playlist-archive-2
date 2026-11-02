@@ -966,7 +966,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-02",
       "duration_ms": 168333,
       "name": "Helium (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS"
@@ -2034,6 +2034,24 @@
       "duration_ms": 187186,
       "name": "Women's Jeans",
       "url": "https://open.spotify.com/track/5UFlZdTUkIMPIcprjw69KG"
+    },
+    {
+      "album": {
+        "name": "Y.O.T.H.",
+        "url": "https://open.spotify.com/album/5QVdjD2cOEtSqYgAno5H6u"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Y.O.T.H.",
+      "url": "https://open.spotify.com/track/1GUBJKzZvNuZea7mnCirAe"
     },
     {
       "album": {

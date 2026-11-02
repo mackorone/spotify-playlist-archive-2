@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- 'Sahiba' by Jasleen Royal and Stebin Ben",
-  "num_followers": 147122,
+  "num_followers": 147154,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,30 @@
     {
       "added_at": "2026-10-05 07:57:43",
       "album": {
+        "name": "Wakhra Swag",
+        "url": "https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd"
+      },
+      "artists": [
+        {
+          "name": "Navv Inder",
+          "url": "https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Navi Ferozpurwala",
+          "url": "https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Wakhra Swag",
+      "url": "https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq"
+    },
+    {
+      "added_at": "2026-10-05 07:57:43",
+      "album": {
         "name": "Dil Lagana Mana Tha",
         "url": "https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 198875,
       "name": "Dil Lagana Mana Tha",
       "url": "https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX"
-    },
-    {
-      "added_at": "2026-10-05 07:57:43",
-      "album": {
-        "name": "Wakhra Swag",
-        "url": "https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd"
-      },
-      "artists": [
-        {
-          "name": "Navv Inder",
-          "url": "https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Navi Ferozpurwala",
-          "url": "https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Wakhra Swag",
-      "url": "https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq"
     },
     {
       "added_at": "2026-10-05 07:57:43",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2026-10-05 07:57:43",
       "album": {
-        "name": "Sundari",
-        "url": "https://open.spotify.com/album/3PsTebbjkIZRMvW6NB1nwM"
+        "name": "Illegal Weapon",
+        "url": "https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P"
       },
       "artists": [
         {
-          "name": "Sanju Rathod",
-          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
         },
         {
-          "name": "G-SPXRK",
-          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 161052,
-      "name": "Sundari",
-      "url": "https://open.spotify.com/track/5gsi1bSTPDIiW6Pi5kFmiU"
+      "duration_ms": 230000,
+      "name": "Illegal Weapon",
+      "url": "https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA"
     }
   ],
   "unique_name": "I-Pop Superhits",

@@ -4,7 +4,7 @@
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-99 songs - 7 hr 29 min
+100 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Song Of The Saints](https://open.spotify.com/track/2ya8YwRadzYVOUzzIfidFH) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/4UyZLGgzMu6jDcVAre7NhO) | 6:00 | 2025-07-13 | 2025-08-07 |
 | [Song Of The Saints](https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 6:00 | 2025-09-23 | 2026-07-18 |
 | [Song Of The Saints](https://open.spotify.com/track/4zUcDKqn9vAwzpR23rhzWz) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2GjcuR58pe1bVWC68eSKHv) | 6:00 | 2025-08-07 | 2025-09-23 |
+| [SOS \(Don't Let Me Go\)](https://open.spotify.com/track/5o8r4MQSnvM7IbqvRrAIc9) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [SOS \(Don't Let Me Go\)](https://open.spotify.com/album/1rFXPbSUzVsr1luvfbPT9E) | 4:10 | 2026-11-02 |  |
 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 | 2024-05-24 |  |
 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 | 2024-05-24 | 2026-04-19 |
 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 | 2024-05-24 | 2025-09-16 |

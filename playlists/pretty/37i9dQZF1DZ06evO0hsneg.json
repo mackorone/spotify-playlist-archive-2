@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAAAAvux+T6RYkd4G/niuxyEX",
+  "snapshot_id": "auUvgAAAAADXe3pa+oMbG4MXYdaDwxqQ",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#COWOBARU",
-        "url": "https://open.spotify.com/album/0OYTApMUBSfz2er15MzMR8"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "#COWOBARU",
-      "url": "https://open.spotify.com/track/45uoZjOMDsAcA7N6Hajd4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IYAIYA",
         "url": "https://open.spotify.com/album/2v1Qor28TnZ4UrATo8aJpq"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 145846,
       "name": "IYAIYA",
       "url": "https://open.spotify.com/track/6blQTbv4YDf6CqbgVxkGnN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#COWOBARU",
+        "url": "https://open.spotify.com/album/0OYTApMUBSfz2er15MzMR8"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "#COWOBARU",
+      "url": "https://open.spotify.com/track/45uoZjOMDsAcA7N6Hajd4W"
     },
     {
       "added_at": null,
@@ -339,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gue Gak Mau Kawin",
-        "url": "https://open.spotify.com/album/66K4RpnoJl4auky5Uii8oK"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "toxicdev!",
-          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
-        },
-        {
-          "name": "Young Lex",
-          "url": "https://open.spotify.com/artist/2GP0U8IbD2C8CeVbtuyDaX"
-        }
-      ],
-      "duration_ms": 229870,
-      "name": "Gue Gak Mau Kawin",
-      "url": "https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -407,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be My Baby",
-        "url": "https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR"
+        "name": "Gue Gak Mau Kawin",
+        "url": "https://open.spotify.com/album/66K4RpnoJl4auky5Uii8oK"
       },
       "artists": [
         {
@@ -416,13 +392,17 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "Egnever",
-          "url": "https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I"
+          "name": "toxicdev!",
+          "url": "https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev"
+        },
+        {
+          "name": "Young Lex",
+          "url": "https://open.spotify.com/artist/2GP0U8IbD2C8CeVbtuyDaX"
         }
       ],
-      "duration_ms": 151020,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
+      "duration_ms": 229870,
+      "name": "Gue Gak Mau Kawin",
+      "url": "https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE"
     },
     {
       "added_at": null,
@@ -443,6 +423,26 @@
       "duration_ms": 157498,
       "name": "Vaselina (feat. euro)",
       "url": "https://open.spotify.com/track/3Pwpl8jKwkliCAg7CNrb6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be My Baby",
+        "url": "https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Egnever",
+          "url": "https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I"
+        }
+      ],
+      "duration_ms": 151020,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
       "duration_ms": 221083,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mardial & Friends",
-        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
-      },
-      "artists": [
-        {
-          "name": "Mardial",
-          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 185892,
-      "name": "Digital Love",
-      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mardial & Friends",
+        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
+      },
+      "artists": [
+        {
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 185892,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Touch Me",
         "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onto The Next",
-        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Onto The Next",
-      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOOD GIRL",
         "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 173871,
       "name": "GOOD GIRL",
       "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Da Man",
+        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 184663,
+      "name": "I'm Da Man",
+      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 152695,
       "name": "Go Get That B",
       "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Da Man",
-        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 184663,
-      "name": "I'm Da Man",
-      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Ugly",
-        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "I'm Ugly",
-      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 154583,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -927,28 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
-        }
-      ],
-      "duration_ms": 169796,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musikal Polarisasi",
-        "url": "https://open.spotify.com/album/4frxq3cCVeuUkqdvrcCHvv"
+        "url": "https://open.spotify.com/album/1ugRAhql6NkvBp3mIcrLKF"
       },
       "artists": [
         {
@@ -989,7 +985,7 @@
         },
         {
           "name": "Agung Hapsah",
-          "url": "https://open.spotify.com/artist/0yTMR0uHl4OdzJmvbp0PMz"
+          "url": "https://open.spotify.com/artist/2UctUv7JlplzKKKQZGZSdM"
         },
         {
           "name": "Saykoji",
@@ -1010,7 +1006,7 @@
       ],
       "duration_ms": 494040,
       "name": "Anies Prabowo Ganjar - Epic Rap Battles Of Presidency 2024",
-      "url": "https://open.spotify.com/track/1JzD2zrVQzsx75eupEWt2s"
+      "url": "https://open.spotify.com/track/28r0LvHOSztB3ar6lTSIcw"
     },
     {
       "added_at": null,
@@ -1031,6 +1027,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+        }
+      ],
+      "duration_ms": 169796,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
         "url": "https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 182727,
       "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
       "url": "https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 103271,
+  "num_followers": 103283,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auKMgAAAAADDNnVQAq3+x0BH2YHXj22D",
+  "snapshot_id": "auUvgAAAAABYUZ+WSsDtMHXEnqAibRoG",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 168727,
-      "name": "NEVER LEFT",
-      "url": "https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rover (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 166805,
       "name": "Rover (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "NEVER LEFT",
+      "url": "https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
     },
     {
       "added_at": null,

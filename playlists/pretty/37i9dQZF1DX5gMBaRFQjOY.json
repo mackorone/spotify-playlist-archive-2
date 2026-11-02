@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 655936,
+  "num_followers": 656050,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "Louisiana Woman, Mississippi Man",
         "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 151731,
       "name": "Louisiana Woman, Mississippi Man",
       "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "Tanya Tucker / Super Hits",
         "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 182493,
       "name": "What's Your Mama's Name Child",
       "url": "https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
       "added_at": "2026-02-11 22:45:47",

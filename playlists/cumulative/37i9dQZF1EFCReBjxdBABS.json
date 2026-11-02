@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Here Lately",
+        "url": "https://open.spotify.com/album/2oVkHrFtXjBUhtRgdGJXwG"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159029,
+      "name": "Here Lately",
+      "url": "https://open.spotify.com/track/5RdcWfiZCoN0YZFlITTGtS"
+    },
+    {
+      "album": {
         "name": "Mid-Twenties Crisis",
         "url": "https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8"
       },
