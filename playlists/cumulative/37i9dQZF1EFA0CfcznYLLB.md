@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-440 songs - 23 hr 17 min
+441 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,8 @@
 | [Please](https://open.spotify.com/track/0cjzcacNsOaYrGQzrFsALs) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 4:12 | 2023-12-13 |  |
 | [Pockets](https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 3:13 | 2023-12-13 |  |
 | [Pop 1 \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5mQCWOVOD3cbNZwN8Tt41t) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Deadstar 2](https://open.spotify.com/album/1pPpRk6AF8EL19sgm2MkSD) | 2:40 | 2023-12-13 |  |
-| [Pop a Perc](https://open.spotify.com/track/64eOzETJF1AFOzYOrdZEEe) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Pop a Perc](https://open.spotify.com/album/2i0WhNLcP8fbFmCD20AIjk) | 3:22 | 2023-12-13 |  |
+| [Pop a Perc](https://open.spotify.com/track/64eOzETJF1AFOzYOrdZEEe) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Pop a Perc](https://open.spotify.com/album/2i0WhNLcP8fbFmCD20AIjk) | 3:22 | 2023-12-13 | 2026-11-03 |
+| [Pop a Perc](https://open.spotify.com/track/6iZTCVvaHucweVkAvee0FZ) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Pop a Perc](https://open.spotify.com/album/1Ypk5dGkLQY4j9jtQa4IIY) | 3:22 | 2026-11-02 |  |
 | [Pop Off](https://open.spotify.com/track/5DLPv77WZlS62ttvSYqdDR) | [Xuliyo](https://open.spotify.com/artist/3TIeNIMPocxv51llx8JNwq) | [Pop Off](https://open.spotify.com/album/2J25gyiIpJHAW5gm0dh8xD) | 2:03 | 2025-09-01 | 2025-09-16 |
 | [Poppin Out \(feat\. BIG30\)](https://open.spotify.com/track/7CI5KZUJwnGjv3cL5uygTr) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:43 | 2023-12-13 |  |
 | [Portland](https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:56 | 2023-12-13 |  |

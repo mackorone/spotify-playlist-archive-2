@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. brakence on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,859 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,865 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 |
 | 2 | [IMPULSIVE](https://open.spotify.com/track/6HkdUz90Kmcxr0cprI10UL) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [IMPULSIVE](https://open.spotify.com/album/3ywEQ1qz7ZjehBOSAOPieP) | 2:36 |
-| 3 | [out west](https://open.spotify.com/track/5wmtWS6aHkZHQ4kBtpoyFf) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [out west](https://open.spotify.com/album/7xQLhBdFIRteAoJWmnWPrC) | 2:41 |
+| 3 | [out west](https://open.spotify.com/track/5wmtWS6aHkZHQ4kBtpoyFf) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Stevie Daniels](https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK) | [out west](https://open.spotify.com/album/7xQLhBdFIRteAoJWmnWPrC) | 2:41 |
 | 4 | [onsra](https://open.spotify.com/track/3aYWDcq8XDdSVIORII690l) | [comehelpglo](https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l) | [onsra](https://open.spotify.com/album/2kpRZHGZg4I7ZgfiEwUhKY) | 2:11 |
 | 5 | [hollywood](https://open.spotify.com/track/0UDc3mu2BqMdsBwXB7QxqT) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [hollywood](https://open.spotify.com/album/3SkIJotOHkgXgcLz8mHYeO) | 1:56 |
 | 6 | [misses independent](https://open.spotify.com/track/5SrEfnGeY0Ip8m8WUG5OQd) | [Harris Hills](https://open.spotify.com/artist/1dSuARb1qCtlxBWAObmCCW) | [misses independent](https://open.spotify.com/album/6L2JFEfsVnzPyPcMahSJ5O) | 2:52 |

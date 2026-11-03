@@ -1834,10 +1834,28 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 186923,
       "name": "One of One",
       "url": "https://open.spotify.com/track/1bxwVCnjFoTgritZiI7hEb"
+    },
+    {
+      "album": {
+        "name": "Tripolar 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/60DRjkYXOJlnWHGuyRKPGK"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "One of One",
+      "url": "https://open.spotify.com/track/1kOthnIaCyi50tyuAhmDiG"
     },
     {
       "album": {

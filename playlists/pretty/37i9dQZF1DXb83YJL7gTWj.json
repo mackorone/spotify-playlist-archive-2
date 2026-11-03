@@ -1,6 +1,6 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 3055,
+  "num_followers": 3058,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
+        "name": "IDK You Yet",
+        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
         "name": "sun and moon",
         "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "I Guess I Just Feel Like",
-        "url": "https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286426,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
     }
   ],
   "unique_name": "Chill Dinner",

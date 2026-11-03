@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148644,
+  "num_followers": 148641,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
+        "name": "Grito de Katsbarnea",
+        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
+      },
+      "artists": [
+        {
+          "name": "Katsbarnea",
+          "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Grito de Katsbarnea",
+      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
         "name": "NAVES IMPERIAIS",
         "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
-        "name": "Grito de Katsbarnea",
-        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
-      },
-      "artists": [
-        {
-          "name": "Katsbarnea",
-          "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Grito de Katsbarnea",
-      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Autor da Vida",
-        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
         "name": "Louco (feat. PG)",
         "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
+        "name": "Autor da Vida",
+        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
         "name": "Na Corte do Egito (Ao Vivo)",
         "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
       },
@@ -811,26 +811,18 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Leva-Me Al\u00e9m (One ao Vivo)",
-        "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
       },
       "artists": [
         {
           "name": "AtituD",
           "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        },
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Leva-Me Al\u00e9m (One ao Vivo)",
-      "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -899,18 +891,26 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+        "name": "Leva-Me Al\u00e9m (One ao Vivo)",
+        "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
       },
       "artists": [
         {
           "name": "AtituD",
           "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        },
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
+      "duration_ms": 180800,
+      "name": "Leva-Me Al\u00e9m (One ao Vivo)",
+      "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
     },
     {
       "added_at": "2026-10-23 03:01:25",

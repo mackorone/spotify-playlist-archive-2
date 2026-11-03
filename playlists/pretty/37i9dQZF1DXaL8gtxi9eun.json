@@ -1,13 +1,49 @@
 {
   "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062f\u0646\u064a\u0627 \u0633\u0645\u064a\u0631 \u063a\u0627\u0646\u0645",
-  "num_followers": 284338,
+  "num_followers": 284339,
   "original_name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXaiM+Q7IFfkyiGZ4uoWH2JnAkW",
+  "snapshot_id": "AAAAALcaBm64sSbxujcH6lKyJyr3Z8o9",
   "tracks": [
+    {
+      "added_at": "2026-11-02 12:43:33",
+      "album": {
+        "name": "\u0644\u064a\u0647 \u0628\u0646\u0639\u0627\u0646\u062f",
+        "url": "https://open.spotify.com/album/2TSiXm8uO4cSit5EgpjvA2"
+      },
+      "artists": [
+        {
+          "name": "Rahma Mohsen",
+          "url": "https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "\u0644\u064a\u0647 \u0628\u0646\u0639\u0627\u0646\u062f",
+      "url": "https://open.spotify.com/track/2JZMPHkVZgZZtLQvONW53r"
+    },
+    {
+      "added_at": "2026-11-02 12:43:33",
+      "album": {
+        "name": "El Nasseb",
+        "url": "https://open.spotify.com/album/446jBWjI5udkOigAH1pepE"
+      },
+      "artists": [
+        {
+          "name": "Houda",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        },
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "El Nasseb",
+      "url": "https://open.spotify.com/track/1UODPCsyI5VODEF7OQFssM"
+    },
     {
       "added_at": "2026-10-23 15:00:35",
       "album": {
@@ -159,6 +195,22 @@
       "duration_ms": 158490,
       "name": "Leh Bas2al 3aleik?",
       "url": "https://open.spotify.com/track/6WKtOnqLIiZHuQigE0Kz42"
+    },
+    {
+      "added_at": "2026-11-02 12:43:33",
+      "album": {
+        "name": "\u0641\u0636\u064a\u062a\u0647\u0627 \u0633\u064a\u0631\u0629",
+        "url": "https://open.spotify.com/album/7wCXLqy1DHcGZZ5k12rGoW"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Elsherbeny",
+          "url": "https://open.spotify.com/artist/3M6stCLNFckDzvdJjohX7n"
+        }
+      ],
+      "duration_ms": 169615,
+      "name": "\u0641\u0636\u064a\u062a\u0647\u0627 \u0633\u064a\u0631\u0629",
+      "url": "https://open.spotify.com/track/2lc5LEUqT7TfMzDRDSxbdb"
     },
     {
       "added_at": "2026-10-09 14:22:27",

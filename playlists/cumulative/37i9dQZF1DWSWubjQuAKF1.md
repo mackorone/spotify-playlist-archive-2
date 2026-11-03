@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: kubera
 
-1,030 songs - 2 day 2 hr 17 min
+1,031 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,7 +574,7 @@
 | [Nie umiem kochać](https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Nie umiem kochać](https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO) | 3:10 | 2026-09-03 |  |
 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 | 2026-09-17 |  |
 | [Nie zawsze wszystko](https://open.spotify.com/track/4cl6qxj75z0HOdbHK2yDWD) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj), [Gverilla](https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U) | [Nie zawsze wszystko](https://open.spotify.com/album/6hCqUNPQDp25b85hGQ7ixM) | 3:12 | 2024-06-28 | 2024-07-27 |
-| [Nie zaśpiewam Twojej mamie](https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh) | 3:10 | 2026-08-13 |  |
+| [Nie zaśpiewam Twojej mamie](https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh) | 3:10 | 2026-08-13 | 2026-11-03 |
 | [Nie ze mną](https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nie ze mną](https://open.spotify.com/album/7hJStuNFMi5tpEZ94bKAit) | 2:43 | 2024-06-28 | 2024-07-19 |
 | [NIE ZNAM NIKOGO](https://open.spotify.com/track/6K8819fUuhUpMp3CVCNp5p) | [emka](https://open.spotify.com/artist/2pSIqHjOaHU1usrEg1p8Zr), [AstroWilk](https://open.spotify.com/artist/109DXBNtpYRi35I7lQ8QOm) | [NIE ZNAM NIKOGO](https://open.spotify.com/album/02OjQ9eUsypnVVaIPLb0br) | 2:31 | 2025-12-18 | 2026-01-24 |
 | [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-28 | 2024-11-22 |
@@ -1005,6 +1005,7 @@
 | [Zapomnij mnie](https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Zapomnij mnie](https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK) | 2:49 | 2026-07-30 | 2026-10-30 |
 | [zapomnij o mnie](https://open.spotify.com/track/51WFrq6xrBFXMVLnWWjNth) | [emka](https://open.spotify.com/artist/2pSIqHjOaHU1usrEg1p8Zr), [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [ejtenkot](https://open.spotify.com/artist/5yzlXfOYIUWUnM9byTT7u1), [Distroke](https://open.spotify.com/artist/0UI674wb5tazVALWDF9l8T) | [zapomnij o mnie](https://open.spotify.com/album/7ztKiO1WEnRZXhMXfMmWnn) | 2:19 | 2026-04-02 | 2026-06-12 |
 | [Zaryzykuję](https://open.spotify.com/track/1ykxcLXLmkq4lliBqDbG4F) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Zaryzykuję](https://open.spotify.com/album/1lqjH7MbV6C1lHvQimYxs3) | 2:39 | 2025-02-20 | 2025-02-22 |
+| [Zatrzymaj się](https://open.spotify.com/track/5gXek4hzwj136OrPEc7ZQK) | [Amla](https://open.spotify.com/artist/10K2gsGwYiWdzO9bU0AzuC), [xavier.](https://open.spotify.com/artist/7KTC7rg9tQlGKFxxO1Y7li), [Szwed Swd](https://open.spotify.com/artist/6DFpXEOsxD5MHDnglPQlk9) | [Zatrzymaj się](https://open.spotify.com/album/66oD3ubimBzjhcx6cMICv2) | 3:14 | 2026-10-29 |  |
 | [Zawsze](https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Zawsze](https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr) | 2:29 | 2025-02-20 | 2025-04-25 |
 | [Zdjęcie](https://open.spotify.com/track/3TbhyHXTD5QccQZYCJtTI6) | [Evelina Ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Zdjęcie](https://open.spotify.com/album/0PXk9uaNawVkvMVvtJzeXN) | 2:58 | 2026-10-29 |  |
 | [Ze stali](https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Ze stali](https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C) | 2:11 | 2026-01-30 | 2026-04-18 |

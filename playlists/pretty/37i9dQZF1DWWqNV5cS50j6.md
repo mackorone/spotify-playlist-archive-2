@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Hockitay
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,440 likes - 89 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,430 likes - 89 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
-| 2 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
-| 3 | [powercircuit](https://open.spotify.com/track/6loGbxIJ1h5CNnZYdjn6Zn) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [powercircuit](https://open.spotify.com/album/78XgFeBJ4tmte7AdskLZes) | 2:24 |
-| 4 | [I can smell them on your dress](https://open.spotify.com/track/3L2J31tL8WNKrEimWSSfuJ) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [I can smell them on your dress](https://open.spotify.com/album/0PayrcvrMcvtQGPMBt3v1X) | 2:08 |
-| 5 | [prada](https://open.spotify.com/track/6jMgG7UWL3rVZDdc4BVdpC) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [prada](https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ) | 2:36 |
-| 6 | [White Flag](https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [White Flag](https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm) | 3:05 |
-| 7 | [Reckless Attitude](https://open.spotify.com/track/44Z18Nfxz3C3Pc8ConXFss) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [Reckless Attitude](https://open.spotify.com/album/6DjsqpQ34YdWYOsYNYlLCS) | 4:00 |
-| 8 | [One Step](https://open.spotify.com/track/6zf9GCkTZYLA1qjdlu0ulY) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Numbskull](https://open.spotify.com/album/4FwRkmPT4WoxrBAerMhIPy) | 2:04 |
-| 9 | [Canary](https://open.spotify.com/track/2RqoTukas6v1tFb35pG2u6) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Nu Zamrock](https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz) | 2:51 |
-| 10 | [MIND YER BIZNIZ](https://open.spotify.com/track/2yLwwjkbhUaYoqltO0u1m7) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [MIND YER BIZNIZ](https://open.spotify.com/album/5f1UtOFyx7q2WYUJsd2VZk) | 3:20 |
-| 11 | [living purpose](https://open.spotify.com/track/7ngjGc3tgdFf9KLgJAFkYP) | [distantiate](https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej), [Grimsies](https://open.spotify.com/artist/5SkFIMCaEhQzw2Sd4dukfh) | [living purpose](https://open.spotify.com/album/63ycfa4h9OOQifpMn7knmp) | 1:25 |
-| 12 | [Where Is Gone?](https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Where Is Gone?](https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi) | 5:16 |
-| 13 | [If you wanna come down](https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 3:38 |
-| 14 | [hold me!](https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hold me, don't hold back!](https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r) | 2:22 |
-| 15 | [OK Corral](https://open.spotify.com/track/2zYtk7HGE8J69EV9PRyh64) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [BLackneck](https://open.spotify.com/album/51HiikLHW7o93lnLolLCBY) | 3:50 |
-| 16 | [ANIMALS](https://open.spotify.com/track/4T9ZWcFW2M1oLZea77RmWx) | [Drunk Cat](https://open.spotify.com/artist/2i0pGSxAZLh8rVHOl1kVnU) | [ANIMALS](https://open.spotify.com/album/18trDTX3RC19fnfEJCokne) | 3:49 |
-| 17 | [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 |
-| 18 | [George Clanton](https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Unfindable Ring](https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu) | 4:31 |
-| 19 | [Pull Me Under](https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Pull Me Under](https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w) | 4:52 |
-| 20 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
+| 1 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
+| 2 | [Pull Me Under](https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Pull Me Under](https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w) | 4:52 |
+| 3 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
+| 4 | [powercircuit](https://open.spotify.com/track/6loGbxIJ1h5CNnZYdjn6Zn) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [powercircuit](https://open.spotify.com/album/78XgFeBJ4tmte7AdskLZes) | 2:24 |
+| 5 | [I can smell them on your dress](https://open.spotify.com/track/3L2J31tL8WNKrEimWSSfuJ) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [I can smell them on your dress](https://open.spotify.com/album/0PayrcvrMcvtQGPMBt3v1X) | 2:08 |
+| 6 | [prada](https://open.spotify.com/track/6jMgG7UWL3rVZDdc4BVdpC) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [prada](https://open.spotify.com/album/1LHFpC2rfMkx72OwSODiiJ) | 2:36 |
+| 7 | [White Flag](https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [White Flag](https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm) | 3:05 |
+| 8 | [MIND YER BIZNIZ](https://open.spotify.com/track/2yLwwjkbhUaYoqltO0u1m7) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [MIND YER BIZNIZ](https://open.spotify.com/album/5f1UtOFyx7q2WYUJsd2VZk) | 3:20 |
+| 9 | [Reckless Attitude](https://open.spotify.com/track/44Z18Nfxz3C3Pc8ConXFss) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [Reckless Attitude](https://open.spotify.com/album/6DjsqpQ34YdWYOsYNYlLCS) | 4:00 |
+| 10 | [One Step](https://open.spotify.com/track/6zf9GCkTZYLA1qjdlu0ulY) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Numbskull](https://open.spotify.com/album/4FwRkmPT4WoxrBAerMhIPy) | 2:04 |
+| 11 | [Canary](https://open.spotify.com/track/2RqoTukas6v1tFb35pG2u6) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Nu Zamrock](https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz) | 2:51 |
+| 12 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
+| 13 | [living purpose](https://open.spotify.com/track/7ngjGc3tgdFf9KLgJAFkYP) | [distantiate](https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej), [Grimsies](https://open.spotify.com/artist/5SkFIMCaEhQzw2Sd4dukfh) | [living purpose](https://open.spotify.com/album/63ycfa4h9OOQifpMn7knmp) | 1:25 |
+| 14 | [Where Is Gone?](https://open.spotify.com/track/6ZH1yeWUf3Xp2XO0EZk91i) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Where Is Gone?](https://open.spotify.com/album/74eJeDyGg3BlPsBJIU1Ymi) | 5:16 |
+| 15 | [If you wanna come down](https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 3:38 |
+| 16 | [hold me!](https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hold me, don't hold back!](https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r) | 2:22 |
+| 17 | [OK Corral](https://open.spotify.com/track/2zYtk7HGE8J69EV9PRyh64) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [BLackneck](https://open.spotify.com/album/51HiikLHW7o93lnLolLCBY) | 3:50 |
+| 18 | [ANIMALS](https://open.spotify.com/track/4T9ZWcFW2M1oLZea77RmWx) | [Drunk Cat](https://open.spotify.com/artist/2i0pGSxAZLh8rVHOl1kVnU) | [ANIMALS](https://open.spotify.com/album/18trDTX3RC19fnfEJCokne) | 3:49 |
+| 19 | [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 |
+| 20 | [George Clanton](https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Unfindable Ring](https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu) | 4:31 |
 | 21 | [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 |
 | 22 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 | 23 | [Ivy](https://open.spotify.com/track/3HGZUb5t818Ie2MsJJZhMq) | [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Stick Around For Tea](https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU) | 5:20 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 88 | [aimee lou wood freestyle](https://open.spotify.com/track/58yUKDNZNeq2RpGvEfZZIX) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [aimee lou wood freestyle](https://open.spotify.com/album/4xCr9omMNO0OPk9w2n2g3C) | 2:39 |
 | 89 | [Cat Piss Junkie \- The Healing Power of Horses Both Have Flu Remix](https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG), [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR) | 4:00 |
 
-Snapshot ID: `AAAAAA9mI/y2qXtPlWUyi4NR1LnYKRjR`
+Snapshot ID: `AAAAAL+2pR5HqnaWgb7+GImlMDe5gQ7x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,225 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,229 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 | 49 | [Pärt: Für Alina](https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Serenity \- The Beauty Of Arvo Pärt](https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY) | 2:28 |
 | 50 | [Fratres \(Version for 12 Cellos\) \- For 12 Celli](https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Die 12 Cellisten der Berliner Philharmoniker](https://open.spotify.com/artist/3YZqGxNBOlhhAETu2LrNB7) | [Gidon Kremer plays Pärt/Weinberg](https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh) | 11:49 |
 
-Snapshot ID: `auUvgAAAAAC3BierAhFU+LRTKpDyEvCJ`
+Snapshot ID: `auaBAAAAAADqDDyGli2Ctd4Svnr4BwPv`

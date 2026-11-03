@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Daddy YankeeEmilia, Maria Becerra and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,969 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,989 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 7 | [BRINCAITO](https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [BRINCAITO](https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4) | 2:04 |
 | 8 | [Nena Linda Remix](https://open.spotify.com/track/5WRxE0yHVAwm38OExe3iPZ) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Nena Linda Remix](https://open.spotify.com/album/3ImuHyxciZZOXQoXbmrnWN) | 4:04 |
 | 9 | [Fuga Pa San Carlos](https://open.spotify.com/track/50yALxygAxy531arTFmwAZ) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Fuga Pa San Carlos](https://open.spotify.com/album/0uZTnJ42SV9huUXG8aasgU) | 2:36 |
-| 10 | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
+| 10 | [Felicidades](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
 | 11 | [M EXTRAÑA :\(](https://open.spotify.com/track/4OieMS6lgv2V5v6HjIu6tM) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ronald El Killa](https://open.spotify.com/artist/2jE5NeCBZpgohvRLtQ6v0O), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [M EXTRAÑA :\(](https://open.spotify.com/album/3tL6NA5DuonfcdxFplKUi5) | 3:52 |
 | 12 | [Hermano](https://open.spotify.com/track/1oWJA7SgvgAUO8rpB8jtw2) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hermano](https://open.spotify.com/album/4dvObFaBfFCECkVz5AeUkZ) | 4:05 |
 | 13 | [escalofríos](https://open.spotify.com/track/1mKgK7wPrfLzD7gP0h9HD8) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [escalofríos](https://open.spotify.com/album/1p4UWvXeZxraCcZEkGwx0k) | 2:44 |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-896 songs - 3 day 7 hr 10 min
+897 songs - 3 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,7 @@
 | [Song Of My Father \(Live\) \- Revisitation](https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Song Of My Father \(Live\) \[Revisitation\]](https://open.spotify.com/album/59f6I1iAqoyrvz36Js2fgc) | 5:47 | 2025-05-16 | 2025-06-27 |
 | [Songs of Joy](https://open.spotify.com/track/7FxxEg3YNRJq1agzBQOprW) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Songs of Joy](https://open.spotify.com/album/1cFcYbpr60J707xz5MePR2) | 4:01 | 2026-01-09 | 2026-02-24 |
 | [Sound of Joy](https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Sound of Joy](https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K) | 3:32 | 2026-02-13 | 2026-03-23 |
-| [Sound The Alarm \(Anazao\)](https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Sound The Alarm \(Anazao\)](https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm) | 6:22 | 2025-05-30 |  |
+| [Sound The Alarm \(Anazao\)](https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Sound The Alarm \(Anazao\)](https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm) | 6:22 | 2025-05-30 | 2026-11-03 |
 | [Sovereign God](https://open.spotify.com/track/1AcvZk7j2wZC5dFaT6RwTM) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Tehillah](https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO) | 8:02 | 2025-06-27 | 2026-06-06 |
 | [Sovereign GOD](https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Sovereign GOD](https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5) | 5:11 | 2025-05-16 | 2025-06-27 |
 | [Speak Lord](https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Speak Lord](https://open.spotify.com/album/1JboqcmSuZft5WePBNZJCm) | 3:50 | 2026-08-14 |  |
@@ -765,6 +765,7 @@
 | [The Shift I Desire](https://open.spotify.com/track/4x2wvX0rA6erPaVLK2mB2c) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i), [Blessing Alfa](https://open.spotify.com/artist/5qe5Di5c3W87AeeXTC3WBk) | [The Shift I Desire](https://open.spotify.com/album/5EkUXsTfcJ4tIz76wdWi0u) | 5:42 | 2025-08-22 | 2025-10-02 |
 | [The Way You Love Me](https://open.spotify.com/track/5TJ1pjgljJR6urR6QtsMWC) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Victoria Olorunsola](https://open.spotify.com/artist/4rvdKOmMiYS5nHMMRLgHp8) | [The Way You Love Me](https://open.spotify.com/album/2DJEtcqkVBBdNK8FRoYObJ) | 6:05 | 2025-02-14 | 2025-03-11 |
 | [The Word](https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [The Word](https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9) | 2:52 | 2024-02-02 | 2024-03-20 |
+| [Then & Now African Praise Medley](https://open.spotify.com/track/4zFjkyU4ZI26KSfgaoJIG1) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Then & Now African Praise Medley](https://open.spotify.com/album/5ghlKAGu3dOKOsPkubwUKv) | 13:22 | 2026-10-23 |  |
 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-10 | 2024-06-19 |
 | [There Is More \- Live](https://open.spotify.com/track/4ZkSdzNLmrUk5xRdZFx9PL) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [There Is More \(Live\)](https://open.spotify.com/album/6Cc7MR1Qigu61upFp6RZNb) | 5:26 | 2025-09-26 | 2025-10-26 |
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 | 2024-07-12 |

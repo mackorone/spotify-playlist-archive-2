@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "everything is now",
+        "url": "https://open.spotify.com/album/2IX0ck45O1UU4LJOEdWNgv"
+      },
+      "artists": [
+        {
+          "name": "RADBOUD",
+          "url": "https://open.spotify.com/artist/55D6CsbUvFnPbVy3w0X55j"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174130,
+      "name": "everything is now",
+      "url": "https://open.spotify.com/track/7xXrQgD8kkSYZAh7NIyGAf"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3wJxsWMmDGAxsBOR55WHVK"
       },
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"

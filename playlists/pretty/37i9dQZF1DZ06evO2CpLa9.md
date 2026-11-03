@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,891 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,896 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Por Sonora](https://open.spotify.com/track/7KiZai8dIAQE4DRCltWUk9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Por Sonora](https://open.spotify.com/album/2rJCHbOUn7S8UWBhb0yBrS) | 2:36 |
 | 50 | [ESCÁPATE](https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B) | 3:00 |
 
-Snapshot ID: `auUvgAAAAADYro/PsBjkaHwrvNslSDpg`
+Snapshot ID: `auaBAAAAAAC3Bn05KJeH9tGvf1oj8dMH`

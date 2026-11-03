@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 639853,
+  "num_followers": 640073,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "Space Jam (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI"
+      },
+      "artists": [
+        {
+          "name": "Quad City DJ's",
+          "url": "https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS"
+        }
+      ],
+      "duration_ms": 304960,
+      "name": "Space Jam",
+      "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "Poison (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 277293,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "Space Jam (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI"
-      },
-      "artists": [
-        {
-          "name": "Quad City DJ's",
-          "url": "https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS"
-        }
-      ],
-      "duration_ms": 304960,
-      "name": "Space Jam",
-      "url": "https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "(You Drive Me) Crazy [The Stop Remix!]",
+      "url": "https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
         "name": "A Tori Amos Collection: Tales of a Librarian",
         "url": "https://open.spotify.com/album/5vxM3v3hgNTQUmSu3LFxTa"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 227240,
       "name": "Professional Widow - Armand's Star Trunk Funk Mix",
       "url": "https://open.spotify.com/track/7pRDFBYPmUWBFnpwDhzqGm"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "(You Drive Me) Crazy [The Stop Remix!]",
-      "url": "https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi"
     },
     {
       "added_at": "2024-07-12 19:59:45",

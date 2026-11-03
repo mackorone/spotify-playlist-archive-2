@@ -3468,7 +3468,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 264524,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/5ZgSjcbX3EPbYszNBPvUHz"
@@ -4574,6 +4574,24 @@
       "duration_ms": 231299,
       "name": "Laundromat",
       "url": "https://open.spotify.com/track/2o9DXPraX3X5Z1vZNAL1Q6"
+    },
+    {
+      "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243096,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8"
     },
     {
       "album": {
@@ -6633,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371580,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
+    },
+    {
+      "album": {
         "name": "Sing Again",
         "url": "https://open.spotify.com/album/08kkoRvQj3GGTfvoemqscd"
       },
@@ -8244,7 +8280,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 151000,
       "name": "To The Sea",
       "url": "https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn"

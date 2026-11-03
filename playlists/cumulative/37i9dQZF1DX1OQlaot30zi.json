@@ -27319,6 +27319,28 @@
     },
     {
       "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/35gdrKl5CajqPsMpjo2Q95"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136600,
+      "name": "CALVAIRATE CALIFORNIA (con Tedua)",
+      "url": "https://open.spotify.com/track/2HYurlQNGvVZdiyxMPiL1Y"
+    },
+    {
+      "album": {
         "name": "CAMBIA LA TRAMA",
         "url": "https://open.spotify.com/album/0rVfxN3oRUTwOe6HKqbNk7"
       },
@@ -64462,7 +64484,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 185253,
       "name": "Guerra 2",
       "url": "https://open.spotify.com/track/41Am9Wf5VPGbKZwzq0mxrT"
@@ -77032,7 +77054,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173395,
-      "name": "LA BALLATA DEL RAGNO",
+      "name": "LA BALLATA DEL RAGNO (feat. Tedua)",
       "url": "https://open.spotify.com/track/4b82YHE5fcvg47lS6dWJci"
     },
     {
@@ -81526,7 +81548,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 174891,
       "name": "LEGGENDA",
       "url": "https://open.spotify.com/track/5E67xter2YEAFW0PHzoarV"
@@ -86994,7 +87016,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 144004,
       "name": "MAI COME VOI",
       "url": "https://open.spotify.com/track/20FFyQ25Z6dIqoHYeYIStz"
@@ -136004,7 +136026,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174700,
-      "name": "SECONDI DI RABBIA",
+      "name": "SECONDI DI RABBIA (feat. Neima Ezza, Massimo Pericolo & Tedua)",
       "url": "https://open.spotify.com/track/4fBp2Ky7Sp0a2XqjCIcvl5"
     },
     {
@@ -144472,6 +144494,24 @@
       "duration_ms": 206896,
       "name": "Sparir\u00f2",
       "url": "https://open.spotify.com/track/0BabguOUNcHWvrA8pXiX0a"
+    },
+    {
+      "album": {
+        "name": "Sparisci",
+        "url": "https://open.spotify.com/album/7GikXyCIkrHIANRbnjUP4e"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177149,
+      "name": "Sparisci",
+      "url": "https://open.spotify.com/track/6ZERZ7aiL214VIKLTBkaxS"
     },
     {
       "album": {

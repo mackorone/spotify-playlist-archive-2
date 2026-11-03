@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,394 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,399 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Rising From Ruins](https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 5:23 |
 | 50 | [Dreamer Deceiver \- 2026 Remixed & Remastered](https://open.spotify.com/track/36qbkcRCDvqE7UhHOpLjHt) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sad Wings of Destiny \(50th Anniversary Remixed & Remastered\)](https://open.spotify.com/album/3cMTwZIk74swzrWUSPVzcI) | 5:50 |
 
-Snapshot ID: `auUvgAAAAAAebov+Z5uxazXsGsOyUrzR`
+Snapshot ID: `auaBAAAAAABKTT1tTHx4Vu37LG0sJAQP`

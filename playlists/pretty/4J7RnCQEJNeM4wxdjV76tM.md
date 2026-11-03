@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > old asl
 
-[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 653 songs - 1 day 11 hr 59 min
+[jas](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 654 songs - 1 day 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -661,5 +661,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 651 | [Blue Velvet](https://open.spotify.com/track/23tr9MvcF8rrcxEOBtRBQe) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Heroine](https://open.spotify.com/album/5v8sXBKPvCrUryqtmZ2r2U) | 4:50 |
 | 652 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 |
 | 653 | [PERRA](https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [PERRA](https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr) | 2:13 |
+| 654 | [Personal](https://open.spotify.com/track/4vtODFep8AUV9fGfjMFyYH) | [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Personal](https://open.spotify.com/album/3MYb9GvMuaRTgtoOEAn7gm) | 4:52 |
 
-Snapshot ID: `AAAEamEZesxDsrG7FRX/W2OGBJJZYdAv`
+Snapshot ID: `AAAEa0hURguWPEd9xASPimtSjt6nRQvN`

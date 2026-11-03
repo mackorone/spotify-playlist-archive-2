@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. El De Las R's, El Rabbanito en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,657 likes - 113 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,742 likes - 113 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guadalajara](https://open.spotify.com/track/0naz79r8pNmgrLRDSq6osy) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Guadalajara](https://open.spotify.com/album/5NmvMEGyeOi20I1mQqIMYS) | 2:45 |
-| 2 | [Michoacano](https://open.spotify.com/track/26Gnnmja2qarlVdxFnhYIS) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Michoavano](https://open.spotify.com/album/6CfT5QpS2qvUUYa42jCrMX) | 3:12 |
+| 2 | [Michoacano](https://open.spotify.com/track/26Gnnmja2qarlVdxFnhYIS) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Michoacano](https://open.spotify.com/album/6CfT5QpS2qvUUYa42jCrMX) | 3:12 |
 | 3 | [Los Sueños Se Trabajan \- Remix](https://open.spotify.com/track/6IFlg2Il0MLmxjo2LGlskD) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Los Sueños Se Trabajan \(Remix\)](https://open.spotify.com/album/17in8yiKQqFs5Sxfm5YFQM) | 3:41 |
 | 4 | [7 Pecados](https://open.spotify.com/track/2vdXE5jP68cO85oX1rVohm) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [7 Pecados](https://open.spotify.com/album/1eOKjir4b6iSQZAzEL25Jh) | 3:20 |
 | 5 | [Se Que Les Arde](https://open.spotify.com/track/5fg9eVqwda8b57kmM3gW0q) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t) | [Se Que Les Arde](https://open.spotify.com/album/1uDyvi7fARuZtKzRB7nPQG) | 2:33 |

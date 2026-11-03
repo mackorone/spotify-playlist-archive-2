@@ -1,28 +1,48 @@
 {
   "description": "De grootste hits uit de kroeg in \u00e9\u00e9n playlist.",
-  "num_followers": 296916,
+  "num_followers": 296924,
   "original_name": "Kroegenhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASuqjn0vKWsNwd38UN0YvqjKJKQ",
+  "snapshot_id": "AAAAAMvQ4L8isGFG2q/nOQGWouYFC3Yj",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:28",
       "album": {
-        "name": "Zwoele Zomernachten",
-        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+        "name": "Een Zomeravond Met Jou",
+        "url": "https://open.spotify.com/album/5CkcfYmQ6Gdc3tjzi8ozU6"
       },
       "artists": [
         {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        },
+        {
+          "name": "Tim Douwsma",
+          "url": "https://open.spotify.com/artist/2fBh7Dt0OpbRH6cemGJi9K"
         }
       ],
-      "duration_ms": 195454,
-      "name": "Zwoele Zomernachten",
-      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
+      "duration_ms": 184787,
+      "name": "Een Zomeravond Met Jou",
+      "url": "https://open.spotify.com/track/4RA0T0I98uoBcWmnU6uOQ1"
+    },
+    {
+      "added_at": "2026-10-15 22:00:28",
+      "album": {
+        "name": "De Tent Moet Op Z'n Kop (NL Versie)",
+        "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
+      },
+      "artists": [
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "duration_ms": 157613,
+      "name": "De Tent Moet Op Z'n Kop - NL Versie",
+      "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
     },
     {
       "added_at": "2026-10-15 22:00:28",
@@ -59,8 +79,8 @@
     {
       "added_at": "2026-10-15 22:00:28",
       "album": {
-        "name": "Zomer, Zon & Strand",
-        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
       },
       "artists": [
         {
@@ -68,29 +88,9 @@
           "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Zomer, Zon & Strand",
-      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
-    },
-    {
-      "added_at": "2026-10-15 22:00:28",
-      "album": {
-        "name": "Een Zomeravond Met Jou",
-        "url": "https://open.spotify.com/album/5CkcfYmQ6Gdc3tjzi8ozU6"
-      },
-      "artists": [
-        {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
-        },
-        {
-          "name": "Tim Douwsma",
-          "url": "https://open.spotify.com/artist/2fBh7Dt0OpbRH6cemGJi9K"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Een Zomeravond Met Jou",
-      "url": "https://open.spotify.com/track/4RA0T0I98uoBcWmnU6uOQ1"
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
     },
     {
       "added_at": "2026-10-15 22:00:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-10-15 22:00:28",
       "album": {
-        "name": "De Tent Moet Op Z'n Kop (NL Versie)",
-        "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
-      },
-      "artists": [
-        {
-          "name": "Likke P\u00eahp",
-          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
-        }
-      ],
-      "duration_ms": 157613,
-      "name": "De Tent Moet Op Z'n Kop - NL Versie",
-      "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
-    },
-    {
-      "added_at": "2026-10-15 22:00:28",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
+    },
+    {
+      "added_at": "2026-10-15 22:00:28",
+      "album": {
+        "name": "Zomer, Zon & Strand",
+        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Zomer, Zon & Strand",
+      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
     },
     {
       "added_at": "2026-10-15 22:00:28",
@@ -315,6 +315,38 @@
       "duration_ms": 184800,
       "name": "Vuurwerk",
       "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
+    },
+    {
+      "added_at": "2026-10-15 22:00:28",
+      "album": {
+        "name": "Creditcard Van Staal",
+        "url": "https://open.spotify.com/album/10AxeFRyuXridn3Y7nsApL"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "duration_ms": 145356,
+      "name": "Creditcard Van Staal",
+      "url": "https://open.spotify.com/track/7CLhThzR5NjWT4ItP60ub4"
+    },
+    {
+      "added_at": "2026-10-15 22:00:28",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z"
     },
     {
       "added_at": "2026-10-15 22:00:28",
@@ -423,22 +455,6 @@
     {
       "added_at": "2026-10-15 22:00:28",
       "album": {
-        "name": "Creditcard Van Staal",
-        "url": "https://open.spotify.com/album/10AxeFRyuXridn3Y7nsApL"
-      },
-      "artists": [
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
-        }
-      ],
-      "duration_ms": 145356,
-      "name": "Creditcard Van Staal",
-      "url": "https://open.spotify.com/track/7CLhThzR5NjWT4ItP60ub4"
-    },
-    {
-      "added_at": "2026-10-15 22:00:28",
-      "album": {
         "name": "Rapido",
         "url": "https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 136255,
       "name": "Ik Hoor Niks Geks",
       "url": "https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67"
-    },
-    {
-      "added_at": "2026-10-15 22:00:28",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z"
     },
     {
       "added_at": "2026-10-15 22:00:28",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-10-15 22:00:28",
       "album": {
-        "name": "Likkie Likkie",
-        "url": "https://open.spotify.com/album/4KEpk6bIGB88xWWPUDnhDo"
-      },
-      "artists": [
-        {
-          "name": "Timothy",
-          "url": "https://open.spotify.com/artist/6v5JdXLpMDlN4PY3kdRQAS"
-        }
-      ],
-      "duration_ms": 151546,
-      "name": "Likkie Likkie",
-      "url": "https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U"
-    },
-    {
-      "added_at": "2026-10-15 22:00:28",
-      "album": {
         "name": "Zij Hoort Bij Mij",
         "url": "https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o"
       },
@@ -1257,6 +1241,22 @@
       "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
     },
     {
+      "added_at": "2026-11-02 11:00:34",
+      "album": {
+        "name": "Nooit Meer Weg",
+        "url": "https://open.spotify.com/album/4Ft2n2pyUeanYaPa4Y9LKY"
+      },
+      "artists": [
+        {
+          "name": "Reinier Peters",
+          "url": "https://open.spotify.com/artist/1LhBy8R3bJzvSad4Wsdh4x"
+        }
+      ],
+      "duration_ms": 144695,
+      "name": "Nooit Meer Weg",
+      "url": "https://open.spotify.com/track/7iDJZqSy3dn5BgF5Zhsb0o"
+    },
+    {
       "added_at": "2026-10-15 22:00:28",
       "album": {
         "name": "Suavemente, Dans Met Mij",
@@ -1291,6 +1291,22 @@
       "duration_ms": 195232,
       "name": "Cubaanse Caf\u00e9",
       "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
+    },
+    {
+      "added_at": "2026-11-02 11:00:34",
+      "album": {
+        "name": "Vloek van Barcelona",
+        "url": "https://open.spotify.com/album/2AkdWDqde887HRYN1I3kVb"
+      },
+      "artists": [
+        {
+          "name": "Jari Hellegers",
+          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
+        }
+      ],
+      "duration_ms": 145837,
+      "name": "Vloek van Barcelona",
+      "url": "https://open.spotify.com/track/4uyFQbpIBFxWlRf3g5SDnd"
     },
     {
       "added_at": "2026-10-15 22:00:28",
@@ -1461,6 +1477,22 @@
       "url": "https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz"
     },
     {
+      "added_at": "2026-11-02 11:00:34",
+      "album": {
+        "name": "Een Droom",
+        "url": "https://open.spotify.com/album/57BzAxJUFw1jx8V6lFIeFB"
+      },
+      "artists": [
+        {
+          "name": "Sam Kroon",
+          "url": "https://open.spotify.com/artist/1lrVA6fP51uti7k1xe6z5y"
+        }
+      ],
+      "duration_ms": 141149,
+      "name": "Een Droom",
+      "url": "https://open.spotify.com/track/0GO9dV7Tk8uV5n5khaH7VA"
+    },
+    {
       "added_at": "2026-10-15 22:00:28",
       "album": {
         "name": "Kroegtijger",
@@ -1527,22 +1559,6 @@
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
-    },
-    {
-      "added_at": "2026-10-15 22:00:28",
-      "album": {
-        "name": "Ik Wil Je Helemaal",
-        "url": "https://open.spotify.com/album/2ZhPISAto7OhMhu3oNCc8D"
-      },
-      "artists": [
-        {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
-        }
-      ],
-      "duration_ms": 167166,
-      "name": "Ik Wil Je Helemaal",
-      "url": "https://open.spotify.com/track/3QxvbBt6GnNZ8AbWNO8CoN"
     },
     {
       "added_at": "2026-10-15 22:00:28",
@@ -1619,22 +1635,6 @@
       "duration_ms": 166686,
       "name": "Als Ik 't Anders Zou Doen",
       "url": "https://open.spotify.com/track/6a8x5NbgOoAaMDXOojWcwG"
-    },
-    {
-      "added_at": "2026-10-15 22:00:28",
-      "album": {
-        "name": "Diamanten Ring",
-        "url": "https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc"
-      },
-      "artists": [
-        {
-          "name": "Daymian Van Os",
-          "url": "https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "Diamanten Ring",
-      "url": "https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl"
     },
     {
       "added_at": "2026-10-15 22:00:28",

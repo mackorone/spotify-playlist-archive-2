@@ -1,12 +1,12 @@
 {
   "description": "It's time for curtain up! Cover: & Juliet",
-  "num_followers": 47170,
+  "num_followers": 47176,
   "original_name": "Opening Numbers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHl71cMoOYcDneqPGq1h+M4xbnva",
+  "snapshot_id": "AAAAAPSAGTVJvaPcPiqDSVriZvfa6xTO",
   "tracks": [
     {
       "added_at": "2024-07-15 18:35:25",
@@ -25,36 +25,24 @@
       "url": "https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj"
     },
     {
-      "added_at": "2025-03-31 16:19:10",
+      "added_at": "2026-11-02 20:03:03",
       "album": {
-        "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3"
+        "name": "Prologue: Jellicle Songs for Jellicle Cats",
+        "url": "https://open.spotify.com/album/2B0yz7c6gD1bcbbqkTV24e"
       },
       "artists": [
         {
-          "name": "Operation Mincemeat",
-          "url": "https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX"
-        }
-      ],
-      "duration_ms": 320964,
-      "name": "Born to Lead",
-      "url": "https://open.spotify.com/track/2w3CGXFMOCuMJz8ayZDOor"
-    },
-    {
-      "added_at": "2024-07-15 18:35:25",
-      "album": {
-        "name": "A Chorus Line (New Broadway Cast Recording (2006))",
-        "url": "https://open.spotify.com/album/0MT1xGLpV7CVXyenhxd4t3"
-      },
-      "artists": [
+          "name": "Cats: The Jellicle Ball",
+          "url": "https://open.spotify.com/artist/6pf57zyzHsduE19An9zIcO"
+        },
         {
-          "name": "A Chorus Line Ensemble (2006)",
-          "url": "https://open.spotify.com/artist/54cAQhJZFo8g89zynJ1mBG"
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
         }
       ],
-      "duration_ms": 417760,
-      "name": "Opening: I Hope I Get It",
-      "url": "https://open.spotify.com/track/6fFoUIj16hCVGreZRd4jKY"
+      "duration_ms": 423731,
+      "name": "Prologue: Jellicle Songs for Jellicle Cats",
+      "url": "https://open.spotify.com/track/2maBLz5KvyuNI5YeGgFCoO"
     },
     {
       "added_at": "2024-07-15 18:35:25",
@@ -133,6 +121,50 @@
       "url": "https://open.spotify.com/track/3nAuX0TA8yhqsPDHO8ybFe"
     },
     {
+      "added_at": "2026-11-02 20:03:03",
+      "album": {
+        "name": "EVITA: The Full Album",
+        "url": "https://open.spotify.com/album/4yp4ryiYyXn4UuRE60TBns"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "EVITA",
+          "url": "https://open.spotify.com/artist/028VQUXo5Gz4zOUVW9c1R9"
+        }
+      ],
+      "duration_ms": 209257,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/0nO2tMjb0VvLcjhl2qjWv1"
+    },
+    {
+      "added_at": "2024-07-15 18:35:25",
+      "album": {
+        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
+      },
+      "artists": [
+        {
+          "name": "Brody Grant",
+          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
+        },
+        {
+          "name": "Sky Lakota-Lynch",
+          "url": "https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI"
+        },
+        {
+          "name": "Original Broadway Cast of The Outsiders - A New Musical",
+          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
+        }
+      ],
+      "duration_ms": 352875,
+      "name": "Tulsa '67",
+      "url": "https://open.spotify.com/track/7qi6tuUyDc5JG21uuTzkxX"
+    },
+    {
       "added_at": "2024-07-15 18:35:25",
       "album": {
         "name": "Kiss Me Kate (2019 Broadway Cast Recording)",
@@ -147,6 +179,38 @@
       "duration_ms": 239129,
       "name": "Another Op'nin', Another Show",
       "url": "https://open.spotify.com/track/7FPy2DJ7831foim4GlFcYX"
+    },
+    {
+      "added_at": "2024-07-15 18:35:25",
+      "album": {
+        "name": "A Chorus Line (New Broadway Cast Recording (2006))",
+        "url": "https://open.spotify.com/album/0MT1xGLpV7CVXyenhxd4t3"
+      },
+      "artists": [
+        {
+          "name": "A Chorus Line Ensemble (2006)",
+          "url": "https://open.spotify.com/artist/54cAQhJZFo8g89zynJ1mBG"
+        }
+      ],
+      "duration_ms": 417760,
+      "name": "Opening: I Hope I Get It",
+      "url": "https://open.spotify.com/track/6fFoUIj16hCVGreZRd4jKY"
+    },
+    {
+      "added_at": "2026-11-02 20:03:03",
+      "album": {
+        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
+      },
+      "artists": [
+        {
+          "name": "Maleah Joi Moon",
+          "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
+        }
+      ],
+      "duration_ms": 70565,
+      "name": "The Elevator Prologue",
+      "url": "https://open.spotify.com/track/4kBDVRrfCUmlOYbP7siwDt"
     },
     {
       "added_at": "2024-07-15 18:35:25",
@@ -209,28 +273,24 @@
       "url": "https://open.spotify.com/track/2tOmD1dlfOKcRamvQX2d5P"
     },
     {
-      "added_at": "2025-03-31 16:24:43",
+      "added_at": "2026-11-02 20:03:03",
       "album": {
-        "name": "Why Am I So Single? (Original London Cast Recording)",
-        "url": "https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7"
+        "name": "Illinoise: A New Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa"
       },
       "artists": [
         {
-          "name": "Jo Foster",
-          "url": "https://open.spotify.com/artist/17R4ymbMur8StPF1rwzD6K"
+          "name": "My Brightest Diamond",
+          "url": "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
         },
         {
-          "name": "Leesa Tulley",
-          "url": "https://open.spotify.com/artist/680Llo7QXDCRj8yGGpTE7U"
-        },
-        {
-          "name": "Original Cast of Why Am I So Single?",
-          "url": "https://open.spotify.com/artist/3DwNP78t78BAZzzH4mvVmr"
+          "name": "Original Cast of Illinoise: A New Musical",
+          "url": "https://open.spotify.com/artist/60YCQIxNBYpPLVhEvCy8Mr"
         }
       ],
-      "duration_ms": 128067,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/6ss7duE4xPIf2B8UwmdyAY"
+      "duration_ms": 141575,
+      "name": "Three Stars (or, Concerning the UFO Sighting near Highland, Illinois)",
+      "url": "https://open.spotify.com/track/5gCZ8WnO78Qq8mEvnSYiNG"
     },
     {
       "added_at": "2024-07-15 18:35:25",
@@ -297,28 +357,40 @@
       "url": "https://open.spotify.com/track/1mGnIAxWGb2DBnlqwCqOuO"
     },
     {
-      "added_at": "2024-07-15 18:35:25",
+      "added_at": "2026-11-02 20:03:03",
       "album": {
-        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
+        "name": "The Notebook (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
       },
       "artists": [
         {
-          "name": "Brody Grant",
-          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
+          "name": "Dorian Harewood",
+          "url": "https://open.spotify.com/artist/3i0Tpid8LELb73xqOyIcin"
         },
         {
-          "name": "Sky Lakota-Lynch",
-          "url": "https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI"
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
         },
         {
-          "name": "Original Broadway Cast of The Outsiders - A New Musical",
-          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
+          "name": "Ryan Vasquez",
+          "url": "https://open.spotify.com/artist/254yIdSLC8faW2tI6oX5pL"
+        },
+        {
+          "name": "Jordan Tyson",
+          "url": "https://open.spotify.com/artist/47wuVf1oclZWfDlfH0cIhs"
+        },
+        {
+          "name": "John Cardoza",
+          "url": "https://open.spotify.com/artist/3GcghHpYR6wDupDEM4eSyW"
+        },
+        {
+          "name": "Original Broadway Cast of The Notebook",
+          "url": "https://open.spotify.com/artist/2LOLe1dB641HmXo4RVbqck"
         }
       ],
-      "duration_ms": 352875,
-      "name": "Tulsa '67",
-      "url": "https://open.spotify.com/track/7qi6tuUyDc5JG21uuTzkxX"
+      "duration_ms": 206786,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6AxCWsKcey0uk7hMGEgfrB"
     },
     {
       "added_at": "2024-07-15 18:35:25",
@@ -473,6 +545,26 @@
       "url": "https://open.spotify.com/track/1HJL1OYlEZGooBf3wIiC4I"
     },
     {
+      "added_at": "2026-11-02 20:03:03",
+      "album": {
+        "name": "Schmigadoon! (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2tZcnFMZZux7yqvrAMoep6"
+      },
+      "artists": [
+        {
+          "name": "Schmigadoon! Original Broadway Company",
+          "url": "https://open.spotify.com/artist/53hTYUhSIXl5z7uLjCqzqF"
+        },
+        {
+          "name": "Cinco Paul",
+          "url": "https://open.spotify.com/artist/3rb3ucTNAUP92Wxr4LQPsK"
+        }
+      ],
+      "duration_ms": 276597,
+      "name": "Schmigadoon!",
+      "url": "https://open.spotify.com/track/5Cxoqu57ZzXWCJPU3JQgVQ"
+    },
+    {
       "added_at": "2024-07-15 18:35:25",
       "album": {
         "name": "Parade (2023 Broadway Cast Recording)",
@@ -551,6 +643,22 @@
       "duration_ms": 199933,
       "name": "Every Story Is A Love Story",
       "url": "https://open.spotify.com/track/0WMogrMD3E0PB3ibzfVX3J"
+    },
+    {
+      "added_at": "2026-11-02 20:03:03",
+      "album": {
+        "name": "Lempicka (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/17Jtzv1OPujNW4QgxdiSrd"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Lempicka",
+          "url": "https://open.spotify.com/artist/6DZeFg4IcWilAXZ0HVnw7I"
+        }
+      ],
+      "duration_ms": 63289,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/76epZhyd9xl4dKLKD0Peei"
     },
     {
       "added_at": "2024-07-15 18:35:25",
@@ -691,6 +799,34 @@
       "duration_ms": 346813,
       "name": "Omigod You Guys",
       "url": "https://open.spotify.com/track/2av1BBGdN9DW1u7rvoRhMM"
+    },
+    {
+      "added_at": "2026-11-02 20:03:03",
+      "album": {
+        "name": "The Lost Boys (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/235gR56E3a2MzDyCap8qUW"
+      },
+      "artists": [
+        {
+          "name": "LJ Benet",
+          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        },
+        {
+          "name": "Benjamin Pajak",
+          "url": "https://open.spotify.com/artist/1ga4tn1RO77HW2oic1Novu"
+        },
+        {
+          "name": "Original Broadway Cast of The Lost Boys",
+          "url": "https://open.spotify.com/artist/3DECEsS7H9ALRxin82EZxE"
+        }
+      ],
+      "duration_ms": 260838,
+      "name": "No More Monsters",
+      "url": "https://open.spotify.com/track/02v9P9rKo0pjOfrRoPET8i"
     },
     {
       "added_at": "2024-07-15 18:35:25",
@@ -1347,22 +1483,6 @@
       "duration_ms": 157360,
       "name": "Annie: Maybe",
       "url": "https://open.spotify.com/track/7mZ8hSSAqkNiUBSGe9hB4E"
-    },
-    {
-      "added_at": "2024-07-15 18:35:25",
-      "album": {
-        "name": "Jagged Little Pill (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3JUvh3Ch6QFxguLABtTOE3"
-      },
-      "artists": [
-        {
-          "name": "Original Broadway Cast Of Jagged Little Pill",
-          "url": "https://open.spotify.com/artist/5ZBhYuX1h0C74uSvn2EpHm"
-        }
-      ],
-      "duration_ms": 71922,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/6wft1XgpEHzV08HyfMQn8T"
     },
     {
       "added_at": "2024-07-15 18:35:25",

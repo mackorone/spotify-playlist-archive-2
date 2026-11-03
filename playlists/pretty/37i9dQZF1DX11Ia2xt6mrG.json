@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75151,
+  "num_followers": 75161,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "Tutankamon House Mix",
-        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
-      },
-      "artists": [
-        {
-          "name": "Sundraks",
-          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "Tutankamon House Mix",
-      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Into Fire",
-        "url": "https://open.spotify.com/album/5f05Xy9yOtjjnOWTRlFatH"
-      },
-      "artists": [
-        {
-          "name": "Junkie Kid",
-          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
-        }
-      ],
-      "duration_ms": 190593,
-      "name": "Into Fire",
-      "url": "https://open.spotify.com/track/7y3Hx2O8sLmyenbQKv8VVv"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "PVTIVUELTA",
         "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
       },
@@ -1383,22 +1367,38 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "All I See",
-        "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
+        "name": "Into Fire",
+        "url": "https://open.spotify.com/album/5f05Xy9yOtjjnOWTRlFatH"
       },
       "artists": [
         {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
         }
       ],
-      "duration_ms": 276585,
-      "name": "All I See",
-      "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
+      "duration_ms": 190593,
+      "name": "Into Fire",
+      "url": "https://open.spotify.com/track/7y3Hx2O8sLmyenbQKv8VVv"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/0o3HcAIsWzqEg8BFJZEaN6"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
+        }
+      ],
+      "duration_ms": 170806,
+      "name": "Between Us",
+      "url": "https://open.spotify.com/track/1bRrHfV2axCZPTP3RktAwC"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/0o3HcAIsWzqEg8BFJZEaN6"
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
       },
       "artists": [
         {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
         },
         {
-          "name": "Orsay",
-          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 170806,
-      "name": "Between Us",
-      "url": "https://open.spotify.com/track/1bRrHfV2axCZPTP3RktAwC"
+      "duration_ms": 276585,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 195271,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 142714,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 195271,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
     },
     {
       "added_at": "2026-10-23 06:00:41",

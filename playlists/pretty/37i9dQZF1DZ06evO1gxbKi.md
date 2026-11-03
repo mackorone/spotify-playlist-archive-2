@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,884 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,886 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 49 | [Steal Away \- Live At The Church Of God, NY / 1959](https://open.spotify.com/track/6c3I7Bi4lq4Zp1iwYF9Zqg) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth \(Expanded Edition\)](https://open.spotify.com/album/7E7NjgtIcrmDqmp0FgnkSl) | 3:14 |
 | 50 | [Amazing Grace](https://open.spotify.com/track/6l3QpNalr5RJy3QKkCUrzu) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:25 |
 
-Snapshot ID: `auUvgAAAAAD99CVzzB0i8L54YZeaC66J`
+Snapshot ID: `auUvgAAAAAD4vzPDDWwniGxetIOchIIf`

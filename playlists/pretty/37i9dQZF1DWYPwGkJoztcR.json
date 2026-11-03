@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398642,
+  "num_followers": 398648,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
       "artists": [
         {
-          "name": "Edward Rogers",
-          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 183275,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
         }
       ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+      "duration_ms": 183275,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+        "name": "Light Over You",
+        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "Janna",
+          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
         }
       ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+      "duration_ms": 176746,
+      "name": "Light Over You",
+      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -499,22 +499,6 @@
       "duration_ms": 175588,
       "name": "Whatever It Takes (Break Your Heart)",
       "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Light Over You",
-        "url": "https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy"
-      },
-      "artists": [
-        {
-          "name": "Janna",
-          "url": "https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Light Over You",
-      "url": "https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -579,6 +563,22 @@
       "duration_ms": 238699,
       "name": "Morning Dawns Again",
       "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "On The Way",
-        "url": "https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "On The Way",
-      "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184883,
       "name": "Here's To Forever",
       "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "On The Way",
+        "url": "https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "On The Way",
+      "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
-      },
-      "artists": [
-        {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Until My Last Breath",
         "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 177813,
       "name": "Until My Last Breath",
       "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 216005,
+      "name": "Beginners",
+      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Calling Out",
         "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 192080,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 216005,
-      "name": "Beginners",
-      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
         }
       ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
       "artists": [
         {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 245562,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 150937,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Apple Tree",
-        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 178336,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 179148,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Apple Tree",
+        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 178336,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Always Lost",
         "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
       },
       "artists": [
         {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
         }
       ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
+      "duration_ms": 191040,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1359,22 +1343,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 222691,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1403,6 +1371,38 @@
       "duration_ms": 186040,
       "name": "Lush",
       "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 222691,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Hunter",
-        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 249863,
       "name": "Back to the River",
       "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+        "name": "everything is now",
+        "url": "https://open.spotify.com/album/2IX0ck45O1UU4LJOEdWNgv"
       },
       "artists": [
         {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+          "name": "RADBOUD",
+          "url": "https://open.spotify.com/artist/55D6CsbUvFnPbVy3w0X55j"
         }
       ],
-      "duration_ms": 164493,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+      "duration_ms": 174130,
+      "name": "everything is now",
+      "url": "https://open.spotify.com/track/7xXrQgD8kkSYZAh7NIyGAf"
     }
   ],
   "unique_name": "'t Koffiehuis",

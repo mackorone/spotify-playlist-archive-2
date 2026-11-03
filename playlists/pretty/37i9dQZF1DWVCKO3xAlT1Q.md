@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist\. Congrats to this year's winner DARA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,294,374 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,203 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 5 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
 | 6 | [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 |
 | 7 | [Før Vi Går Hjem](https://open.spotify.com/track/2qG6vr8fMq2abvKu7qXVuQ) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/6DIbkPf3IfXlhovI4F25Pb) | 2:54 |
-| 8 | [Viva, Moldova!](https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M) | 2:54 |
+| 8 | [Viva, Moldova!](https://open.spotify.com/track/3slA6oMqkypLVUkEjk2xfQ) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/7up0HjHYKsoOCJu9Mlx8x0) | 2:54 |
 | 9 | [Ridnym \- Eurovision Version](https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym \(Eurovision Version\)](https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn) | 2:58 |
 | 10 | [Ferto](https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ferto](https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV) | 3:00 |
 | 11 | [REGARDE !](https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz) | [Monroe](https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7), [Violin Phonix](https://open.spotify.com/artist/1PjznJeNAIKEEeTkVWYUBL) | [REGARDE !](https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V) | 2:57 |
-| 12 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 |
+| 12 | [Pray](https://open.spotify.com/track/4SbMcQYjfmirlObF27nXtf) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/56oRkvjUSWqsjCoVLWjfqE) | 3:00 |
 | 13 | [Nân](https://open.spotify.com/track/40vsOMljwhHCibpToRULGo) | [Alis](https://open.spotify.com/artist/2qHjO4DZZhtrjeHGF1OvhT) | [Nân](https://open.spotify.com/album/1VB86eKOCokBdOVcU1oxzo) | 3:09 |
 | 14 | [Ya Ya Ya](https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Ya Ya Ya](https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M) | 2:49 |
 | 15 | [Andromeda](https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo) | [LELEK](https://open.spotify.com/artist/3XRa1ssBicMHAW76NxXDts) | [Andromeda](https://open.spotify.com/album/2hmiXUccJdvAb5YWklu4yo) | 2:59 |

@@ -4,7 +4,7 @@
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-302 songs - 17 hr 33 min
+303 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [all day](https://open.spotify.com/track/5Jsx16qY3PjJWGfiGkMYJj) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/4UeBISIWBzbzjo8CKWK0jv) | 3:32 | 2022-05-03 | 2022-07-29 |
 | [all day](https://open.spotify.com/track/5yOTx1AhzdCpOLUHqdCpAW) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/3WeWXeKbF9dj2qZOSBoh1f) | 3:32 | 2022-11-09 | 2023-09-06 |
 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2022-05-03 |  |
-| [Almost](https://open.spotify.com/track/0e8IPLkIQkk5uBfQB4T4UO) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Yooin](https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn) | [Almost](https://open.spotify.com/album/4XtWsRvS6odiRbtS9VJpra) | 2:58 | 2026-07-03 |  |
+| [Almost](https://open.spotify.com/track/0e8IPLkIQkk5uBfQB4T4UO) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Yooin](https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn) | [Almost](https://open.spotify.com/album/4XtWsRvS6odiRbtS9VJpra) | 2:58 | 2026-07-03 | 2026-11-03 |
 | [Always Here](https://open.spotify.com/track/1bpA1qiYGJC4APWStEK15Z) | [HYUN JI](https://open.spotify.com/artist/7GE6yEpYcaLM3nRJ2P4MXR) | [Always Here](https://open.spotify.com/album/5VxZmHbOyCDWCqNu1we5li) | 3:12 | 2025-07-21 | 2025-08-12 |
 | [Anemone](https://open.spotify.com/track/6p7uMDafsJbxEYRfIsu07X) | [2F/3F](https://open.spotify.com/artist/2D5fGNgLGASKII9Se7u0rX) | [Dawn](https://open.spotify.com/album/1D0L4Yzg3kO2hiFwMwWHjk) | 3:53 | 2022-05-03 | 2022-07-14 |
 | [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 | 2026-07-24 |  |
@@ -67,7 +67,7 @@
 | [Dawnlight](https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:31 | 2025-09-16 |  |
 | [Days of Youth](https://open.spotify.com/track/5t1pYN3ZcIOKMXdhDRRacd) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [My Girlfriend is the Man \(Original Soundtrack\) Part.3](https://open.spotify.com/album/6BkbFcvAIq9yNeZHBmhN27) | 2:50 | 2025-08-11 | 2025-12-27 |
 | [Dear My Childhood](https://open.spotify.com/track/6Vy7FsMTd1jc4Xk8o2GBps) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:16 | 2025-04-28 |  |
-| [Dear My Love](https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:33 | 2025-12-26 | 2026-09-05 |
+| [Dear My Love](https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:33 | 2025-12-26 |  |
 | [Dear weary one \(with seolkyung\)](https://open.spotify.com/track/4LwHWD8bIxLpGWaijzbESw) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Seol Kyung](https://open.spotify.com/artist/3PgHUNgvyVrM1c2S93dRTY) | [Dear weary one](https://open.spotify.com/album/0YbacYJRaVoev72V97Ofek) | 4:17 | 2025-09-03 | 2025-10-27 |
 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-12-05 |  |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-03 | 2024-07-29 |
@@ -144,7 +144,7 @@
 | [Leaf](https://open.spotify.com/track/1mExGMmQduYmTwtPPvJcvL) | [JIYE](https://open.spotify.com/artist/4JlouH5mKVum9f0eaQuUzC) | [Leaf](https://open.spotify.com/album/36vf6NiaNlPAHiSseA1Ven) | 2:10 | 2025-07-21 | 2025-08-18 |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2025-02-22 |
 | [let’s play tug](https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [let’s play tug](https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR) | 2:46 | 2022-05-03 | 2023-07-08 |
-| [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 | 2025-06-16 |  |
+| [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 | 2025-06-16 | 2026-11-03 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2025-10-01 |
 | [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 | 2024-12-05 | 2024-12-28 |
 | [Losing Myself](https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Losing Myself](https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH) | 2:56 | 2022-08-09 | 2024-11-24 |
@@ -271,6 +271,7 @@
 | [We loved each other so much](https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2) | 3:47 | 2022-06-18 | 2023-08-23 |
 | [We loved each other so much](https://open.spotify.com/track/3WFaqEHHUDVcbNku1gxrBR) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/3yok91ShoT3Xwr9Z34YZnj) | 3:47 | 2023-09-19 | 2023-11-18 |
 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 | 2022-05-03 | 2025-03-27 |
+| [What A Friend Is](https://open.spotify.com/track/4MnV29JdPtOR0Dl3KUjMq2) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [What A Friend Is](https://open.spotify.com/album/5VvDkGwzKlHFnqcc05KACE) | 4:17 | 2026-10-31 |  |
 | [What about Next Spring \(feat\. Kim Daniel of wave to earth\)](https://open.spotify.com/track/57ruI2k5kFJMNxLKHzBEyh) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY) | [What about Next Spring \(feat\. Kim Daniel of wave to earth\)](https://open.spotify.com/album/6l6AeNEAevPbbOag6x7OuJ) | 3:39 | 2025-06-16 |  |
 | [What Is Love?](https://open.spotify.com/track/0xexKAXR10GVJJAAJeENEK) | [Jungyoon and Hyunseo](https://open.spotify.com/artist/74VZH0ylIeQ9CiLAgPdYqu) | [What Is Love?](https://open.spotify.com/album/0hqdzRTDpgh3SajdxRuQkn) | 3:38 | 2025-05-19 | 2025-06-17 |
 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 | 2022-06-18 | 2025-07-21 |

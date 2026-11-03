@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-454 songs - 1 day 3 hr 10 min
+458 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [body of water](https://open.spotify.com/track/5wP9DYz49ksiTGp3R3lOu0) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [body of water](https://open.spotify.com/album/0O28yb82DrLDnp9isurKNa) | 2:11 | 2025-11-01 | 2025-12-06 |
 | [BOGO Bodega](https://open.spotify.com/track/3TepkxGAUbD2KgxeePeSjP) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [BOGO Bodega](https://open.spotify.com/album/37SByWcngj4Iu3IaJzXmEo) | 3:18 | 2026-04-29 | 2026-05-26 |
 | [BOOM](https://open.spotify.com/track/4bEFJ0CJwDkPHiuoykc3Wm) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:11 | 2026-01-11 | 2026-02-02 |
+| [Breakwall](https://open.spotify.com/track/1d4c6s3OpMXu98TVvH0mXr) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Breakwall](https://open.spotify.com/album/3zEunuVIRMYJw74PHKdy5I) | 3:29 | 2026-11-02 |  |
 | [Breathless](https://open.spotify.com/track/6G3GnqwWphPPJoB33JCddF) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [The Clone](https://open.spotify.com/album/1FxRojzhFPsMqXMPagDBBs) | 3:47 | 2025-10-04 | 2026-01-05 |
 | [Broken \(Goodbye\)](https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Broken \(Goodbye\)](https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B) | 3:45 | 2026-04-07 | 2026-05-26 |
 | [Broken Language](https://open.spotify.com/track/0uCHsMKYhxCawnnPZvLLUV) | [Never Mind](https://open.spotify.com/artist/5Cghtk7bBFeh8ylFr8HX7C) | [Do You Remember Me at All?](https://open.spotify.com/album/3T5ZGHyqLY2jqJr4e5E1Nt) | 6:26 | 2025-12-13 | 2026-01-05 |
@@ -286,6 +287,7 @@
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-12-03 | 2026-01-05 |
 | [Our Path](https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [3AM Thoughts](https://open.spotify.com/album/3QlI5crNjxyuTbNMXSEEPm) | 3:56 | 2025-09-02 | 2026-10-20 |
 | [Over](https://open.spotify.com/track/0OP5S6UqR2haqJdIR1YY1x) | [By Million Wires](https://open.spotify.com/artist/4QoLD4kvqh88dZF1VpDMSm) | [Over](https://open.spotify.com/album/3gG2TMhM8GUz3zbufRsYvv) | 5:09 | 2026-04-16 | 2026-05-26 |
+| [Overrated](https://open.spotify.com/track/5OUfkGbStbslpI2tHo9ljb) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [Overrated](https://open.spotify.com/album/1cOWmLcLfqKCdHEcUDNlhe) | 2:24 | 2026-11-02 |  |
 | [Pain](https://open.spotify.com/track/1zwMKnJT3310A8q3Diwsam) | [Moontalks](https://open.spotify.com/artist/6yOLpceZAYKJKtxJaNeM5n) | [Pain](https://open.spotify.com/album/48n7z6FWoZaReBfUtx9UU6) | 2:54 | 2025-11-01 | 2025-12-06 |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-12-20 | 2026-02-25 |
 | [Patroklos](https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [Patroklos](https://open.spotify.com/album/4h72XgIDG3kBcCGyqmssrq) | 3:21 | 2026-05-05 | 2026-05-26 |
@@ -365,6 +367,7 @@
 | [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 | 2025-12-30 | 2026-01-21 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-11-21 | 2025-12-12 |
 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 | 2026-03-11 | 2026-04-15 |
+| [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 | 2026-11-02 |  |
 | [Suitcase](https://open.spotify.com/track/59xMzBsmxmXjBdRnPfVU1e) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Suitcase](https://open.spotify.com/album/4wvsj7lHO3PZt9lYYZwSxG) | 5:18 | 2026-10-28 |  |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 |  |
 | [Super 8](https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Super 8](https://open.spotify.com/album/2Nbr2TjNHUruDKEVHmix6a) | 4:08 | 2026-05-25 | 2026-08-08 |
@@ -445,6 +448,7 @@
 | [Wichita Sky](https://open.spotify.com/track/780PMXdbbSVcPc9pD75SWj) | [Houseworth](https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx) | [Sleeping With Ghosts Again](https://open.spotify.com/album/1T05DF1XwIItiPWIHJZUX9) | 3:30 | 2026-02-16 | 2026-03-27 |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2025-11-11 | 2025-12-06 |
 | [Wilhelm Scream](https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Pixels and Poetry](https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq) | 3:26 | 2026-04-15 | 2026-05-17 |
+| [With All of Us](https://open.spotify.com/track/0VI8zM8jJChx9Iv8fZ9ScQ) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Humane!](https://open.spotify.com/album/66tIJHMVDylzOmKh9wMwCo) | 3:29 | 2026-11-02 |  |
 | [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 | 2026-07-07 | 2026-08-08 |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-30 | 2025-12-06 |
 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 | 2026-01-31 | 2026-02-19 |

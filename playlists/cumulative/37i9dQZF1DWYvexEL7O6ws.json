@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 99213,
       "name": "Break from Toronto",
       "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 99213,
       "name": "Break from Toronto",
       "url": "https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g"
@@ -1546,10 +1546,28 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 208000,
       "name": "Can We Do This Over",
       "url": "https://open.spotify.com/track/0HzLIyvChjAg7VgZY9sfn6"
+    },
+    {
+      "album": {
+        "name": "Can We Do This Over",
+        "url": "https://open.spotify.com/album/24wwR6Ux6D4FCaLDOnDWS5"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Can We Do This Over",
+      "url": "https://open.spotify.com/track/0gQq4NVM28K4aknlCoghUF"
     },
     {
       "album": {
@@ -2008,6 +2026,28 @@
     {
       "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235477,
+      "name": "Come and See Me (feat. Drake)",
+      "url": "https://open.spotify.com/track/07DFrL1wSWFpQHkx7lnIfP"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI"
       },
       "artists": [
@@ -2022,7 +2062,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd"
@@ -2332,10 +2372,28 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 172337,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172337,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i"
     },
     {
       "album": {
@@ -2434,10 +2492,36 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195431,
+      "name": "DIE TRYING",
+      "url": "https://open.spotify.com/track/0gIUyyegjuKZenuZKCRiAL"
     },
     {
       "album": {
@@ -2576,6 +2660,24 @@
     {
       "album": {
         "name": "Exis (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6KwjNwN4Dg9JHawGGB7Utj"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "Done With You (SKRT)",
+      "url": "https://open.spotify.com/track/48eAwJtDpyEnEqDqEmp1Ev"
+    },
+    {
+      "album": {
+        "name": "Exis (Anniversary Edition)",
         "url": "https://open.spotify.com/album/6pvcpl3eOpmENd2W0Fh3dw"
       },
       "artists": [
@@ -2586,7 +2688,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 227027,
       "name": "Done With You (SKRT)",
       "url": "https://open.spotify.com/track/6sLQsK00rg7AisdX5Fs9Sf"
@@ -2754,6 +2856,24 @@
     {
       "album": {
         "name": "Dreamin",
+        "url": "https://open.spotify.com/album/3zwWIpIcftoO61vektNSgJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/1x9QTgYhQmw8BFXMuaTnXc"
+    },
+    {
+      "album": {
+        "name": "Dreamin",
         "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
       },
       "artists": [
@@ -2764,7 +2884,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 147146,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
@@ -3654,10 +3774,28 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 285160,
       "name": "Gave Your Love Away",
       "url": "https://open.spotify.com/track/3V35bKSSm4usoSPjdaRGMx"
+    },
+    {
+      "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6KTCgvjhx37ytGnmRu2flX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285160,
+      "name": "Gave Your Love Away",
+      "url": "https://open.spotify.com/track/3qFtfd1xFEovFBI7gWEW0g"
     },
     {
       "album": {
@@ -4334,6 +4472,24 @@
     {
       "album": {
         "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/0TOH8HNPBwb1BecRqOYHL8"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300728,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/0pAm6ZzjWmwmxNUPPepV1R"
+    },
+    {
+      "album": {
+        "name": "A Place Like This",
         "url": "https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A"
       },
       "artists": [
@@ -4362,7 +4518,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 300728,
       "name": "Her",
       "url": "https://open.spotify.com/track/6GatnDEhYQLOdRzdVbJaky"
@@ -4962,7 +5118,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 174311,
       "name": "Instinct (feat. MadeinTYO)",
       "url": "https://open.spotify.com/track/49VzL5oBsUICN7U34T98b9"
@@ -4984,7 +5140,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 174311,
       "name": "Instinct (feat. MadeinTYO)",
       "url": "https://open.spotify.com/track/7xzTYqlu65JIPPd1MmTChU"
@@ -5526,7 +5682,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 180748,
       "name": "Live Up to My Name",
       "url": "https://open.spotify.com/track/07KTrRLfajXoKbtqOsefSJ"
@@ -5562,7 +5718,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 180748,
       "name": "Live Up to My Name",
       "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
@@ -6274,6 +6430,28 @@
     {
       "album": {
         "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212629,
+      "name": "MOTH BALLS",
+      "url": "https://open.spotify.com/track/4OEzhuZiS1Qy4LsxkrEb9O"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
@@ -6288,7 +6466,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 212629,
       "name": "MOTH BALLS",
       "url": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
@@ -7070,6 +7248,24 @@
     {
       "album": {
         "name": "One Deep",
+        "url": "https://open.spotify.com/album/3Q3jW76HXfcPuGocFnVqEr"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107731,
+      "name": "One Deep",
+      "url": "https://open.spotify.com/track/2ID8NndhCfgkGiVlmQcstW"
+    },
+    {
+      "album": {
+        "name": "One Deep",
         "url": "https://open.spotify.com/album/1FJyVB0YUmAjpQd6CWJhH0"
       },
       "artists": [
@@ -7080,7 +7276,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 107731,
       "name": "One Deep",
       "url": "https://open.spotify.com/track/570ba7DIYECiVT5jFAxZwH"
@@ -7302,10 +7498,50 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 111452,
       "name": "Over Freestyle",
       "url": "https://open.spotify.com/track/253OHyvIROvWEbQX2YiVeG"
+    },
+    {
+      "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/4giyVojPRXpLJEdRKCU7gX"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111452,
+      "name": "Over Freestyle",
+      "url": "https://open.spotify.com/track/29hU9PS1E4BX1ZfXXAAphm"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177827,
+      "name": "Over Here (feat. Drake)",
+      "url": "https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH"
     },
     {
       "album": {
@@ -7324,7 +7560,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 177827,
       "name": "Over Here (feat. Drake)",
       "url": "https://open.spotify.com/track/5i70f6KOnmtRCbutYnLvVC"
@@ -7550,10 +7786,36 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "PIMMIE'S DILEMMA",
+      "url": "https://open.spotify.com/track/5b0957OUHcG5XXeFcxM0ws"
     },
     {
       "album": {
@@ -8102,10 +8364,28 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 244931,
       "name": "RAINING IN HOUSTON",
       "url": "https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244931,
+      "name": "RAINING IN HOUSTON",
+      "url": "https://open.spotify.com/track/5KKIYIad98smTKREVXrp2S"
     },
     {
       "album": {
@@ -8212,7 +8492,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 311197,
       "name": "Recognize (feat. Drake)",
       "url": "https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN"
@@ -8234,7 +8514,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 311197,
       "name": "Recognize (feat. Drake)",
       "url": "https://open.spotify.com/track/5wUUWVRvrciJqFitZF8R0P"
@@ -9028,10 +9308,32 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 182767,
       "name": "SOMEBODY LOVES ME",
       "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/5i7baMcvYkiZ711LSUhwax"
     },
     {
       "album": {
@@ -9076,10 +9378,32 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 218682,
       "name": "SOMETHING ABOUT YOU",
       "url": "https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218682,
+      "name": "SOMETHING ABOUT YOU",
+      "url": "https://open.spotify.com/track/5TO4G4gO1FWPofLe4uoyti"
     },
     {
       "album": {
@@ -9098,10 +9422,32 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 203893,
       "name": "SPIDER-MAN SUPERMAN",
       "url": "https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq"
+    },
+    {
+      "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "SPIDER-MAN SUPERMAN",
+      "url": "https://open.spotify.com/track/6FSfKDj6xMdvoHzmkKNNQx"
     },
     {
       "album": {
@@ -10552,7 +10898,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/3GjFRgUzylTZO5wqxFt9e0"

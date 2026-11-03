@@ -7547,6 +7547,24 @@
     },
     {
       "album": {
+        "name": "RAWWW",
+        "url": "https://open.spotify.com/album/494q4LouWhxZGIjr3wFkf1"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "RAWWW",
+      "url": "https://open.spotify.com/track/0LySaNLaiyr0bOEsKGgALN"
+    },
+    {
+      "album": {
         "name": "808 WAYS TO DIE",
         "url": "https://open.spotify.com/album/0qMSWJSCjDyWxN9eys9jaa"
       },
@@ -9588,7 +9606,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 136688,
       "name": "System Shock",
       "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"

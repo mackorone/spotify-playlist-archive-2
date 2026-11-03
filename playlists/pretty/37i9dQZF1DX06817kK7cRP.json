@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 204114,
+  "num_followers": 204123,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -195,8 +195,8 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Your Vibe",
-        "url": "https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ"
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/3kJbuSpcEHxSoJKROpvJfd"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
         }
       ],
-      "duration_ms": 122926,
-      "name": "Your Vibe",
-      "url": "https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr"
+      "duration_ms": 128888,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3QY1tpcHJRJupHyN3W99Rx"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -283,8 +283,8 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/3kJbuSpcEHxSoJKROpvJfd"
+        "name": "Your Vibe",
+        "url": "https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
         }
       ],
-      "duration_ms": 128888,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/3QY1tpcHJRJupHyN3W99Rx"
+      "duration_ms": 122926,
+      "name": "Your Vibe",
+      "url": "https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 109367,
-      "name": "My Home",
-      "url": "https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Nothing Urgent",
         "url": "https://open.spotify.com/album/1bm9GjlV1av0KQxVK1s34t"
       },
@@ -995,22 +979,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Midwinter",
-        "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l"
       },
       "artists": [
         {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        },
-        {
-          "name": "Leavv",
-          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 129473,
-      "name": "Midwinter",
-      "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
+      "duration_ms": 109367,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Midwinter",
+        "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "Midwinter",
+      "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/2f7pevpH8LUkHCSTRdUh1D"
       },
@@ -1051,26 +1051,6 @@
       "duration_ms": 114394,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/7Bcs07Br3nImaiqs5kXcpP"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Missed The Bus",
-        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        },
-        {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        }
-      ],
-      "duration_ms": 99397,
-      "name": "Missed The Bus",
-      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Missed The Bus",
+        "url": "https://open.spotify.com/album/1avRrVZQ9pw41KpqYowUC3"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        }
+      ],
+      "duration_ms": 99397,
+      "name": "Missed The Bus",
+      "url": "https://open.spotify.com/track/2xjiEAWpBAOzrW23LNTBH6"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Coastlines",
         "url": "https://open.spotify.com/album/3blTvmgTpVLMMpVAppaYNi"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Gomorra",
-        "url": "https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT"
-      },
-      "artists": [
-        {
-          "name": "BeatsBySindri",
-          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
-        }
-      ],
-      "duration_ms": 167694,
-      "name": "Gomorra",
-      "url": "https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Heroic",
         "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 132236,
       "name": "Heroic",
       "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Gomorra",
+        "url": "https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT"
+      },
+      "artists": [
+        {
+          "name": "BeatsBySindri",
+          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
+        }
+      ],
+      "duration_ms": 167694,
+      "name": "Gomorra",
+      "url": "https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1179,22 +1179,6 @@
       "duration_ms": 183301,
       "name": "Osterly Park",
       "url": "https://open.spotify.com/track/5V3zWcqclnl3AIIrk2elWd"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz"
-      },
-      "artists": [
-        {
-          "name": "Korey Wade",
-          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
-        }
-      ],
-      "duration_ms": 124797,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1235,6 +1219,22 @@
       "duration_ms": 186000,
       "name": "sunday morning stroll",
       "url": "https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "duration_ms": 124797,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Hi",
-        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
-      },
-      "artists": [
-        {
-          "name": "Sidual.",
-          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "High Expectations",
         "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Hi",
+        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
+      },
+      "artists": [
+        {
+          "name": "Sidual.",
+          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Melting Away",
         "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 186874,
       "name": "Melting Away",
       "url": "https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Sthlm Night",
-        "url": "https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS"
-      },
-      "artists": [
-        {
-          "name": "Jolly Jordan",
-          "url": "https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Sthlm Night",
-      "url": "https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Morning Waffles",
-        "url": "https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7"
+        "name": "Sthlm Night",
+        "url": "https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS"
       },
       "artists": [
         {
-          "name": "Twiggy Fiz",
-          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+          "name": "Jolly Jordan",
+          "url": "https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ"
         }
       ],
-      "duration_ms": 144744,
-      "name": "Morning Waffles",
-      "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
+      "duration_ms": 170500,
+      "name": "Sthlm Night",
+      "url": "https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1531,6 +1515,22 @@
       "duration_ms": 189521,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Morning Waffles",
+        "url": "https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "duration_ms": 144744,
+      "name": "Morning Waffles",
+      "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
     },
     {
       "added_at": "2026-10-16 07:28:54",

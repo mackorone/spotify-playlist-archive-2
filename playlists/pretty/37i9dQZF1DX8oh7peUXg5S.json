@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 354279,
+  "num_followers": 354301,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
       "artists": [
         {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
         }
       ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "B\u00e1sico",
-        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Lucha de gigantes - Live",
-      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
-    },
-    {
-      "added_at": "2026-10-08 22:00:54",
-      "album": {
         "name": "Qu\u00e9 bonito",
         "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+    },
+    {
+      "added_at": "2026-10-08 22:00:54",
+      "album": {
+        "name": "B\u00e1sico",
+        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Lucha de gigantes - Live",
+      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "M\u00e9ritos Y Merecimientos",
-        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
-      },
-      "artists": [
-        {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "M\u00e9ritos Y Merecimientos",
-      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-10-08 22:00:54",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
+    },
+    {
+      "added_at": "2026-10-08 22:00:54",
+      "album": {
+        "name": "M\u00e9ritos Y Merecimientos",
+        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
+      },
+      "artists": [
+        {
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "M\u00e9ritos Y Merecimientos",
+      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
-      },
-      "artists": [
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        }
-      ],
-      "duration_ms": 365986,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
-    },
-    {
-      "added_at": "2026-10-08 22:00:54",
-      "album": {
         "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
         "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 251373,
       "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
       "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
+    },
+    {
+      "added_at": "2026-10-08 22:00:54",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
+      },
+      "artists": [
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "duration_ms": 365986,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
+        "name": "Esencial Antonio Flores",
+        "url": "https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "No Dudaria",
+      "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
+    },
+    {
+      "added_at": "2026-10-08 22:00:54",
+      "album": {
         "name": "TODO O NADA (feat. Bunbury)",
         "url": "https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "Esencial Antonio Flores",
-        "url": "https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "No Dudaria",
-      "url": "https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa"
-    },
-    {
-      "added_at": "2026-10-08 22:00:54",
-      "album": {
         "name": "Se Vende",
         "url": "https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 237760,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"
+    },
+    {
+      "added_at": "2026-10-08 22:00:54",
+      "album": {
+        "name": "Dice la gente",
+        "url": "https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26"
+      },
+      "artists": [
+        {
+          "name": "Kiko Veneno",
+          "url": "https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "Dice la gente",
+      "url": "https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2026-10-08 22:00:54",
       "album": {
-        "name": "Dice la gente",
-        "url": "https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26"
-      },
-      "artists": [
-        {
-          "name": "Kiko Veneno",
-          "url": "https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "Dice la gente",
-      "url": "https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia"
-    },
-    {
-      "added_at": "2026-10-08 22:00:54",
-      "album": {
         "name": "La Mas Completa Coleccion",
         "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
-    },
-    {
-      "added_at": "2026-10-08 22:00:54",
-      "album": {
-        "name": "Mi voz",
-        "url": "https://open.spotify.com/album/1AU9PfraT7PooMWZ6wc6NQ"
-      },
-      "artists": [
-        {
-          "name": "Albert Pla",
-          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
-        }
-      ],
-      "duration_ms": 296844,
-      "name": "Mi voz",
-      "url": "https://open.spotify.com/track/6A2aJPiCRaZ3AJKB89aTBn"
     },
     {
       "added_at": "2026-10-08 22:00:54",
@@ -1699,6 +1683,22 @@
       "duration_ms": 278920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw"
+    },
+    {
+      "added_at": "2026-10-08 22:00:54",
+      "album": {
+        "name": "Mi voz",
+        "url": "https://open.spotify.com/album/1AU9PfraT7PooMWZ6wc6NQ"
+      },
+      "artists": [
+        {
+          "name": "Albert Pla",
+          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
+        }
+      ],
+      "duration_ms": 296844,
+      "name": "Mi voz",
+      "url": "https://open.spotify.com/track/6A2aJPiCRaZ3AJKB89aTBn"
     },
     {
       "added_at": "2026-10-08 22:00:54",

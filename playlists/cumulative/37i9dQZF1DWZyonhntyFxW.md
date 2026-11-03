@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: أرسينِك
 
 506 songs - 1 day 0 hr 35 min
 

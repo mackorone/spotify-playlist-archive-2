@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,387 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,388 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [Praise To The Rock \- Live](https://open.spotify.com/track/0hGy38Ml8uCVITw8Itw2h6) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Zebulon Ellis](https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 3:21 |
 | 50 | [It Pushed Me](https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Zebulon Ellis](https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 4:27 |
 
-Snapshot ID: `auUvgAAAAAC+O7q78g+bdOOhHtSerMHi`
+Snapshot ID: `auUvgAAAAAAQCdKiBErAKpek9oUKCL5P`

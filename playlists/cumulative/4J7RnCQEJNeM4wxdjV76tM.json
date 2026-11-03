@@ -8527,6 +8527,28 @@
     },
     {
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3MYb9GvMuaRTgtoOEAn7gm"
+      },
+      "artists": [
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292268,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4vtODFep8AUV9fGfjMFyYH"
+    },
+    {
+      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -8655,7 +8677,7 @@
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 117577,
+      "duration_ms": 117603,
       "name": "Playboy Love",
       "url": "https://open.spotify.com/track/2JDcvLJ2x9rSImrf86n38X"
     },

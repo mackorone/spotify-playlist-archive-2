@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 116141,
       "name": "Kick That Bass",
       "url": "https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7"
@@ -5548,6 +5548,24 @@
       "duration_ms": 222650,
       "name": "Nightcore",
       "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
+    },
+    {
+      "album": {
+        "name": "No Escape",
+        "url": "https://open.spotify.com/album/0pnDi9VBfDa51K9aHN9rAx"
+      },
+      "artists": [
+        {
+          "name": "AZYR",
+          "url": "https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160522,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/6e3F1pz262XJ9n74DArbt4"
     },
     {
       "album": {

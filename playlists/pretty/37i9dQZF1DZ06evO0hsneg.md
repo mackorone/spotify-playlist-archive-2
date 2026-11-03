@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 49 | [WOMEN 我們 \(feat\. Ramengvrl\)](https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef) | [阿达娃](https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WOMEN 我們 \(feat\. Ramengvrl\)](https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm) | 3:02 |
 | 50 | [No Tinder](https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [No Tinder](https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove) | 4:14 |
 
-Snapshot ID: `auUvgAAAAADXe3pa+oMbG4MXYdaDwxqQ`
+Snapshot ID: `auUvgAAAAABu65GJyf7mm0zL6Wdnukph`

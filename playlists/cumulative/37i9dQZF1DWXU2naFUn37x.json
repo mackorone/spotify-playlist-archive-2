@@ -7069,6 +7069,24 @@
     },
     {
       "album": {
+        "name": "DEMONIO, IN ATTESA DELLA GRAZIA",
+        "url": "https://open.spotify.com/album/2RMDPRIrOSNsx7xSPDsf5g"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "DENTRO L\u2019AUDI",
+      "url": "https://open.spotify.com/track/2fxBFr29Aftett7pFBb7fK"
+    },
+    {
+      "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
       },
@@ -7280,7 +7298,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 184615,
       "name": "DIECI (feat. N\u00e9za)",
       "url": "https://open.spotify.com/track/32QxQPILFMigDwo7oq81ro"
@@ -20844,7 +20862,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174700,
-      "name": "SECONDI DI RABBIA",
+      "name": "SECONDI DI RABBIA (feat. Neima Ezza, Massimo Pericolo & Tedua)",
       "url": "https://open.spotify.com/track/4fBp2Ky7Sp0a2XqjCIcvl5"
     },
     {

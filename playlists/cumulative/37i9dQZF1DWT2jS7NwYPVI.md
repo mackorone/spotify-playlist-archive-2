@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Radio Free Alice
 
-4,409 songs - 9 day 22 hr 0 min
+4,410 songs - 9 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1696,6 +1696,7 @@
 | [Help Me, I'm Spiralling](https://open.spotify.com/track/2NZddDNNNlBLC79meReiNI) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Black Box Sessions](https://open.spotify.com/album/7tniGdtGS80UKANog5vcYL) | 2:39 | 2024-05-03 | 2024-06-01 |
 | [Her Garden](https://open.spotify.com/track/2rBBRvvG1pAhq8Gg8FAgoU) | [Sour Widows](https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG) | [Sigil](https://open.spotify.com/album/0K1EUXhIQHhJ6LShElGilb) | 4:02 | 2026-10-23 |  |
 | [Here For You](https://open.spotify.com/track/0X9YJhOJ0k0uI2uenXEBRN) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Here For You](https://open.spotify.com/album/4AkRpGIU2D9zKXZa8SQiXj) | 2:20 | 2025-04-25 | 2025-06-14 |
+| [Here Honey](https://open.spotify.com/track/1uF0hzguOCWKw3ntEaH73u) | [Esmeralda Road](https://open.spotify.com/artist/6S9cVNSaKsE2rdeVqban5w) | [Here Honey](https://open.spotify.com/album/28FYJakvYebJS5qtd2OmIa) | 3:38 | 2026-11-02 |  |
 | [Here To California](https://open.spotify.com/track/6UYkkaluhybwhZGDvqahzw) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [Here To California](https://open.spotify.com/album/5XB43uSJhu8ZdFyaZJP3IG) | 3:39 | 2026-09-25 |  |
 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-07-15 | 2022-09-23 |
 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-16 | 2022-09-24 |

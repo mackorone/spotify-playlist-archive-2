@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,391 likes - 32 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,392 likes - 32 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
 | 2 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
-| 3 | [Rascuache](https://open.spotify.com/track/2VzLvjB0nNqqiVVWKFDV0n) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:21 |
+| 3 | [Metronome Arthritis](https://open.spotify.com/track/6qNexfLfNiGD3RPiaUvqNT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 4:00 |
 | 4 | [Starslight](https://open.spotify.com/track/46XBLbYXATk5wgodMQNRR4) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 1:18 |
 | 5 | [Arcarsenal](https://open.spotify.com/track/7pDbWHj7JkhCpJvk9bHy3M) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 2:54 |
 | 6 | [Chanbara](https://open.spotify.com/track/5Gh7uZTnZx3bpCyGaY7wpt) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:59 |
-| 7 | [Metronome Arthritis](https://open.spotify.com/track/6qNexfLfNiGD3RPiaUvqNT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 4:00 |
-| 8 | [Governed By Contagions](https://open.spotify.com/track/7wL7VWm3YcSX7kvuZ9InHT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:27 |
+| 7 | [Rascuache](https://open.spotify.com/track/2VzLvjB0nNqqiVVWKFDV0n) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:21 |
+| 8 | [Initiation](https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:26 |
 | 9 | [Pattern Against User](https://open.spotify.com/track/6J221lfEpfVmseOaNqWPVF) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 3:17 |
 | 10 | [Hourglass](https://open.spotify.com/track/4oSyqbzyC7g8x0dAMFANLn) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:25 |
 | 11 | [Proxima Centauri](https://open.spotify.com/track/0UN5gnkNRusYyOcFIEP8f7) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 2:45 |
-| 12 | [Initiation](https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:26 |
+| 12 | [Governed By Contagions](https://open.spotify.com/track/7wL7VWm3YcSX7kvuZ9InHT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:27 |
 | 13 | [Invalid Litter Dept.](https://open.spotify.com/track/003EH00EjWXmkmNMpQH1Sv) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 6:05 |
 | 14 | [Alpha Centauri](https://open.spotify.com/track/2x8kLwGz0RiL2Tos882nZt) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:13 |
 | 15 | [Helitrope](https://open.spotify.com/track/6J7fIRcmQ7oLtSLmcQX3kk) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:12 |
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3k8WTC.md) - [plain]
 | 21 | [Cosmonaut](https://open.spotify.com/track/4rLFh3Mt36EZHB6C2ytNi3) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 3:23 |
 | 22 | [Hulahoop Wounds](https://open.spotify.com/track/3uwAwOdZubXp2xdN8t85cw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:24 |
 | 23 | [Ursa Minor](https://open.spotify.com/track/6xfIRp2iifXKbNYOUsLY76) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:22 |
-| 24 | [No Wolf Like The Present](https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:39 |
-| 25 | [Ebroglio](https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:47 |
+| 24 | [Ebroglio](https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:47 |
+| 25 | [No Wolf Like The Present](https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:39 |
 | 26 | [Catacomb](https://open.spotify.com/track/57ZTyoRXlwQrhXZuq0cfCQ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Catacomb](https://open.spotify.com/album/6rMTnk6gBiqzqKIvn1Ruj1) | 3:44 |
 | 27 | [Point Of Demarkation](https://open.spotify.com/track/5Ow5dGOnUsOMmAVRRDU813) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/5iSLeST2KCJluMyeWGGLQQ) | 4:21 |
-| 28 | [Tilting At The Univendor](https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:26 |
-| 29 | [Schaffino](https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:48 |
-| 30 | [Pendulum In A Peasant Dress](https://open.spotify.com/track/2Io9R14w2r1ZkrZJSAw9T6) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:41 |
-| 31 | [Skips on the Record](https://open.spotify.com/track/20kCEEuKQotTCJjUxSiT4z) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:07 |
+| 28 | [Schaffino](https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:48 |
+| 29 | [Pendulum In A Peasant Dress](https://open.spotify.com/track/2Io9R14w2r1ZkrZJSAw9T6) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:41 |
+| 30 | [Skips on the Record](https://open.spotify.com/track/20kCEEuKQotTCJjUxSiT4z) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:07 |
+| 31 | [Tilting At The Univendor](https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 3:26 |
 | 32 | [Continuum](https://open.spotify.com/track/67GKBxCS4OBLzigktvn2Un) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 4:02 |
 
-Snapshot ID: `auUvgAAAAACk4bQGffYwgUm349HkgdCU`
+Snapshot ID: `auaBAAAAAADjtktbjNzK1hZge7uaxrNo`

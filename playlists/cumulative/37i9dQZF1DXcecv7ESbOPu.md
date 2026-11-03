@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från FELICIA, Håkan Hellström och waterbaby med flera\. Happy New Music Friday!
 
-26,470 songs - 57 day 5 hr 59 min
+26,471 songs - 57 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2061,7 +2061,8 @@
 | [Bakom Kulisserna](https://open.spotify.com/track/2PK1ViYJU1ZRobPxj2WwU5) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Bakom Kulisserna](https://open.spotify.com/album/1WWkBL5lbJ3QNPfRG2HHyQ) | 2:34 | 2022-03-17 | 2022-03-25 |
 | [Bakom kulisserna](https://open.spotify.com/track/5KQuFht8RqgECvi2LbF6WP) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv), [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Bakom kulisserna](https://open.spotify.com/album/3i6r96nl9ottiXvcmhhh0H) | 2:38 | 2023-05-11 | 2023-05-19 |
 | [Bakom molnen](https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Bakom molnen](https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o) | 3:02 | 2025-10-23 | 2025-10-31 |
-| [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 | 2026-10-29 |  |
+| [Bakom oss bara dimma](https://open.spotify.com/track/2d4EgG32xHf0cPvBS0J6Ow) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:13 | 2026-11-02 |  |
+| [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 | 2026-10-29 | 2026-11-03 |
 | [BAKOM RIDÅN](https://open.spotify.com/track/0EzphQ33z0B0o8BAloapjI) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [BAKOM RIDÅN](https://open.spotify.com/album/6js8vFldrfLMrOX6QbB8lQ) | 2:47 | 2025-02-06 | 2025-02-14 |
 | [Bakåt igen](https://open.spotify.com/track/7fHyxr1sHBqTjr51Efy3xb) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI) | [Relatera: The Mixtape](https://open.spotify.com/album/6yBiWxt0bl8juDA76jymz1) | 2:54 | 2024-11-14 | 2024-11-22 |
 | [Balance \(feat\. Skillibeng\)](https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Balance \(feat\. Skillibeng\)](https://open.spotify.com/album/75liolcLZGv2M5gobKgFWk) | 3:23 | 2023-08-03 | 2023-08-11 |

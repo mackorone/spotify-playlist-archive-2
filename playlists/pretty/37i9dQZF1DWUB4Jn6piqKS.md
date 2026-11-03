@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,666 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,675 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 11 | [Band Of Gold \(Single Mix\)](https://open.spotify.com/track/4o7pdbMDw6XwfXZFCZDoUH) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Band Of Gold](https://open.spotify.com/album/5m1858fUPOsdHRYHIihBB0) | 2:58 |
 | 12 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
 | 13 | [Give Me Just A Little More Time](https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj) | [Chairmen Of The Board](https://open.spotify.com/artist/69g2TelswPN1IiFDKvaoSL) | [Soul Agenda](https://open.spotify.com/album/3bsK8mvliXMvVPPiMgeIYq) | 2:40 |
-| 14 | [Hold Back the Night](https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 3:44 |
-| 15 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 |
+| 14 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 |
+| 15 | [Hold Back the Night](https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 3:44 |
 | 16 | [Sliced Tomatoes](https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB) | [Just Brothers](https://open.spotify.com/artist/5qTJU3YBzlGmOSrSHL4EVK) | [Sliced Tomatoes \- EP](https://open.spotify.com/album/0mzfKEd3lpMnI9Y3I0Os5m) | 2:22 |
 | 17 | [Love Won't Let Me Wait \- 45 Version](https://open.spotify.com/track/0hGlEv05CFThJmE2vmzNUu) | [Major Harris](https://open.spotify.com/artist/0mpVqJaKwg11LdSRrvI0PL) | [Love Won't Let Me Wait / After Loving You \[Digital 45\]](https://open.spotify.com/album/5MiR3vvUm7uWdXycjIryGb) | 3:47 |
 | 18 | [Who Do You Love](https://open.spotify.com/track/6kR2BCzArduYNuJdtezM8L) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:39 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 94 | [Change Your Ways](https://open.spotify.com/track/20hJJEwKs22FGHa41NwDO1) | [Willie Kendrick](https://open.spotify.com/artist/70Pp3qLS73T2JAaUAr7RQ4) | [The Northern Soul Story Vol.2: The Golden Torch](https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM) | 2:24 |
 | 95 | [Love Is After Me](https://open.spotify.com/track/2Tt1yaGexvMmavbTEpuPDk) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [I'll Shed No Tears](https://open.spotify.com/album/1MLNYdex6LuKBWOfVDP6u5) | 2:26 |
 | 96 | [Think It Over](https://open.spotify.com/track/5yiVaLYpDFcOIq0Qkz1i61) | [The Harvey Averne Dozen](https://open.spotify.com/artist/1mck5dIwHpn9Roun7jD1lJ) | [Viva Soul](https://open.spotify.com/album/4QFIv1WCGUe2n9ir61BLNB) | 2:37 |
-| 97 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
-| 98 | [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 |
+| 97 | [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 |
+| 98 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
 | 99 | [This Heart of Mine](https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs) | [The Artistics](https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x) | [Northern Soul: Keep the Faith!](https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ) | 2:29 |
 | 100 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
 

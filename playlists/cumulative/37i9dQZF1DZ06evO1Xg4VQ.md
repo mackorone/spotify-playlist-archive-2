@@ -4,7 +4,7 @@
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 21 min
+102 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,10 @@
 | [La Iguana](https://open.spotify.com/track/34MA1n8MbEgeN1oj4VoIgk) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tree Of Life](https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU) | 3:05 | 2024-05-10 | 2024-05-15 |
 | [La Llorona](https://open.spotify.com/track/7EQDV7K8ZrFiEYJmK7QVuS) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:35 | 2026-10-25 |  |
 | [La Llorona](https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Mariachi Juvenil de Tecalitlán](https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1) | [Frida \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li) | 2:20 | 2023-12-18 | 2026-10-13 |
+| [La Martiniana](https://open.spotify.com/track/1bJsXBosGu70g3TYshSrFR) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Agustin Bernal](https://open.spotify.com/artist/146evWUgveiVzdbCmHTyC0), [Gabriel Hernandez](https://open.spotify.com/artist/2862f7EK0zvyPbdW4JYlBI) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 5:48 | 2026-11-03 |  |
 | [La Patria Madrina \(with Juanes\)](https://open.spotify.com/track/1iXIEPWk0tVMLySzWeoxpH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:18 | 2024-05-22 |  |
 | [La Pesca](https://open.spotify.com/track/3SggDme3YbOnNDesbeZRMH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:16 | 2026-06-04 | 2026-08-09 |
-| [La Pochota](https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:43 | 2026-06-02 |  |
+| [La Pochota](https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:43 | 2026-06-02 | 2026-11-03 |
 | [La Primavera \(feat\. Lila Downs\) \- Directo Acústico](https://open.spotify.com/track/6wr3oc1d5vyzCkaxhoJCNb) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Esto Es Estopa \(Directo Acústico\)](https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr) | 3:21 | 2023-12-18 | 2024-08-18 |
 | [La Raíz de Mi Tierra](https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 4:12 | 2023-12-18 |  |
 | [La San Marqueña](https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:10 | 2024-05-02 |  |

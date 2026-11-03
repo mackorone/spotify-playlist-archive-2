@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-290 songs - 15 hr 55 min
+291 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-15 | 2023-10-31 |
 | [Boxing Day Blues](https://open.spotify.com/track/35v1C5DdDBUEvdAJTEqrfz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit \(Deluxe Digital Album\)](https://open.spotify.com/album/5hnsoChBkdtGlLrvU3uBAO) | 3:02 | 2021-11-15 | 2022-07-29 |
 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 | 2021-11-12 | 2024-10-24 |
-| [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 | 2021-11-12 |  |
+| [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 | 2021-11-12 | 2026-11-03 |
 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 | 2025-12-17 |  |
 | [Christmas](https://open.spotify.com/track/58GbkmmdAijG6dAhnDYOaq) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/1twjpC9pXPmQBgXLqSeM8S) | 2:29 | 2021-11-12 | 2022-09-06 |
 | [Christmas](https://open.spotify.com/track/64a8MVFQa55k07yBAcjsam) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/0eYhnCjTZA7dv0pfnOSAKq) | 2:29 | 2022-12-23 | 2023-08-12 |
@@ -197,6 +197,7 @@
 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 | 2022-11-21 | 2023-11-16 |
 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 | 2021-12-03 | 2025-10-18 |
 | [My Only Little Wish \(Is You\)](https://open.spotify.com/track/33UyXIgttGjIkounlO51Ay) | [asking for a friend](https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [DYSN](https://open.spotify.com/artist/2zPdY1UXnOn4PC4GpoOkPm) | [My Only Little Wish \(Is You\)](https://open.spotify.com/album/3AalQDa1ftZyQDMiKJTs1v) | 3:00 | 2021-11-12 | 2022-07-27 |
+| [Not So Merry Christmas](https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Not So Merry Christmas](https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi) | 3:53 | 2025-12-17 |  |
 | [O Holy Night](https://open.spotify.com/track/7GaUxiJvhyZRe16Pt4V8FZ) | [Don McCloskey](https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH) | [O Holy Night](https://open.spotify.com/album/2dYqxXKtKJigqTrCFuweqQ) | 5:06 | 2021-11-12 | 2022-07-28 |
 | [O Holy Night](https://open.spotify.com/track/7MIdnR2ZXfucsjkAMQlSwj) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [O Holy Night](https://open.spotify.com/album/3cmsfC00zdOPjc1d3CqjXK) | 4:08 | 2025-08-18 | 2025-11-09 |
 | [On Christmas Night](https://open.spotify.com/track/7AhwtvWWMdohC9G1n0LJH2) | [Nelson Can](https://open.spotify.com/artist/5pYHnsao4ARhkpGvHGTgHP) | [On Christmas Night](https://open.spotify.com/album/67govfB9y8dX4ECr33I8DW) | 3:29 | 2021-11-12 | 2022-05-14 |

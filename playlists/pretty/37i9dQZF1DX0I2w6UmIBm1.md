@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Rend Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,845 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,876 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 37 | [Splinters](https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Splinters](https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg) | 2:35 |
 | 38 | [Can You Tell](https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4), [Caylie Bryant](https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O) | [Can You Tell](https://open.spotify.com/album/4y4tKRrEJQwofQGhLW7K8H) | 3:16 |
 | 39 | [Trenches](https://open.spotify.com/track/0bcMgfHU4zcD4ANZ0F5IDr) | [Madalyn Rae](https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG) | [Trenches](https://open.spotify.com/album/2mCeisXdEX65wWTUsTT4qD) | 3:30 |
-| 40 | [Devil In The Water](https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O) | 2:56 |
+| 40 | [Devil In The Water](https://open.spotify.com/track/7oODWKIFPrL37Xh6xp004T) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/3SiDtjxcNR89elewNggLT4) | 2:56 |
 | 41 | [Where The Flowers Grow](https://open.spotify.com/track/43iFXwD446eOadwGWu6LAf) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO) | [Where The Flowers Grow](https://open.spotify.com/album/3hfWZC1ttLUqFphczA2DX3) | 4:05 |
 | 42 | [The Deeps](https://open.spotify.com/track/5aD1dbCslbrws3C5WVRad8) | [Brogan Gaskill](https://open.spotify.com/artist/61i3TetowOKS5rGy0vSUjN), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [The Deeps](https://open.spotify.com/album/4QWEHsujvOaRi9Vf1jnaq5) | 3:55 |
 | 43 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 55 | [Visions](https://open.spotify.com/track/3WeWmxVQDN7VHm5yu9fKhh) | [Ivan Castro](https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14) | [Visions](https://open.spotify.com/album/7gb8rVHzoK2r0FChlQ2mnH) | 4:06 |
 | 56 | [All I Need](https://open.spotify.com/track/6coXoKfiFIHGd8aAQvwP1R) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [All I Need](https://open.spotify.com/album/5eYdEf5o3xTed3ztXX948F) | 4:00 |
 | 57 | [Changing](https://open.spotify.com/track/6aUq2ImOnHlFQUjMqtzKRX) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk), [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Changing](https://open.spotify.com/album/6rrQswbIXq8hsl5EhY0urV) | 4:24 |
-| 58 | [All Things New](https://open.spotify.com/track/2BRlXNm7lgzK0eBrMfinnm) | [Arbour Season](https://open.spotify.com/artist/4XudVJyOISrXMkNvNFlysV) | [All Things New](https://open.spotify.com/album/1q2AEE6U8SJKsQD0r9HHSX) | 3:14 |
+| 58 | [All Things New](https://open.spotify.com/track/5dUpwtHCcBrl9VyEZqo2pa) | [Arbour Season](https://open.spotify.com/artist/4XudVJyOISrXMkNvNFlysV) | [All Things New](https://open.spotify.com/album/39NlzB697WxpkOwvVvAMXf) | 3:14 |
 | 59 | [Fruit is Heavy](https://open.spotify.com/track/5YP1bmGMVWCrvPAdvBzXSz) | [Brian Sauvé](https://open.spotify.com/artist/6hnXWGILjG6vDvkyhzFrXg) | [Long Days, Short Years](https://open.spotify.com/album/78P39nsnqssrjbe6OFDCoB) | 4:10 |
 | 60 | [Thy Kingdom Come](https://open.spotify.com/track/0FW9rnr5G8Ox5trZAMs2rc) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [MAMA](https://open.spotify.com/album/1H8UY7wjoqPphysMksDT2l) | 4:08 |
 | 61 | [Skin And Bone](https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [You Hold It All](https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ) | 3:33 |

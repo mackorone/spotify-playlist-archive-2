@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,127 likes - 253 songs - 13 hr 15 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,136 likes - 267 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,19 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 251 | [Heaven4Ever](https://open.spotify.com/track/6QILMsIYcVcXbTuoqNBmXB) | [Obi\-Wan Jakobi](https://open.spotify.com/artist/0a6I9AIDr1Ppzzu947SDXh) | [Heaven4Ever](https://open.spotify.com/album/53kyG4n3Tmrgypr6Hne3Ib) | 3:09 |
 | 252 | [Last Dance Tonight](https://open.spotify.com/track/2nlTZprftuPfW8kyG416wU) | [Aasson](https://open.spotify.com/artist/1kojivyxKUr8zgOfIKIv3P) | [Last Dance Tonight](https://open.spotify.com/album/7pD1aANAzqHtAzAwrcmkda) | 2:55 |
 | 253 | [When the Lights Go Out](https://open.spotify.com/track/6rGQX793mHy3XRedwG6kjy) | [Addley](https://open.spotify.com/artist/09YTnwUsGYHAYG1M8xZGzk) | [When the Lights Go Out](https://open.spotify.com/album/6Dw5bmosJNUxwP7QlRMFx9) | 3:30 |
+| 254 | [DANCING WITH MY GHOSTS](https://open.spotify.com/track/3L6ICjnSa3zYVQvQzKOLjc) | [ZAYN REX](https://open.spotify.com/artist/6XYUi1Vy6fTFtpbFPMJ5ud) | [JOURNEY](https://open.spotify.com/album/2wFW9o79LZ9Rffu1HnLVhg) | 2:27 |
+| 255 | [Until Next Time](https://open.spotify.com/track/2AIrbBhafs1wslTXmv9Vvz) | [Melissa Seals](https://open.spotify.com/artist/3yFgqYjP0ljLGdlm2Tel3t) | [Lovesick](https://open.spotify.com/album/5IETjMevYMoj6HpwVs6nSk) | 2:34 |
+| 256 | [Paint My Heart](https://open.spotify.com/track/3xuiOZeJ2P77mkWVqvrNsF) | [Lizzie Grey](https://open.spotify.com/artist/2BYTUaIvgUDjwHLEBL3LRN) | [Paint My Heart](https://open.spotify.com/album/3UaiZ3xLPm5uko3eSXw63t) | 2:42 |
+| 257 | [new road \(recorded at kamp studios\)](https://open.spotify.com/track/6EfUsDQ1ILtUum1xyCe5JG) | [Jamee Ukulelee](https://open.spotify.com/artist/6UU4WmpWp9wz1YnU41Xcey) | [new road \(recorded at kamp studios\)](https://open.spotify.com/album/5d9mUhBh9XgPLwcGY8Gm7I) | 2:42 |
+| 258 | [Wanna Be Free](https://open.spotify.com/track/3jXwASmYQVEnkBsNxgcGdF) | [Archi Deep](https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl) | [Wanna Be Free](https://open.spotify.com/album/1CVqO3Zr16gvg08ramDAaa) | 2:32 |
+| 259 | [AND I](https://open.spotify.com/track/3psnVb9a8DmbRuuqsHCikh) | [Last Tiz](https://open.spotify.com/artist/0Q0MDCZ7KyDvmls2TN4aIt) | [AND I](https://open.spotify.com/album/4PaYlZsYkTzDDePLlfqDk8) | 3:22 |
+| 260 | [Bubble Wishes](https://open.spotify.com/track/1THkrqFKiintR06Am9UR8t) | [Gerl Next Door](https://open.spotify.com/artist/3Lg67ISoRAMpYa7d3O6Pyi) | [Bubble Wishes](https://open.spotify.com/album/5XFrSlvBvBiWRk5w0922zy) | 3:05 |
+| 261 | [shivers](https://open.spotify.com/track/5JedDpzsQdZ22vnmKndsDz) | [Hayden J Barlow](https://open.spotify.com/artist/54QKgqIuwIximWz6A6ZQG2) | [shivers](https://open.spotify.com/album/7d0SpzoRQAUayv21IhCRbx) | 2:19 |
+| 262 | [Man Outta Myself](https://open.spotify.com/track/4bcEM93rCZGqXjA8UWMNo8) | [Manaleee](https://open.spotify.com/artist/6Ucb9Sds151DGIZD7w8G3c) | [Man Outta Myself](https://open.spotify.com/album/4mJGjAzUBDO0fWHo9PpQqK) | 2:40 |
+| 263 | [Click](https://open.spotify.com/track/3eq0VeMlO11FjDnG8XVXdp) | [OneNamedPeter](https://open.spotify.com/artist/5EUbQiDdmrCT0DY3JKebv7) | [Click](https://open.spotify.com/album/5ZjBmsDgVewLkZwv1UIFqy) | 3:18 |
+| 264 | [Boxes](https://open.spotify.com/track/0RoHkrOwFAO89ZaO9SiSGJ) | [Crawford Mack](https://open.spotify.com/artist/6CKMgHCNRQ5bQTV0Nx4LuM) | [Boxes](https://open.spotify.com/album/4Ki4QozXoDwZecEHX7CnZk) | 3:24 |
+| 265 | [ONE MORE](https://open.spotify.com/track/5yG76kCnfVO6U8nKaxy1Rm) | [Reverbot](https://open.spotify.com/artist/1fIANk1uUXd8gwXRgJZBEQ) | [ONE MORE](https://open.spotify.com/album/1R38h0PhnvNXwxOcxiBcAt) | 3:51 |
+| 266 | [Anhelah](https://open.spotify.com/track/23hnpnvAVjfC5AsnbCDXON) | [Elvah](https://open.spotify.com/artist/4BLfkd7iqxS9QRqfa9Z318) | [Alenah](https://open.spotify.com/album/5F0KEbaQcFDHig5GCFbXZk) | 2:12 |
+| 267 | [Volah](https://open.spotify.com/track/3aHqJ3sUlD6DajgFJQoSM9) | [Elvah](https://open.spotify.com/artist/4BLfkd7iqxS9QRqfa9Z318) | [Alenah](https://open.spotify.com/album/5F0KEbaQcFDHig5GCFbXZk) | 1:40 |
 
-Snapshot ID: `AAA9oQXz1nyk77KOg5UloUbPVRxFn689`
+Snapshot ID: `AAA9ryqRH3RSwl/0SC/8k3rhSjqQea/k`

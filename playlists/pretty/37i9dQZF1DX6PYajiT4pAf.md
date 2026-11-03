@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Metrika, Álvaro de Luna, Love of Lesbian, Belén Aguilera, Samuraï con Juanes  y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,789 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,782 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 5 | [La Explosión](https://open.spotify.com/track/5VIxJkbmLsMgQg9W1MryoE) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Explosión](https://open.spotify.com/album/6QRUjD0riNlL9fvC8tgGdS) | 3:09 |
 | 6 | [escalofríos](https://open.spotify.com/track/1mKgK7wPrfLzD7gP0h9HD8) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [escalofríos](https://open.spotify.com/album/1p4UWvXeZxraCcZEkGwx0k) | 2:44 |
 | 7 | [PA' QUE LLORAR](https://open.spotify.com/track/2MWLMgTRRnV5cZm9VVYyTh) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [LA POSTAL](https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1) | 3:04 |
-| 8 | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
+| 8 | [Felicidades](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
 | 9 | [BODYPAINTING](https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [BODYPAINTING](https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M) | 2:33 |
 | 10 | [Lake Ontario](https://open.spotify.com/track/5oCTpUSu18fKYHfRIsgX6d) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Lake Ontario](https://open.spotify.com/album/6z0y7JVqs7hL7hm8ZQbHJU) | 2:58 |
 | 11 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |

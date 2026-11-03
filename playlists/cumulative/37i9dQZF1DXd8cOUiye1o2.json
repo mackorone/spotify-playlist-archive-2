@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "All hail the King! SRK is back to rule our hearts with 'Tu Mil Jaaye'. Listen now!",
+  "description": "All hail the King! Get ready to fall in love with 'Tu Mil Jaaye'. Listen now!",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -190,6 +190,32 @@
       "duration_ms": 157922,
       "name": "Aaj Kal",
       "url": "https://open.spotify.com/track/7KLNJb5wTMkv3sWljtx49p"
+    },
+    {
+      "album": {
+        "name": "Aaj Sajeya Ve",
+        "url": "https://open.spotify.com/album/2akIe0R3dQ7GHVar46JgtD"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Jay Mehta",
+          "url": "https://open.spotify.com/artist/0wIYmechiggEdWGFzGQdv7"
+        },
+        {
+          "name": "Rini Chandra",
+          "url": "https://open.spotify.com/artist/2gU8ksQ9yQuou8Z1mVUJBP"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213273,
+      "name": "Aaj Sajeya Ve",
+      "url": "https://open.spotify.com/track/31laQF33UnOZkYwDm19wyI"
     },
     {
       "album": {
@@ -826,7 +852,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 184746,
       "name": "Aayi Teri Baat Mein",
       "url": "https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy"
@@ -2492,7 +2518,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 236146,
       "name": "Bairi Piya",
       "url": "https://open.spotify.com/track/7J3gWwFF84eXhB6Ek4ry4N"
@@ -4034,7 +4060,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 254304,
       "name": "Bindaas (From \"Rajini The Jailer 2\")",
       "url": "https://open.spotify.com/track/7pzb0l1VPGlAwNIjHCQjg0"
@@ -5176,7 +5202,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 205262,
       "name": "Choozay (From \"Udta Teer\")",
       "url": "https://open.spotify.com/track/01rADlnzHr3ezpa225Glpa"
@@ -8029,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/7vMCIWYjbgOa6S5M7mpPhf"
+      },
+      "artists": [
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191137,
+      "name": "Fidaa",
+      "url": "https://open.spotify.com/track/5aOqR3rARrphu3psXX5rfo"
+    },
+    {
+      "album": {
         "name": "Nishaanchi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1ajq1uRIfOOtpr3Yx7elHU"
       },
@@ -8410,6 +8454,32 @@
       "duration_ms": 634032,
       "name": "Ghar Kab Aaoge (From \"BORDER 2\")",
       "url": "https://open.spotify.com/track/0OEyemEMBUbBbGlcb3w9J4"
+    },
+    {
+      "album": {
+        "name": "Ghar Lagda (From \"Dilwali Diwali\")",
+        "url": "https://open.spotify.com/album/3H5l9kO6b5oTJwFarbtr1I"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212083,
+      "name": "Ghar Lagda (From \"Dilwali Diwali\")",
+      "url": "https://open.spotify.com/track/2k4rdHPk5UnKjo70jBXwVn"
     },
     {
       "album": {
@@ -12238,7 +12308,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 200312,
       "name": "Jeev Ri Jadi",
       "url": "https://open.spotify.com/track/6wrhlQdwH56A4Nbj7HhObR"
@@ -13275,6 +13345,28 @@
     },
     {
       "album": {
+        "name": "Kaho Tumko",
+        "url": "https://open.spotify.com/album/6XUculfL04DqZ7MMSedruH"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan",
+          "url": "https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q"
+        },
+        {
+          "name": "Shujaat Khan",
+          "url": "https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340212,
+      "name": "Kaho Tumko",
+      "url": "https://open.spotify.com/track/4RS4hRU1oiiE0cenXPkx7q"
+    },
+    {
+      "album": {
         "name": "Kaise Bataye",
         "url": "https://open.spotify.com/album/65FkE5rfkKumpZzEkILgLj"
       },
@@ -13556,6 +13648,32 @@
       "duration_ms": 183000,
       "name": "Kamli Piya",
       "url": "https://open.spotify.com/track/6t4htW6HC7Usrx9YAQUA3v"
+    },
+    {
+      "album": {
+        "name": "Kar Mehnat (From \"Ganesh : Dust to Stardust\")",
+        "url": "https://open.spotify.com/album/20cLY0TPPUcVLVOxcGmD1a"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Ganesh Acharya",
+          "url": "https://open.spotify.com/artist/1TpWjmu8cT499R8fZt9Yyi"
+        },
+        {
+          "name": "Junaid Kumar",
+          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181958,
+      "name": "Kar Mehnat - From \"Ganesh : Dust to Stardust\"",
+      "url": "https://open.spotify.com/track/3rdWO50eV5VeGS0ZWbrKPO"
     },
     {
       "album": {
@@ -14558,7 +14676,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 106315,
       "name": "Koyeliya",
       "url": "https://open.spotify.com/track/11d3Oodux0CPDuYQrjmwJL"
@@ -15261,6 +15379,28 @@
     },
     {
       "album": {
+        "name": "Maahi",
+        "url": "https://open.spotify.com/album/2DvSJOHVc2lZY11bwPoDUc"
+      },
+      "artists": [
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Maahi",
+      "url": "https://open.spotify.com/track/7kI2yFDNIAsZXiK5JNXWa2"
+    },
+    {
+      "album": {
         "name": "Maahi Mereya",
         "url": "https://open.spotify.com/album/34T30mccgzk8UWBIuaWhyO"
       },
@@ -15536,7 +15676,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 146557,
       "name": "Maharani - From \u201cPooja Meri Jaan\u201d",
       "url": "https://open.spotify.com/track/1MVl3wbpvIlTG9Mt5ifjYS"
@@ -16361,6 +16501,32 @@
     },
     {
       "album": {
+        "name": "Mashallah",
+        "url": "https://open.spotify.com/album/7KoEpAdjTfQBKtW34ghu32"
+      },
+      "artists": [
+        {
+          "name": "Yuvan",
+          "url": "https://open.spotify.com/artist/2gFzNJG4d7qAEh3z8E5qdt"
+        },
+        {
+          "name": "Arry Gill",
+          "url": "https://open.spotify.com/artist/1hg8fQzDGoyIy1RTv5snn0"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/0ytfvPkYnhKUFqwomOMHil"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167094,
+      "name": "Mashallah",
+      "url": "https://open.spotify.com/track/6GBwtGsP4akAbcnrRWXi7v"
+    },
+    {
+      "album": {
         "name": "Mashooqa",
         "url": "https://open.spotify.com/album/4dViai7p1OV76v69X23ovd"
       },
@@ -16926,7 +17092,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 229080,
       "name": "Mere Rehte (From \"Prahaar: The Untold Story Of Ujjwal Nikam\")",
       "url": "https://open.spotify.com/track/2gzOTWdmu0WFCUckEfM5dT"
@@ -18114,6 +18280,44 @@
       "duration_ms": 161339,
       "name": "Nakhre",
       "url": "https://open.spotify.com/track/3oKMkK72dhxniqCKXrhDvq"
+    },
+    {
+      "album": {
+        "name": "Nakhrewaalii (Title Track) (From \"Nakhrewaalii\")",
+        "url": "https://open.spotify.com/album/1g45jQ71bL3HX64m2XVZot"
+      },
+      "artists": [
+        {
+          "name": "Priyankit Jaiswal",
+          "url": "https://open.spotify.com/artist/2m2eci1WqPBHVqrHyrpCsP"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/6GbWy8OBI38OL1hogK0kT6"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Shankar Jaikishan",
+          "url": "https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc"
+        },
+        {
+          "name": "Shailendra",
+          "url": "https://open.spotify.com/artist/66fbGcYDp66VzjaYFyLg8S"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Nakhrewaalii (Title Track) (From \"Nakhrewaalii\")",
+      "url": "https://open.spotify.com/track/3LxIHyi4jFUhlmfIlV3lUR"
     },
     {
       "album": {
@@ -19570,7 +19774,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 196444,
       "name": "Phata Patakha - From \"Nayyi Navelli\"",
       "url": "https://open.spotify.com/track/6K7O2zTFOukjnOE1jxwV9s"
@@ -21148,7 +21352,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 340225,
       "name": "Rasik Balma",
       "url": "https://open.spotify.com/track/4gpse19cseQeJIXFEUYtfa"
@@ -22002,6 +22206,36 @@
       "duration_ms": 159098,
       "name": "Saavdhani Hati",
       "url": "https://open.spotify.com/track/5w9Kwxd5P3toverJ8SuAvN"
+    },
+    {
+      "album": {
+        "name": "Saawan Aaya Hai (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/101WVZhGuSAd96LmIPAWrz"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Keshav Anand",
+          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "Saawan Aaya Hai - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/5Hv9OmX7IBN35NPIeoOHAq"
     },
     {
       "album": {
@@ -23881,6 +24115,36 @@
     },
     {
       "album": {
+        "name": "Suniyo Zara (From \"Suryaa\")",
+        "url": "https://open.spotify.com/album/0SiuetXH9r2VLoxwwRP2QP"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anupam Amod",
+          "url": "https://open.spotify.com/artist/69EjD8i1YtmeJRBou0I21r"
+        },
+        {
+          "name": "RAAHEE",
+          "url": "https://open.spotify.com/artist/6t9jQM2chaUmhwqMNPGR66"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249911,
+      "name": "Suniyo Zara - From \"Suryaa\"",
+      "url": "https://open.spotify.com/track/3lcRKHjf3iScAEWkqQW3Cw"
+    },
+    {
+      "album": {
         "name": "Sunn Mere Yaar Ve (From \"Param Sundari\")",
         "url": "https://open.spotify.com/album/2uqxxLpRB6lPqaEWbDPCc1"
       },
@@ -24078,6 +24342,28 @@
       "duration_ms": 173217,
       "name": "Taare",
       "url": "https://open.spotify.com/track/77HNS6a0sOMZxgF5Jv3I3m"
+    },
+    {
+      "album": {
+        "name": "Tab Se",
+        "url": "https://open.spotify.com/album/73jBkRk7v7OZGfcyKJmt4i"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Mehtab Ali Niazi",
+          "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283759,
+      "name": "Tab Se",
+      "url": "https://open.spotify.com/track/3h7iEgYOJykyI8LxN4yJbc"
     },
     {
       "album": {
@@ -25302,7 +25588,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 191370,
       "name": "Teri Marzi Hai",
       "url": "https://open.spotify.com/track/0mPb9QGR7S77KgduXHGluI"
@@ -26432,6 +26718,10 @@
         {
           "name": "Kumaar",
           "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         }
       ],
       "date_added": "2026-11-02",

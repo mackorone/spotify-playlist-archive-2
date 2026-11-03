@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Yves\)
+> New & best K\-Electronic music is here\. \(Cover: Yaeji\)
 
-344 songs - 19 hr 29 min
+345 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Dance First \(La La La\)](https://open.spotify.com/track/4X0CDb5Bs9kBVrT2ogDOcn) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV) | [CÖURAGE](https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX) | 4:58 | 2024-09-27 | 2024-10-16 |
 | [DAT SHIT](https://open.spotify.com/track/1fMvmvAiy8uBuUAI1a7cC3) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [DAT SHIT](https://open.spotify.com/album/5EZo6KVu0somD1rbrXA8An) | 2:39 | 2025-08-11 | 2025-09-30 |
 | [Dazed & Confused \- Japanese Version](https://open.spotify.com/track/6au6BQ6Uz9VimjCguRpisw) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dazed & Confused \(Japanese Version\)](https://open.spotify.com/album/7z4DoXWr2pIU2hId9dh70U) | 3:55 | 2024-09-24 | 2024-12-18 |
+| [ddr](https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [ddr](https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi) | 4:37 | 2026-11-03 |  |
 | [DEEP \- 4B Remix](https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [iScreaM Vol.17 : DEEP Remixes](https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk) | 2:34 | 2024-04-05 | 2025-02-12 |
 | [DEEP \- h4rdy Remix](https://open.spotify.com/track/32ublq72W447prf0jOntiJ) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.17 : DEEP Remixes](https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk) | 3:45 | 2024-04-05 | 2024-06-29 |
 | [DIRTY BOY \(feat\. JAMIE & UWA\)](https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [UWA](https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF) | [EVERYBODY’S GUILTY, BUT NO ONE’S TO BLAME](https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa) | 2:58 | 2025-10-14 |  |
@@ -102,7 +103,7 @@
 | [Dive in Love \(Miami Nights 1984 Remix\)](https://open.spotify.com/track/26xz5aqtwl9CMBcN5gHToU) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw), [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [City Lights \(The Mini Album\)](https://open.spotify.com/album/3fCyde4soVFdmuQTMFTKkL) | 4:25 | 2024-08-05 | 2024-08-11 |
 | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7) | 2:19 | 2024-06-28 | 2026-06-23 |
 | [Don't Call Me \- ESAI Remix](https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:01 | 2024-04-05 | 2024-06-29 |
-| [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 | 2024-04-05 |  |
+| [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 | 2024-04-05 | 2026-11-03 |
 | [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 | 2024-04-05 | 2024-06-29 |
 | [DOWNFALL](https://open.spotify.com/track/3B6FXHASndfG4AymIFJVIV) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [DOWNFALL](https://open.spotify.com/album/76u6XROCDq6ruK7x5Z4DRt) | 2:47 | 2024-07-16 | 2024-08-11 |
 | [DRIFT](https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:26 | 2025-05-13 |  |

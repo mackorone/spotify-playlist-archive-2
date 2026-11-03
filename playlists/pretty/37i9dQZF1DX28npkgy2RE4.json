@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 416421,
+  "num_followers": 416412,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
       "artists": [
         {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
         }
       ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -339,18 +339,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Filming School",
-        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Filming School",
-      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 205000,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Filming School",
+        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Filming School",
+      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "all of my lessons",
         "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Fish Pond Fish",
         "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 231066,
       "name": "A Light On In The Dark",
       "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Mecca",
-        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 291762,
-      "name": "Mecca",
-      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "notes to self",
         "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 184400,
       "name": "prelude",
       "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Mecca",
+        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 291762,
+      "name": "Mecca",
+      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 246364,
       "name": "Star Nation",
       "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Storm Queen",
         "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 198750,
       "name": "Raglan",
       "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Shape of Silence",
-        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
+        "name": "Northsiders",
+        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
       },
       "artists": [
         {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 200355,
-      "name": "Causing Trouble",
-      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
+      "duration_ms": 223520,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Northsiders",
-        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
+        "name": "Shape of Silence",
+        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
       },
       "artists": [
         {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
         }
       ],
-      "duration_ms": 223520,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
+      "duration_ms": 200355,
+      "name": "Causing Trouble",
+      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1819,38 +1819,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Narcissist - EP",
-        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
-      },
-      "artists": [
-        {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mouth (feat. Luke Krutzke)",
         "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
       },
@@ -1871,6 +1839,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Narcissist - EP",
+        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
+      },
+      "artists": [
+        {
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Greatest Weapon / Under The Water",
-        "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 174156,
-      "name": "Greatest Weapon",
-      "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Home Truths",
         "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 217400,
       "name": "Home Truths",
       "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Greatest Weapon / Under The Water",
+        "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 174156,
+      "name": "Greatest Weapon",
+      "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Do Re Mi",
-        "url": "https://open.spotify.com/album/6DqZwnuYAGTA99eqhLogCl"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 268195,
-      "name": "Do Re Mi",
-      "url": "https://open.spotify.com/track/7vBPOWYgtgQ0G7m7TMPFPC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "All Of The Women [Feat. Sa-Roc] (dim star remix)",
         "url": "https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 279504,
       "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
       "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Do Re Mi",
+        "url": "https://open.spotify.com/album/6DqZwnuYAGTA99eqhLogCl"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 268195,
+      "name": "Do Re Mi",
+      "url": "https://open.spotify.com/track/7vBPOWYgtgQ0G7m7TMPFPC"
     },
     {
       "added_at": "2025-02-07 05:00:36",

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 12573,
+  "num_followers": 12576,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACMCmby2FH5l3qt0CIS/ZSJ",
+  "snapshot_id": "auUvgAAAAAD/W8ynpcBhT8euPmm8Dso6",
   "tracks": [
     {
       "added_at": null,
@@ -582,11 +582,15 @@
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 221853,
-      "name": "someone that i used to be",
-      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
+      "duration_ms": 183546,
+      "name": "heaven from here (with Penny and Sparrow)",
+      "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
     },
     {
       "added_at": null,
@@ -650,15 +654,11 @@
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 183546,
-      "name": "heaven from here (with Penny and Sparrow)",
-      "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
+      "duration_ms": 221853,
+      "name": "someone that i used to be",
+      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
     },
     {
       "added_at": null,

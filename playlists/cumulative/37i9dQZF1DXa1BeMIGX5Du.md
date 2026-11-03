@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-506 songs - 1 day 6 hr 44 min
+508 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Hold Your Hair](https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw) | [Timothy Nelson](https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq) | [Hold Your Hair](https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer) | 3:02 | 2024-08-26 | 2026-06-02 |
 | [Holding on to You](https://open.spotify.com/track/05hZle1qjV2Hu10Y85fhbv) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Holding on to You](https://open.spotify.com/album/2aog2gZCOAc2tZGFtrVSAE) | 3:33 | 2022-03-25 | 2022-07-29 |
 | [Holding on to You](https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:33 | 2022-06-17 | 2022-10-11 |
-| [Holy Water](https://open.spotify.com/track/5ZgSjcbX3EPbYszNBPvUHz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Holy Water](https://open.spotify.com/album/7nhmuSa4VnloZWAQhKCmtn) | 4:24 | 2026-09-20 |  |
+| [Holy Water](https://open.spotify.com/track/5ZgSjcbX3EPbYszNBPvUHz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Holy Water](https://open.spotify.com/album/7nhmuSa4VnloZWAQhKCmtn) | 4:24 | 2026-09-20 | 2026-11-03 |
 | [Home In Sight](https://open.spotify.com/track/6HLCqZoCfqwsRHF3oyFiKr) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home In Sight](https://open.spotify.com/album/0HP1O8L1X6qfbqmyypB7hE) | 3:17 | 2024-11-04 | 2026-10-19 |
 | [Home To Me](https://open.spotify.com/track/2CQeLwGc9a6ns2QZO3l5Pw) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Home To Me](https://open.spotify.com/album/7HD0Q0832lldGZStiz2emp) | 3:06 | 2025-06-16 |  |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2022-03-25 | 2024-04-03 |
@@ -256,6 +256,7 @@
 | [Last to Know](https://open.spotify.com/track/3PsRifocO55RlBP0HQP0AX) | [Bec Sykes](https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2) | [Pepperpot Magic](https://open.spotify.com/album/3vkwODkm1Z6t0e3mCBR7GP) | 3:14 | 2024-11-19 | 2026-10-19 |
 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 | 2022-03-25 | 2024-09-03 |
 | [Laundromat](https://open.spotify.com/track/2o9DXPraX3X5Z1vZNAL1Q6) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Laundromat](https://open.spotify.com/album/2Ex33ETv1jRtoBxCASEfus) | 3:51 | 2022-03-25 | 2024-02-23 |
+| [Lay](https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lay](https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e) | 4:03 | 2026-11-02 |  |
 | [Lay By Me](https://open.spotify.com/track/0YQF1EyBh1qu9D0PLu3LuQ) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Sleeping Music](https://open.spotify.com/album/4lIRegvaA5FK8JkFW4IPD4) | 2:50 | 2022-10-10 | 2022-11-13 |
 | [Lay By Me](https://open.spotify.com/track/4l6boTiX3Erh3HYpKOa0D6) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Lay By Me](https://open.spotify.com/album/6RZ6Kas2zRvJo0d6CZUfMZ) | 2:50 | 2022-03-25 | 2022-07-29 |
 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 | 2022-06-17 | 2024-02-17 |
@@ -366,6 +367,7 @@
 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 | 2024-07-12 | 2024-08-27 |
 | [Silencio](https://open.spotify.com/track/3rXv53WhlO06eYoe0rND4r) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W), [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis), [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Silencio](https://open.spotify.com/album/2AXA6mUulMOGHjS6AQUkYC) | 3:38 | 2025-01-21 | 2025-08-13 |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-03-25 | 2024-11-19 |
+| [Sing](https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Sing](https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS) | 6:11 | 2026-11-02 |  |
 | [Sing Again](https://open.spotify.com/track/1bBMw1189Tzc5ZvnSKoTjB) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [Sing Again](https://open.spotify.com/album/08kkoRvQj3GGTfvoemqscd) | 3:03 | 2025-12-01 | 2026-04-21 |
 | [Sing You Over](https://open.spotify.com/track/2Y8AaP02pXtMQv2lEYVU5q) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Til My Song Is Done](https://open.spotify.com/album/4ehpNVjWt1whzayDrZrbDc) | 4:27 | 2024-04-18 | 2024-09-10 |
 | [Siren](https://open.spotify.com/track/0qNtQH5ocN5Md4DoqVU0JS) | [Andy Golledge](https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh) | [Young, Dumb & Wild](https://open.spotify.com/album/2EoVN0G04GgBVH1s1bXsPR) | 5:16 | 2024-04-18 | 2025-04-08 |
@@ -452,7 +454,7 @@
 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 | 2023-05-09 | 2023-09-04 |
 | [Till the Flame Turns Blue](https://open.spotify.com/track/65ZLBQ0h2KKqNqqpnr76N0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:05 | 2023-06-08 | 2024-04-19 |
 | [tired eyes](https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [tired eyes](https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW) | 3:41 | 2026-09-06 |  |
-| [To The Sea](https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn) | [Jesse Taylor](https://open.spotify.com/artist/1xHNZLqKxllolDgthwlYbW) | [To The Sea](https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN) | 2:31 | 2024-12-09 |  |
+| [To The Sea](https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn) | [Jesse Taylor](https://open.spotify.com/artist/1xHNZLqKxllolDgthwlYbW) | [To The Sea](https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN) | 2:31 | 2024-12-09 | 2026-11-03 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 | 2024-04-19 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-07-10 |
 | [Touch Down](https://open.spotify.com/track/5VEcg5TxnBvRDqryNTCnS3) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Touch Down](https://open.spotify.com/album/04SAfdUPgrwWwKm0enzwMo) | 2:39 | 2024-10-21 | 2025-08-26 |

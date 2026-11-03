@@ -2,9 +2,9 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
+> Best of Malayalam Hip\-Hop! <br/>Cover :  Fejo
 
-606 songs - 1 day 7 hr 1 min
+607 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Adhi Buddhan](https://open.spotify.com/track/3gBMNa58g4OpQWJzCUivVj) | [Kaalan wrld](https://open.spotify.com/artist/69zPnqXNo9gvshiR7KJ6qR), [cntrpiece](https://open.spotify.com/artist/2daYmsvIsXfpT7ZS84Shel) | [Adhi Buddhan](https://open.spotify.com/album/2bIbkKuzqyJuYB8n8zUwlP) | 2:23 | 2025-08-28 | 2025-10-08 |
 | [Adithatt](https://open.spotify.com/track/48kTjVLdR8P0uNBajPDbFG) | [Who am i.?](https://open.spotify.com/artist/2Z0DyNhHHSbpAmW8QpHAEw) | [Adithatt](https://open.spotify.com/album/6TFRw2ROX0ayXXUu9Ujw3a) | 2:39 | 2025-04-30 | 2025-06-06 |
 | [Adithattu Cypher](https://open.spotify.com/track/69OAdLAS2tDAuCY0EiFRFA) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [Kavo](https://open.spotify.com/artist/03YNVy4UYUPI0nw7J3W0Q1), [Ibnu Kopz](https://open.spotify.com/artist/39lndWMB0tQuIN68ayAl0T), [Thamburaan](https://open.spotify.com/artist/1KRhxlUbVmOCVzM7d7zdj7) | [Adithattu Cypher](https://open.spotify.com/album/7dd9TGPUhvcAMNIO8sjo9s) | 4:45 | 2022-06-23 | 2023-07-24 |
+| [Aksharamala](https://open.spotify.com/track/0JwfGeQo2GqoGK3BkbiurW) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [GOTHAM S](https://open.spotify.com/artist/3gE61BTocjV5OB9ESJwwwI) | [Aksharamala](https://open.spotify.com/album/5DprK0wmcRft9s3PBOgFBx) | 2:04 | 2026-11-02 |  |
 | [Alavalaathi](https://open.spotify.com/track/0mHK1GiiXaadiqp3qEnACQ) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Alavalaathi](https://open.spotify.com/album/4DKFD2f5vHDsr4HqejZaA1) | 2:14 | 2025-05-22 | 2025-07-18 |
 | [All Divine](https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf), [Steve Knight](https://open.spotify.com/artist/6G5M4NdoEdfFdkZtcE0Ntg) | [All Divine](https://open.spotify.com/album/49ficLfuUA7y7Uczvf7IzQ) | 4:04 | 2022-10-25 | 2024-04-23 |
 | [Ambambo](https://open.spotify.com/track/1PkTgt9jmns4V58HSvGC5s) | [Abhilash Prabhasurendran](https://open.spotify.com/artist/2hznP9gAUfMmlPXHEV9rlq), [Aneesh Shanker A](https://open.spotify.com/artist/1v4OalC4jFKpHq7KzqRQaY), [Abhilash Surendran](https://open.spotify.com/artist/57LTyNEIhZXV8aFyyvi1T6) | [Blockbuster Days](https://open.spotify.com/album/4EvwktXuX9UPGeLySTSjTh) | 1:54 | 2024-01-03 | 2024-02-13 |

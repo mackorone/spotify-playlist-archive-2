@@ -4,7 +4,7 @@
 
 > mostly furry
 
-598 songs - 1 day 5 hr 30 min
+599 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [757](https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:06 | 2026-07-17 |  |
 | [7teen](https://open.spotify.com/track/1jfjlQPrVQhNEFXlQLelLE) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [NO NICE THINGS](https://open.spotify.com/album/4Ke9hTIEJjucuy4kaWy3P1) | 2:59 | 2026-10-18 |  |
 | [8 now](https://open.spotify.com/track/3lzX0mU3pfXOQRnH0ryZJR) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [food house](https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr) | 3:29 | 2026-07-17 |  |
+| [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 | 2026-11-02 |  |
 | [ACT RIGHT](https://open.spotify.com/track/2sVjF25Z4JTJxi9BXm5GtJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [ACT RIGHT](https://open.spotify.com/album/4GHFjmhUZkJfE6kuIJWQuk) | 2:24 | 2026-08-24 |  |
 | [Addict](https://open.spotify.com/track/06J2aXANJm3WdtoAz4XTaG) | [Silva Hound](https://open.spotify.com/artist/6ty1HyJReuPdMWdoZAIB4I), [Michael Kovach](https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW) | [Addict \(Remixed\)](https://open.spotify.com/album/6Slca39jPUdRqnSYiDbLlu) | 4:05 | 2024-05-14 |  |
 | [Adler The Eagle](https://open.spotify.com/track/5AwCCt1ZZbyHjp3ujqjr77) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:56 | 2025-04-24 |  |

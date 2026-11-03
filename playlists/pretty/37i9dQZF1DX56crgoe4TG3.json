@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 287399,
+  "num_followers": 287409,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,26 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Aerials",
-        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
       "artists": [
         {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+        },
+        {
+          "name": "John Cowan",
+          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
         }
       ],
-      "duration_ms": 228490,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
+      "duration_ms": 315345,
+      "name": "Southern Cross",
+      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -491,26 +499,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+        "name": "Aerials",
+        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
       },
       "artists": [
         {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        },
-        {
-          "name": "John Cowan",
-          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
         }
       ],
-      "duration_ms": 315345,
-      "name": "Southern Cross",
-      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
+      "duration_ms": 228490,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "The Set",
+        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 356484,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Pickin' on the 90s",
         "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 198460,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "The Set",
-        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 356484,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "The DeLorean Sisters",
         "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 209895,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Closer You Get",
-        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 345058,
-      "name": "Closer You Get",
-      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Johnny B. Goode",
         "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 197250,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Closer You Get",
+        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 345058,
+      "name": "Closer You Get",
+      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Graceland (Live Session)",
-        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Graceland (Live Session)",
-      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 167827,
       "name": "Norwegian Wood (This Bird Has Flown)",
       "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Graceland (Live Session)",
+        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Graceland (Live Session)",
+      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "The Very Best Yet (The Very Best Yet Version)",
-        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
-      },
-      "artists": [
-        {
-          "name": "The Hillbilly Moonshiners Bluegrass Band",
-          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
-        }
-      ],
-      "duration_ms": 218091,
-      "name": "Can't Feel My Face - The Very Best Yet Version",
-      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Born to Run",
         "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 281500,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "The Very Best Yet (The Very Best Yet Version)",
+        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moonshiners Bluegrass Band",
+          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
+        }
+      ],
+      "duration_ms": 218091,
+      "name": "Can't Feel My Face - The Very Best Yet Version",
+      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
     },
     {
       "added_at": "2026-08-21 04:02:18",

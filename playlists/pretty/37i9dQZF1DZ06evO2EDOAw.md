@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,483 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,485 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 49 | [Never Leave](https://open.spotify.com/track/1vY8zMbVaWCmiaExlP0WqY) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Impossible](https://open.spotify.com/album/5EnqZzuFqbvlFkOTmnaBQa) | 3:37 |
 | 50 | [So Glad](https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reset](https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS) | 4:42 |
 
-Snapshot ID: `auUvgAAAAABOlimWTg8UW9UlnGTSoEbj`
+Snapshot ID: `auaBAAAAAADB+jJ6DdIY7LbxkhUsWGrg`

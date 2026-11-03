@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua ",
-  "num_followers": 878873,
+  "num_followers": 878935,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 206538,
+      "name": "OSAD\u00cdA",
+      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "OSAD\u00cdA",
-        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 206538,
-      "name": "OSAD\u00cdA",
-      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Chula Vente",
         "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -659,22 +659,38 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Yo Era Poes\u00eda",
-        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
+        "name": "Dr. Doctor",
+        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
         },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Dr. Doctor",
+      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "La Magia de Conectar",
+        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
+      },
+      "artists": [
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 194923,
-      "name": "Yo Era Poes\u00eda",
-      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
+      "duration_ms": 160979,
+      "name": "La Magia de Conectar",
+      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -699,38 +715,22 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "La Magia de Conectar",
-        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
+        "name": "Yo Era Poes\u00eda",
+        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
       },
       "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 160979,
-      "name": "La Magia de Conectar",
-      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "Dr. Doctor",
-        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
-      },
-      "artists": [
-        {
-          "name": "Emi Blue",
-          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Dr. Doctor",
-      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+      "duration_ms": 194923,
+      "name": "Yo Era Poes\u00eda",
+      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "WET DREAMS",
-        "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "DOLCE VITA",
-      "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Mi Ni\u00f1a",
         "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 175522,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "WET DREAMS",
+        "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "DOLCE VITA",
+      "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Jungla De Metal",
-        "url": "https://open.spotify.com/album/2KmWai1pEjoKYU07BqEkwX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 246150,
-      "name": "Jungla De Metal",
-      "url": "https://open.spotify.com/track/107uZT9KTYNltb5iT0BcFG"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 194180,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Jungla De Metal",
+        "url": "https://open.spotify.com/album/2KmWai1pEjoKYU07BqEkwX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 246150,
+      "name": "Jungla De Metal",
+      "url": "https://open.spotify.com/track/107uZT9KTYNltb5iT0BcFG"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "La Pelea De Mi Vida",
-        "url": "https://open.spotify.com/album/2F1giYx2i71R3AYOdVVZom"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 183509,
-      "name": "La Pelea De Mi Vida",
-      "url": "https://open.spotify.com/track/4wFdorG5cMrkTAghmuFYH6"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Ooh Laka Laka La",
         "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 134797,
       "name": "Ooh Laka Laka La",
       "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "La Pelea De Mi Vida",
+        "url": "https://open.spotify.com/album/2F1giYx2i71R3AYOdVVZom"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 183509,
+      "name": "La Pelea De Mi Vida",
+      "url": "https://open.spotify.com/track/4wFdorG5cMrkTAghmuFYH6"
     },
     {
       "added_at": "2026-10-23 06:00:45",

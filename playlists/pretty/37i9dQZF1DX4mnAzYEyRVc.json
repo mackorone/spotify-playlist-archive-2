@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73825,
+  "num_followers": 73837,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Mudik",
+        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Mudik",
+      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/7HtUqG6QaSsbYJMd8nNpxk"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 171829,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5w67R0ltLrS5MNjydxteUw"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Mudik",
-        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Mudik",
-      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Estoy en Paz",
-        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 172285,
-      "name": "Estoy en Paz",
-      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Dead Man's Party",
         "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 258019,
       "name": "Dead Man's Party",
       "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Estoy en Paz",
+        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 172285,
+      "name": "Estoy en Paz",
+      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 280293,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Fade Out",
-        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 220625,
-      "name": "Fade Out",
-      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "BAALBEK",
         "url": "https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 167691,
       "name": "Worm in de Appel",
       "url": "https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Fade Out",
+        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 220625,
+      "name": "Fade Out",
+      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Zombiler",
         "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 206129,
       "name": "Zombiler",
       "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2026-08-21 06:00:30",

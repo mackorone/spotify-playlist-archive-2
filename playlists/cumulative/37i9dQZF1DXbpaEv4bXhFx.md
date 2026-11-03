@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-260 songs - 15 hr 57 min
+261 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 | 2022-06-20 | 2024-11-03 |
 | [To\. Rain](https://open.spotify.com/track/0C8nEmMnBuF1Ud3UKjNnAs) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [To\. Rain](https://open.spotify.com/album/783OheKtlWgUsigCBBCdHN) | 3:42 | 2022-06-29 | 2022-07-04 |
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-11-11 |
+| [Traces Of Memory \(feat\. Milena\)](https://open.spotify.com/track/03J8HvGINHfQWdKbeCttRP) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [dnss](https://open.spotify.com/artist/5ZW2UKvYiMUTn9R3IzaQac), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Traces Of Memory](https://open.spotify.com/album/1ZMa26gMWLWk2rr4PJMLW2) | 2:57 | 2026-07-03 |  |
 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 | 2022-07-04 | 2022-08-14 |
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-07-13 |  |
 | [Umbrella](https://open.spotify.com/track/4DbVMZMVDaPgbm3ODxtOO6) | [H&D](https://open.spotify.com/artist/7lHJGLY9oGWjH6j05BLnt7) | [Umbrella](https://open.spotify.com/album/6nj3I1yqzTLd8HB4AgRzqq) | 0:29 | 2022-06-20 | 2022-07-02 |
@@ -249,7 +250,7 @@
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2022-06-20 |  |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 | 2026-10-20 |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-07-26 |
-| [With an Umbrella \(feat\. EZ Kim\)](https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Burn the Memory](https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW) | 3:31 | 2025-11-04 |  |
+| [With an Umbrella \(feat\. EZ Kim\)](https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Burn the Memory](https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW) | 3:31 | 2025-11-04 | 2026-11-03 |
 | [XXLove](https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [XXLove](https://open.spotify.com/album/0breiCTj1nIZwIS261yCPu) | 3:19 | 2022-06-20 | 2022-07-29 |
 | [You Don't Shine Anymore \(Interlude\)](https://open.spotify.com/track/58ugn5hQqFTHp0WcaR8bPz) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:41 | 2022-06-29 | 2022-07-06 |
 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 | 2022-08-13 |  |

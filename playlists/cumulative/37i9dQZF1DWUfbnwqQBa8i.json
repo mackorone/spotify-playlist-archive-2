@@ -556,10 +556,32 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 264035,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/5ne6ridfyesueR20rn7Zey"
+    },
+    {
+      "album": {
+        "name": "Chopin Orbit",
+        "url": "https://open.spotify.com/album/0wAg7zAGP4JUlwf7XNeOQS"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/3oUWlANkOCnI7EO1WYEoFl"
     },
     {
       "album": {
@@ -1600,7 +1622,7 @@
     {
       "album": {
         "name": "Idea 2",
-        "url": "https://open.spotify.com/album/2Q4pbNVO6lGE3qMZJReiJ9"
+        "url": "https://open.spotify.com/album/0ZyS2h3VNLEoj5DidQvEDS"
       },
       "artists": [
         {
@@ -1611,6 +1633,24 @@
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Idea 2",
+      "url": "https://open.spotify.com/track/4PRlZ3h8ghoD2n6pvRERQK"
+    },
+    {
+      "album": {
+        "name": "Idea 2",
+        "url": "https://open.spotify.com/album/2Q4pbNVO6lGE3qMZJReiJ9"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-03",
       "duration_ms": 157500,
       "name": "Idea 2",
       "url": "https://open.spotify.com/track/6gV01TEb8vqS8Munhgncov"
@@ -2654,10 +2694,32 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 239747,
       "name": "Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo \u2013 Adagio espressivo",
       "url": "https://open.spotify.com/track/0p6Np80yQy9OCvEPfOLAwY"
+    },
+    {
+      "album": {
+        "name": "Opus 109 (Beethoven | Bach | Schubert)",
+        "url": "https://open.spotify.com/album/314NtD4ZUGxR5JZ4mTuW3w"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239747,
+      "name": "Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo \u2013 Adagio espressivo",
+      "url": "https://open.spotify.com/track/6awlv7phEy0smE2JvpmodX"
     },
     {
       "album": {
@@ -2773,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "6 Preludes",
+        "url": "https://open.spotify.com/album/2AJtDMMMuKh59N022NLKYe"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198413,
+      "name": "Pr\u00e9lude, Fugue et Variation, Op. 18: I. Pr\u00e9lude. Andantino",
+      "url": "https://open.spotify.com/track/0lyTRudkAJjNwC8LvCVmuy"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9lude, Fugue et Variation, Op. 18: I. Pr\u00e9lude. Andantino",
         "url": "https://open.spotify.com/album/3EqcLYA08h8wjmMkXXO4VD"
       },
@@ -2788,7 +2872,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 198413,
       "name": "Pr\u00e9lude, Fugue et Variation, Op. 18: I. Pr\u00e9lude. Andantino",
       "url": "https://open.spotify.com/track/1WY6KG95WfP0J985sXuLdL"
@@ -2928,10 +3012,32 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 287306,
       "name": "Raindrop Postlude",
       "url": "https://open.spotify.com/track/1hrXhqWMK5O7DOhNZMqmG6"
+    },
+    {
+      "album": {
+        "name": "Chopin Orbit",
+        "url": "https://open.spotify.com/album/0wAg7zAGP4JUlwf7XNeOQS"
+      },
+      "artists": [
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287306,
+      "name": "Raindrop Postlude",
+      "url": "https://open.spotify.com/track/2RaZ3GCpuZ2TETxTfj28BM"
     },
     {
       "album": {
@@ -4085,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Forgotten Melodies",
+        "url": "https://open.spotify.com/album/2Bkrl2GShT9P56b6xSpvaY"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Alexander Malofeev",
+          "url": "https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345466,
+      "name": "\u00c9l\u00e9gie in E-Flat Minor",
+      "url": "https://open.spotify.com/track/4kSbOs1yta4gzIaWOygCU1"
+    },
+    {
+      "album": {
         "name": "\u00c9l\u00e9gie in E-Flat Minor",
         "url": "https://open.spotify.com/album/5i9xAGWNRjxIAaIHGQxOOs"
       },
@@ -4100,7 +4228,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 345466,
       "name": "\u00c9l\u00e9gie in E-Flat Minor",
       "url": "https://open.spotify.com/track/5RQ49Ogdlu7XA8Sdnxd4gT"

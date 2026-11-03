@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: ابو الهوا
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: حوده
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,987 likes - 54 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,062 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EL BADLA WEL FOSTAN](https://open.spotify.com/track/2xYITR2JakEl8VxnQQ0Th8) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [EL BADLA WEL FOSTAN](https://open.spotify.com/album/56r3tZ6lin6O7ngwBcO4hO) | 2:55 |
-| 2 | [El Alb Mat](https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [El Alb Mat](https://open.spotify.com/album/0ujtOcl7FVd8ATlgAQrHXW) | 3:48 |
+| 1 | [El Alb Mat](https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [El Alb Mat](https://open.spotify.com/album/0ujtOcl7FVd8ATlgAQrHXW) | 3:48 |
+| 2 | [EL BADLA WEL FOSTAN](https://open.spotify.com/track/2xYITR2JakEl8VxnQQ0Th8) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [EL BADLA WEL FOSTAN](https://open.spotify.com/album/56r3tZ6lin6O7ngwBcO4hO) | 2:55 |
 | 3 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
 | 4 | [HASESS BIK](https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [HASESS BIK](https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc) | 4:06 |
 | 5 | [Khayen](https://open.spotify.com/track/2UKfMJuJPC4gTrj1fyacuZ) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Khayen](https://open.spotify.com/album/4vLcEKy5pMFkcH8mcAxfPX) | 3:31 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 53 | [Shoft El Donya](https://open.spotify.com/track/1zeSBKVXV4VREMEnPouiTl) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Omry Maak](https://open.spotify.com/album/3vvDdIvYc1Y4NnLtdA8Zzt) | 4:14 |
 | 54 | [حرية قرار](https://open.spotify.com/track/5DqiilkwBdbsgGh5C8fp6t) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [هيبة](https://open.spotify.com/album/7AFvHWV66mxfHLaV6yhqZb) | 5:08 |
 
-Snapshot ID: `AAAAAJr3ce+tAjJI4bm9d38jazGfqmaN`
+Snapshot ID: `AAAAAM6cj7e8OWYULKO3D0tZM0ieKMkB`

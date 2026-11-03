@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Jeneba Kanneh Mason",
+  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Suena",
   "name": "Women of Classical",
   "tracks": [
     {
@@ -5402,6 +5402,28 @@
       "duration_ms": 313000,
       "name": "Vespers for a New Dark Age: I. Wayward Free Radical Dreams",
       "url": "https://open.spotify.com/track/7s4rXsF2uAeechqkvLrwK6"
+    },
+    {
+      "album": {
+        "name": "INSTINCTA",
+        "url": "https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143872,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc"
     },
     {
       "album": {

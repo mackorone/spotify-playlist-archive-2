@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,631 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,628 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [14,400 Minutes](https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [10 Day](https://open.spotify.com/album/71BfvzpZmuVgW6zdQ93bin) | 2:08 |
 | 50 | [The Man Who Has Everything](https://open.spotify.com/track/7zw8liUMFv18r0FIoOXFwP) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/6uVmpm7xTaSmTraOa2ydUo) | 3:38 |
 
-Snapshot ID: `auUvgAAAAAASScGus70YlJy36ukRNfpb`
+Snapshot ID: `auUvgAAAAAAQckqBcJ1fkubivXDc1SE2`

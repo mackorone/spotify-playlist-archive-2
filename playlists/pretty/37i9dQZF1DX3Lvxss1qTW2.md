@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: TUFF KING
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,161 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,198 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 41 | [Bullion Van](https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Bullion Van](https://open.spotify.com/album/5wUCNSjLXZ8sVs5rsN1Xhb) | 2:16 |
 | 42 | [GOAT](https://open.spotify.com/track/2SYoEKRDGagZfv0lc4IQRm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [GOAT](https://open.spotify.com/album/1oK2wDRFLxKl6J4iv6OaRB) | 2:35 |
 | 43 | [Comfort](https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Comfort](https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc) | 2:26 |
-| 44 | [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 |
+| 44 | [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 |
 | 45 | [ZODIAC II](https://open.spotify.com/track/2QXcpf5MPF31txzTjh3TyQ) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Yazi \(Deluxe\)](https://open.spotify.com/album/1Ew4B2ujM6ziiTf19YS3c4) | 2:26 |
 | 46 | [Bere Mole](https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Bere Mole](https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf) | 1:53 |
 | 47 | [Cry \(with Black Sherif\)](https://open.spotify.com/track/6Xec7VYM3Y98esBVd6VCPh) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 2:41 |

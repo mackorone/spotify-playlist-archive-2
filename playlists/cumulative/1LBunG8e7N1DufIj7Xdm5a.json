@@ -51409,6 +51409,24 @@
     },
     {
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/37kNz5cw59TbcijwmZI8eu"
+      },
+      "artists": [
+        {
+          "name": "Frode M\u00f8ller",
+          "url": "https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238658,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7q3bSnB43PJgmcJzB4gnzx"
+    },
+    {
+      "album": {
         "name": "Morphine",
         "url": "https://open.spotify.com/album/2fgTJDXR6qrwNJyqDneRP6"
       },
@@ -71416,6 +71434,24 @@
       "duration_ms": 168573,
       "name": "somehow you know",
       "url": "https://open.spotify.com/track/3MyMQQY8A2DFw9BU9n82bh"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/3DtbqRhzGDVrWBzkBHjuF6"
+      },
+      "artists": [
+        {
+          "name": "AIRFLO",
+          "url": "https://open.spotify.com/artist/5enWQoEEYc5HIcUmju49vL"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240602,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/5gAPlerVQ3cFednbpheJdQ"
     },
     {
       "album": {

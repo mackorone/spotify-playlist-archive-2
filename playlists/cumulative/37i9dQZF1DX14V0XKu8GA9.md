@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Shoreline Mafia
 
-492 songs - 22 hr 54 min
+495 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 | 2023-05-27 | 2024-01-09 |
 | [Down Bad](https://open.spotify.com/track/1OFNP3NY13l8r0VK1eRY1w) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Down Bad](https://open.spotify.com/album/64SQ4vk2JrvMd3fL62gPtf) | 2:33 | 2022-06-07 | 2023-01-28 |
 | [Down Bad](https://open.spotify.com/track/74Xbdgy7Z2jlcTDbwTS4Uc) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [CVTCHXXII](https://open.spotify.com/artist/6nfZ3LiG0pJkpstyWjxQjc) | [Down Bad](https://open.spotify.com/album/4LMs0kBra5ZI6zNxEha6rI) | 3:34 | 2025-04-11 |  |
-| [drinking everyday](https://open.spotify.com/track/56E3HEgbXLpnXAklEG9GEk) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [drinking everyday](https://open.spotify.com/album/56BwrMZDeexBcRpxCh8g1Z) | 2:34 | 2025-06-27 |  |
+| [Drinking Everyday](https://open.spotify.com/track/2UGa0jT6osKL3hxGqQhmRV) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Drinking Everyday](https://open.spotify.com/album/5RJ2zB3zQyFe9SM8yNBgc4) | 2:34 | 2026-04-10 |  |
+| [drinking everyday](https://open.spotify.com/track/56E3HEgbXLpnXAklEG9GEk) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [drinking everyday](https://open.spotify.com/album/56BwrMZDeexBcRpxCh8g1Z) | 2:34 | 2025-06-27 | 2026-11-03 |
 | [Drop Top Down](https://open.spotify.com/track/4MVuezmJ0vh071qLHWEeTO) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [Drop Top Down](https://open.spotify.com/album/2EkJsPsm2ZgYQrTD2Tqvp1) | 3:57 | 2025-04-11 | 2025-06-28 |
 | [Drowning \(feat\. Peysoh\)](https://open.spotify.com/track/18DvbC01d83aC9UbBCgxlw) | [Baby Yungin](https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [HeartBreak Blues](https://open.spotify.com/album/4LU2SvMYpUqOvthQiYFR9v) | 4:07 | 2022-01-10 | 2022-03-16 |
 | [Drug Dealerz](https://open.spotify.com/track/1bESLbwe0ssCAbTkVwwPcS) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [No Chaser](https://open.spotify.com/album/6Eyca9Fc4oxdYOfjuTCqDp) | 2:56 | 2022-09-11 | 2023-01-28 |
@@ -307,7 +308,8 @@
 | [No Hook](https://open.spotify.com/track/74AclpvR2pe9C8cHfxnltW) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [No Hook](https://open.spotify.com/album/2zMPomRZ8A5An40OHAXHfQ) | 2:34 | 2022-01-10 | 2022-07-06 |
 | [No Lies](https://open.spotify.com/track/77ERKrPMdI6FCogm9JPlVL) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [No Lies](https://open.spotify.com/album/3E1YFW3D27D5BseYwl8IUP) | 2:44 | 2025-04-11 |  |
 | [No Mercy](https://open.spotify.com/track/4tYv1mb82FpOzpPBAnpDrt) | [Throwed Ese](https://open.spotify.com/artist/0vq4SpIPtDdASQ8MvnvsIZ) | [No Love Left 3](https://open.spotify.com/album/6aZATR4ZryryNB06Boy5rE) | 2:14 | 2022-01-10 | 2022-02-17 |
-| [No Peekin'](https://open.spotify.com/track/5eZV1E1wUEtBTSLmEx8juR) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [No Peekin'](https://open.spotify.com/album/6kmjvF7OqpHyg9mfW2osIg) | 2:35 | 2025-06-27 |  |
+| [No Peekin'](https://open.spotify.com/track/5eZV1E1wUEtBTSLmEx8juR) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [No Peekin'](https://open.spotify.com/album/6kmjvF7OqpHyg9mfW2osIg) | 2:35 | 2025-06-27 | 2026-11-03 |
+| [No Peekin'](https://open.spotify.com/track/6C1trwtSTvKwgjEzu77HOT) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [We Meet Again](https://open.spotify.com/album/3p9bhdYEp7E9TOXBXrcBrB) | 2:35 | 2026-04-10 |  |
 | [No Saint](https://open.spotify.com/track/6f5F1SoRor9yHMLty9cfmd) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [No Saint](https://open.spotify.com/album/2P1qkZTVayHrilIwV9i3IG) | 3:05 | 2022-01-10 | 2022-02-14 |
 | [Not Me](https://open.spotify.com/track/0Zdmd3wlVvDbVAj1dfqxbT) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Peysoh Did It](https://open.spotify.com/album/0vrkhx5cRnzXHWEaLkrwOp) | 1:50 | 2024-12-26 | 2025-06-28 |
 | [Novio \#2 \(feat\. Junior H\)](https://open.spotify.com/track/1XOHe0PrkRiT5vm7aXV9GS) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Novio \#2 \(feat\. Junior H\)](https://open.spotify.com/album/0S9tT5GWJiGeDUP1AxE7kN) | 3:24 | 2025-04-11 |  |
@@ -412,7 +414,8 @@
 | [Star Shootin](https://open.spotify.com/track/59iGJ5GJdXHT1sbIOb7zyN) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Star Shootin](https://open.spotify.com/album/0EFupahEI1Ma5UeviRof5I) | 1:48 | 2023-09-15 | 2024-01-09 |
 | [Stay Dangerous](https://open.spotify.com/track/7sBijv0T7CStp6K7LZN5XO) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Stay Dangerous](https://open.spotify.com/album/7HJMrm4FfZYZSQP3f5FSNO) | 2:41 | 2022-09-11 | 2023-01-28 |
 | [Steady](https://open.spotify.com/track/7fAYijCSXR9jqljdhmXqBp) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Steady](https://open.spotify.com/album/28B8v5EqjlsbHQiZT88gIs) | 3:15 | 2022-01-10 | 2022-07-07 |
-| [Stick Up](https://open.spotify.com/track/3gB6giw6EyJ1thcB0H2ksZ) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Stick Up](https://open.spotify.com/album/4xgzvXXMVNgz9VSaomSVTa) | 2:23 | 2025-06-27 |  |
+| [Stick Up](https://open.spotify.com/track/3bYTaxjHO74zrVnNIl7lZ9) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Stick Up](https://open.spotify.com/album/34iqmrHZpyH3hzKLcUkwud) | 2:23 | 2026-04-10 |  |
+| [Stick Up](https://open.spotify.com/track/3gB6giw6EyJ1thcB0H2ksZ) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Stick Up](https://open.spotify.com/album/4xgzvXXMVNgz9VSaomSVTa) | 2:23 | 2025-06-27 | 2026-11-03 |
 | [Still Cried](https://open.spotify.com/track/1UE784i65b9PaYr9jY9AwY) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Young KB](https://open.spotify.com/artist/63yoDocflvqmwUtC72RQ7G) | [Still Cried](https://open.spotify.com/album/2UXZsZFHF2NaPN3csCFfEd) | 2:31 | 2022-09-11 | 2023-01-28 |
 | [Still Outside \(feat\. Oowop\)](https://open.spotify.com/track/3EvpcFKli9azqUWiRrg5dI) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Oowop](https://open.spotify.com/artist/2jMOUs4PEsHQbwJGEAxxli) | [Still Outside \(feat\. Oowop\)](https://open.spotify.com/album/52b9YuNn3rapyJep5qP9gu) | 3:09 | 2024-01-08 | 2024-05-22 |
 | [Stop Cry'n](https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Stop Cry'n](https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q) | 2:20 | 2023-09-15 | 2024-05-22 |

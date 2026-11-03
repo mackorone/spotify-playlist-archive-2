@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 
 > This is Itzhak Perlman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,407 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,411 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 | 49 | [Violin Sonata in F Major, K\. 547 "Für Anfänger": I\. Andantino cantabile](https://open.spotify.com/track/3HHMTWhzDELaqXVK6fhib1) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Mozart: The Violin Sonatas](https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu) | 5:56 |
 | 50 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/0oyL4K4fDTEFUbD9AHSvDc) | [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Pittsburgh Symphony Orchestra](https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9) | [John Williams \- Greatest Hits 1969\-1999](https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF) | 3:31 |
 
-Snapshot ID: `auUvgAAAAAA4rVqRMt1HHX3ixQ0P9ukf`
+Snapshot ID: `auUvgAAAAADZvGmo5vKdHYy5E6w8sG0+`

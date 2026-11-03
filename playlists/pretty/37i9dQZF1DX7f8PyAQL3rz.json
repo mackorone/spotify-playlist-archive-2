@@ -1,6 +1,6 @@
 {
   "description": "salgada a pista t\u00e1, n\u00e9? \ud83c\udf1a",
-  "num_followers": 1427456,
+  "num_followers": 1427300,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2026-10-27 12:55:20",
       "album": {
+        "name": "MUSICAS PARA ELEVADOR",
+        "url": "https://open.spotify.com/album/1jFa66HKY5ddl2UGR9Y1pG"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 161856,
+      "name": "MARTINA",
+      "url": "https://open.spotify.com/track/2QOxeIlhFvLyIwQvkoeznG"
+    },
+    {
+      "added_at": "2026-10-27 12:55:20",
+      "album": {
         "name": "Escolhas",
         "url": "https://open.spotify.com/album/1a6S7FW7Qh1xBYVsXEH34S"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 181079,
       "name": "Escolhas",
       "url": "https://open.spotify.com/track/1Mr9eFlc36B0geFXvVvNEA"
-    },
-    {
-      "added_at": "2026-10-27 12:55:20",
-      "album": {
-        "name": "MUSICAS PARA ELEVADOR",
-        "url": "https://open.spotify.com/album/1jFa66HKY5ddl2UGR9Y1pG"
-      },
-      "artists": [
-        {
-          "name": "Baby T",
-          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
-        },
-        {
-          "name": "137 Records",
-          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 161856,
-      "name": "MARTINA",
-      "url": "https://open.spotify.com/track/2QOxeIlhFvLyIwQvkoeznG"
     },
     {
       "added_at": "2026-10-27 12:55:20",
@@ -1355,34 +1355,6 @@
     {
       "added_at": "2026-10-27 12:55:20",
       "album": {
-        "name": "BAILA IGUAL VINI",
-        "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "3X",
-          "url": "https://open.spotify.com/artist/46VTErrP5GnZwq602AEVLp"
-        },
-        {
-          "name": "OLIE",
-          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
-        },
-        {
-          "name": "JHXW",
-          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
-        }
-      ],
-      "duration_ms": 160718,
-      "name": "BAILA IGUAL VINI",
-      "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
-    },
-    {
-      "added_at": "2026-10-27 12:55:20",
-      "album": {
         "name": "DIXAVANDO",
         "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
       },
@@ -1407,6 +1379,34 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
+    },
+    {
+      "added_at": "2026-10-27 12:55:20",
+      "album": {
+        "name": "BAILA IGUAL VINI",
+        "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "3X",
+          "url": "https://open.spotify.com/artist/46VTErrP5GnZwq602AEVLp"
+        },
+        {
+          "name": "OLIE",
+          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "duration_ms": 160718,
+      "name": "BAILA IGUAL VINI",
+      "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
     },
     {
       "added_at": "2026-10-27 12:55:20",

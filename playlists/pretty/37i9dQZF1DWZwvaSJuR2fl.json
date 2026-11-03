@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 84251,
+  "num_followers": 84256,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,34 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
+        "name": "Bruch & Dvorak Violin Concertos",
+        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Julia Fischer",
+          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 611453,
+      "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
+      "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
         "name": "Dvor\u00e1k: Cello Concerto / Strauss, R.: Don Quixote",
         "url": "https://open.spotify.com/album/6kSudTkTbOY887IFxotGxT"
       },
@@ -619,34 +647,6 @@
       "duration_ms": 724986,
       "name": "Cello Concerto in B Minor, Op. 104, B. 191: III. Finale (Allegro moderato)",
       "url": "https://open.spotify.com/track/0ygz2fsLGI8OxWoPkprr6D"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
-        "name": "Bruch & Dvorak Violin Concertos",
-        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Julia Fischer",
-          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 611453,
-      "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
-      "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
-        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Myung-Whun Chung",
-          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
-        }
-      ],
-      "duration_ms": 626999,
-      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
         "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 288680,
       "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: I. Andante con moto",
       "url": "https://open.spotify.com/track/2jwG0ipR11UNSI9XUzusQ0"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
+        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
+        }
+      ],
+      "duration_ms": 626999,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvor\u00e1k: Symphony Nos. 8 & 9 \"From the New World\"",
-        "url": "https://open.spotify.com/album/3ZFAZ6hnng0lLB0e8YIbL4"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
-        }
-      ],
-      "duration_ms": 619000,
-      "name": "Symphony No. 8 in G Major, Op. 88, B. 163: II. Adagio",
-      "url": "https://open.spotify.com/track/7z2GxaOoCDyQJFuUcMjmzn"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
         "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 435506,
       "name": "8 Slavonic Dances, Op. 46, B.83: No. 4 in F Major (Tempo di minuetto)",
       "url": "https://open.spotify.com/track/4mHBcmw0ZYMWk1Fq5l20vn"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvor\u00e1k: Symphony Nos. 8 & 9 \"From the New World\"",
+        "url": "https://open.spotify.com/album/3ZFAZ6hnng0lLB0e8YIbL4"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "duration_ms": 619000,
+      "name": "Symphony No. 8 in G Major, Op. 88, B. 163: II. Adagio",
+      "url": "https://open.spotify.com/track/7z2GxaOoCDyQJFuUcMjmzn"
     },
     {
       "added_at": "2025-12-22 11:34:49",

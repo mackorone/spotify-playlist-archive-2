@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry, Alt8
 
-415 songs - 1 day 3 hr 37 min
+416 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 | 2025-07-25 |
 | [Kick Bass In Your Face](https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Kick Bass In Your Face](https://open.spotify.com/album/0MKm3xNFKPhhDGc16DoT3G) | 2:44 | 2024-09-27 | 2026-06-26 |
 | [Kick Drum Talk](https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Kick Drum Talk](https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1) | 3:47 | 2026-06-11 |  |
-| [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 |  |
+| [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 | 2025-02-20 | 2026-11-03 |
 | [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATED](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 |  |
 | [Kiss Girl](https://open.spotify.com/track/27rVhCihd0rscnZtoj7ZDO) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Kiss Girl](https://open.spotify.com/album/2KQ17ihgLn28kaKFhcN4az) | 3:08 | 2025-01-24 | 2025-03-30 |
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-07-25 |  |
@@ -275,6 +275,7 @@
 | [NEVER STOP](https://open.spotify.com/track/3NV8bjW1TNXpjFbixuo1xm) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [NEVER STOP](https://open.spotify.com/album/62bT2QRBas9WTZ6wIJo3PM) | 3:45 | 2026-01-29 | 2026-07-21 |
 | [Next Level](https://open.spotify.com/track/0OZcUuoM0InrwuH3UJoFoz) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Next Level](https://open.spotify.com/album/4pSZsF6n4r1O1i3NTtPHBN) | 2:00 | 2024-08-31 | 2025-05-26 |
 | [Nightcore](https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz) | [Lady Maru](https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z) | [Nightcore](https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W) | 3:42 | 2025-09-05 | 2026-09-25 |
+| [No Escape](https://open.spotify.com/track/6e3F1pz262XJ9n74DArbt4) | [AZYR](https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8) | [No Escape](https://open.spotify.com/album/0pnDi9VBfDa51K9aHN9rAx) | 2:40 | 2026-10-16 |  |
 | [No Ex, No Next \(The Best\)](https://open.spotify.com/track/0tsnEU7zBozTJsbH6GALvR) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [Felipe Zona](https://open.spotify.com/artist/4QchMOaJH8a3hgtnHk6BMS) | [No Ex, No Next \(The Best\)](https://open.spotify.com/album/2zzr1eZ7w5WrFahj7DG28a) | 2:16 | 2026-09-04 |  |
 | [Now Or Never](https://open.spotify.com/track/42dBUwO0gBAgMtsjdAPMl8) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig), [Teneya](https://open.spotify.com/artist/0XKhH7joDKB3tQ5GQVo7iV) | [Now Or Never](https://open.spotify.com/album/00B55o9ApEwIw7KUxgoltM) | 3:45 | 2025-06-20 | 2026-02-14 |
 | [Obey](https://open.spotify.com/track/0cwMgUiZ3AMIbSBdWKUGmR) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Obey](https://open.spotify.com/album/6mjQBhpD1wm0s3G9oqg0TZ) | 3:39 | 2024-06-28 | 2024-10-05 |

@@ -1,13 +1,69 @@
 {
   "description": "<a href=\"spotify:artist:4Jh6PxSFH7CrZrQpDivlYf\">Amine K</a>'s favorite tracks. Updated regularly. Curated by Amine K. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 23718,
+  "num_followers": 23729,
   "original_name": "Amine K's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACD9n8WbgEVnTp64dG0PDpm2NaKR",
+  "snapshot_id": "AAAAAHEW4EGSbO1DkW7ElDcqk2mmqYXy",
   "tracks": [
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Wish I Didn't Miss You",
+        "url": "https://open.spotify.com/album/6u9ISSQasncDIhf1oFX16z"
+      },
+      "artists": [
+        {
+          "name": "Amine K",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/1fzZxh5ORfsQDP24qMRyaN"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Persona (Amine K Remix)",
+        "url": "https://open.spotify.com/album/6R0evdGZJ81vUBaQKmhoBn"
+      },
+      "artists": [
+        {
+          "name": "BATU (TR)",
+          "url": "https://open.spotify.com/artist/4bRac4iORCXK0jWtdCOdJL"
+        },
+        {
+          "name": "Orkun Bozdemir",
+          "url": "https://open.spotify.com/artist/4uez5EaJsFAhGEf5dqiuDA"
+        },
+        {
+          "name": "Amine K",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Persona - Amine K Remix",
+      "url": "https://open.spotify.com/track/6Z7AnsbC0J7I3VVV3nHFmV"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Salimba",
+        "url": "https://open.spotify.com/album/6lZA82maTSUFSFQJSDiyp6"
+      },
+      "artists": [
+        {
+          "name": "Craig Leo",
+          "url": "https://open.spotify.com/artist/2FljTFCqdfBsfVh8bW9PAW"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Cleo's Groove",
+      "url": "https://open.spotify.com/track/30iKH8NAJtkP79f5cnkm6E"
+    },
     {
       "added_at": "2026-08-30 11:13:44",
       "album": {
@@ -23,6 +79,270 @@
       "duration_ms": 130679,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2IMr5Q6EzuFnNgZAZxWU0t"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Real Badman",
+        "url": "https://open.spotify.com/album/6EurrxRTQN65rfhtGQfXgk"
+      },
+      "artists": [
+        {
+          "name": "Mitch Oliver",
+          "url": "https://open.spotify.com/artist/1ckj2vv3RFouOkfBd8PxiJ"
+        }
+      ],
+      "duration_ms": 228824,
+      "name": "Real Badman",
+      "url": "https://open.spotify.com/track/6mIJjux1hULMfWdGeqcszc"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6BzicSA9vlQLcg1MJZPO5H"
+      },
+      "artists": [
+        {
+          "name": "MAGOS",
+          "url": "https://open.spotify.com/artist/5yaXT63tlm1c2yn8aV0bOI"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/23I0hOAr7xoNsLEdsFN9e2"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Blowin' Up The Spot",
+        "url": "https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Blowin' Up The Spot",
+      "url": "https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/54TnHgQ8G9uiSf7BqS8fdt"
+      },
+      "artists": [
+        {
+          "name": "Genairo Nvilla",
+          "url": "https://open.spotify.com/artist/1jcktnRawixaqiP98O8aJm"
+        }
+      ],
+      "duration_ms": 203535,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/6QmxSFM7UPwQJS9UFSqTdU"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/1bknqTVXg4ZzNnvPqQXqQy"
+      },
+      "artists": [
+        {
+          "name": "Simes",
+          "url": "https://open.spotify.com/artist/3pMMCzXHPz987fkVhWQ5dw"
+        },
+        {
+          "name": "Fero Duman",
+          "url": "https://open.spotify.com/artist/3FgvfUNncNObO1FIGDxFxD"
+        },
+        {
+          "name": "Nic Lorenz",
+          "url": "https://open.spotify.com/artist/44whtBmEc5nscpxh6TH6zf"
+        },
+        {
+          "name": "Perfect Timing",
+          "url": "https://open.spotify.com/artist/0mU75yBkuWiUjWzW0LsM3O"
+        }
+      ],
+      "duration_ms": 215996,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5rHJq98FZ8xAk2bMEAQm1C"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "DJ Pocholo - Que Dios Salve a Las Vacas Y a To2 Nosotros",
+        "url": "https://open.spotify.com/album/78tQdjzJGrvxlFKjwISOkV"
+      },
+      "artists": [
+        {
+          "name": "Ananda Project",
+          "url": "https://open.spotify.com/artist/3oZufg446KVUEsxuCZZTC4"
+        },
+        {
+          "name": "Terrance Downs",
+          "url": "https://open.spotify.com/artist/5cBs1SeidMWx35AmiRIBeG"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Falling for You - G-Pal's New York Vocal Mix",
+      "url": "https://open.spotify.com/track/5NzFWjIoKx5cCc3wLcV7TH"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Bongo",
+        "url": "https://open.spotify.com/album/5bJTkEGlWraIMfccKCkauT"
+      },
+      "artists": [
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
+        }
+      ],
+      "duration_ms": 191295,
+      "name": "Bongo",
+      "url": "https://open.spotify.com/track/6rfe6r89SDOsONkia02eWF"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/6yo1C3EOwxiOmgzarVLKzS"
+      },
+      "artists": [
+        {
+          "name": "Made In TLV",
+          "url": "https://open.spotify.com/artist/7kJRd8zWmByU1AGpWyhBt3"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/0AD7UhlCamDxHqV9pOfdfc"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Heartbreaker (Remixes)",
+        "url": "https://open.spotify.com/album/1k23CmzqXS29ywVYua83El"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 397350,
+      "name": "Heartbreaker - Original Mix",
+      "url": "https://open.spotify.com/track/7i42uiaybgKhAzMRzJAcZe"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Domino (Ares Carter Remix)",
+        "url": "https://open.spotify.com/album/5eS4WkmGWteOd7ozXa8Xt8"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        },
+        {
+          "name": "Ares Carter",
+          "url": "https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Domino - Ares Carter Remix",
+      "url": "https://open.spotify.com/track/4Lsm44vCxTh94wv3P91Y5o"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Surge",
+        "url": "https://open.spotify.com/album/6jXRJSxG1buaav4D8vwuuH"
+      },
+      "artists": [
+        {
+          "name": "Wild Dark",
+          "url": "https://open.spotify.com/artist/4MEYUbUOLX7VIiAsAiXbxL"
+        },
+        {
+          "name": "Ariaano",
+          "url": "https://open.spotify.com/artist/41XMhy8xG3CCFMvqDqknme"
+        }
+      ],
+      "duration_ms": 317382,
+      "name": "Surge",
+      "url": "https://open.spotify.com/track/3wk3ICoh0DFoKM0CYDu8ec"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Go Up",
+        "url": "https://open.spotify.com/album/5jzl69ER7BIDr8JopNs7Z2"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        },
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        }
+      ],
+      "duration_ms": 431960,
+      "name": "Go Up - Butch Remix",
+      "url": "https://open.spotify.com/track/2SkmHcU5pmRjAjBZrrJr9f"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "HOT TRACKS VOL. 1 EP",
+        "url": "https://open.spotify.com/album/49l7J6nVH7EUKHhykz52HN"
+      },
+      "artists": [
+        {
+          "name": "Running Hot",
+          "url": "https://open.spotify.com/artist/18QvrAlrBwNeoiAkXE1ikj"
+        }
+      ],
+      "duration_ms": 406153,
+      "name": "Feel The Rhythm",
+      "url": "https://open.spotify.com/track/35C8pofSjOYXVD8MLANool"
+    },
+    {
+      "added_at": "2026-11-02 12:15:11",
+      "album": {
+        "name": "Come Get Up",
+        "url": "https://open.spotify.com/album/7C72n4E6EJBrXFpr0GYt13"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Santos",
+          "url": "https://open.spotify.com/artist/015cuNHD8iLVsprLD4ZA4H"
+        }
+      ],
+      "duration_ms": 215952,
+      "name": "Come Get Up",
+      "url": "https://open.spotify.com/track/1UWHcegtxlERNS5QrIFs2I"
     },
     {
       "added_at": "2026-08-30 11:13:44",

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAK4g5yNqDIlyFNXhNp1zFpcj+o5fAM",
+  "snapshot_id": "AAAK5HLRVbaadMtgR8SGp1rver7RE+c+",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -81879,6 +81879,38 @@
       "duration_ms": 203846,
       "name": "\u30aa\u30eb\u30b4\u30fc\u30eb\u306e\u601d\u3044\u51fa (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/56XOzEphO8uyqKSg7e2hmT"
+    },
+    {
+      "added_at": "2026-11-02 12:42:29",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/3DtbqRhzGDVrWBzkBHjuF6"
+      },
+      "artists": [
+        {
+          "name": "AIRFLO",
+          "url": "https://open.spotify.com/artist/5enWQoEEYc5HIcUmju49vL"
+        }
+      ],
+      "duration_ms": 240602,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/5gAPlerVQ3cFednbpheJdQ"
+    },
+    {
+      "added_at": "2026-11-02 15:40:44",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/37kNz5cw59TbcijwmZI8eu"
+      },
+      "artists": [
+        {
+          "name": "Frode M\u00f8ller",
+          "url": "https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo"
+        }
+      ],
+      "duration_ms": 238658,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7q3bSnB43PJgmcJzB4gnzx"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Joesef
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,661 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,604 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Separate](https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Separate](https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv) | 4:16 |
-| 2 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |
-| 3 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
-| 4 | [Mind ur Business](https://open.spotify.com/track/7G8dSzF2rrAJxEqVqE7QdP) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Rebirth is Necessary](https://open.spotify.com/album/4vNOmPNBvBqlflXnUShL99) | 5:30 |
-| 5 | [The Beautiful Is Still Alive](https://open.spotify.com/track/1z1ifIyxEkfFOxAIPQLUpD) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [The Beautiful Is Still Alive](https://open.spotify.com/album/4klz1SGohyGzazmGT25hZ8) | 3:15 |
-| 6 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
+| 1 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
+| 2 | [Mind ur Business](https://open.spotify.com/track/7G8dSzF2rrAJxEqVqE7QdP) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Rebirth is Necessary](https://open.spotify.com/album/4vNOmPNBvBqlflXnUShL99) | 5:30 |
+| 3 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |
+| 4 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
+| 5 | [Separate](https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Separate](https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv) | 4:16 |
+| 6 | [The Beautiful Is Still Alive](https://open.spotify.com/track/1z1ifIyxEkfFOxAIPQLUpD) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [The Beautiful Is Still Alive](https://open.spotify.com/album/4klz1SGohyGzazmGT25hZ8) | 3:15 |
 | 7 | [Straight up](https://open.spotify.com/track/2wpEkn9Pb9Kw6kpzsywFLu) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD), [tylerwrldwide](https://open.spotify.com/artist/5dnCOehLIFKY10S6MbtXKU) | [Straight up](https://open.spotify.com/album/4aupCAqI8biy26PFMcHx4S) | 2:00 |
 | 8 | [Trust The Melody](https://open.spotify.com/track/364f3usZXzhxqoWitTAOAo) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Luisa Wilson](https://open.spotify.com/artist/1g1RwWbMPNk9PofqhbovkQ) | [Finally](https://open.spotify.com/album/3V18o8IniBevJq4qByhi6I) | 2:30 |
 | 9 | [EXQUIS I \- ao vivo no Jardim de Verão Gulbenkian 2026](https://open.spotify.com/track/0nxlasgTYpmC9zy5C5DDo0) | [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [LIVRE \(ao vivo no Jardim de Verão Gulbenkian 2026\)](https://open.spotify.com/album/4ooqlyxsJHV0oJEz4erV3F) | 6:49 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 26 | [BODY TYPE](https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [BODY TYPE](https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J) | 2:26 |
 | 27 | [COUNTRY CLUB](https://open.spotify.com/track/0kxVzs9nqmLJoVxic6QlMs) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [COUNTRY CLUB](https://open.spotify.com/album/3qCAtKsgLM2yfSjXe0FFtd) | 3:14 |
 | 28 | [Music](https://open.spotify.com/track/2BcOZ4vOeu2qZowIHrvTYy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 3:45 |
-| 29 | [BIBLE TEXTS](https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BIBLE TEXTS](https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU) | 2:24 |
-| 30 | [Jag har förlorat](https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag har förlorat](https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq) | 2:56 |
+| 29 | [Jag har förlorat](https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag har förlorat](https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq) | 2:56 |
+| 30 | [BIBLE TEXTS](https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BIBLE TEXTS](https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU) | 2:24 |
 | 31 | [Maryanne](https://open.spotify.com/track/6wlpMBFXwUFIlbSIVSlWn6) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Maryanne](https://open.spotify.com/album/1mZhe4SepGE8fBooug6d29) | 3:48 |
 | 32 | [Despertador](https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Anne Louise](https://open.spotify.com/artist/6lTGKVOQgWwyEo24373ciw), [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH) | [Despertador](https://open.spotify.com/album/7vA9eHv6BrmIa2ctMTZh31) | 1:46 |
 | 33 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Call Me Babe](https://open.spotify.com/track/2st8BBJ0YcYi6eA5xOBv5U) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Call Me Babe](https://open.spotify.com/album/5UXzmRcanpxe6r8mVEcokz) | 2:41 |
 | 50 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 
-Snapshot ID: `AAAAAJDMbbKVcyOgezZdV5GBxSAl9mH3`
+Snapshot ID: `AAAAAGNWG2ezvN1SYrCpJUzUXoPRu5jE`

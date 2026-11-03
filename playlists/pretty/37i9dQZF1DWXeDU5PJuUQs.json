@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 279393,
+  "num_followers": 279473,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Y Tu Te Vas / P\u00eddeme",
-        "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
-      },
-      "artists": [
-        {
-          "name": "Sound De Barrio",
-          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
-        },
-        {
-          "name": "Pablito HC",
-          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
-        }
-      ],
-      "duration_ms": 350687,
-      "name": "Y Tu Te Vas / P\u00eddeme",
-      "url": "https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
         "url": "https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 362235,
       "name": "El Delirio de Perderte / Te Vas a Arrepentir / Vete",
       "url": "https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Y Tu Te Vas / P\u00eddeme",
+        "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+        }
+      ],
+      "duration_ms": 350687,
+      "name": "Y Tu Te Vas / P\u00eddeme",
+      "url": "https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Tu Sin Mi - En Vivo",
-      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
       },
@@ -1148,7 +1132,23 @@
       "added_at": "2026-09-25 03:00:47",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
     },
     {
       "added_at": "2026-09-25 03:00:47",

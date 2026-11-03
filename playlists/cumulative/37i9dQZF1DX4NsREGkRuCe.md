@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,303 songs - 2 day 15 hr 26 min
+1,304 songs - 2 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,7 @@
 | [Kala \(Feat\. PsychoYP\)](https://open.spotify.com/track/7c6WGOlZUEPv67P5jseUMx) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:33 | 2025-03-31 | 2025-04-12 |
 | [Karma](https://open.spotify.com/track/3YQafPGbk2L1McXXJ43iMv) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:34 | 2026-07-17 |  |
 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 | 2023-11-17 | 2024-04-04 |
-| [Kaya](https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4) | [Toje](https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0) | [Kaya](https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt) | 2:35 | 2026-09-25 |  |
+| [Kaya](https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4) | [Toje](https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0) | [Kaya](https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt) | 2:35 | 2026-09-25 | 2026-11-03 |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2026-05-19 |
 | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh) | 2:21 | 2024-06-28 | 2024-07-12 |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-22 | 2022-09-02 |
@@ -1109,6 +1109,7 @@
 | [SORRY IM NOT SORRY](https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SORRY IM NOT SORRY](https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2) | 2:11 | 2025-12-19 | 2026-02-13 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2022-07-14 | 2023-11-17 |
 | [soso](https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [soso](https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT) | 3:22 | 2023-05-19 | 2023-06-17 |
+| [Sound of Freedom](https://open.spotify.com/track/03SVC1mmVkDlUHr82tvygI) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Sound of Freedom](https://open.spotify.com/album/22W4OvvrJEhCpa8yYkVrwZ) | 2:28 | 2026-10-23 |  |
 | [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 | 2022-07-13 | 2023-04-29 |
 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-07-13 | 2022-12-18 |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-03-24 | 2024-09-28 |

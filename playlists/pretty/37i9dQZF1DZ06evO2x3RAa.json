@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACTkg/WiZ9byAoszCEP8T4z",
+  "snapshot_id": "auUvgAAAAAAB208N6r/zT8Fo57TcqmS9",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 500306,
-      "name": "Doctor Jesus / Draw Me Nearer",
-      "url": "https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly African Eagle: The Best Of African Reggae",
         "url": "https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 428866,
       "name": "Fire In Soweto",
       "url": "https://open.spotify.com/track/2FzRgmksG8ZTUkYFCQ76TE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 500306,
+      "name": "Doctor Jesus / Draw Me Nearer",
+      "url": "https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 293120,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0VW39KNnrbVnp4CnJExu5S"
+      "duration_ms": 184586,
+      "name": "Save Our Souls",
+      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Save Our Souls",
-      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
+      "duration_ms": 293120,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0VW39KNnrbVnp4CnJExu5S"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Wars",
-        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 418093,
-      "name": "War of Nations",
-      "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire In Soweto",
         "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
       },
@@ -491,22 +475,6 @@
       "duration_ms": 479120,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Oba Erediauwa",
-      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
     },
     {
       "added_at": null,
@@ -527,6 +495,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Oba Erediauwa",
+      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 418093,
+      "name": "War of Nations",
+      "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 417493,
+      "name": "Mohammed",
+      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3rd World",
         "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Wars",
-        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Holy Mass",
-      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
         "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 448026,
       "name": "Dance Of The Elephants",
       "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Holy Mass",
+      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 417493,
-      "name": "Mohammed",
-      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mother & Child",
         "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
       },
@@ -651,6 +651,54 @@
       "duration_ms": 913786,
       "name": "Chant Of The Slaves Let My People Go",
       "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel Of Ozziddi",
+        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 441920,
+      "name": "O'Nambia",
+      "url": "https://open.spotify.com/track/49QRYBgtP3Daz4y9gx2i8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 478786,
+      "name": "Olu Ebube (Ibo Language)",
+      "url": "https://open.spotify.com/track/13rgDlBHtMTI3dBPvrb0C9"
     },
     {
       "added_at": null,
@@ -687,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother & Child",
-        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
       "artists": [
         {
@@ -696,41 +744,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 478786,
-      "name": "Olu Ebube (Ibo Language)",
-      "url": "https://open.spotify.com/track/13rgDlBHtMTI3dBPvrb0C9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel Of Ozziddi",
-        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 441920,
-      "name": "O'Nambia",
-      "url": "https://open.spotify.com/track/49QRYBgtP3Daz4y9gx2i8Z"
+      "duration_ms": 465506,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2MNnFBSrtVgPLMsOi2IGaF"
     },
     {
       "added_at": null,

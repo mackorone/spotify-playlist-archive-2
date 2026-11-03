@@ -436131,6 +436131,24 @@
     },
     {
       "album": {
+        "name": "TOUS MES DIAMANTS",
+        "url": "https://open.spotify.com/album/16j7nuhpGWlIKoObbSKUFC"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "TOUS MES DIAMANTS",
+      "url": "https://open.spotify.com/track/0loQ4ep4QLJzir6UesUgdW"
+    },
+    {
+      "album": {
         "name": "tout",
         "url": "https://open.spotify.com/album/1JSWwJZBJSJLL67kqY8jXG"
       },

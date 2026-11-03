@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 51042,
+  "num_followers": 51048,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAAAsuK0h985U9PE2BW9+KEiA",
+  "snapshot_id": "auUvgAAAAAADdFqWteU9jeJ0d2A/mheU",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 242693,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
+      "duration_ms": 246560,
+      "name": "For Me This Is Heaven",
+      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 246560,
-      "name": "For Me This Is Heaven",
-      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
+      "duration_ms": 242693,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
     },
     {
       "added_at": null,

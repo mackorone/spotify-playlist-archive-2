@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 345 songs - 21 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,602 likes - 345 songs - 21 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,8 +295,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 285 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
 | 286 | [Dim The Lights](https://open.spotify.com/track/7EvMgSKZFwMKyu7IhvBlC8) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP) | [Echoes](https://open.spotify.com/album/7N2cWgNd4fFlaMKmiK61N5) | 3:26 |
 | 287 | [EKG](https://open.spotify.com/track/55S2afBJphP7SDXpvy3MJb) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:32 |
-| 288 | [Blame \- Remix](https://open.spotify.com/track/4YpFggSyngPlmanTE8N1wx) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/2dtcOB8BUBr0QPjTBvn2VF) | 4:23 |
-| 289 | [The Day That You Moved On](https://open.spotify.com/track/1CYMElUHejbDrAkPx6g7ZR) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [TQX](https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Global Intimacy](https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM) | 3:21 |
+| 288 | [The Day That You Moved On](https://open.spotify.com/track/1CYMElUHejbDrAkPx6g7ZR) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [TQX](https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Global Intimacy](https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM) | 3:21 |
+| 289 | [Blame \- Remix](https://open.spotify.com/track/4YpFggSyngPlmanTE8N1wx) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/2dtcOB8BUBr0QPjTBvn2VF) | 4:23 |
 | 290 | [So Bored](https://open.spotify.com/track/14qXiDDx2O55oH06iH9j3W) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 3:09 |
 | 291 | [Arrested](https://open.spotify.com/track/4QyLWuSvxBPuB9xCh6UzmV) | [Love Thy Brother](https://open.spotify.com/artist/5dCJGRjhOrGxfKKGJCpsCg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Arrested](https://open.spotify.com/album/446Cf1gow9Pw3OtrdpTVFJ) | 3:57 |
 | 292 | [Sea\-Shells](https://open.spotify.com/track/0ywbPpGKxPsv4F8JdkIEMD) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/6uVUKJgirfLpW20hCk9cwb) | 4:51 |
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 295 | [Blinded By Love](https://open.spotify.com/track/44UyKnqSL7aNRxOCBWduzW) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:41 |
 | 296 | [Biting Tongue](https://open.spotify.com/track/5rU6aPN2OfTopFSpTog5Sv) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Turn It Around](https://open.spotify.com/album/3ycQqRwQMmGRxftasUhY5w) | 1:07 |
 | 297 | [Hologram \(Smoke and Mirrors\)](https://open.spotify.com/track/6sycwOBtYqgQ7ZFzImjsc2) | [Raffey Cassidy](https://open.spotify.com/artist/0BHyFQDnozqjy1EoKpoiRT) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:38 |
-| 298 | [Firecracker](https://open.spotify.com/track/1iUNZuYz6hYoGgDWN8fAjm) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human \(Deluxe\)](https://open.spotify.com/album/4YCGJ4vLqqnKGYjVhv6HB4) | 3:32 |
-| 299 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 298 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 299 | [Firecracker](https://open.spotify.com/track/1iUNZuYz6hYoGgDWN8fAjm) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human \(Deluxe\)](https://open.spotify.com/album/4YCGJ4vLqqnKGYjVhv6HB4) | 3:32 |
 | 300 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
 | 301 | [Round Your Little Finger](https://open.spotify.com/track/7q3SFkjxhRKhEmUDuJJEcw) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:38 |
 | 302 | [Go Get It](https://open.spotify.com/track/55MUolR1RPiH6zvfUxpz1c) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Balloween](https://open.spotify.com/album/6xHseLn2Rz353MyoB3A5zY) | 4:07 |
@@ -354,4 +354,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 344 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 345 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcgiggAAAABwIb9oTEtvb7UJOQT3X5uU`
+Snapshot ID: `AcgofAAAAACSR2AioynT5eaIETD/IHEC`

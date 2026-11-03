@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 620,
+  "num_followers": 623,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACXGdjlsIYirP59JkJ5cSzNI8O69wz",
+  "snapshot_id": "AAACYEE0WBJyRhENzvjQ85otKwyx+3a4",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1103,6 +1103,70 @@
       "duration_ms": 254299,
       "name": "Is It Really True",
       "url": "https://open.spotify.com/track/3Rn3NxHKAaulAZm8kbXMAW"
+    },
+    {
+      "added_at": "2026-11-02 20:11:49",
+      "album": {
+        "name": "Non Mi Troverai",
+        "url": "https://open.spotify.com/album/5i9qmAEmZna27PgyYhAB80"
+      },
+      "artists": [
+        {
+          "name": "Rockify",
+          "url": "https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33"
+        }
+      ],
+      "duration_ms": 223058,
+      "name": "Non Mi Troverai",
+      "url": "https://open.spotify.com/track/2xvIZraE0QZRMKghPhzbIC"
+    },
+    {
+      "added_at": "2026-11-02 20:17:53",
+      "album": {
+        "name": "Bummer",
+        "url": "https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI"
+      },
+      "artists": [
+        {
+          "name": "the dt's",
+          "url": "https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t"
+        }
+      ],
+      "duration_ms": 269639,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj"
+    },
+    {
+      "added_at": "2026-11-02 20:25:34",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll"
+      },
+      "artists": [
+        {
+          "name": "On-Off",
+          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Drums Beat Riff",
+      "url": "https://open.spotify.com/track/3g9s1J0iK0v3dJaCbg3M1G"
+    },
+    {
+      "added_at": "2026-11-02 20:28:17",
+      "album": {
+        "name": "Clementine",
+        "url": "https://open.spotify.com/album/2TFnTOk9Aqk3QXz5XukWgt"
+      },
+      "artists": [
+        {
+          "name": "Every Living Beast",
+          "url": "https://open.spotify.com/artist/2J3ATpiJf8oNmJLnVBmj1Z"
+        }
+      ],
+      "duration_ms": 175798,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/2JzVE0Wyy7pvhjIq1StV4l"
     }
   ],
   "unique_name": "Local Rock Bands",

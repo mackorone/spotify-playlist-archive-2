@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63470,
+  "num_followers": 63467,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
+        "name": "Mellow Addiction (Short ver.)",
+        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
+      },
+      "artists": [
+        {
+          "name": "MELLOW DEAR US",
+          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
+        }
+      ],
+      "duration_ms": 134100,
+      "name": "Mellow Addiction - Short ver.",
+      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
         "name": "\u6d41\u661f\u968a\u300cWILDLAND SURVIVOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/6UIrDDImQK1LXEhAvIkD8s"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 211956,
       "name": "WILDLAND SURVIVOR",
       "url": "https://open.spotify.com/track/2cGM68GNqjGdUQDGlzuYuD"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
-        "name": "Mellow Addiction (Short ver.)",
-        "url": "https://open.spotify.com/album/5KAtG79YspWcsMaWn7j3wY"
-      },
-      "artists": [
-        {
-          "name": "MELLOW DEAR US",
-          "url": "https://open.spotify.com/artist/2oELvCzOFyhjzjq1qspx2h"
-        }
-      ],
-      "duration_ms": 134100,
-      "name": "Mellow Addiction - Short ver.",
-      "url": "https://open.spotify.com/track/3z7jW68dK4nQWY595nOA98"
     },
     {
       "added_at": "2026-10-09 16:26:26",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-10-09 16:26:26",
       "album": {
-        "name": "\u4f0f\u898b \u5f13\u5f26\u300cESCAPE\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/1IK366qtRlSNECsDHqy94o"
-      },
-      "artists": [
-        {
-          "name": "\u4f0f\u898b \u5f13\u5f26(CV.\u6a4b\u672c \u6643\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/3wKxWRqBa8UGorXkrn0CZP"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 210979,
-      "name": "ESCAPE",
-      "url": "https://open.spotify.com/track/7xEXC32aRjWrLLTGfwto2N"
-    },
-    {
-      "added_at": "2026-10-09 16:26:26",
-      "album": {
         "name": "Dear World (Short ver.)",
         "url": "https://open.spotify.com/album/5Iibsmm600yJmx7VBUHTYV"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 200000,
       "name": "\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661",
       "url": "https://open.spotify.com/track/60mvU2t9ThXv5bSlVugniv"
+    },
+    {
+      "added_at": "2026-10-09 16:26:26",
+      "album": {
+        "name": "\u4f0f\u898b \u5f13\u5f26\u300cESCAPE\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/1IK366qtRlSNECsDHqy94o"
+      },
+      "artists": [
+        {
+          "name": "\u4f0f\u898b \u5f13\u5f26(CV.\u6a4b\u672c \u6643\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/3wKxWRqBa8UGorXkrn0CZP"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 210979,
+      "name": "ESCAPE",
+      "url": "https://open.spotify.com/track/7xEXC32aRjWrLLTGfwto2N"
     },
     {
       "added_at": "2026-10-09 16:26:26",

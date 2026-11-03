@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/1Tj52WW7LjT08fm5d9D9Hp"
+      },
+      "artists": [
+        {
+          "name": "Pacific Line",
+          "url": "https://open.spotify.com/artist/5fBvfs7VO5ow6Zk8x8Igwl"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/0UkKJc0FoD6Q93HF2N3sM2"
+    },
+    {
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/2kjumiS4VltG0VtIednDQd"
       },
@@ -1856,6 +1874,24 @@
       "duration_ms": 150443,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/6EagnEg9fcmVnVTnVc2pRN"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/4ejtlzqSAS9abXUR4vn9M4"
+      },
+      "artists": [
+        {
+          "name": "Neil Paterson Prentice",
+          "url": "https://open.spotify.com/artist/6kfG7dMJtmLUjFaJV4Pemp"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/3w9PHprcbMsIiHd5k4uCIy"
     },
     {
       "album": {
@@ -3842,7 +3878,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 147058,
       "name": "Body Lover",
       "url": "https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za"
@@ -5366,6 +5402,28 @@
       "duration_ms": 207288,
       "name": "Catharina",
       "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
+    },
+    {
+      "album": {
+        "name": "Celestial Bodies",
+        "url": "https://open.spotify.com/album/4rJEHuViByD70eYEVLZCDW"
+      },
+      "artists": [
+        {
+          "name": "Delasi",
+          "url": "https://open.spotify.com/artist/6qeWbpcQrSt9tQRWACjfQ0"
+        },
+        {
+          "name": "TAMTAM",
+          "url": "https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187412,
+      "name": "Celestial Bodies",
+      "url": "https://open.spotify.com/track/2nNlDJLIfepHEi8enRfOrd"
     },
     {
       "album": {
@@ -7861,6 +7919,24 @@
     },
     {
       "album": {
+        "name": "dirty little secret",
+        "url": "https://open.spotify.com/album/5Oyu9NoEjllRfiox323Alh"
+      },
+      "artists": [
+        {
+          "name": "Joe Stephens",
+          "url": "https://open.spotify.com/artist/4HppiA7MphUL2ZxgrJ6cSf"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238900,
+      "name": "dirty little secret",
+      "url": "https://open.spotify.com/track/3yulYGK5E5ApYOLlp8WI7f"
+    },
+    {
+      "album": {
         "name": "DISCO RIDE",
         "url": "https://open.spotify.com/album/0ROqtrwCPfLxnMBOTe4iVK"
       },
@@ -9256,7 +9332,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 162307,
       "name": "DTMF",
       "url": "https://open.spotify.com/track/2RAioYPteV7V0XmpXkp7hI"
@@ -16119,6 +16195,28 @@
     },
     {
       "album": {
+        "name": "I Got a Problem (I Wonder...) [The Versions]",
+        "url": "https://open.spotify.com/album/3wJf2WImgvDF6HkOYwsWdW"
+      },
+      "artists": [
+        {
+          "name": "G.H. Hat",
+          "url": "https://open.spotify.com/artist/5rxxIbW3FkBiFlKxCJbt6w"
+        },
+        {
+          "name": "Mickey Shiloh",
+          "url": "https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "I Got a Problem (I Wonder...) - Stan Medley Remix",
+      "url": "https://open.spotify.com/track/6yWlnj5yLWrx5rP3HaX8Ex"
+    },
+    {
+      "album": {
         "name": "I Gotta Know",
         "url": "https://open.spotify.com/album/65oJScjO9dW2qiAn4atJD0"
       },
@@ -18610,6 +18708,24 @@
       "duration_ms": 127391,
       "name": "Kids",
       "url": "https://open.spotify.com/track/2sMyHm7oNeXpPi7JnAxPEO"
+    },
+    {
+      "album": {
+        "name": "King David (v2)",
+        "url": "https://open.spotify.com/album/2ig12M4dOR8b8Fs5qogUMs"
+      },
+      "artists": [
+        {
+          "name": "David\u2019s Line",
+          "url": "https://open.spotify.com/artist/50qGLQ7BAiJ8ZqzRQudgin"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "King David - v2",
+      "url": "https://open.spotify.com/track/0OLZpV8j5P8YhkW8f2kcBi"
     },
     {
       "album": {
@@ -21954,7 +22070,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 118223,
       "name": "Maze",
       "url": "https://open.spotify.com/track/7hKuJCdbt5MDyhNXUv7V85"
@@ -22129,6 +22245,24 @@
     },
     {
       "album": {
+        "name": "Midnight Aura",
+        "url": "https://open.spotify.com/album/3zDo4szf8tfapmL601x28b"
+      },
+      "artists": [
+        {
+          "name": "D. Watkins",
+          "url": "https://open.spotify.com/artist/0HIbBDWNEHKXgpFIcOzSe7"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163755,
+      "name": "Midnight Aura",
+      "url": "https://open.spotify.com/track/1xdlMd2wu2PRBdGeEEtIPJ"
+    },
+    {
+      "album": {
         "name": "Midnight Mango",
         "url": "https://open.spotify.com/album/2tniATJNq167IPQaPo8khW"
       },
@@ -22268,7 +22402,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 171180,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4soydWAMiKIqI6z8qORUcK"
@@ -23698,7 +23832,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 147916,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/0Gdxx7POlFKSJ9doWvxsxJ"
@@ -24188,7 +24322,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 190394,
       "name": "No More",
       "url": "https://open.spotify.com/track/72VrDqGU2EKWjfQd6nrr6U"
@@ -26869,6 +27003,28 @@
     },
     {
       "album": {
+        "name": "Po\u00e8mes et Chansons",
+        "url": "https://open.spotify.com/album/04Um91mnapTiXzu76xLv9d"
+      },
+      "artists": [
+        {
+          "name": "Abo",
+          "url": "https://open.spotify.com/artist/64tOf4kcfJSgnRhqgKVeZq"
+        },
+        {
+          "name": "Dimana",
+          "url": "https://open.spotify.com/artist/0nlsjIMd5AMvKJzkRPLxsc"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "Po\u00e8mes et Chansons",
+      "url": "https://open.spotify.com/track/3XVPacvl2MXov0PAnFoiyX"
+    },
+    {
+      "album": {
         "name": "Prayer in C",
         "url": "https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa"
       },
@@ -27819,6 +27975,24 @@
     },
     {
       "album": {
+        "name": "Remember Why",
+        "url": "https://open.spotify.com/album/0h9294PjUvzunEYSFXWp1Z"
+      },
+      "artists": [
+        {
+          "name": "Pacific Line",
+          "url": "https://open.spotify.com/artist/5fBvfs7VO5ow6Zk8x8Igwl"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Remember Why",
+      "url": "https://open.spotify.com/track/3ZzzKJgFYgMUA6IrDFQCAS"
+    },
+    {
+      "album": {
         "name": "Reminds Me of You",
         "url": "https://open.spotify.com/album/4K8wd8Lnado31UoVbojVEq"
       },
@@ -28310,6 +28484,24 @@
       "duration_ms": 169426,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/0yRzSgOOBdTmypqToW6sgN"
+    },
+    {
+      "album": {
+        "name": "Sumatra",
+        "url": "https://open.spotify.com/album/0y8FzLgavu2dLRgTL8L0IO"
+      },
+      "artists": [
+        {
+          "name": "Paula Boggs Band",
+          "url": "https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247934,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/0KUo0mVmpxmQdzGLdxSsdc"
     },
     {
       "album": {
@@ -29367,6 +29559,46 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/2HiXgOKCcb9mixR1EsMSXI"
+      },
+      "artists": [
+        {
+          "name": "Trent Park",
+          "url": "https://open.spotify.com/artist/47IOCxg252tiCuSK6mVB3n"
+        },
+        {
+          "name": "Alex Alexander",
+          "url": "https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/3iDiQG7wXsa8OGuYOG9MV2"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/01plUCh2Wi3tr55piMHncy"
+      },
+      "artists": [
+        {
+          "name": "Constance Hauman",
+          "url": "https://open.spotify.com/artist/7nC3KBioN9j5rW7NnO8Tjc"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292444,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/7mdhUuALaiBnlzWeKQQdBl"
+    },
+    {
+      "album": {
         "name": "Serotonin (speaks to me)",
         "url": "https://open.spotify.com/album/79pClvzbv6r6dHJ3VBHM5X"
       },
@@ -29474,6 +29706,24 @@
       "duration_ms": 210853,
       "name": "Seve - Radio Edit",
       "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
+    },
+    {
+      "album": {
+        "name": "Seven Sons",
+        "url": "https://open.spotify.com/album/5GfeFeFkcn3Essb9RCGi2z"
+      },
+      "artists": [
+        {
+          "name": "David\u2019s Line",
+          "url": "https://open.spotify.com/artist/50qGLQ7BAiJ8ZqzRQudgin"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "Seven Sons",
+      "url": "https://open.spotify.com/track/3f4gXNEr1mQYyWZyYzdtJN"
     },
     {
       "album": {
@@ -31306,7 +31556,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 133500,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI"
@@ -35643,6 +35893,24 @@
     },
     {
       "album": {
+        "name": "Until the Light Comes",
+        "url": "https://open.spotify.com/album/0WKykrlXqF0qQ0UGxRM04f"
+      },
+      "artists": [
+        {
+          "name": "Horizon Beyond",
+          "url": "https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Until the Light Comes",
+      "url": "https://open.spotify.com/track/6ItHinfqfKjld47M0hpCTX"
+    },
+    {
+      "album": {
         "name": "Until The Stars Align",
         "url": "https://open.spotify.com/album/0z0vBiHkLy4dBWa0I1MF4c"
       },
@@ -35658,6 +35926,24 @@
       "duration_ms": 184000,
       "name": "Until The Stars Align",
       "url": "https://open.spotify.com/track/6a8Dcq9EXGwE2ypIE5IC5C"
+    },
+    {
+      "album": {
+        "name": "Unwind",
+        "url": "https://open.spotify.com/album/3GstOiWjOo80G08vLmjpvI"
+      },
+      "artists": [
+        {
+          "name": "chillceed",
+          "url": "https://open.spotify.com/artist/4Ed5TQHWyLHMY7aSaOeRF4"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236858,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/53jXjU2j3pt31ao6Oolane"
     },
     {
       "album": {

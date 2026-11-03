@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122283,
+  "num_followers": 122271,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV4EvBil/4yU4jAdwgKg0PnqA2o4Hk",
+  "snapshot_id": "AAAV4XzPe0Q6/NAk77O46PACtEYP2Q3s",
   "tracks": [
+    {
+      "added_at": "2026-11-02 15:56:31",
+      "album": {
+        "name": "Hands All Over Me",
+        "url": "https://open.spotify.com/album/6bnOEbTr4vNEAzKFMiLECC"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 223058,
+      "name": "Hands All Over Me",
+      "url": "https://open.spotify.com/track/2ILdXZofeN6MBqZzovHkC1"
+    },
     {
       "added_at": "2026-10-30 15:42:19",
       "album": {

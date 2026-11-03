@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van HIGH SOCIETY & OYSTER \(Spotify RADAR\-artiest\); 3robi, Mensa & Henkie T; Idaly, Adje & CHO en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,077 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,024 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 4 | [SRRY](https://open.spotify.com/track/2lGnl3YSGwG5glYC4l7Jxv) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [SRRY](https://open.spotify.com/album/6F7axLlLeeN3bHaL2btEKP) | 3:14 |
 | 5 | [Leuven Centraal](https://open.spotify.com/track/1wKT1jTCw9J2yja5SvPT8I) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Leuven Centraal](https://open.spotify.com/album/6VQfUztdwVJhQxP9BMCL8U) | 3:38 |
 | 6 | [DOE HET](https://open.spotify.com/track/6QVOdWVwR9pBio5aTCv7BK) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [DOE HET](https://open.spotify.com/album/2ET6qVidGj5s8wiao4JkHj) | 2:37 |
-| 7 | [Soldaten](https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DFYNE](https://open.spotify.com/artist/6dpOGnRCKWUjqUhOTEPxm2) | [Soldaten](https://open.spotify.com/album/7zXiNWkMq10fOHzj7KgKEc) | 2:21 |
+| 7 | [Soldaten](https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DFYNE](https://open.spotify.com/artist/6dpOGnRCKWUjqUhOTEPxm2), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Soldaten](https://open.spotify.com/album/7zXiNWkMq10fOHzj7KgKEc) | 2:21 |
 | 8 | [Purosangue](https://open.spotify.com/track/4EeJ05gxLu2p7EoRtyGqBY) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Bigbelly](https://open.spotify.com/artist/4JTFTkrF0NIFkFhYambgZR) | [Purosangue](https://open.spotify.com/album/2kR9bYxRk5TfaBeBTrnNBx) | 2:37 |
 | 9 | [REAL W£T](https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk), [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [REAL W£T](https://open.spotify.com/album/35dD6e2QnVR4JEZXvdZeQs) | 2:19 |
 | 10 | [TF3](https://open.spotify.com/track/2G2gYyRTNzAW5X7BBlx5Vf) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Phyno, Omah Lay, Davido, Sarkodoie, M.anifest, Sewa and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,166 likes - 62 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,261 likes - 62 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 29 | [SFD \(SWEET FANTA DIALLO\)](https://open.spotify.com/track/3Bnb1Pbm9WqqOGijK6AYGL) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [ANGEL](https://open.spotify.com/album/0yAG2qDapa3OFfiYJFFyn8) | 2:27 |
 | 30 | [Canary](https://open.spotify.com/track/2RqoTukas6v1tFb35pG2u6) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Nu Zamrock](https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz) | 2:51 |
 | 31 | [FREEDOM](https://open.spotify.com/track/0eZSUz1xFLKJ0lzru0bkpB) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [FREEDOM](https://open.spotify.com/album/324NqJ7OSzDJ9JIV3lTYI3) | 3:11 |
-| 32 | [Flowers](https://open.spotify.com/track/4rPgOycJZ7o5V0Af4UDubr) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kobby Worldwide](https://open.spotify.com/artist/2ipmIVsOKJMwWHvsEaUYhu), [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Flowers](https://open.spotify.com/album/50kMdRqVhNrnzBizLYcYC7) | 2:12 |
+| 32 | [Flowers](https://open.spotify.com/track/4rPgOycJZ7o5V0Af4UDubr) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kobby Worldwide](https://open.spotify.com/artist/2ipmIVsOKJMwWHvsEaUYhu), [tg.blk](https://open.spotify.com/artist/79pFb55wXHi6nHlKhoqJIv) | [Flowers](https://open.spotify.com/album/50kMdRqVhNrnzBizLYcYC7) | 2:12 |
 | 33 | [Nobody Wins, Nobody Loses](https://open.spotify.com/track/0lnKFCwc4gDI80UgPpHXZ8) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Mike Kayihura](https://open.spotify.com/artist/1e7dlKRUPBONWcKciTGE4I) | [Flight 420](https://open.spotify.com/album/252QK56qOf7nmIyZcICKa2) | 4:34 |
 | 34 | [Mvua Ya Baraka](https://open.spotify.com/track/311cLh7CmURKW2qBXiCgpC) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Mvua Ya Baraka](https://open.spotify.com/album/3B1RMoDlUgY0TnNtdBIgvB) | 3:03 |
 | 35 | [Mafia Boss](https://open.spotify.com/track/028ZPRlTRhLHBbU3mBKgWw) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [ABUNDANCE](https://open.spotify.com/album/2sy5wiytPIULbRyXxiXYda) | 3:40 |

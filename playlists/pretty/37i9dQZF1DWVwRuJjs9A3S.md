@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Elise Elvira
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,586 likes - 200 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,585 likes - 200 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [If Nobody Knows, Does It Count?](https://open.spotify.com/track/7l1ijteM7MuWzv9Be4PRpO) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [If Nobody Knows, Does It Count?](https://open.spotify.com/album/4X9Xm9PG1p4VWtUSIOF33C) | 3:06 |
-| 2 | [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 |
+| 2 | [Bakom oss bara dimma](https://open.spotify.com/track/2d4EgG32xHf0cPvBS0J6Ow) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:13 |
 | 3 | [Goblin's Head](https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Goblin's Head](https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq) | 2:53 |
 | 4 | [Creek](https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Creek](https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO) | 1:53 |
 | 5 | [Bury The Dust](https://open.spotify.com/track/2kbm5u3IUnhIxVWBqHT54r) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Bury The Dust](https://open.spotify.com/album/3WOhSyMmAD8Q0bevvMtr8p) | 3:25 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 199 | [Wind that makes the subway sound](https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wind that makes the subway sound](https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a) | 2:52 |
 | 200 | [Lubnan \(لبنان\)](https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lubnan \(لبنان\)](https://open.spotify.com/album/4z0HkMA3ktMlt4cGVOrMFU) | 5:16 |
 
-Snapshot ID: `AAAAAJSUegHO8/0Bd/0IkMvNJcMdcBUH`
+Snapshot ID: `AAAAAIZ0ulTKghBSBakW39guCSpO0Z7C`

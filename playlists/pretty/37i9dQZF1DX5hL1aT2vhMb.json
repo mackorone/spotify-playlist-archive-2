@@ -1,13 +1,33 @@
 {
-  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Jeneba Kanneh Mason",
-  "num_followers": 101686,
+  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Suena",
+  "num_followers": 101699,
   "original_name": "Women of Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM23T1rkjyG/MVrh3Kh6SZFVt8ZO",
+  "snapshot_id": "AAAAACJOcG5GUIikoKql0Uc4luL2yqqK",
   "tracks": [
+    {
+      "added_at": "2026-11-02 14:43:30",
+      "album": {
+        "name": "INSTINCTA",
+        "url": "https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "duration_ms": 143872,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc"
+    },
     {
       "added_at": "2026-10-16 04:00:08",
       "album": {

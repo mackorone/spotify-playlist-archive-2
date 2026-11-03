@@ -4,7 +4,7 @@
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Rend Collective
 
-292 songs - 16 hr 53 min
+294 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All I Need](https://open.spotify.com/track/6coXoKfiFIHGd8aAQvwP1R) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [All I Need](https://open.spotify.com/album/5eYdEf5o3xTed3ztXX948F) | 4:00 | 2026-06-12 |  |
 | [All My Love](https://open.spotify.com/track/16V6PZgE0c35dOdiWXvWuA) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [All My Love](https://open.spotify.com/album/1RZZDgzZS5YuNydRqvV8jg) | 2:41 | 2026-01-10 | 2026-02-15 |
 | [All That I Am](https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Hannah Boesen](https://open.spotify.com/artist/3jcuHlyRJaIgJEaAE4MPv9) | [All That I Am](https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN) | 4:01 | 2025-11-07 |  |
-| [All Things New](https://open.spotify.com/track/2BRlXNm7lgzK0eBrMfinnm) | [Arbour Season](https://open.spotify.com/artist/4XudVJyOISrXMkNvNFlysV) | [All Things New](https://open.spotify.com/album/1q2AEE6U8SJKsQD0r9HHSX) | 3:14 | 2026-02-14 |  |
+| [All Things New](https://open.spotify.com/track/2BRlXNm7lgzK0eBrMfinnm) | [Arbour Season](https://open.spotify.com/artist/4XudVJyOISrXMkNvNFlysV) | [All Things New](https://open.spotify.com/album/1q2AEE6U8SJKsQD0r9HHSX) | 3:14 | 2026-02-14 | 2026-11-03 |
+| [All Things New](https://open.spotify.com/track/5dUpwtHCcBrl9VyEZqo2pa) | [Arbour Season](https://open.spotify.com/artist/4XudVJyOISrXMkNvNFlysV) | [All Things New](https://open.spotify.com/album/39NlzB697WxpkOwvVvAMXf) | 3:14 | 2026-09-19 |  |
 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 | 2025-06-13 | 2025-08-09 |
 | [Alone With You](https://open.spotify.com/track/7isyx7w05tPTItfoheZ7TA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [The Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/2IDUIQkIrI8EREUvVNPxm2) | 2:34 | 2025-06-13 | 2025-08-09 |
 | [Always With Us](https://open.spotify.com/track/719UrWI1jmnW0EuntljNQi) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [Headwaters](https://open.spotify.com/album/5Hup5M7bvvISiM27ADZH3s) | 4:27 | 2025-06-13 | 2026-05-12 |
@@ -59,7 +60,8 @@
 | [demons \(feat\. Julia Poe\)](https://open.spotify.com/track/6wZCw5rxLXIexIGqas1Wfl) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Julia Poe](https://open.spotify.com/artist/4VmkPimmTUVUnAyYullaRq) | [demons \(feat\. Julia Poe\)](https://open.spotify.com/album/0SoXLtIssGiFjcX6kIfcpp) | 3:09 | 2026-02-14 | 2026-04-11 |
 | [Den of Thieves](https://open.spotify.com/track/60wo8E1JY2t33TVmm4xf7Q) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Dylan Stiles](https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij) | [Den of Thieves](https://open.spotify.com/album/5blEPQ4nWKz7h9rG53d3Sg) | 3:05 | 2026-02-14 | 2026-08-01 |
 | [Desert Rose](https://open.spotify.com/track/4an386UgTjS2kQ8ujsyP83) | [Alex Jude](https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6) | [Leaving Egypt](https://open.spotify.com/album/0MVcRjzOEXGV1XwDjZu2ev) | 3:40 | 2026-06-12 |  |
-| [Devil In The Water](https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O) | 2:56 | 2026-07-31 |  |
+| [Devil In The Water](https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O) | 2:56 | 2026-07-31 | 2026-11-03 |
+| [Devil In The Water](https://open.spotify.com/track/7oODWKIFPrL37Xh6xp004T) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Devil In The Water](https://open.spotify.com/album/3SiDtjxcNR89elewNggLT4) | 2:56 | 2026-09-19 |  |
 | [Difference Maker](https://open.spotify.com/track/7yWunlBSRiy8Flcq6OjWw1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Difference Maker](https://open.spotify.com/album/3cEFhJEwZV810Zdb3rxFyQ) | 5:07 | 2025-11-07 | 2026-07-12 |
 | [Do It All Alone](https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Do It All Alone](https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy) | 2:52 | 2026-02-14 | 2026-04-11 |
 | [Do It All Alone](https://open.spotify.com/track/4r52cNLmKqWVMMyaHYXikF) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Do It All Alone](https://open.spotify.com/album/3uvW02kB4reiUy84wBmqpK) | 2:52 | 2026-04-10 | 2026-10-17 |

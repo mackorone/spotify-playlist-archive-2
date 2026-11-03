@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-696 songs - 1 day 18 hr 51 min
+698 songs - 1 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [FREAKS](https://open.spotify.com/track/1ZtQmNimRvDM35hqQO3QHa) | [YESLA](https://open.spotify.com/artist/7CbFOx3il5PpL5FJQVxvle) | [FREAKS](https://open.spotify.com/album/1H6e90sxK6XJWm3F8Qm0vR) | 2:27 | 2026-05-01 | 2026-06-13 |
 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 | 2026-06-02 | 2026-08-08 |
 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 | 2026-06-18 | 2026-08-08 |
+| [FRESCO & SOLEADO](https://open.spotify.com/track/5o5zcdtReTum1l1qjWeS1S) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [FRESCO & SOLEADO](https://open.spotify.com/album/0Mx2NkaeSpuF9HCsocNagz) | 3:14 | 2026-11-02 |  |
 | [Full Sway](https://open.spotify.com/track/3Rki4S4PaAnrsceZ58IIE0) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [Full Sway](https://open.spotify.com/album/6sSBHo3QJj5BRTlGNFSXgX) | 3:39 | 2026-02-20 | 2026-05-26 |
 | [Furniture](https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Furniture](https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq) | 4:07 | 2025-12-30 | 2026-02-04 |
 | [Garden](https://open.spotify.com/track/2zqkRxC7Xw5yDkNuACrsDp) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4E9KtAlL6nobcjWgvidsY3) | 3:36 | 2026-07-17 | 2026-08-25 |
@@ -429,6 +430,7 @@
 | [Out of Deep Waters](https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Differentiation](https://open.spotify.com/album/4esD0RdSmXX2NXvVeTYbc7) | 3:32 | 2026-03-21 | 2026-04-20 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-17 | 2025-12-12 |
 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-09-02 | 2026-10-11 |
+| [Overrated](https://open.spotify.com/track/5OUfkGbStbslpI2tHo9ljb) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [Overrated](https://open.spotify.com/album/1cOWmLcLfqKCdHEcUDNlhe) | 2:24 | 2026-11-02 |  |
 | [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 | 2026-03-11 | 2026-04-20 |
 | [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 | 2026-05-19 | 2026-08-08 |
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2026-01-22 | 2026-02-23 |

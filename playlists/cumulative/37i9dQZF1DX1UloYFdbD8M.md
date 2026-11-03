@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Eechuu
 
-570 songs - 1 day 11 hr 8 min
+572 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Kaarum Kolum](https://open.spotify.com/track/2dj6ZiBqbsp0OhIm7qiqRr) | [Rianna Danish](https://open.spotify.com/artist/2ttHxFr3j0ANf2rKduJSnt) | [Kaarum Kolum](https://open.spotify.com/album/4eaeJ2zeADiJHSvwXxkJoB) | 3:24 | 2024-01-15 | 2024-02-19 |
 | [Kaath Ninnoo](https://open.spotify.com/track/2kZJbVRtcETqZJl0CXuiL5) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Oru Cliche Prem Kahani](https://open.spotify.com/album/65Nfj2Fk0VC3UCbSI9yFWM) | 3:34 | 2025-01-29 | 2025-06-10 |
 | [Kaattu](https://open.spotify.com/track/47tjVaXO3x96dHu12nSQX2) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kaattu](https://open.spotify.com/album/6Ibrm7cHqLtIjOs0iOK5Na) | 5:51 | 2023-11-06 | 2024-02-19 |
+| [Kadakkannin Idayil](https://open.spotify.com/track/3cIL49ktqnCoFJkeSrHx4o) | [Advaith R Rajesh](https://open.spotify.com/artist/4WzW0JQpCI9fzZoyKVM036), [Shameem Rahman](https://open.spotify.com/artist/0M8o9X2xeOhE2MiTfCqkfA) | [Kadakkannin Idayil](https://open.spotify.com/album/4QQNaIfeVYAFg1TJKAaPhP) | 3:30 | 2026-11-02 |  |
 | [Kadalinnazham](https://open.spotify.com/track/5FHK2Wx8QFTOhxRwdntH4C) | [Amritha Rajan](https://open.spotify.com/artist/3n3YQPjjW1V5ajSPFh6Uqu) | [Kadalinnazham](https://open.spotify.com/album/1KBthf47eDF07DvJn4z5uq) | 3:32 | 2024-07-01 | 2024-11-13 |
 | [KADHALI](https://open.spotify.com/track/00PU1aSEtHYVPMyHAI0kmX) | [Ayraan](https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29) | [KADHALI](https://open.spotify.com/album/3rhaJxJpfcWqAX47UBwM49) | 3:09 | 2026-08-07 |  |
 | [Kadumkett](https://open.spotify.com/track/4JbHajsV5a0VpYeoSsfEOY) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Raunaq](https://open.spotify.com/artist/6GKH8jEn8d7Go10zcnWCHq) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 2:49 | 2026-06-29 |  |
@@ -318,6 +319,7 @@
 | [MINSARAM](https://open.spotify.com/track/7AUyEBQDcSpp0NpQj3ZqDT) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [Fura](https://open.spotify.com/artist/1UU38bxciz89p83GtdogcH) | [MARAVIL](https://open.spotify.com/album/2VPdNQfCbAsGOnyyJ8PSHa) | 2:46 | 2026-10-06 |  |
 | [Mizhikal](https://open.spotify.com/track/343mJaVSEOGCPzQi2liO5c) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Sebesteena](https://open.spotify.com/artist/2vhFiDb28NHjV4m5ozmeNV) | [Mizhikal](https://open.spotify.com/album/7DGikq1T3tt1SZjoSfKRiY) | 3:14 | 2022-08-01 | 2023-07-29 |
 | [Mizhikalal](https://open.spotify.com/track/6ugUcYTehPPB89m7PAnsSA) | [Nishad jain](https://open.spotify.com/artist/6BODYGLbxpQqQqN48IF0uC), [Aswin GS](https://open.spotify.com/artist/3kOoAJ34nWFVUrOzkykvYa), [Anoop Devadas](https://open.spotify.com/artist/1Xtv3nifcSAmlnjTAAoDkR) | [Mizhikalal](https://open.spotify.com/album/3tH20PXkUh7EqCEBfhlfBe) | 4:14 | 2023-07-10 | 2023-07-28 |
+| [Mizhiyithal](https://open.spotify.com/track/2LYVgCTac1IW1gJZz9HRHs) | [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk), [Jyotsna Radhakrishnan](https://open.spotify.com/artist/4PGsgCRwejakZOHdf36Xum), [Binoj Antony](https://open.spotify.com/artist/6gV26W9IIZNI4camhrpw04), [Nitheesh Ottapalam](https://open.spotify.com/artist/00QmqFlgBAtNBejtBbulIN) | [Mizhiyithal](https://open.spotify.com/album/5mkXTYcCxFp5rl4edX4XZV) | 4:10 | 2026-11-02 |  |
 | [Mohabbat \- Love with Pride](https://open.spotify.com/track/5V5KX1hSWUxIvwR6Fa6Dwn) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l) | [Mohabbat \- Love with Pride](https://open.spotify.com/album/7yGFU0a91t5w56SPBMjLA2) | 3:46 | 2023-07-27 | 2024-02-15 |
 | [Mokshamu Galada \- Saramathi](https://open.spotify.com/track/37shR8Ft0DWYTeGH3IBN9w) | [Rithul Raphael](https://open.spotify.com/artist/6WUKxqbt9LctTDHZ9qooYx) | [Mokshamu Galada \- Saramathi](https://open.spotify.com/album/16KRQSJtGUuHWQdPmQYZZo) | 2:55 | 2025-07-31 | 2025-10-19 |
 | [Monsoon Love](https://open.spotify.com/track/1pyX4R3ZJwOhtRbo69uRgF) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [Monsoon Love](https://open.spotify.com/album/3EG6o2lGu0ekYP5u1mAqzq) | 3:27 | 2022-08-30 | 2023-07-28 |

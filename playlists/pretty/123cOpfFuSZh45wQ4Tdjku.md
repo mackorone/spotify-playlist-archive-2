@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,311 likes - 585 songs - 1 day 5 hr 0 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,313 likes - 586 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -593,5 +593,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 583 | [Incoherent \(Bee Sae Bai\)](https://open.spotify.com/track/23KUt4qlkKO3CbHGDV4vEO) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:20 |
 | 584 | [My Friends](https://open.spotify.com/track/1F6VxHY1kEkF00zZovDSj3) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:21 |
 | 585 | [Jack of Hearts](https://open.spotify.com/track/4TGYsqn0ca4DedYQPxrQ5t) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:23 |
+| 586 | [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 |
 
-Snapshot ID: `AAACIYCZBjmBtyq260sqUphP4X1zGGS9`
+Snapshot ID: `AAACIg5BULVcNMv4EmGkGtZfe+1EBt7g`

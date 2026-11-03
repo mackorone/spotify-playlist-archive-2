@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 320964,
       "name": "Born to Lead",
       "url": "https://open.spotify.com/track/2w3CGXFMOCuMJz8ayZDOor"
@@ -843,6 +843,36 @@
     },
     {
       "album": {
+        "name": "The Lost Boys (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/235gR56E3a2MzDyCap8qUW"
+      },
+      "artists": [
+        {
+          "name": "LJ Benet",
+          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        },
+        {
+          "name": "Benjamin Pajak",
+          "url": "https://open.spotify.com/artist/1ga4tn1RO77HW2oic1Novu"
+        },
+        {
+          "name": "Original Broadway Cast of The Lost Boys",
+          "url": "https://open.spotify.com/artist/3DECEsS7H9ALRxin82EZxE"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260838,
+      "name": "No More Monsters",
+      "url": "https://open.spotify.com/track/02v9P9rKo0pjOfrRoPET8i"
+    },
+    {
+      "album": {
         "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
         "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
       },
@@ -1044,10 +1074,28 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 71922,
       "name": "Overture",
       "url": "https://open.spotify.com/track/6wft1XgpEHzV08HyfMQn8T"
+    },
+    {
+      "album": {
+        "name": "Lempicka (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/17Jtzv1OPujNW4QgxdiSrd"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of Lempicka",
+          "url": "https://open.spotify.com/artist/6DZeFg4IcWilAXZ0HVnw7I"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63289,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/76epZhyd9xl4dKLKD0Peei"
     },
     {
       "album": {
@@ -1096,7 +1144,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 128067,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/6ss7duE4xPIf2B8UwmdyAY"
@@ -1136,6 +1184,28 @@
       "duration_ms": 718600,
       "name": "Prologue: Into The Woods",
       "url": "https://open.spotify.com/track/1mGnIAxWGb2DBnlqwCqOuO"
+    },
+    {
+      "album": {
+        "name": "Prologue: Jellicle Songs for Jellicle Cats",
+        "url": "https://open.spotify.com/album/2B0yz7c6gD1bcbbqkTV24e"
+      },
+      "artists": [
+        {
+          "name": "Cats: The Jellicle Ball",
+          "url": "https://open.spotify.com/artist/6pf57zyzHsduE19An9zIcO"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423731,
+      "name": "Prologue: Jellicle Songs for Jellicle Cats",
+      "url": "https://open.spotify.com/track/2maBLz5KvyuNI5YeGgFCoO"
     },
     {
       "album": {
@@ -1217,6 +1287,28 @@
     },
     {
       "album": {
+        "name": "EVITA: The Full Album",
+        "url": "https://open.spotify.com/album/4yp4ryiYyXn4UuRE60TBns"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "EVITA",
+          "url": "https://open.spotify.com/artist/028VQUXo5Gz4zOUVW9c1R9"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209257,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/0nO2tMjb0VvLcjhl2qjWv1"
+    },
+    {
+      "album": {
         "name": "Hadestown (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
       },
@@ -1240,6 +1332,28 @@
       "duration_ms": 317879,
       "name": "Road to Hell",
       "url": "https://open.spotify.com/track/5S6O5UYDS2dxVTY7JSF9xy"
+    },
+    {
+      "album": {
+        "name": "Schmigadoon! (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2tZcnFMZZux7yqvrAMoep6"
+      },
+      "artists": [
+        {
+          "name": "Schmigadoon! Original Broadway Company",
+          "url": "https://open.spotify.com/artist/53hTYUhSIXl5z7uLjCqzqF"
+        },
+        {
+          "name": "Cinco Paul",
+          "url": "https://open.spotify.com/artist/3rb3ucTNAUP92Wxr4LQPsK"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276597,
+      "name": "Schmigadoon!",
+      "url": "https://open.spotify.com/track/5Cxoqu57ZzXWCJPU3JQgVQ"
     },
     {
       "album": {
@@ -1415,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
+      },
+      "artists": [
+        {
+          "name": "Maleah Joi Moon",
+          "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70565,
+      "name": "The Elevator Prologue",
+      "url": "https://open.spotify.com/track/4kBDVRrfCUmlOYbP7siwDt"
+    },
+    {
+      "album": {
         "name": "Billy Elliot: The Original Cast Recording",
         "url": "https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt"
       },
@@ -1430,6 +1562,66 @@
       "duration_ms": 450933,
       "name": "The Stars Look Down",
       "url": "https://open.spotify.com/track/2xKR4oOXjtYFb09dVvZUAY"
+    },
+    {
+      "album": {
+        "name": "Illinoise: A New Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa"
+      },
+      "artists": [
+        {
+          "name": "My Brightest Diamond",
+          "url": "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
+        },
+        {
+          "name": "Original Cast of Illinoise: A New Musical",
+          "url": "https://open.spotify.com/artist/60YCQIxNBYpPLVhEvCy8Mr"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141575,
+      "name": "Three Stars (or, Concerning the UFO Sighting near Highland, Illinois)",
+      "url": "https://open.spotify.com/track/5gCZ8WnO78Qq8mEvnSYiNG"
+    },
+    {
+      "album": {
+        "name": "The Notebook (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
+      },
+      "artists": [
+        {
+          "name": "Dorian Harewood",
+          "url": "https://open.spotify.com/artist/3i0Tpid8LELb73xqOyIcin"
+        },
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        },
+        {
+          "name": "Ryan Vasquez",
+          "url": "https://open.spotify.com/artist/254yIdSLC8faW2tI6oX5pL"
+        },
+        {
+          "name": "Jordan Tyson",
+          "url": "https://open.spotify.com/artist/47wuVf1oclZWfDlfH0cIhs"
+        },
+        {
+          "name": "John Cardoza",
+          "url": "https://open.spotify.com/artist/3GcghHpYR6wDupDEM4eSyW"
+        },
+        {
+          "name": "Original Broadway Cast of The Notebook",
+          "url": "https://open.spotify.com/artist/2LOLe1dB641HmXo4RVbqck"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206786,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6AxCWsKcey0uk7hMGEgfrB"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Ny Pop \(3\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> We got you! Den bedste nye pop er samlet her\. Malte Ebert på cover 🪭
+> We got you! Den bedste nye pop er samlet her\. Klara Vibeke på cover 🪭
 
 1,062 songs - 2 day 6 hr 8 min
 
@@ -266,7 +266,7 @@
 | [En Aften](https://open.spotify.com/track/4KgsHi0jI6oX8gkX2pacwx) | [Kvarti](https://open.spotify.com/artist/7xUwLe8g9t2HFZyuweLHvR), [popdreng](https://open.spotify.com/artist/2ZlAmhF3ayHihB6tf3cy7Y) | [En Aften](https://open.spotify.com/album/0UNFavrUfKzBznaetRAwhi) | 2:58 | 2024-06-27 | 2024-07-30 |
 | [En Anden Planet](https://open.spotify.com/track/4aCHy34GzQKexIRsZS695f) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [En Anden Planet](https://open.spotify.com/album/5ryILNPx3K0Op6YWVZNSrd) | 3:05 | 2026-01-01 | 2026-08-21 |
 | [En Dag Uden](https://open.spotify.com/track/1fPtexCPba7qZV4i3atGa8) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [En Dag Uden](https://open.spotify.com/album/4qOeYFH30cpNPoVRXSHjL0) | 2:18 | 2025-04-10 | 2025-05-30 |
-| [En Ild Der Altid Brænder](https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [En Ild Der Altid Brænder](https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU) | 3:23 | 2026-10-29 |  |
+| [En Ild Der Altid Brænder](https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [En Ild Der Altid Brænder](https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU) | 3:23 | 2026-10-29 | 2026-11-03 |
 | [En Mildest Talt Elendig Samtale](https://open.spotify.com/track/7fGN0JEQtntcln3LdnjXoe) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [En Mildest Talt Elendig Samtale](https://open.spotify.com/album/49j3gmWxLB6AlHJtqsixOf) | 2:53 | 2026-05-21 |  |
 | [En Sammen](https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [En Sammen](https://open.spotify.com/album/18i88ZCgHuTLE98m68gFSV) | 2:45 | 2024-08-29 | 2025-01-17 |
 | [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 | 2025-07-10 | 2025-08-22 |

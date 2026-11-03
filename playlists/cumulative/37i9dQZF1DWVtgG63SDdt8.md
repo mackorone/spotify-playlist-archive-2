@@ -4,7 +4,7 @@
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: TobyMac
 
-14,149 songs - 38 day 7 hr 53 min
+14,150 songs - 38 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11349,7 +11349,7 @@
 | [Surrogates](https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Surrogates](https://open.spotify.com/album/6g3FEJFGxNUOCJpaeaLMfS) | 3:00 | 2023-08-04 | 2023-08-19 |
 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 | 2023-03-10 | 2023-03-18 |
 | [Surrounded](https://open.spotify.com/track/4Tr1hZdWczjvLFmRA7sxz6) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Peace To All Who Enter Here, Vol\. 2](https://open.spotify.com/album/7sUgmL8KrJe4TVLAPeZ2S4) | 5:19 | 2025-11-07 | 2025-11-22 |
-| [Surrounded](https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Surrounded By Giants](https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC) | 2:48 | 2026-10-23 |  |
+| [Surrounded](https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Surrounded By Giants](https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC) | 2:48 | 2026-10-23 | 2026-11-03 |
 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Surrounded \(Fight My Battles\)](https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0) | 3:00 | 2022-09-30 | 2022-10-15 |
 | [Surrounded By Holy](https://open.spotify.com/track/3oHBQsiTAi3FHCL2zKXvpf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Surrounded By Holy](https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg) | 4:54 | 2023-02-24 | 2023-03-11 |
 | [Surrounded By Holy \- Live](https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Surrounded By Holy](https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p) | 7:35 | 2023-09-08 | 2023-09-23 |
@@ -13116,6 +13116,7 @@
 | [What A God \(Live\)](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 | 2024-06-07 | 2024-06-22 |
 | [What A God \- Live](https://open.spotify.com/track/3abhyqNqS9vA7ZGYHtI7i5) | [Joel Barber](https://open.spotify.com/artist/2q8kIcMla0W9tWshKMIetR), [Chroma Worship](https://open.spotify.com/artist/4WdBWioetJ8BavNqJzQU8P) | [What A God/Awesome God \(Live At Glory Night\)](https://open.spotify.com/album/6ECyCr2lH7zP15VMOnCHmm) | 10:17 | 2026-08-21 | 2026-08-29 |
 | [What A Life](https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [What A Life](https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q) | 2:54 | 2026-07-24 | 2026-08-08 |
+| [WHAT A LIFE](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WHAT A LIFE](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 | 2026-11-02 |  |
 | [WHAT A LIFE](https://open.spotify.com/track/6bj4w1FqEFMKdLql8b6WvN) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [WHAT A LIFE](https://open.spotify.com/album/0B1PkKQ123tk2b21lFNeh5) | 2:59 | 2026-07-24 | 2026-08-01 |
 | [What A Love](https://open.spotify.com/track/6t4TuFrkOppS2epOHPjxbN) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [What A Love](https://open.spotify.com/album/4Ca9luh8aDzYUDuGRYVWqb) | 4:09 | 2025-04-18 | 2025-05-03 |
 | [What A Miracle \(feat\. Chris Brown\)](https://open.spotify.com/track/1GkgOYQ797fsxJ3BvrBOBH) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [What A Miracle \(feat\. Chris Brown\)](https://open.spotify.com/album/7pAfxjEYm5QNs7O9JUCtRX) | 5:54 | 2024-06-28 | 2024-07-13 |

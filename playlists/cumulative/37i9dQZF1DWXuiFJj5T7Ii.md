@@ -4,7 +4,7 @@
 
 > Our editors' picks for best country songs of the year\. Cover: Morgan Wallen
 
-436 songs - 23 hr 47 min
+438 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [down home](https://open.spotify.com/track/1EfTaVUbZmrtqniZTj6LYF) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 3:21 | 2022-11-30 | 2023-11-04 |
 | [down home](https://open.spotify.com/track/39ur3Z0ZL4ysqFrcgwMdRe) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:22 | 2022-11-30 | 2023-11-30 |
 | [Down To One](https://open.spotify.com/track/5OOnDbWPn54S45pJTPUXPs) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:43 | 2021-12-01 | 2022-12-01 |
-| [Dream Come True](https://open.spotify.com/track/5u4PukbCMvkFuL3RhKTzhO) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Dream Come True](https://open.spotify.com/album/38tmkYP4ggGyNADbAL1iM3) | 2:57 | 2025-12-03 |  |
+| [Dream Come True](https://open.spotify.com/track/5u4PukbCMvkFuL3RhKTzhO) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Dream Come True](https://open.spotify.com/album/38tmkYP4ggGyNADbAL1iM3) | 2:57 | 2025-12-03 | 2026-11-03 |
+| [Dream Come True](https://open.spotify.com/track/2NjsQqEUvkMku9VHRhBAn5) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 2:58 | 2025-12-03 |  |
 | [Drinkaby](https://open.spotify.com/track/6U8tqJCJ7eYdzGetIFSqYr) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 3:02 | 2023-11-29 | 2024-12-05 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1b8TpvCFqmJTd2xz9xE9s1) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album](https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4) | 2:40 | 2021-12-01 | 2022-12-01 |
 | [Drinkin’ Beer\. Talkin’ God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/5XmOltvJlYIXsQEiqGFYjh) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Drinkin’ Beer\. Talkin’ God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/4b6LdZj5H7djRxNniFCiqm) | 2:40 | 2021-12-01 | 2022-07-29 |
@@ -340,7 +341,8 @@
 | [Standing Room Only](https://open.spotify.com/track/7df5ELYvqxkoLhNK391CRV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/7JXjtz0F7VWwAboPCoyg14) | 3:46 | 2023-11-29 | 2024-12-05 |
 | [Stars Like Confetti](https://open.spotify.com/track/4HXiZiCbYIiG03OQwXRYnE) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 3:14 | 2023-11-29 | 2024-04-19 |
 | [Stars Like Confetti](https://open.spotify.com/track/5wtPc1OQ7g1H8FBkwWqbhh) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 3:14 | 2023-11-29 | 2024-12-05 |
-| [Starting New](https://open.spotify.com/track/4bhuYYm6eysWaN3hskJna3) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Smokestack Town](https://open.spotify.com/album/3UYGvm4wCqViaF8XkOhd5m) | 3:53 | 2025-12-03 |  |
+| [Starting New](https://open.spotify.com/track/4bhuYYm6eysWaN3hskJna3) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Smokestack Town](https://open.spotify.com/album/3UYGvm4wCqViaF8XkOhd5m) | 3:53 | 2025-12-03 | 2026-11-03 |
+| [Starting New](https://open.spotify.com/track/6IuVJasJ0NTC1U7cEM2Gx0) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Smokestack Town](https://open.spotify.com/album/418zF0fTcSEOWTnaMbyoKr) | 3:53 | 2025-12-03 |  |
 | [Starting Over](https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:00 | 2021-12-01 | 2022-12-01 |
 | [Steady Heart](https://open.spotify.com/track/1pkoZn0iGUIxFEaHHGQxMC) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:34 | 2022-11-30 | 2023-11-30 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/2T6LorlhK71uT66I6lJegX) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 2:44 | 2022-11-30 | 2023-11-30 |

@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 89178,
+  "num_followers": 89189,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Lone Bellow",
-        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Green Eyes and a Heart of Gold",
-      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Dark Child",
         "url": "https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 237122,
       "name": "Dark Child - Single Edit",
       "url": "https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Lone Bellow",
+        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "Green Eyes and a Heart of Gold",
+      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Golden Record",
-        "url": "https://open.spotify.com/album/2gTrfad2EWCwWSoYyODZW4"
-      },
-      "artists": [
-        {
-          "name": "Little Scream",
-          "url": "https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk"
-        }
-      ],
-      "duration_ms": 302626,
-      "name": "The Heron and the Fox",
-      "url": "https://open.spotify.com/track/0bd1QaItPmy8qItYjCWKXV"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "More Rain",
         "url": "https://open.spotify.com/album/1iqXf2jJKf5a6yuxNACYF6"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 184320,
       "name": "You're So Good to Me",
       "url": "https://open.spotify.com/track/6Exlfu36crYH7dnRp8Z8i7"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Golden Record",
+        "url": "https://open.spotify.com/album/2gTrfad2EWCwWSoYyODZW4"
+      },
+      "artists": [
+        {
+          "name": "Little Scream",
+          "url": "https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk"
+        }
+      ],
+      "duration_ms": 302626,
+      "name": "The Heron and the Fox",
+      "url": "https://open.spotify.com/track/0bd1QaItPmy8qItYjCWKXV"
     },
     {
       "added_at": "2024-08-28 14:05:36",

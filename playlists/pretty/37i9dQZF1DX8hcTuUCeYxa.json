@@ -1,12 +1,12 @@
 {
   "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: Pair",
-  "num_followers": 178117,
+  "num_followers": 178108,
   "original_name": "Indie Brandneu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJLJgBQZpAdgjWrvyKc2Efx6L8JD",
+  "snapshot_id": "AAAAAArT/SBAgyRRfT42iSw4oVX4tYoh",
   "tracks": [
     {
       "added_at": "2026-10-29 23:01:04",
@@ -171,6 +171,22 @@
       "duration_ms": 258327,
       "name": "Much Love",
       "url": "https://open.spotify.com/track/4NQt1ZiyEhZtVV2MWXi7BL"
+    },
+    {
+      "added_at": "2026-11-02 09:20:57",
+      "album": {
+        "name": "We Can't Not (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1j1NSi4ruM9l31yP8tFwxH"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "We Can't Not",
+      "url": "https://open.spotify.com/track/396MyeBMAUH9gTWZrLUxGw"
     },
     {
       "added_at": "2026-10-29 23:01:04",
@@ -1379,22 +1395,6 @@
       "duration_ms": 263880,
       "name": "Anybody Home",
       "url": "https://open.spotify.com/track/0d4JXH1DDXFjAn1WglGKps"
-    },
-    {
-      "added_at": "2026-10-15 22:00:56",
-      "album": {
-        "name": "Riot Youth",
-        "url": "https://open.spotify.com/album/1QeB1OnMoM3nlnUhi1nP68"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 215015,
-      "name": "Can I Finish Please?",
-      "url": "https://open.spotify.com/track/3gsQ4YYAT2eg4EaKh3X9v5"
     },
     {
       "added_at": "2026-10-15 22:00:56",

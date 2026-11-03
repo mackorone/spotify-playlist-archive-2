@@ -6051,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "We Bring The Noise",
+        "url": "https://open.spotify.com/album/0D6OBtc2eYLvp3BAA6cUdF"
+      },
+      "artists": [
+        {
+          "name": "Castor & Pollux",
+          "url": "https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177915,
+      "name": "We Bring The Noise",
+      "url": "https://open.spotify.com/track/4QQDBxasDo7jSEvE0jR4el"
+    },
+    {
+      "album": {
         "name": "We Can't Stop",
         "url": "https://open.spotify.com/album/27LVMe5wMsHddairHoCux2"
       },

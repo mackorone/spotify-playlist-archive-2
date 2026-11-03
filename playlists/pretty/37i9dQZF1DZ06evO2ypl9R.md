@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,958 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 | 49 | [Tbt3 \- Osunlade Remix](https://open.spotify.com/track/1F30llzy5fYkhFo28fDfDb) | [Rocco Rodamaal](https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Tbt3 \(Osunlade Remix\)](https://open.spotify.com/album/0SqpD1eHDWweAg6Y7vrF79) | 6:13 |
 | 50 | [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 |
 
-Snapshot ID: `auUvgAAAAACKlSbNmRCJcZFhJ2px67Dl`
+Snapshot ID: `auUvgAAAAABEkd6yBwaHGOJxslj4I2yZ`

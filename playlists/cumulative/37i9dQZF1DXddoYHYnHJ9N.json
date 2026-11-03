@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Bruno X Spacc & T. Danny",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: imago mundi",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 150857,
       "name": "BAD BUNNY",
       "url": "https://open.spotify.com/track/02kAIFBWwrJulgwGtVqIEQ"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 156678,
       "name": "Gyerekek",
       "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 129450,
       "name": "JACUZZI",
       "url": "https://open.spotify.com/track/7tbwRhYFlxyRjJZd6taszZ"
@@ -4413,6 +4413,32 @@
     },
     {
       "album": {
+        "name": "SZALAD EL",
+        "url": "https://open.spotify.com/album/6F9SPJeViUnEicebxhbK2G"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Beatrick",
+          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
+        },
+        {
+          "name": "millair",
+          "url": "https://open.spotify.com/artist/1lHJW23ltScRJsdJmadkLC"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "SZALAD EL",
+      "url": "https://open.spotify.com/track/59h5Gdsenx9M4VQEHc43xs"
+    },
+    {
+      "album": {
         "name": "SZAR AZ \u00c9LET",
         "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
       },
@@ -4476,7 +4502,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 215000,
       "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
       "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
@@ -4502,6 +4528,24 @@
       "duration_ms": 163905,
       "name": "SZEXI BB - Bruno",
       "url": "https://open.spotify.com/track/5LFEksBRiR2Nyyr7NSteyl"
+    },
+    {
+      "album": {
+        "name": "ad astra",
+        "url": "https://open.spotify.com/album/6Q4fzGvDe5bE9UfVeV5lYX"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "sz\u00e1zszor szebb",
+      "url": "https://open.spotify.com/track/67su54MiiEDTCbnQQMVL18"
     },
     {
       "album": {
@@ -4981,6 +5025,28 @@
     },
     {
       "album": {
+        "name": "T\u00edz L\u00e1ny",
+        "url": "https://open.spotify.com/album/5lEKZfmEpTPsxbM74smaws"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "T\u00edz L\u00e1ny",
+      "url": "https://open.spotify.com/track/0ylIgpSA6lCBd8CfTzWb7h"
+    },
+    {
+      "album": {
         "name": "J\u00e1t\u00e9k Az Eg\u00e9sz",
         "url": "https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1"
       },
@@ -5387,6 +5453,24 @@
     },
     {
       "album": {
+        "name": "\u00c9letem Szerelme",
+        "url": "https://open.spotify.com/album/1oG4xEk5CwDgChH3BJ101l"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186673,
+      "name": "\u00c9letem Szerelme",
+      "url": "https://open.spotify.com/track/5aBSboVH55mQNJQuQ2cNaI"
+    },
+    {
+      "album": {
         "name": "Valamit Majd Kital\u00e1lok",
         "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
       },
@@ -5420,6 +5504,28 @@
       "duration_ms": 123125,
       "name": "\u00d6rd\u00f6g N\u00f3rika",
       "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
+    },
+    {
+      "album": {
+        "name": "ad astra",
+        "url": "https://open.spotify.com/album/6Q4fzGvDe5bE9UfVeV5lYX"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        },
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160403,
+      "name": "\u00f6sszevissza",
+      "url": "https://open.spotify.com/track/5CgMYs7FYpqR1WRqj0MS9U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,718 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,716 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Depois do Depois](https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Portal](https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx) | 3:12 |
 | 50 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 |
 
-Snapshot ID: `auUvgAAAAACzQBJuaAtk54YdasoP6lBP`
+Snapshot ID: `auUvgAAAAABpNoz8Xjkqj0mpPwApALBi`

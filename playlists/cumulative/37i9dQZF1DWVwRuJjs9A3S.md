@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Elise Elvira
 
-1,459 songs - 3 day 11 hr 48 min
+1,460 songs - 3 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Backseat](https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/6gz8kYsgYsH46YpWsZtGTa) | 6:23 | 2025-05-29 | 2025-10-10 |
 | [Bad Omen](https://open.spotify.com/track/00cUN2prFK7nR8UZEyRc0r) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Bad Omen](https://open.spotify.com/album/0LTHF3pPSEJN7Rp4TJ0b1R) | 3:22 | 2026-03-26 | 2026-09-18 |
 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 | 2026-02-19 | 2026-09-11 |
-| [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 | 2026-10-29 |  |
+| [Bakom oss bara dimma](https://open.spotify.com/track/2d4EgG32xHf0cPvBS0J6Ow) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:13 | 2026-11-02 |  |
+| [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 | 2026-10-29 | 2026-11-03 |
 | [Balloon Ranger Anthem](https://open.spotify.com/track/5IExduBEdaLh6riPWRTSbI) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Balloon Ranger Anthem](https://open.spotify.com/album/4XukJ7YMZglptjovDqfT3E) | 3:24 | 2024-06-27 | 2024-07-27 |
 | [barquito \- bonus track](https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ) | 3:24 | 2026-03-05 | 2026-09-11 |
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-23 | 2025-04-18 |

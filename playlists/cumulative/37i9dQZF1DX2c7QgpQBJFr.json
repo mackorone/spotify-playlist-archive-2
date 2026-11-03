@@ -4225,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "BUONANOTTE ANCHE STANOTTE",
+        "url": "https://open.spotify.com/album/2F8WdwMPcayDvddkNLKaeI"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "BUONANOTTE ANCHE STANOTTE",
+      "url": "https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l"
+    },
+    {
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/71QGUKaL4Ldl23q2BRFmCd"
       },

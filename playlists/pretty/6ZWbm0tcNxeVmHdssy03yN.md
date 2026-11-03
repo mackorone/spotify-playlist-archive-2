@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,570 likes - 99 songs - 5 hr 3 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,566 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 5 | [Ride or Die](https://open.spotify.com/track/4So79a72CTrd0RRK0DSJCV) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [Ride or Die](https://open.spotify.com/album/3o3lb4NBhaBrDLf0rLWCZR) | 1:52 |
 | 6 | [Upside Down](https://open.spotify.com/track/6T4ug8wsWpC8N8tJO4X31s) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Upside Down](https://open.spotify.com/album/11HLVIOuiubtk9xnVGJMHZ) | 2:19 |
 | 7 | [CEMETERY \(from the Ryuu series "Granite Waves" by Tezeze\)](https://open.spotify.com/track/4prWgXjdF73nsVKKVvOcJQ) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt), [Gloomy Culture](https://open.spotify.com/artist/2rBoyTKqZEFVTXc2B17mhT) | [CEMETERY \(from the Ryuu series "Granite Waves" by Tezeze\)](https://open.spotify.com/album/4VjjF6nWB3wu84JiU4cXUg) | 2:32 |
-| 8 | [out west](https://open.spotify.com/track/5wmtWS6aHkZHQ4kBtpoyFf) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [out west](https://open.spotify.com/album/7xQLhBdFIRteAoJWmnWPrC) | 2:41 |
+| 8 | [out west](https://open.spotify.com/track/5wmtWS6aHkZHQ4kBtpoyFf) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Stevie Daniels](https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK) | [out west](https://open.spotify.com/album/7xQLhBdFIRteAoJWmnWPrC) | 2:41 |
 | 9 | [Everybody Wants To Rule The World](https://open.spotify.com/track/3rUnDuhuSWGggXMlnbJZq1) | [CLAVVS](https://open.spotify.com/artist/2JcWOIfDeHESCg42COyDy1) | [Everybody Wants To Rule The World](https://open.spotify.com/album/7MJNJjpoesFwLGQTKzKx3Y) | 2:20 |
 | 10 | [YCNJM](https://open.spotify.com/track/3Jifzve0MvG4BJnhugBhJ9) | [Osime](https://open.spotify.com/artist/5HEYXdh21T9QzqXY7Uk6PN), [lou kadara](https://open.spotify.com/artist/5ORXoLZioYsI22LO0acmgT) | [BURN YOUR PASSPORT](https://open.spotify.com/album/232FQKitWIQluvzM0S2295) | 3:10 |
 | 11 | [That Look](https://open.spotify.com/track/42mPqIW3wQZwJKncm4rERJ) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [That Look](https://open.spotify.com/album/5OqozeW2s2RmMsYYzFZhNR) | 3:17 |

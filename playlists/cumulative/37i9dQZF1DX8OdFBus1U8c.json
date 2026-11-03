@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Malayalam Hip-Hop! \nCover :  Parimal Shais, MC Couper, The Imbachi, Dabzee",
+  "description": "Best of Malayalam Hip-Hop! \nCover :  Fejo",
   "name": "RAP 91 Malayalam",
   "tracks": [
     {
@@ -762,6 +762,28 @@
       "duration_ms": 285473,
       "name": "Adithattu Cypher",
       "url": "https://open.spotify.com/track/69OAdLAS2tDAuCY0EiFRFA"
+    },
+    {
+      "album": {
+        "name": "Aksharamala",
+        "url": "https://open.spotify.com/album/5DprK0wmcRft9s3PBOgFBx"
+      },
+      "artists": [
+        {
+          "name": "BINS",
+          "url": "https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX"
+        },
+        {
+          "name": "GOTHAM S",
+          "url": "https://open.spotify.com/artist/3gE61BTocjV5OB9ESJwwwI"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124067,
+      "name": "Aksharamala",
+      "url": "https://open.spotify.com/track/0JwfGeQo2GqoGK3BkbiurW"
     },
     {
       "album": {

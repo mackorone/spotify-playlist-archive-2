@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill (Alawn Remix Edition)",
+        "url": "https://open.spotify.com/album/0v50ktncrrqM0Cjrgxzb6i"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200321,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/0PvZzgz2IjYR3rRDhS4Wxu"
+    },
+    {
+      "album": {
         "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
         "url": "https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 6 hr 53 min
+149 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Numeri](https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft) | 2:12 | 2023-12-13 | 2026-03-05 |
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2023-12-13 |  |
 | [On My Mind](https://open.spotify.com/track/4I2dKtLNSWlk8rE0zAuin4) | [Young Rog](https://open.spotify.com/artist/3KS7WL7X3d09RoG0ZJfPuF) | [Boy Next Door](https://open.spotify.com/album/7JYIYGAFPn7gHJtAXUFAgw) | 2:28 | 2023-12-13 |  |
-| [One of One](https://open.spotify.com/track/1bxwVCnjFoTgritZiI7hEb) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Tripolar 3 \(Deluxe\)](https://open.spotify.com/album/74qn9cs3X0iSPqJHVqI5Ih) | 3:06 | 2024-03-27 |  |
+| [One of One](https://open.spotify.com/track/1bxwVCnjFoTgritZiI7hEb) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Tripolar 3 \(Deluxe\)](https://open.spotify.com/album/74qn9cs3X0iSPqJHVqI5Ih) | 3:06 | 2024-03-27 | 2026-11-03 |
+| [One of One](https://open.spotify.com/track/1kOthnIaCyi50tyuAhmDiG) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Tripolar 3 \(Deluxe\)](https://open.spotify.com/album/60DRjkYXOJlnWHGuyRKPGK) | 3:06 | 2026-11-02 |  |
 | [Outta Time \(feat\. KILLY\)](https://open.spotify.com/track/6WlTL4k95eFTlN6RBGqlkz) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:51 | 2024-12-12 |  |
 | [OVRDSE](https://open.spotify.com/track/0xK9RUrWdtbi7DbN3lYxcS) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 1:21 | 2023-12-13 |  |
 | [PAIN](https://open.spotify.com/track/25Y67zPEMWvXTHtR62fNcL) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [OMA](https://open.spotify.com/album/4yGaHOl9yRj36O5VSYEfJL) | 2:09 | 2024-07-11 |  |

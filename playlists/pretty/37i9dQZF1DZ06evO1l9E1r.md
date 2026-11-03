@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,545 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,548 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Circular](https://open.spotify.com/track/1ekxxoBhV425qGF4x4CFEG) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 4:18 |
 | 50 | [He Died for All of Us](https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Rutger Hoedemaekers](https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Trapped \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L) | 1:35 |
 
-Snapshot ID: `auUvgAAAAADLGBgGP4GAU7TobaPGBq1l`
+Snapshot ID: `auUvgAAAAACoGY/hJKVCnL9F2CTeITNn`

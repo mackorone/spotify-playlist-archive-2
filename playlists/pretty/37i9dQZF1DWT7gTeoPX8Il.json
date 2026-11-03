@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 173845,
+  "num_followers": 173910,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
+        "name": "Sementara, Selamanya",
+        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "duration_ms": 227908,
+      "name": "Salah Apa Aku",
+      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 262341,
       "name": "Masih Hatiku",
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
-        "name": "Sementara, Selamanya",
-        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
-      },
-      "artists": [
-        {
-          "name": "Fajar Noor",
-          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
-        }
-      ],
-      "duration_ms": 227908,
-      "name": "Salah Apa Aku",
-      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Sesal Separuh Nyawa",
-        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
-      },
-      "artists": [
-        {
-          "name": "Alyah",
-          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
-        }
-      ],
-      "duration_ms": 259977,
-      "name": "Sesal Separuh Nyawa",
-      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Menunggumu Sampai Akhir Hidup",
         "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Sesal Separuh Nyawa",
+        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
+      },
+      "artists": [
+        {
+          "name": "Alyah",
+          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
+        }
+      ],
+      "duration_ms": 259977,
+      "name": "Sesal Separuh Nyawa",
+      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
     },
     {
       "added_at": "2026-09-18 00:19:01",

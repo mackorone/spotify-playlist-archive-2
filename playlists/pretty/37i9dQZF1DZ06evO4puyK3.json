@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167121,
+  "num_followers": 167129,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAABmfLYmEvp8J9h9ldjtAhPw",
+  "snapshot_id": "auaBAAAAAABXIyATneZayv2Vt3QdQiFm",
   "tracks": [
     {
       "added_at": null,
@@ -434,11 +434,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 185816,
-      "name": "5 Minutinhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
+      "duration_ms": 310283,
+      "name": "A Loba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5SSOaOh6W2vjiRVfPKSqoS"
     },
     {
       "added_at": null,
@@ -506,15 +510,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 310283,
-      "name": "A Loba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5SSOaOh6W2vjiRVfPKSqoS"
+      "duration_ms": 185816,
+      "name": "5 Minutinhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
       "duration_ms": 175682,
       "name": "Linguagem Do Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/53kDrN4RX10QxscfM9lk8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
     },
     {
       "added_at": null,
@@ -555,26 +575,6 @@
       "duration_ms": 171776,
       "name": "1%",
       "url": "https://open.spotify.com/track/6QYmWKcEzwfcZ6zegbeIa4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 178105,
       "name": "S\u00f3 o Amor",
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
     },
     {
       "added_at": null,

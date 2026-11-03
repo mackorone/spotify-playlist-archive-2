@@ -110,7 +110,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 221600,
       "name": "Angel from Montgomery",
       "url": "https://open.spotify.com/track/7fgho0AZlDBk6dmo9LUNC0"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 224186,
       "name": "Angel from Montgomery",
       "url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 233653,
       "name": "Ask the Lonely",
       "url": "https://open.spotify.com/track/7elZqrBZysXba7cTLkrw05"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 233981,
       "name": "Ask the Lonely",
       "url": "https://open.spotify.com/track/5KUfM9sjoGogDnrBulbVcW"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 179466,
       "name": "Bad, Bad Leroy Brown",
       "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 182240,
       "name": "Bad, Bad Leroy Brown",
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 275493,
       "name": "Breakdown Dead Ahead",
       "url": "https://open.spotify.com/track/0285gn8Mdgn97TDJLi0r7l"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 277118,
       "name": "Breakdown Dead Ahead (2023 Remaster)",
       "url": "https://open.spotify.com/track/1SGYChpcjRUKehqvNOSiMn"
@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Centerfield (25th Anniversary)",
+        "url": "https://open.spotify.com/album/7wLd9KZsIrtpcRCVOjq7v8"
+      },
+      "artists": [
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231306,
+      "name": "Centerfield",
+      "url": "https://open.spotify.com/track/5f7KV4oOHZylrpa5XKFu6G"
+    },
+    {
+      "album": {
         "name": "Centerfield - 25th Anniversary",
         "url": "https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 233666,
       "name": "Centerfield",
       "url": "https://open.spotify.com/track/1fFNSZQFnnPMLzGYZfs0jk"
@@ -744,7 +762,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 247186,
       "name": "Face It Alone",
       "url": "https://open.spotify.com/track/1qr9bymNcBLy71PnO15jWi"
@@ -802,6 +820,24 @@
       "duration_ms": 247986,
       "name": "Face It Alone",
       "url": "https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf"
+    },
+    {
+      "album": {
+        "name": "The Miracle (Collector's Edition)",
+        "url": "https://open.spotify.com/album/32SCJ9cqSEVHczInhCCwPs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247986,
+      "name": "Face It Alone",
+      "url": "https://open.spotify.com/track/29H1lxEQ41WZngNZmI1XpS"
     },
     {
       "album": {
@@ -870,7 +906,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 287666,
       "name": "For A Dancer",
       "url": "https://open.spotify.com/track/6P19kmg1U7zi5ufiSz4rDh"
@@ -888,7 +924,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 288666,
       "name": "For a Dancer - Single Version",
       "url": "https://open.spotify.com/track/2AkbpHqE8STBmNDekA4Uxa"
@@ -924,10 +960,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "album": {
+        "name": "Even In The Quietest Moments... (Remastered 2026)",
+        "url": "https://open.spotify.com/album/0kW7WYI6RWpplTyzUg048H"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/1JI4nBu8CZjKYjyADy8kAv"
     },
     {
       "album": {
@@ -950,6 +1004,24 @@
     {
       "album": {
         "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/4zcvamWINofMEwG74kvQl1"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/1G0ku3TLCGwrAHj9WPudKX"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
         "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
       },
       "artists": [
@@ -960,7 +1032,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 199586,
       "name": "Handle With Care",
       "url": "https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG"
@@ -1032,14 +1104,14 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 217226,
       "name": "I Don't Want To Go Home",
       "url": "https://open.spotify.com/track/75fGYqmiDsUHTepvrP9RxE"
     },
     {
       "album": {
-        "name": "I Don't Want to Go Home (Remastered)",
+        "name": "I Don't Want to Go Home",
         "url": "https://open.spotify.com/album/6i8EUGwmvXMmYLTRYWDHOe"
       },
       "artists": [
@@ -1050,8 +1122,8 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 222786,
+      "date_removed": null,
+      "duration_ms": 222792,
       "name": "I Don't Want to Go Home",
       "url": "https://open.spotify.com/track/3ydV3D485bGb1I3dXw0HtQ"
     },
@@ -1104,7 +1176,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 175373,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/0qNrKrghOyGtoXzjGBc14a"
@@ -1140,7 +1212,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
@@ -1176,7 +1248,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 193266,
       "name": "Illegal Smile",
       "url": "https://open.spotify.com/track/1h0R5cstHZ070tevUAfEo7"
@@ -1194,7 +1266,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 193266,
       "name": "Illegal Smile",
       "url": "https://open.spotify.com/track/1wwqjkEV3BqlkI04E1DrTr"
@@ -1230,7 +1302,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
@@ -1248,7 +1320,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 256093,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/3vmOEg3JBiNxaz0mHxPSPC"
@@ -1576,7 +1648,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 237973,
       "name": "Lonesome Loser - Remastered 2010",
       "url": "https://open.spotify.com/track/3OZ40egQbNWeTe0BnR2QKa"
@@ -1594,7 +1666,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 241374,
       "name": "Lonesome Loser - Remastered 2022",
       "url": "https://open.spotify.com/track/0EOTFIX60ua9qt8pel84tA"
@@ -1612,7 +1684,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 190200,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/0XaOUPgRpgSQkDZwh6bnZR"
@@ -1630,7 +1702,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1CvBqoxfDF1C1HtSh1NhCH"
@@ -1702,10 +1774,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 267226,
       "name": "Mama Kin",
       "url": "https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269186,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0"
     },
     {
       "album": {
@@ -1868,7 +1958,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 339281,
       "name": "My Old School",
       "url": "https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H"
@@ -1886,7 +1976,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 344906,
       "name": "My Old School",
       "url": "https://open.spotify.com/track/2TNJMzB30nuEpww7EOx75L"
@@ -1904,7 +1994,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 165826,
       "name": "My Shit's Fucked Up",
       "url": "https://open.spotify.com/track/35UT9ZB7UROy8W8JvMmzMD"
@@ -1922,7 +2012,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 165826,
       "name": "My Shit's Fucked Up",
       "url": "https://open.spotify.com/track/6RNp2KtAPVQWRHS6FdjNWG"
@@ -2016,7 +2106,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 174360,
       "name": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
       "url": "https://open.spotify.com/track/0lqfBvf1Gqmmt3l5Qeirlm"
@@ -2034,7 +2124,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 174426,
       "name": "R.O.C.K. In The U.S.A. (A Salute To 60's Rock)",
       "url": "https://open.spotify.com/track/4yBPSbkj2vCeiPZZUKPK3v"
@@ -2074,7 +2164,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 275466,
       "name": "Reelin' In The Years",
       "url": "https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2"
@@ -2092,7 +2182,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 277467,
       "name": "Reelin' In The Years",
       "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
@@ -2164,7 +2254,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 187066,
       "name": "Rock'n Me",
       "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
@@ -2182,7 +2272,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 187066,
       "name": "Rock'n Me",
       "url": "https://open.spotify.com/track/2luzxyVgeKvene3XtzUcQk"
@@ -2236,7 +2326,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 212471,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
@@ -2254,7 +2344,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 212666,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/6eCWvDQXTITW534IANR5n1"
@@ -2290,7 +2380,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 291893,
       "name": "Running on Empty",
       "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
@@ -2308,7 +2398,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 298093,
       "name": "Running on Empty",
       "url": "https://open.spotify.com/track/4MZEZz8MqVgvIMXU6AVP22"
@@ -2326,7 +2416,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 233160,
       "name": "Same Old Song and Dance",
       "url": "https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB"
@@ -2344,7 +2434,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 233567,
       "name": "Same Old Song and Dance",
       "url": "https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU"
@@ -2416,7 +2506,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 258026,
       "name": "Sharp Dressed Man (2008 Remaster)",
       "url": "https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom"
@@ -2434,7 +2524,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 258026,
       "name": "Sharp Dressed Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
@@ -2488,7 +2578,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 257184,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/3NMUSNds2Xuiim7lXiu8s7"
@@ -2506,7 +2596,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 259444,
       "name": "Statesboro Blues - Live At Fillmore East, March 13, 1971",
       "url": "https://open.spotify.com/track/1BnfAYVesByA18sA9EAGiI"
@@ -2542,7 +2632,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 265560,
       "name": "Stone in Love",
       "url": "https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI"
@@ -2560,7 +2650,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Stone in Love (2022 Remaster)",
       "url": "https://open.spotify.com/track/5LyFTf7KMD3CsRA7B5gzEm"
@@ -2614,7 +2704,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 170173,
       "name": "Take The Money And Run",
       "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
@@ -2632,7 +2722,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 170173,
       "name": "Take the Money and Run",
       "url": "https://open.spotify.com/track/6xTmUziCWS4Nwh2hzqLbCS"
@@ -2711,6 +2801,28 @@
     },
     {
       "album": {
+        "name": "The Band (Deluxe Edition / 2019 Remix)",
+        "url": "https://open.spotify.com/album/5ZRYMtWMk8ha4YD73KtlR2"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Bob Clearmountain",
+          "url": "https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217293,
+      "name": "The Night They Drove Old Dixie Down - 2019 Remix",
+      "url": "https://open.spotify.com/track/4S8q9bCd9vJntqp0XUxUHu"
+    },
+    {
+      "album": {
         "name": "The Band (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nPrnmv6maJLLaPpy1cWGB"
       },
@@ -2722,10 +2834,28 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 213266,
       "name": "The Night They Drove Old Dixie Down - Remastered 2000",
       "url": "https://open.spotify.com/track/2x0supcZhd6NEH1nem9DnR"
+    },
+    {
+      "album": {
+        "name": "Centerfield (25th Anniversary)",
+        "url": "https://open.spotify.com/album/7wLd9KZsIrtpcRCVOjq7v8"
+      },
+      "artists": [
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "The Old Man Down The Road",
+      "url": "https://open.spotify.com/track/0Y1xRI76IwqT0OE0Mzxz4j"
     },
     {
       "album": {
@@ -2740,7 +2870,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 213346,
       "name": "The Old Man Down The Road",
       "url": "https://open.spotify.com/track/4SMz9IL5uiLadHshWxOvsO"
@@ -2884,10 +3014,28 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 327853,
       "name": "Tweeter And The Monkey Man",
       "url": "https://open.spotify.com/track/2rm4CNyzlEGs3PcK91wzGe"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/4zcvamWINofMEwG74kvQl1"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327853,
+      "name": "Tweeter And The Monkey Man",
+      "url": "https://open.spotify.com/track/4dUKKNql0FZjn96jU6IjYB"
     },
     {
       "album": {
@@ -2927,6 +3075,28 @@
     },
     {
       "album": {
+        "name": "The Band (Deluxe Edition / 2019 Remix)",
+        "url": "https://open.spotify.com/album/5ZRYMtWMk8ha4YD73KtlR2"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Bob Clearmountain",
+          "url": "https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281198,
+      "name": "Up On Cripple Creek - 2019 Remix",
+      "url": "https://open.spotify.com/track/0oTqCcbMRNDFTTgAxM8Mtb"
+    },
+    {
+      "album": {
         "name": "The Band (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nPrnmv6maJLLaPpy1cWGB"
       },
@@ -2938,7 +3108,7 @@
       ],
       "date_added": "2014-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 274893,
       "name": "Up On Cripple Creek - Remastered 2000",
       "url": "https://open.spotify.com/track/60VcYHxoyOdZyFb1EaKJdN"
@@ -3036,6 +3206,24 @@
     {
       "album": {
         "name": "Quotable Quo",
+        "url": "https://open.spotify.com/album/6cwi3F3nXv3ihRixtLPCXs"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/1YdPMSS4gn3Q20qrztQxCn"
+    },
+    {
+      "album": {
+        "name": "Quotable Quo",
         "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
       },
       "artists": [
@@ -3046,7 +3234,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 242000,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"

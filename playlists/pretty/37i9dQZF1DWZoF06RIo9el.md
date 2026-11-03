@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las favoritas de octubre 2026\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,222 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,051 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 31 | [BANDERA BLANCA](https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 3:04 |
 | 32 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
 | 33 | [IKAKOS](https://open.spotify.com/track/70ER71dzYrmYrZSw1SrgYH) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b) | [IKAKOS](https://open.spotify.com/album/1660hJCPaTxZl8DmZJ6BA4) | 2:48 |
-| 34 | [De Sueño en Sueño](https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [De Sueño en Sueño](https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D) | 2:43 |
-| 35 | [DR\. STRANGE](https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [DR\. STRANGE](https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz) | 2:43 |
+| 34 | [DR\. STRANGE](https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [DR\. STRANGE](https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz) | 2:43 |
+| 35 | [De Sueño en Sueño](https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [De Sueño en Sueño](https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D) | 2:43 |
 | 36 | [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 |
 | 37 | [Calendario](https://open.spotify.com/track/21nJ85XhAOf40a4I8S2zxa) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Calendario](https://open.spotify.com/album/3pVOUcRchfwRRkmgQMoFzX) | 3:08 |
 | 38 | [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 50 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
 | 51 | [santa lucía \(impala\)](https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [todavía no vuelvo](https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK) | 3:35 |
 | 52 | [LA MENTIRA](https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex) | 3:01 |
-| 53 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
-| 54 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
-| 55 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
+| 53 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
+| 54 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
+| 55 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
 | 56 | [INTERÉS HACIA TI](https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2) | 2:29 |
 | 57 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
 | 58 | [Kamikaze](https://open.spotify.com/track/337HLzkpopP6hTZLVdoMRq) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Kamikaze](https://open.spotify.com/album/7xTXZtNhkE0igCjsCYzyUw) | 3:28 |

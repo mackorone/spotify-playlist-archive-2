@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 ICEGUYS, GusGus og Birnir, og m\u00f6rgum fleirum!",
-  "num_followers": 9736,
+  "num_followers": 9737,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
+        "name": "BRINCAITO",
+        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "BRINCAITO",
+      "url": "https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "BRINCAITO",
-        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "BRINCAITO",
-      "url": "https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Lost In The Night",
-        "url": "https://open.spotify.com/album/3nt3G4RFOSqdGTTA60VMrg"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Lost In The Night",
-      "url": "https://open.spotify.com/track/1PxXhbDslbSNzO1SvqzQ4o"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "LA POSTAL",
         "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
       },
@@ -495,7 +479,7 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Felicidades (feat. Maluma)",
+        "name": "Felicidades",
         "url": "https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0"
       },
       "artists": [
@@ -509,28 +493,40 @@
         }
       ],
       "duration_ms": 141441,
-      "name": "Felicidades (feat. Maluma)",
+      "name": "Felicidades",
       "url": "https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM"
     },
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "The Night Champion (Deluxe)",
-        "url": "https://open.spotify.com/album/5dQrQnTJ2gNU4S2qjBP46H"
+        "name": "Lost In The Night",
+        "url": "https://open.spotify.com/album/3nt3G4RFOSqdGTTA60VMrg"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
         }
       ],
-      "duration_ms": 219245,
-      "name": "Hard Way (feat. Stephen Wilson Jr.)",
-      "url": "https://open.spotify.com/track/1zd46IUbQyPP34GdLa8hzG"
+      "duration_ms": 300000,
+      "name": "Lost In The Night",
+      "url": "https://open.spotify.com/track/1PxXhbDslbSNzO1SvqzQ4o"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Steady Flame",
+        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 181677,
+      "name": "Steady Flame",
+      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -551,18 +547,22 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Steady Flame",
-        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
+        "name": "The Night Champion (Deluxe)",
+        "url": "https://open.spotify.com/album/5dQrQnTJ2gNU4S2qjBP46H"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 181677,
-      "name": "Steady Flame",
-      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
+      "duration_ms": 219245,
+      "name": "Hard Way (feat. Stephen Wilson Jr.)",
+      "url": "https://open.spotify.com/track/1zd46IUbQyPP34GdLa8hzG"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
+        "name": "A Week In Paris",
+        "url": "https://open.spotify.com/album/0luklO7b6tf6OgF63LMnK9"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 184206,
+      "name": "A Week In Paris",
+      "url": "https://open.spotify.com/track/5AaPqbsV9RXAD6I8vTyXeq"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
         "name": "I Am What I Am",
         "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "A Week In Paris",
-        "url": "https://open.spotify.com/album/0luklO7b6tf6OgF63LMnK9"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 184206,
-      "name": "A Week In Paris",
-      "url": "https://open.spotify.com/track/5AaPqbsV9RXAD6I8vTyXeq"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "In The Night Again",
         "url": "https://open.spotify.com/album/4WzFwh3MS7Jcrdf5hwlGcc"
       },
@@ -699,26 +699,6 @@
       "duration_ms": 172500,
       "name": "Choice (feat. Kareen Lomax)",
       "url": "https://open.spotify.com/track/2NP35GAj6usPBqYRV9fA3L"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
-        "name": "N\u00e4chstenliebe",
-        "url": "https://open.spotify.com/album/4kBCwBGPOB86PAfRkDEbv6"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 170202,
-      "name": "N\u00e4chstenliebe",
-      "url": "https://open.spotify.com/track/61zdXHYTIPD8WaCs5hQYoj"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -787,6 +767,26 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
+        "name": "N\u00e4chstenliebe",
+        "url": "https://open.spotify.com/album/4kBCwBGPOB86PAfRkDEbv6"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 170202,
+      "name": "N\u00e4chstenliebe",
+      "url": "https://open.spotify.com/track/61zdXHYTIPD8WaCs5hQYoj"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
         "name": "Never Let Go",
         "url": "https://open.spotify.com/album/0Otsjsv1DoFGwcmEzVk31D"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 242533,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/291AWptx10JUN4s2qje2gD"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
-        "name": "God Will Control The Werewolves",
-        "url": "https://open.spotify.com/album/5lLQpUdXL0WMzygm6OqSXf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 261497,
-      "name": "God Will Control The Werewolves",
-      "url": "https://open.spotify.com/track/63hixy83eOlSRb4JFnmnpg"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -867,18 +851,18 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Looks Can Kill",
-        "url": "https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd"
+        "name": "God Will Control The Werewolves",
+        "url": "https://open.spotify.com/album/5lLQpUdXL0WMzygm6OqSXf"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
         }
       ],
-      "duration_ms": 195559,
-      "name": "Looks Can Kill",
-      "url": "https://open.spotify.com/track/3ioCKwSde6unFBEDmhLk9K"
+      "duration_ms": 261497,
+      "name": "God Will Control The Werewolves",
+      "url": "https://open.spotify.com/track/63hixy83eOlSRb4JFnmnpg"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "2 Hands",
-        "url": "https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l"
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd"
       },
       "artists": [
         {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 232133,
-      "name": "2 Hands",
-      "url": "https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX"
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/3ioCKwSde6unFBEDmhLk9K"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -983,6 +967,22 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
+        "name": "2 Hands",
+        "url": "https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "2 Hands",
+      "url": "https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
         "name": "What's In Between",
         "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 222761,
       "name": "The Intersection",
       "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Clown Shoes",
+        "url": "https://open.spotify.com/album/4PSgcmIAvZn0x642mqrXPi"
+      },
+      "artists": [
+        {
+          "name": "Brunello",
+          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+        }
+      ],
+      "duration_ms": 381732,
+      "name": "Clown Shoes",
+      "url": "https://open.spotify.com/track/3PfdD5fDE4tIF1qU6y60a9"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Clown Shoes",
-        "url": "https://open.spotify.com/album/4PSgcmIAvZn0x642mqrXPi"
-      },
-      "artists": [
-        {
-          "name": "Brunello",
-          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
-        }
-      ],
-      "duration_ms": 381732,
-      "name": "Clown Shoes",
-      "url": "https://open.spotify.com/track/3PfdD5fDE4tIF1qU6y60a9"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "SEVEN TRUMPETS",
         "url": "https://open.spotify.com/album/3u7jThyNYHSpzijEwahB7U"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Creek",
-        "url": "https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 113266,
-      "name": "Creek",
-      "url": "https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "You're the Only One (I Never Performed For)",
         "url": "https://open.spotify.com/album/6mUeTOMh838S1pNUEqdI7D"
       },
@@ -1099,38 +1083,6 @@
       "duration_ms": 212185,
       "name": "You're the Only One (I Never Performed For)",
       "url": "https://open.spotify.com/track/4LtOlJEraMqp3i9rK60K84"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
-        "name": "Still the Sparrow Sings (from the Netflix Film \"Heartland\")",
-        "url": "https://open.spotify.com/album/77e0Ji2Jpi2gXnHOWUb85i"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 260910,
-      "name": "Still the Sparrow Sings - from the Netflix Film \"Heartland\"",
-      "url": "https://open.spotify.com/track/26WMeaCc8ytIHMQQNmkdYt"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
-        "name": "Can Y'all Hear Me Now?",
-        "url": "https://open.spotify.com/album/4baagbo1DFP6xwup5lX2QP"
-      },
-      "artists": [
-        {
-          "name": "PayGotti",
-          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
-        }
-      ],
-      "duration_ms": 190807,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/2hKgDLF3MSsZQ081R0NObj"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -1151,6 +1103,54 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
+        "name": "Still the Sparrow Sings (from the Netflix Film \"Heartland\")",
+        "url": "https://open.spotify.com/album/77e0Ji2Jpi2gXnHOWUb85i"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 260910,
+      "name": "Still the Sparrow Sings - from the Netflix Film \"Heartland\"",
+      "url": "https://open.spotify.com/track/26WMeaCc8ytIHMQQNmkdYt"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 113266,
+      "name": "Creek",
+      "url": "https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Can Y'all Hear Me Now?",
+        "url": "https://open.spotify.com/album/4baagbo1DFP6xwup5lX2QP"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "duration_ms": 190807,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/2hKgDLF3MSsZQ081R0NObj"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
         "name": "Nu Zamrock",
         "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 171865,
       "name": "Canary",
       "url": "https://open.spotify.com/track/2RqoTukas6v1tFb35pG2u6"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "late night swim",
+        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 141339,
+      "name": "birds and butterflies",
+      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -1187,22 +1203,6 @@
       "duration_ms": 153364,
       "name": "Tell You Why",
       "url": "https://open.spotify.com/track/00yg4F2H3joRtA2ptT3fwI"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
-        "name": "late night swim",
-        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 141339,
-      "name": "birds and butterflies",
-      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -1235,6 +1235,46 @@
       "duration_ms": 256107,
       "name": "The Bartender",
       "url": "https://open.spotify.com/track/46ZQZWNYBj2i4vfryEZaKm"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/0QF26JKTaBUg0CNGRZaw1V"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Fuego Base",
+          "url": "https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/2lTB2OKup4eBLMVzJWahGE"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Plain Jane",
+        "url": "https://open.spotify.com/album/3d219WSRvmx2bMOjktulEK"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Heart Shaped Bed",
+      "url": "https://open.spotify.com/track/7gjOdGi8agj10BCbcKaiiw"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -1275,46 +1315,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Plain Jane",
-        "url": "https://open.spotify.com/album/3d219WSRvmx2bMOjktulEK"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Heart Shaped Bed",
-      "url": "https://open.spotify.com/track/7gjOdGi8agj10BCbcKaiiw"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/0QF26JKTaBUg0CNGRZaw1V"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Black Soprano Family",
-          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
-        },
-        {
-          "name": "Fuego Base",
-          "url": "https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/2lTB2OKup4eBLMVzJWahGE"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "Concrete Cowboy",
         "url": "https://open.spotify.com/album/31tY51KvbFLZbsJ5xIdX5s"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "N5ON",
-        "url": "https://open.spotify.com/album/5tUymTDVSwVGC1fV8sPo04"
-      },
-      "artists": [
-        {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 172079,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2J2WCxTJqGCWo8huHHnXUf"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "Golden Cats",
         "url": "https://open.spotify.com/album/7w8ue5fygzOdgw2U2kVIvi"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 154603,
       "name": "Little Bit - Light",
       "url": "https://open.spotify.com/track/4qjdKveJWAQQxE8kQtbBPU"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "N5ON",
+        "url": "https://open.spotify.com/album/5tUymTDVSwVGC1fV8sPo04"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 172079,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2J2WCxTJqGCWo8huHHnXUf"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Hittin",
-        "url": "https://open.spotify.com/album/6fTMoY8zwETgz56dG8kwk7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Babe",
-          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
-        }
-      ],
-      "duration_ms": 141799,
-      "name": "Hittin",
-      "url": "https://open.spotify.com/track/6feMUnNusY2hSP1bPYOtbQ"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
-        "name": "1,2,3",
-        "url": "https://open.spotify.com/album/1tMPaXMpEEWTYeDEiAlcVv"
-      },
-      "artists": [
-        {
-          "name": "RIP Magic",
-          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
-        }
-      ],
-      "duration_ms": 217517,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/7btpQxdsqyH5FSuYJrTdlZ"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "Disc Jockey",
         "url": "https://open.spotify.com/album/1ulUmoJiH69rf9xhVLMxF7"
       },
@@ -1443,6 +1411,22 @@
       "duration_ms": 165521,
       "name": "Disc Jockey",
       "url": "https://open.spotify.com/track/3RpgrIc22vVhqkVYLe8IXH"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Hittin",
+        "url": "https://open.spotify.com/album/6fTMoY8zwETgz56dG8kwk7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        }
+      ],
+      "duration_ms": 141799,
+      "name": "Hittin",
+      "url": "https://open.spotify.com/track/6feMUnNusY2hSP1bPYOtbQ"
     },
     {
       "added_at": "2026-10-30 00:00:18",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/1tMPaXMpEEWTYeDEiAlcVv"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 217517,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/7btpQxdsqyH5FSuYJrTdlZ"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
         "name": "JOY (Play Power)",
         "url": "https://open.spotify.com/album/6MROzdeVgkGGaeRXJ7fM5E"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Superwoman",
-        "url": "https://open.spotify.com/album/7zYL6d34y8ExHqLHbsi9rD"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 184443,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3t4WztKUSPswFaunD5lR16"
-    },
-    {
-      "added_at": "2026-10-30 00:00:18",
-      "album": {
         "name": "algorhythms",
         "url": "https://open.spotify.com/album/2qzkOX39Ge0TWiuDJeuF1g"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 180000,
       "name": "like i can",
       "url": "https://open.spotify.com/track/1H1w1u2Z9FPHeaEONhbt9x"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Superwoman",
+        "url": "https://open.spotify.com/album/7zYL6d34y8ExHqLHbsi9rD"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 184443,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3t4WztKUSPswFaunD5lR16"
     },
     {
       "added_at": "2026-10-30 00:00:18",

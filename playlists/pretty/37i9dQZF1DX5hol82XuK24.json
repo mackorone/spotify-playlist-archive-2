@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 463894,
+  "num_followers": 463871,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Willoughby Tucker, I'll Always Love You",
-        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 447058,
-      "name": "Willoughby's Interlude",
-      "url": "https://open.spotify.com/track/3ugwznRhQxaUD8C5R8AhoG"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Dead Man's Bones",
         "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 270986,
       "name": "My Body's a Zombie For You",
       "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Willoughby Tucker, I'll Always Love You",
+        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 447058,
+      "name": "Willoughby's Interlude",
+      "url": "https://open.spotify.com/track/3ugwznRhQxaUD8C5R8AhoG"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Heavy Water/I'd Rather Be Sleeping",
-      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 231467,
       "name": "Drink Deep",
       "url": "https://open.spotify.com/track/21sDgrgghtQMdUGsCqGVXI"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Heavy Water/I'd Rather Be Sleeping",
+      "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 264746,
-      "name": "L'Inconnue",
-      "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Le Temple Volant",
         "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 125893,
       "name": "Le Temple Volant",
       "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 264746,
+      "name": "L'Inconnue",
+      "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Call For Help",
-        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 252272,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Vicious Delicious",
         "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 89000,
       "name": "The Kazimier Garden",
       "url": "https://open.spotify.com/track/2CnM3CVx7X9L7j2UA1E8F9"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Call For Help",
+        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 252272,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Piggy",
-        "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Turn Off The Noise",
-      "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "My Cosmos Is Mine",
         "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Piggy",
+        "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Turn Off The Noise",
+      "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1015,6 +1015,22 @@
       "duration_ms": 304291,
       "name": "teeth",
       "url": "https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1067,22 +1083,6 @@
       "duration_ms": 262040,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "All the Same",
-        "url": "https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 175023,
-      "name": "All the Same",
-      "url": "https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "All the Same",
+        "url": "https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 175023,
+      "name": "All the Same",
+      "url": "https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Spinning Wheel",
         "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 205703,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "So Medieval",
-        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
-      },
-      "artists": [
-        {
-          "name": "Blue Bendy",
-          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Darp 2 / Exorcism",
-      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "through the telescope",
         "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
       },
@@ -1647,18 +1631,34 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hazards",
-        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
       },
       "artists": [
         {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
         }
       ],
-      "duration_ms": 199496,
-      "name": "Dead Girls",
-      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
+      "duration_ms": 200281,
+      "name": "Darp 2 / Exorcism",
+      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
     }
   ],
   "unique_name": "Spooky",

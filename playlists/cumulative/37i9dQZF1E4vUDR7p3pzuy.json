@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 190236,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/1Rm4dNrtCihWV9WBuQ62Ww"
@@ -3126,7 +3126,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 230590,
       "name": "Buy Now",
       "url": "https://open.spotify.com/track/5967VxIaJHSHZKRmaT0JGx"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 210694,
       "name": "Bye Bye Land",
       "url": "https://open.spotify.com/track/7gsHg2pOcZ7a1b5PoMbLDO"
@@ -5084,7 +5084,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -6644,7 +6644,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 255257,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6scsKOnyU1lcOje6FJiVHt"
@@ -9224,7 +9224,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "Half the Glass",
       "url": "https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK"
@@ -10098,6 +10098,24 @@
       "duration_ms": 186592,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/7G5QwzXq46SlVnE8BAH3wY"
+    },
+    {
+      "album": {
+        "name": "House of Love",
+        "url": "https://open.spotify.com/album/3PfjIEwjUjDxm91jjTFGzj"
+      },
+      "artists": [
+        {
+          "name": "Shirley Callaghan",
+          "url": "https://open.spotify.com/artist/3u5t7C7C9MhRj2jm6IoiIt"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225841,
+      "name": "House of Love",
+      "url": "https://open.spotify.com/track/3cDjQIa9lWPiEfrWhqPzzY"
     },
     {
       "album": {
@@ -11196,7 +11214,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -13646,7 +13664,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 345230,
       "name": "Luvurgurl",
       "url": "https://open.spotify.com/track/05EXjL88NiXSOedFEWhBka"
@@ -14924,7 +14942,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 218200,
       "name": "NDRI",
       "url": "https://open.spotify.com/track/6llrscdKto2TxEdIgzbgTD"
@@ -15058,7 +15076,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 192896,
       "name": "Never Coming Down",
       "url": "https://open.spotify.com/track/3OpXg3H2hkDUxllLNHqCze"
@@ -15160,7 +15178,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 220210,
       "name": "New connection",
       "url": "https://open.spotify.com/track/6NdOvAPRug2x8lOeffbboq"
@@ -15218,6 +15236,28 @@
       "duration_ms": 204455,
       "name": "Nights In White Satin",
       "url": "https://open.spotify.com/track/2pFSEkl3RVcwqQ1mz1NJQq"
+    },
+    {
+      "album": {
+        "name": "Nighttime Fever",
+        "url": "https://open.spotify.com/album/2lJoB3fNvCukZQ7ziNyEIj"
+      },
+      "artists": [
+        {
+          "name": "Heartracer",
+          "url": "https://open.spotify.com/artist/0aJJxKQmV9ALSM6kPWzBS4"
+        },
+        {
+          "name": "Whitney Tai",
+          "url": "https://open.spotify.com/artist/1mYgR7qRLUdTNAM8ZNP34R"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330405,
+      "name": "Nighttime Fever",
+      "url": "https://open.spotify.com/track/73l79VEOevCdpHRKudlTwy"
     },
     {
       "album": {
@@ -17044,7 +17084,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -17679,6 +17719,24 @@
     },
     {
       "album": {
+        "name": "RUNNN",
+        "url": "https://open.spotify.com/album/0l6Ur0Lod91AiVedjNpv4b"
+      },
+      "artists": [
+        {
+          "name": "bright bright",
+          "url": "https://open.spotify.com/artist/2CT4SPqUhr0FkrqgKFFV2u"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351750,
+      "name": "RUNNN",
+      "url": "https://open.spotify.com/track/2SbmZURxLHugUvvKQ7DLrj"
+    },
+    {
+      "album": {
         "name": "Sacred Heart",
         "url": "https://open.spotify.com/album/3HC5Li7xeTlRecInl0YEdp"
       },
@@ -17910,7 +17968,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 145008,
       "name": "Satin Melody For You",
       "url": "https://open.spotify.com/track/7lQdkgP7E60hs0HGeqtQCX"
@@ -18184,7 +18242,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -18336,7 +18394,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 291000,
       "name": "Shadow Aspect",
       "url": "https://open.spotify.com/track/0j9FLQ7SQFZPaKbo44J17s"
@@ -19848,7 +19906,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 272533,
       "name": "Spinal Combiner",
       "url": "https://open.spotify.com/track/6fsNj309A8Xc4STeB6xHzT"
@@ -19888,6 +19946,24 @@
       "duration_ms": 299866,
       "name": "Sprawling",
       "url": "https://open.spotify.com/track/5PK9hMSgbOqUg5wUr783mN"
+    },
+    {
+      "album": {
+        "name": "Street Dove",
+        "url": "https://open.spotify.com/album/5U7d3g8HYUQSgCbPnsG3Sd"
+      },
+      "artists": [
+        {
+          "name": "Street Dove",
+          "url": "https://open.spotify.com/artist/5r8QdN09R42522OQhvK3yT"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "Spring Rain",
+      "url": "https://open.spotify.com/track/2BBZmepLa7ey6M87g8OihC"
     },
     {
       "album": {
@@ -20462,7 +20538,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 197626,
       "name": "Suffocating",
       "url": "https://open.spotify.com/track/1MAOQ4HLZT62wDsrXsQ1tq"
@@ -22712,7 +22788,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 187252,
       "name": "This Elegant Deal",
       "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
@@ -23574,7 +23650,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -23960,7 +24036,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 185510,
       "name": "Vampire Desire",
       "url": "https://open.spotify.com/track/7G4G4Dmpok1ptnbXRGSMKq"
@@ -24661,6 +24737,24 @@
     },
     {
       "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/3RUVyezXaQg1HgiBZ4OOMn"
+      },
+      "artists": [
+        {
+          "name": "Jenny R\u00e4is\u00e4nen",
+          "url": "https://open.spotify.com/artist/73cR3i82FqG1jtp8zHvc3E"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172597,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/7epTOf0CEuVtCmlLsnZOSa"
+    },
+    {
+      "album": {
         "name": "Wasp Factory",
         "url": "https://open.spotify.com/album/7Mqni9n0vMfESW0iTLq5Lz"
       },
@@ -24994,7 +25088,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 347000,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/15oetushp1flIyQ6ctHzVE"

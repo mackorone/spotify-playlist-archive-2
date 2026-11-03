@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 58 | [Vintage](https://open.spotify.com/track/4zW3mmZIAd5n7dGkHOJB2m) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:02 |
 | 59 | [Laying Low \(Cooking Up\)](https://open.spotify.com/track/33gqGbD6eQGMMlV7IPlDgk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 3:48 |
 | 60 | [fund$](https://open.spotify.com/track/0kSl3WjIB3A1u6aYvsphfU) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 2:32 |
-| 61 | [One of One](https://open.spotify.com/track/1bxwVCnjFoTgritZiI7hEb) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Tripolar 3 \(Deluxe\)](https://open.spotify.com/album/74qn9cs3X0iSPqJHVqI5Ih) | 3:06 |
+| 61 | [One of One](https://open.spotify.com/track/1kOthnIaCyi50tyuAhmDiG) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Tripolar 3 \(Deluxe\)](https://open.spotify.com/album/60DRjkYXOJlnWHGuyRKPGK) | 3:06 |
 | 62 | [Not Sure](https://open.spotify.com/track/2HZw9e2ph4C02ElCOLqLnj) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o), [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 4:43 |
 | 63 | [Fell In Love](https://open.spotify.com/track/0K2HUBAW8fv5kqpnx1dBAm) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5Gyiyw8PNkMhxgIC17CVcB) | 2:45 |
 | 64 | [IDKWGO \(feat\. Mikey More\)](https://open.spotify.com/track/2uhdE7tLdhs6YlriUVGnHy) | [Kid Trunks](https://open.spotify.com/artist/57SA5Qv24Vydwd6bJnV8fI), [Mikey More](https://open.spotify.com/artist/7fGyVluaial1tNZrtQgf9E) | [Moon](https://open.spotify.com/album/5AhEtD7zAxB0G90CdvEutL) | 3:39 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 114 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 |
 | 115 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcgiggAAAACSDxuiJfY20eRm6yhg6cUu`
+Snapshot ID: `AcgoXgAAAADLg8azeULfXl22QstWrY0Z`

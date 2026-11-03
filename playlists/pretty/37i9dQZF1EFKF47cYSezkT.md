@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 80 | [Lose Somebody](https://open.spotify.com/track/1s4Cg0FHPw8KUukkKoZMEE) | [Nick Kent](https://open.spotify.com/artist/2GrQlgROQcxhzI3JtRrTCi) | [Lose Somebody](https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf) | 3:17 |
 | 81 | [Mutual](https://open.spotify.com/track/08Nx4AFHToRhGfgPrzMlc8) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Boy From Barcelona, Baby](https://open.spotify.com/album/0TqqeYC86OzqZBPGNuVFlR) | 2:36 |
 | 82 | [CRY](https://open.spotify.com/track/0k20ciK9L9s8eOCkBnWBj2) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [CRY](https://open.spotify.com/album/6SDrfg53OSfjrxeaUKuDdp) | 2:51 |
-| 83 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
-| 84 | [Sky High](https://open.spotify.com/track/7DKwTEaFimmz8Coym9gydg) | [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [Hey, Somebody \- The 1st Mini Album](https://open.spotify.com/album/6M3nDcroueOxuORgRuVV1o) | 3:40 |
+| 83 | [Sky High](https://open.spotify.com/track/7DKwTEaFimmz8Coym9gydg) | [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [Hey, Somebody \- The 1st Mini Album](https://open.spotify.com/album/6M3nDcroueOxuORgRuVV1o) | 3:40 |
+| 84 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 | 85 | [Wish You The Best](https://open.spotify.com/track/0QcM7UYxKyCantEBDN6d6V) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus \(Deluxe\)](https://open.spotify.com/album/3RvEN43t9XzBsSEzBupbrq) | 2:58 |
 | 86 | [Heartbeat](https://open.spotify.com/track/6nkOj0akF4rZt4c7MCxKpx) | [Sandro Soro](https://open.spotify.com/artist/00XA2DHpsl0JYh0LCywnhx) | [Heartbeat](https://open.spotify.com/album/6YSYvAlysBgSUJAJQpnhfK) | 2:30 |
 | 87 | [Girlhood](https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 2:23 |
 
-Snapshot ID: `AcgiggAAAABi8IxxsFd8dE8rzHg94zvw`
+Snapshot ID: `AcgoSgAAAADh3Rju4hNWpXhOiYjkxNqw`

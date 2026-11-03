@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 136 songs - 8 hr 11 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 138 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 134 | [Train of Thought](https://open.spotify.com/track/7A4kVgPas3xUgR6up9mhWd) | [Robbie Hail](https://open.spotify.com/artist/5MjcWlEZfsAx2JE7OwVmv4) | [Don't Know? Have a Go! \(Music From & Inspired By\)](https://open.spotify.com/album/27C5m8RY9mQz6nq0F2SHjk) | 4:44 |
 | 135 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 |
 | 136 | [Dry Your Eyes](https://open.spotify.com/track/4Yc6aY5A1X2ZHVuVHDNjMP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Price Of Your Love](https://open.spotify.com/album/7KGqtWbKkhlCcvC26uUS32) | 2:34 |
+| 137 | [Come la Prima Volta](https://open.spotify.com/track/6lSnvSpdVAnm9O6LUtXj5k) | [Erhes](https://open.spotify.com/artist/342B4eg1rwTI3poA0uKFOX) | [Come la Prima Volta](https://open.spotify.com/album/5DlpLvQTVQu4MeUrKKlwOg) | 3:29 |
+| 138 | [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 |
 
-Snapshot ID: `AAAZMHWx+t1zgB2+nr8Q+BwbWB0HY0ui`
+Snapshot ID: `AAAZMulQ8EnTKMSNiJrpuIzKHHQiIrR5`

@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 76741,
+  "num_followers": 76740,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Bu\u0142garskie centrum",
+        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
+      },
+      "artists": [
+        {
+          "name": "Pid\u017cama Porno",
+          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 263853,
       "name": "Trudno tak (razem byc nam ze soba)",
       "url": "https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Bu\u0142garskie centrum",
-        "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
-      },
-      "artists": [
-        {
-          "name": "Pid\u017cama Porno",
-          "url": "https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Motyle",
-        "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 175667,
-      "name": "Motyle",
-      "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Nic dwa razy (W. Szymborska)",
         "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 189000,
       "name": "Nic dwa razy (W. Szymborska)",
       "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Motyle",
+        "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 175667,
+      "name": "Motyle",
+      "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Tamta dziewczyna",
-        "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        },
-        {
-          "name": "Mateusz Zi\u00f3\u0142ko",
-          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
-        }
-      ],
-      "duration_ms": 222865,
-      "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
-      "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
         "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
       },
@@ -871,22 +851,6 @@
       "duration_ms": 190105,
       "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
       "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Poganie! Kochaj i Obra\u017caj",
-        "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3\u017ce Europy",
-          "url": "https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l"
-        }
-      ],
-      "duration_ms": 369200,
-      "name": "Jedwab",
-      "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -907,6 +871,42 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Tamta dziewczyna",
+        "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        },
+        {
+          "name": "Mateusz Zi\u00f3\u0142ko",
+          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
+        }
+      ],
+      "duration_ms": 222865,
+      "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
+      "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Poganie! Kochaj i Obra\u017caj",
+        "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3\u017ce Europy",
+          "url": "https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l"
+        }
+      ],
+      "duration_ms": 369200,
+      "name": "Jedwab",
+      "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Marek Grechuta - 40 piosenek",
         "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 104733,
       "name": "B\u0119dziesz moj\u0105 pani\u0105",
       "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -975,6 +959,22 @@
       "duration_ms": 186026,
       "name": "Nie k\u0142am \u017ce mnie kochasz",
       "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "\u015awiat si\u0119 pomyli\u0142",
         "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 210333,
       "name": "\u015awiat si\u0119 pomyli\u0142",
       "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
+      },
+      "artists": [
+        {
+          "name": "Piotr Zio\u0142a",
+          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
     },
     {
       "added_at": "2025-10-16 09:34:51",

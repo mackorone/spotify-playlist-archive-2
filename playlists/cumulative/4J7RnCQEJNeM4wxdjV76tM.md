@@ -4,7 +4,7 @@
 
 > old asl
 
-666 songs - 1 day 12 hr 41 min
+667 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [PEP IN MY STEP](https://open.spotify.com/track/3nixei9buXWmxkA4BjX8k4) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:32 | 2022-12-03 |  |
 | [Perc & Sex](https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Goat](https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr) | 2:34 | 2023-02-03 |  |
 | [PERRA](https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [PERRA](https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr) | 2:13 | 2026-09-07 |  |
+| [Personal](https://open.spotify.com/track/4vtODFep8AUV9fGfjMFyYH) | [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Personal](https://open.spotify.com/album/3MYb9GvMuaRTgtoOEAn7gm) | 4:52 | 2026-11-02 |  |
 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 | 2023-10-20 |  |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2023-12-01 |  |
 | [Pink Picasso](https://open.spotify.com/track/6cy1O1zjrgzzY0vwbnjvxC) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Pink Picasso](https://open.spotify.com/album/6b4WO06zFEubneWrBb82ll) | 2:30 | 2022-08-22 |  |

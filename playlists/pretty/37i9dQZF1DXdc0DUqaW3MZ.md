@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,152 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,165 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 37 | [Mr Drummer](https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Mr Drummer](https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z) | 2:26 |
 | 38 | [More Than A Little Bit \(feat\. Tinashe\)](https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:54 |
 | 39 | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\)](https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc) | 3:31 |
-| 40 | [Hypnotised \(feat\. Linden Jay\)](https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Linden Jay](https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC) | [Hypnotised](https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO) | 3:22 |
-| 41 | [Deja Vu](https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Con Cook](https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v) | [Deja Vu](https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD) | 2:05 |
+| 40 | [Deja Vu](https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Con Cook](https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v) | [Deja Vu](https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD) | 2:05 |
+| 41 | [Hypnotised \(feat\. Linden Jay\)](https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Linden Jay](https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC) | [Hypnotised](https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO) | 3:22 |
 | 42 | [If You Love Her](https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [If You Love Her](https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm) | 2:44 |
 | 43 | [Orpheus](https://open.spotify.com/track/6IN34fpoCdMi8fovTdjQfJ) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Orpheus](https://open.spotify.com/album/5Tex6HzPTc7LZw4ZkdoWqr) | 2:41 |
 | 44 | [Jingo](https://open.spotify.com/track/3BXDFXG7Reepaek3iJxmwG) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Jingo](https://open.spotify.com/album/71SPavyVb5rk56A8wRx2xy) | 3:20 |

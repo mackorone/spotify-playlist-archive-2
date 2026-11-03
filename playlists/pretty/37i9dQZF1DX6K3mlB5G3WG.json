@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABaLh8wi31f7cuVlJAaU18UQgl6G",
+  "snapshot_id": "AAAAAIXgXveBwtuZspjnfpbtF1rPBGM5",
   "tracks": [
     {
       "added_at": "2026-10-29 23:02:10",
@@ -55,6 +55,22 @@
       "duration_ms": 170582,
       "name": "Here You Come, There You Go",
       "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
+    },
+    {
+      "added_at": "2026-11-02 23:01:09",
+      "album": {
+        "name": "BUONANOTTE ANCHE STANOTTE",
+        "url": "https://open.spotify.com/album/2F8WdwMPcayDvddkNLKaeI"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "BUONANOTTE ANCHE STANOTTE",
+      "url": "https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l"
     },
     {
       "added_at": "2026-10-29 23:02:10",
@@ -769,7 +785,7 @@
         }
       ],
       "duration_ms": 136262,
-      "name": "OMBRE",
+      "name": "OMBRE (feat. Carl Brave, Sarah Toscano & Giuse The Lizia)",
       "url": "https://open.spotify.com/track/0RanD45tjNfmAZ516XHIIF"
     },
     {
@@ -1009,22 +1025,6 @@
       "url": "https://open.spotify.com/track/2hbrk0CNaGmQNZWlFhkTZg"
     },
     {
-      "added_at": "2026-10-15 22:02:45",
-      "album": {
-        "name": "Instinct",
-        "url": "https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/7fI6oGb9FBWHru0W4sI1Ca"
-    },
-    {
       "added_at": "2026-10-22 22:02:34",
       "album": {
         "name": "non volevo farci caso",
@@ -1147,42 +1147,6 @@
       "duration_ms": 170009,
       "name": "It's A New Day",
       "url": "https://open.spotify.com/track/1sQzpB8StECTvUbAKWF8eK"
-    },
-    {
-      "added_at": "2026-10-15 22:02:45",
-      "album": {
-        "name": "Due come noi due",
-        "url": "https://open.spotify.com/album/1JUn9SHjOvWXTaQZjBruJA"
-      },
-      "artists": [
-        {
-          "name": "SANTI FRANCESI",
-          "url": "https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR"
-        }
-      ],
-      "duration_ms": 199482,
-      "name": "Due come noi due",
-      "url": "https://open.spotify.com/track/6BZvp54X7G243O4QyFMal4"
-    },
-    {
-      "added_at": "2026-10-15 22:02:45",
-      "album": {
-        "name": "Lies (feat. Lana Del Rey)",
-        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Lies (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
       "added_at": "2026-10-22 22:02:34",

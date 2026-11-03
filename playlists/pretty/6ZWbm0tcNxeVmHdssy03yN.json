@@ -1,6 +1,6 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 52570,
+  "num_followers": 52566,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
@@ -150,6 +150,10 @@
         {
           "name": "mike.",
           "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        },
+        {
+          "name": "Stevie Daniels",
+          "url": "https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK"
         }
       ],
       "duration_ms": 161037,

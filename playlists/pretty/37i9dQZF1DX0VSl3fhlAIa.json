@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 11201,
+  "num_followers": 11229,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-10-20 15:37:24",
       "album": {
+        "name": "Planet Shining",
+        "url": "https://open.spotify.com/album/2cPylo5CrePCII64XeTZnT"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 351500,
+      "name": "been so long",
+      "url": "https://open.spotify.com/track/1mBq2k3CJq5bXWDrprKbNi"
+    },
+    {
+      "added_at": "2026-10-20 15:37:24",
+      "album": {
         "name": "Juliet is the moon",
         "url": "https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 203265,
       "name": "Over The Moon - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN"
-    },
-    {
-      "added_at": "2026-10-20 15:37:24",
-      "album": {
-        "name": "Planet Shining",
-        "url": "https://open.spotify.com/album/2cPylo5CrePCII64XeTZnT"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 351500,
-      "name": "been so long",
-      "url": "https://open.spotify.com/track/1mBq2k3CJq5bXWDrprKbNi"
     },
     {
       "added_at": "2026-10-20 15:37:24",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-10-20 15:37:24",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        }
-      ],
-      "duration_ms": 201442,
-      "name": "14",
-      "url": "https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3"
-    },
-    {
-      "added_at": "2026-10-20 15:37:24",
-      "album": {
         "name": "two thirty (feat. Jua)",
         "url": "https://open.spotify.com/album/6XZdMscKy5HYIZpuRbJu61"
       },
@@ -715,22 +699,50 @@
     {
       "added_at": "2026-10-20 15:37:24",
       "album": {
-        "name": "REFRESH: One",
-        "url": "https://open.spotify.com/album/4Umn1iYWkLNEY9S2Fvd2qk"
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 201442,
+      "name": "14",
+      "url": "https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3"
+    },
+    {
+      "added_at": "2026-10-20 15:37:24",
+      "album": {
+        "name": "ALL YOURS",
+        "url": "https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP"
       },
       "artists": [
         {
           "name": "Crystal Kay",
           "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        },
-        {
-          "name": "Do Hyun Kim",
-          "url": "https://open.spotify.com/artist/4v0r2FTwARi4Fq8KCV3YQg"
         }
       ],
-      "duration_ms": 236128,
-      "name": "Kirakuni - DK Remix",
-      "url": "https://open.spotify.com/track/1VRg90rpRv7usFnOQTqDKE"
+      "duration_ms": 280833,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq"
+    },
+    {
+      "added_at": "2026-10-20 15:37:24",
+      "album": {
+        "name": "Movin' on without you",
+        "url": "https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "B & C",
+      "url": "https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT"
     },
     {
       "added_at": "2026-10-20 15:37:24",
@@ -751,22 +763,6 @@
       "duration_ms": 276818,
       "name": "Love / Hate",
       "url": "https://open.spotify.com/track/2dr0U0kEHfZv19o0lESsPO"
-    },
-    {
-      "added_at": "2026-10-20 15:37:24",
-      "album": {
-        "name": "Movin' on without you",
-        "url": "https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "B & C",
-      "url": "https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT"
     },
     {
       "added_at": "2026-10-20 15:37:24",
@@ -803,18 +799,22 @@
     {
       "added_at": "2026-10-20 15:37:24",
       "album": {
-        "name": "ALL YOURS",
-        "url": "https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP"
+        "name": "REFRESH: One",
+        "url": "https://open.spotify.com/album/4Umn1iYWkLNEY9S2Fvd2qk"
       },
       "artists": [
         {
           "name": "Crystal Kay",
           "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        },
+        {
+          "name": "Do Hyun Kim",
+          "url": "https://open.spotify.com/artist/4v0r2FTwARi4Fq8KCV3YQg"
         }
       ],
-      "duration_ms": 280833,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq"
+      "duration_ms": 236128,
+      "name": "Kirakuni - DK Remix",
+      "url": "https://open.spotify.com/track/1VRg90rpRv7usFnOQTqDKE"
     },
     {
       "added_at": "2026-10-20 15:37:24",

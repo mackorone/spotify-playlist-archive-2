@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 393609,
       "name": "120",
       "url": "https://open.spotify.com/track/5yJ2cnPCyXa1txhV7sqUe3"
@@ -3109,6 +3109,28 @@
     },
     {
       "album": {
+        "name": "Blur The Lights",
+        "url": "https://open.spotify.com/album/7rRUvUOcPAMqsGlPx7skif"
+      },
+      "artists": [
+        {
+          "name": "Ayden J",
+          "url": "https://open.spotify.com/artist/1b9gw1kvcERZyK6reV59f6"
+        },
+        {
+          "name": "Rory Kite",
+          "url": "https://open.spotify.com/artist/0MpirHzAFrvcH1fB1iiVy2"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233606,
+      "name": "Blur The Lights",
+      "url": "https://open.spotify.com/track/4NLLGrdclcdRjSbb5ovupT"
+    },
+    {
+      "album": {
         "name": "Bo Bom",
         "url": "https://open.spotify.com/album/3rACKliAGAZreFE1lXuBXZ"
       },
@@ -4136,6 +4158,24 @@
       "duration_ms": 505061,
       "name": "Close To You - Meera (NO) Remix",
       "url": "https://open.spotify.com/track/5FMGzGnrdaXUgLmo91orI1"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2w1Cv9QCDZPnJFajuN9CUe"
+      },
+      "artists": [
+        {
+          "name": "KCE",
+          "url": "https://open.spotify.com/artist/2cBEKV8ZS4PnGEW5FJGvD7"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5lvwcNUEwjgohvoTkl1xMS"
     },
     {
       "album": {
@@ -5236,7 +5276,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 385655,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/4LsZKqXA3rv6jyTW09eW0y"
@@ -6186,7 +6226,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 244000,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/4Y5c8so8rAH7H7YeA4CNY9"
@@ -10735,6 +10775,32 @@
     },
     {
       "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/6TXyTXq5pbjKAqfZQAA3Bf"
+      },
+      "artists": [
+        {
+          "name": "NAAK",
+          "url": "https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385494,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/0iqlsYBNRPHDzCRnFfJ8eC"
+    },
+    {
+      "album": {
         "name": "Masingita",
         "url": "https://open.spotify.com/album/7BTDHUfDxkoXu3AQlBoVyO"
       },
@@ -11844,7 +11910,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 352423,
       "name": "Kaltron",
       "url": "https://open.spotify.com/track/1FK4IcCtkvkmkqb7n18PfI"
@@ -14858,7 +14924,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 615866,
       "name": "Mercy Of Time - Louie Vega Mix",
       "url": "https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5"
@@ -17371,6 +17437,24 @@
     },
     {
       "album": {
+        "name": "No Limits",
+        "url": "https://open.spotify.com/album/4TSlDNvEnli9PtxhBSgsPd"
+      },
+      "artists": [
+        {
+          "name": "Piero Farho",
+          "url": "https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222682,
+      "name": "No Limits",
+      "url": "https://open.spotify.com/track/47rAU1hUr8OX4uiCY2bgc1"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/3SPrihyat4NmFhCl25K0wD"
       },
@@ -17899,6 +17983,32 @@
     },
     {
       "album": {
+        "name": "Obaba",
+        "url": "https://open.spotify.com/album/4GphTjK12P1UElFxEmw40s"
+      },
+      "artists": [
+        {
+          "name": "DJ PHENOM SA",
+          "url": "https://open.spotify.com/artist/32pP40qRVZYWNVw401jWpW"
+        },
+        {
+          "name": "TRYPHONICK",
+          "url": "https://open.spotify.com/artist/1atsrs6Zxl9l8D1KGbWoZ2"
+        },
+        {
+          "name": "6L4CK0 5'9",
+          "url": "https://open.spotify.com/artist/5777SqadUctsi3Yac10Ill"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423000,
+      "name": "Obaba",
+      "url": "https://open.spotify.com/track/3DeJEEwFGkxxtBBwXc3x0G"
+    },
+    {
+      "album": {
         "name": "Obbatala",
         "url": "https://open.spotify.com/album/1DI9vExiR85U1srTsof7O0"
       },
@@ -18058,7 +18168,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 377704,
       "name": "Ogbon - Trekkah Rework TorQue MuziQ AfroTech Mix",
       "url": "https://open.spotify.com/track/58htvAnRHNLdR2sf0Qv9A6"
@@ -22705,6 +22815,36 @@
     },
     {
       "album": {
+        "name": "Speak To Me (Edit)",
+        "url": "https://open.spotify.com/album/78GRqnbuWUylb8fBGw4W0s"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "Robin Michelangelo",
+          "url": "https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186885,
+      "name": "Speak To Me - AM Mix Edit",
+      "url": "https://open.spotify.com/track/6tJQwfmNiz0zxDRDNRLzVH"
+    },
+    {
+      "album": {
         "name": "Angelos Rebirth Mix",
         "url": "https://open.spotify.com/album/2KvL2S5zjJpn72vYEouq6B"
       },
@@ -24903,6 +25043,32 @@
     },
     {
       "album": {
+        "name": "Tiki Tak Tak (Remix)",
+        "url": "https://open.spotify.com/album/0v7OZYJ1dGCSd6VMxXovzM"
+      },
+      "artists": [
+        {
+          "name": "Ms Gideon",
+          "url": "https://open.spotify.com/artist/51v7wpSpUkrT5NAP95nNKZ"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Untitled Audio",
+          "url": "https://open.spotify.com/artist/0P49O12yf6UlMdBsN7sPt0"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309332,
+      "name": "Tiki Tak Tak (Remix)",
+      "url": "https://open.spotify.com/track/73Uvm6CEKEQpbGdRtA2ih1"
+    },
+    {
+      "album": {
         "name": "Tiki Tiki 2.0",
         "url": "https://open.spotify.com/album/0R31RyLvvn97ugRSbOZuRJ"
       },
@@ -25242,7 +25408,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 354343,
       "name": "Total Eclipse",
       "url": "https://open.spotify.com/track/4xsBAEIcdKZ7kLgCJgQICf"
@@ -25406,6 +25572,28 @@
       "duration_ms": 448024,
       "name": "Tripidi",
       "url": "https://open.spotify.com/track/0OulcccYk94SUQMbWqvbfL"
+    },
+    {
+      "album": {
+        "name": "Trippin on Sirens",
+        "url": "https://open.spotify.com/album/4BnsvJ035Cj7o7YWtCXChY"
+      },
+      "artists": [
+        {
+          "name": "TWO SHADES (AT)",
+          "url": "https://open.spotify.com/artist/0g2VRwayEtuxd0cT8I5RtM"
+        },
+        {
+          "name": "KIAMI (MA)",
+          "url": "https://open.spotify.com/artist/1ij0gOOzWy8hQVcaeNV0Sy"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Trippin on Sirens",
+      "url": "https://open.spotify.com/track/5ysRc42NKXadCFoOZ9Oj2S"
     },
     {
       "album": {
@@ -26270,7 +26458,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 321627,
       "name": "Veracity",
       "url": "https://open.spotify.com/track/2w1mKjySnkunFqruWCK41t"
@@ -26622,7 +26810,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 269226,
       "name": "Wake & Chase",
       "url": "https://open.spotify.com/track/3QfyyU6kBVgnf0eCRpx7Mh"
@@ -26786,7 +26974,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 413114,
       "name": "Waves - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/0VaHtlHiUEWPAHqrRIHkYt"

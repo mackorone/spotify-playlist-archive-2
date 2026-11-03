@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "JOY JOY JOY JOY JOY",
+        "url": "https://open.spotify.com/album/6yvA7FrYqi5ZUqEjtAhiCL"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156822,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/0TGjtOgYbeqQmX48HwIXE9"
+    },
+    {
+      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1Cllu0S5C8lE2THPSOqbqw"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 156822,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3nX7nd1EKBg2nIIu0UCbLR"
@@ -760,10 +778,32 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 341200,
       "name": "Day For Singing - Live",
       "url": "https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ"
+    },
+    {
+      "album": {
+        "name": "Family Nights, Vol. 2: Day For Singing (Live)",
+        "url": "https://open.spotify.com/album/3zHlp33aNiQyOf3aZOCdgg"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341200,
+      "name": "Day For Singing - Live",
+      "url": "https://open.spotify.com/track/5VxOXyDjTu8A4aZjuPfz6g"
     },
     {
       "album": {
@@ -803,6 +843,36 @@
     },
     {
       "album": {
+        "name": "Climate Vigil Songs",
+        "url": "https://open.spotify.com/album/1WYSkMosvGhpU2Qj2eW55S"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        },
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        },
+        {
+          "name": "Page CXVI",
+          "url": "https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263650,
+      "name": "Declaring Glory (The Earth Sings its Refrain)",
+      "url": "https://open.spotify.com/track/0YFZClyQ5JHHE5Wnt8uoSV"
+    },
+    {
+      "album": {
         "name": "Declaring Glory (The Earth Sings its Refrain)",
         "url": "https://open.spotify.com/album/2PFCrEIXHm6Cx5F6Awk6qI"
       },
@@ -826,7 +896,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 263650,
       "name": "Declaring Glory (The Earth Sings its Refrain)",
       "url": "https://open.spotify.com/track/25iY8eJunK34VUw67CGfv2"
@@ -1003,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/7wDRRJld2736R2IPLokko5"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269811,
+      "name": "Feel Alright (Blessed)",
+      "url": "https://open.spotify.com/track/5giMyZ89ebLuao76RpSrpB"
+    },
+    {
+      "album": {
         "name": "Feel Alright (Blessed)",
         "url": "https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F"
       },
@@ -1014,7 +1102,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 271874,
       "name": "Feel Alright (Blessed)",
       "url": "https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK"
@@ -1473,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/66F8DVUIQC1veA0EbWEeSY"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162903,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/2ki5xTLpCC22aCro7nN5jb"
+    },
+    {
+      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/03UkgWNWGbM50qfR77lBaj"
       },
@@ -1604,6 +1710,28 @@
     {
       "album": {
         "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/62ekC6ijIXqTHK82GJDXXa"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190642,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/2Q7WnkljVFFVZ9K3d4hjUv"
+    },
+    {
+      "album": {
+        "name": "Good Morning Mercy",
         "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
       },
       "artists": [
@@ -1618,7 +1746,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 190666,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
@@ -1752,7 +1880,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 232887,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu"
@@ -1849,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "TORI.",
+        "url": "https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168975,
+      "name": "high water",
+      "url": "https://open.spotify.com/track/2c713T3XC5IHrLvSPPVrmZ"
+    },
+    {
+      "album": {
         "name": "high water",
         "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
       },
@@ -1860,7 +2006,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 168975,
       "name": "high water",
       "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
@@ -1925,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Plastic Wine",
+        "url": "https://open.spotify.com/album/6BGUxNTSVPx1k4DEsAXvEY"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223253,
+      "name": "honeydew (praise the Lord)",
+      "url": "https://open.spotify.com/track/1s9IxswYdEXxdLlTfyW26q"
+    },
+    {
+      "album": {
         "name": "honeydew (praise the Lord)",
         "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
       },
@@ -1936,7 +2100,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 224000,
       "name": "honeydew (praise the Lord)",
       "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
@@ -2222,7 +2386,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 154090,
       "name": "JOY",
       "url": "https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA"
@@ -2328,10 +2492,28 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 154743,
       "name": "Joy Is Coming",
       "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
+    },
+    {
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/4dr1faqErCgtZSeFhxbwsh"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154743,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/548nTrZtjfMpBXDWpUSrmr"
     },
     {
       "album": {
@@ -2741,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "My Light (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147390,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6"
+    },
+    {
+      "album": {
         "name": "My Light",
         "url": "https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2"
       },
@@ -2752,7 +2952,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 147390,
       "name": "My Light",
       "url": "https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5"
@@ -2796,6 +2996,24 @@
       "duration_ms": 258573,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
+    },
+    {
+      "album": {
+        "name": "Message Songs",
+        "url": "https://open.spotify.com/album/0aKSz0EkTEDZxzQEp7QPjv"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "New Every Morning",
+      "url": "https://open.spotify.com/track/0w5uEb8XOKx0j2R97tYYCv"
     },
     {
       "album": {
@@ -3264,7 +3482,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 214000,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8"
@@ -3326,7 +3544,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 196862,
       "name": "So Blessed",
       "url": "https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr"
@@ -3586,10 +3804,28 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 170119,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/51liDjbYOuhLfFCpGATjqF"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7FCtESEDvhh490XgKrtNUC"
     },
     {
       "album": {
@@ -3854,6 +4090,24 @@
     {
       "album": {
         "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
       },
       "artists": [
@@ -3864,7 +4118,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 230931,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA"
@@ -3900,7 +4154,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
@@ -3948,6 +4202,24 @@
       "duration_ms": 118518,
       "name": "This Is The Day (Morning Song)",
       "url": "https://open.spotify.com/track/0sv1feQALqnoSoEwbTSQ6C"
+    },
+    {
+      "album": {
+        "name": "There Is One Gospel (Live)",
+        "url": "https://open.spotify.com/album/6dfkBFn9hhfyQSpKpTV6OJ"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325247,
+      "name": "This Is The Day - Live",
+      "url": "https://open.spotify.com/track/2elsI3WXoTpIXAegX8Ylbc"
     },
     {
       "album": {
@@ -4133,6 +4405,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/51liDjbYOuhLfFCpGATjqF"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4DjhTfTtp9VdBKEKi1GoSF"
+    },
+    {
+      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
       },
@@ -4144,7 +4434,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 240357,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
@@ -4184,6 +4474,24 @@
       "duration_ms": 141473,
       "name": "Washington",
       "url": "https://open.spotify.com/track/0JD1yWAiRbqznyJlzO7Q9h"
+    },
+    {
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/4nkpz9liiSezKzNWvkmJSQ"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "Washington",
+      "url": "https://open.spotify.com/track/2yYTBk7ITtb4Gi2fcoDeE1"
     },
     {
       "album": {
@@ -4332,10 +4640,28 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 275726,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+    },
+    {
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/5EnqZzuFqbvlFkOTmnaBQa"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/2LHRDWQq6RBEEk4ZDKVcfZ"
     },
     {
       "album": {
@@ -4484,10 +4810,28 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 248440,
       "name": "You Have Made Me Glad",
       "url": "https://open.spotify.com/track/2o6XwbRgn42tK3EphA7Tkv"
+    },
+    {
+      "album": {
+        "name": "Glad",
+        "url": "https://open.spotify.com/album/6w7yoImOhJWOtZeTZOUstu"
+      },
+      "artists": [
+        {
+          "name": "Harvest",
+          "url": "https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "You Have Made Me Glad",
+      "url": "https://open.spotify.com/track/3qaAntYU7Y0CpIdG0W456i"
     },
     {
       "album": {
@@ -4514,6 +4858,32 @@
       "duration_ms": 141913,
       "name": "You Kept Me",
       "url": "https://open.spotify.com/track/0AZYXACuV2paDlQ0umLDZM"
+    },
+    {
+      "album": {
+        "name": "You Kept Me",
+        "url": "https://open.spotify.com/album/2DpZu2cveQxkJPRWB5iLY7"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Oliver Trinidad",
+          "url": "https://open.spotify.com/artist/365hr0ByB1a4rNYCCleBg4"
+        },
+        {
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141913,
+      "name": "You Kept Me",
+      "url": "https://open.spotify.com/track/66BUuEhltrCj6tkAmRxpGI"
     },
     {
       "album": {

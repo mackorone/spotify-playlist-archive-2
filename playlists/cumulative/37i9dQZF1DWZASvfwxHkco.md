@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: DJ HEARTSTRING
 
-845 songs - 1 day 19 hr 48 min
+846 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Infohazard](https://open.spotify.com/track/51e5r0rQraYmN6zflHv9mN) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Infohazard](https://open.spotify.com/album/4BKbfIYLYdEWatTBcXtogQ) | 4:29 | 2025-07-17 | 2025-07-25 |
 | [Inside Our Hearts](https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Inside Our Hearts](https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh) | 3:54 | 2025-07-24 | 2025-11-14 |
 | [Insomnia \- Disclosure's 2025 Edit](https://open.spotify.com/track/4cgoqLcfYRBesDEmSVR1Ek) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Insomnia \(Disclosure's 2025 Edit\)](https://open.spotify.com/album/4YfEXbb3DjWKLFiW67pDqx) | 4:20 | 2025-11-13 | 2025-11-21 |
-| [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 | 2026-06-25 |  |
+| [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 | 2026-06-25 | 2026-11-03 |
 | [iPod Touch \- Madeon Remix](https://open.spotify.com/track/2gRrj7LQZMTtUQv0gvhHpQ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [iPod Touch \(Madeon Remix\)](https://open.spotify.com/album/43tYbnCgnbu1MlJU51XNyS) | 3:34 | 2026-08-30 | 2026-10-24 |
 | [Iris](https://open.spotify.com/track/3zlLhEnV9yMRRSE3bFS0Xe) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Iris](https://open.spotify.com/album/0pQECEqaIniCnSEwn2HzLO) | 3:19 | 2026-10-23 |  |
 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 | 2024-11-21 |  |
@@ -467,6 +467,7 @@
 | [Lose You \- Felix Jaehn Remix](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lose You \(Felix Jaehn Remix\)](https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu) | 2:36 | 2023-05-11 | 2023-06-23 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-05-30 | 2024-06-07 |
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-06-01 | 2023-06-16 |
+| [Lost in the View](https://open.spotify.com/track/3Ni8Ttg0e947jzRD217ZEY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost in the View](https://open.spotify.com/album/1vpGoAyG0cM09957pdjc02) | 4:14 | 2026-10-23 |  |
 | [Love Is Kind](https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love Is Kind](https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU) | 4:07 | 2026-05-07 | 2026-06-26 |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-15 | 2026-09-23 |
 | [Love Me](https://open.spotify.com/track/5TZnCu5vibZW8AqEFgsqgY) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH1](https://open.spotify.com/album/0Qqcg8QRranPHtp3IkGN1v) | 2:29 | 2024-02-29 | 2024-04-26 |

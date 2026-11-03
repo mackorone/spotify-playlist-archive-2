@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 154100,
+  "num_followers": 154136,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Aaliyah",
+        "url": "https://open.spotify.com/album/1ftUEfy0whqUibQrUY6wNT"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/54uLTcjNraWuwjqLrDhG23"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
@@ -39,6 +55,38 @@
       "duration_ms": 328680,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "The Rest of New Order",
+        "url": "https://open.spotify.com/album/7cIIPSmmeDUaChBSJElK78"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 612040,
+      "name": "Confusion - Pump Panel Reconstruction Mix",
+      "url": "https://open.spotify.com/track/6Ap85jPfZq0DIgglSKPf55"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "The Fat of the Land",
+        "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 343386,
+      "name": "Smack My Bitch Up",
+      "url": "https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -59,18 +107,50 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "I Care 4 U",
-        "url": "https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s"
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/6dp3XPQJuC7qP7TaEFVgL5"
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Higher State of Consciousness",
+        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness (Tweekin Acid Funk)",
+      "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        }
+      ],
+      "duration_ms": 353801,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4mNwbj8hTUjbyZSHdQVIuL"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -91,6 +171,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/3BAjbq6blqHla1TgJUT7U7"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/4rvnBqTmx66LlCJZLbLAOY"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Probl\u00e8mes D'amour (All Versions)",
         "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
       },
@@ -103,6 +199,90 @@
       "duration_ms": 420653,
       "name": "Probl\u00e8mes d'Amour - Original",
       "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "At Night (Remixes)",
+        "url": "https://open.spotify.com/album/5PrSFVAbHF6jwjQfmaiCjm"
+      },
+      "artists": [
+        {
+          "name": "Shakedown",
+          "url": "https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 431281,
+      "name": "At Night - Peggy Gou's Acid Journey Remix",
+      "url": "https://open.spotify.com/track/4ysVtA41HJ3ezbaGr59egu"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262978,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "No Way Back",
+        "url": "https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz"
+        }
+      ],
+      "duration_ms": 295911,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -139,6 +319,38 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "YosepH",
+        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "I Love Acid",
+      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Defiant Order",
+        "url": "https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Defiant order",
+      "url": "https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
@@ -155,6 +367,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "DJ-Kicks (Motor City Drum Ensemble) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx"
+      },
+      "artists": [
+        {
+          "name": "Recloose",
+          "url": "https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S"
+        }
+      ],
+      "duration_ms": 345640,
+      "name": "Cardiology (Isol\u00e9e Mix) - Mixed",
+      "url": "https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Electronic Body Music",
         "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
       },
@@ -167,6 +395,22 @@
       "duration_ms": 444631,
       "name": "Himmel & Hoelle",
       "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Jack to the Sound",
+        "url": "https://open.spotify.com/album/72g6lpxWvUsF9kARK9ry5w"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        }
+      ],
+      "duration_ms": 272419,
+      "name": "Acid Thunder",
+      "url": "https://open.spotify.com/track/3MH1A1BJfWijAcXg622pjX"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -235,6 +479,70 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/4WYhXrhMUSMsbHtgoKgSCx"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "Warsaw (White Light Version)",
+      "url": "https://open.spotify.com/track/2gF5ZsKfoGV8ZevuYAAbou"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "stuff i used to do",
+        "url": "https://open.spotify.com/album/7BWQFRvZsMCni8DQA8JURn"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 141304,
+      "name": "Charlie can't dance",
+      "url": "https://open.spotify.com/track/2F1qczJlqbUINHspaXem0H"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Substance Abuse",
         "url": "https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw"
       },
@@ -251,6 +559,38 @@
       "duration_ms": 306143,
       "name": "Substance Abuse",
       "url": "https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Better Living Through Chemistry",
+        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Everybody Needs A 303",
+      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
+      },
+      "artists": [
+        {
+          "name": "Cro-Magnon",
+          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
+        }
+      ],
+      "duration_ms": 432217,
+      "name": "Patchwork Jazz",
+      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -287,18 +627,18 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Alternative",
-        "url": "https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw"
+        "name": "Trax Classix",
+        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Miserablism",
-      "url": "https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F"
+      "duration_ms": 178666,
+      "name": "Land Of Confusion",
+      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -315,6 +655,138 @@
       "duration_ms": 465312,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Phuture and Other Classics from DJ Pierre",
+        "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 709466,
+      "name": "Acid Trax",
+      "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "The Garden of Eden",
+        "url": "https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX"
+      },
+      "artists": [
+        {
+          "name": "The Garden Of Eden",
+          "url": "https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX"
+        },
+        {
+          "name": "Mark Tinley",
+          "url": "https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco"
+        },
+        {
+          "name": "Pam Hogg",
+          "url": "https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG"
+        }
+      ],
+      "duration_ms": 241875,
+      "name": "The Garden of Eden (A Himalayan Song)",
+      "url": "https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/2KOVy014uNW7OST5QsE97N"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "Addison Groove",
+          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
+        }
+      ],
+      "duration_ms": 204579,
+      "name": "Acid Bit (feat. Addison Groove)",
+      "url": "https://open.spotify.com/track/06wu6GuwDhHSUX03V6EUZm"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+        }
+      ],
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -339,6 +811,26 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK"
+      },
+      "artists": [
+        {
+          "name": "Pierre's Pfantasy Club",
+          "url": "https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk"
+        },
+        {
+          "name": "J.R.",
+          "url": "https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP"
+        }
+      ],
+      "duration_ms": 422960,
+      "name": "Fantasy Girl - Acid Mix",
+      "url": "https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -351,490 +843,6 @@
       "duration_ms": 324668,
       "name": "Ready My Black Asz",
       "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "For Those Who",
-        "url": "https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 386070,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Blade The Soundtrack",
-        "url": "https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        },
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 612101,
-      "name": "Confusion - Pump Panel Reconstruction Mix",
-      "url": "https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "At Night (Remixes)",
-        "url": "https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8"
-      },
-      "artists": [
-        {
-          "name": "Shakedown",
-          "url": "https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 431281,
-      "name": "At Night - Peggy Gou's Acid Journey Remix",
-      "url": "https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Higher State Of Consciousness",
-        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness - Tweekin Acid Funk",
-      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "The Fat Of The Land",
-        "url": "https://open.spotify.com/album/1NNFxBa0nbBCSDItQhUuTc"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 342733,
-      "name": "Smack My Bitch Up",
-      "url": "https://open.spotify.com/track/3Ed5J0DKfPFEXZmv7zVgBa"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Washing Machine",
-        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fingers",
-          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Jack to the Sound",
-        "url": "https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh"
-      },
-      "artists": [
-        {
-          "name": "Fast Eddie",
-          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
-        }
-      ],
-      "duration_ms": 272419,
-      "name": "Acid Thunder",
-      "url": "https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "White Light",
-        "url": "https://open.spotify.com/album/1fdvWcji1NsAK4qqQ3e3F9"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 345520,
-      "name": "Warsaw - White Light Version",
-      "url": "https://open.spotify.com/track/09P3YUNZ63OdaMhaxFvfbM"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Better Living Through Chemistry (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 348826,
-      "name": "Everybody Needs A 303",
-      "url": "https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 262978,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "No Way Back",
-        "url": "https://open.spotify.com/album/3KbCMnKbqT2E7iesr9BsXR"
-      },
-      "artists": [
-        {
-          "name": "Adonis",
-          "url": "https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz"
-        }
-      ],
-      "duration_ms": 296960,
-      "name": "No Way Back - Vocal Mix",
-      "url": "https://open.spotify.com/track/6bvsbo7BBOiRNzpsN8Pmcz"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Frequencies",
-        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
-      },
-      "artists": [
-        {
-          "name": "LFO",
-          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "LFO - Leeds Warehouse Mix",
-      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Defiant Order EP",
-        "url": "https://open.spotify.com/album/0Hqvo8eP1Kov1dxTkL7bwY"
-      },
-      "artists": [
-        {
-          "name": "Birdy Nam Nam",
-          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Defiant Order - Orignal Mix",
-      "url": "https://open.spotify.com/track/4eyaNZGe1fJ6UDqJdxquqI"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "YosepH",
-        "url": "https://open.spotify.com/album/26q3SgrURehSidTag2eV0B"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "I Love Acid",
-      "url": "https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "HAVEL",
-        "url": "https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7"
-      },
-      "artists": [
-        {
-          "name": "FJAAK",
-          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
-        },
-        {
-          "name": "Koogan",
-          "url": "https://open.spotify.com/artist/0NDsaErrMCFW3S8PmwO5za"
-        }
-      ],
-      "duration_ms": 210449,
-      "name": "TAKE YOUR LIFE",
-      "url": "https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Trax Classix",
-        "url": "https://open.spotify.com/album/1XQXorGVNfyRxDqVzKgAjx"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Land Of Confusion",
-      "url": "https://open.spotify.com/track/45WAqLonACPBfTZd6ye5tn"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Double Cup",
-        "url": "https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8"
-      },
-      "artists": [
-        {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "Addison Groove",
-          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Acid Bit",
-      "url": "https://open.spotify.com/track/62qTgeNdswNbPAsY9qm8vk"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "The Feast Of The Broken Heart",
-        "url": "https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        },
-        {
-          "name": "Gustaph",
-          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
-        }
-      ],
-      "duration_ms": 281815,
-      "name": "Do You Feel The Same?",
-      "url": "https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Church of Danceology",
-        "url": "https://open.spotify.com/album/2HDBCM1fDFZYuH0SVGMQmL"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 714133,
-      "name": "Acid Trax",
-      "url": "https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "The Garden of Eden",
-        "url": "https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv"
-      },
-      "artists": [
-        {
-          "name": "The Garden Of Eden",
-          "url": "https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af"
-        }
-      ],
-      "duration_ms": 241875,
-      "name": "The Garden of Eden (A Himalayan Song)",
-      "url": "https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Phuture And Other Classics From DJ Pierre",
-        "url": "https://open.spotify.com/album/48utdF1Edpn7ALtSVGIRu8"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 370280,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/7zuSn5nyxCYD1xSdtxR0w7"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "DJ-Kicks (Motor City Drum Emsemble)",
-        "url": "https://open.spotify.com/album/62K6JylULgZWs9fnqlurpM"
-      },
-      "artists": [
-        {
-          "name": "Recloose",
-          "url": "https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S"
-        }
-      ],
-      "duration_ms": 345640,
-      "name": "Cardiology - Isol\u00e9e Mix",
-      "url": "https://open.spotify.com/track/3ca2ftwQ42stye9qgURqtX"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/7rm9CZYU3YMO2QNuxzNda4"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/5b1Ux2Mw6WLaasgmf4sBQ4"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/2DSRpIJMFmV2cEUxGq2N2H"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
-        }
-      ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu"
     }
   ],
   "unique_name": "303 Classics",

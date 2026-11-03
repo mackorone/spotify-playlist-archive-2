@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,262 songs - 3 day 9 hr 38 min
+1,264 songs - 3 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Beautiful Seven](https://open.spotify.com/track/3LIOzrflkzUxW5GFeBCkXx) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Woyaya](https://open.spotify.com/album/72hcKrMgA7vVJLAOAKW8c2) | 6:46 | 2024-05-27 |  |
 | [Bed Case](https://open.spotify.com/track/2PO7jULh5zITUydxMJSTzv) | [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS) | [Out of the Garden](https://open.spotify.com/album/53sM38B5s8UptdvmAYJwWk) | 2:50 | 2024-01-18 | 2024-01-22 |
 | [Before Today](https://open.spotify.com/track/1Emw4zGXubKhKshl6U27Eb) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded](https://open.spotify.com/album/2mKMc9g06B2uYTaYRYqpAk) | 4:18 | 2023-06-24 | 2023-07-21 |
+| [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 | 2026-11-02 |  |
 | [Beginner's Luck](https://open.spotify.com/track/0jc2df1zmrGPnLZhcPyEuR) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gumboot Soup](https://open.spotify.com/album/7uDfs1lmoDlKJTGjLaipEg) | 4:25 | 2024-01-15 | 2024-01-17 |
 | [Bella Donna \- 2016 Remaster](https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:22 | 2026-08-21 |  |
 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 | 2022-04-21 | 2023-12-14 |
@@ -1115,6 +1116,7 @@
 | [The State I'm In](https://open.spotify.com/track/6EVioebGhehJKoNrpn4WK3) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/3MSxGvwpiKePFsygmWT3G9) | 4:57 | 2023-02-19 | 2026-09-17 |
 | [The Sweet Science](https://open.spotify.com/track/73bJahLiTR2RAfXd3aNn1p) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 1:55 | 2024-01-15 |  |
 | [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 | 2026-02-24 |  |
+| [The thing](https://open.spotify.com/track/5R56hCdQMPGW4XXNoCqMK9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 2:08 | 2026-11-02 |  |
 | [The Trail](https://open.spotify.com/track/6YBjT06zsLzaH33nToh2Cb) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 2:55 | 2024-04-07 |  |
 | [The Truth](https://open.spotify.com/track/1Zjjl59MPvGqR5msmQexs3) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [B\-Room \(Deluxe Edition\)](https://open.spotify.com/album/0YfNZx0s2EdfINsSoxqDe8) | 4:26 | 2024-01-01 | 2024-01-06 |
 | [The Universe in a Nutshell](https://open.spotify.com/track/5h19UPuV2Zbe0ERx4nQ0Bx) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 7:53 | 2026-01-01 |  |

@@ -404,7 +404,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 66000,
       "name": "11 Bagatelles, Op. 119: 5. Risoluto",
       "url": "https://open.spotify.com/track/666BK7Kyuex44Y9l6XYaen"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 90845,
       "name": "18 Pieces, Op. 72: XVII. Pass\u00e9 lointain - Excerpt",
       "url": "https://open.spotify.com/track/07PRfuvAr1TyQEhKGnl2qT"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 80266,
       "name": "6 Morceaux, Op. 19: IV. Nocturne - Excerpt",
       "url": "https://open.spotify.com/track/4DDIO0gegafqPeMDYt2QDa"
@@ -3480,6 +3480,32 @@
       "duration_ms": 220800,
       "name": "Adrenaline Addict",
       "url": "https://open.spotify.com/track/5Yi6eWcwVdEb9Cl8KPxLrB"
+    },
+    {
+      "album": {
+        "name": "Maxi Kaputt",
+        "url": "https://open.spotify.com/album/71OsPVP0dUjuQ5GWsGp6FQ"
+      },
+      "artists": [
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Drumtomski",
+          "url": "https://open.spotify.com/artist/23nHfPBinQagZQCUXaMfnP"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180870,
+      "name": "Affentheater",
+      "url": "https://open.spotify.com/track/0tPZCUono3WrhYZmyGp6Wg"
     },
     {
       "album": {
@@ -8758,7 +8784,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 288573,
       "name": "Berceuse in D Flat Major, Op. 57",
       "url": "https://open.spotify.com/track/0DL8Iin76V7wiiL7joLBx1"
@@ -11122,7 +11148,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 149674,
       "name": "Brutta Sensazione",
       "url": "https://open.spotify.com/track/1ov8H60x1tpiVZwYTEH7fT"
@@ -20714,7 +20740,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 290194,
       "name": "El amor espera",
       "url": "https://open.spotify.com/track/4KCTos1Dz6SsdstZxpK7Us"
@@ -42694,7 +42720,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 212302,
       "name": "Los dinosaurios",
       "url": "https://open.spotify.com/track/4QkfesUSZqpsnjXOL6SZN7"
@@ -47456,7 +47482,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 295333,
       "name": "My Horse Named Dream",
       "url": "https://open.spotify.com/track/3BJK1smu2ZKBLVNxgSVmkC"
@@ -49692,7 +49718,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 395000,
       "name": "Nocturne No. 18 in E, Op. 62 No. 2",
       "url": "https://open.spotify.com/track/4feyXGNvCHbo0n2D01h9C2"
@@ -50836,7 +50862,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 231666,
       "name": "Old Times Away",
       "url": "https://open.spotify.com/track/4EoriuWpmmo0bhckGuUjxY"
@@ -53968,6 +53994,66 @@
       "duration_ms": 218897,
       "name": "Piano Concerto No. 1, Op. 23",
       "url": "https://open.spotify.com/track/09uaZciooMOsBpiluffpt9"
+    },
+    {
+      "album": {
+        "name": "A Selection: Kovacevich plays Mozart, Beethoven & Chopin",
+        "url": "https://open.spotify.com/album/39nQQxYqTWjpuA4769LdhT"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 824000,
+      "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/0VMrhPYpeGjTdDLTPFobUS"
+    },
+    {
+      "album": {
+        "name": "A Selection: Kovacevich plays Mozart, Beethoven & Chopin",
+        "url": "https://open.spotify.com/album/39nQQxYqTWjpuA4769LdhT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 811000,
+      "name": "Piano Concerto No. 21 in C, K.467: 1. Allegro maestoso",
+      "url": "https://open.spotify.com/track/6ayq0YYCk9D9gN77YS9n6q"
     },
     {
       "album": {
@@ -79322,7 +79408,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 427826,
       "name": "Violin Concerto No. 3 in G Major, K. 216: II. Adagio",
       "url": "https://open.spotify.com/track/0QXfdvqHWXPc39KFT6RN9l"

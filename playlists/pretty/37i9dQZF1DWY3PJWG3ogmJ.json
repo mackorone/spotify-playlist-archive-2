@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 726904,
+  "num_followers": 726940,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
+        "name": "Frozen In Time",
+        "url": "https://open.spotify.com/album/1fzDounFHdiVT5Zg9MKcFh"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Redneck Stomp",
+      "url": "https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
         "name": "Murderous Intent",
         "url": "https://open.spotify.com/album/6B19JPQx2Tk7iGzF6m8jCo"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 112613,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/3idCOc9hW8wjFVd9SWvwJM"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
-        "name": "Frozen In Time",
-        "url": "https://open.spotify.com/album/1fzDounFHdiVT5Zg9MKcFh"
-      },
-      "artists": [
-        {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Redneck Stomp",
-      "url": "https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Playing the Victim",
-        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
-      },
-      "artists": [
-        {
-          "name": "Blood Youth",
-          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Playing the Victim",
-      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 275807,
       "name": "Chainbreaker",
       "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
+        "name": "Playing the Victim",
+        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
+      },
+      "artists": [
+        {
+          "name": "Blood Youth",
+          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Playing the Victim",
+      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Ghosts Among the Obelisks",
-        "url": "https://open.spotify.com/album/4UUKpy2qLh91PjPSKUy6Cw"
-      },
-      "artists": [
-        {
-          "name": "Wolves In The Throne Room",
-          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
-        }
-      ],
-      "duration_ms": 520521,
-      "name": "Ghosts Among the Obelisks",
-      "url": "https://open.spotify.com/track/1fioqJk4n6pihLIsJMSGR5"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
         "name": "Heavy Lies The Crown",
         "url": "https://open.spotify.com/album/4nb8gewxZnfoOmqQEwZ3qa"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 339640,
       "name": "Firefight",
       "url": "https://open.spotify.com/track/1dYkWaH2SMZ3ZX0wOkVCBN"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
+        "name": "Ghosts Among the Obelisks",
+        "url": "https://open.spotify.com/album/4UUKpy2qLh91PjPSKUy6Cw"
+      },
+      "artists": [
+        {
+          "name": "Wolves In The Throne Room",
+          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+        }
+      ],
+      "duration_ms": 520521,
+      "name": "Ghosts Among the Obelisks",
+      "url": "https://open.spotify.com/track/1fioqJk4n6pihLIsJMSGR5"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Narcissus",
-        "url": "https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p"
+        "name": "Army of Cops",
+        "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
       },
       "artists": [
         {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+          "name": "Pig Destroyer",
+          "url": "https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7"
         }
       ],
-      "duration_ms": 188972,
-      "name": "Narcissus",
-      "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
+      "duration_ms": 198333,
+      "name": "Army of Cops",
+      "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
     }
   ],
   "unique_name": "Extreme Metal Workout",

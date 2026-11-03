@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Shoreline Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,967 likes - 41 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,973 likes - 41 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 8 | [SAME DAY SERVICE](https://open.spotify.com/track/54TQ42U3wuYx0J2GbvFNwz) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [SAME DAY SERVICE](https://open.spotify.com/album/7C124gCMEQrwhvtT8s0Hfi) | 2:39 |
 | 9 | [Hard 2 Luv](https://open.spotify.com/track/1XuTclE1rgHk5grtTUZflA) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [TK RUN IT UP](https://open.spotify.com/artist/2nmXKh1URuUD1DaIoWJ9ww) | [Hard 2 Luv](https://open.spotify.com/album/1tZ2ihwKZEnAzYp950Xvkj) | 2:20 |
 | 10 | [Trap Bout it](https://open.spotify.com/track/3PnfLc41TAZJDdjnrArMuZ) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Trap Bout it](https://open.spotify.com/album/4JR2wdoilfwZ08gGZj8qXU) | 2:45 |
-| 11 | [drinking everyday](https://open.spotify.com/track/56E3HEgbXLpnXAklEG9GEk) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [drinking everyday](https://open.spotify.com/album/56BwrMZDeexBcRpxCh8g1Z) | 2:34 |
-| 12 | [Stick Up](https://open.spotify.com/track/3gB6giw6EyJ1thcB0H2ksZ) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Stick Up](https://open.spotify.com/album/4xgzvXXMVNgz9VSaomSVTa) | 2:23 |
+| 11 | [Drinking Everyday](https://open.spotify.com/track/2UGa0jT6osKL3hxGqQhmRV) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Drinking Everyday](https://open.spotify.com/album/5RJ2zB3zQyFe9SM8yNBgc4) | 2:34 |
+| 12 | [Stick Up](https://open.spotify.com/track/3bYTaxjHO74zrVnNIl7lZ9) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Stick Up](https://open.spotify.com/album/34iqmrHZpyH3hzKLcUkwud) | 2:23 |
 | 13 | [Passion](https://open.spotify.com/track/4ukOHSbhNj7MOcJ5rj8mrM) | [Hi\-Tone](https://open.spotify.com/artist/0MaR6oaqiBHlmaZYkskmcf), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [KYO!](https://open.spotify.com/artist/3kde0RLSvCYkfgFTDG1Hyw) | [Passion](https://open.spotify.com/album/3zFsVtGrVyuOneewVa9HEn) | 3:15 |
 | 14 | [Spanglish](https://open.spotify.com/track/56jbISNCBnl8vOAPZ5uryP) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [MixedByCrook](https://open.spotify.com/artist/1EVXd5olyLoZ2iZAJvEl0s), [JEW3LZ](https://open.spotify.com/artist/2TIxX1Qr1jiXwUeYImYNBq) | [Spanglish](https://open.spotify.com/album/1HNT63aABAfBenQeAGUG4x) | 2:32 |
-| 15 | [No Peekin'](https://open.spotify.com/track/5eZV1E1wUEtBTSLmEx8juR) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [No Peekin'](https://open.spotify.com/album/6kmjvF7OqpHyg9mfW2osIg) | 2:35 |
+| 15 | [No Peekin'](https://open.spotify.com/track/6C1trwtSTvKwgjEzu77HOT) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [We Meet Again](https://open.spotify.com/album/3p9bhdYEp7E9TOXBXrcBrB) | 2:35 |
 | 16 | [Don't Play With Me](https://open.spotify.com/track/16HQbOI9CRjlMNv6pI68Hh) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Amanda Perez](https://open.spotify.com/artist/5DqmNLPM1kAbSBQk2FMm6b) | [Don't Play With Me](https://open.spotify.com/album/4WlMp6yWkDrw7YBzabQA3X) | 3:44 |
 | 17 | [Loco \(feat\. Migos\) \- Remix](https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M) | [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Clumsybeatz](https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy) | [Loco \(feat\. Migos\) \[Remix\]](https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q) | 2:37 |
 | 18 | [Crash Out](https://open.spotify.com/track/2GJU6gafTyvkbr5g1hqL7k) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Bravo The BagChaser](https://open.spotify.com/album/4MhtnMPTnCx8oXCG0iWBEM) | 2:02 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från FELICIA, Håkan Hellström och waterbaby med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,857 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,848 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POPSTAR](https://open.spotify.com/track/3ZXZQ66qgemq9bIXXlq5lp) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [POPSTAR](https://open.spotify.com/album/5OoouTPW957KsljluBwi8a) | 2:22 |
 | 2 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
-| 3 | [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 |
+| 3 | [Bakom oss bara dimma](https://open.spotify.com/track/2d4EgG32xHf0cPvBS0J6Ow) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:13 |
 | 4 | [SPRING!](https://open.spotify.com/track/3Lk9FkI4gw40YTiNKCLqL6) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [SPRING!](https://open.spotify.com/album/3tf7LAVrErUo28ORAJWHb2) | 2:18 |
 | 5 | [Creek](https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Creek](https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO) | 1:53 |
 | 6 | [Wait, Don't Go!](https://open.spotify.com/track/3LuO0CKLTxVeOAXKymtidK) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Wait, Don't Go!](https://open.spotify.com/album/6rxCdPdejAJKdGo3yOQiGC) | 2:31 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [We Used To Dance Here](https://open.spotify.com/track/6vbgxOSyw64p5VzkQOHT8g) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [We Used To Dance Here](https://open.spotify.com/album/3DsmScR385rdRLYzrwt1RW) | 2:51 |
 | 97 | [You Are What You Want](https://open.spotify.com/track/282G5ObH4Vfbi2LBRmsUvz) | [CLENITE](https://open.spotify.com/artist/5fBUkkX9ffSVPSZQMVr6VY) | [You Are What You Want](https://open.spotify.com/album/6PThHlz34gCIAV8mpFlX6Q) | 3:40 |
 
-Snapshot ID: `AAAAADFHpy5KAaKdTD2Sxh9D1/o24ZDb`
+Snapshot ID: `AAAAADpiIkpqXmd6YUOyoZMchM4Z6xoN`

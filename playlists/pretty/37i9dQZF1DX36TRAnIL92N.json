@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 515887,
+  "num_followers": 516084,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-16 04:01:04",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2026-10-16 04:01:04",
+      "album": {
         "name": "Unterwelt",
         "url": "https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 165095,
       "name": "Unterwelt",
       "url": "https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh"
-    },
-    {
-      "added_at": "2026-10-16 04:01:04",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2026-10-16 04:01:04",

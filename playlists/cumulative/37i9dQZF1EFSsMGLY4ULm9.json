@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "Tem Livramento",
+        "url": "https://open.spotify.com/album/0sp0Ugzr8n7H78TzxgKPPX"
+      },
+      "artists": [
+        {
+          "name": "Raquel Silva",
+          "url": "https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz"
+        },
+        {
+          "name": "Debora Torres",
+          "url": "https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401680,
+      "name": "Tem Livramento",
+      "url": "https://open.spotify.com/track/1ASaEiRmjzhNTvjBEYgjB9"
+    },
+    {
+      "album": {
         "name": "Tristezas e Alegrias",
         "url": "https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk"
       },

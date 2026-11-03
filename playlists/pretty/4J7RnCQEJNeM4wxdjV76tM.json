@@ -6,7 +6,7 @@
     "name": "jas",
     "url": "https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4"
   },
-  "snapshot_id": "AAAEamEZesxDsrG7FRX/W2OGBJJZYdAv",
+  "snapshot_id": "AAAEa0hURguWPEd9xASPimtSjt6nRQvN",
   "tracks": [
     {
       "added_at": "2022-02-17 21:09:23",
@@ -6384,7 +6384,7 @@
           "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
         }
       ],
-      "duration_ms": 117577,
+      "duration_ms": 117603,
       "name": "Playboy Love",
       "url": "https://open.spotify.com/track/2JDcvLJ2x9rSImrf86n38X"
     },
@@ -11255,6 +11255,26 @@
       "duration_ms": 133548,
       "name": "PERRA",
       "url": "https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ"
+    },
+    {
+      "added_at": "2026-11-02 23:02:15",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3MYb9GvMuaRTgtoOEAn7gm"
+      },
+      "artists": [
+        {
+          "name": "Da Africa Deep",
+          "url": "https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 292268,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4vtODFep8AUV9fGfjMFyYH"
     }
   ],
   "unique_name": "$$",

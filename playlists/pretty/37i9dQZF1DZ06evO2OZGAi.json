@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACdfuyPNRvmNmWDH9Hm9VMm",
+  "snapshot_id": "auaBAAAAAADbIxpLdAmZKzcGdGcx016/",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 248784,
-      "name": "Los Finos",
-      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
+      "duration_ms": 192640,
+      "name": "\u00c9chale la Culpa al Rock N' Roll",
+      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 248784,
+      "name": "Los Finos",
+      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pagando el precio",
         "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
       "artists": [
         {
@@ -500,25 +516,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 192640,
-      "name": "\u00c9chale la Culpa al Rock N' Roll",
-      "url": "https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Ahora Volar\u00e9",
-      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
+      "duration_ms": 155000,
+      "name": "Vibraciones Positivas",
+      "url": "https://open.spotify.com/track/1yPdstPBlfsmVewyVb65hZ"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Vibraciones Positivas",
-      "url": "https://open.spotify.com/track/1yPdstPBlfsmVewyVb65hZ"
+      "duration_ms": 179000,
+      "name": "Ahora Volar\u00e9",
+      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
     },
     {
       "added_at": null,

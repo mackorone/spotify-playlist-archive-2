@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 270626,
       "name": "lulu.",
       "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 230453,
       "name": "\u30a2\u30a4\u30c9\u30eb\u30d1\u30ef\u30fc",
       "url": "https://open.spotify.com/track/3NPdo1QXqBKIoQAX2xSCRJ"
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 235206,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
@@ -4528,6 +4528,24 @@
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278506,
+      "name": "\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/7ikOwlVju9HYUKthPiNHwr"
     },
     {
       "album": {

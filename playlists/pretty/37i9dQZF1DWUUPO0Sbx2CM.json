@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 241391,
+  "num_followers": 241427,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "ASOMBROSO",
+        "url": "https://open.spotify.com/album/3GcC6quUiV2rD3UdgreWqG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 190143,
+      "name": "ASOMBROSO",
+      "url": "https://open.spotify.com/track/30CNQBNkzwcQI5CeHM8RH0"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6Gk2M266ymr2rz4TN2qmbO"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 200655,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3zYghOCvqJ8fZJl8pPtWyw"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "ASOMBROSO",
-        "url": "https://open.spotify.com/album/3GcC6quUiV2rD3UdgreWqG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 190143,
-      "name": "ASOMBROSO",
-      "url": "https://open.spotify.com/track/30CNQBNkzwcQI5CeHM8RH0"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -375,30 +375,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "It's Your Light (Lukas Goss Remix)",
-        "url": "https://open.spotify.com/album/74G5tivnFWErJYEWM8uogX"
-      },
-      "artists": [
-        {
-          "name": "Reborn Collective",
-          "url": "https://open.spotify.com/artist/6WSrq1GFeXNz0rxuCzjC5a"
-        },
-        {
-          "name": "Lukas Goss",
-          "url": "https://open.spotify.com/artist/0TSgxjF6V9u9Cjhz5CBh0X"
-        },
-        {
-          "name": "SOFYKA",
-          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "It's Your Light - Lukas Goss Remix",
-      "url": "https://open.spotify.com/track/3cHB2seP6WB5DKHU0cQfsU"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "My Help Comes from the Lord",
         "url": "https://open.spotify.com/album/6o8NMn2fp0LA4yIPKexsvP"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 177701,
       "name": "My Help Comes from the Lord",
       "url": "https://open.spotify.com/track/7vsLRdQ5YCN2SJWSTWHfu6"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "It's Your Light (Lukas Goss Remix)",
+        "url": "https://open.spotify.com/album/74G5tivnFWErJYEWM8uogX"
+      },
+      "artists": [
+        {
+          "name": "Reborn Collective",
+          "url": "https://open.spotify.com/artist/6WSrq1GFeXNz0rxuCzjC5a"
+        },
+        {
+          "name": "Lukas Goss",
+          "url": "https://open.spotify.com/artist/0TSgxjF6V9u9Cjhz5CBh0X"
+        },
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "It's Your Light - Lukas Goss Remix",
+      "url": "https://open.spotify.com/track/3cHB2seP6WB5DKHU0cQfsU"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Who You Say I Am (Reyer & Retain Remix)",
         "url": "https://open.spotify.com/album/22dmQnkbUY20t4qas1MSju"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 203772,
       "name": "Who You Say I Am - Reyer & Retain Remix",
       "url": "https://open.spotify.com/track/3MEsc8g0qmBEFIWTtXEFBG"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Can't Stop Me Now (Gregatron Remix)",
         "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 142588,
       "name": "Can't Stop Me Now - Gregatron Remix",
       "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Tell The World",
-        "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Tell The World",
-      "url": "https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
       },
@@ -1111,6 +1091,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "looking for You",
         "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
       },
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "What Freedom Feels Like",
-        "url": "https://open.spotify.com/album/35sAGBJKAd11NRY4QqYUXF"
-      },
-      "artists": [
-        {
-          "name": "HAGEN",
-          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
-        },
-        {
-          "name": "CARISSA M.",
-          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
-        }
-      ],
-      "duration_ms": 166911,
-      "name": "What Freedom Feels Like",
-      "url": "https://open.spotify.com/track/3A1UybUdTZOf0RSRqKBc8I"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/3IT3LZi1fS0j7oZfLAb62x"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 131844,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/7LbB5QIhrengXTgW4eE7Hm"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "What Freedom Feels Like",
+        "url": "https://open.spotify.com/album/35sAGBJKAd11NRY4QqYUXF"
+      },
+      "artists": [
+        {
+          "name": "HAGEN",
+          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
+        },
+        {
+          "name": "CARISSA M.",
+          "url": "https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6"
+        }
+      ],
+      "duration_ms": 166911,
+      "name": "What Freedom Feels Like",
+      "url": "https://open.spotify.com/track/3A1UybUdTZOf0RSRqKBc8I"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "S150",
+        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
+      },
+      "artists": [
+        {
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        },
+        {
+          "name": "Lairos",
+          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
+        }
+      ],
+      "duration_ms": 194296,
+      "name": "Correr\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Lifting Me Up",
         "url": "https://open.spotify.com/album/2nCMXBMDLq2fnfU023ebxM"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 174193,
       "name": "Lifting Me Up",
       "url": "https://open.spotify.com/track/2fMmN8oXhD0IVRXPhOdId2"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "S150",
-        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
-      },
-      "artists": [
-        {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        },
-        {
-          "name": "Lairos",
-          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
-        }
-      ],
-      "duration_ms": 194296,
-      "name": "Correr\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1503,30 +1503,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "You Love Me",
-        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Freddy Fercho",
-          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
-        },
-        {
-          "name": "Juan Carlos Ochoa",
-          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
-        }
-      ],
-      "duration_ms": 193208,
-      "name": "You Love Me",
-      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 416093,
       "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
       "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/5myDYo0MteD4FLOcRwntHO"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Freddy Fercho",
+          "url": "https://open.spotify.com/artist/3qm0iU0Xgu7bkudiRhyJJU"
+        },
+        {
+          "name": "Juan Carlos Ochoa",
+          "url": "https://open.spotify.com/artist/2xfw5IlFINms8YCJoj2EDi"
+        }
+      ],
+      "duration_ms": 193208,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Lie To You",
-        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
+        "name": "Reign Jesus (House Remix)",
+        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
       },
       "artists": [
         {
-          "name": "Alphein",
-          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        },
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
         }
       ],
-      "duration_ms": 200689,
-      "name": "Lie To You",
-      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
+      "duration_ms": 405691,
+      "name": "Reign Jesus - House Remix",
+      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1683,22 +1687,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Reign Jesus (House Remix)",
-        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
+        "name": "Lie To You",
+        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
       },
       "artists": [
         {
-          "name": "Shekinah Glory Ministry",
-          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
-        },
-        {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+          "name": "Alphein",
+          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
         }
       ],
-      "duration_ms": 405691,
-      "name": "Reign Jesus - House Remix",
-      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
+      "duration_ms": 200689,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
     },
     {
       "added_at": "2026-10-30 04:00:37",

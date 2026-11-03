@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 813210,
+  "num_followers": 813227,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 207652,
-      "name": "This Is Why",
-      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Under the Pink",
         "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 305493,
       "name": "Cornflake Girl",
       "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
       },
       "artists": [
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
         }
       ],
-      "duration_ms": 201372,
-      "name": "Mirtazapine",
-      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
+      "duration_ms": 167960,
+      "name": "Our Lips Are Sealed - Single Version",
+      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 201372,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
-        "name": "Beauty And The Beat",
-        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
-      },
-      "artists": [
-        {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Our Lips Are Sealed - Single Version",
-      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "American Thighs",
-        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
-      },
-      "artists": [
-        {
-          "name": "Veruca Salt",
-          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Seether",
-      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Crawlers - EP",
         "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 254418,
       "name": "Come Over (Again)",
       "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "American Thighs",
+        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
+      },
+      "artists": [
+        {
+          "name": "Veruca Salt",
+          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Seether",
+      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "A Million Knives",
-        "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 232041,
-      "name": "Take It From The Top",
-      "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Stories From The City, Stories From The Sea",
         "url": "https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 226666,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/04Glred2wGdSNH11Qh4EDe"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "A Million Knives",
+        "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 232041,
+      "name": "Take It From The Top",
+      "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "<COPINGMECHANISM>",
-        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159516,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Rid Of Me",
         "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 268826,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159516,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "HEARTLESS",
-        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 264661,
-      "name": "HEARTLESS",
-      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "No Obligation",
         "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 201187,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "HEARTLESS",
+        "url": "https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe"
+      },
+      "artists": [
+        {
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "HEARTLESS",
+      "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Sometimes, Forever",
-        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Feel It All The Time",
-      "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 208298,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Sometimes, Forever",
+        "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Feel It All The Time",
+      "url": "https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN"
     },
     {
       "added_at": "2026-05-01 18:02:47",

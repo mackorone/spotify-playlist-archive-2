@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,667 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,635 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [sickly sweet \- Alan Walker Remix](https://open.spotify.com/track/7xK4iii6HEQfcdJXOt8B5j) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [sickly sweet \(Alan Walker Remix\)](https://open.spotify.com/album/1tmHPiGes5UOMRpToZEGDM) | 2:22 |
 | 50 | [Fire!](https://open.spotify.com/track/7qAVOMJRLOG04YTiIOt7eu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Walkerworld 2.0](https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R) | 2:03 |
 
-Snapshot ID: `auUvgAAAAACh2zkylU8LtkZCpDiwLHq+`
+Snapshot ID: `auaBAAAAAAAPlUGM0WxUx1gVqdqnRVQV`

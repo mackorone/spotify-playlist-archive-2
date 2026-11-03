@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
+> أجمد المهرجانات في مصر! الغلاف: عصام صاصا
 
-411 songs - 1 day 1 hr 35 min
+412 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [اركب الدبابه](https://open.spotify.com/track/6SB8UDaW6ieaNNjRY7iPn5) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [اركب الدبابه](https://open.spotify.com/album/2wKNJKE2KlBQl1WiEg7vN2) | 2:47 | 2026-09-01 |  |
 | [ازاى تتساو بيا](https://open.spotify.com/track/191eHjlFxHTFTbYmmd1vJ4) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ازاى تتساو بيا](https://open.spotify.com/album/6Nh5cETpD4ej0JSmgM9GUy) | 4:36 | 2023-01-03 | 2023-09-15 |
 | [ازاي يا زميلي بتقولي بحبك](https://open.spotify.com/track/5AGfNPy7s5dDij0YzqYKJE) | [Mahmoud Dola](https://open.spotify.com/artist/7kcomZRRTlJocQfVWOQLSu), [Ahmed El Dogary](https://open.spotify.com/artist/54iYnBTUjygADSOqHDCLoG) | [ازاي يا زميلي بتقولي بحبك](https://open.spotify.com/album/7ss8mQy1C2qpKK9hUuUmgC) | 3:01 | 2025-03-12 | 2025-05-08 |
+| [استفدت ايه بكبريائك](https://open.spotify.com/track/53iDi4N6iDqVoeT76A2r4e) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [استفدت ايه بكبريائك](https://open.spotify.com/album/2bF1ZF2tRJgHEZ7Tpjk2nv) | 3:21 | 2026-11-02 |  |
 | [اسد](https://open.spotify.com/track/1L7aD7NY2girxihsDxw4Wj) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [اسد](https://open.spotify.com/album/3SSBYhKw3OuJkA53w9JvqA) | 4:00 | 2022-10-25 | 2023-02-01 |
 | [اسمع يا ابنها \( انا كيفي كيس چينس \)](https://open.spotify.com/track/3M4mi6UsQVDfVvw26EnyZI) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc), [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N), [Hady El Soghayar](https://open.spotify.com/artist/60peYSKKIhlh480uUFP7yP) | [اسمع يا ابنها \( انا كيفي كيس چينس \)](https://open.spotify.com/album/3INcJRRUBHvPHpNfTRxtrq) | 3:20 | 2025-04-22 | 2025-05-08 |
 | [اعقل يا غشيم \- كاتم الانفاس 2](https://open.spotify.com/track/765brCcbTt4rL9yUpjD40g) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc), [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [اعقل يا غشيم \(كاتم الانفاس 2\)](https://open.spotify.com/album/0ZRUTH6D2qorXA0R5Mk3U6) | 3:51 | 2025-04-22 | 2025-07-25 |
@@ -411,7 +412,7 @@
 | [يا صباح عنابي](https://open.spotify.com/track/0DpMteh0VG4AxPAlqTir8z) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يا صباح عنابي](https://open.spotify.com/album/0Wocf6qjqfOuZArDBKJ0xh) | 3:38 | 2026-09-17 |  |
 | [يا قلبي لا محبتكش \( لماذا قلبي نبضو قل \)](https://open.spotify.com/track/3vPePoOiJnSDLyqD3Hvrcr) | [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يا قلبي لا محبتكش \( لماذا قلبي نبضو قل \)](https://open.spotify.com/album/7zg6KPeLKSdr2TclbBA22w) | 3:24 | 2023-12-14 | 2024-03-09 |
 | [يابا متخدناش بالهيئه \( بطل هري خدتها جري \)](https://open.spotify.com/track/6YQh3m8u4TEO8yxryUE7sa) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [يابا متخدناش بالهيئه \( بطل هري خدتها جري \)](https://open.spotify.com/album/3kyTXajt2eqnZEFyGdHOMe) | 3:18 | 2026-03-25 |  |
-| [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/track/6725wzwd67aDcPbbAvGljT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/album/5NKW64gZzuaiSPRmlfRxQo) | 4:23 | 2026-09-08 |  |
+| [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/track/6725wzwd67aDcPbbAvGljT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/album/5NKW64gZzuaiSPRmlfRxQo) | 4:23 | 2026-09-08 | 2026-11-03 |
 | [ياخويا مهما تزيد همومك](https://open.spotify.com/track/1Ec4LnKSZNhFAgU04xFSSf) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [ياخويا مهما تزيد همومك](https://open.spotify.com/album/1uBwRi9XBGpD0ZzVNawx4a) | 3:05 | 2026-07-06 | 2026-09-02 |
 | [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-07 | 2023-07-14 |
 | [يلا نفتح الحساب](https://open.spotify.com/track/3fTKJkqA0enU1iDrC3QM4H) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا نفتح الحساب](https://open.spotify.com/album/6F6ObdCsn6o5F4QYcSrR4i) | 3:48 | 2022-09-27 | 2023-01-06 |

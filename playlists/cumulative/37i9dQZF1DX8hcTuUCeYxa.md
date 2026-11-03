@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Pair
 
-3,520 songs - 8 day 10 hr 53 min
+3,521 songs - 8 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [Camouflage](https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape III](https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM) | 2:25 | 2025-09-11 | 2025-10-10 |
 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 | 2025-02-27 | 2025-03-14 |
 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 | 2025-08-28 | 2025-09-12 |
-| [Can I Finish Please?](https://open.spotify.com/track/3gsQ4YYAT2eg4EaKh3X9v5) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Riot Youth](https://open.spotify.com/album/1QeB1OnMoM3nlnUhi1nP68) | 3:35 | 2026-10-08 |  |
+| [Can I Finish Please?](https://open.spotify.com/track/3gsQ4YYAT2eg4EaKh3X9v5) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Riot Youth](https://open.spotify.com/album/1QeB1OnMoM3nlnUhi1nP68) | 3:35 | 2026-10-08 | 2026-11-03 |
 | [Can I Just Be](https://open.spotify.com/track/6fQi31b2gQj0bhSAQH4zQU) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Can I Just Be](https://open.spotify.com/album/1jsJb2cEAalckfpjmiiF4T) | 2:47 | 2024-07-18 | 2024-08-16 |
 | [Can Nobody Feel](https://open.spotify.com/track/6MnZP2nRDwlVtPvrufb9W6) | [So Soon](https://open.spotify.com/artist/2UGXhai4cvsToa2TtNz5Ye) | [Whether You Like It Or Not](https://open.spotify.com/album/3iVJN30d20EqYIFEfNSJEe) | 4:15 | 2024-11-21 | 2025-01-03 |
 | [can we just forget?](https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [can we just forget?](https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG) | 4:43 | 2026-04-16 | 2026-04-24 |
@@ -3335,6 +3335,7 @@
 | [WAVES](https://open.spotify.com/track/1Ew3ZHUTSRNf1W3LW8gkB9) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [LIFE IS WEIRD SOMETIMES](https://open.spotify.com/album/46zget8f2833wlpXGK74vN) | 3:41 | 2026-10-08 |  |
 | [Way Down Alley](https://open.spotify.com/track/0k7v0bUsUrkLdcOYgZwLFK) | [Buntspecht](https://open.spotify.com/artist/2oblUaHZixbcEIQR9Jhrcj) | [Way Down Alley](https://open.spotify.com/album/1kZg71Xg9qy1UOvM1yPZSQ) | 4:46 | 2025-02-27 | 2025-03-28 |
 | [We](https://open.spotify.com/track/6y1oIurM4zxBgXAJ4QAIPZ) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [We](https://open.spotify.com/album/1bZ1oIeIGvinFFrGoPifFz) | 2:45 | 2025-07-03 | 2025-08-01 |
+| [We Can't Not](https://open.spotify.com/track/396MyeBMAUH9gTWZrLUxGw) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [We Can't Not \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1j1NSi4ruM9l31yP8tFwxH) | 2:19 | 2026-11-02 |  |
 | [We Don't Speak Anymore](https://open.spotify.com/track/7IfarhuPKJeyOotOzlBxfA) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC) | [It’s Lovely, Come On In](https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v) | 3:31 | 2025-08-14 | 2025-09-06 |
 | [WE DONT COUNT](https://open.spotify.com/track/62j2njaZrT6D7hJQPw9HGW) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [WE DONT COUNT](https://open.spotify.com/album/1deGUuQqxvhUVoNJ2vdYzI) | 2:50 | 2025-07-31 | 2025-08-22 |
 | [we fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [we fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 | 2026-05-28 | 2026-06-12 |

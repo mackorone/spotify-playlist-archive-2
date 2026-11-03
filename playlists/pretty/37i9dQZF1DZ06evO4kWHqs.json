@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAAA+EYaq/SWCiSx5ka38kJsc",
+  "snapshot_id": "auUvgAAAAAAhk868gxLd8/DpbO1UWFyZ",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money Talk",
-        "url": "https://open.spotify.com/album/6QfToP6Te9fSg6TDGS7EUE"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 162062,
-      "name": "Money Talk",
-      "url": "https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Sky (feat. LYZZA & SadBoi)",
         "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 142914,
       "name": "Blue Sky (feat. LYZZA & SadBoi)",
       "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money Talk",
+        "url": "https://open.spotify.com/album/6QfToP6Te9fSg6TDGS7EUE"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 162062,
+      "name": "Money Talk",
+      "url": "https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "were all the ig girls worth it?",
-        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
+        "name": "U Dun Kno",
+        "url": "https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 125397,
-      "name": "blaming me",
-      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
+      "duration_ms": 146548,
+      "name": "U Dun Kno",
+      "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "U Dun Kno",
-        "url": "https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR"
+        "name": "were all the ig girls worth it?",
+        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 146548,
-      "name": "U Dun Kno",
-      "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
+      "duration_ms": 125397,
+      "name": "blaming me",
+      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "whose fault",
-        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 126168,
-      "name": "whose fault",
-      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRY CRY",
         "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 73846,
       "name": "dnd",
       "url": "https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "whose fault",
+        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 126168,
+      "name": "whose fault",
+      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
     }
   ],
   "unique_name": "This Is SadBoi",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Soft jazz for slow mornings, first coffee, and the quiet before the day starts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,363 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,405 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 35 | [Summertime](https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Summertime](https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV) | 3:55 |
 | 36 | [BUT BEAUTIFUL](https://open.spotify.com/track/3kFmqdyWdJqj5ZIxFZPJqo) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [BUT BEAUTIFUL](https://open.spotify.com/album/4bLtGLKzbkAS5KUehR9jdq) | 3:46 |
 | 37 | [These Simple Things](https://open.spotify.com/track/3YrOOO4f2ENqK3geQiTpat) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [These Simple Things](https://open.spotify.com/album/6J9bDFXg7ofIXZ3QQelMjl) | 5:08 |
-| 38 | [In This Moment](https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [In This Moment](https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G) | 3:43 |
-| 39 | [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 |
+| 38 | [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 |
+| 39 | [In This Moment](https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [In This Moment](https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G) | 3:43 |
 | 40 | [Nancy](https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i) | 6:06 |
 | 41 | [Amelia](https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Amelia](https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3) | 7:02 |
 | 42 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 |

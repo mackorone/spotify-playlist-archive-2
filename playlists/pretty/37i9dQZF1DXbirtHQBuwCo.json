@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: LNGSHOT)",
-  "num_followers": 1096067,
+  "num_followers": 1096008,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 172796,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj"
+      "duration_ms": 229855,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp"
     },
     {
       "added_at": "2026-10-31 04:58:54",
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 229855,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp"
+      "duration_ms": 172796,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj"
     },
     {
       "added_at": "2026-10-31 04:58:54",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-10-31 04:58:54",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
-    },
-    {
-      "added_at": "2026-10-31 04:58:54",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "added_at": "2026-10-31 04:58:54",
+      "album": {
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
     },
     {
       "added_at": "2026-10-31 04:58:54",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2026-10-31 04:58:54",
       "album": {
-        "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
+        "name": "HAWWAH",
+        "url": "https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0"
       },
       "artists": [
         {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        },
-        {
-          "name": "NINGNING",
-          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+          "name": "dodree",
+          "url": "https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN"
         }
       ],
-      "duration_ms": 169893,
-      "name": "ONCE AGAIN",
-      "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
+      "duration_ms": 173000,
+      "name": "HAWWAH",
+      "url": "https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx"
     },
     {
       "added_at": "2026-10-31 04:58:54",
@@ -1303,18 +1299,38 @@
     {
       "added_at": "2026-10-31 04:58:54",
       "album": {
-        "name": "HAWWAH",
-        "url": "https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0"
+        "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
       },
       "artists": [
         {
-          "name": "dodree",
-          "url": "https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        },
+        {
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
         }
       ],
-      "duration_ms": 173000,
-      "name": "HAWWAH",
-      "url": "https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx"
+      "duration_ms": 169893,
+      "name": "ONCE AGAIN",
+      "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
+    },
+    {
+      "added_at": "2026-10-31 04:58:54",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 219034,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98"
     },
     {
       "added_at": "2026-10-31 04:58:54",
@@ -1339,22 +1355,6 @@
       "duration_ms": 252800,
       "name": "Breaking Through",
       "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
-    },
-    {
-      "added_at": "2026-10-31 04:58:54",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 219034,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98"
     }
   ],
   "unique_name": "TrenChill K-R&B",

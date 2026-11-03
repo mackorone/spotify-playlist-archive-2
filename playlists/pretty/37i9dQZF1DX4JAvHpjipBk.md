@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dominic Fike, BigXthaPlug, Gracie Abrams,  OMAH LAY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,653,118 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,652,751 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 60 | [Voodoo](https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Voodoo](https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i) | 3:42 |
 | 61 | [i wanted to be a singer](https://open.spotify.com/track/39yGQhkMG9tQ4kd6wueLQK) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [you made me / skin on linen](https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN) | 2:40 |
 | 62 | [Badman Riddim](https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Badman Riddim](https://open.spotify.com/album/7aLoUpRuTDY7uco9ypWix4) | 3:04 |
-| 63 | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
+| 63 | [Felicidades](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
 | 64 | [Canary](https://open.spotify.com/track/2RqoTukas6v1tFb35pG2u6) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Nu Zamrock](https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz) | 2:51 |
 | 65 | [Lost In The Night](https://open.spotify.com/track/1PxXhbDslbSNzO1SvqzQ4o) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Lost In The Night](https://open.spotify.com/album/3nt3G4RFOSqdGTTA60VMrg) | 5:00 |
 | 66 | [JOY \(Play Power\)](https://open.spotify.com/track/6LaPQWySsvuXfpFb2vt1CN) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Play Power\)](https://open.spotify.com/album/6MROzdeVgkGGaeRXJ7fM5E) | 4:45 |

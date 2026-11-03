@@ -4,7 +4,7 @@
 
 > la nuova scena pop 🇮🇹 sangio in cover
 
-1,611 songs - 3 day 5 hr 5 min
+1,612 songs - 3 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [BUM!](https://open.spotify.com/track/38Q2xq0AONmMqvlWDaB37Q) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [BUM!](https://open.spotify.com/album/4oFDMkklZca0cnkgodTTas) | 3:09 | 2024-09-12 | 2024-11-22 |
 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 | 2026-04-01 | 2026-05-08 |
 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 | 2025-11-06 | 2026-04-03 |
+| [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/album/2F8WdwMPcayDvddkNLKaeI) | 3:30 | 2026-11-02 |  |
 | [Burnout](https://open.spotify.com/track/1uGH9dQpoyeJw67ic5gVF1) | [Nahaze](https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk) | [Burnout](https://open.spotify.com/album/71QGUKaL4Ldl23q2BRFmCd) | 2:21 | 2025-06-12 | 2025-07-25 |
 | [Businessman](https://open.spotify.com/track/3cDXvyqP0weh4a666mQNtu) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Miss Italia](https://open.spotify.com/album/7HheU4nDcKmy9yVv02sGmL) | 3:31 | 2026-06-04 | 2026-10-23 |
 | [Bussola](https://open.spotify.com/track/3qIopFVs9HXdr0jNzowlKV) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [Bussola](https://open.spotify.com/album/2L2CobvKIAi6LVlhIiDkpw) | 3:21 | 2024-10-07 | 2024-11-22 |

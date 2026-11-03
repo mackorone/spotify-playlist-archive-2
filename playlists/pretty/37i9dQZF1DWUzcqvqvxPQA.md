@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,487 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,495 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 39 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
 | 40 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
 | 41 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
-| 42 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 |
-| 43 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
+| 42 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
+| 43 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 |
 | 44 | [Things Jesus Didn't Say](https://open.spotify.com/track/03qGBQopCiCi47Kq2ZPsn2) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Things Jesus Didn't Say](https://open.spotify.com/album/0BqDLIkQKH99l04mD2rkm7) | 2:22 |
 | 45 | [Jar Of Clay](https://open.spotify.com/track/3Ha8rp9jG6GRg3wHR34SLv) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Jar Of Clay](https://open.spotify.com/album/5sblqeZn9ghEosSqTEgPbn) | 3:08 |
 | 46 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 65 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 |
 | 66 | [With Me \- Live At Big Fish Recording Studio](https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [With Me \(Live At Big Fish Recording Studio\)](https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv) | 2:50 |
 | 67 | [What A Friend We Have In Jesus \- Acoustic](https://open.spotify.com/track/4MwBgUEdwy17nlrKu2EXEE) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [The Trinity Acoustic Sessions, Vol\. 3 \(Reawaken Hymns\)](https://open.spotify.com/album/7nobJBpBLI2lZVHeBGKTKZ) | 3:13 |
-| 68 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
-| 69 | [superbloom \- Acoustic](https://open.spotify.com/track/0sUj4GFs3WP6g8aNKx5roi) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [superbloom \(Acoustic\)](https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc) | 2:41 |
+| 68 | [superbloom \- Acoustic](https://open.spotify.com/track/0sUj4GFs3WP6g8aNKx5roi) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [superbloom \(Acoustic\)](https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc) | 2:41 |
+| 69 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
 | 70 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |
 | 71 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
 | 72 | [Homeward Ache](https://open.spotify.com/track/2iEDTIFg9oMHQAq3tlpA1a) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [Homeward Ache](https://open.spotify.com/album/4iyzKhfv21pH7dPsZN0Kkf) | 4:17 |
-| 73 | [The Fence](https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [The Fence](https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP) | 3:22 |
-| 74 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
+| 73 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
+| 74 | [The Fence](https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [The Fence](https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP) | 3:22 |
 | 75 | [Day By Day](https://open.spotify.com/track/2Kn4wjte701baKkC1IeF4S) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [Day By Day](https://open.spotify.com/album/2eshaNGGqJ5FB3BL1pHRAg) | 3:25 |
 
 Snapshot ID: `AAAAAPK9JVvv1uoOqCJ8Mr4inVU0jtaj`

@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Def & brittneySGAT 🔥
 
-243 songs - 10 hr 53 min
+244 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 | 2025-11-27 | 2026-02-20 |
 | [El Supremo](https://open.spotify.com/track/1awahW3zBr59Nb3L3HAyb5) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [El Supremo](https://open.spotify.com/album/3UJrwK7usINqVZKcEyiZJh) | 3:15 | 2026-05-28 | 2026-09-05 |
 | [Even Te Dronken](https://open.spotify.com/track/3nKsw7qc4Kq6OFFhfyDaK5) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Even Te Dronken](https://open.spotify.com/album/0aitYZRiDMXWcqqjzUpfVg) | 3:17 | 2026-07-02 | 2026-10-16 |
+| [Ewa Lieffie](https://open.spotify.com/track/4zNlU1NpdaCr2EKjkguBmg) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Ewa Lieffie](https://open.spotify.com/album/4GQ20hdYUtL0doxTwDlf7G) | 1:35 | 2026-11-02 |  |
 | [Ewa Safi](https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Ewa Safi](https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE) | 2:23 | 2026-05-21 |  |
 | [Ey Gap \(feat\. Big2, Willie Wartaal & Donnie\) \- DANIQ Remix](https://open.spotify.com/track/3B7jRvIxaFRygXFlNMlgpS) | [DANIQ](https://open.spotify.com/artist/4pVwni0qNGtLWvGhRiXmZl), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Ey Gap \(feat\. Big2, Willie Wartaal & Donnie\) \[DANIQ Remix\]](https://open.spotify.com/album/2KgWppoNGzr84Lorr57Cwp) | 2:47 | 2026-02-05 | 2026-05-29 |
 | [Farmcore](https://open.spotify.com/track/6eWWXpjkeF62wUEkW41cLC) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Kleinkunst](https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe) | 3:27 | 2026-01-05 | 2026-02-20 |
@@ -221,7 +222,7 @@
 | [Turbo](https://open.spotify.com/track/3hlgTuy3fa9xQM48rOLofD) | [New Kids](https://open.spotify.com/artist/2dYdfgSbtfu9Y9MkTPv3jX), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Turbo](https://open.spotify.com/album/3icJIpqP0JuPWteHT6gSjM) | 3:35 | 2026-09-21 | 2026-10-16 |
 | [TUSI](https://open.spotify.com/track/2k264yjeWOGuBKOs1kd80a) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [TUSI](https://open.spotify.com/album/2eghOOvia5Uwc4weq2m7qZ) | 2:24 | 2026-07-02 | 2026-09-05 |
 | [tutututututu](https://open.spotify.com/track/7zbMhwqbFLjSi7Tuh4w4sR) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [tutututututu](https://open.spotify.com/album/1tCcfIT6r9t2Q4lkjDX6mu) | 2:38 | 2026-05-04 | 2026-10-09 |
-| [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-03-04 |  |
+| [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-03-04 | 2026-11-03 |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-17 | 2026-10-23 |
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-07-17 | 2026-07-03 |
 | [VAKANTIE](https://open.spotify.com/track/2hfPz8nEzVZ10Oxh6pYpCg) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B) | [VAKANTIE](https://open.spotify.com/album/6Mr626FzsXOb4lMsiOSZSV) | 1:50 | 2025-08-04 | 2025-08-26 |

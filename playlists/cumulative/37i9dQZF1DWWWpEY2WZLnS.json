@@ -736,6 +736,28 @@
     {
       "album": {
         "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/1Hwldb8k4hWJPTnM4FDj4r"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123591,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/0UFSU9k3EvLRyTdzW5BzGb"
+    },
+    {
+      "album": {
+        "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
       },
       "artists": [
@@ -750,7 +772,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -1182,10 +1204,32 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
+    },
+    {
+      "album": {
+        "name": "CHAPA",
+        "url": "https://open.spotify.com/album/0p3gvAWY9ltxEG12jbBrho"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120052,
+      "name": "CHAPA",
+      "url": "https://open.spotify.com/track/7FG5Uy73c0E7P4OM5TVqGI"
     },
     {
       "album": {
@@ -1770,6 +1814,28 @@
     {
       "album": {
         "name": "Dale 2",
+        "url": "https://open.spotify.com/album/1UEpR5aUaD99wdBrMUaZN9"
+      },
+      "artists": [
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145850,
+      "name": "Dale 2",
+      "url": "https://open.spotify.com/track/6AwX2krIuYyaCjJwXZIKdk"
+    },
+    {
+      "album": {
+        "name": "Dale 2",
         "url": "https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj"
       },
       "artists": [
@@ -1784,7 +1850,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 148850,
       "name": "Dale 2",
       "url": "https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl"
@@ -2740,6 +2806,28 @@
     {
       "album": {
         "name": "Eso E",
+        "url": "https://open.spotify.com/album/6aQF1KCNOWFpUneOTsdPPL"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139728,
+      "name": "Eso E",
+      "url": "https://open.spotify.com/track/5iOxebvqkFKOiTb7sivm75"
+    },
+    {
+      "album": {
+        "name": "Eso E",
         "url": "https://open.spotify.com/album/57dLimWMxsMkIagUobbfpe"
       },
       "artists": [
@@ -2754,7 +2842,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 139728,
       "name": "Eso E",
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
@@ -3050,7 +3138,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
@@ -3072,7 +3160,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 173389,
       "name": "Gogo Dance",
       "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
@@ -3153,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "BLESSS THE ALBUM",
+        "url": "https://open.spotify.com/album/3v3bX3gzOQJ9uwlz5eFZcO"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/0vCmFYoAvaPuXi1efkHn8O"
+    },
+    {
+      "album": {
         "name": "HAY LUPITA",
         "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
       },
@@ -3164,7 +3270,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
@@ -3252,7 +3358,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
@@ -3270,7 +3376,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
@@ -3314,10 +3420,36 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 140641,
       "name": "Hijo D Perra",
       "url": "https://open.spotify.com/track/1OxXmi5yhIf8jaHeUPlRuV"
+    },
+    {
+      "album": {
+        "name": "Hijo D Perra",
+        "url": "https://open.spotify.com/album/32NFnrPeTe5Vm1RFIRGal7"
+      },
+      "artists": [
+        {
+          "name": "EL PERROTE WZ",
+          "url": "https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D"
+        },
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        },
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140641,
+      "name": "Hijo D Perra",
+      "url": "https://open.spotify.com/track/1GpTIdKdOSLam1DaO2YA0f"
     },
     {
       "album": {
@@ -4056,10 +4188,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 157707,
       "name": "La Tengo De Vaceo",
       "url": "https://open.spotify.com/track/0lvrZEPXXGY4tAvBJzWVzu"
+    },
+    {
+      "album": {
+        "name": "La Tengo De Vaceo",
+        "url": "https://open.spotify.com/album/7wRml3VYOb2Ra1V8ezsz1w"
+      },
+      "artists": [
+        {
+          "name": "Papa Jeison",
+          "url": "https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157754,
+      "name": "La Tengo De Vaceo",
+      "url": "https://open.spotify.com/track/5oc8nASqMxJRbOs5Fa4rVo"
     },
     {
       "album": {
@@ -4840,10 +4990,28 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
+    },
+    {
+      "album": {
+        "name": "MC Encima De Ti",
+        "url": "https://open.spotify.com/album/3VLGpnlbOJKOtcFVQzC6Sd"
+      },
+      "artists": [
+        {
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122125,
+      "name": "MamaZota",
+      "url": "https://open.spotify.com/track/61cv6dbBrjXWykPZCFXzoY"
     },
     {
       "album": {
@@ -5872,10 +6040,40 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 137461,
       "name": "No Saque Pistola",
       "url": "https://open.spotify.com/track/5GfFn7W6vtO2z5Pzb3JLOC"
+    },
+    {
+      "album": {
+        "name": "No Saque Pistola",
+        "url": "https://open.spotify.com/album/47NJrghbJVth201B3NgKI9"
+      },
+      "artists": [
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Rony Alca",
+          "url": "https://open.spotify.com/artist/6f9dqXCJ5pB3tSOMnim6Qp"
+        },
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        },
+        {
+          "name": "Montana 70",
+          "url": "https://open.spotify.com/artist/7MSEDh4Xt4nvRaEihrZ0ES"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137461,
+      "name": "No Saque Pistola",
+      "url": "https://open.spotify.com/track/1jzQgSnt2SyLP31YQ9MkJa"
     },
     {
       "album": {
@@ -5996,7 +6194,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 133968,
       "name": "Oh Oh Oh (Veo Veo)",
       "url": "https://open.spotify.com/track/3BZqmfDUW11Gkj0UQeLFQa"
@@ -6022,7 +6220,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 134529,
       "name": "Oh Oh Oh - Veo Veo",
       "url": "https://open.spotify.com/track/29HgbakZR31tVTvmXGPuTs"
@@ -6552,10 +6750,32 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 138427,
       "name": "Pila De Nota",
       "url": "https://open.spotify.com/track/0F2FwMpxWS4RHPybwjeYwG"
+    },
+    {
+      "album": {
+        "name": "Pila De Nota",
+        "url": "https://open.spotify.com/album/3XOeaMumo5zeQDHNMNn25b"
+      },
+      "artists": [
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "JeycitoLM",
+          "url": "https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138427,
+      "name": "Pila De Nota",
+      "url": "https://open.spotify.com/track/6XXv0zPNmyMyvaayVcyqfA"
     },
     {
       "album": {
@@ -6790,10 +7010,28 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 94736,
       "name": "Por El Respeto",
       "url": "https://open.spotify.com/track/46dMFWlav7mV6xKoim0ZJf"
+    },
+    {
+      "album": {
+        "name": "GTA NAMA",
+        "url": "https://open.spotify.com/album/5bztQXXL6fom00LcsUsneY"
+      },
+      "artists": [
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95851,
+      "name": "Por el Respeto",
+      "url": "https://open.spotify.com/track/2UuC4a2b8MurRl7uBWpjoa"
     },
     {
       "album": {
@@ -7544,10 +7782,32 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 97113,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/7Do74VwW9un48Z6hrPLraE"
+    },
+    {
+      "album": {
+        "name": "GTA NAMA",
+        "url": "https://open.spotify.com/album/5bztQXXL6fom00LcsUsneY"
+      },
+      "artists": [
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        },
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97152,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/1ukd7HhY9LLNWC1PpAC0sj"
     },
     {
       "album": {
@@ -7906,10 +8166,32 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 141355,
       "name": "Silla",
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
+    },
+    {
+      "album": {
+        "name": "Silla",
+        "url": "https://open.spotify.com/album/5VkkRyQFV7MK1CAyVaj4qI"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "Silla",
+      "url": "https://open.spotify.com/track/5FYncraLtP19kwRcevDKuK"
     },
     {
       "album": {

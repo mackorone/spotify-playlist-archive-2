@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,657 songs - 4 day 0 hr 44 min
+1,659 songs - 4 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Come Back](https://open.spotify.com/track/49eKAgjF5UXYiNAmIOCb4d) | [OceanHeir](https://open.spotify.com/artist/1NDQkClVSZ63vwlST77bhU), [Pineberry](https://open.spotify.com/artist/66WL1CvsVUbUltz9CcvQYI) | [Come Back](https://open.spotify.com/album/3bf3Ve3cqufuD62hIQnBmJ) | 3:26 | 2026-03-19 | 2026-04-22 |
 | [Come Back To Me](https://open.spotify.com/track/70dmA7xWvf9oGD1WwJT9HW) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 3:42 | 2026-04-13 | 2026-05-14 |
 | [Come for You](https://open.spotify.com/track/3WcUaI6OlsVjte1AcW5ZA7) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Come for You](https://open.spotify.com/album/4mvzVDqpeeJccInD7wqylR) | 2:43 | 2025-12-22 | 2026-01-24 |
+| [Come la Prima Volta](https://open.spotify.com/track/6lSnvSpdVAnm9O6LUtXj5k) | [Erhes](https://open.spotify.com/artist/342B4eg1rwTI3poA0uKFOX) | [Come la Prima Volta](https://open.spotify.com/album/5DlpLvQTVQu4MeUrKKlwOg) | 3:29 | 2026-11-02 |  |
 | [Come lei](https://open.spotify.com/track/7pWSs58SctIWBRe6bWspQX) | [Manu](https://open.spotify.com/artist/5AK9t3BFB3I1Qp2rY2RVZj) | [Come lei](https://open.spotify.com/album/2I3Ck3pqjouTkDMlHSQEtN) | 3:26 | 2026-05-21 | 2026-07-03 |
 | [Come una nuvola](https://open.spotify.com/track/7prSH1ypxvmDQMJwJCySMQ) | [Claudio Trezza](https://open.spotify.com/artist/3uDQbHK8PuikLtK9SAahqb) | [Come una nuvola](https://open.spotify.com/album/1zx1fgmOuOUg5XYjcha4Na) | 3:43 | 2026-08-12 | 2026-09-17 |
 | [Comet](https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy) | [Jen Maria](https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN) | [Comet](https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx) | 3:43 | 2026-01-03 | 2026-02-03 |
@@ -356,6 +357,7 @@
 | [Did I Do Something Wrong?](https://open.spotify.com/track/6WuatAimXNoHVnkZ2zEMOS) | [Amin Etesamian](https://open.spotify.com/artist/5GMO7X0263W47oe3j37Z5d) | [Did I Do Something Wrong?](https://open.spotify.com/album/6FT0JtRDR4re7KJe8NsOCz) | 3:16 | 2026-03-08 | 2026-04-12 |
 | [Die Zeit heilt alle Wunden](https://open.spotify.com/track/5HwfKgNv2wa9Z7XvRbfWbt) | [Parksj](https://open.spotify.com/artist/71guvFwcryVsE5kZwDLH07) | [Die Zeit heilt alle Wunden](https://open.spotify.com/album/0rTZROHETJU7878Sc7wOtp) | 2:57 | 2026-10-30 |  |
 | [Dieser Moment Mit Dir](https://open.spotify.com/track/2xFZeUDtkclgCGTRqUPg1r) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [Dieser Moment Mit Dir](https://open.spotify.com/album/2GnhEFSs5b8kTy7PPEH4dG) | 3:18 | 2025-12-15 | 2026-01-15 |
+| [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 | 2026-11-02 |  |
 | [Dime Que Puedo Hacer Sin Ti \- Remix](https://open.spotify.com/track/0WhxLpotzzMvKdF0HKpLcb) | [Dr\. Leo](https://open.spotify.com/artist/1KPjYNSnNtKiZXCyeDfuw5), [Bernal Villegas](https://open.spotify.com/artist/3odi1BKZOHNVgJ1fOpEkWM), [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Dime Que Puedo Hacer Sin Ti \(Remix\)](https://open.spotify.com/album/1nSXeJ5KaW8cCFkjXQSgQe) | 6:38 | 2026-10-09 |  |
 | [Dimensione Sospesa](https://open.spotify.com/track/60ALwPWjAZpShCXdanf3Vq) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:01 | 2025-10-02 | 2025-11-29 |
 | [Diminuendo](https://open.spotify.com/track/3YbKWayRUzzl86Yu88vvbi) | [Giuseppe Moffa](https://open.spotify.com/artist/5fkDfBiPF2JYEl8VXeg9Np) | [Diminuendo](https://open.spotify.com/album/30H9RvsEPStjBG8ZNNToBr) | 2:02 | 2023-04-20 | 2025-11-29 |

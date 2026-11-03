@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the freshest K-Pop new releases (Cover: ILLIT) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 364228,
+  "num_followers": 364303,
   "original_name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ312+Rp7q+14rNQugcW6JWg5ODw",
+  "snapshot_id": "AAAAAEvoRV0uYN+0Tq90R57XOhhxFr3d",
   "tracks": [
     {
       "added_at": "2026-10-26 09:00:22",
@@ -23,6 +23,102 @@
       "duration_ms": 181911,
       "name": "You\u2019re Under Arrest",
       "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+    },
+    {
+      "added_at": "2026-11-02 09:12:10",
+      "album": {
+        "name": "TO US",
+        "url": "https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "WE UP",
+      "url": "https://open.spotify.com/track/4uvRYavcRKzLGMp2ADdN3g"
+    },
+    {
+      "added_at": "2026-11-02 09:12:10",
+      "album": {
+        "name": "ddr",
+        "url": "https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 277973,
+      "name": "ddr",
+      "url": "https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO"
+    },
+    {
+      "added_at": "2026-11-02 09:12:10",
+      "album": {
+        "name": "ROUTE ZERO : The CALLING",
+        "url": "https://open.spotify.com/album/0pOfuE2ri9R4ueXHr4DUwD"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "DIENAMITE",
+      "url": "https://open.spotify.com/track/1WMWIPbOD0Nts5SmrKlQyr"
+    },
+    {
+      "added_at": "2026-11-02 09:12:10",
+      "album": {
+        "name": "SHOCK",
+        "url": "https://open.spotify.com/album/33q3b2UtHK0JW4RbzI86KJ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "SHOCK",
+      "url": "https://open.spotify.com/track/2svjqad0qwiEYps5QLR7rZ"
+    },
+    {
+      "added_at": "2026-11-02 09:12:10",
+      "album": {
+        "name": "Defy the Light and the Dark",
+        "url": "https://open.spotify.com/album/4uhRNFhWrPU7A6vhzo2bQG"
+      },
+      "artists": [
+        {
+          "name": "nib.archive",
+          "url": "https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES"
+        }
+      ],
+      "duration_ms": 237068,
+      "name": "Unclaimed",
+      "url": "https://open.spotify.com/track/4FRd0a1MIuoUdT59Qnqsjf"
+    },
+    {
+      "added_at": "2026-11-02 09:12:10",
+      "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/1A7Bl274AuXKiiElk27tnB"
+      },
+      "artists": [
+        {
+          "name": "The Poles",
+          "url": "https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q"
+        }
+      ],
+      "duration_ms": 258352,
+      "name": "Lift",
+      "url": "https://open.spotify.com/track/7bQjc6mHMbhKiOknoouEnK"
     },
     {
       "added_at": "2026-10-31 04:50:20",

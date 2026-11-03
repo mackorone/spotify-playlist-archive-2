@@ -92,10 +92,32 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 189604,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4xjIW6ZI4SL0DKya6P4ECA"
+    },
+    {
+      "album": {
+        "name": "Seven Hours After Violet",
+        "url": "https://open.spotify.com/album/1Ri2q1jMg2aN1vry9jvdLJ"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189604,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7Knd5wtJAmspzWBAZlYiJR"
     },
     {
       "album": {
@@ -328,6 +350,24 @@
     {
       "album": {
         "name": "Strongs Dr.",
+        "url": "https://open.spotify.com/album/00u5YhHQXwFvEr7er1Byqk"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Fuzz",
+          "url": "https://open.spotify.com/artist/5xadFKKSMplAet2Es2y0i2"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126383,
+      "name": "East of the 405",
+      "url": "https://open.spotify.com/track/04kp9WPZwHTE2ZjxcJJKOy"
+    },
+    {
+      "album": {
+        "name": "Strongs Dr.",
         "url": "https://open.spotify.com/album/1UOc2j96BYyNJuzdckufFh"
       },
       "artists": [
@@ -338,7 +378,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 126383,
       "name": "East of the 405",
       "url": "https://open.spotify.com/track/3fGU4O0wjsLvVd2CZKZKWE"
@@ -760,10 +800,28 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 83949,
       "name": "New Wage Slavery",
       "url": "https://open.spotify.com/track/2rCYw9coYu7qW2nxkCAjry"
+    },
+    {
+      "album": {
+        "name": "New Wage Slavery",
+        "url": "https://open.spotify.com/album/2BhLEmbnHIg388pK1l73J0"
+      },
+      "artists": [
+        {
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83949,
+      "name": "New Wage Slavery",
+      "url": "https://open.spotify.com/track/59PwPmruaaxVNd33G7bwhN"
     },
     {
       "album": {
@@ -803,6 +861,24 @@
     },
     {
       "album": {
+        "name": "How It Works",
+        "url": "https://open.spotify.com/album/2NjZszjxtQcU7ykKnA22Gh"
+      },
+      "artists": [
+        {
+          "name": "Bodyjar",
+          "url": "https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS"
+        }
+      ],
+      "date_added": "2025-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/59wSDDyIAZ4e6uIORtJIV2"
+    },
+    {
+      "album": {
         "name": "Jarchives - 10 Years of Bodyjar",
         "url": "https://open.spotify.com/album/1oTPzoFkY5afPo2AhCZlGi"
       },
@@ -814,7 +890,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 189413,
       "name": "Not the Same",
       "url": "https://open.spotify.com/track/5VkMNDd08pD6CRitTV4ioE"

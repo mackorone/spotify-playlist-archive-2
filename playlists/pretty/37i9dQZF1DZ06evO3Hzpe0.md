@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Hzpe0.md) - [plain]
 
 > This is Carl Carlton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 924 likes - 42 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 923 likes - 42 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Hzpe0.md) - [plain]
 | 41 | [Mama's Boy](https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:10 |
 | 42 | [Hot](https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:07 |
 
-Snapshot ID: `auUvgAAAAAD6Bozu7ytvEDH0ALz7wPOH`
+Snapshot ID: `auUvgAAAAAB+j12d4FLHpKUuhVjZP6/4`

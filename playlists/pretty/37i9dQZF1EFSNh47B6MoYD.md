@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 76 | [Primero Muerta](https://open.spotify.com/track/6meWroBtBSUwcTfDFZ98ym) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:16 |
 | 77 | [Caída Libre](https://open.spotify.com/track/3tQo4LCoLO0XRvIYKdFTg7) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Desnuda](https://open.spotify.com/album/0x1njlKQdxOQD1HtcQsOd3) | 3:06 |
 | 78 | [Panamá Mia](https://open.spotify.com/track/17UBnqRCNrqXRLtQizeRAL) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:34 |
-| 79 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 |
-| 80 | [Cosas Que Echo de Menos](https://open.spotify.com/track/1ZQB2iLP6CmER6LNka3jR3) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:27 |
+| 79 | [Cosas Que Echo de Menos](https://open.spotify.com/track/1ZQB2iLP6CmER6LNka3jR3) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:27 |
+| 80 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 |
 | 81 | [Indestructible](https://open.spotify.com/track/0PcxqkMl22Y1tNeWjhGaUg) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/6ccZZG7WZX2SVMLySKuxVM) | 3:25 |
 | 82 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 |
 | 83 | [Sigo Caminando](https://open.spotify.com/track/1Ap7SgnEnvcE7Uih5CXNXO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Sigo Caminando](https://open.spotify.com/album/37WnSB8LQ6LFsXnFMGVgWg) | 3:34 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 150 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 151 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcgieAAAAACC3fkgW8Od52OCs/8LGr1L`
+Snapshot ID: `AcgoVAAAAAABiwhc3n42MgI+5PWxR4/X`

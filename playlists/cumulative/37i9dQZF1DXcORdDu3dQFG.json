@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-12-11",
-  "description": "Get festive with this selection of videos. Music videos only available on Premium.",
-  "name": "Holiday Music Videos",
+  "description": "Get festive with this selection of videos. ",
+  "name": "Christmas Music Videos",
   "tracks": [
     {
       "album": {
@@ -20,6 +20,24 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+    },
+    {
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/1Qo4xIO7aWMVcbelqpTdGY"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219346,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/6yAFbVqLLB4CHLMr73Nq2n"
     },
     {
       "album": {
@@ -153,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/0PJVaaf0o1CXKu7JVQYgH9"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166911,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/0hgnoXC6xF6GXsyYRhfne6"
+    },
+    {
+      "album": {
         "name": "Tougher Than Leather (Expanded Edition)",
         "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
       },
@@ -240,6 +276,24 @@
       "duration_ms": 239266,
       "name": "Christmas Through Your Eyes",
       "url": "https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf"
+    },
+    {
+      "album": {
+        "name": "Christmas Time (Don't Let the Bells End)",
+        "url": "https://open.spotify.com/album/0eiCgE8FnO1dEU0hqndQE7"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221674,
+      "name": "Christmas Time (Don't Let the Bells End)",
+      "url": "https://open.spotify.com/track/7sLzymM1Paw5er8vJJCp3x"
     },
     {
       "album": {
@@ -435,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1L8slE3Mqw4S3PRQgnq4YX"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167792,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1FzzjKI8Ukkksq9HHkqOu6"
+    },
+    {
+      "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
@@ -468,6 +540,24 @@
       "duration_ms": 192107,
       "name": "Hot in December",
       "url": "https://open.spotify.com/track/1yepCSPoxirpHDK1580Eq5"
+    },
+    {
+      "album": {
+        "name": "I Believe in Father Christmas",
+        "url": "https://open.spotify.com/album/3747qInhsFKwUXvIRMICDw"
+      },
+      "artists": [
+        {
+          "name": "Greg Lake",
+          "url": "https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "I Believe in Father Christmas",
+      "url": "https://open.spotify.com/track/7jksgqN64LoEMhPBTUnWZV"
     },
     {
       "album": {
@@ -602,10 +692,28 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock (Daryl's Version - HD)",
+        "url": "https://open.spotify.com/album/0nbiJJVTzM6PTkH7RotWd7"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130175,
+      "name": "Jingle Bell Rock - Daryl's Version - HD",
+      "url": "https://open.spotify.com/track/2MZwI4aZpLbH7E8RSdk09W"
     },
     {
       "album": {
@@ -678,6 +786,24 @@
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
+    },
+    {
+      "album": {
+        "name": "Mary's Boy Child / Oh My Lord (Dublin 1978)",
+        "url": "https://open.spotify.com/album/70OlFTETS9aoNkVXHJcinS"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391018,
+      "name": "Mary's Boy Child / Oh My Lord (Dublin 1978)",
+      "url": "https://open.spotify.com/track/03vIhaRGQ0WbO7GarB6lZa"
     },
     {
       "album": {
@@ -812,6 +938,24 @@
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
+        "name": "Mistletoe & Wine",
+        "url": "https://open.spotify.com/album/0wEM9kJ5slT1epJYBK5a9k"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236778,
+      "name": "Mistletoe & Wine",
+      "url": "https://open.spotify.com/track/1NOzQLiN8xHKSotTVkCgy3"
     },
     {
       "album": {
@@ -1206,6 +1350,28 @@
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "album": {
+        "name": "Walking In The Air",
+        "url": "https://open.spotify.com/album/7FGqrQZXHQhkyds2nkLkoW"
+      },
+      "artists": [
+        {
+          "name": "Howard Blake",
+          "url": "https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei"
+        },
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Walking In The Air",
+      "url": "https://open.spotify.com/track/1cYxDDsMhyovjDYkGhbDa0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 49 | [CATALOGADO](https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [CATALOGADO](https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB) | 2:07 |
 | 50 | [LOS JORDAN’S](https://open.spotify.com/track/35Ygam0DPXjsWs9kvFXOVO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:56 |
 
-Snapshot ID: `auUvgAAAAAC/fKpMNTQ+NhoTbMNnP0sa`
+Snapshot ID: `auaBAAAAAAB7gwWL7e3vOKkhf4bb7C94`

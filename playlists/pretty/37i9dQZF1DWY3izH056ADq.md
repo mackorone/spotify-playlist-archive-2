@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,977 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,973 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 27 | [Why do you like me??](https://open.spotify.com/track/4bACB0QtfXGVoezkhd8IwI) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [伊藤紗月](https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 3:47 |
 | 28 | [EMPEROR \- WE ON FIRE!! \- \- feat\. 倖田來未](https://open.spotify.com/track/6Ih3BC1tbYyNqrebW6z8GN) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC), [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Paradox Live Exhibition Show \-悪漢奴等\-](https://open.spotify.com/album/4SUPnE9AhmKqt7ws8j5jLH) | 3:54 |
 | 29 | [Halloween](https://open.spotify.com/track/4xoOTv2ksKmwWh7TttWtQy) | [team Autumn](https://open.spotify.com/artist/1qZuBsvj2WNcQOWEgwQFVL) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:34 |
-| 30 | [edN](https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 3:56 |
-| 31 | [Do as I say](https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:02 |
+| 30 | [Do as I say](https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:02 |
+| 31 | [edN](https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 3:56 |
 | 32 | [ギラギラCANDY NIGHT](https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [翠石依織](https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z), [雅邦善](https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78), [伊藤紗月](https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:51 |
 | 33 | [Back In The Day](https://open.spotify.com/track/7oYDm9ZIqVBVeWUYP7xeGu) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live \-Battle of Unity\- 武雷管 "ZERO"](https://open.spotify.com/album/7cGu9zlFI8dQ3fx9x6LvRv) | 3:39 |
 | 34 | [Hit em up](https://open.spotify.com/track/3hIlHC3TNC3rB5Bb1duN2q) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 2:47 |

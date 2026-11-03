@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 276080,
+  "num_followers": 276112,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1379,38 +1379,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Vine a Decirte Adios",
-        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "Vine A Decirte Adios",
-      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Qu\u00edteme La Inocencia",
-      "url": "https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
         "url": "https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE"
       },
@@ -1435,6 +1403,38 @@
       "duration_ms": 256253,
       "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
       "url": "https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Qu\u00edteme La Inocencia",
+      "url": "https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Vine a Decirte Adios",
+        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 277453,
+      "name": "Vine A Decirte Adios",
+      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
     },
     {
       "added_at": "2024-08-23 04:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,649 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,647 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Please Don't Stop Loving Me](https://open.spotify.com/track/5pfw6zehxjTpLNQoHFXIwR) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Porter 'N' Dolly](https://open.spotify.com/album/2kKDvQ24tqs9M932L3FjiN) | 2:47 |
 | 50 | [Butterfly \(feat\. Dolly Parton\)](https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love & Fear](https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3) | 4:04 |
 
-Snapshot ID: `auUvgAAAAAC1LZjHA+FuVAhYd7BPeOSu`
+Snapshot ID: `auUvgAAAAAAHDaPq8TD1h24jxg4bETMf`

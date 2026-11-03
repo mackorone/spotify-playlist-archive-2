@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Joesef
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Orville Peck
 
 1,940 songs - 4 day 9 hr 9 min
 

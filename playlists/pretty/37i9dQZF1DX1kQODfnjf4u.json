@@ -1,13 +1,69 @@
 {
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Marie April & kubmat",
-  "num_followers": 105444,
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover:  Annet X & Sara Rikas",
+  "num_followers": 105434,
   "original_name": "Hot Hits \u010cesk\u00e1 republika",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ9O+M4x2RVNKbMWPpiL5IAs7Ewf",
+  "snapshot_id": "AAAAAG37J053+Ws3jd/tSDExlMq69Og4",
   "tracks": [
+    {
+      "added_at": "2026-11-02 16:50:30",
+      "album": {
+        "name": "UKA MI",
+        "url": "https://open.spotify.com/album/78RZWPp36oFsfR0OIbR5iY"
+      },
+      "artists": [
+        {
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "UKA MI",
+      "url": "https://open.spotify.com/track/6rq30zIdhNNFiBEB1x5zEO"
+    },
+    {
+      "added_at": "2026-10-05 09:44:57",
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        }
+      ],
+      "duration_ms": 105517,
+      "name": "SuperStar (feat. Dollar Prync)",
+      "url": "https://open.spotify.com/track/2R0pXrhBigrg6ZNb3Bv4MH"
+    },
+    {
+      "added_at": "2026-10-05 09:44:57",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
     {
       "added_at": "2026-10-12 16:54:45",
       "album": {
@@ -29,24 +85,20 @@
       "url": "https://open.spotify.com/track/71eERERMDR7epp7n2ncgqI"
     },
     {
-      "added_at": "2026-10-05 09:44:57",
+      "added_at": "2026-11-02 16:50:30",
       "album": {
-        "name": "Toxic Love",
-        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
+        "name": "P\u016fl \u010dtvrt\u00fd r\u00e1no",
+        "url": "https://open.spotify.com/album/0olCZBwvkiEZIRsobx7LIB"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Dollar Prync",
-          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+          "name": "Franta Pracha\u0159",
+          "url": "https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU"
         }
       ],
-      "duration_ms": 105517,
-      "name": "SuperStar (feat. Dollar Prync)",
-      "url": "https://open.spotify.com/track/2R0pXrhBigrg6ZNb3Bv4MH"
+      "duration_ms": 123880,
+      "name": "P\u016fl \u010dtvrt\u00fd r\u00e1no",
+      "url": "https://open.spotify.com/track/1zDnvgpfqdVSQZFTKUwKSx"
     },
     {
       "added_at": "2026-10-05 09:44:57",
@@ -103,22 +155,6 @@
     {
       "added_at": "2026-10-05 09:44:57",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-05 09:44:57",
-      "album": {
         "name": "EXIT U PALICE",
         "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
       },
@@ -159,66 +195,6 @@
     {
       "added_at": "2026-10-05 09:44:57",
       "album": {
-        "name": "EXIT U PALICE",
-        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "COUP\u00c9",
-      "url": "https://open.spotify.com/track/5dKhmVbvctqme1rfkuGAJz"
-    },
-    {
-      "added_at": "2026-10-05 09:44:57",
-      "album": {
-        "name": "Po\u010dkej (EUP SUMMER SEASON - PART II)",
-        "url": "https://open.spotify.com/album/7xaLic5TJyJCO2PZhKAdIl"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        }
-      ],
-      "duration_ms": 124569,
-      "name": "PO\u010cKEJ w8",
-      "url": "https://open.spotify.com/track/3Jn8X94JACpp9EzJGSdo8F"
-    },
-    {
-      "added_at": "2026-10-19 11:49:22",
-      "album": {
-        "name": "CHEMIE",
-        "url": "https://open.spotify.com/album/4LQBxLhElPEAfKKu0IExNn"
-      },
-      "artists": [
-        {
-          "name": "Sebastian",
-          "url": "https://open.spotify.com/artist/1ucovYZ0AOZZ0ZIfjhYFfQ"
-        },
-        {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "CHEMIE",
-      "url": "https://open.spotify.com/track/4kRtCJQyZwFnqAyfByffaW"
-    },
-    {
-      "added_at": "2026-10-05 09:44:57",
-      "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
       },
@@ -247,6 +223,26 @@
       "duration_ms": 221772,
       "name": "v mojich snoch",
       "url": "https://open.spotify.com/track/6ZgEybJNA0vk2FjJIIv3c2"
+    },
+    {
+      "added_at": "2026-10-05 09:44:57",
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "COUP\u00c9",
+      "url": "https://open.spotify.com/track/5dKhmVbvctqme1rfkuGAJz"
     },
     {
       "added_at": "2026-10-05 09:44:57",
@@ -449,20 +445,24 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-10-05 09:44:57",
+      "added_at": "2026-10-19 11:49:22",
       "album": {
-        "name": "V\u00edc",
-        "url": "https://open.spotify.com/album/7IlhDIk83qWBpHFGSYWRSX"
+        "name": "CHEMIE",
+        "url": "https://open.spotify.com/album/4LQBxLhElPEAfKKu0IExNn"
       },
       "artists": [
         {
-          "name": "DANZ HUN",
-          "url": "https://open.spotify.com/artist/6grJGiDYFWywlj5KHyGjiJ"
+          "name": "Sebastian",
+          "url": "https://open.spotify.com/artist/1ucovYZ0AOZZ0ZIfjhYFfQ"
+        },
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
         }
       ],
-      "duration_ms": 151745,
-      "name": "Prvn\u00ed Chain",
-      "url": "https://open.spotify.com/track/3DmUVZuSptoCUrV8fIkM3h"
+      "duration_ms": 169697,
+      "name": "CHEMIE",
+      "url": "https://open.spotify.com/track/4kRtCJQyZwFnqAyfByffaW"
     },
     {
       "added_at": "2026-10-05 09:44:57",
@@ -479,22 +479,6 @@
       "duration_ms": 146922,
       "name": "ONLY WAY OUT IS THROUGH THE SHITS 2",
       "url": "https://open.spotify.com/track/5tSBZk5XGiK9vMI4KeiQJh"
-    },
-    {
-      "added_at": "2026-10-05 09:44:57",
-      "album": {
-        "name": "Toulavej pes",
-        "url": "https://open.spotify.com/album/76wLKtCSksItDW9xGOvNSF"
-      },
-      "artists": [
-        {
-          "name": "STEIN27",
-          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Toulavej pes",
-      "url": "https://open.spotify.com/track/5QYlIPA5azZQa8P75KxHKF"
     },
     {
       "added_at": "2026-10-05 09:44:57",
@@ -547,22 +531,6 @@
     {
       "added_at": "2026-10-05 09:44:57",
       "album": {
-        "name": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
-        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Rockstar Lifestyle",
-      "url": "https://open.spotify.com/track/1Xta6NZrYtyFz6jKMtAD85"
-    },
-    {
-      "added_at": "2026-10-05 09:44:57",
-      "album": {
         "name": "Majitel",
         "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
       },
@@ -597,6 +565,46 @@
       "url": "https://open.spotify.com/track/30rrpjqTLxgNVcyC3YqXLX"
     },
     {
+      "added_at": "2026-11-02 16:50:30",
+      "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1yz28fnKHjF4Yr06M6oCep"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
+    },
+    {
       "added_at": "2026-10-05 09:44:57",
       "album": {
         "name": "Self Aware",
@@ -611,30 +619,6 @@
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-10-05 09:44:57",
-      "album": {
-        "name": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
-        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Dusan Vlk",
-          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
-        },
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 198418,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm"
     },
     {
       "added_at": "2026-10-05 09:44:57",
@@ -691,22 +675,6 @@
     {
       "added_at": "2026-10-05 09:44:57",
       "album": {
-        "name": "KARAKORAM DLC",
-        "url": "https://open.spotify.com/album/119vGN06mULe4nDFonOOML"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 189088,
-      "name": "RAYMAN",
-      "url": "https://open.spotify.com/track/41AP7naWhEeGUzficbWMqd"
-    },
-    {
-      "added_at": "2026-10-05 09:44:57",
-      "album": {
         "name": "Vzpomene\u0161 si?",
         "url": "https://open.spotify.com/album/1rJPKCnQsKqGIwd3c0Q3QH"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 209491,
       "name": "Ona je se mnou",
       "url": "https://open.spotify.com/track/3uYb4vcO2o84zrcSzh442S"
+    },
+    {
+      "added_at": "2026-10-05 09:44:57",
+      "album": {
+        "name": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
+        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Rockstar Lifestyle",
+      "url": "https://open.spotify.com/track/1Xta6NZrYtyFz6jKMtAD85"
     },
     {
       "added_at": "2026-10-05 09:44:57",
@@ -831,6 +815,26 @@
     {
       "added_at": "2026-10-05 09:44:57",
       "album": {
+        "name": "Po\u010dkej (EUP SUMMER SEASON - PART II)",
+        "url": "https://open.spotify.com/album/7xaLic5TJyJCO2PZhKAdIl"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "duration_ms": 124569,
+      "name": "PO\u010cKEJ w8",
+      "url": "https://open.spotify.com/track/3Jn8X94JACpp9EzJGSdo8F"
+    },
+    {
+      "added_at": "2026-10-05 09:44:57",
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
@@ -895,6 +899,30 @@
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "added_at": "2026-10-05 09:44:57",
+      "album": {
+        "name": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
+        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 198418,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm"
     }
   ],
   "unique_name": "Hot Hits \u010cesk\u00e1 republika",

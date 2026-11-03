@@ -10599,6 +10599,24 @@
     },
     {
       "album": {
+        "name": "Hands All Over Me",
+        "url": "https://open.spotify.com/album/6bnOEbTr4vNEAzKFMiLECC"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "Hands All Over Me",
+      "url": "https://open.spotify.com/track/2ILdXZofeN6MBqZzovHkC1"
+    },
+    {
+      "album": {
         "name": "Happiness (Just A Pursuit)",
         "url": "https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk"
       },

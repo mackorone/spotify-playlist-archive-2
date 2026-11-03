@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Navz\-47
 
-398 songs - 20 hr 38 min
+399 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,8 @@
 | [Rekka Rekka \- From "Bison Kaalamaadan"](https://open.spotify.com/track/2lyodB0HLF9KWD8lR4EA4J) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [Mari Selvaraj](https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF) | [Rekka Rekka \(From "Bison Kaalamaadan"\)](https://open.spotify.com/album/7Br0FidswToB3vRdj9H8Nl) | 5:03 | 2025-09-16 | 2026-06-16 |
 | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/track/0Ozbr9VJeL4ratoGYWop3K) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/album/3Z4pHhZ5NKMNoNCKIngFCm) | 3:05 | 2022-02-08 | 2025-06-04 |
 | [RIGHTA](https://open.spotify.com/track/3aCAZ1BG3Arw9vr4BS9bH4) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [M.Kowtham](https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63) | [RIGHTA](https://open.spotify.com/album/7eDopjlMuLu5f7UlteRDwc) | 2:26 | 2025-01-16 | 2025-09-25 |
-| [Rise of Linga \(From "MAGUDAM"\)](https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [V7h](https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl) | [Rise of Linga \(From "MAGUDAM"\)](https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1) | 3:24 | 2026-06-24 |  |
+| [Rise of Linga \(From "MAGUDAM"\)](https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [V7h](https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl) | [Rise of Linga \(From "MAGUDAM"\)](https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1) | 3:24 | 2026-06-24 | 2026-11-03 |
+| [Rise Up \(From "Black Gold"\)](https://open.spotify.com/track/2OYhWHcE8lChALxCiB13Li) | [Ram Agarathi](https://open.spotify.com/artist/4siGcYWw3GKdktSUL0j7WC), [Gavaskar Avinash](https://open.spotify.com/artist/4P2nwFIMURDKwp0dPOXKdR), [Mohanrajan](https://open.spotify.com/artist/5tSoZKJdiyAz4blPkLLF3X) | [Rise Up \(From "Black Gold"\)](https://open.spotify.com/album/5hEluMZ7fEZCHBMKNykJbD) | 3:00 | 2026-11-02 |  |
 | [Rising Rapper](https://open.spotify.com/track/6EGqZTMsrDmZqHD1iyRnkz) | [Rising Rapper](https://open.spotify.com/artist/4ryNpVoZhhCRhmOd670exX), [JOTA BEATS](https://open.spotify.com/artist/3tYFktzlCJPbLT1Wek52Ia) | [Rising Rapper](https://open.spotify.com/album/5zv1qpZ3sisND29nVCpLVC) | 3:21 | 2024-12-29 | 2025-07-29 |
 | [Romeo Juliet](https://open.spotify.com/track/6lGWiSWFT6cqS8tMBdf8Gc) | [Rapkid 02](https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA), [Gri$ly](https://open.spotify.com/artist/6rBPV9Thl28A5Q6fOqcW0t), [LEO XMD](https://open.spotify.com/artist/4tv4JflXtgC6Zp7697lWAS) | [Romeo Juliet](https://open.spotify.com/album/4cirqcCjzcOpSELBZ0LmCa) | 2:57 | 2026-04-20 | 2026-05-16 |
 | [Run for Your Life](https://open.spotify.com/track/4n74SPac7vNNusBi0Mm4iV) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Psycho.unit](https://open.spotify.com/artist/1hLQI3u6T2xxVOkrCCjbBC), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg) | [Biriyani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19ByOiM4yu0ETa2HNYng86) | 4:52 | 2022-02-08 | 2023-05-13 |

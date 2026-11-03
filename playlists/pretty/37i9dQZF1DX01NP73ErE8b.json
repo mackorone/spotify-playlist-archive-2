@@ -1,13 +1,45 @@
 {
   "description": "le canzoni di cui siamo ossessionati \ud83c\udde7\ud83c\uddf7 Gaia in cover ",
-  "num_followers": 644715,
+  "num_followers": 644709,
   "original_name": "Alta Rotazione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAnbtYoejOzluvr7r4o4bvKBPSE/",
+  "snapshot_id": "AAAAAJwxO0eajPjgIqyjEDs7S4oftBXF",
   "tracks": [
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "SENZ'ALLEGRIA",
+        "url": "https://open.spotify.com/album/77oDrvHHBmNUZFW9xvwSM2"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "SENZ'ALLEGRIA",
+      "url": "https://open.spotify.com/track/2hbrk0CNaGmQNZWlFhkTZg"
+    },
+    {
+      "added_at": "2026-10-29 23:02:17",
+      "album": {
+        "name": "Eri solo da incontrare",
+        "url": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 178859,
+      "name": "Eri solo da incontrare",
+      "url": "https://open.spotify.com/track/1G7rRciOGpVMJojr6ROuKv"
+    },
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
@@ -31,38 +63,6 @@
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
-        "name": "LENTIGGINI",
-        "url": "https://open.spotify.com/album/6aeOCggQb28q7vHm6hp0Ug"
-      },
-      "artists": [
-        {
-          "name": "SETTEMBRE",
-          "url": "https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2"
-        }
-      ],
-      "duration_ms": 179669,
-      "name": "LENTIGGINI",
-      "url": "https://open.spotify.com/track/1YXR6Fvqz6rRnZYStqVHNJ"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "SENZ'ALLEGRIA",
-        "url": "https://open.spotify.com/album/77oDrvHHBmNUZFW9xvwSM2"
-      },
-      "artists": [
-        {
-          "name": "Gaia",
-          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "SENZ'ALLEGRIA",
-      "url": "https://open.spotify.com/track/2hbrk0CNaGmQNZWlFhkTZg"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
         "name": "Vita da adulti",
         "url": "https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia"
       },
@@ -75,22 +75,6 @@
       "duration_ms": 213790,
       "name": "Vita da adulti",
       "url": "https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro"
-    },
-    {
-      "added_at": "2026-10-29 23:02:17",
-      "album": {
-        "name": "Eri solo da incontrare",
-        "url": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 178859,
-      "name": "Eri solo da incontrare",
-      "url": "https://open.spotify.com/track/1G7rRciOGpVMJojr6ROuKv"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -129,6 +113,54 @@
       "url": "https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd"
     },
     {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "L'AMORE",
+        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "QUANTO FORTE TI PENSAVO",
+      "url": "https://open.spotify.com/track/7ldyOPtbSh2t7iOEAsFOlR"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "LENTIGGINI",
+        "url": "https://open.spotify.com/album/6aeOCggQb28q7vHm6hp0Ug"
+      },
+      "artists": [
+        {
+          "name": "SETTEMBRE",
+          "url": "https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2"
+        }
+      ],
+      "duration_ms": 179669,
+      "name": "LENTIGGINI",
+      "url": "https://open.spotify.com/track/1YXR6Fvqz6rRnZYStqVHNJ"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "Giornate perse",
+        "url": "https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 219078,
+      "name": "Giornate perse",
+      "url": "https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N"
+    },
+    {
       "added_at": "2026-10-22 22:02:37",
       "album": {
         "name": "Amateur",
@@ -138,15 +170,11 @@
         {
           "name": "Cesare Cremonini",
           "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 265017,
-      "name": "Amateur (feat. Salmo)",
-      "url": "https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC"
+      "duration_ms": 233018,
+      "name": "Non Lo Diciamo A Nessuno",
+      "url": "https://open.spotify.com/track/6afr3pf8eGKGOSIpTVAzSB"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -167,22 +195,6 @@
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
-        "name": "Giornate perse",
-        "url": "https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 219078,
-      "name": "Giornate perse",
-      "url": "https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
         "name": "Da Dio",
         "url": "https://open.spotify.com/album/1XjzMjgg0ktZSGrUv3j1bs"
       },
@@ -195,22 +207,6 @@
       "duration_ms": 173415,
       "name": "Da Dio",
       "url": "https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "L'AMORE",
-        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 213749,
-      "name": "QUANTO FORTE TI PENSAVO",
-      "url": "https://open.spotify.com/track/7ldyOPtbSh2t7iOEAsFOlR"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -249,24 +245,20 @@
       "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
     },
     {
-      "added_at": "2026-10-15 22:02:53",
+      "added_at": "2026-11-02 23:01:09",
       "album": {
-        "name": "Genova e Napoli",
-        "url": "https://open.spotify.com/album/7L8I7uCdJIKQJsRIaeB0cz"
+        "name": "BUONANOTTE ANCHE STANOTTE",
+        "url": "https://open.spotify.com/album/2F8WdwMPcayDvddkNLKaeI"
       },
       "artists": [
         {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        },
-        {
-          "name": "Gigi D'Alessio",
-          "url": "https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn"
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
         }
       ],
-      "duration_ms": 178398,
-      "name": "Genova e Napoli",
-      "url": "https://open.spotify.com/track/4IPvLJHeW1wwPDz0mYvxzZ"
+      "duration_ms": 210400,
+      "name": "BUONANOTTE ANCHE STANOTTE",
+      "url": "https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -303,6 +295,26 @@
       "duration_ms": 175124,
       "name": "SOTTOGONNA",
       "url": "https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "Genova e Napoli",
+        "url": "https://open.spotify.com/album/7L8I7uCdJIKQJsRIaeB0cz"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Gigi D'Alessio",
+          "url": "https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn"
+        }
+      ],
+      "duration_ms": 178398,
+      "name": "Genova e Napoli",
+      "url": "https://open.spotify.com/track/4IPvLJHeW1wwPDz0mYvxzZ"
     },
     {
       "added_at": "2026-10-29 23:02:17",
@@ -343,6 +355,22 @@
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
+        "name": "Cabana",
+        "url": "https://open.spotify.com/album/6jZqXuGjnCopndMocQFEcm"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Cabana",
+      "url": "https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
         "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
         "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
       },
@@ -361,38 +389,6 @@
       "url": "https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny"
     },
     {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "Cabana",
-        "url": "https://open.spotify.com/album/6jZqXuGjnCopndMocQFEcm"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Cabana",
-      "url": "https://open.spotify.com/track/0mky62869TYpIcvQ9NmOtY"
-    },
-    {
-      "added_at": "2026-10-22 22:02:37",
-      "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 233018,
-      "name": "Non Lo Diciamo A Nessuno",
-      "url": "https://open.spotify.com/track/6afr3pf8eGKGOSIpTVAzSB"
-    },
-    {
       "added_at": "2026-10-29 23:02:17",
       "album": {
         "name": "Napoleone Buonanotte",
@@ -407,6 +403,22 @@
       "duration_ms": 215794,
       "name": "Napoleone Buonanotte",
       "url": "https://open.spotify.com/track/2JbvlE5JTHu5ZE0evugA6I"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "ok buonanotte",
+        "url": "https://open.spotify.com/album/5XcS6TmwOrLNWXGwIhJV51"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "duration_ms": 157405,
+      "name": "ok buonanotte",
+      "url": "https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -445,22 +457,6 @@
       "url": "https://open.spotify.com/track/6mn3IXt1IIQh22zgVK8u6G"
     },
     {
-      "added_at": "2026-10-29 23:02:17",
-      "album": {
-        "name": "la verit\u00e0",
-        "url": "https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5"
-      },
-      "artists": [
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        }
-      ],
-      "duration_ms": 185189,
-      "name": "la verit\u00e0",
-      "url": "https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq"
-    },
-    {
       "added_at": "2026-10-15 22:02:53",
       "album": {
         "name": "ROMANTICA",
@@ -479,18 +475,18 @@
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
-        "name": "ok buonanotte",
-        "url": "https://open.spotify.com/album/5XcS6TmwOrLNWXGwIhJV51"
+        "name": "SIAMO IN TANTI",
+        "url": "https://open.spotify.com/album/3CJKiitPJKBKnqTUVGAt1M"
       },
       "artists": [
         {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
         }
       ],
-      "duration_ms": 157405,
-      "name": "ok buonanotte",
-      "url": "https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7"
+      "duration_ms": 194114,
+      "name": "SIAMO IN TANTI",
+      "url": "https://open.spotify.com/track/364ibCiSbnQT8qUfUf1zI4"
     },
     {
       "added_at": "2026-10-22 22:02:37",
@@ -617,6 +613,26 @@
       "url": "https://open.spotify.com/track/6rjtyTMW02B0eIoaFGdw4l"
     },
     {
+      "added_at": "2026-10-22 22:02:37",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 265017,
+      "name": "Amateur (feat. Salmo)",
+      "url": "https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC"
+    },
+    {
       "added_at": "2026-10-15 22:02:53",
       "album": {
         "name": "DUE SETTIMANE",
@@ -631,22 +647,6 @@
       "duration_ms": 217611,
       "name": "DUE SETTIMANE",
       "url": "https://open.spotify.com/track/5No1FtxyDFpuvroVqIOhjK"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "SIAMO IN TANTI",
-        "url": "https://open.spotify.com/album/3CJKiitPJKBKnqTUVGAt1M"
-      },
-      "artists": [
-        {
-          "name": "Emma Nolde",
-          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
-        }
-      ],
-      "duration_ms": 194114,
-      "name": "SIAMO IN TANTI",
-      "url": "https://open.spotify.com/track/364ibCiSbnQT8qUfUf1zI4"
     },
     {
       "added_at": "2026-10-22 22:02:37",
@@ -679,6 +679,22 @@
       "duration_ms": 184250,
       "name": "Inverno Nucleare",
       "url": "https://open.spotify.com/track/5nzlnFOCatMay9EiKMf0z2"
+    },
+    {
+      "added_at": "2026-10-29 23:02:17",
+      "album": {
+        "name": "la verit\u00e0",
+        "url": "https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "duration_ms": 185189,
+      "name": "la verit\u00e0",
+      "url": "https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -873,7 +889,7 @@
         }
       ],
       "duration_ms": 136262,
-      "name": "OMBRE",
+      "name": "OMBRE (feat. Carl Brave, Sarah Toscano & Giuse The Lizia)",
       "url": "https://open.spotify.com/track/0RanD45tjNfmAZ516XHIIF"
     },
     {
@@ -1483,26 +1499,6 @@
       "duration_ms": 144100,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/2pULqfE2k1DHr24dtJwMRh"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        },
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Zero stare sereno",
-      "url": "https://open.spotify.com/track/5MCOAQ3gNReN6bZqrg4ZV6"
     }
   ],
   "unique_name": "Alta Rotazione",

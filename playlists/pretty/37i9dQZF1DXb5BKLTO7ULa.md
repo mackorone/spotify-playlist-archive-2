@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Isabèl Usher, Armin van Buuren & Douwe Bob, Claude, MEAU, Gracie Abrams en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,473 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,456 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 37 | [Canary](https://open.spotify.com/track/2RqoTukas6v1tFb35pG2u6) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Nu Zamrock](https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz) | 2:51 |
 | 38 | [African Baddie](https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [African Baddie](https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96) | 2:37 |
 | 39 | [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 |
-| 40 | [Soldaten](https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DFYNE](https://open.spotify.com/artist/6dpOGnRCKWUjqUhOTEPxm2) | [Soldaten](https://open.spotify.com/album/7zXiNWkMq10fOHzj7KgKEc) | 2:21 |
+| 40 | [Soldaten](https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DFYNE](https://open.spotify.com/artist/6dpOGnRCKWUjqUhOTEPxm2), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Soldaten](https://open.spotify.com/album/7zXiNWkMq10fOHzj7KgKEc) | 2:21 |
 | 41 | [City Boys](https://open.spotify.com/track/31PlIzDW5KB0xdvFQB66X0) | [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP) | [City Boys](https://open.spotify.com/album/4qd6jIPP9MYTvV2tWLQQJr) | 2:49 |
 | 42 | [Purosangue](https://open.spotify.com/track/4EeJ05gxLu2p7EoRtyGqBY) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Bigbelly](https://open.spotify.com/artist/4JTFTkrF0NIFkFhYambgZR) | [Purosangue](https://open.spotify.com/album/2kR9bYxRk5TfaBeBTrnNBx) | 2:37 |
 | 43 | [Boots](https://open.spotify.com/track/461y6RWo18JSORPAfVY1PH) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Boots](https://open.spotify.com/album/25MRumQqz0hmFKFYG7EJ7k) | 3:27 |

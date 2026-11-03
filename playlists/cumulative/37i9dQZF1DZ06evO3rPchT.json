@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 240452,
       "name": "Gin & Juice - HARDY\u2019s Version",
       "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
@@ -1174,6 +1174,28 @@
       "duration_ms": 213693,
       "name": "He Went To Jared (HARDY feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv"
+    },
+    {
+      "album": {
+        "name": "Sides",
+        "url": "https://open.spotify.com/album/6mgte0B9tIUdIKAtzVrUXf"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227830,
+      "name": "Hell (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/1nJMxZnnD8haVM4LdUnbI8"
     },
     {
       "album": {

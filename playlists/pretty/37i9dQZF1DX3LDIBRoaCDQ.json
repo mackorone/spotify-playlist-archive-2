@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1602925,
+  "num_followers": 1602880,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 119826,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Cut (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "Typical Girls",
-      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 167400,
       "name": "All This and More",
       "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Typical Girls",
+      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "The Record",
-        "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
-      },
-      "artists": [
-        {
-          "name": "Fear",
-          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I Love Livin' in the City",
-      "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 130826,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "The Record",
+        "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
+      },
+      "artists": [
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "I Love Livin' in the City",
+      "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Anthology: The Sounds Of Science",
-        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 120266,
-      "name": "I Want Some",
-      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/6tpBWn2jPpA9eu2WpTgaQb"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 250506,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/2ZbzrRPN0Sb72KbOw7jhXB"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Anthology: The Sounds Of Science",
+        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 120266,
+      "name": "I Want Some",
+      "url": "https://open.spotify.com/track/1JaEF8ofVVnVPj2UuD2r4N"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 91240,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Wild in the Streets",
         "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
       },
       "artists": [
         {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
         }
       ],
-      "duration_ms": 283800,
-      "name": "Add It Up - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
+      "duration_ms": 91240,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 150333,
       "name": "I Wanna Be Sedated",
       "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Add It Up - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
     },
     {
       "added_at": "2024-11-29 00:00:00",

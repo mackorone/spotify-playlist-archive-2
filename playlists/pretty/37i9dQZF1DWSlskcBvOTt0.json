@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 595095,
+  "num_followers": 595118,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -975,30 +975,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Cola (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
-      },
-      "artists": [
-        {
-          "name": "CAMELPHAT",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Cola - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
         "url": "https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 374237,
       "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Cola (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
+      },
+      "artists": [
+        {
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Cola - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1332,7 +1332,7 @@
           "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
         }
       ],
-      "duration_ms": 207830,
+      "duration_ms": 207457,
       "name": "Gurbet (feat. Shimza)",
       "url": "https://open.spotify.com/track/2nHIwvtRJyk8a5zTQ9JdSR"
     },
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Talking Slow",
+        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Talking Slow",
+      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Dance Baby",
         "url": "https://open.spotify.com/album/6qWx2Uq17g7PlhuQCw7KHA"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 152975,
       "name": "Kamwana",
       "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Talking Slow",
-        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Talking Slow",
-      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "Flotando",
+        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 235795,
+      "name": "Flotando",
+      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 185000,
       "name": "LOW",
       "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Flotando",
-        "url": "https://open.spotify.com/album/2Cf1aTm4Lq8W5Gus37qAsA"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        }
-      ],
-      "duration_ms": 235795,
-      "name": "Flotando",
-      "url": "https://open.spotify.com/track/58MWnFm9Hm6h84hh3bZz1E"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "A.I.E.",
-        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
-      },
-      "artists": [
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        },
-        {
-          "name": "Alejandro Garrido",
-          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
-        }
-      ],
-      "duration_ms": 166707,
-      "name": "A.I.E.",
-      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
       },
@@ -2339,6 +2319,26 @@
       "duration_ms": 296000,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "A.I.E.",
+        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
+      },
+      "artists": [
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Alejandro Garrido",
+          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
+        }
+      ],
+      "duration_ms": 166707,
+      "name": "A.I.E.",
+      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
+        "name": "8pm",
+        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "duration_ms": 354098,
+      "name": "8pm",
+      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
         "name": "Negra Soy",
         "url": "https://open.spotify.com/album/6jkZytlx55qM8m45fDqsXf"
       },
@@ -2475,34 +2491,22 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "8pm",
-        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/2LgrHcS2vize3nhCiwzWxQ"
       },
       "artists": [
         {
-          "name": "Walid Martinez",
-          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "8pm",
-      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
-      },
-      "artists": [
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        },
         {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+          "name": "Marieme",
+          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
         }
       ],
-      "duration_ms": 154918,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
+      "duration_ms": 254365,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/1n7FS2Rm3ptTAOeN82ehRn"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2523,6 +2527,22 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+    },
+    {
+      "added_at": "2026-10-23 04:00:56",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
+      },
+      "artists": [
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 154918,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2555,26 +2575,6 @@
       "duration_ms": 380625,
       "name": "The Whistle Tune",
       "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
-    },
-    {
-      "added_at": "2026-10-23 04:00:56",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/2LgrHcS2vize3nhCiwzWxQ"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        },
-        {
-          "name": "Marieme",
-          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
-        }
-      ],
-      "duration_ms": 254365,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/1n7FS2Rm3ptTAOeN82ehRn"
     },
     {
       "added_at": "2026-10-23 04:00:56",
@@ -2639,26 +2639,30 @@
     {
       "added_at": "2026-10-23 04:00:56",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/1pgnVo1I3oh6EjBdOJjgI5"
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/726IuXpQlxUGdrlSr1fwKR"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         },
         {
-          "name": "MASSALA",
-          "url": "https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
         },
         {
-          "name": "LexBlaze",
-          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
+          "name": "Daybreaker",
+          "url": "https://open.spotify.com/artist/6tlxu5AIXKdS2ODsaxjms1"
+        },
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE"
+      "duration_ms": 303296,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/0FIAB3qd9n8Va9rhmRjteH"
     }
   ],
   "unique_name": "Tantra",

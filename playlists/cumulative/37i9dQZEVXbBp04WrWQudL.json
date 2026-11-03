@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/0IM6TVN7HYWAThw5aEPJRJ"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237056,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/2uY20FD6cAiH5vziccgjAJ"
+    },
+    {
+      "album": {
         "name": "All Too Well: The Short Film",
         "url": "https://open.spotify.com/album/3X4GpQK5ZwoWzyLtFe0khh"
       },
@@ -256,7 +274,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 193002,
       "name": "ALO",
       "url": "https://open.spotify.com/track/50uIKJ5s8zmS6RxzFxZg0A"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 298602,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0ObFg0ZQ3QgZ1AbJKtZZy9"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 269110,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/4l441nLxQK38Jgnk94Ebfc"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 199324,
       "name": "E A\u00ed Tempo",
       "url": "https://open.spotify.com/track/5iVvBRhx0gHgAVRk2eAQaK"
@@ -1799,6 +1817,46 @@
     },
     {
       "album": {
+        "name": "Eu Duvido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1xZa2xmrowRksgHJmT2NF4"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180714,
+      "name": "Eu Duvido - Ao Vivo",
+      "url": "https://open.spotify.com/track/3InUnLrBmKKUEUxyct6BUX"
+    },
+    {
+      "album": {
+        "name": "Eu Me Apaixonei",
+        "url": "https://open.spotify.com/album/5mdtZjWRmKfJePCjbbVsng"
+      },
+      "artists": [
+        {
+          "name": "Vitinho Imperador",
+          "url": "https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205801,
+      "name": "Eu Me Apaixonei",
+      "url": "https://open.spotify.com/track/0cv8KuG36G29khMGgI3Rnb"
+    },
+    {
+      "album": {
         "name": "Eu Te Seguro (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ndsggmv65NuQmDEGkS9a"
       },
@@ -1814,7 +1872,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -3401,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Mentes t\u00e3o bem (Mientes tan bien)",
+        "url": "https://open.spotify.com/album/3UB5ICrhxK2OxfK5ZD3O72"
+      },
+      "artists": [
+        {
+          "name": "Zez\u00e9 Di Camargo & Luciano",
+          "url": "https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Mentes t\u00e3o bem (Mientes tan bien)",
+      "url": "https://open.spotify.com/track/4KjsYSDzuY07eUaS4Rgm6P"
+    },
+    {
+      "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo"
       },
@@ -3728,7 +3804,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 201950,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ"
@@ -4868,7 +4944,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 215732,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7fcGbzoKrmDrdF3jZqdegN"
@@ -4966,7 +5042,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 208298,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
@@ -5060,7 +5136,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 201000,
       "name": "Super Freak",
       "url": "https://open.spotify.com/track/7caFg3qzsnhl0CjYatTFzZ"
@@ -5244,7 +5320,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 157802,
       "name": "The Happy Song",
       "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
@@ -5388,7 +5464,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 211605,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/68QF7ZdRyyIJyEnCfBeVKx"
@@ -5500,7 +5576,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 244502,
       "name": "Unloveu - Official Visual",
       "url": "https://open.spotify.com/track/6kAsEs1uckPjz41spirAda"
@@ -5782,7 +5858,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 305920,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/76fqoIuUaPDZjX2AMzHIzK"

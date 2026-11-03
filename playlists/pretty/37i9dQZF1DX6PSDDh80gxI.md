@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Giuse The Lizia felice rilassato perché sa che mica dobbiamo morire adesso \(e noi anche\) 💊
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,491 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,474 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 35 | [Senza Colori](https://open.spotify.com/track/6uYUjswzL1v6E20pmyUT9Y) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Senza Colori](https://open.spotify.com/album/1TbTvGNMHTAzUFFCPbQY4M) | 2:50 |
 | 36 | [senza di te](https://open.spotify.com/track/1jlPTAI8hxWO3j695JYEvj) | [PETRA](https://open.spotify.com/artist/3vouXKg5qDbuhmktukBZLQ) | [senza di te](https://open.spotify.com/album/4uz2qSBdzV9sz38BCcxZc0) | 3:16 |
 | 37 | [Aranciata](https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Aranciata](https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x) | 3:32 |
-| 38 | [IL BAGLIORE](https://open.spotify.com/track/5FLKBPsTY2iIkEPXUlFW1x) | [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [LA TAVOLA DELL'UMORE](https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra) | 2:52 |
+| 38 | [IL BAGLIORE \(feat\. 18K & prima stanza a destra\)](https://open.spotify.com/track/5FLKBPsTY2iIkEPXUlFW1x) | [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [LA TAVOLA DELL'UMORE](https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra) | 2:52 |
 | 39 | [Guardami](https://open.spotify.com/track/3DQiZPCHXrJgRc7P5C1N4G) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [La persona peggiore del mondo](https://open.spotify.com/album/4CdhuCmpUFGmzBw0gVqbDj) | 6:42 |
 | 40 | [Qualcosa di grande](https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 2:41 |
 | 41 | [l'unico ricordo](https://open.spotify.com/track/7LSt8i9gLiQbNulp92v46j) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [la ragazza che suonava il piano](https://open.spotify.com/album/4TW1W2WwtayQV9HWXFDoUM) | 2:30 |

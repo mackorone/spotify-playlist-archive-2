@@ -1,13 +1,29 @@
 {
   "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Murat Ceylan Wish",
-  "num_followers": 523336,
+  "num_followers": 523321,
   "original_name": "T\u00fcrk\u00e7e Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXBNpMaYB/X27uFkmUmvye2xIQ7",
+  "snapshot_id": "AAAAAKdP/sMXh6sKHCsTOeQhpmPKO3nK",
   "tracks": [
+    {
+      "added_at": "2026-11-02 11:58:41",
+      "album": {
+        "name": "N'apt\u0131n Kendinle",
+        "url": "https://open.spotify.com/album/26MXJgMM6Ew3ycDoIytOy0"
+      },
+      "artists": [
+        {
+          "name": "Adamlar",
+          "url": "https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W"
+        }
+      ],
+      "duration_ms": 174184,
+      "name": "N'apt\u0131n Kendinle",
+      "url": "https://open.spotify.com/track/0DqSVb5vz1OwcdWsZrXubg"
+    },
     {
       "added_at": "2026-10-12 10:00:29",
       "album": {
@@ -41,20 +57,24 @@
       "url": "https://open.spotify.com/track/5p95SzY6x3dHoJdHbpaarz"
     },
     {
-      "added_at": "2026-10-27 10:00:01",
+      "added_at": "2026-11-02 11:58:41",
       "album": {
-        "name": "Zaten A\u011fz\u0131m Bozuk",
-        "url": "https://open.spotify.com/album/2z3HRUt3stMPkBmIdOsEYp"
+        "name": "A\u011flama Ben A\u011flar\u0131m (Harbiye 2026)",
+        "url": "https://open.spotify.com/album/3MnBwpIrPlfooCgGaQGJWD"
       },
       "artists": [
         {
-          "name": "Model",
-          "url": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+          "name": "Canozan",
+          "url": "https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC"
+        },
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
         }
       ],
-      "duration_ms": 226496,
-      "name": "Zaten A\u011fz\u0131m Bozuk",
-      "url": "https://open.spotify.com/track/4Rgn6XuwkVGIPa9pFFISaN"
+      "duration_ms": 224237,
+      "name": "A\u011flama Ben A\u011flar\u0131m - Harbiye 2026",
+      "url": "https://open.spotify.com/track/0A8JbHInd1mhsKVUHa4WD0"
     },
     {
       "added_at": "2026-10-12 10:00:29",
@@ -73,6 +93,54 @@
       "url": "https://open.spotify.com/track/1YHuqpq9S8rLkOc8XKFA0O"
     },
     {
+      "added_at": "2026-11-02 11:58:41",
+      "album": {
+        "name": "Bilet",
+        "url": "https://open.spotify.com/album/1nwKGaiwEQGeqzt5s9Syrq"
+      },
+      "artists": [
+        {
+          "name": "Defa",
+          "url": "https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w"
+        }
+      ],
+      "duration_ms": 160206,
+      "name": "Bilet",
+      "url": "https://open.spotify.com/track/4kfsdxJnN2oudDWJccXHD1"
+    },
+    {
+      "added_at": "2026-10-27 10:00:01",
+      "album": {
+        "name": "Zaten A\u011fz\u0131m Bozuk",
+        "url": "https://open.spotify.com/album/2z3HRUt3stMPkBmIdOsEYp"
+      },
+      "artists": [
+        {
+          "name": "Model",
+          "url": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+        }
+      ],
+      "duration_ms": 226496,
+      "name": "Zaten A\u011fz\u0131m Bozuk",
+      "url": "https://open.spotify.com/track/4Rgn6XuwkVGIPa9pFFISaN"
+    },
+    {
+      "added_at": "2026-11-02 11:58:41",
+      "album": {
+        "name": "G\u00f6z",
+        "url": "https://open.spotify.com/album/52bhjUu2YBiJ1FFPthf1W2"
+      },
+      "artists": [
+        {
+          "name": "Zakkum",
+          "url": "https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "G\u00f6z",
+      "url": "https://open.spotify.com/track/52OJr408L2oFtUJSeVGqfi"
+    },
+    {
       "added_at": "2026-10-27 10:00:01",
       "album": {
         "name": "Libido (Demo 2001)",
@@ -87,6 +155,38 @@
       "duration_ms": 230062,
       "name": "Libido (Demo 2001)",
       "url": "https://open.spotify.com/track/6UAXwl7TYK47yDreIjYrTB"
+    },
+    {
+      "added_at": "2026-11-02 11:58:41",
+      "album": {
+        "name": "Ben Senden Vazge\u00e7tim",
+        "url": "https://open.spotify.com/album/07EhNBkJe0umxMd4O9bsCF"
+      },
+      "artists": [
+        {
+          "name": "Ven\u00fcs",
+          "url": "https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf"
+        }
+      ],
+      "duration_ms": 223971,
+      "name": "Ben Senden Vazge\u00e7tim",
+      "url": "https://open.spotify.com/track/4yIhqxUae3MRs01FcRsHKr"
+    },
+    {
+      "added_at": "2026-11-02 11:58:41",
+      "album": {
+        "name": "rockstar dedigin boyle olur",
+        "url": "https://open.spotify.com/album/4i7GEiAN1yewzDX4uSV6tH"
+      },
+      "artists": [
+        {
+          "name": "Sapsar\u0131",
+          "url": "https://open.spotify.com/artist/3lunRn48dILiRvxj5FKDym"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "rockstar dedigin boyle olur",
+      "url": "https://open.spotify.com/track/58tBQqBW7RLRuizQZuMRFn"
     },
     {
       "added_at": "2026-10-27 10:00:01",
@@ -119,6 +219,22 @@
       "duration_ms": 238365,
       "name": "Yali Yali",
       "url": "https://open.spotify.com/track/4e1j5W9ogsWRFSJw7VPKqb"
+    },
+    {
+      "added_at": "2026-11-02 11:58:41",
+      "album": {
+        "name": "kuzgun",
+        "url": "https://open.spotify.com/album/4Rvnd4LPOMNkVJqNaeqjGE"
+      },
+      "artists": [
+        {
+          "name": "straygaze",
+          "url": "https://open.spotify.com/artist/5tBlQWKu3diCypEeqbEAPk"
+        }
+      ],
+      "duration_ms": 205858,
+      "name": "kuzgun",
+      "url": "https://open.spotify.com/track/0B80V7PZh3G07Nqj7hPq3s"
     },
     {
       "added_at": "2026-10-27 10:00:01",
@@ -569,22 +685,6 @@
       "url": "https://open.spotify.com/track/0StRQsI53GD6dwFKWH5xLq"
     },
     {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
-        "name": "Hep Bir \u0130syan",
-        "url": "https://open.spotify.com/album/4yJcmg0QNtwwxsmYzKYKlx"
-      },
-      "artists": [
-        {
-          "name": "\u0130sa \u00d6zkocaman",
-          "url": "https://open.spotify.com/artist/0U4jQs28By5TA9EzKTG6vZ"
-        }
-      ],
-      "duration_ms": 197794,
-      "name": "Hep Bir \u0130syan",
-      "url": "https://open.spotify.com/track/31B6glex78kE081TS4dz9A"
-    },
-    {
       "added_at": "2026-10-19 10:00:35",
       "album": {
         "name": "Kimim Ben",
@@ -599,26 +699,6 @@
       "duration_ms": 133333,
       "name": "Kimim Ben",
       "url": "https://open.spotify.com/track/0iMuykW7beBUfg6qRW0OXe"
-    },
-    {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
-        "name": "YALAN",
-        "url": "https://open.spotify.com/album/1rdAgahG36EbKGIu2jlrmV"
-      },
-      "artists": [
-        {
-          "name": "Maderzat",
-          "url": "https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH"
-        },
-        {
-          "name": "Ye\u015fim Salk\u0131m",
-          "url": "https://open.spotify.com/artist/1EazdGiXrpHKzZTsuWK8zw"
-        }
-      ],
-      "duration_ms": 212892,
-      "name": "YALAN",
-      "url": "https://open.spotify.com/track/14A43gAtmAxQUGOWcYwReL"
     },
     {
       "added_at": "2026-10-19 10:00:35",
@@ -675,54 +755,6 @@
     {
       "added_at": "2026-10-12 10:00:29",
       "album": {
-        "name": "Tozbahar",
-        "url": "https://open.spotify.com/album/4zfUlKCSkihmOaTJL3M1oQ"
-      },
-      "artists": [
-        {
-          "name": "Dedikodu",
-          "url": "https://open.spotify.com/artist/22gRkjIbMSNfS6gjtsFEG6"
-        }
-      ],
-      "duration_ms": 311637,
-      "name": "Tozbahar",
-      "url": "https://open.spotify.com/track/5Hu2tp1xuzDQDuGgNmCuYD"
-    },
-    {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
-        "name": "Be\u015fikten Mezara",
-        "url": "https://open.spotify.com/album/4c60BpZQjzpPMCoPCs7Rgd"
-      },
-      "artists": [
-        {
-          "name": "Dengesiz Herifler",
-          "url": "https://open.spotify.com/artist/5wR7ZD67JNA7TYsiycE32o"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Be\u015fikten Mezara",
-      "url": "https://open.spotify.com/track/6F55dXDqTAQlGpIAgIpHup"
-    },
-    {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
-        "name": "Bamba\u015fka Bir D\u00fcnya",
-        "url": "https://open.spotify.com/album/6f9yHcfqllpJAoNfPozqse"
-      },
-      "artists": [
-        {
-          "name": "MA RA",
-          "url": "https://open.spotify.com/artist/768QxHapruFsSAhTeWlrlw"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Bamba\u015fka Bir D\u00fcnya",
-      "url": "https://open.spotify.com/track/3kaHm0vALH9M5DQkrC38vA"
-    },
-    {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
         "name": "Kanl\u0131 A\u015fk",
         "url": "https://open.spotify.com/album/3l2ky51Um0vlsL5GHv9HQV"
       },
@@ -751,38 +783,6 @@
       "duration_ms": 239636,
       "name": "Ya\u015famaya Mecbursun",
       "url": "https://open.spotify.com/track/0AGctQr9nLp1PJyBs7ncfM"
-    },
-    {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
-        "name": "Yeni Ba\u015ftan",
-        "url": "https://open.spotify.com/album/17cPu29ylSucfgeD7UeUnm"
-      },
-      "artists": [
-        {
-          "name": "\u00d6zge F\u0131\u015fk\u0131n",
-          "url": "https://open.spotify.com/artist/0acW6PhzqNwRvVcnRozzfB"
-        }
-      ],
-      "duration_ms": 204096,
-      "name": "Yeni Ba\u015ftan",
-      "url": "https://open.spotify.com/track/6tGWydNQUB3lsEdaGO2K4q"
-    },
-    {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
-        "name": "G\u00fczel Bir G\u00fcn",
-        "url": "https://open.spotify.com/album/5y7ff1TC68L72T1KjVmGMJ"
-      },
-      "artists": [
-        {
-          "name": "Cem Baysal",
-          "url": "https://open.spotify.com/artist/0pbfsV6TegwmfeAxLQkrZ0"
-        }
-      ],
-      "duration_ms": 172340,
-      "name": "G\u00fczel Bir G\u00fcn",
-      "url": "https://open.spotify.com/track/67FUDG69vSveFfKXNHCtgx"
     },
     {
       "added_at": "2026-10-12 10:00:29",
@@ -867,22 +867,6 @@
       "duration_ms": 265757,
       "name": "Kolay De\u011fil",
       "url": "https://open.spotify.com/track/3mQopvYgdUUqk3gMBWfezx"
-    },
-    {
-      "added_at": "2026-10-12 10:00:29",
-      "album": {
-        "name": "26",
-        "url": "https://open.spotify.com/album/4IOP4GWFrZwDKVVbIO7MJ4"
-      },
-      "artists": [
-        {
-          "name": "Ars Longa",
-          "url": "https://open.spotify.com/artist/469bcSDGiMNbVssgFqGMRg"
-        }
-      ],
-      "duration_ms": 189730,
-      "name": "26",
-      "url": "https://open.spotify.com/track/7Gy9l8gs0NLxHkP8ugW5M9"
     },
     {
       "added_at": "2026-10-12 10:00:29",

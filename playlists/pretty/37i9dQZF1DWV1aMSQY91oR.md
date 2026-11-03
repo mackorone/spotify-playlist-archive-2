@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > We'll be back next week with the latest in hip\-hop\. Cover: City Fidelia, Malik Yusef, VIC MENSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,967 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,977 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

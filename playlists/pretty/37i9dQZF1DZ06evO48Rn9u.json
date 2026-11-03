@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 159671,
+  "num_followers": 159686,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAABosRrhIp6TWlDUX/wrTixR",
+  "snapshot_id": "auaBAAAAAAAGEEyCzJOSRTEPfnvZqFkL",
   "tracks": [
     {
       "added_at": null,
@@ -204,7 +204,7 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 231419,
-      "name": "Back On The Wagon",
-      "url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
+      "duration_ms": 256475,
+      "name": "Loneliest Girl",
+      "url": "https://open.spotify.com/track/4fjcOqEadLRIj6jJ19lYCE"
     },
     {
       "added_at": null,
@@ -252,7 +252,7 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 256475,
-      "name": "Loneliest Girl",
-      "url": "https://open.spotify.com/track/4fjcOqEadLRIj6jJ19lYCE"
+      "duration_ms": 231419,
+      "name": "Back On The Wagon",
+      "url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
     },
     {
       "added_at": null,

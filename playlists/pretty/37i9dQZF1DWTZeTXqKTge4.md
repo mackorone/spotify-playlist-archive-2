@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Fléau Dicaprio, Lary Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,608 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,606 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 60 | [TOUT VA TROP VITE](https://open.spotify.com/track/0NNxX6ZYEhpxGs0QwtyOB2) | [Floraison Tardive](https://open.spotify.com/artist/22h02uNReoFoSiyLU56tHz) | [Radeau Capharnaüm](https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf) | 2:55 |
 | 61 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
 | 62 | [Fascinant](https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 3:30 |
-| 63 | [MON TOUR](https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MON TOUR](https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG) | 2:31 |
-| 64 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
-| 65 | [TOUT CE QU'ON FAIT](https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [AUCUN MENSONGE](https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h) | 2:48 |
+| 63 | [CLIC CLAC](https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [CLIC CLAC](https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN) | 2:40 |
+| 64 | [TOUT CE QU'ON FAIT](https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [AUCUN MENSONGE](https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h) | 2:48 |
+| 65 | [MON TOUR](https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MON TOUR](https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG) | 2:31 |
 | 66 | [Wrong](https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Wrong](https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj) | 3:03 |
 | 67 | [Parfait pays](https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM), [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF) | [Parfait pays](https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf) | 2:19 |
-| 68 | [Cayo Perico](https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:30 |
-| 69 | [Disque D'or](https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9) | [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [Disque D'or](https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr) | 3:15 |
+| 68 | [Disque D'or](https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9) | [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3) | [Disque D'or](https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr) | 3:15 |
+| 69 | [Cayo Perico](https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:30 |
 | 70 | [L'étage souterrain](https://open.spotify.com/track/5jEY7o6CLzkEqQAvIHaiRG) | [Sans Pression](https://open.spotify.com/artist/4WRTfy1amcikjn8lvpd5pS), [Yvon Krevé](https://open.spotify.com/artist/0xGKfXSf03NYjxQQruyYOZ) | [514\-50 Dans mon réseau \(Édition 20e anniversaire\)](https://open.spotify.com/album/4WfwdFaRrXE83b4biyPhlK) | 5:52 |
 | 71 | [Le cœur à la bonne place](https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Le cœur à la bonne place](https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP) | 3:32 |
 | 72 | [Légendaire](https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [ÉlévaZIIION \(Société distincte\)](https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8) | 4:53 |

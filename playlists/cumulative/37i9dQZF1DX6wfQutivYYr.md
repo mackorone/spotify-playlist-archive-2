@@ -4,7 +4,7 @@
 
 > Geolier  in cover della playlist con tutte le hit 🔥
 
-385 songs - 20 hr 7 min
+386 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 | 2025-05-08 | 2025-11-28 |
 | [Se t'innamori muori](https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Se t'innamori muori](https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8) | 3:10 | 2025-02-17 | 2025-05-23 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-14 | 2026-09-25 |
+| [Sentire La Musica](https://open.spotify.com/track/70m2SuBHRCkxVpgqpXZPDk) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono Post Mortem](https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO) | 3:26 | 2026-11-02 |  |
 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 | 2026-04-29 |  |
 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 | 2025-06-05 | 2026-02-26 |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 | 2024-06-28 | 2024-11-15 |
@@ -365,7 +366,7 @@
 | [TU ED IO \(feat\. Rose Villain\)](https://open.spotify.com/track/7pQA55G6kvMIaNU4UcYktA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 3:03 | 2024-12-03 | 2025-04-11 |
 | [Tu Me Quieres \- Prod\. by Higashi x Roberto Ferrante](https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Tu Me Quieres](https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF) | 3:34 | 2024-11-15 | 2025-08-05 |
 | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Latte in Polvere](https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159) | 2:25 | 2025-11-19 | 2025-12-05 |
-| [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 | 2026-02-25 |  |
+| [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 | 2026-02-25 | 2026-11-03 |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-06-28 | 2024-08-02 |
 | [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 | 2025-02-17 | 2025-05-30 |
 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 | 2025-01-17 | 2025-02-21 |

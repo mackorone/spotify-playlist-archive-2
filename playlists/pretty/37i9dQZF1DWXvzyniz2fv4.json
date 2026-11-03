@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157913,
+  "num_followers": 157906,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,30 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -483,30 +507,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Brisa Errada",
-        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DaluzzZ",
-          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "Brisa Errada",
-      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "UM44K Ac\u00fastico",
         "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
@@ -519,6 +519,30 @@
       "duration_ms": 163492,
       "name": "Pode falar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "OCANV",
+        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Thiago Castanho",
+          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
+        },
+        {
+          "name": "Marc\u00e3o Britto",
+          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
+        }
+      ],
+      "duration_ms": 225138,
+      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -547,30 +571,6 @@
       "duration_ms": 187274,
       "name": "Ver o Mar",
       "url": "https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "OCANV",
-        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "Thiago Castanho",
-          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
-        },
-        {
-          "name": "Marc\u00e3o Britto",
-          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
-        }
-      ],
-      "duration_ms": 225138,
-      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "AIRBNB",
-        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "AIRBNB",
-      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 144117,
       "name": "Tira, Coloca De Volta",
       "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "AIRBNB",
+        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "AIRBNB",
+      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "BIA1B99",
-        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 157553,
-      "name": "PERSONAGEM",
-      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -1039,38 +1023,18 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "OBRA PRIMA",
-        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+        "name": "BIA1B99",
+        "url": "https://open.spotify.com/album/1D5jCZ1JDSmzkA45Y6S7mB"
       },
       "artists": [
         {
-          "name": "MC Gustavinho",
-          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
         }
       ],
-      "duration_ms": 169855,
-      "name": "OBRA PRIMA",
-      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "Eles N\u00e3o Querem",
-        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "TerrorDosBeats",
-          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Eles N\u00e3o Querem",
-      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
+      "duration_ms": 157553,
+      "name": "PERSONAGEM",
+      "url": "https://open.spotify.com/track/3rgHR1zhDCpP6nZzRS3yMU"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1095,6 +1059,42 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Eles N\u00e3o Querem",
+        "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Eles N\u00e3o Querem",
+      "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "OBRA PRIMA",
+        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "duration_ms": 169855,
+      "name": "OBRA PRIMA",
+      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188319,
+      "name": "Passa a Bola - Ao Vivo em Noronha",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola - Ao Vivo em Noronha",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
     },
     {
       "added_at": "2026-10-19 15:52:42",

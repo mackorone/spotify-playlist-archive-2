@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6muSuAUvee7pzSmVu1Wgys">uv killin em</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-45 songs - 2 hr 4 min
+47 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Back To Texas](https://open.spotify.com/track/4fe6BhZYJJw7XRZk6muwzm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 2:47 | 2026-06-09 |  |
 | [Braile](https://open.spotify.com/track/1jsUOG2qFVgLUP7DTUjtjR) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 3:30 | 2026-06-09 |  |
 | [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 | 2026-09-03 |  |
-| [Don't Waste Your Time](https://open.spotify.com/track/6ugwLnZak8lGnUqi8b8p15) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/79OANKfJCQyPCEf2H51tkM) | 2:08 | 2026-06-09 |  |
+| [Don't Waste Your Time](https://open.spotify.com/track/6ugwLnZak8lGnUqi8b8p15) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/79OANKfJCQyPCEf2H51tkM) | 2:08 | 2026-06-09 | 2026-11-03 |
+| [Don't Waste Your Time](https://open.spotify.com/track/7gZ6wC0JVjkS1W1xkpQ7zf) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/0gmvFL9UFeqwwBFDMWLDh5) | 2:08 | 2026-11-02 |  |
 | [Ee\-er](https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:24 | 2026-06-09 |  |
 | [EL CLúB](https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:42 | 2026-06-09 |  |
 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 | 2026-06-09 |  |
@@ -25,7 +26,8 @@
 | [heavy metal](https://open.spotify.com/track/2vpcuOcKoYoDlNNs0qGlpI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:23 | 2026-06-09 |  |
 | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/track/3pAVk6Ydn0dcGpG8gDyxSJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:59 | 2026-06-09 |  |
 | [In My Bag](https://open.spotify.com/track/2Fzj6imQgRutEdl0ugx79L) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [In My Bag](https://open.spotify.com/album/5jZGelX9KeTm1iXQvMS7aD) | 2:25 | 2026-06-09 |  |
-| [Issues](https://open.spotify.com/track/73RF3sAfPudbZ57jChqhiv) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/1fXSKNUR40ajVJvD4inDly) | 2:46 | 2026-06-09 |  |
+| [Issues](https://open.spotify.com/track/0fdGancqr2bZGUOT42CNj5) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/3x1N5mOC36Sy0KyBRFDWtk) | 2:46 | 2026-11-02 |  |
+| [Issues](https://open.spotify.com/track/73RF3sAfPudbZ57jChqhiv) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/1fXSKNUR40ajVJvD4inDly) | 2:46 | 2026-06-09 | 2026-11-03 |
 | [Justified](https://open.spotify.com/track/5oUjKkbMDkVUkQ4cirjHwF) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/3CDhdWD9GZB7Sj0QNnZ78y) | 2:45 | 2026-06-09 |  |
 | [Life Goes On](https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Life Goes On](https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W) | 2:46 | 2026-06-09 |  |
 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 | 2026-06-09 |  |

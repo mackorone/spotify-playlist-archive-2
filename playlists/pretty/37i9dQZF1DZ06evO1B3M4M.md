@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,472 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,474 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 44 | [The Healing](https://open.spotify.com/track/6rfaKOPGnWfd2ppFZUEuSZ) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Lady In The Water](https://open.spotify.com/album/6bmhNxmwCUtRLi8xq7FXkG) | 4:03 |
 | 45 | [I Can Carry You](https://open.spotify.com/track/5C3mNI59yu2t5UVlFT2AXz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 1:30 |
 | 46 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
-| 47 | [Tenuous Winners/Returning Home](https://open.spotify.com/track/3Bx7utlrwP1eAxFBUfqwXz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 3:25 |
-| 48 | [Haymitch Meets Snow \- From The Hunger Games: Sunrise on the Reaping \- The Score](https://open.spotify.com/track/29qXIy8tP35Zkx4bfeeGsv) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Haymitch Meets Snow \(From The Hunger Games: Sunrise on the Reaping \- The Score\)](https://open.spotify.com/album/6xGJkVAHSI3VDDsRIjKOCh) | 2:15 |
-| 49 | [Introduce a Little Anarchy](https://open.spotify.com/track/2LfWRXYCr1jM3RkEDOY8Dj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 3:41 |
-| 50 | [I Know You Are There](https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:35 |
+| 47 | [Haymitch Meets Snow \- From The Hunger Games: Sunrise on the Reaping \- The Score](https://open.spotify.com/track/29qXIy8tP35Zkx4bfeeGsv) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Haymitch Meets Snow \(From The Hunger Games: Sunrise on the Reaping \- The Score\)](https://open.spotify.com/album/6xGJkVAHSI3VDDsRIjKOCh) | 2:15 |
+| 48 | [Tenuous Winners/Returning Home](https://open.spotify.com/track/3Bx7utlrwP1eAxFBUfqwXz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 3:25 |
+| 49 | [I Know You Are There](https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:35 |
+| 50 | [Introduce a Little Anarchy](https://open.spotify.com/track/2LfWRXYCr1jM3RkEDOY8Dj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 3:41 |
 
-Snapshot ID: `auUvgAAAAABWJQA6omJjWLxbDVFlBX/T`
+Snapshot ID: `auUvgAAAAACnLec+6j83NnpmRWbRIIpd`

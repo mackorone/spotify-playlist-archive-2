@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 184343,
       "name": "En La Cima - En vivo",
       "url": "https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8"
@@ -2316,10 +2316,32 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+    },
+    {
+      "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/5kELlrPsgle78arB2Nfz8I"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/5TKTn0Fqrq5A3nEPQM7hqx"
     },
     {
       "album": {
@@ -2654,7 +2676,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 163034,
       "name": "Mi Nueva Versi\u00f3n",
       "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"

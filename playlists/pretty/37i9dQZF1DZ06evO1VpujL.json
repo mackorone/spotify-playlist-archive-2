@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 31171,
+  "num_followers": 31176,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAAB5wcwCTIzgR1bPAfo0Z80+",
+  "snapshot_id": "auaBAAAAAABiCL2Oqfms+Vl/IqRsHLVs",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 160064,
-      "name": "My People",
-      "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
+      "duration_ms": 223484,
+      "name": "Can I Get A",
+      "url": "https://open.spotify.com/track/1mgEQzdTR83G1PtiCOlCty"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 223484,
-      "name": "Can I Get A",
-      "url": "https://open.spotify.com/track/1mgEQzdTR83G1PtiCOlCty"
+      "duration_ms": 160064,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill The Power",
-        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 282613,
-      "name": "Open Eyed",
-      "url": "https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R"
+      "duration_ms": 231253,
+      "name": "Cut Dem",
+      "url": "https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Cut Dem",
-      "url": "https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill The Power",
         "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
       },
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 232386,
-      "name": "Ruling Force",
-      "url": "https://open.spotify.com/track/4pvGRrSuY0VUUJfzsrPAFI"
+      "duration_ms": 282613,
+      "name": "Open Eyed",
+      "url": "https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Bad Man Ah Bad Man",
+      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roots Rock Riot",
         "url": "https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR"
       },
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+        "name": "Kill The Power",
+        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Bad Man Ah Bad Man",
-      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
+      "duration_ms": 232386,
+      "name": "Ruling Force",
+      "url": "https://open.spotify.com/track/4pvGRrSuY0VUUJfzsrPAFI"
     },
     {
       "added_at": null,

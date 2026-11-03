@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 11476,
+  "num_followers": 11483,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAAB2Xg1UvbgFiOBHS3/l+s8B",
+  "snapshot_id": "auUvgAAAAACAQkDSMTS7c8Tz+hgSk/Lz",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/4rqufRRxh12mfN1K8IUxV8"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Christian Forshaw",
+          "url": "https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Benedictus (Arr. Jones for Vocal Ensemble & Saxophone)",
+      "url": "https://open.spotify.com/track/16EpFmtDYyQkaOXbDA4V8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adiemus - Songs Of Sanctuary",
         "url": "https://open.spotify.com/album/1SeuDxCewZcCdxLUFACb8G"
       },
@@ -359,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eventide",
-        "url": "https://open.spotify.com/album/4rqufRRxh12mfN1K8IUxV8"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "VOCES8",
-          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
-        },
-        {
-          "name": "Christian Forshaw",
-          "url": "https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Benedictus (Arr. Jones for Vocal Ensemble & Saxophone)",
-      "url": "https://open.spotify.com/track/16EpFmtDYyQkaOXbDA4V8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiemus IV - The Eternal Knot",
         "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
       },
@@ -431,6 +431,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adiemus III - Dances Of Time",
+        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Duncan Riddell",
+          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "Zarabanda (Saraband)",
+      "url": "https://open.spotify.com/track/2SEHhHjRmbaNIbNccvoUeR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adiemus - Songs Of Sanctuary",
         "url": "https://open.spotify.com/album/1SeuDxCewZcCdxLUFACb8G"
       },
@@ -471,34 +499,6 @@
       "duration_ms": 240733,
       "name": "Kayama - Radio Edit",
       "url": "https://open.spotify.com/track/5X0AsscFXO101bjJHSU2na"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiemus III - Dances Of Time",
-        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Duncan Riddell",
-          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "Zarabanda (Saraband)",
-      "url": "https://open.spotify.com/track/2SEHhHjRmbaNIbNccvoUeR"
     },
     {
       "added_at": null,
@@ -567,46 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus II: Cantata Mundi",
-        "url": "https://open.spotify.com/album/59CePotGR37Bhf0a2xVDOp"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "Mary Carewe",
-          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
-        },
-        {
-          "name": "Pamela Thorby",
-          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
-        },
-        {
-          "name": "Miriam Stockley",
-          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Jody K. Jenkins",
-          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
-        }
-      ],
-      "duration_ms": 542946,
-      "name": "Cantus: Song of Tears",
-      "url": "https://open.spotify.com/track/356Ba3qgYbEGfRA1zfq2i2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiemus IV - The Eternal Knot",
         "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
       },
@@ -659,6 +619,46 @@
       "duration_ms": 238293,
       "name": "Saint Declan's Drone",
       "url": "https://open.spotify.com/track/72lWYRxo9zmA6UHWUtEg6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus II: Cantata Mundi",
+        "url": "https://open.spotify.com/album/59CePotGR37Bhf0a2xVDOp"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+        },
+        {
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
+        },
+        {
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Jody K. Jenkins",
+          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
+        }
+      ],
+      "duration_ms": 542946,
+      "name": "Cantus: Song of Tears",
+      "url": "https://open.spotify.com/track/356Ba3qgYbEGfRA1zfq2i2"
     },
     {
       "added_at": null,
@@ -759,34 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus III - Dances Of Time",
-        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Duncan Riddell",
-          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Rain Dance",
-      "url": "https://open.spotify.com/track/5IztdN9OdOroPGNH73RVT8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiemus V - Vocalise",
         "url": "https://open.spotify.com/album/6ZAbyTNBjgIepIVJEOMKTk"
       },
@@ -811,6 +783,34 @@
       "duration_ms": 145880,
       "name": "Dona Nobis Pacem (Part I)",
       "url": "https://open.spotify.com/track/3zk6AyZvfyxUZPm9pK9FRy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus III - Dances Of Time",
+        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Duncan Riddell",
+          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Rain Dance",
+      "url": "https://open.spotify.com/track/5IztdN9OdOroPGNH73RVT8"
     },
     {
       "added_at": null,
@@ -1423,26 +1423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stravaganza",
-        "url": "https://open.spotify.com/album/0xDz1S8NMZH7xHmeUjQwB4"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 377245,
-      "name": "Palladio Reimagined: 3. Vivace",
-      "url": "https://open.spotify.com/track/2PjmYSa49DDGeZM3MvSKe2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stabat Mater",
         "url": "https://open.spotify.com/album/2NZKPcm0h3mrRv2MPBArEO"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 550226,
       "name": "Stabat mater: I. Cantus Lacrimosus",
       "url": "https://open.spotify.com/track/1epLGnTNOCJBZWMb8Db53g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stravaganza",
+        "url": "https://open.spotify.com/album/0xDz1S8NMZH7xHmeUjQwB4"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 377245,
+      "name": "Palladio Reimagined: 3. Vivace",
+      "url": "https://open.spotify.com/track/2PjmYSa49DDGeZM3MvSKe2"
     },
     {
       "added_at": null,
@@ -1543,30 +1543,6 @@
       "duration_ms": 260013,
       "name": "Exsultate, jubilate",
       "url": "https://open.spotify.com/track/4mqbR5rN3FhwW6PQC1VXdp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quirk",
-        "url": "https://open.spotify.com/album/1EICPBWv4fDj3sy3vn6p0y"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Marat Bisengaliev",
-          "url": "https://open.spotify.com/artist/3LKUrXguhu35kfh1lMVTIL"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 389213,
-      "name": "Sarakiz: I. Allegro",
-      "url": "https://open.spotify.com/track/3H0Swb1lR4xXBhZlOE5xzq"
     },
     {
       "added_at": null,
@@ -1643,6 +1619,30 @@
       "duration_ms": 102466,
       "name": "The Armed Man - A Mass For Peace: IV. Save Me from Bloody Men",
       "url": "https://open.spotify.com/track/7cip67flmdZuxgDxqBWp0h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quirk",
+        "url": "https://open.spotify.com/album/1EICPBWv4fDj3sy3vn6p0y"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Marat Bisengaliev",
+          "url": "https://open.spotify.com/artist/3LKUrXguhu35kfh1lMVTIL"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 389213,
+      "name": "Sarakiz: I. Allegro",
+      "url": "https://open.spotify.com/track/3H0Swb1lR4xXBhZlOE5xzq"
     }
   ],
   "unique_name": "This Is Karl Jenkins",

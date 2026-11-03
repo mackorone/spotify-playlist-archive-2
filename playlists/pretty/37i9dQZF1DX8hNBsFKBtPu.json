@@ -1,28 +1,28 @@
 {
-  "description": "We got you! Den bedste nye pop er samlet her. Malte Ebert p\u00e5 cover \ud83e\udead",
-  "num_followers": 107696,
+  "description": "We got you! Den bedste nye pop er samlet her. Klara Vibeke p\u00e5 cover \ud83e\udead",
+  "num_followers": 107692,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACwFpDSVOJLg58maf7MDR15zm8mL",
+  "snapshot_id": "AAAAAKXXIsDT9/7eSMqCxG9/yaQvkJZe",
   "tracks": [
     {
       "added_at": "2026-10-29 23:01:35",
       "album": {
-        "name": "En Ild Der Altid Br\u00e6nder",
-        "url": "https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU"
+        "name": "mine venner hader dig :)",
+        "url": "https://open.spotify.com/album/1fWUD5TPiYvMJnKE6vyrUe"
       },
       "artists": [
         {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+          "name": "Klara Vibeke",
+          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
         }
       ],
-      "duration_ms": 203300,
-      "name": "En Ild Der Altid Br\u00e6nder",
-      "url": "https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7"
+      "duration_ms": 142452,
+      "name": "mine venner hader dig :)",
+      "url": "https://open.spotify.com/track/0Ho5wqdJQbhRhk96fhPUtl"
     },
     {
       "added_at": "2026-10-23 08:35:19",
@@ -123,22 +123,6 @@
       "duration_ms": 140043,
       "name": "se p\u00e5 mig",
       "url": "https://open.spotify.com/track/0t2J4HDNDKgSy57JufNZQ3"
-    },
-    {
-      "added_at": "2026-10-29 23:01:35",
-      "album": {
-        "name": "mine venner hader dig :)",
-        "url": "https://open.spotify.com/album/1fWUD5TPiYvMJnKE6vyrUe"
-      },
-      "artists": [
-        {
-          "name": "Klara Vibeke",
-          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
-        }
-      ],
-      "duration_ms": 142452,
-      "name": "mine venner hader dig :)",
-      "url": "https://open.spotify.com/track/0Ho5wqdJQbhRhk96fhPUtl"
     },
     {
       "added_at": "2026-10-23 08:35:19",

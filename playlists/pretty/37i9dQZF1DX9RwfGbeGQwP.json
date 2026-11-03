@@ -1,6 +1,6 @@
 {
   "description": "chill beats for cool coffeehouse vibes.",
-  "num_followers": 565435,
+  "num_followers": 565483,
   "original_name": "lofi cafe",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "Mayfair",
-        "url": "https://open.spotify.com/album/7ifv0qitkljNKWZ1k8glE0"
-      },
-      "artists": [
-        {
-          "name": "hazze haze",
-          "url": "https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV"
-        }
-      ],
-      "duration_ms": 131924,
-      "name": "Mayfair",
-      "url": "https://open.spotify.com/track/51o9SkcDTXN8OoehRJdckU"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "Make It",
         "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 118153,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "Mayfair",
+        "url": "https://open.spotify.com/album/7ifv0qitkljNKWZ1k8glE0"
+      },
+      "artists": [
+        {
+          "name": "hazze haze",
+          "url": "https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV"
+        }
+      ],
+      "duration_ms": 131924,
+      "name": "Mayfair",
+      "url": "https://open.spotify.com/track/51o9SkcDTXN8OoehRJdckU"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "ramen noodles",
-        "url": "https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx"
-      },
-      "artists": [
-        {
-          "name": "Oysterz",
-          "url": "https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Oysterz",
-      "url": "https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "i love u",
         "url": "https://open.spotify.com/album/0UY0O01qnUYVIl3j2Yj9or"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 107557,
       "name": "i love u",
       "url": "https://open.spotify.com/track/2USao3lvvIv7SqWjxmImyV"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "ramen noodles",
+        "url": "https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx"
+      },
+      "artists": [
+        {
+          "name": "Oysterz",
+          "url": "https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Oysterz",
+      "url": "https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "fruit bowl",
-        "url": "https://open.spotify.com/album/5RXlIQhdGHKas1A8wcJK2L"
-      },
-      "artists": [
-        {
-          "name": "Camden Clown",
-          "url": "https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM"
-        }
-      ],
-      "duration_ms": 167601,
-      "name": "fruit bowl",
-      "url": "https://open.spotify.com/track/4pHb38yzbV4ZgI3z8j2cdZ"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "Green Cascade",
         "url": "https://open.spotify.com/album/4Oa7Ba1NWIGoCo3X1jcobF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 155455,
       "name": "Green Cascade",
       "url": "https://open.spotify.com/track/3RpuDYXAtud2yNQF1Xa3JD"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "fruit bowl",
+        "url": "https://open.spotify.com/album/5RXlIQhdGHKas1A8wcJK2L"
+      },
+      "artists": [
+        {
+          "name": "Camden Clown",
+          "url": "https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM"
+        }
+      ],
+      "duration_ms": 167601,
+      "name": "fruit bowl",
+      "url": "https://open.spotify.com/track/4pHb38yzbV4ZgI3z8j2cdZ"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
+        "name": "Tori Sora",
+        "url": "https://open.spotify.com/album/7se4vecX0emIjHLEtTrXTS"
       },
       "artists": [
         {
-          "name": "Attic Dizzt",
-          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO"
         }
       ],
-      "duration_ms": 142717,
-      "name": "Meanwhile",
-      "url": "https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn"
+      "duration_ms": 104138,
+      "name": "Tori Sora",
+      "url": "https://open.spotify.com/track/0rYwFhOavcJENrgIkC0xkQ"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "Tori Sora",
-        "url": "https://open.spotify.com/album/7se4vecX0emIjHLEtTrXTS"
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO"
+          "name": "Attic Dizzt",
+          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
         }
       ],
-      "duration_ms": 104138,
-      "name": "Tori Sora",
-      "url": "https://open.spotify.com/track/0rYwFhOavcJENrgIkC0xkQ"
+      "duration_ms": 142717,
+      "name": "Meanwhile",
+      "url": "https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -999,22 +999,6 @@
       "duration_ms": 120000,
       "name": "April",
       "url": "https://open.spotify.com/track/2Tc2p3pNAWjnIjiP6fS6y4"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
-        "name": "Away from Home",
-        "url": "https://open.spotify.com/album/36IP2eLXnaTKHw9KBbBkEN"
-      },
-      "artists": [
-        {
-          "name": "flwrz",
-          "url": "https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU"
-        }
-      ],
-      "duration_ms": 141375,
-      "name": "Away from Home",
-      "url": "https://open.spotify.com/track/37bo8gV7ZEXkHonzp0uLxB"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -1047,22 +1031,6 @@
       "duration_ms": 129832,
       "name": "Wandering Mind",
       "url": "https://open.spotify.com/track/43W8ReyzcOORb0r1i8WJee"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
-        "name": "Birds Eye",
-        "url": "https://open.spotify.com/album/59huG1lCsqXCQFpjDjTyla"
-      },
-      "artists": [
-        {
-          "name": "Vincent Rayn",
-          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Birds Eye",
-      "url": "https://open.spotify.com/track/7yhPe48qrUGfHPve8SlCsu"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -1103,6 +1071,22 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
+        "name": "Birds Eye",
+        "url": "https://open.spotify.com/album/59huG1lCsqXCQFpjDjTyla"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Birds Eye",
+      "url": "https://open.spotify.com/track/7yhPe48qrUGfHPve8SlCsu"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
         "name": "Sake Dab",
         "url": "https://open.spotify.com/album/53SUXmywMUEMqbu16rbNYq"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 132831,
       "name": "Sake Dab",
       "url": "https://open.spotify.com/track/3WSalxGbHnV3wIW5qP0OFi"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "Away from Home",
+        "url": "https://open.spotify.com/album/36IP2eLXnaTKHw9KBbBkEN"
+      },
+      "artists": [
+        {
+          "name": "flwrz",
+          "url": "https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU"
+        }
+      ],
+      "duration_ms": 141375,
+      "name": "Away from Home",
+      "url": "https://open.spotify.com/track/37bo8gV7ZEXkHonzp0uLxB"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "Michelin Guide",
-        "url": "https://open.spotify.com/album/1QhKvjA26ZIzy5fkUOTqC2"
-      },
-      "artists": [
-        {
-          "name": "Slumberville",
-          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
-        }
-      ],
-      "duration_ms": 145776,
-      "name": "Michelin Guide",
-      "url": "https://open.spotify.com/track/0K6V3RDzjkqdcrZowIw0W4"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "Haunt",
         "url": "https://open.spotify.com/album/7mQhRbmuibJheoRZd7n6yq"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 125328,
       "name": "Haunt",
       "url": "https://open.spotify.com/track/5ZuCa76wSNdDASosGdwjQC"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "Michelin Guide",
+        "url": "https://open.spotify.com/album/1QhKvjA26ZIzy5fkUOTqC2"
+      },
+      "artists": [
+        {
+          "name": "Slumberville",
+          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
+        }
+      ],
+      "duration_ms": 145776,
+      "name": "Michelin Guide",
+      "url": "https://open.spotify.com/track/0K6V3RDzjkqdcrZowIw0W4"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "Foil",
-        "url": "https://open.spotify.com/album/4oDsFrfSMfYn6rspURihaa"
-      },
-      "artists": [
-        {
-          "name": "Robot Age",
-          "url": "https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H"
-        }
-      ],
-      "duration_ms": 122352,
-      "name": "Foil",
-      "url": "https://open.spotify.com/track/22Ao5rxOyEjgzPlZu21AZa"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "Feelin' 2D",
         "url": "https://open.spotify.com/album/5nNhJ58mzIEmukHfubpwX2"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 140800,
       "name": "Feelin' 2D",
       "url": "https://open.spotify.com/track/0MPqiieMX7ou7Kk8p2FPpi"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "Foil",
+        "url": "https://open.spotify.com/album/4oDsFrfSMfYn6rspURihaa"
+      },
+      "artists": [
+        {
+          "name": "Robot Age",
+          "url": "https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H"
+        }
+      ],
+      "duration_ms": 122352,
+      "name": "Foil",
+      "url": "https://open.spotify.com/track/22Ao5rxOyEjgzPlZu21AZa"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "Rainbower",
-        "url": "https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC"
-      },
-      "artists": [
-        {
-          "name": "Aurora 10",
-          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Rainbower",
-      "url": "https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "take a walk",
         "url": "https://open.spotify.com/album/4Z3cjqh8F8mQKnaDnDDKKq"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 146301,
       "name": "take a walk",
       "url": "https://open.spotify.com/track/1tEkmNYcOPEhPvSMJDXAWN"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "Rainbower",
+        "url": "https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Rainbower",
+      "url": "https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/0Ry5YIy4JZdXUJLqfaQYen"
+      },
+      "artists": [
+        {
+          "name": "Unbeat Ive",
+          "url": "https://open.spotify.com/artist/52vH8kSLKLTzOyJ5j3fVS3"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/3yLfbmMJxFHDDfC8nuZcoC"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
         "name": "roads",
         "url": "https://open.spotify.com/album/3iZTkWpoqdcEVOWIxCcR98"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 122848,
       "name": "roads",
       "url": "https://open.spotify.com/track/6BIZgdGyql6X7KvGkINgPt"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/0Ry5YIy4JZdXUJLqfaQYen"
-      },
-      "artists": [
-        {
-          "name": "Unbeat Ive",
-          "url": "https://open.spotify.com/artist/52vH8kSLKLTzOyJ5j3fVS3"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/3yLfbmMJxFHDDfC8nuZcoC"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
+        "name": "Last call on what",
+        "url": "https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr"
+      },
+      "artists": [
+        {
+          "name": "Calm Like Carl",
+          "url": "https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0"
+        }
+      ],
+      "duration_ms": 133643,
+      "name": "Last call on what",
+      "url": "https://open.spotify.com/track/5de261y9PMBp40oyycVd2h"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
         "name": "Recess",
         "url": "https://open.spotify.com/album/05S42CrET7xkvx7OnvFeON"
       },
@@ -2055,18 +2071,34 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "Last call on what",
-        "url": "https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr"
+        "name": "natten EP",
+        "url": "https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h"
       },
       "artists": [
         {
-          "name": "Calm Like Carl",
-          "url": "https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0"
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
         }
       ],
-      "duration_ms": 133643,
-      "name": "Last call on what",
-      "url": "https://open.spotify.com/track/5de261y9PMBp40oyycVd2h"
+      "duration_ms": 147906,
+      "name": "natten",
+      "url": "https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "Slow Feet",
+        "url": "https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw"
+      },
+      "artists": [
+        {
+          "name": "Mama Gecko",
+          "url": "https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh"
+        }
+      ],
+      "duration_ms": 135750,
+      "name": "Grains",
+      "url": "https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -2087,22 +2119,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "natten EP",
-        "url": "https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h"
-      },
-      "artists": [
-        {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "natten",
-      "url": "https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "Shinjuku Nights",
         "url": "https://open.spotify.com/album/3TVFIJvyZ3qOv9YQ3d0vGs"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 120000,
       "name": "Shinjuku Nights",
       "url": "https://open.spotify.com/track/4MRPwM1HeOHd76PjSffHAG"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
-        "name": "Slow Feet",
-        "url": "https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw"
-      },
-      "artists": [
-        {
-          "name": "Mama Gecko",
-          "url": "https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh"
-        }
-      ],
-      "duration_ms": 135750,
-      "name": "Grains",
-      "url": "https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO"
     },
     {
       "added_at": "2026-09-18 08:12:19",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2026-09-18 08:12:19",
       "album": {
-        "name": "comrade",
-        "url": "https://open.spotify.com/album/3ZeAE3SFwu9VuUguDjyeZE"
-      },
-      "artists": [
-        {
-          "name": "city signs",
-          "url": "https://open.spotify.com/artist/6XrwfQs4tcuCOBgFXIszwy"
-        }
-      ],
-      "duration_ms": 138035,
-      "name": "comrade",
-      "url": "https://open.spotify.com/track/2GTTGKowosHnN5v7xmzh7S"
-    },
-    {
-      "added_at": "2026-09-18 08:12:19",
-      "album": {
         "name": "limelight",
         "url": "https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 144000,
       "name": "limelight",
       "url": "https://open.spotify.com/track/2D6U1ScmjRJ5QLrYhMCQDe"
+    },
+    {
+      "added_at": "2026-09-18 08:12:19",
+      "album": {
+        "name": "comrade",
+        "url": "https://open.spotify.com/album/3ZeAE3SFwu9VuUguDjyeZE"
+      },
+      "artists": [
+        {
+          "name": "city signs",
+          "url": "https://open.spotify.com/artist/6XrwfQs4tcuCOBgFXIszwy"
+        }
+      ],
+      "duration_ms": 138035,
+      "name": "comrade",
+      "url": "https://open.spotify.com/track/2GTTGKowosHnN5v7xmzh7S"
     },
     {
       "added_at": "2026-09-18 08:12:19",

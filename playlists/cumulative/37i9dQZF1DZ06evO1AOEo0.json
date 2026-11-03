@@ -1260,10 +1260,28 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 244664,
       "name": "Praise Upon Praise",
       "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 3",
+        "url": "https://open.spotify.com/album/3sQaSdmdi5IqMIUrm3Fg9f"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244664,
+      "name": "Praise Upon Praise",
+      "url": "https://open.spotify.com/track/31iMmDrcWUwoJEydrMotsc"
     },
     {
       "album": {

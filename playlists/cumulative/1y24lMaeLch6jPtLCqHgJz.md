@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-511 songs - 1 day 1 hr 31 min
+512 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Freeze Time \- Cuebrick & Manse Remix](https://open.spotify.com/track/6aIE4b3Ifwxab3nTkU873L) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Freeze Time \(Cuebrick & Manse Remix\)](https://open.spotify.com/album/0EXrkLNOuJQCvKwfnagQIg) | 3:23 | 2025-07-24 | 2025-10-09 |
 | [Gave Up On Me](https://open.spotify.com/track/7MGLho1DPEestpKZiXqQVe) | [Axity](https://open.spotify.com/artist/4TEOItM1eSa55pK44NiEhp), [William Viggo](https://open.spotify.com/artist/3pH7NiFkTXsqSSzfI9kcjd), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Gave Up On Me](https://open.spotify.com/album/08kvFZIEdCtbEfr4YJnI2z) | 3:24 | 2025-05-02 | 2026-01-23 |
 | [Ghost](https://open.spotify.com/track/0fGFbjbq3cXsdDXxhISEQI) | [Reinn](https://open.spotify.com/artist/2liXii9VDQQTx5kAvF3dIO) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 4:00 | 2024-09-12 |  |
+| [Gimme Dat](https://open.spotify.com/track/3xX7ay4XLGuJ5DNB67qpU1) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Gimme Dat](https://open.spotify.com/album/11lrFLFcMimfwJJoaAaNpg) | 3:15 | 2026-11-02 |  |
 | [Gimme Love](https://open.spotify.com/track/2Gb4eYsKImdX7ZefXwm0z8) | [ZYNØX](https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY) | [Revealed Recordings presents ADE Sampler 2026](https://open.spotify.com/album/60i9wfDvoaHHKJrdBWYn6d) | 2:12 | 2026-10-08 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2024-09-25 | 2025-10-09 |
 | [Glorious](https://open.spotify.com/track/6DdkUAGaMcisWOsA4J4cUi) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Skylights](https://open.spotify.com/artist/0VPaO0vsoT2SrBFGTkvZOd), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Glorious](https://open.spotify.com/album/3DUSZj2NTr3M0J6DhTyjLw) | 2:51 | 2023-08-11 | 2024-07-27 |

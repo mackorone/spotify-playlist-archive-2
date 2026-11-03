@@ -1,12 +1,12 @@
 {
   "description": "The best new rock & alternative tracks every week. Cover: Queens of the Stone Age",
-  "num_followers": 961411,
+  "num_followers": 961430,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP99nv2+Cd8WulWU0Kzc7rN5rKw0",
+  "snapshot_id": "AAAAAECnKTaNrUQDslnskUQmFhmxh6Ye",
   "tracks": [
     {
       "added_at": "2026-10-30 04:01:09",
@@ -436,7 +436,7 @@
           "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
         }
       ],
-      "duration_ms": 212584,
+      "duration_ms": 212850,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/1j9lLAtihPgOZWGuZdZcoh"
     },
@@ -573,20 +573,36 @@
       "url": "https://open.spotify.com/track/1mRalxdfolUmXWLJ68Ldri"
     },
     {
-      "added_at": "2026-10-30 04:01:09",
+      "added_at": "2026-11-02 20:48:13",
       "album": {
-        "name": "Hellbound",
-        "url": "https://open.spotify.com/album/5EnpVbnGgexdtA51NFWuSW"
+        "name": "Here Honey",
+        "url": "https://open.spotify.com/album/28FYJakvYebJS5qtd2OmIa"
       },
       "artists": [
         {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+          "name": "Esmeralda Road",
+          "url": "https://open.spotify.com/artist/6S9cVNSaKsE2rdeVqban5w"
         }
       ],
-      "duration_ms": 228821,
-      "name": "Hellbound",
-      "url": "https://open.spotify.com/track/0e8fDiUBC3zky38u4SMcw5"
+      "duration_ms": 218604,
+      "name": "Here Honey",
+      "url": "https://open.spotify.com/track/1uF0hzguOCWKw3ntEaH73u"
+    },
+    {
+      "added_at": "2026-10-30 04:01:09",
+      "album": {
+        "name": "Curtains",
+        "url": "https://open.spotify.com/album/1x4EFzyFJcLcRsCuQUT9Lb"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "duration_ms": 177124,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/66v835LKEaSkt5TAFDmxW2"
     },
     {
       "added_at": "2026-10-30 04:01:09",
@@ -607,18 +623,18 @@
     {
       "added_at": "2026-10-30 04:01:09",
       "album": {
-        "name": "Curtains",
-        "url": "https://open.spotify.com/album/1x4EFzyFJcLcRsCuQUT9Lb"
+        "name": "Hellbound",
+        "url": "https://open.spotify.com/album/5EnpVbnGgexdtA51NFWuSW"
       },
       "artists": [
         {
-          "name": "Lucky",
-          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
         }
       ],
-      "duration_ms": 177124,
-      "name": "Curtains",
-      "url": "https://open.spotify.com/track/66v835LKEaSkt5TAFDmxW2"
+      "duration_ms": 228821,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/0e8fDiUBC3zky38u4SMcw5"
     },
     {
       "added_at": "2026-10-30 04:01:09",

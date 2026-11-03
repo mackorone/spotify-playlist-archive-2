@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
 
-831 songs - 2 day 0 hr 45 min
+832 songs - 2 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,6 +712,7 @@
 | [Thannigazhai](https://open.spotify.com/track/04gxnLQykQm3FI0KdZTDMx) | [Siri Xander](https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR) | [Thannigazhai](https://open.spotify.com/album/2D8jvOg1LFBAkOXe7bEOLh) | 1:17 | 2026-10-13 |  |
 | [THARUNANGAL](https://open.spotify.com/track/2DTN2mb7bsjJqk8mm4W8tJ) | [Rockzane](https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1), [PRAVEEN RESH](https://open.spotify.com/artist/5Q4n3cqMPqBfW5Bi3EHENV) | [THARUNANGAL](https://open.spotify.com/album/7BDM11wy6pmWryC4ZgOs9E) | 4:02 | 2023-01-30 | 2023-07-11 |
 | [Thathalithen](https://open.spotify.com/track/0tR9ONL0jexF09Z8FEAnc1) | [Sharath Narayan](https://open.spotify.com/artist/4U29BtbckXtWM7m9goeIKb), [Jay Unnithan](https://open.spotify.com/artist/0CS2KzsuCXswXNnu7Up7b9), [Prabhu Muraleedharan](https://open.spotify.com/artist/1uzU8IyXE0m8m14Tf0m3Xd) | [Thathalithen](https://open.spotify.com/album/4JFFrzrrUZs5ez9ZSo4ae8) | 4:17 | 2023-05-11 | 2024-06-14 |
+| [Thean Kudika 404](https://open.spotify.com/track/1rkW2iIF8p2piYKKWKNZAL) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Keerthana Vijay](https://open.spotify.com/artist/194c4eJbK89YmvJ7zuSoQ0) | [Thean Kudika 404](https://open.spotify.com/album/6GRe1EEMbGmHPccgqo32n9) | 4:49 | 2026-11-02 |  |
 | [Thedalae](https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Thedalae](https://open.spotify.com/album/1y75Hi81uXLV51z6lqEIuI) | 3:12 | 2024-12-05 | 2025-03-04 |
 | [Thedathey](https://open.spotify.com/track/1vjWrLi4w55MBEfATFI5Me) | [Rathya](https://open.spotify.com/artist/1Yf7Q9jSJYFNk1jiRhMBPy), [Dhroga](https://open.spotify.com/artist/5T8ZwwkSmpmR9ei4E20STF) | [Thedathey](https://open.spotify.com/album/5a6JL9PuMZVB0uNh2XsFPV) | 2:57 | 2023-03-16 | 2023-03-23 |
 | [Thedi thedi](https://open.spotify.com/track/3Cke9lomwCAl7OvAe95mHR) | [Ponkundram](https://open.spotify.com/artist/1oOMV1i6RXQag9uraVqkW3) | [MOUNAM](https://open.spotify.com/album/3zrBiHKgxiZhjVCI8N7WfI) | 2:36 | 2022-06-17 | 2023-01-11 |

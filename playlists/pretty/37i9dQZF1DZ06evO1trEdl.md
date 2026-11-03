@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,693 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,691 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 49 | [This Is the House](https://open.spotify.com/track/4vYn3EMWvMEafjNbcsikbG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [This Is the House](https://open.spotify.com/album/44FJsWUUCB3iP7ENd5LDTs) | 3:41 |
 | 50 | [I'm Doing Fine Now \- Remastered](https://open.spotify.com/track/7lWuvnl3I16XmNcwmVT1VM) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is In The Air](https://open.spotify.com/album/4mfGjQ0Xrh5xLFyTXVfL1q) | 3:36 |
 
-Snapshot ID: `auUvgAAAAADm/NZTq7Bar5y1U0PStJ+e`
+Snapshot ID: `auUvgAAAAABmQjphYMRfBIDBVuL12SGf`

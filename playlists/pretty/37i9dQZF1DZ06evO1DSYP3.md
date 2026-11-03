@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Too Faded Remix](https://open.spotify.com/track/7l7hGUVwZ8dli0KJeDPZw1) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/1mxCwBuLVWWof5ksvOK4TC) | 4:28 |
 | 50 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
 
-Snapshot ID: `auUvgAAAAAA25nghcvfk5wEDYuiEDy6v`
+Snapshot ID: `auUvgAAAAADGtxsHWzqs0KV4/ZULp8gu`

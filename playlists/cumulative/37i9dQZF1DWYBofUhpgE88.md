@@ -2,7 +2,7 @@
 
 ### [ADRENALINA](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> per spingere come veri gym bro e gym sis
+> per spingere come veri gym bro e gym sis \(o come kimi 🏎️\)
 
 444 songs - 23 hr 11 min
 

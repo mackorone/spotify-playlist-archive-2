@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 151534,
       "name": "2 Pair",
       "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 168400,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 176983,
       "name": "Country Boy Do (feat. Tyler Hubbard)",
       "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
@@ -310,10 +310,32 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 132506,
       "name": "Cowboy Killer",
       "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Cowgirls",
+      "url": "https://open.spotify.com/track/4mtmmBBEgdJLYWnLy5zvWE"
     },
     {
       "album": {
@@ -368,7 +390,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 224704,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
@@ -484,7 +506,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 143787,
       "name": "Dutton Ranch Freestyle",
       "url": "https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3"
@@ -578,7 +600,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
@@ -684,7 +706,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 180136,
       "name": "Hold My Horses",
       "url": "https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw"
@@ -702,7 +724,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 180136,
       "name": "Hold My Horses",
       "url": "https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk"
@@ -875,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295776,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/4TcpoeAXkbJnXfxvOjJzCy"
+    },
+    {
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
       },
@@ -890,6 +930,24 @@
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0llPOBVoJYDAtdmVlNE41A"
     },
     {
       "album": {
@@ -948,7 +1006,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 194506,
       "name": "Lights Come On",
       "url": "https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy"
@@ -1140,7 +1198,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
@@ -1212,7 +1270,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 191079,
       "name": "People Talk",
       "url": "https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U"
@@ -1248,7 +1306,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 158634,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
@@ -1375,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/0onJhWTvfPCb5F7gUT3VPA"
+    },
+    {
+      "album": {
         "name": "SOLD OUT",
         "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
@@ -1386,7 +1462,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
@@ -1488,7 +1564,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
@@ -1764,6 +1840,24 @@
       "duration_ms": 192053,
       "name": "Y'all Life (feat. Ciara)",
       "url": "https://open.spotify.com/track/19Zc2DohB8aihlDOrONMUQ"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/7c1wEzhXamUm7Lh9zqVMl9"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/57a4iloBWqan5rtqPJBoVY"
     },
     {
       "album": {

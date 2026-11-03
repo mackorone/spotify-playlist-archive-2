@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-210 songs - 9 hr 58 min
+211 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [ON THE MOON](https://open.spotify.com/track/12A3iqsBa70rozVTjXx4r6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 1:52 | 2025-06-01 |  |
 | [only thing on my mind](https://open.spotify.com/track/6dY6ahXqNkLuiOfCUdse1K) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:42 | 2025-06-01 |  |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2025-06-01 |  |
-| [OUTSIDE](https://open.spotify.com/track/3MMDqI7L2fM1NWZYs6FY53) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [FALCON OF THE MILLENNIUM \- FALCONIA \(DELUXE\)](https://open.spotify.com/album/7bdY8HOG5stSpuoQqa8lnW) | 2:45 | 2025-06-01 |  |
+| [OUTSIDE](https://open.spotify.com/track/3EXFLwkZdcQ0sGmxJiHSxk) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [FALCON OF THE MILLENNIUM \- FALCONIA \(DELUXE\)](https://open.spotify.com/album/5AYvejOZ2nx4sGoEe7aU0L) | 2:45 | 2026-11-02 |  |
+| [OUTSIDE](https://open.spotify.com/track/3MMDqI7L2fM1NWZYs6FY53) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [FALCON OF THE MILLENNIUM \- FALCONIA \(DELUXE\)](https://open.spotify.com/album/7bdY8HOG5stSpuoQqa8lnW) | 2:45 | 2025-06-01 | 2026-11-03 |
 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 | 2025-06-01 |  |
 | [PORSCHE TOPLESS](https://open.spotify.com/track/0Pmkwy6VzQUgtbgUhSKtZ4) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 2:50 | 2025-07-20 |  |
 | [PORSCHE TOPLESS](https://open.spotify.com/track/6qdOOQcqmPdyVbhgfH1SNG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 2:50 | 2025-06-01 | 2025-07-21 |

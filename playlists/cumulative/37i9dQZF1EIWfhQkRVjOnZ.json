@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 230533,
       "name": "A Call To The Faithful",
       "url": "https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 217253,
       "name": "Assistant To The Regional Manager",
       "url": "https://open.spotify.com/track/1ZS0Lgc8Esdg0Bf1JO6KF0"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 280653,
       "name": "Battle For Hoth",
       "url": "https://open.spotify.com/track/6Ig5YhprNWHfdaDuJA2Aa2"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 201800,
       "name": "By Grace",
       "url": "https://open.spotify.com/track/0QYDzSKXoiPsLwiLWlfhy9"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 232040,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/1KpMxnMMaWkyFnx0V5PoTA"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 273346,
       "name": "Doomsayer (The Beginning Of The End)",
       "url": "https://open.spotify.com/track/0CFLJ4LuViyP4ascKlgKn5"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 216457,
       "name": "End Transmission",
       "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 275120,
       "name": "False Profit",
       "url": "https://open.spotify.com/track/3aahZWSGhy07rsli5H94Jr"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 252840,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/4sQxNFf3XDrrO3FVasXR5X"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 318026,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 204213,
       "name": "In Regards To Myself",
       "url": "https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 268106,
       "name": "Lamnidae",
       "url": "https://open.spotify.com/track/29eeXRFIJ9xPtFTGvVkU97"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 273813,
       "name": "Making Waves",
       "url": "https://open.spotify.com/track/5wVnuvqO9WnyssSsGUcLSx"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 238626,
       "name": "My Forfeit",
       "url": "https://open.spotify.com/track/4YVf1b8oAJEd632OzUvSZc"
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 204376,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5TTgf4L5fEiLJ6DCDhqFgN"
@@ -4294,7 +4294,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 260063,
       "name": "Salty Grave",
       "url": "https://open.spotify.com/track/4Lq9mauZAuMsdN29Mp7k39"
@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 281813,
       "name": "Sorry Seacrest It's Casey's Countdown",
       "url": "https://open.spotify.com/track/0QyuVvyW2NMBQcSKZT62Ob"
@@ -4863,6 +4863,24 @@
     },
     {
       "album": {
+        "name": "Great Faith In Fools",
+        "url": "https://open.spotify.com/album/0M4FpSgm8ZkkGMJcSPTuQR"
+      },
+      "artists": [
+        {
+          "name": "The Air I Breathe",
+          "url": "https://open.spotify.com/artist/2esri1FQ20U2rQjfC7RA9C"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Take This To Heart",
+      "url": "https://open.spotify.com/track/07L4bxzPmOfs0vE9hjLrY1"
+    },
+    {
+      "album": {
         "name": "New Medicines",
         "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
       },
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 262001,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/5u8kYO44UpooGgnraWOSBq"
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 194338,
       "name": "The Curse of Complacency",
       "url": "https://open.spotify.com/track/68MSDAccf5WIlhdQwC52op"
@@ -5018,7 +5036,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 276226,
       "name": "The Gunslinger",
       "url": "https://open.spotify.com/track/2h3DmW0Vk6drmSy6LKs4k6"
@@ -5454,7 +5472,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 210480,
       "name": "The Road To Hell Is Paved With Good Intentions (feat. Craig Owens of Chiodos)",
       "url": "https://open.spotify.com/track/5x97GqwWM5X5JBz7Q7lyyX"
@@ -5778,7 +5796,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"

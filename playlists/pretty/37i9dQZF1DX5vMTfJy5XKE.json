@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Freya Skye",
-  "num_followers": 269430,
+  "num_followers": 269466,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPbDtmDy345AXOZj7cG+sSk1fbS",
+  "snapshot_id": "AAAAAA4KAe15O3DHQ+Md+0kqOY5pOpd+",
   "tracks": [
     {
       "added_at": "2026-10-14 04:00:19",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/6f3Fxckl4Nucl8xiMNYRnB"
     },
     {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Christmas on East Houston",
+        "url": "https://open.spotify.com/album/0c1cd77LdvkmWA4bGfNq7J"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 155371,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/5vNZXNUlmXIKsOwxaOTSRQ"
+    },
+    {
       "added_at": "2026-10-23 04:29:57",
       "album": {
         "name": "mall santa",
@@ -87,6 +103,22 @@
       "duration_ms": 207050,
       "name": "mall santa",
       "url": "https://open.spotify.com/track/2vEOAz8nAPVVw7Tkj51ERf"
+    },
+    {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Frosty The Snowman",
+        "url": "https://open.spotify.com/album/164ftrRERJ1fWfGYf0vHYj"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 179685,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/5qvSsYcoDjovOWl6eWnsjA"
     },
     {
       "added_at": "2026-10-23 04:29:57",
@@ -121,6 +153,42 @@
       "url": "https://open.spotify.com/track/0cWu20JAhNQuDZfGYHYwRJ"
     },
     {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Christmas in the City (Deluxe)",
+        "url": "https://open.spotify.com/album/64w5llVESyTua5FjZA4I7i"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "s\u00e4je",
+          "url": "https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Man With The Bag",
+      "url": "https://open.spotify.com/track/3G2b4BJpPqUsbcwXt6szN2"
+    },
+    {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6PATV6XKwlWIiBdI9dZN2E"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 211691,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/3MoVFHdQUkvZcQ1Ur969ON"
+    },
+    {
       "added_at": "2026-10-14 04:00:19",
       "album": {
         "name": "Beautiful Star of Bethlehem (feat. Brandi Carlile and Steve Martin)",
@@ -145,6 +213,26 @@
       "url": "https://open.spotify.com/track/6nQ439xZFwXKl07syymw2k"
     },
     {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Lauren Daigle with The Preservation Hall Jazz Band Christmas",
+        "url": "https://open.spotify.com/album/6MQXSvAGhWBNusg1kdY6g8"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 162199,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3MWgjnvfMfw6LC4sr3Ac19"
+    },
+    {
       "added_at": "2026-10-14 04:00:19",
       "album": {
         "name": "Christmas in New England",
@@ -159,6 +247,22 @@
       "duration_ms": 244475,
       "name": "Christmas in New England",
       "url": "https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF"
+    },
+    {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Snowed In With Me",
+        "url": "https://open.spotify.com/album/2j7BarIpVo1yEXEphxuf3g"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 188557,
+      "name": "Snowed In With Me",
+      "url": "https://open.spotify.com/track/3hdaU2rPibQW0AgFE2a467"
     },
     {
       "added_at": "2026-10-17 19:26:11",
@@ -281,6 +385,22 @@
       "url": "https://open.spotify.com/track/24f5HnJxiWy6HkA6lt0KhD"
     },
     {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Warm Me Up",
+        "url": "https://open.spotify.com/album/7hTKvee6SZyqTOs3TM0tKs"
+      },
+      "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Warm Me Up",
+      "url": "https://open.spotify.com/track/0XoIsnlA76jro1fdUWzBL6"
+    },
+    {
       "added_at": "2026-10-14 04:00:19",
       "album": {
         "name": "It's Christmas Time Again",
@@ -349,6 +469,26 @@
       "url": "https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2"
     },
     {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "To Be Together",
+        "url": "https://open.spotify.com/album/65LYndbBnnQTSFlnddRX5Y"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "To Be Together",
+      "url": "https://open.spotify.com/track/6qwGmCNSFUpI45DOj9ai1u"
+    },
+    {
       "added_at": "2026-10-14 04:00:19",
       "album": {
         "name": "A Drake Milligan Christmas",
@@ -413,6 +553,22 @@
       "url": "https://open.spotify.com/track/1zY8KxAg7gR2cYe3ULzZS4"
     },
     {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Winterlicious D'Luxe",
+        "url": "https://open.spotify.com/album/09NIcvyuOhd1aRfFA8F5nt"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Lit Up!",
+      "url": "https://open.spotify.com/track/1eEjJ47DfDOM65C5H3zwBX"
+    },
+    {
       "added_at": "2026-10-17 19:26:11",
       "album": {
         "name": "Rejoice (O Come O Come Emmanuel)",
@@ -467,6 +623,22 @@
       "duration_ms": 342373,
       "name": "I Want To Be Holding You Next Christmas",
       "url": "https://open.spotify.com/track/4myDgtihnXceIWIJPlLADs"
+    },
+    {
+      "added_at": "2026-11-02 19:36:22",
+      "album": {
+        "name": "Mr. Mistletoe",
+        "url": "https://open.spotify.com/album/7KixvhZBZrmmN0dHodq6GY"
+      },
+      "artists": [
+        {
+          "name": "Tyler James Bellinger",
+          "url": "https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "Mr. Mistletoe",
+      "url": "https://open.spotify.com/track/2oSYBW2IztYkK6Wsoadrac"
     },
     {
       "added_at": "2025-10-15 04:00:14",
@@ -637,22 +809,6 @@
       "url": "https://open.spotify.com/track/1UsV1RrYzF1cg0rFo4QyGs"
     },
     {
-      "added_at": "2025-11-21 05:26:56",
-      "album": {
-        "name": "Gifts For Me",
-        "url": "https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 150209,
-      "name": "Gifts For Me",
-      "url": "https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B"
-    },
-    {
       "added_at": "2025-12-05 06:19:49",
       "album": {
         "name": "Christmas Magic",
@@ -669,54 +825,6 @@
       "url": "https://open.spotify.com/track/5ad5vzakBpyYdu888kQZxU"
     },
     {
-      "added_at": "2025-11-21 05:26:56",
-      "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/2CkQy8rPy0PiZSidUhZh8J"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 184657,
-      "name": "secret santa",
-      "url": "https://open.spotify.com/track/7KeHUoqosk3skfRbICgHnS"
-    },
-    {
-      "added_at": "2025-12-05 06:19:49",
-      "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/6kiCVjkuVeFX9mhib5aDDH"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 158256,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/0ipi2o4i8CXREQ3HQD9BkI"
-    },
-    {
-      "added_at": "2025-11-14 14:42:16",
-      "album": {
-        "name": "Scotland In The Snow",
-        "url": "https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Scotland In The Snow",
-      "url": "https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg"
-    },
-    {
       "added_at": "2025-10-15 04:00:14",
       "album": {
         "name": "Christmas Lights (Spotify Singles Holiday)",
@@ -731,110 +839,6 @@
       "duration_ms": 202635,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T"
-    },
-    {
-      "added_at": "2025-11-07 20:21:02",
-      "album": {
-        "name": "This Christmas I'm Coming Home",
-        "url": "https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 180974,
-      "name": "This Christmas I'm Coming Home",
-      "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
-    },
-    {
-      "added_at": "2025-11-28 05:43:16",
-      "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/0ab9CaIV46tB8hAKxuFU34"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 193879,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/21RHVyVi4SiF4Yg8l0LJko"
-    },
-    {
-      "added_at": "2025-11-07 20:21:02",
-      "album": {
-        "name": "A Very Backstreet Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6QTbzeEBJNZZObMZPhLS4e"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 172415,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/4eygnv4e7nGdYPrS0br3pO"
-    },
-    {
-      "added_at": "2025-11-14 05:59:18",
-      "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/6ABuOE8UhKiIiG0nK0fyUb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 179820,
-      "name": "Snowman (feat. Belinda)",
-      "url": "https://open.spotify.com/track/7tQ5cliSQxT7kv2OAxgy7s"
-    },
-    {
-      "added_at": "2025-11-21 05:26:56",
-      "album": {
-        "name": "Last First Christmas",
-        "url": "https://open.spotify.com/album/568lCEWcdU0AmlyXGDNj2W"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Last First Christmas",
-      "url": "https://open.spotify.com/track/20sRN1hzpN17HDfbuJSao1"
-    },
-    {
-      "added_at": "2025-11-14 05:59:18",
-      "album": {
-        "name": "A Merry Black Christmas",
-        "url": "https://open.spotify.com/album/0oRWKHzcbEhDIzCsquUPzl"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 183581,
-      "name": "A Merry Black Christmas",
-      "url": "https://open.spotify.com/track/6Q4EmIGs7YyxvYf8h4eb9Y"
     },
     {
       "added_at": "2025-10-15 04:00:14",

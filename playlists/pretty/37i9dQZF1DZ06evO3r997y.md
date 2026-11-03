@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 49 | [マンガ＝超ヴァイブル \(feat\. 緒方恵美 & 鬼頭明里\)](https://open.spotify.com/track/2Nfu4bapsMgcsaT0G8MgSv) | [ANCHOR](https://open.spotify.com/artist/2fviXTiNm3w2YSp6qYdnlh), [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [マンガ＝超ヴァイブル \(feat\. 緒方恵美 & 鬼頭明里\)](https://open.spotify.com/album/2zczWnJd08hK0nGsaoOHWA) | 3:52 |
 | 50 | [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 |
 
-Snapshot ID: `auUvgAAAAACEVbEvI6hUliF9LE26kSvr`
+Snapshot ID: `auaBAAAAAADs+SwE6pElFwmcOzhQvoZf`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 1061098,
+  "num_followers": 1061507,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Gracias America Sin Fronteras",
         "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 203586,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Realidades",
         "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 178973,
       "name": "Qu\u00e9 Tal Si Eres Tu",
       "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Mi Amuleto Eres Tu",
-        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Mi Amuleto Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Uniendo Fronteras",
         "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 190506,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Mi Amuleto Eres Tu",
+        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Mi Amuleto Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Soy Todo Tuyo",
-        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "Soy Todo Tuyo",
-      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Eres Todo Todo",
         "url": "https://open.spotify.com/album/6ecfbZHxwKxhOMvFVDxosI"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+        "name": "Soy Todo Tuyo",
+        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 203053,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/3eJTiuNFcvCko20MHxmqaU"
+      "duration_ms": 187373,
+      "name": "Soy Todo Tuyo",
+      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -927,6 +911,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 203053,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/3eJTiuNFcvCko20MHxmqaU"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
         "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "Tus Verdades",
-      "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Puras de Juan Gabriel, vol. 2",
         "url": "https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 212688,
       "name": "Quedate Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/694CyIR0ghq9USCLU4F6sc"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "Tus Verdades",
+      "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Desde Hoy",
-        "url": "https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Desde Hoy",
-      "url": "https://open.spotify.com/track/7i2quJtt4WoI5yE91Cqi7R"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Rinconcito En El Cielo",
         "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 214706,
       "name": "Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Desde Hoy",
+        "url": "https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Desde Hoy",
+      "url": "https://open.spotify.com/track/7i2quJtt4WoI5yE91Cqi7R"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Estrellas Y Diamantes",
-        "url": "https://open.spotify.com/album/3ZYyblwHzp9uMlKVXy0568"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Estrellas Y Diamantes",
-      "url": "https://open.spotify.com/track/1jgUfyEdBlxuvIH5puBuBy"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Solo Lo Nuestro",
-        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
+        "name": "Estrellas Y Diamantes",
+        "url": "https://open.spotify.com/album/3ZYyblwHzp9uMlKVXy0568"
       },
       "artists": [
         {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Ambicion",
-      "url": "https://open.spotify.com/track/2ejgN52DP0gNCYXoGeEh6H"
+      "duration_ms": 175853,
+      "name": "Estrellas Y Diamantes",
+      "url": "https://open.spotify.com/track/1jgUfyEdBlxuvIH5puBuBy"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Solo Lo Nuestro",
+        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Ambicion",
+      "url": "https://open.spotify.com/track/2ejgN52DP0gNCYXoGeEh6H"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 186131,
       "name": "Me Ca\u00ed De La Nube",
       "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Tu Delirio",
-      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Colgado De Un \u00c1rbol (Versi\u00f3n Remasterizada)",
-        "url": "https://open.spotify.com/album/4h1FfxVfSqI7HI8ZHaoZJH"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
       "artists": [
         {
-          "name": "Los terribles Del Norte",
-          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 219008,
-      "name": "Colgado De Un \u00c1rbol",
-      "url": "https://open.spotify.com/track/2j5X89pGdAoI2OoXffzeqt"
+      "duration_ms": 184200,
+      "name": "Tu Delirio",
+      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Colgado De Un \u00c1rbol (Versi\u00f3n Remasterizada)",
+        "url": "https://open.spotify.com/album/4h1FfxVfSqI7HI8ZHaoZJH"
+      },
+      "artists": [
+        {
+          "name": "Los terribles Del Norte",
+          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
+        }
+      ],
+      "duration_ms": 219008,
+      "name": "Colgado De Un \u00c1rbol",
+      "url": "https://open.spotify.com/track/2j5X89pGdAoI2OoXffzeqt"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "25 A\u00f1os De Fama",
         "url": "https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw"
       },
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Fue Tu Culpa",
-      "url": "https://open.spotify.com/track/5SX8WYCEW5bKlQE854HuKS"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "No Te Convensas",
         "url": "https://open.spotify.com/album/6vK6bxa8LS9QqBueUPnjnS"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 173493,
       "name": "Las Isabeles",
       "url": "https://open.spotify.com/track/66V7uPOp571UEBWflNElWd"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Cachorreando - 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/0Simav4No6MitVWpeBWXe6"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/7EwVxBzfa7dHmeEKH7AyPw"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Flor De Capomo",
-        "url": "https://open.spotify.com/album/0qXYL3wUOR1QpdSbJQwXIK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Flor De Capomo",
-      "url": "https://open.spotify.com/track/0yJPBuuvvstUhx4gfjAFTr"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Las Nuevas Inmortales",
         "url": "https://open.spotify.com/album/0WHkuG3EexyWKl6pB56R9N"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 222266,
       "name": "No Me Conoces A\u00fan",
       "url": "https://open.spotify.com/track/4IxWQz0RvilCRyUQxnInHF"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Flor De Capomo",
+        "url": "https://open.spotify.com/album/0qXYL3wUOR1QpdSbJQwXIK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/0yJPBuuvvstUhx4gfjAFTr"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2931,8 +2931,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
       },
       "artists": [
         {
@@ -2940,9 +2940,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 160426,
-      "name": "Desprecio",
-      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
+      "duration_ms": 212080,
+      "name": "Pueblito",
+      "url": "https://open.spotify.com/track/4TQuO6JOwPW9CRCFwEFILh"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3011,8 +3011,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Pueblito",
-        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
@@ -3020,9 +3020,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 212080,
-      "name": "Pueblito",
-      "url": "https://open.spotify.com/track/4TQuO6JOwPW9CRCFwEFILh"
+      "duration_ms": 160426,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3075,18 +3075,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El grupo que vale lo que pesa Vol. II",
-        "url": "https://open.spotify.com/album/0xNGBDHJuFFXB4HYNurEqP"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 212440,
-      "name": "Te voy a amar",
-      "url": "https://open.spotify.com/track/5BNrCB42n55iNfRyRfPaCw"
+      "duration_ms": 182013,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/5SX8WYCEW5bKlQE854HuKS"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3155,18 +3155,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Cachorreando - 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/0Simav4No6MitVWpeBWXe6"
+        "name": "El grupo que vale lo que pesa Vol. II",
+        "url": "https://open.spotify.com/album/0xNGBDHJuFFXB4HYNurEqP"
       },
       "artists": [
         {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 178026,
-      "name": "La Duda",
-      "url": "https://open.spotify.com/track/7EwVxBzfa7dHmeEKH7AyPw"
+      "duration_ms": 212440,
+      "name": "Te voy a amar",
+      "url": "https://open.spotify.com/track/5BNrCB42n55iNfRyRfPaCw"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3267,8 +3267,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Hijo del Palenque",
-        "url": "https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY"
+        "name": "El Rog\u00f3n",
+        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
       },
       "artists": [
         {
@@ -3276,9 +3276,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 174986,
-      "name": "El Desquite",
-      "url": "https://open.spotify.com/track/5B6Sdfa0DKoFd3at6hmrtc"
+      "duration_ms": 149480,
+      "name": "Que Seas Dichosa",
+      "url": "https://open.spotify.com/track/1sy7BYZT2GReFukI4YnYpl"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3347,8 +3347,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Rog\u00f3n",
-        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
+        "name": "El Hijo del Palenque",
+        "url": "https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY"
       },
       "artists": [
         {
@@ -3356,9 +3356,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 149480,
-      "name": "Que Seas Dichosa",
-      "url": "https://open.spotify.com/track/1sy7BYZT2GReFukI4YnYpl"
+      "duration_ms": 174986,
+      "name": "El Desquite",
+      "url": "https://open.spotify.com/track/5B6Sdfa0DKoFd3at6hmrtc"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3475,18 +3475,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "No te la vas acabar",
-        "url": "https://open.spotify.com/album/0RNaqLKbUYLqk2GCdSE2HT"
+        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
       },
       "artists": [
         {
           "name": "Pesado",
           "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Catarino Leos",
+          "url": "https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi"
         }
       ],
-      "duration_ms": 188106,
-      "name": "No te la vas a acabar",
-      "url": "https://open.spotify.com/track/1tQQwbtOWYczFcttdMbbum"
+      "duration_ms": 190080,
+      "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
+      "url": "https://open.spotify.com/track/2iximC5NXwVzV9mgDQCUsk"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3523,8 +3527,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+        "name": "Mi Flor De Naranjo",
+        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
       },
       "artists": [
         {
@@ -3532,9 +3536,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 176133,
-      "name": "Por Quien Me Dejas",
-      "url": "https://open.spotify.com/track/2ztJ3PRnEYdQSxOqcEI0oO"
+      "duration_ms": 167026,
+      "name": "Las Noches Las Hago Dias",
+      "url": "https://open.spotify.com/track/7928L2xWgTXzB5YIN3dO7u"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3555,22 +3559,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
-        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
+        "name": "No te la vas acabar",
+        "url": "https://open.spotify.com/album/0RNaqLKbUYLqk2GCdSE2HT"
       },
       "artists": [
         {
           "name": "Pesado",
           "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Catarino Leos",
-          "url": "https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
-      "url": "https://open.spotify.com/track/2iximC5NXwVzV9mgDQCUsk"
+      "duration_ms": 188106,
+      "name": "No te la vas a acabar",
+      "url": "https://open.spotify.com/track/1tQQwbtOWYczFcttdMbbum"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3687,8 +3687,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Mi Flor De Naranjo",
-        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
       "artists": [
         {
@@ -3696,9 +3696,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Las Noches Las Hago Dias",
-      "url": "https://open.spotify.com/track/7928L2xWgTXzB5YIN3dO7u"
+      "duration_ms": 176133,
+      "name": "Por Quien Me Dejas",
+      "url": "https://open.spotify.com/track/2ztJ3PRnEYdQSxOqcEI0oO"
     },
     {
       "added_at": "2026-03-10 01:04:29",

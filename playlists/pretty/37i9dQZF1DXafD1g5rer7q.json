@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 460290,
+  "num_followers": 460305,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
-      },
-      "artists": [
-        {
-          "name": "Anton Powers",
-          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
-        },
-        {
-          "name": "Redondo",
-          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
-        }
-      ],
-      "duration_ms": 168991,
-      "name": "Make Your Move",
-      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 221400,
       "name": "Cool",
       "url": "https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
+      },
+      "artists": [
+        {
+          "name": "Anton Powers",
+          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
+        },
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        }
+      ],
+      "duration_ms": 168991,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Sex - Radio Edit",
-      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Money Sucks, Friends Rule",
         "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 212777,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Sex - Radio Edit",
+      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
     },
     {
       "added_at": "2025-07-31 16:00:18",

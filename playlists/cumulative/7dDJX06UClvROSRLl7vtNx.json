@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 145161,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/72YjbcJ9gjTsUmOEOtVUrY"
@@ -2936,6 +2936,28 @@
       "duration_ms": 145599,
       "name": "Black Friday - pretty like the sun",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "album": {
+        "name": "Black Or White",
+        "url": "https://open.spotify.com/album/0yZzeWRVLOz6ADn51M4vmv"
+      },
+      "artists": [
+        {
+          "name": "DIMEO",
+          "url": "https://open.spotify.com/artist/5OBm2KxB9JIw4o9msXkeNQ"
+        },
+        {
+          "name": "simplesun",
+          "url": "https://open.spotify.com/artist/1WxW90xSu4iYzfw9fg5fb3"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Black Or White",
+      "url": "https://open.spotify.com/track/1QHJxrnpJntjqNCa6S4tT7"
     },
     {
       "album": {
@@ -8650,7 +8672,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 162500,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/11qBL6eb3y7t0IR7VYOQ0X"
@@ -12598,7 +12620,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 111000,
       "name": "hopefully",
       "url": "https://open.spotify.com/track/4LVQSTPGC7Kue5AwjilVcW"
@@ -13454,7 +13476,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 184218,
       "name": "i love you",
       "url": "https://open.spotify.com/track/1GLOYdKypV46wcXqrhixgY"
@@ -16948,6 +16970,28 @@
       "duration_ms": 143428,
       "name": "Like The Ocean",
       "url": "https://open.spotify.com/track/7BLOR1aLY7fd7Ykw8uIuqe"
+    },
+    {
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/3BO6PYI9SNYDq91Ws15y7K"
+      },
+      "artists": [
+        {
+          "name": "Braaten",
+          "url": "https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB"
+        },
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/7dff6d3A0de6Bpwx0osENC"
     },
     {
       "album": {
@@ -25458,7 +25502,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 170000,
       "name": "Sensational",
       "url": "https://open.spotify.com/track/7514QEveSyBn3arcByWhc0"
@@ -29326,7 +29370,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 160799,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/67Nwm3LhBAZzAxzeKobQ8y"
@@ -33150,7 +33194,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 144857,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/6yvFZzhEdkTWpdzuDFRcwr"

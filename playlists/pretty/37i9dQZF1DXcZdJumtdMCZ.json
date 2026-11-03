@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADY/kPg9E4CrwFDm8lANzQbcUqBW",
+  "snapshot_id": "AAAAAG62CwduyWhBWyAv4yYU8BmQRE4i",
   "tracks": [
     {
       "added_at": "2026-10-10 10:18:14",
@@ -135,6 +135,30 @@
       "duration_ms": 157500,
       "name": "Officer On Duty (From \"Vidiyum Kaathiru\")",
       "url": "https://open.spotify.com/track/3aaaJ9gp4AmdqoAqprYRfr"
+    },
+    {
+      "added_at": "2026-11-02 13:42:08",
+      "album": {
+        "name": "Rise Up (From \"Black Gold\")",
+        "url": "https://open.spotify.com/album/5hEluMZ7fEZCHBMKNykJbD"
+      },
+      "artists": [
+        {
+          "name": "Ram Agarathi",
+          "url": "https://open.spotify.com/artist/4siGcYWw3GKdktSUL0j7WC"
+        },
+        {
+          "name": "Gavaskar Avinash",
+          "url": "https://open.spotify.com/artist/4P2nwFIMURDKwp0dPOXKdR"
+        },
+        {
+          "name": "Mohanrajan",
+          "url": "https://open.spotify.com/artist/5tSoZKJdiyAz4blPkLLF3X"
+        }
+      ],
+      "duration_ms": 180220,
+      "name": "Rise Up (From \"Black Gold\")",
+      "url": "https://open.spotify.com/track/2OYhWHcE8lChALxCiB13Li"
     },
     {
       "added_at": "2026-09-15 12:11:56",
@@ -1103,26 +1127,6 @@
       "duration_ms": 136344,
       "name": "Raja Mandhiri Kathai",
       "url": "https://open.spotify.com/track/54kSieYbc6UeZMrxMJF7Q7"
-    },
-    {
-      "added_at": "2026-06-24 12:10:36",
-      "album": {
-        "name": "Rise of Linga (From \"MAGUDAM\")",
-        "url": "https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "V7h",
-          "url": "https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl"
-        }
-      ],
-      "duration_ms": 204041,
-      "name": "Rise of Linga (From \"MAGUDAM\")",
-      "url": "https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8"
     },
     {
       "added_at": "2026-06-25 06:31:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 922 likes - 55 songs - 3 hr 8 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 926 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,9 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 53 | [Damnation](https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Hail Saturn / Damnation](https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD) | 2:36 |
 | 54 | [Suitcase](https://open.spotify.com/track/59xMzBsmxmXjBdRnPfVU1e) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Suitcase](https://open.spotify.com/album/4wvsj7lHO3PZt9lYYZwSxG) | 5:18 |
 | 55 | [Goodbye on a High](https://open.spotify.com/track/1Rpf3vtHZIjk8QlfuqFZRA) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Goodbye on a High](https://open.spotify.com/album/4q8q2GmUdveEdHA33E2sb9) | 2:59 |
+| 56 | [Overrated](https://open.spotify.com/track/5OUfkGbStbslpI2tHo9ljb) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [Overrated](https://open.spotify.com/album/1cOWmLcLfqKCdHEcUDNlhe) | 2:24 |
+| 57 | [With All of Us](https://open.spotify.com/track/0VI8zM8jJChx9Iv8fZ9ScQ) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Humane!](https://open.spotify.com/album/66tIJHMVDylzOmKh9wMwCo) | 3:29 |
+| 58 | [Breakwall](https://open.spotify.com/track/1d4c6s3OpMXu98TVvH0mXr) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Breakwall](https://open.spotify.com/album/3zEunuVIRMYJw74PHKdy5I) | 3:29 |
+| 59 | [Suicide Sugar](https://open.spotify.com/track/4SbP8W45yuDFNXWnjbC7Hz) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Suicide Sugar](https://open.spotify.com/album/1tcQBg0EwqqVlxr37XHKWd) | 3:51 |
 
-Snapshot ID: `AAAEGUiSY3o1hpaAQVeDHqAbRbCE+P0L`
+Snapshot ID: `AAAEHeroie8tHPPgoUHUPKC/r9QiVElK`

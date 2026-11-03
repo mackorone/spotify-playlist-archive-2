@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 175197,
+  "num_followers": 175213,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "(Die Man Is) Verliefd",
+        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 186799,
+      "name": "(Die Man Is) Verliefd",
+      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Wereldwonder",
         "url": "https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 151714,
       "name": "Wereldwonder",
       "url": "https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "(Die Man Is) Verliefd",
-        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        }
-      ],
-      "duration_ms": 186799,
-      "name": "(Die Man Is) Verliefd",
-      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "En Ik Droom",
-        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "En Ik Droom",
-      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Vandaag",
         "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 182000,
       "name": "Maak Me Gek",
       "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "En Ik Droom",
+        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "En Ik Droom",
+      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Voel Je Dan Niet?",
-        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 180671,
-      "name": "Voel Je Dan Niet?",
-      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Wesly Bronkhorst",
         "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 201786,
       "name": "Kom Allemaal Maar In Mijn Armen",
       "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Voel Je Dan Niet?",
+        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 180671,
+      "name": "Voel Je Dan Niet?",
+      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Hoe Zou Je Doen",
-        "url": "https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Hoe Zou Je Doen",
-      "url": "https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Een Blik In Jouw Ogen",
         "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 184671,
       "name": "Een Blik In Jouw Ogen",
       "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Hoe Zou Je Doen",
+        "url": "https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 184087,
+      "name": "Hoe Zou Je Doen",
+      "url": "https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "Haal Alles Uit Het Leven",
+        "url": "https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "duration_ms": 178868,
+      "name": "Haal Alles Uit Het Leven",
+      "url": "https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Pretty Belinda",
         "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 174533,
       "name": "Pretty Belinda",
       "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Haal Alles Uit Het Leven",
-        "url": "https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a"
-      },
-      "artists": [
-        {
-          "name": "Wolter Kroes",
-          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
-        }
-      ],
-      "duration_ms": 178868,
-      "name": "Haal Alles Uit Het Leven",
-      "url": "https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1599,38 +1599,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
       },
       "artists": [
         {
           "name": "Yves Berendse",
           "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1647,6 +1627,22 @@
       "duration_ms": 219560,
       "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
       "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1687,34 +1683,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
       "artists": [
         {
           "name": "Yves Berendse",
           "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
+        },
         {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1735,6 +1719,22 @@
       "duration_ms": 171285,
       "name": "De Laatste",
       "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2026-09-24 22:08:52",

@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
+> أجمد المهرجانات في مصر! الغلاف: عصام صاصا
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,256 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,489 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [اخوك جايبها م الصفر](https://open.spotify.com/track/1Zmrw5oVwBk8JSMols6Ihw) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [اخوك جايبها م الصفر](https://open.spotify.com/album/2ucJSPN9Ol6CvLdILtmaa8) | 2:03 |
-| 2 | [العركة بدأت تاك تاك](https://open.spotify.com/track/5PXjcBjSOGdjkGFEqgcqfK) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [العركة بدأت تاك تاك](https://open.spotify.com/album/22fB0htKOOfulV1k5o6vi1) | 4:10 |
-| 3 | [يا صباح عنابي](https://open.spotify.com/track/0DpMteh0VG4AxPAlqTir8z) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يا صباح عنابي](https://open.spotify.com/album/0Wocf6qjqfOuZArDBKJ0xh) | 3:38 |
-| 4 | [اوعي الجبيماشو يزوقك](https://open.spotify.com/track/796xjgU3ij3zZURMF1FgPH) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [اوعي الجبيماشو يزوقك](https://open.spotify.com/album/304FbGrqGCWbRrX2maFLXx) | 4:39 |
-| 5 | [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/track/4o1WoOrn31vvT5WKsvJd8p) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc), [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/album/2HJR9YWxsXiSIh40KW5Mhp) | 3:21 |
-| 6 | [اركب الدبابه](https://open.spotify.com/track/6SB8UDaW6ieaNNjRY7iPn5) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [اركب الدبابه](https://open.spotify.com/album/2wKNJKE2KlBQl1WiEg7vN2) | 2:47 |
-| 7 | [توبه نصوحه](https://open.spotify.com/track/50VU8XBZLUdTwLjY1SWrNd) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [توبه نصوحه](https://open.spotify.com/album/6KtFQkJfyyPtcD1wHDAQ4R) | 2:14 |
-| 8 | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 |
-| 9 | [عيال جديدة لانج](https://open.spotify.com/track/6iDTooZzJTkEGDei5M1R5e) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [عيال جديدة لانج](https://open.spotify.com/album/5MjhZcWxOgcTHNFJeyWnO3) | 3:16 |
-| 10 | [كلها مستنظره عيزني ارجع ورا](https://open.spotify.com/track/0ytTMGsxwuse60V0dk8PIX) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كلها مستنظره عيزني ارجع ورا](https://open.spotify.com/album/6p9ieBIjSX9GCVZElCjNe0) | 3:03 |
-| 11 | [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/track/6725wzwd67aDcPbbAvGljT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يابني متزغورليش \( دي اللي معاها بعيش \)](https://open.spotify.com/album/5NKW64gZzuaiSPRmlfRxQo) | 4:23 |
+| 1 | [استفدت ايه بكبريائك](https://open.spotify.com/track/53iDi4N6iDqVoeT76A2r4e) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [استفدت ايه بكبريائك](https://open.spotify.com/album/2bF1ZF2tRJgHEZ7Tpjk2nv) | 3:21 |
+| 2 | [اخوك جايبها م الصفر](https://open.spotify.com/track/1Zmrw5oVwBk8JSMols6Ihw) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [اخوك جايبها م الصفر](https://open.spotify.com/album/2ucJSPN9Ol6CvLdILtmaa8) | 2:03 |
+| 3 | [العركة بدأت تاك تاك](https://open.spotify.com/track/5PXjcBjSOGdjkGFEqgcqfK) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [العركة بدأت تاك تاك](https://open.spotify.com/album/22fB0htKOOfulV1k5o6vi1) | 4:10 |
+| 4 | [يا صباح عنابي](https://open.spotify.com/track/0DpMteh0VG4AxPAlqTir8z) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يا صباح عنابي](https://open.spotify.com/album/0Wocf6qjqfOuZArDBKJ0xh) | 3:38 |
+| 5 | [اوعي الجبيماشو يزوقك](https://open.spotify.com/track/796xjgU3ij3zZURMF1FgPH) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [اوعي الجبيماشو يزوقك](https://open.spotify.com/album/304FbGrqGCWbRrX2maFLXx) | 4:39 |
+| 6 | [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/track/4o1WoOrn31vvT5WKsvJd8p) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc), [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [لساني بلعب وانا فرداني \( عمها مين فيكو قال انتهي \)](https://open.spotify.com/album/2HJR9YWxsXiSIh40KW5Mhp) | 3:21 |
+| 7 | [اركب الدبابه](https://open.spotify.com/track/6SB8UDaW6ieaNNjRY7iPn5) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [اركب الدبابه](https://open.spotify.com/album/2wKNJKE2KlBQl1WiEg7vN2) | 2:47 |
+| 8 | [توبه نصوحه](https://open.spotify.com/track/50VU8XBZLUdTwLjY1SWrNd) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [توبه نصوحه](https://open.spotify.com/album/6KtFQkJfyyPtcD1wHDAQ4R) | 2:14 |
+| 9 | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/track/0EkXpiZTDd9EBb1BOCtjwF) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [الغابة ليها بابا \( هو الديب لما يغيب \)](https://open.spotify.com/album/22u0oYA3g04ts1Deuku5ae) | 3:12 |
+| 10 | [عيال جديدة لانج](https://open.spotify.com/track/6iDTooZzJTkEGDei5M1R5e) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [عيال جديدة لانج](https://open.spotify.com/album/5MjhZcWxOgcTHNFJeyWnO3) | 3:16 |
+| 11 | [كلها مستنظره عيزني ارجع ورا](https://open.spotify.com/track/0ytTMGsxwuse60V0dk8PIX) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كلها مستنظره عيزني ارجع ورا](https://open.spotify.com/album/6p9ieBIjSX9GCVZElCjNe0) | 3:03 |
 | 12 | [اخدت الكدر من الجميع](https://open.spotify.com/track/6r5VAKShZTrcoGd318VYSS) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [اخدت الكدر من الجميع](https://open.spotify.com/album/2haRGC54uu4OoperC6oUZv) | 3:29 |
 | 13 | [انت اونطجي \( الناس عقارب \)](https://open.spotify.com/track/3Iql8rZ78yGTYpmXKiopz7) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [انت اونطجي \( الناس عقارب \)](https://open.spotify.com/album/2diF1P3CD4zn4XriBddymW) | 5:49 |
 | 14 | [كوكب النسيان](https://open.spotify.com/track/53yHQHDCami5nI7IFKx6U0) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [كوكب النسيان](https://open.spotify.com/album/0uAtKO2QYf7g8fIHRWPAS7) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 49 | [العودة من بعد الغياب](https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5) | [العودة من بعد الغياب](https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y) | 3:55 |
 | 50 | [قاعد وبتفرج](https://open.spotify.com/track/45UhzjLtR3VMPgx7xO2plv) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [قاعد وبتفرج](https://open.spotify.com/album/0R5x0p6thoiMolIIHWhxKw) | 3:18 |
 
-Snapshot ID: `AAAAAK2VnqL9VoZ0YFdt3w1+Cv9Qo3nA`
+Snapshot ID: `AAAAAItrv+66Mcv1u2odjs49cLfnw/In`

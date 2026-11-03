@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,961 songs - 11 day 5 hr 36 min
+4,963 songs - 11 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2810,6 +2810,7 @@
 | [Morning day super](https://open.spotify.com/track/3Ph3scnAom0bTDZlUtTa2k) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:55 | 2025-09-12 |  |
 | [Morning Feeling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0MfSBJIwFOBtMTRb8rjsBk) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Morning Feeling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4URFCPYfk8SRwsWOc3OSyZ) | 4:38 | 2025-06-04 |  |
 | [Morning Grace](https://open.spotify.com/track/5vvwZbxgHbHr78J9LoJwQj) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:38 | 2026-04-29 |  |
+| [Morning Light](https://open.spotify.com/track/7q3bSnB43PJgmcJzB4gnzx) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Morning Light](https://open.spotify.com/album/37kNz5cw59TbcijwmZI8eu) | 3:58 | 2026-11-02 |  |
 | [Morphine](https://open.spotify.com/track/0aimF5BdTRPvyLMMHB3nI5) | [Joey Godfrey](https://open.spotify.com/artist/5Q87v9OdeOSyhAo2H6OFCc) | [Morphine](https://open.spotify.com/album/2fgTJDXR6qrwNJyqDneRP6) | 2:30 | 2026-07-25 |  |
 | [Morte ai Poveri](https://open.spotify.com/track/08AzEwn7ZCr3zwyy8NrM7b) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/album/1eq3D6TnLGA5ibwbzZU2Jk) | 4:03 | 2025-11-12 |  |
 | [Mos](https://open.spotify.com/track/03NXVg7TdF1PN8zOm99KlY) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 3:59 | 2026-02-01 |  |
@@ -3903,6 +3904,7 @@
 | [Someday](https://open.spotify.com/track/1tQPfLbmMd6GSeKhsoyC4M) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [Angus Court](https://open.spotify.com/album/40raKChU36fgkK6iCP4vYs) | 3:39 | 2025-06-05 |  |
 | [Somehow i manage](https://open.spotify.com/track/5XQLf0iWXFXpmR4N3ULyOJ) | [Parkii](https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i) | [Somehow i manage](https://open.spotify.com/album/4REBIog42thZXKfZPSLZ7n) | 4:04 | 2025-05-07 |  |
 | [somehow you know](https://open.spotify.com/track/3MyMQQY8A2DFw9BU9n82bh) | [Bishesh Silwal](https://open.spotify.com/artist/0gh2ztSK87CtLjYwEDSITZ) | [somehow you know](https://open.spotify.com/album/1pQrtc21pBDPyYy0XZSIrV) | 2:48 | 2025-10-12 |  |
+| [Something](https://open.spotify.com/track/5gAPlerVQ3cFednbpheJdQ) | [AIRFLO](https://open.spotify.com/artist/5enWQoEEYc5HIcUmju49vL) | [Something](https://open.spotify.com/album/3DtbqRhzGDVrWBzkBHjuF6) | 4:00 | 2026-11-02 |  |
 | [Something](https://open.spotify.com/track/3OD7xq8S6eqfBALoJvN5hV) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Something](https://open.spotify.com/album/5QpuH1peDU5W5Wc3gfdMJY) | 3:36 | 2025-09-15 |  |
 | [Somewhere I Used to Know \- Initial Version](https://open.spotify.com/track/7f6rfp7aXoVAkw4TybTL7j) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Somewhere I Used to Know \(Initial Version\)](https://open.spotify.com/album/3CPKtNKfxolxLfij1rfoas) | 4:04 | 2025-06-01 |  |
 | [Somewhere Unknown](https://open.spotify.com/track/5vaJe0O125oOMZnjDrv7ca) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Somewhere Unknown](https://open.spotify.com/album/7nGLkpkRmwx9g39hngKcR9) | 3:01 | 2026-01-01 |  |

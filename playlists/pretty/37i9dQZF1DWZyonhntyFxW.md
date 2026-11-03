@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: أرسينِك
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,026 likes - 56 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,024 likes - 56 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shata Matta](https://open.spotify.com/track/1QZ1wj5kETdPvmpCSy70Jo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [AQAREB \(Deluxe Edition\)](https://open.spotify.com/album/1cL9P0veCWYrehihlmOvF0) | 3:25 |
-| 2 | [MVP](https://open.spotify.com/track/2x4WoXZaFrGyzo5LWnkxe9) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [WW3](https://open.spotify.com/album/066dA7zgsBI76f8KHVvsfQ) | 2:57 |
+| 1 | [MVP](https://open.spotify.com/track/2x4WoXZaFrGyzo5LWnkxe9) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [WW3](https://open.spotify.com/album/066dA7zgsBI76f8KHVvsfQ) | 2:57 |
+| 2 | [Shata Matta](https://open.spotify.com/track/1QZ1wj5kETdPvmpCSy70Jo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [AQAREB \(Deluxe Edition\)](https://open.spotify.com/album/1cL9P0veCWYrehihlmOvF0) | 3:25 |
 | 3 | [Supreme](https://open.spotify.com/track/0ux9ahOLCr8BVREw1637ss) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [Supreme](https://open.spotify.com/album/1LBobRsBv6zG6GlvWoCo7F) | 2:21 |
 | 4 | [CEO](https://open.spotify.com/track/6IsX1rs9rcMd3wv93o6qfG) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [Taltesh](https://open.spotify.com/album/6aMnPHAhk61cqirNCy6pGi) | 2:19 |
 | 5 | [كاموفلاچ](https://open.spotify.com/track/3ModQsJjyPfW5hXRuGlNgz) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [كاموفلاچ](https://open.spotify.com/album/11ZwwJrK0azXgGZiplgBEu) | 2:34 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 55 | [Meen Ytafy Nary](https://open.spotify.com/track/2ifemK90i9fSrsbC2mx46q) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Meen Ytafy Nary](https://open.spotify.com/album/1F5IOenDkbPmF3NuVzyEH8) | 3:08 |
 | 56 | [WADINI](https://open.spotify.com/track/2NVujx5LgFAIWPshaI6IYM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:22 |
 
-Snapshot ID: `AAAAAG/yOlx5tn7eVSkJLhlt4y57a2jk`
+Snapshot ID: `AAAAACwnH9aKlb3czx8xyJP351fOF/uB`

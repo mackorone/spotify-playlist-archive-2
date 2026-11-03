@@ -1,6 +1,6 @@
 {
   "description": "Stompers, floaters and floorshakers - these are the tracks that defined the Northern Soul movement.",
-  "num_followers": 152666,
+  "num_followers": 152675,
   "original_name": "Northern Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "The Northern Soul Story Vol.3: Blackpool Mecca",
-        "url": "https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "Hold Back the Night",
-      "url": "https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 209946,
       "name": "The Snake",
       "url": "https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "The Northern Soul Story Vol.3: Blackpool Mecca",
+        "url": "https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Hold Back the Night",
+      "url": "https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj"
     },
     {
       "added_at": "2024-03-22 16:05:01",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-03-22 16:05:01",
       "album": {
-        "name": "Northern Soul: The Collection",
-        "url": "https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn"
-      },
-      "artists": [
-        {
-          "name": "The Mike Post Coalition",
-          "url": "https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Afternoon of the Rhino",
-      "url": "https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW"
-    },
-    {
-      "added_at": "2024-03-22 16:05:01",
-      "album": {
         "name": "Northern Soul Sensations",
         "url": "https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 203506,
       "name": "Girls Are Out to Get You",
       "url": "https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY"
+    },
+    {
+      "added_at": "2024-03-22 16:05:01",
+      "album": {
+        "name": "Northern Soul: The Collection",
+        "url": "https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn"
+      },
+      "artists": [
+        {
+          "name": "The Mike Post Coalition",
+          "url": "https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR"
+        }
+      ],
+      "duration_ms": 139213,
+      "name": "Afternoon of the Rhino",
+      "url": "https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW"
     },
     {
       "added_at": "2024-03-22 16:05:01",

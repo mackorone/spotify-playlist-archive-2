@@ -2,9 +2,9 @@
 
 ### [Women of Classical](https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb)
 
-> Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Jeneba Kanneh Mason
+> Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Suena
 
-235 songs - 17 hr 58 min
+236 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Twelve Preludes For Piano \(1953\): I](https://open.spotify.com/track/0WSWXSsIoIRe0grvGTE43T) | [Galina Ustvolskaya](https://open.spotify.com/artist/43FqjuAdZNLw8BKi4YPJt6), [Marianne Schroeder](https://open.spotify.com/artist/59bnSGgBPFGzTZjYQNdKrA) | [Galina Ustvolskaya: 2](https://open.spotify.com/album/4lBE0md9NuXIiS6XmB7NjI) | 2:56 | 2021-12-13 | 2025-03-08 |
 | [Vespers for a New Dark Age: I\. Wayward Free Radical Dreams](https://open.spotify.com/track/7b6xE7t521ODKENgiXLNrC) | [Missy Mazzoli](https://open.spotify.com/artist/61O7PTMoyars8V5kcaYov4), [Victoire](https://open.spotify.com/artist/7K9iFURUa9rPbdlX3WLfQW), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs) | [Missy Mazzoli: Vespers for a New Dark Age](https://open.spotify.com/album/2KUhXIGILGNUQ68zCs3Ht1) | 5:13 | 2023-12-21 | 2024-04-19 |
 | [Vespers for a New Dark Age: I\. Wayward Free Radical Dreams](https://open.spotify.com/track/7s4rXsF2uAeechqkvLrwK6) | [Missy Mazzoli](https://open.spotify.com/artist/61O7PTMoyars8V5kcaYov4), [Victoire](https://open.spotify.com/artist/7K9iFURUa9rPbdlX3WLfQW), [Glenn Kotche](https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs), [Lorna Dune](https://open.spotify.com/artist/4kqHmnvE50ZrmByhpLktXU) | [Missy Mazzoli: Vespers for a New Dark Age](https://open.spotify.com/album/0j7PNuSnzWiX6edoVzVfL2) | 5:13 | 2021-12-13 | 2025-03-08 |
+| [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 | 2026-11-02 |  |
 | [Vier Lieder ohne Worte, Op\. 8: I\. Allegro moderato](https://open.spotify.com/track/2HEt0JgkftJ6LjcCj3gLDV) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Pauline Chenais](https://open.spotify.com/artist/2E3zjuBdYJHlFPOzjDzBI7) | [Motherhood](https://open.spotify.com/album/65S8AaEaIWBp15cXc38vvd) | 4:07 | 2025-05-30 |  |
 | [Viola Sonata: I\. Impetuoso](https://open.spotify.com/track/7c9EjYBvffyPfidPjwjjvx) | [Rebecca Clarke](https://open.spotify.com/artist/22qeCNFYQmWRJKOIdyWxFz), [Philip Dukes](https://open.spotify.com/artist/0O2VMILbeYdgDV6otqvX7N), [Sophia Rahman](https://open.spotify.com/artist/6xfi0OGTuc0jbi1bsQvmg2) | [Clarke, R: Viola Music](https://open.spotify.com/album/3q6dxOc1gYFgI6BDMk4JSV) | 8:54 | 2021-12-13 | 2025-03-08 |
 | [Violin Concerto in D Major, Op\. 61: II\. Larghetto](https://open.spotify.com/track/4ILQNeWJE5Tax858VRvbSe) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Beethoven: Violin Concerto](https://open.spotify.com/album/1hjNaeBVFL4jT882FanN4r) | 9:06 | 2025-12-15 |  |

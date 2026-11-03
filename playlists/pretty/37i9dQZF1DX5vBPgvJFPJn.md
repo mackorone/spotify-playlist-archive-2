@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 
 > The best new music videos from independent artists and labels\. Featuring Cowboy Hunters\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 | 28 | [Gold Chains \(Official Video\)](https://open.spotify.com/track/1P85Aq2myADE9Tnk1CXASY) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Gold Chains \(Official Video\)](https://open.spotify.com/album/7IRH4TmrFJGRousAv7OYKe) | 2:13 |
 | 29 | [100 MILLION](https://open.spotify.com/track/1jR4ALpdqJ12ghzdrzmvmo) | [Ethansroom](https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne) | [100 MILLION](https://open.spotify.com/album/5xjXkDG5Tli8W8FczI9YPR) | 4:24 |
 | 30 | [DON’T BE A RUNNER](https://open.spotify.com/track/4W06fO3VNt29T29X8XLqga) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [DON’T BE A RUNNER](https://open.spotify.com/album/6lFWUBlYLjHZgIXel23uvY) | 3:14 |
-| 31 | [Walk...Before You Fly \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/18ORy2kdIMfYEBGkS1XO2t) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Walk...Before You Fly \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/5SjOZXqP7CzU7Tl52TQolh) | 2:14 |
+| 31 | [Walk...Before You Fly \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/18ORy2kdIMfYEBGkS1XO2t) | [Nahree](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Walk...Before You Fly \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/5SjOZXqP7CzU7Tl52TQolh) | 2:14 |
 | 32 | [La Respuesta Eres Tú](https://open.spotify.com/track/6889HOpHTjEL5DT8aXLwiD) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [La Respuesta Eres Tú](https://open.spotify.com/album/56eqMLH0xbXH32z2k5jS9n) | 3:55 |
 | 33 | [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 |
 | 34 | [Notorious](https://open.spotify.com/track/2E2uvzPNhtdcpwo5XaHav9) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Notorious](https://open.spotify.com/album/6AVtsJrrFeIbiy6KHCxKzK) | 2:54 |

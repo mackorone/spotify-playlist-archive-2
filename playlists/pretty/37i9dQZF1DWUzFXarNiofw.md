@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,525 likes - 274 songs - 14 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,508 likes - 274 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 17 | [47th Street \- Remix](https://open.spotify.com/track/6syG0vxbKQU9YB36ZFuEp0) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn), [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu) | [47th Street](https://open.spotify.com/album/5sY5uAYJuJOhJfshXuANo2) | 6:40 |
 | 18 | [What U Need](https://open.spotify.com/track/6edMKCXnDvhoTIEflgfyUm) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [What U Need](https://open.spotify.com/album/6QyltmbjLsM56e8jTTUc2X) | 3:07 |
 | 19 | [R.I.D.E.](https://open.spotify.com/track/1NZryOrpeiuCebqmE5Na5p) | [Eric Penn](https://open.spotify.com/artist/2zteg0RniUJB7gWVm9LfO1) | [R.I.D.E.](https://open.spotify.com/album/7apC55tCqSEMZZvviaMSWI) | 3:43 |
-| 20 | [Flowers](https://open.spotify.com/track/4rPgOycJZ7o5V0Af4UDubr) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kobby Worldwide](https://open.spotify.com/artist/2ipmIVsOKJMwWHvsEaUYhu), [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Flowers](https://open.spotify.com/album/50kMdRqVhNrnzBizLYcYC7) | 2:12 |
+| 20 | [Flowers](https://open.spotify.com/track/4rPgOycJZ7o5V0Af4UDubr) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kobby Worldwide](https://open.spotify.com/artist/2ipmIVsOKJMwWHvsEaUYhu), [tg.blk](https://open.spotify.com/artist/79pFb55wXHi6nHlKhoqJIv) | [Flowers](https://open.spotify.com/album/50kMdRqVhNrnzBizLYcYC7) | 2:12 |
 | 21 | [Rush](https://open.spotify.com/track/1BwI5snBaiYwICFPRYz12V) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Kamal Wilson](https://open.spotify.com/artist/2b2p3GXrcFT0eSGwovQp3B) | [Rush](https://open.spotify.com/album/1jCOOdzsTAvKK8arBs1Wa2) | 2:38 |
 | 22 | [Both Ways](https://open.spotify.com/track/2fhpTXPi3ZgHC65dijvxdu) | [Ling Hussle](https://open.spotify.com/artist/5dRGjTajHb5S33PwfxAaBj) | [Both Ways](https://open.spotify.com/album/75M5HDci2spicURlkkPnM1) | 2:55 |
 | 23 | [WYO](https://open.spotify.com/track/2uZ5oYqTi0YyiYHjgyhkKo) | [jalen chords](https://open.spotify.com/artist/2lBtMZqzu8g0e0r95nitlB) | [WYO](https://open.spotify.com/album/4GLCC5EDSVF9f5IYCsjLvL) | 2:50 |

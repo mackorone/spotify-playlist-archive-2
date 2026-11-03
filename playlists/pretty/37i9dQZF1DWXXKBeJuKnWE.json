@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Polyphia",
-  "num_followers": 486530,
+  "num_followers": 486483,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 210937,
-      "name": "Beautiful Again",
-      "url": "https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "critic",
         "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 146058,
       "name": "critic",
       "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Beautiful Again",
+      "url": "https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "DOOM LOOP",
-        "url": "https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "DOOM LOOP",
-      "url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "rehearsed",
         "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 110346,
       "name": "rehearsed",
       "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "DOOM LOOP",
+        "url": "https://open.spotify.com/album/3cVLEJSL59hjHfqVP56QEC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "DOOM LOOP",
+      "url": "https://open.spotify.com/track/6vmfzJFnhzguSGAYqcrHxT"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Crucified",
-        "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 263972,
-      "name": "Crucified",
-      "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "split",
         "url": "https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 131004,
       "name": "split",
       "url": "https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Crucified",
+        "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 263972,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Last One Here",
-        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
-      },
-      "artists": [
-        {
-          "name": "Rev3rent",
-          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Last One Here",
-      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Where the Quiet Devours Me Whole",
         "url": "https://open.spotify.com/album/73goa6HpxvU7caNvTL6zAV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178500,
       "name": "Where the Quiet Devours Me Whole",
       "url": "https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Last One Here",
+        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Last One Here",
+      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Nerv(e)",
-        "url": "https://open.spotify.com/album/4PTPoytSPlZZSwWTlXwFLF"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Nerv(e)",
-      "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Nobody's Coming To Save You",
         "url": "https://open.spotify.com/album/0Fbl6tfN7XDyNutXNI3nlD"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 180232,
       "name": "Waiting For Fisher",
       "url": "https://open.spotify.com/track/1i6RUTWpIoXKTdhcU1upVf"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Nerv(e)",
+        "url": "https://open.spotify.com/album/4PTPoytSPlZZSwWTlXwFLF"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Nerv(e)",
+      "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "do or die",
-        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "do or die",
-      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Doom Tripping",
         "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 253333,
       "name": "Doom Tripping",
       "url": "https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "do or die",
+        "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "do or die",
+      "url": "https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Death To Something",
-        "url": "https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4"
-      },
-      "artists": [
-        {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Death To Something",
-      "url": "https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Black & Blue (2026 Repented)",
         "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 272967,
       "name": "Black & Blue - 2026 Repented",
       "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Death To Something",
+        "url": "https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Death To Something",
+      "url": "https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "\u2060Lucid Love",
-        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Lucid Love",
-      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Your Name In Red Ink",
         "url": "https://open.spotify.com/album/28BwYERM72BwDCFnwWDfb6"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 194693,
       "name": "Your Name In Red Ink",
       "url": "https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "added_at": "2026-10-23 00:00:24",

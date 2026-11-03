@@ -4,7 +4,7 @@
 
 > The Best Indie Tracks of the Moment w/ CON THE ARTIST
 
-3,578 songs - 8 day 17 hr 29 min
+3,579 songs - 8 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2481,6 +2481,7 @@
 | [Quiet Love](https://open.spotify.com/track/6M2SS7708p1TEMeLp9wd1Q) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 3:36 | 2023-10-06 | 2024-01-20 |
 | [Quite Alarmed](https://open.spotify.com/track/5EY1BQq6o67JSvItXBSqJz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [Quite Alarmed](https://open.spotify.com/album/1SPqb5araAEEp35D3wuyhF) | 2:38 | 2024-10-18 | 2024-11-23 |
 | [Quitting](https://open.spotify.com/track/7bG94BuegHan3cT3gQw0ot) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Quitting](https://open.spotify.com/album/5IrCHrDAhTWLHrLqHCgvQr) | 3:13 | 2025-06-20 | 2025-07-19 |
+| [r1 \(ripples\)](https://open.spotify.com/track/2Fg1BzhbflGk6zDVtrjobs) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [r1 \(ripples\)](https://open.spotify.com/album/6rr1eo40U5FulRBagLl4z3) | 4:10 | 2026-11-02 |  |
 | [R3verse](https://open.spotify.com/track/06QzPn91srChnujaOnUN5A) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/7cSg68Tk5OmkfBSviwghnm) | 3:31 | 2026-03-27 | 2026-05-09 |
 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 | 2024-04-19 | 2024-05-11 |
 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 | 2023-10-14 |

@@ -5119,6 +5119,24 @@
     },
     {
       "album": {
+        "name": "Come la Prima Volta",
+        "url": "https://open.spotify.com/album/5DlpLvQTVQu4MeUrKKlwOg"
+      },
+      "artists": [
+        {
+          "name": "Erhes",
+          "url": "https://open.spotify.com/artist/342B4eg1rwTI3poA0uKFOX"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209036,
+      "name": "Come la Prima Volta",
+      "url": "https://open.spotify.com/track/6lSnvSpdVAnm9O6LUtXj5k"
+    },
+    {
+      "album": {
         "name": "Come lei",
         "url": "https://open.spotify.com/album/2I3Ck3pqjouTkDMlHSQEtN"
       },
@@ -6610,6 +6628,24 @@
       "duration_ms": 198421,
       "name": "Dieser Moment Mit Dir",
       "url": "https://open.spotify.com/track/2xFZeUDtkclgCGTRqUPg1r"
+    },
+    {
+      "album": {
+        "name": "The Channeler",
+        "url": "https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb"
+      },
+      "artists": [
+        {
+          "name": "Gobaith",
+          "url": "https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195844,
+      "name": "Dignity",
+      "url": "https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp"
     },
     {
       "album": {

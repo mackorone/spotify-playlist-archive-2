@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
@@ -1356,6 +1356,32 @@
       "duration_ms": 163226,
       "name": "Lejos de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
+    },
+    {
+      "album": {
+        "name": "Camastro al Fallo",
+        "url": "https://open.spotify.com/album/4aGcv1O8NDS04LCXVugqmB"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Lentito",
+      "url": "https://open.spotify.com/track/7cXxp6xKPHhMUlPyAcwNVB"
     },
     {
       "album": {

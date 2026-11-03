@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Irepelusa
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,138 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,115 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 45 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [maia reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
 | 46 | [rimel \(2010\)](https://open.spotify.com/track/39l41dUj8d8ckmnB7Dc7rt) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [rimel \(2010\)](https://open.spotify.com/album/6VEqSh1MLl7JolYhTlcXji) | 2:54 |
 | 47 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
-| 48 | [Te vas alejando](https://open.spotify.com/track/7IxEohlBivgdJMRC9p95Bg) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Pop Pesado](https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4) | 3:42 |
-| 49 | [Las Nubes](https://open.spotify.com/track/7Ijnd1FHjQcerU4kmYURjb) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Ecos del Mar](https://open.spotify.com/album/5JujrqNF5yLq8kAlonK2Jo) | 3:06 |
-| 50 | [De Sueño en Sueño](https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [De Sueño en Sueño](https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D) | 2:43 |
+| 48 | [Las Nubes](https://open.spotify.com/track/7Ijnd1FHjQcerU4kmYURjb) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Ecos del Mar](https://open.spotify.com/album/5JujrqNF5yLq8kAlonK2Jo) | 3:06 |
+| 49 | [De Sueño en Sueño](https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [De Sueño en Sueño](https://open.spotify.com/album/3iZbH8MZdJ1tDjYMz3hA8D) | 2:43 |
 
-Snapshot ID: `AAAAAMXPKeZIjLYUc/t9I6ci2vkCEuqj`
+Snapshot ID: `AAAAACRp/WRwJthxZe2J7DLwnJOZAX5d`

@@ -229578,7 +229578,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 168960,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm"
@@ -265686,6 +265686,24 @@
       "duration_ms": 174750,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
+    },
+    {
+      "album": {
+        "name": "WHAT A LIFE",
+        "url": "https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157310,
+      "name": "WHAT A LIFE",
+      "url": "https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq"
     },
     {
       "album": {

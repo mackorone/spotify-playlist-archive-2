@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51919,
+  "num_followers": 51926,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACCD4bOk2flMDnp4zyVt5Q3",
+  "snapshot_id": "auaBAAAAAAAJjH7frUkkX/p191j7J1/4",
   "tracks": [
     {
       "added_at": null,
@@ -339,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 564281,
-      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 588816,
       "name": "No Hay Nada Imposible - En Vivo",
       "url": "https://open.spotify.com/track/6HKkJwCwn8dgjp7uLyMaPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 564281,
+      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
     },
     {
       "added_at": null,
@@ -435,30 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como En El Cielo (feat. Marcos Brunet)",
-        "url": "https://open.spotify.com/album/6yGL5J3EC48886jWqVU8gE"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        }
-      ],
-      "duration_ms": 439786,
-      "name": "Como En El Cielo (feat. Marcos Brunet)",
-      "url": "https://open.spotify.com/track/4DljpSCFEk0r8Uqt9coS8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 341208,
       "name": "Es por Fe - En Vivo",
       "url": "https://open.spotify.com/track/3V10K6i8e0LSTybqb5NpWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como En El Cielo (feat. Marcos Brunet)",
+        "url": "https://open.spotify.com/album/6yGL5J3EC48886jWqVU8gE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "duration_ms": 439786,
+      "name": "Como En El Cielo (feat. Marcos Brunet)",
+      "url": "https://open.spotify.com/track/4DljpSCFEk0r8Uqt9coS8V"
     },
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 280893,
-      "name": "Eres Todo Para Mi (feat. Alex Campos)",
-      "url": "https://open.spotify.com/track/5Tzpfe2cW7FTrPZBCV0gIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 749184,
       "name": "Sana Nuestra Naci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 280893,
+      "name": "Eres Todo Para Mi (feat. Alex Campos)",
+      "url": "https://open.spotify.com/track/5Tzpfe2cW7FTrPZBCV0gIj"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612133,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 472800,
       "name": "Somos Tu Iglesia - En Vivo",
       "url": "https://open.spotify.com/track/4Zt6DdmiRE5JNIxrx4cQq5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Nunca Me Avergonzar\u00e9",
-      "url": "https://open.spotify.com/track/786Dkp6Y8JgvBv4Qu7BUTu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/2vx7at7h5SV4Oqz8cLNQUm"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 433080,
       "name": "Baut\u00edzame (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/2XvUUgMxDna4uC9tRko6Eu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Nunca Me Avergonzar\u00e9",
+      "url": "https://open.spotify.com/track/786Dkp6Y8JgvBv4Qu7BUTu"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 376840,
-      "name": "Cuanto M\u00e1s Me Rindo",
-      "url": "https://open.spotify.com/track/1QudHdvPhIUELASMoP79FC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 208733,
       "name": "Mientras Viva",
       "url": "https://open.spotify.com/track/46uuCR06kMRhUtsGVkU7Pr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 376840,
+      "name": "Cuanto M\u00e1s Me Rindo",
+      "url": "https://open.spotify.com/track/1QudHdvPhIUELASMoP79FC"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Nos Salvar\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 363206,
+      "name": "Una Nueva Historia - En Vivo",
+      "url": "https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 469547,
       "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
       "url": "https://open.spotify.com/track/0WnTQl6D65GkYkDCt98dmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Nos Salvar\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 363206,
-      "name": "Una Nueva Historia - En Vivo",
-      "url": "https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/6OKeF4mXTQ5NWKYF5ORGLb"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411453,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/5iAwfqjibYBtfWFI5K8lmW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 359827,
       "name": "Cristo Te Amo",
       "url": "https://open.spotify.com/track/1zKH07T3xtfjGtTmhBrHhs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/6OKeF4mXTQ5NWKYF5ORGLb"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 411453,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/5iAwfqjibYBtfWFI5K8lmW"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,30 @@
       "duration_ms": 389946,
       "name": "La Nube De Tu Gloria (feat. Grupo Barak)",
       "url": "https://open.spotify.com/track/1NseCbBak84iCLgbcqEPWS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 349187,
+      "name": "Encuentro Glorioso",
+      "url": "https://open.spotify.com/track/1J8nUS0I6OiW54SG4syUzO"
     },
     {
       "added_at": null,
@@ -1047,30 +1071,6 @@
       "duration_ms": 276480,
       "name": "Cantar de Tu Amor - En Vivo",
       "url": "https://open.spotify.com/track/1x6LGbZbGFm8PYl8QDuVC1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 349187,
-      "name": "Encuentro Glorioso",
-      "url": "https://open.spotify.com/track/1J8nUS0I6OiW54SG4syUzO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 41,456 likes - 102 songs - 5 hr 34 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 41,446 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

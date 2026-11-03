@@ -692,6 +692,24 @@
     {
       "album": {
         "name": "back to that memory",
+        "url": "https://open.spotify.com/album/0oDWVovIMiE7Mzsxuo7jKH"
+      },
+      "artists": [
+        {
+          "name": "lyr\u03bbmbient",
+          "url": "https://open.spotify.com/artist/2yTJYxhglamTW9F83R8wSV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103089,
+      "name": "back to that memory",
+      "url": "https://open.spotify.com/track/1NOvpWyR1vOsj7qvGc6RTp"
+    },
+    {
+      "album": {
+        "name": "back to that memory",
         "url": "https://open.spotify.com/album/1rz6D27FOA8WIo55N8nXBw"
       },
       "artists": [
@@ -702,7 +720,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 103089,
       "name": "back to that memory",
       "url": "https://open.spotify.com/track/6lCRAmtq6ngEllEGSB0xdc"
@@ -3050,6 +3068,24 @@
     {
       "album": {
         "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1VkDPOLZYcFc3wVtP8iO6J"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88937,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4V9XI00X8uTlaV251Ih6Nu"
+    },
+    {
+      "album": {
+        "name": "Forgive Me",
         "url": "https://open.spotify.com/album/2iSqRogB8s2ntfjakXOG5K"
       },
       "artists": [
@@ -3060,7 +3096,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 88937,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/5hmX9erP5NQg363d9gFfRz"
@@ -3944,6 +3980,32 @@
     {
       "album": {
         "name": "i'm looking for you",
+        "url": "https://open.spotify.com/album/1mx7lQ4nhTE8DfdFIR09IU"
+      },
+      "artists": [
+        {
+          "name": "Asteri\u00f8n",
+          "url": "https://open.spotify.com/artist/1MVcHYWfBQ8nEEAYWeYZEr"
+        },
+        {
+          "name": "exhibit",
+          "url": "https://open.spotify.com/artist/61HWukfebVT1IPbIUo5t5Q"
+        },
+        {
+          "name": "vibe",
+          "url": "https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116100,
+      "name": "i'm looking for you",
+      "url": "https://open.spotify.com/track/07r5x0BrObflbifbO0O6P0"
+    },
+    {
+      "album": {
+        "name": "i'm looking for you",
         "url": "https://open.spotify.com/album/15mnCMuK85VkW4oe64XsgJ"
       },
       "artists": [
@@ -3962,7 +4024,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 116100,
       "name": "i'm looking for you",
       "url": "https://open.spotify.com/track/2PHO6Qex8wtsReyujqu87v"
@@ -4408,6 +4470,32 @@
     {
       "album": {
         "name": "lead me back",
+        "url": "https://open.spotify.com/album/7iW57sf7mV6Ps3ZwTrKipz"
+      },
+      "artists": [
+        {
+          "name": "chylies",
+          "url": "https://open.spotify.com/artist/0hVV94BjiauhF4OhfQjUQj"
+        },
+        {
+          "name": "Is\u00f8lately",
+          "url": "https://open.spotify.com/artist/0BW0fv4MWdXL3dpgh4f0X0"
+        },
+        {
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164774,
+      "name": "lead me back",
+      "url": "https://open.spotify.com/track/1NUhE7q1Fy3FZ69TZYbcCk"
+    },
+    {
+      "album": {
+        "name": "lead me back",
         "url": "https://open.spotify.com/album/0Z60QB6dSX1KLyYpkbpUbv"
       },
       "artists": [
@@ -4426,7 +4514,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 164774,
       "name": "lead me back",
       "url": "https://open.spotify.com/track/7iTmYN97QT3v7oSsWKpCbw"
@@ -4474,10 +4562,36 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 139118,
       "name": "leaving soon",
       "url": "https://open.spotify.com/track/1hjhTEemnnTPeh8ww6cMz7"
+    },
+    {
+      "album": {
+        "name": "leaving soon",
+        "url": "https://open.spotify.com/album/12fyF0MsgXydr1N6fSjS4b"
+      },
+      "artists": [
+        {
+          "name": "chylies",
+          "url": "https://open.spotify.com/artist/0hVV94BjiauhF4OhfQjUQj"
+        },
+        {
+          "name": "reykkin",
+          "url": "https://open.spotify.com/artist/1yLALPtgKHSXIZVF1sD4hD"
+        },
+        {
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139118,
+      "name": "leaving soon",
+      "url": "https://open.spotify.com/track/36yBPqQ5T9ursGaNtgCtSV"
     },
     {
       "album": {
@@ -8256,10 +8370,32 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 107142,
       "name": "we could have been more",
       "url": "https://open.spotify.com/track/2IJiul5vlckoCOB3NKsXKO"
+    },
+    {
+      "album": {
+        "name": "we could have been more",
+        "url": "https://open.spotify.com/album/6yGRp8heW9XiQx2DnhbW3N"
+      },
+      "artists": [
+        {
+          "name": "Hinoku",
+          "url": "https://open.spotify.com/artist/4VL8BfRXdbEuK5UoqQWezr"
+        },
+        {
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107142,
+      "name": "we could have been more",
+      "url": "https://open.spotify.com/track/4oH0lOWLs4jiEIielL5Q2Y"
     },
     {
       "album": {

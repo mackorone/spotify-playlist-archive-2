@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aZHEc.md) - [plain]
 | 49 | [asking for it](https://open.spotify.com/track/7cl12xR4Jhr96p03uyRywd) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 1:52 |
 | 50 | [discrete \(the market\)](https://open.spotify.com/track/26SQDv0FWHNO9P2ALGwjUF) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/3KJv1qok546bBsej16WkR4) | 6:34 |
 
-Snapshot ID: `auUvgAAAAAAY4X07CM1UpvscXPJ5wEjN`
+Snapshot ID: `auUvgAAAAADYqTP6uEk6mfR8iYBo9rhy`

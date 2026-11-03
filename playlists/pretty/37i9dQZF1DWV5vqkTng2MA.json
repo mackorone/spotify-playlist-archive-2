@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marfa",
-  "num_followers": 429418,
+  "num_followers": 429448,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAih2q3kT19GcbxAI8ItRFugg1L",
+  "snapshot_id": "AAAAAGVhoFS9pwR3J9wwimy9eBXhyBrE",
   "tracks": [
     {
       "added_at": "2026-10-23 18:03:15",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
+        "name": "The Diamond Street Sessions",
+        "url": "https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS"
+      },
+      "artists": [
+        {
+          "name": "Penelope Road",
+          "url": "https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH"
+        }
+      ],
+      "duration_ms": 254408,
+      "name": "So It Goes",
+      "url": "https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
         "name": "Is Joy Easy",
         "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
       },
@@ -407,18 +423,34 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "The Diamond Street Sessions",
-        "url": "https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
       "artists": [
         {
-          "name": "Penelope Road",
-          "url": "https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 254408,
-      "name": "So It Goes",
-      "url": "https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ"
+      "duration_ms": 235427,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "duration_ms": 203446,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -443,38 +475,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
-      },
-      "artists": [
-        {
-          "name": "Frank Mastra",
-          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
-        }
-      ],
-      "duration_ms": 203446,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 235427,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Free Again",
-        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
-      },
-      "artists": [
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
-        }
-      ],
-      "duration_ms": 232104,
-      "name": "Free Again",
-      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "All I Really Wanna Do",
         "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 222080,
       "name": "All I Really Wanna Do",
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Free Again",
+        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "duration_ms": 232104,
+      "name": "Free Again",
+      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Trespasser",
-        "url": "https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 215486,
-      "name": "Main Street U.S.A.",
-      "url": "https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Lonely Girl",
         "url": "https://open.spotify.com/album/6gKOvK6vpMO33AtX0XdsGv"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 177064,
       "name": "Lonely Girl",
       "url": "https://open.spotify.com/track/3XMf0EMpPQUjINX6KR5ZjI"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Trespasser",
+        "url": "https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 215486,
+      "name": "Main Street U.S.A.",
+      "url": "https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Fire Drill",
-        "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
-      },
-      "artists": [
-        {
-          "name": "Harper O'Neill",
-          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
-        }
-      ],
-      "duration_ms": 222793,
-      "name": "Fire Drill",
-      "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221280,
       "name": "Devil in Me",
       "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Fire Drill",
+        "url": "https://open.spotify.com/album/2vhA82VBs18qhzEr3yoJ7F"
+      },
+      "artists": [
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "duration_ms": 222793,
+      "name": "Fire Drill",
+      "url": "https://open.spotify.com/track/0L8tkxpgoSrRjML2kXL5Eo"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Madelyn",
         "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "How To Get Away With Murder",
-        "url": "https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD"
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
       "artists": [
         {
-          "name": "Jason Scott & The High Heat",
-          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 171000,
-      "name": "How To Get Away With Murder",
-      "url": "https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1"
+      "duration_ms": 247426,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -763,6 +747,22 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
+        "name": "How To Get Away With Murder",
+        "url": "https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "How To Get Away With Murder",
+      "url": "https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -795,22 +811,6 @@
       "duration_ms": 245333,
       "name": "For the Time Being",
       "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "In the Hour of Chaos",
-        "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Kashus Culpepper",
-          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Searchlight (ft. Kashus Culpepper)",
-      "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "In the Hour of Chaos",
+        "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Searchlight (ft. Kashus Culpepper)",
+      "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Life Is Good (Let That Shit Go)",
-        "url": "https://open.spotify.com/album/41BUBK20aUeU55cOQAFrdI"
-      },
-      "artists": [
-        {
-          "name": "Goldie Scott",
-          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
-        }
-      ],
-      "duration_ms": 178916,
-      "name": "Life Is Good (Let That Shit Go)",
-      "url": "https://open.spotify.com/track/2NA3zIhLsxqKcgoRyTfydR"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Darlin'",
         "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 178626,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Life Is Good (Let That Shit Go)",
+        "url": "https://open.spotify.com/album/41BUBK20aUeU55cOQAFrdI"
+      },
+      "artists": [
+        {
+          "name": "Goldie Scott",
+          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+        }
+      ],
+      "duration_ms": 178916,
+      "name": "Life Is Good (Let That Shit Go)",
+      "url": "https://open.spotify.com/track/2NA3zIhLsxqKcgoRyTfydR"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "You've Got What It Takes",
-        "url": "https://open.spotify.com/album/3Lrx6TzBs7qgZGm1E4UVdw"
-      },
-      "artists": [
-        {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "You've Got What It Takes",
-      "url": "https://open.spotify.com/track/5n6UJnJc6JP9pqRWTigmQa"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Red Shoes",
-        "url": "https://open.spotify.com/album/2yhqbOrhAg2QcxeoivlFhA"
+        "name": "You've Got What It Takes",
+        "url": "https://open.spotify.com/album/3Lrx6TzBs7qgZGm1E4UVdw"
       },
       "artists": [
         {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
         }
       ],
-      "duration_ms": 168666,
-      "name": "Red Shoes",
-      "url": "https://open.spotify.com/track/5ncmt0HOOAeOaMnIM27RPJ"
+      "duration_ms": 215506,
+      "name": "You've Got What It Takes",
+      "url": "https://open.spotify.com/track/5n6UJnJc6JP9pqRWTigmQa"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
-        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
+        "name": "Red Shoes",
+        "url": "https://open.spotify.com/album/2yhqbOrhAg2QcxeoivlFhA"
       },
       "artists": [
         {
-          "name": "Brian Tyree Henry",
-          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
         }
       ],
-      "duration_ms": 254329,
-      "name": "We Can Always Come Back To This",
-      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
+      "duration_ms": 168666,
+      "name": "Red Shoes",
+      "url": "https://open.spotify.com/track/5ncmt0HOOAeOaMnIM27RPJ"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1431,6 +1415,22 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
+        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyree Henry",
+          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
+        }
+      ],
+      "duration_ms": 254329,
+      "name": "We Can Always Come Back To This",
+      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Cold Times",
-        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
-      },
-      "artists": [
-        {
-          "name": "Brent Cowles",
-          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Cold Times",
-      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Hold On (Hourglass)",
         "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 248613,
       "name": "Hold On (Hourglass)",
       "url": "https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Cold Times",
+        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
+      },
+      "artists": [
+        {
+          "name": "Brent Cowles",
+          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Cold Times",
+      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
     },
     {
       "added_at": "2026-10-23 18:03:15",

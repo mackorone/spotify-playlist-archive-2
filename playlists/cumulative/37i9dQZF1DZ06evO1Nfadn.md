@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-162 songs - 7 hr 49 min
+163 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Pa Que Sientas Lo Que Siento](https://open.spotify.com/track/780DuUv8gplMFVTRe5Q9Tp) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 3:09 | 2022-06-02 | 2022-10-13 |
 | [Para Que No Me Olvides](https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:11 | 2023-03-17 |  |
 | [Para Que No Me Olvides](https://open.spotify.com/track/7Lb2R3yGVlHH12OwbejcZN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:11 | 2022-06-01 | 2023-03-18 |
-| [Pero Te Amo](https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Historia de Los Exitos](https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb) | 2:42 | 2023-12-13 |  |
+| [Pero Te Amo](https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Historia de Los Exitos](https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb) | 2:42 | 2023-12-13 | 2026-11-03 |
+| [Pero Te Amo](https://open.spotify.com/track/5J01P3hQSf6409GNwqWsaU) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Mundo Gira](https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9) | 3:54 | 2026-11-03 |  |
 | [Pero Te Amo \- Live Version](https://open.spotify.com/track/61xuXpyNQ8VGTqNcI2JxV1) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 4:24 | 2022-06-01 | 2023-12-14 |
 | [Piel Canela](https://open.spotify.com/track/5Xl9nJxXWfeFDmF4qdZ6un) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 2:33 | 2022-06-09 | 2022-08-21 |
 | [Popurrí Cumbias](https://open.spotify.com/track/05xTV0QyQyV87C9UNq9vuP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Que Se Apague el Sol](https://open.spotify.com/album/2FfHFcmKb9jRKs6usSJGob) | 5:34 | 2022-07-04 | 2022-08-16 |

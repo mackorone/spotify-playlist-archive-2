@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,377 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,368 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 22 | [Miss Helsinki \(with meik & AB\)](https://open.spotify.com/track/4zHJILWfqn5mukqZUUa4bi) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp), [meik](https://open.spotify.com/artist/3lWLx3XSIXTsTcWH30Xs95), [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Miss Helsinki \(with meik & AB\)](https://open.spotify.com/album/10DCv3bWx2eYHuV8c5feC6) | 2:54 |
 | 23 | [BOUJEE](https://open.spotify.com/track/1h444FCFESqo0Uy9WI7iGg) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [BOUJEE](https://open.spotify.com/album/2a9G4o3WlvzPpley7XFkcp) | 3:01 |
 | 24 | [Holtiton](https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH) | [Nenerchy](https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy) | [Holtiton](https://open.spotify.com/album/0fVcDc4SNUKdwP6mKz0PUl) | 3:07 |
-| 25 | [en tunne](https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [en tunne](https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb) | 3:01 |
+| 25 | [Mielikuvitusta](https://open.spotify.com/track/5FhFbwrMFYU7WkWdkenPvR) | [Aali](https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf) | [Mielikuvitusta](https://open.spotify.com/album/0VMhBfd8rNpddav5BRBY4F) | 3:56 |
 | 26 | [Edestakaisin](https://open.spotify.com/track/6fONXxK5VYRSv4cFETHyBy) | [Diya](https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5) | [Edestakaisin](https://open.spotify.com/album/2DVilstn40JgfJzJmHgXpK) | 2:33 |
-| 27 | [Mielikuvitusta](https://open.spotify.com/track/5FhFbwrMFYU7WkWdkenPvR) | [Aali](https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf) | [Mielikuvitusta](https://open.spotify.com/album/0VMhBfd8rNpddav5BRBY4F) | 3:56 |
+| 27 | [en tunne](https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [en tunne](https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb) | 3:01 |
 | 28 | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4) | 2:48 |
 | 29 | [Viimeinen kausi](https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Toiveuusintoja](https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB) | 2:52 |
 | 30 | [Paremmin ku ikin](https://open.spotify.com/track/1fwY8uM3w4yf5WefXgLFTJ) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Paremmin ku ikin](https://open.spotify.com/album/1mLf8g07UrbwP6f1yHfXoE) | 2:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 47 | [Satan ja Tsiisus](https://open.spotify.com/track/7IExBx42fyw2q7gBKGew5d) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Satan ja Tsiisus](https://open.spotify.com/album/13FIE6novaZEP4fxxmL71e) | 3:05 |
 | 48 | [Stereot](https://open.spotify.com/track/3FhY15yjub9sIofJK5nHFk) | [Efka Crush](https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF) | [Stereot](https://open.spotify.com/album/1BtRv6Y4dlPq3TaTmjzK5N) | 4:07 |
 | 49 | [MÄKI OON](https://open.spotify.com/track/06YWr3p7Yq5xi5Hq91m383) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [MÄKI OON](https://open.spotify.com/album/0MFde9jl2PgxmTBUi5Ds18) | 1:56 |
-| 50 | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 |
+| 50 | [Paina play paina stop](https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb) | [AB](https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm) | [Paina play paina stop](https://open.spotify.com/album/3wmjt0zXt7Dy48qPIXElDH) | 2:33 |
 
 Snapshot ID: `AAAAAKORw/ffs/aNhX337guBMsiqKgIw`

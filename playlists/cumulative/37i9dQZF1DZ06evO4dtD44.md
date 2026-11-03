@@ -4,7 +4,7 @@
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 10 min
+103 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Besame Mucho](https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 8:46 | 2025-07-20 |  |
 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 | 2025-12-20 | 2026-08-23 |
 | [Bim Bom](https://open.spotify.com/track/2QNZSb9xMwUzZ6eepum6m2) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 1:16 | 2026-08-28 | 2026-10-19 |
-| [Bim Bom](https://open.spotify.com/track/45gBYIbizYRUtvVFsRIHAu) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 1:17 | 2026-08-23 |  |
+| [Bim Bom](https://open.spotify.com/track/45gBYIbizYRUtvVFsRIHAu) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 1:17 | 2026-08-23 | 2026-11-03 |
 | [Bim Bom](https://open.spotify.com/track/0ePXjhPFey6c0Fp2XQXaeO) | [João Gilberto](https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 1:17 | 2026-03-03 | 2026-08-08 |
+| [Bim Bom](https://open.spotify.com/track/1A6KDZo2l03lUbPLgnN0Ls) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade by João Gilberto](https://open.spotify.com/album/0qiXOkJRFqDLFppLNobKPG) | 1:17 | 2026-11-03 |  |
 | [Bim Bom](https://open.spotify.com/track/5H6vJoSdA1cru4kEhj1LWU) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 1:17 | 2025-07-20 | 2025-12-20 |
 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Summer Samba](https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc) | 2:09 | 2026-07-26 | 2026-09-03 |
 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:09 | 2025-07-20 |  |
@@ -68,7 +69,7 @@
 | [Hô\-bá\-lá\-lá](https://open.spotify.com/track/69MmoNvhn68CmqoREGtqfI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:15 | 2026-10-05 | 2026-10-10 |
 | [Insensatez](https://open.spotify.com/track/1ChBqMI5Egz20lWvsQHuAK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Vocé e Eu](https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR) | 2:24 | 2026-08-08 | 2026-08-13 |
 | [Insensatez](https://open.spotify.com/track/1jHKEk6kxgS9KB78dE669J) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:25 | 2025-07-20 | 2025-08-22 |
-| [Isto Aquí O Que É](https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 4:29 | 2026-02-02 | 2026-03-10 |
+| [Isto Aquí O Que É](https://open.spotify.com/track/4aq5Pfvd1CRZPpK5OKz7GW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 4:29 | 2026-02-02 |  |
 | [It Might As Well Be Spring \- Live At Carnegie Hall](https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Jazz 'Round Midnight: Bossa Nova](https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY) | 4:24 | 2025-07-20 | 2026-10-02 |
 | [Izaura](https://open.spotify.com/track/4im3cvYs2A3dIjBDlXJU3C) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:28 | 2026-05-03 |  |
 | [Maria Ninguém](https://open.spotify.com/track/14tckhtrOlTwM32xlVGzrv) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:22 | 2026-01-05 | 2026-01-15 |
@@ -92,7 +93,7 @@
 | [Samba da Minha Terra](https://open.spotify.com/track/1YbuG1qwTadVXeEqUGdzpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:21 | 2026-08-26 | 2026-08-27 |
 | [Samba Da Minha Terra \- Live At Carnegie Hall/1964](https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 3:08 | 2025-07-20 |  |
 | [Samba de uma Nota Só \- Ultimate Mix](https://open.spotify.com/track/7joZ2HZJxMLeT5Gpz3YYsR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:37 | 2025-07-20 |  |
-| [Saudade Fêz Um Samba](https://open.spotify.com/track/5pDxXDEmEKKa658VxDH29J) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 1:47 | 2026-08-20 |  |
+| [Saudade Fêz Um Samba](https://open.spotify.com/track/5pDxXDEmEKKa658VxDH29J) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 1:47 | 2026-08-20 | 2026-11-03 |
 | [Saudade Fêz Um Samba](https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 1:47 | 2026-03-13 | 2026-08-20 |
 | [Saudade Fêz Um Samba](https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 1:47 | 2025-07-20 | 2025-12-18 |
 | [Sorriu Para Mim](https://open.spotify.com/track/4fTmfK5efjGjADhAUAjgKl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 3:05 | 2025-07-20 |  |

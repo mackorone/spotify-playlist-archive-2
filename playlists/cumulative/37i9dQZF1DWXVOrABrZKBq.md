@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Heuss L'enfoiré, PLK
 
-823 songs - 1 day 15 hr 24 min
+824 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 | [TOP BOY II](https://open.spotify.com/track/1f8sZt0H1NuBuwvwUWLb49) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [TOP BOY II](https://open.spotify.com/album/19lCB1UHOyG1aVbXZNzOiv) | 1:52 | 2026-10-09 | 2026-10-24 |
 | [TOPBOY](https://open.spotify.com/track/4uH41DlUpCyGQqaWEI2NWI) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [TOPBOY : Tome 1](https://open.spotify.com/album/5dZImBvYOJxHYOXtRrwJWy) | 2:52 | 2025-10-10 | 2025-11-15 |
 | [Tour](https://open.spotify.com/track/4v2DWcJS8tXPMqq9SKX5R5) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe) | [Tour](https://open.spotify.com/album/2m3epZUipMloYX7ubIeORv) | 3:23 | 2024-08-27 | 2025-10-11 |
+| [TOUS MES DIAMANTS](https://open.spotify.com/track/11lYM95HuWxGyGMTWEFQVk) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [DOM PERIGNON CRYING \(Anniversary\)](https://open.spotify.com/album/1l5sYO33qmTKEna22Iy9xK) | 3:01 | 2026-10-30 |  |
 | [Tout c'que j'ai](https://open.spotify.com/track/4Nq4kH3CUEXid0ugRPr4If) | [Manny](https://open.spotify.com/artist/6ZFGk1kTOZMU0tEzoFJG9w), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tout c'que j'ai](https://open.spotify.com/album/6cVJ4icdm8nqxQcZKYAd7D) | 3:04 | 2026-04-03 | 2026-05-16 |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:37 | 2023-03-03 | 2023-07-08 |
 | [Tout doux](https://open.spotify.com/track/1KBro5B3LOAq8uTAehhom9) | [Cadiem](https://open.spotify.com/artist/0SHjykYVymZu6OV343kgUe) | [Tout doux](https://open.spotify.com/album/6lg9KvoU3yRmmWcuc0DUE0) | 2:15 | 2026-08-07 | 2026-08-15 |

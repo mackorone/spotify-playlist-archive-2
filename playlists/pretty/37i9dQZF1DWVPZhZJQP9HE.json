@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Siri Xander",
-  "num_followers": 86078,
+  "num_followers": 86109,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALoqyijTBALIAw6cjXSKyR/Um64m",
+  "snapshot_id": "AAAAANZCEr0/KAX6HnUWIk/yEzwMwrA7",
   "tracks": [
     {
       "added_at": "2026-08-27 11:24:03",
@@ -307,6 +307,26 @@
       "duration_ms": 160161,
       "name": "VAANMATHI",
       "url": "https://open.spotify.com/track/6OBigDNxPz7c9P5YWnnecH"
+    },
+    {
+      "added_at": "2026-11-02 13:45:52",
+      "album": {
+        "name": "Thean Kudika 404",
+        "url": "https://open.spotify.com/album/6GRe1EEMbGmHPccgqo32n9"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
+        },
+        {
+          "name": "Keerthana Vijay",
+          "url": "https://open.spotify.com/artist/194c4eJbK89YmvJ7zuSoQ0"
+        }
+      ],
+      "duration_ms": 289204,
+      "name": "Thean Kudika 404",
+      "url": "https://open.spotify.com/track/1rkW2iIF8p2piYKKWKNZAL"
     },
     {
       "added_at": "2026-10-31 00:53:37",

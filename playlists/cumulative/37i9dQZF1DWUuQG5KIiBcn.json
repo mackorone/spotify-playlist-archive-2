@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 207845,
       "name": "Anastasio Pacheco",
       "url": "https://open.spotify.com/track/4ZRNRyhiuEIu79SCbUOxUF"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 208956,
       "name": "Anastasio Pacheco",
       "url": "https://open.spotify.com/track/2U1ucjQui6SBjirCgqqcud"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 141160,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/0F9rCRUV6oHrFh0JQHnOLO"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 141493,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
@@ -230,10 +230,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 241346,
       "name": "Caballo Patas Blancas",
       "url": "https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb"
+    },
+    {
+      "album": {
+        "name": "Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/0LGgCS56gBKLGmVut5s8x0"
+      },
+      "artists": [
+        {
+          "name": "Los Donne\u00f1os",
+          "url": "https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241346,
+      "name": "Caballo Patas Blancas",
+      "url": "https://open.spotify.com/track/7fawFp8NQLxydbF0hn2sgG"
     },
     {
       "album": {
@@ -248,7 +266,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 238440,
       "name": "Carga Ladeada",
       "url": "https://open.spotify.com/track/6p45TMWkBGbCAZ7GO8siIV"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 174773,
       "name": "Catarino y Los Rurales",
       "url": "https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK"
@@ -374,7 +392,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 175000,
       "name": "Catarino Y Los Rurales",
       "url": "https://open.spotify.com/track/0xLOfZEzRtkzy1ADdZ2m3W"
@@ -435,6 +453,24 @@
     },
     {
       "album": {
+        "name": "The Latin Beat",
+        "url": "https://open.spotify.com/album/0E9TlEFecXHP5Es59yevmr"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "Clave Privada",
+      "url": "https://open.spotify.com/track/42KnNPpiJUItQGWpfGpJ0J"
+    },
+    {
+      "album": {
         "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
         "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
       },
@@ -446,7 +482,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 178013,
       "name": "Clave Privada",
       "url": "https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer"
@@ -619,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Colecci\u00f3n de Oro: Corridos, Vol. 1",
+        "url": "https://open.spotify.com/album/4trsvIQO8U2glFVC7UoePK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177423,
+      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
+      "url": "https://open.spotify.com/track/0orRJ6Hg1KaxRSIxf9RVLF"
+    },
+    {
+      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
       },
@@ -630,7 +684,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 177423,
       "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
       "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
@@ -760,10 +814,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 203592,
       "name": "Corrido Del Gallito",
       "url": "https://open.spotify.com/track/7eCJOPL885QiV1DiJ6v3CS"
+    },
+    {
+      "album": {
+        "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
+        "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202675,
+      "name": "Corrido Del Gallito",
+      "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
     },
     {
       "album": {
@@ -1192,7 +1268,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 190496,
       "name": "El Crimen De Culiacan",
       "url": "https://open.spotify.com/track/2do8YtW8qv4gVlCZcXKkt4"
@@ -1236,7 +1312,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 190496,
       "name": "El Crimen De Culiac\u00e1n",
       "url": "https://open.spotify.com/track/5pkr9BmnShPMoo5QLnpmnA"
@@ -1470,10 +1546,28 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 165173,
       "name": "El Ni\u00f1o Travieso",
       "url": "https://open.spotify.com/track/2vBussPi762Xui8bKzjbrb"
+    },
+    {
+      "album": {
+        "name": "\"14 Exitos\" A Cada Instante",
+        "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "El Ni\u00f1o Travieso",
+      "url": "https://open.spotify.com/track/50osNoUWxTkw4I5nEBZFPq"
     },
     {
       "album": {
@@ -1506,7 +1600,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 178364,
       "name": "El Odio De Dos Hermanos",
       "url": "https://open.spotify.com/track/5MhJKLhRlFTvSzSNCXRrxt"
@@ -1528,6 +1622,24 @@
       "duration_ms": 181453,
       "name": "El Odio De Dos Hermanos",
       "url": "https://open.spotify.com/track/3FeJTpOiidtXHcAyTggrxF"
+    },
+    {
+      "album": {
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4dPvU61U7Scxg92RnVAiSN"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "El Odio De Dos Hermanos",
+      "url": "https://open.spotify.com/track/6sgWsYgqLuoSaniDCOvIf4"
     },
     {
       "album": {
@@ -1560,7 +1672,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 151133,
       "name": "El Panam\u00e1 West",
       "url": "https://open.spotify.com/track/25W0oz32wgnoE2SSbRx0Ta"
@@ -1578,7 +1690,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 151133,
       "name": "El Panam\u00e1 West",
       "url": "https://open.spotify.com/track/2ifRNH5dVcY2wW5Z3YDiUd"
@@ -1740,7 +1852,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 200866,
       "name": "El Regio Traficante",
       "url": "https://open.spotify.com/track/4wSpJcI3K9NKgX7G6LiFbU"
@@ -1794,7 +1906,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 201880,
       "name": "El Regio Traficante",
       "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
@@ -1884,7 +1996,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 189120,
       "name": "El Tarasco",
       "url": "https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z"
@@ -1902,10 +2014,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 189386,
       "name": "El Tarasco",
       "url": "https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj"
+    },
+    {
+      "album": {
+        "name": "30 Corridos- Historias Nortenas",
+        "url": "https://open.spotify.com/album/6ucbj45UTVUboMfxYGo4Qm"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "El Ultimo Cartucho",
+      "url": "https://open.spotify.com/track/29FLfmoo9EeWHJDwEwt1CS"
     },
     {
       "album": {
@@ -1938,7 +2068,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 201400,
       "name": "El Ultimo Cartucho",
       "url": "https://open.spotify.com/track/4wk68kSA8ejJZODXivIc1d"
@@ -1963,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Corridos Arrolladores Vol. 1",
+        "url": "https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Eleazar del Fierro",
+      "url": "https://open.spotify.com/track/0El996FY3imUA9bBvgA1Sj"
+    },
+    {
+      "album": {
         "name": "Corridos Arrolladores",
         "url": "https://open.spotify.com/album/6X8lyLxsx0CjQC2zmB5tBM"
       },
@@ -1974,7 +2122,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 154773,
       "name": "Eleazar del Fierro",
       "url": "https://open.spotify.com/track/47iXPbtvs37TYS4c8XQSOu"
@@ -2017,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/0hR8XLMfChUh6GuOivoZly"
+    },
+    {
+      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2rBAkgCJQGYaYI9kcEg6r5"
       },
@@ -2046,7 +2212,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 207613,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/3A5MsXySCcjLOiOpVghPMp"
@@ -2230,7 +2396,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 186720,
       "name": "La Banda Del Carro Rojo",
       "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
@@ -2248,7 +2414,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 186720,
       "name": "La Banda Del Carro Rojo",
       "url": "https://open.spotify.com/track/7yTXEoI8CBAgekFhtjjYo5"
@@ -2284,7 +2450,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 195613,
       "name": "La Camioneta Gris",
       "url": "https://open.spotify.com/track/66p7jmGKdqNsvp0hPRXHNm"
@@ -2302,7 +2468,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 195613,
       "name": "La Camioneta Gris",
       "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
@@ -2356,10 +2522,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 198026,
       "name": "la carga blanca",
       "url": "https://open.spotify.com/track/0lCd57B1wdHMQHdGgJvOOr"
+    },
+    {
+      "album": {
+        "name": "Corridos De Contrabando",
+        "url": "https://open.spotify.com/album/74v8hM16gKXrMqlF58FcVO"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "La Carga Blanca",
+      "url": "https://open.spotify.com/track/329yMhAD7SjiTj8mTXZYml"
     },
     {
       "album": {
@@ -2378,6 +2562,24 @@
       "duration_ms": 235440,
       "name": "La Carga Ladeada",
       "url": "https://open.spotify.com/track/2vFnXzihAFSKEMpnalM5WS"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos Originales Lo Mejor de los Broncos de Reynosa",
+        "url": "https://open.spotify.com/album/1OcakgRDGaTVuFMuMlLuqM"
+      },
+      "artists": [
+        {
+          "name": "Los Broncos de Reynosa",
+          "url": "https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "La Carga Ladeada",
+      "url": "https://open.spotify.com/track/3EgXZENnxvAsJMU2g6oBRR"
     },
     {
       "album": {
@@ -2536,10 +2738,28 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 193857,
       "name": "La Guarecita",
       "url": "https://open.spotify.com/track/1ypG39Hh9plTazkgbhE4Cv"
+    },
+    {
+      "album": {
+        "name": "Acu\u00e9rdate de Mi",
+        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193935,
+      "name": "La Guarecita",
+      "url": "https://open.spotify.com/track/1iZkruStn62olwQqsGjBMh"
     },
     {
       "album": {
@@ -2759,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/3wiT0bZ76loMmtpeMzzNvN"
+    },
+    {
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -2770,7 +3008,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 183893,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
@@ -2846,7 +3084,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
@@ -2886,6 +3124,24 @@
       "duration_ms": 179017,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/03ypw8MVqto1iN0zLUqwkJ"
+    },
+    {
+      "album": {
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/1WdJEduC4qFMaCWnGsQkXp"
     },
     {
       "album": {
@@ -3048,7 +3304,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 195453,
       "name": "Macario Leyva",
       "url": "https://open.spotify.com/track/4Ntt6RR3bpaT4amQ8vp5B3"
@@ -3084,7 +3340,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 199333,
       "name": "Macario Leyva",
       "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
@@ -3376,7 +3632,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 193106,
       "name": "Pedro Y Pablo",
       "url": "https://open.spotify.com/track/45pqoKkYZxEQqD7rDd1kqR"
@@ -3394,7 +3650,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 193106,
       "name": "Pedro Y Pablo",
       "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
@@ -3466,7 +3722,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 159786,
       "name": "Pistoleros Famosos",
       "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
@@ -3484,10 +3740,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 159786,
       "name": "Pistoleros Famosos",
       "url": "https://open.spotify.com/track/2BBIY8c9rASdkjGbinuPJG"
+    },
+    {
+      "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/2mC2qH3YKv1xrN4M2lR40b"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160773,
+      "name": "Por Una Mujer Bonita (El Socio Mayoritario)",
+      "url": "https://open.spotify.com/track/5nNfpQCOpjprBhRAwNsEhP"
     },
     {
       "album": {
@@ -3502,7 +3776,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 160773,
       "name": "Por Una Mujer Bonita (El Socio Mayoritario)",
       "url": "https://open.spotify.com/track/7EmNoJ22OZeOdO0E7EcQvj"
@@ -3556,10 +3830,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Banda",
+        "url": "https://open.spotify.com/album/5m2AxvPExh1S0bmMM1bue8"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187907,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/5KNyODxbmxpZNlKcJL6wQl"
     },
     {
       "album": {

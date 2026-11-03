@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,412 songs - 5 day 5 hr 1 min
+2,414 songs - 5 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Bad One](https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b) | 2:41 | 2023-06-22 | 2023-08-10 |
 | [Bad One](https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW) | 2:41 | 2023-03-23 | 2023-06-03 |
 | [Bakom molnen](https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Bakom molnen](https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o) | 3:02 | 2025-10-23 | 2026-02-13 |
-| [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 | 2026-10-29 |  |
+| [Bakom oss bara dimma](https://open.spotify.com/track/2d4EgG32xHf0cPvBS0J6Ow) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:13 | 2026-11-02 |  |
+| [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 | 2026-10-29 | 2026-11-03 |
 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BALENCIAGA COVERED EYES](https://open.spotify.com/album/65keRrrRODi48zyrWoS949) | 4:05 | 2025-05-22 | 2026-01-15 |
 | [BALLA UR](https://open.spotify.com/track/2nuriIC8sNLkHNd0udbjEF) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [BALLA UR](https://open.spotify.com/album/6jyi2mMY2R3fp4eeejLfaJ) | 2:41 | 2024-06-13 | 2024-08-16 |
 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 | 2025-06-26 | 2025-09-05 |
@@ -1033,6 +1034,7 @@
 | [Idioti](https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Idioti](https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe) | 3:13 | 2024-06-13 | 2024-08-16 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [If I Were To Die](https://open.spotify.com/track/0nP4j2H2Iz2bGv3LWOWxbK) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [If I Were To Die](https://open.spotify.com/album/76XLa26ATLEq9IjDDw13PU) | 2:43 | 2024-02-08 | 2024-04-05 |
+| [If Nobody Knows, Does It Count?](https://open.spotify.com/track/7l1ijteM7MuWzv9Be4PRpO) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [If Nobody Knows, Does It Count?](https://open.spotify.com/album/4X9Xm9PG1p4VWtUSIOF33C) | 3:06 | 2026-11-02 |  |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 | 2024-09-26 | 2025-04-11 |
 | [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 | 2023-10-19 | 2024-01-21 |
 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 | 2024-04-19 | 2024-05-24 |
@@ -1520,7 +1522,7 @@
 | [När vinden blåser kallt](https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [När vinden blåser kallt](https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM) | 2:37 | 2022-05-20 | 2023-01-25 |
 | [Nära](https://open.spotify.com/track/2TG32mRqjRyu3m6HV7mYwk) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Nära](https://open.spotify.com/album/35Bhcus7vIYWZAgQWELT40) | 2:25 | 2024-01-25 | 2024-02-23 |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-19 |
-| [nära nåt så bra](https://open.spotify.com/track/314slNVWu8k7xw773zLLIu) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7) | 3:06 | 2026-05-21 |  |
+| [nära nåt så bra](https://open.spotify.com/track/314slNVWu8k7xw773zLLIu) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7) | 3:06 | 2026-05-21 | 2026-11-03 |
 | [Närmare då](https://open.spotify.com/track/49Qy5M3x7tpPPeHKJ4O6TU) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Närmare då](https://open.spotify.com/album/2oiwnIWZCXGX7b3NwwJwJY) | 2:51 | 2025-01-09 | 2025-05-23 |
 | [Nästan där \(men aldrig fri\)](https://open.spotify.com/track/2E05ZVK7zLOvrc383jqBE0) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Nästan där \(men aldrig fri\)](https://open.spotify.com/album/5YauyqJ0gzOYmj8G8zsx90) | 2:56 | 2025-06-12 | 2025-08-16 |
 | [Nätterna](https://open.spotify.com/track/0sO9OAIoecb2YxmCQohWGq) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Nätterna](https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7) | 2:58 | 2021-12-16 | 2022-03-11 |

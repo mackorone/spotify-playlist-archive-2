@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0L9EIg.md) - [plain]
 
 > This is Volker Bertelmann\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 867 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 866 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0L9EIg.md) - [plain]
 | 49 | [Taking Action & Striking Back](https://open.spotify.com/track/3feV7EMmrZAUGNoOEEg4gC) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [La Bataille de Gaulle \- L'Âge de fer \(Bande originale du film\)](https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g) | 2:35 |
 | 50 | [Ending Credits \- Verity](https://open.spotify.com/track/7gzy3e63rp8oYxDv9q57wZ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Verity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2) | 4:51 |
 
-Snapshot ID: `auUvgAAAAABT+GlyU++EqeslOadgBnLL`
+Snapshot ID: `auUvgAAAAADbeRkL9BhOSqnmbeJIvPhz`

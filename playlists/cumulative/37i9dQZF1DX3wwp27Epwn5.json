@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 188102,
       "name": "Jawan Title Track",
       "url": "https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL"
@@ -3046,6 +3046,40 @@
       "duration_ms": 195397,
       "name": "Odhani (From \"Made in China\")",
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD"
+    },
+    {
+      "album": {
+        "name": "One Name (From \"Rajini The Jailer 2\")",
+        "url": "https://open.spotify.com/album/4ozLDcJr1VbnHuNgUPa8AE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Saatvik G Rao",
+          "url": "https://open.spotify.com/artist/5Fgnpse5iLW3pcocaxZThz"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "One Name (From \"Rajini The Jailer 2\")",
+      "url": "https://open.spotify.com/track/7oiSJDOwRvdkYb18oDo436"
     },
     {
       "album": {

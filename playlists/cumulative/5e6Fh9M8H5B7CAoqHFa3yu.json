@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "After Everyone",
+        "url": "https://open.spotify.com/album/3FPDHmZs7VnOTxhReQi7QZ"
+      },
+      "artists": [
+        {
+          "name": "Apex89",
+          "url": "https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334800,
+      "name": "After Everyone",
+      "url": "https://open.spotify.com/track/6gXpJUV7mz3BhPDs0ItnxI"
+    },
+    {
+      "album": {
         "name": "Glass After the Fall: Cinematic Melodic House for Rooftop Nights (Vol. 1)",
         "url": "https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78"
       },

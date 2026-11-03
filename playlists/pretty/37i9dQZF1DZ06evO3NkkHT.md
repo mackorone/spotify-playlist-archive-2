@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,108 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,179 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Picc ah Side](https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:47 |
 | 50 | [Good Chance \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:04 |
 
-Snapshot ID: `auUvgAAAAACftlVKLd6ZjT6S3LmSpg7i`
+Snapshot ID: `auaBAAAAAABMkfNuMhn3d0Y4PfBxenAO`

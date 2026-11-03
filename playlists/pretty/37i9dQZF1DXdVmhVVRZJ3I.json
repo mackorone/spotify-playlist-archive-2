@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 360370,
+  "num_followers": 360425,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "New Memories",
         "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 194655,
       "name": "New Memories",
       "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Doin Nottin",
         "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 146538,
       "name": "Doin Nottin",
       "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     },
     {
       "added_at": "2026-10-02 12:20:02",

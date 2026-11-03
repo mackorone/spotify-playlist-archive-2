@@ -1,32 +1,76 @@
 {
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Bruno X Spacc & T. Danny",
-  "num_followers": 98057,
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: imago mundi",
+  "num_followers": 98058,
   "original_name": "Hot Hits Magyarorsz\u00e1g",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALJYTu5npJaFEe+0ollqlovf2wdU",
+  "snapshot_id": "AAAAAA3EjBRmDb4W/4PWHvvvvE4N9Jr3",
   "tracks": [
     {
-      "added_at": "2026-10-05 09:16:46",
+      "added_at": "2026-11-02 17:05:53",
       "album": {
-        "name": "SUV 2",
-        "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
+        "name": "ad astra",
+        "url": "https://open.spotify.com/album/6Q4fzGvDe5bE9UfVeV5lYX"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
         },
         {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
         }
       ],
-      "duration_ms": 139239,
-      "name": "SUV 2",
-      "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
+      "duration_ms": 160403,
+      "name": "\u00f6sszevissza",
+      "url": "https://open.spotify.com/track/5CgMYs7FYpqR1WRqj0MS9U"
+    },
+    {
+      "added_at": "2026-11-02 17:05:53",
+      "album": {
+        "name": "SZALAD EL",
+        "url": "https://open.spotify.com/album/6F9SPJeViUnEicebxhbK2G"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Beatrick",
+          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
+        },
+        {
+          "name": "millair",
+          "url": "https://open.spotify.com/artist/1lHJW23ltScRJsdJmadkLC"
+        }
+      ],
+      "duration_ms": 146363,
+      "name": "SZALAD EL",
+      "url": "https://open.spotify.com/track/59h5Gdsenx9M4VQEHc43xs"
+    },
+    {
+      "added_at": "2026-11-02 17:05:53",
+      "album": {
+        "name": "T\u00edz L\u00e1ny",
+        "url": "https://open.spotify.com/album/5lEKZfmEpTPsxbM74smaws"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "T\u00edz L\u00e1ny",
+      "url": "https://open.spotify.com/track/0ylIgpSA6lCBd8CfTzWb7h"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -53,6 +97,42 @@
       "url": "https://open.spotify.com/track/2uWdrP4brpE5wYmoOb7NzV"
     },
     {
+      "added_at": "2026-11-02 17:05:53",
+      "album": {
+        "name": "\u00c9letem Szerelme",
+        "url": "https://open.spotify.com/album/1oG4xEk5CwDgChH3BJ101l"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 186673,
+      "name": "\u00c9letem Szerelme",
+      "url": "https://open.spotify.com/track/5aBSboVH55mQNJQuQ2cNaI"
+    },
+    {
+      "added_at": "2026-10-05 09:16:46",
+      "album": {
+        "name": "SUV 2",
+        "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 139239,
+      "name": "SUV 2",
+      "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
+    },
+    {
       "added_at": "2026-10-12 17:05:51",
       "album": {
         "name": "MEREDEK",
@@ -73,20 +153,20 @@
       "url": "https://open.spotify.com/track/7evObvcDijcKbmdngMFXKO"
     },
     {
-      "added_at": "2026-10-19 10:07:13",
+      "added_at": "2026-11-02 17:05:53",
       "album": {
-        "name": "CAPPUCCINO",
-        "url": "https://open.spotify.com/album/1aYidTk0RGUIiMQ1b1NTW0"
+        "name": "ad astra",
+        "url": "https://open.spotify.com/album/6Q4fzGvDe5bE9UfVeV5lYX"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
         }
       ],
-      "duration_ms": 134769,
-      "name": "CAPPUCCINO",
-      "url": "https://open.spotify.com/track/6xEzlmoC3xDE3ZSpOxp7Sk"
+      "duration_ms": 220645,
+      "name": "sz\u00e1zszor szebb",
+      "url": "https://open.spotify.com/track/67su54MiiEDTCbnQQMVL18"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -205,6 +285,22 @@
       "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
     },
     {
+      "added_at": "2026-10-19 10:07:13",
+      "album": {
+        "name": "CAPPUCCINO",
+        "url": "https://open.spotify.com/album/1aYidTk0RGUIiMQ1b1NTW0"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "CAPPUCCINO",
+      "url": "https://open.spotify.com/track/6xEzlmoC3xDE3ZSpOxp7Sk"
+    },
+    {
       "added_at": "2026-10-05 09:16:46",
       "album": {
         "name": "TR\u00c9FA",
@@ -259,26 +355,6 @@
       "duration_ms": 197341,
       "name": "Free Johnny",
       "url": "https://open.spotify.com/track/6B6oxOWau5ngBRfMrLuDsz"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
-        "name": "UTCA",
-        "url": "https://open.spotify.com/album/2tmyUAUCLbtLKMekYCi6Y6"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 162555,
-      "name": "UTCA",
-      "url": "https://open.spotify.com/track/1HKO552g5ZkCXubx3i3MwW"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -399,6 +475,26 @@
       "duration_ms": 168932,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/04JBLnGi7AQ3vEayf6wuk0"
+    },
+    {
+      "added_at": "2026-10-05 09:16:46",
+      "album": {
+        "name": "UTCA",
+        "url": "https://open.spotify.com/album/2tmyUAUCLbtLKMekYCi6Y6"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 162555,
+      "name": "UTCA",
+      "url": "https://open.spotify.com/track/1HKO552g5ZkCXubx3i3MwW"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -607,26 +703,6 @@
     {
       "added_at": "2026-10-05 09:16:46",
       "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 129450,
-      "name": "JACUZZI",
-      "url": "https://open.spotify.com/track/7tbwRhYFlxyRjJZd6taszZ"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
         "name": "De\u00e1k Ferenc",
         "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
       },
@@ -639,22 +715,6 @@
       "duration_ms": 154176,
       "name": "De\u00e1k Ferenc",
       "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
-        "name": "Gyerekek",
-        "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
-      },
-      "artists": [
-        {
-          "name": "Halott P\u00e9nz",
-          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
-        }
-      ],
-      "duration_ms": 156678,
-      "name": "Gyerekek",
-      "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -711,22 +771,6 @@
       "duration_ms": 220080,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
-        "name": "BAD BUNNY",
-        "url": "https://open.spotify.com/album/2ya64b5CUXkMBsEDzyM97A"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BAD BUNNY",
-      "url": "https://open.spotify.com/track/02kAIFBWwrJulgwGtVqIEQ"
     },
     {
       "added_at": "2026-10-05 09:16:46",
@@ -867,26 +911,6 @@
     {
       "added_at": "2026-10-05 09:16:46",
       "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
         "name": "KERTES H\u00c1Z",
         "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
       },
@@ -899,26 +923,6 @@
       "duration_ms": 139551,
       "name": "KERTES H\u00c1Z",
       "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
-    },
-    {
-      "added_at": "2026-10-05 09:16:46",
-      "album": {
-        "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
-        "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
-      "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
     },
     {
       "added_at": "2026-10-05 09:16:46",

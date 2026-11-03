@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Queens of the Stone Age
 
-12,477 songs - 29 day 16 hr 36 min
+12,478 songs - 29 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4806,6 +4806,7 @@
 | [Here And Now](https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Here And Now](https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq) | 3:57 | 2023-09-15 | 2023-09-23 |
 | [Here Comes The Lord](https://open.spotify.com/track/2y0tAywZwIb3Cz8gJCGjQR) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Seas Of Static](https://open.spotify.com/album/1MfjbfbxaxaYFWYqauvBhu) | 3:53 | 2024-06-07 | 2024-06-15 |
 | [Here For You](https://open.spotify.com/track/0X9YJhOJ0k0uI2uenXEBRN) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Here For You](https://open.spotify.com/album/4AkRpGIU2D9zKXZa8SQiXj) | 2:20 | 2025-04-25 | 2025-05-17 |
+| [Here Honey](https://open.spotify.com/track/1uF0hzguOCWKw3ntEaH73u) | [Esmeralda Road](https://open.spotify.com/artist/6S9cVNSaKsE2rdeVqban5w) | [Here Honey](https://open.spotify.com/album/28FYJakvYebJS5qtd2OmIa) | 3:38 | 2026-11-02 |  |
 | [Here I Am](https://open.spotify.com/track/3cAgoQtmyNpSKmMT4ekTJ5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Can't Find the Edges of You](https://open.spotify.com/album/0u6pyUxZvQoGrVHtVd40U2) | 3:43 | 2023-02-24 | 2023-03-04 |
 | [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-08-05 | 2022-08-13 |
 | [Here On Out](https://open.spotify.com/track/1QItmrTZIyUqCSWjJG7C88) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/0IhD8ltXKP4xDeFpvzXiMl) | 3:14 | 2023-12-01 | 2023-12-09 |

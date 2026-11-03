@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/bigtiggershow/">Big Tigger</a>
 
-50 songs - 3 hr 51 min
+51 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,14 +44,15 @@
 | [Scenario \(feat\. Busta Rhymes, Dinco D & Charlie Brown\) \- Remix](https://open.spotify.com/track/571cey0PK2l5yhvkkEETxr) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Dinco D](https://open.spotify.com/artist/2cS6wbmG3wMYrzJperKqaa), [Charlie Brown](https://open.spotify.com/artist/23eGWtGneElWXARaabR0Dk) | [Scenario \(Remixes\)](https://open.spotify.com/album/1h8IWrGNp0dntBvnG6rV9Z) | 5:17 | 2023-11-01 |  |
 | [Sing About Me, I'm Dying Of Thirst](https://open.spotify.com/track/0sd6BRTa0O96tfEbFGhJF9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 12:03 | 2023-11-01 |  |
 | [Slow Down](https://open.spotify.com/track/19CybGYwC2L1aDiS2P6wQv) | [Brand Nubian](https://open.spotify.com/artist/3YyZFf9ZN2YbkqeZia8zHX) | [One for All](https://open.spotify.com/album/4KWNCJlJKaUY0sIO8oKmYq) | 5:03 | 2023-11-01 |  |
-| [Snake \(feat\. Big Tigger\)](https://open.spotify.com/track/3XhCHPfPDafMQx014Sblfy) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Big Tigger](https://open.spotify.com/artist/7ah0bKZcvxwMpN0Ygl1qTJ) | [Chocolate Factory](https://open.spotify.com/album/35Ea7OWXZPZB1vAPiaEGOM) | 4:51 | 2023-11-01 |  |
+| [Snake \(feat\. Big Tigger\)](https://open.spotify.com/track/3XhCHPfPDafMQx014Sblfy) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [Big Tigger](https://open.spotify.com/artist/7ah0bKZcvxwMpN0Ygl1qTJ) | [Chocolate Factory](https://open.spotify.com/album/35Ea7OWXZPZB1vAPiaEGOM) | 4:51 | 2023-11-01 | 2026-11-03 |
 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 | 2023-11-01 |  |
 | [SpottieOttieDopaliscious](https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 7:06 | 2023-11-01 |  |
 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 | 2023-11-01 |  |
 | [Straight Outta Compton](https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:18 | 2023-11-01 |  |
 | [Ten Crack Commandments \- 2005 Remaster](https://open.spotify.com/track/1PASEh9KeFxfYQ5kg8x9TD) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(25th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/6gW08XWRBd2Wnszyo5ZI6l) | 3:24 | 2023-11-01 |  |
 | [That Girl](https://open.spotify.com/track/1Vl4ESWb6U7gKSPfK4qenq) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:01 | 2023-11-01 |  |
-| [Thelonious](https://open.spotify.com/track/5Swsw4ceP3CJeXsTV9t3Pv) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 4:29 | 2023-11-01 |  |
+| [Thelonious](https://open.spotify.com/track/2jfBatVgTIUyyOaZ3aYoLg) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic Vol 2](https://open.spotify.com/album/0CJss2JIAXsyWehLQ1xIcg) | 4:29 | 2023-11-01 |  |
+| [Thelonious](https://open.spotify.com/track/5Swsw4ceP3CJeXsTV9t3Pv) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 4:29 | 2023-11-01 | 2026-11-03 |
 | [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 4:46 | 2023-11-01 |  |
 | [This How We Eat](https://open.spotify.com/track/5U0kwEyxYFcdOSgk9k4Igc) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Chase the Cat](https://open.spotify.com/album/0a4n8n8oRZoHe9ofbdDgmG) | 4:45 | 2023-11-01 |  |
 | [Twinz \(Deep Cover 98\) \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 | 2023-11-01 |  |

@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "How To Train Your Dragon (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "Test Drive - From How To Train Your Dragon Music From The Motion Picture",
+      "url": "https://open.spotify.com/track/2QTDuJIGKUjR7E2Q6KupIh"
+    },
+    {
+      "album": {
         "name": "Dark Night of the Soul",
         "url": "https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1"
       },

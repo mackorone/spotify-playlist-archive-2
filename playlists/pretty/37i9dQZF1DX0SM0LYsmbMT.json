@@ -1,6 +1,6 @@
 {
   "description": "The original chill instrumental beats playlist.",
-  "num_followers": 2241525,
+  "num_followers": 2241549,
   "original_name": "Jazz Vibes",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/1aC1VVoUOulr7c7Mj9mpoD"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Silver Linings",
+      "url": "https://open.spotify.com/track/4nBIb1PqRTNTpj3EANdO1I"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/3E3iFPL3iDs3huLs8MKzG9"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 133955,
       "name": "Duende",
       "url": "https://open.spotify.com/track/1m5O3VNj0yGcZdzg5NxMCF"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/1aC1VVoUOulr7c7Mj9mpoD"
-      },
-      "artists": [
-        {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Silver Linings",
-      "url": "https://open.spotify.com/track/4nBIb1PqRTNTpj3EANdO1I"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -691,30 +691,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/4vfuToHZU1hHblhJbYZ22S"
-      },
-      "artists": [
-        {
-          "name": "B\u01b1BBLE",
-          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
-        },
-        {
-          "name": "Smith Beats",
-          "url": "https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u"
-        },
-        {
-          "name": "Banks",
-          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
-        }
-      ],
-      "duration_ms": 110250,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/58XGuacTUZLerQAbrOLFHe"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 120000,
       "name": "Marigot",
       "url": "https://open.spotify.com/track/43Ni4j90A0bFH6ygRNeyfW"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/4vfuToHZU1hHblhJbYZ22S"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        },
+        {
+          "name": "Smith Beats",
+          "url": "https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "duration_ms": 110250,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/58XGuacTUZLerQAbrOLFHe"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "chrome",
-        "url": "https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL"
-      },
-      "artists": [
-        {
-          "name": "Mozzie",
-          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "chrome",
-      "url": "https://open.spotify.com/track/71hsXyvmjTahqj1eqP6tBw"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Night Driver",
         "url": "https://open.spotify.com/album/3eG5UNzYbiaNlbNMx66EsK"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 141500,
       "name": "Night Driver",
       "url": "https://open.spotify.com/track/2MrMzdMeiQxLAAxtBLpzqr"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "chrome",
+        "url": "https://open.spotify.com/album/20bHalKNFZ5BsVPR7kSYJL"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "chrome",
+      "url": "https://open.spotify.com/track/71hsXyvmjTahqj1eqP6tBw"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "floating",
-        "url": "https://open.spotify.com/album/31IsKfOz67NUz85jLOvZ9e"
-      },
-      "artists": [
-        {
-          "name": "Mozzie",
-          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
-        }
-      ],
-      "duration_ms": 116923,
-      "name": "floating",
-      "url": "https://open.spotify.com/track/23JhVTYEOlAMp82uiwqCvY"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Messing Around",
         "url": "https://open.spotify.com/album/3AHY3aDG3jE41PyMKU3ucG"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 105000,
       "name": "Messing Around",
       "url": "https://open.spotify.com/track/489OiHYbTILQSOAYcskBKB"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "floating",
+        "url": "https://open.spotify.com/album/31IsKfOz67NUz85jLOvZ9e"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "duration_ms": 116923,
+      "name": "floating",
+      "url": "https://open.spotify.com/track/23JhVTYEOlAMp82uiwqCvY"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 109367,
-      "name": "My Home",
-      "url": "https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Nothing Urgent",
         "url": "https://open.spotify.com/album/1bm9GjlV1av0KQxVK1s34t"
       },
@@ -1323,6 +1307,38 @@
       "duration_ms": 109367,
       "name": "Nothing Urgent",
       "url": "https://open.spotify.com/track/4VBUqkWYku6xAh6UuPNJDi"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/28gbpdO6RA0mSBzDiafG2l"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "duration_ms": 109367,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/7MiFG1eup2CPNq5JOkrQhl"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/4cgH00Ahx1nAyVmmnLy6TH"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "duration_ms": 137437,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/3iU03u35p553a6UHOkn6JG"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/4cgH00Ahx1nAyVmmnLy6TH"
-      },
-      "artists": [
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 137437,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/3iU03u35p553a6UHOkn6JG"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "School Kids",
         "url": "https://open.spotify.com/album/5tkUkptMPsOWoFSFUNwi4J"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 120000,
       "name": "School Kids",
       "url": "https://open.spotify.com/track/1Ty1JGgZNi9jEV2E9ceXpt"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/47GgSkd0VMonad1kr15Spg"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "duration_ms": 121445,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/5FAeASq3LoG6Ta6uFpv9kz"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -1403,38 +1419,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/47GgSkd0VMonad1kr15Spg"
-      },
-      "artists": [
-        {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        }
-      ],
-      "duration_ms": 121445,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/5FAeASq3LoG6Ta6uFpv9kz"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/53TOmghjyocsgjB8kel5y0"
-      },
-      "artists": [
-        {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
-        }
-      ],
-      "duration_ms": 122916,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/4688YlffnkSyvENu12znzj"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Midwinter",
         "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 129473,
       "name": "Midwinter",
       "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/53TOmghjyocsgjB8kel5y0"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "duration_ms": 122916,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/4688YlffnkSyvENu12znzj"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/6X41KwJnhotbBYNf2Z0wHm"
-      },
-      "artists": [
-        {
-          "name": "fl\u00e2neur",
-          "url": "https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx"
-        },
-        {
-          "name": "marsquake",
-          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
-        }
-      ],
-      "duration_ms": 122665,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/1jPThz0AXLhXUWyRorLlHq"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Z\u00e9phyr",
         "url": "https://open.spotify.com/album/46q4CN0GLVszjmsFGn8AQH"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 174545,
       "name": "Z\u00e9phyr",
       "url": "https://open.spotify.com/track/4xHgQMqsBVA4EvfEZsLi8F"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/6X41KwJnhotbBYNf2Z0wHm"
+      },
+      "artists": [
+        {
+          "name": "fl\u00e2neur",
+          "url": "https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "duration_ms": 122665,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/1jPThz0AXLhXUWyRorLlHq"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -1863,30 +1863,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Casciana Terme",
-        "url": "https://open.spotify.com/album/3Ld1mNmDBIgHdNtEWUclIZ"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "DEOVI",
-          "url": "https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM"
-        },
-        {
-          "name": "Lazlow",
-          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "Hot Spa",
-      "url": "https://open.spotify.com/track/4GE53NTapO0DqQ5dORqqKZ"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Home Run",
         "url": "https://open.spotify.com/album/3QjX7jMqywyn2VmnxdZVxk"
       },
@@ -1907,6 +1883,30 @@
       "duration_ms": 161379,
       "name": "Home Run",
       "url": "https://open.spotify.com/track/4uF76csKmN7qyuCoYFEDQN"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Casciana Terme",
+        "url": "https://open.spotify.com/album/3Ld1mNmDBIgHdNtEWUclIZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "DEOVI",
+          "url": "https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "Hot Spa",
+      "url": "https://open.spotify.com/track/4GE53NTapO0DqQ5dORqqKZ"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Good Old Times",
-        "url": "https://open.spotify.com/album/5jOArFuP1WIUfe86ofZvaS"
-      },
-      "artists": [
-        {
-          "name": "Kimm\u00f8",
-          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
-        },
-        {
-          "name": "Dani Catal\u00e1",
-          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
-        }
-      ],
-      "duration_ms": 114093,
-      "name": "Good Old Times",
-      "url": "https://open.spotify.com/track/1FFCmXqLs53T06swpsJJYo"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Suede",
         "url": "https://open.spotify.com/album/3CQ8JqN7VXUpae0y3Je0Hq"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 114838,
       "name": "Suede",
       "url": "https://open.spotify.com/track/46avR1vvVf3yPMCasHtfAq"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Good Old Times",
+        "url": "https://open.spotify.com/album/5jOArFuP1WIUfe86ofZvaS"
+      },
+      "artists": [
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
+        },
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        }
+      ],
+      "duration_ms": 114093,
+      "name": "Good Old Times",
+      "url": "https://open.spotify.com/track/1FFCmXqLs53T06swpsJJYo"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -2123,30 +2123,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Sedimental",
-        "url": "https://open.spotify.com/album/1lQq9mUXrgcHt5eFWRgqRO"
-      },
-      "artists": [
-        {
-          "name": "SamuW",
-          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
-        },
-        {
-          "name": "Mendeville",
-          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
-        },
-        {
-          "name": "Lazlow",
-          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
-        }
-      ],
-      "duration_ms": 157590,
-      "name": "Hidden Gems",
-      "url": "https://open.spotify.com/track/2yAs9J6qFOdr7JuaWBDsM4"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Flight Mode",
         "url": "https://open.spotify.com/album/0KdqykQwXXulRhpTnbYfTf"
       },
@@ -2167,6 +2143,30 @@
       "duration_ms": 120750,
       "name": "Flight Mode",
       "url": "https://open.spotify.com/track/6lCDLZdjpc4pDOFGLRrAa8"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Sedimental",
+        "url": "https://open.spotify.com/album/1lQq9mUXrgcHt5eFWRgqRO"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Mendeville",
+          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "duration_ms": 157590,
+      "name": "Hidden Gems",
+      "url": "https://open.spotify.com/track/2yAs9J6qFOdr7JuaWBDsM4"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/15qFamrjJ7508LcvywyGp3"
-      },
-      "artists": [
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 127415,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/1oZ4DvXqHgoWqvhJWSUXQJ"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Autumn Again",
         "url": "https://open.spotify.com/album/7lvxthCxxARIMdTWiySOQw"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 150752,
       "name": "Autumn Again",
       "url": "https://open.spotify.com/track/3w2PBKDamkVvR69RlCr84c"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/15qFamrjJ7508LcvywyGp3"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "duration_ms": 127415,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/1oZ4DvXqHgoWqvhJWSUXQJ"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -2695,6 +2695,26 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
+        "name": "Sunset Swing",
+        "url": "https://open.spotify.com/album/1p7KQAEIcYZnSENQWlR86K"
+      },
+      "artists": [
+        {
+          "name": "Ghostnaut",
+          "url": "https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "Sunset Swing",
+      "url": "https://open.spotify.com/track/2utmdKRN7HVbwJKXij1OSy"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
         "name": "Cohibas",
         "url": "https://open.spotify.com/album/0HXc2high8QHZwiD9sC9k8"
       },
@@ -2707,26 +2727,6 @@
       "duration_ms": 111046,
       "name": "Cohibas",
       "url": "https://open.spotify.com/track/56yJ6yhbaPSe9SwTgwi3Go"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/0thdFPy1sf2iLHQCcvcRui"
-      },
-      "artists": [
-        {
-          "name": "Leo Motta",
-          "url": "https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP"
-        },
-        {
-          "name": "Toti Cisneros",
-          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
-        }
-      ],
-      "duration_ms": 130533,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/0e7Zh5sczPvNV40Y9f5ujU"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -2751,22 +2751,22 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Sunset Swing",
-        "url": "https://open.spotify.com/album/1p7KQAEIcYZnSENQWlR86K"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/0thdFPy1sf2iLHQCcvcRui"
       },
       "artists": [
         {
-          "name": "Ghostnaut",
-          "url": "https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3"
+          "name": "Leo Motta",
+          "url": "https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP"
         },
         {
-          "name": "Screen Jazzmaster",
-          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
         }
       ],
-      "duration_ms": 118518,
-      "name": "Sunset Swing",
-      "url": "https://open.spotify.com/track/2utmdKRN7HVbwJKXij1OSy"
+      "duration_ms": 130533,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/0e7Zh5sczPvNV40Y9f5ujU"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -2947,26 +2947,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "City Lounge",
-        "url": "https://open.spotify.com/album/3b2q54vChkmjVlpn1AjsEd"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        },
-        {
-          "name": "Banks",
-          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
-        }
-      ],
-      "duration_ms": 121519,
-      "name": "City Lounge",
-      "url": "https://open.spotify.com/track/33nQf4ErH4PSorxi3KuEHM"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/6LghqFT9O6v04R08SglSjh"
       },
@@ -2987,18 +2967,22 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/5RCslTc9uXM8WvX7cXrEPa"
+        "name": "City Lounge",
+        "url": "https://open.spotify.com/album/3b2q54vChkmjVlpn1AjsEd"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/5TYagQdQRwe9ivfuKU471K"
+      "duration_ms": 121519,
+      "name": "City Lounge",
+      "url": "https://open.spotify.com/track/33nQf4ErH4PSorxi3KuEHM"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -3019,18 +3003,18 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "Passenger",
-        "url": "https://open.spotify.com/album/7tiborXS3xOmuaeB2nGMj1"
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/5RCslTc9uXM8WvX7cXrEPa"
       },
       "artists": [
         {
-          "name": "Damn Homies",
-          "url": "https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Passenger",
-      "url": "https://open.spotify.com/track/5SH0eiiSCxHr1FZijS7aSP"
+      "duration_ms": 120000,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/5TYagQdQRwe9ivfuKU471K"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -3051,6 +3035,22 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/7tiborXS3xOmuaeB2nGMj1"
+      },
+      "artists": [
+        {
+          "name": "Damn Homies",
+          "url": "https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/5SH0eiiSCxHr1FZijS7aSP"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
         "name": "The Other Day",
         "url": "https://open.spotify.com/album/1p7AX8foq2bUSavBZ4OhH6"
       },
@@ -3063,22 +3063,6 @@
       "duration_ms": 99310,
       "name": "The Other Day",
       "url": "https://open.spotify.com/track/6BjAIEdSSVo88S6kXOl2qn"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
-        "name": "Autotronic",
-        "url": "https://open.spotify.com/album/3gIAvArG75Fk60QV1LGv9F"
-      },
-      "artists": [
-        {
-          "name": "Spencer Hunt",
-          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
-        }
-      ],
-      "duration_ms": 133942,
-      "name": "Autotronic",
-      "url": "https://open.spotify.com/track/3jYhi2A2CzlmB0KQLk63yA"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -3099,6 +3083,22 @@
       "duration_ms": 108102,
       "name": "Parallax",
       "url": "https://open.spotify.com/track/6mveH4NIJph6hdnPybILkS"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "Autotronic",
+        "url": "https://open.spotify.com/album/3gIAvArG75Fk60QV1LGv9F"
+      },
+      "artists": [
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "duration_ms": 133942,
+      "name": "Autotronic",
+      "url": "https://open.spotify.com/track/3jYhi2A2CzlmB0KQLk63yA"
     },
     {
       "added_at": "2026-10-22 11:45:42",
@@ -3223,22 +3223,6 @@
     {
       "added_at": "2026-10-22 11:45:42",
       "album": {
-        "name": "cycles",
-        "url": "https://open.spotify.com/album/0wbo43jLQ902v4wSimCh1u"
-      },
-      "artists": [
-        {
-          "name": ".Eehou",
-          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
-        }
-      ],
-      "duration_ms": 132107,
-      "name": "cycles",
-      "url": "https://open.spotify.com/track/55nIFLXoWJDzwbTyT3v6tu"
-    },
-    {
-      "added_at": "2026-10-22 11:45:42",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/0eMLIP4iewU0BjiakdWzRz"
       },
@@ -3251,6 +3235,22 @@
       "duration_ms": 115166,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/3mU3WaDlZuSEgFxt3vR4Nz"
+    },
+    {
+      "added_at": "2026-10-22 11:45:42",
+      "album": {
+        "name": "cycles",
+        "url": "https://open.spotify.com/album/0wbo43jLQ902v4wSimCh1u"
+      },
+      "artists": [
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        }
+      ],
+      "duration_ms": 132107,
+      "name": "cycles",
+      "url": "https://open.spotify.com/track/55nIFLXoWJDzwbTyT3v6tu"
     },
     {
       "added_at": "2026-10-22 11:45:42",

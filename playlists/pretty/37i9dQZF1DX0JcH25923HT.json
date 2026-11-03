@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 610342,
+  "num_followers": 610439,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Maracucho Bueno Muere Chiquito",
-        "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
-      },
-      "artists": [
-        {
-          "name": "Cruzzi",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 212863,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Crecia",
         "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Maracucho Bueno Muere Chiquito",
+        "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
+      },
+      "artists": [
+        {
+          "name": "Cruzzi",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 212863,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 141904,
       "name": "Modo Bestia",
       "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
     },
     {
       "added_at": "2026-08-11 14:10:49",

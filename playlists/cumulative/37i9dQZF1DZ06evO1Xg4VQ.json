@@ -879,6 +879,36 @@
     },
     {
       "album": {
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Agustin Bernal",
+          "url": "https://open.spotify.com/artist/146evWUgveiVzdbCmHTyC0"
+        },
+        {
+          "name": "Gabriel Hernandez",
+          "url": "https://open.spotify.com/artist/2862f7EK0zvyPbdW4JYlBI"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348266,
+      "name": "La Martiniana",
+      "url": "https://open.spotify.com/track/1bJsXBosGu70g3TYshSrFR"
+    },
+    {
+      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -930,7 +960,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 283484,
       "name": "La Pochota",
       "url": "https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ"

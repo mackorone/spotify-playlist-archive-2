@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 620 likes - 68 songs - 4 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 623 likes - 72 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,9 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 66 | [The Tortoise](https://open.spotify.com/track/6dslvv371VJukIILkmBdtm) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Reptile Wisdom](https://open.spotify.com/album/2vvs96HnDXtVg9OQ0mB9oz) | 1:58 |
 | 67 | [In Between](https://open.spotify.com/track/6sBtirJIbyIG2UdviBt0rx) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [In Between](https://open.spotify.com/album/0Dwc2X79NdDJy0Oaz4aaO4) | 3:45 |
 | 68 | [Is It Really True](https://open.spotify.com/track/3Rn3NxHKAaulAZm8kbXMAW) | [Wave Breaker](https://open.spotify.com/artist/422YfoHbiHbSOEgf1VpOq7) | [Is It Really True](https://open.spotify.com/album/31TBqMhSlQUpzmnim6ui3K) | 4:14 |
+| 69 | [Non Mi Troverai](https://open.spotify.com/track/2xvIZraE0QZRMKghPhzbIC) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Non Mi Troverai](https://open.spotify.com/album/5i9qmAEmZna27PgyYhAB80) | 3:43 |
+| 70 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 |
+| 71 | [Drums Beat Riff](https://open.spotify.com/track/3g9s1J0iK0v3dJaCbg3M1G) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 3:27 |
+| 72 | [Clementine](https://open.spotify.com/track/2JzVE0Wyy7pvhjIq1StV4l) | [Every Living Beast](https://open.spotify.com/artist/2J3ATpiJf8oNmJLnVBmj1Z) | [Clementine](https://open.spotify.com/album/2TFnTOk9Aqk3QXz5XukWgt) | 2:55 |
 
-Snapshot ID: `AAACXGdjlsIYirP59JkJ5cSzNI8O69wz`
+Snapshot ID: `AAACYEE0WBJyRhENzvjQ85otKwyx+3a4`

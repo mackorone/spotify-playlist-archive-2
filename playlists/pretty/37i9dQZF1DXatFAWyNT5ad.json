@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153622,
+  "num_followers": 153620,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -659,38 +659,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -711,6 +679,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Ugly and Rotten",
-        "url": "https://open.spotify.com/album/3yzjllwbnDV0UYkSN1lotP"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 169953,
-      "name": "Ugly and Rotten",
-      "url": "https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Ugly and Rotten",
+        "url": "https://open.spotify.com/album/3yzjllwbnDV0UYkSN1lotP"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 169953,
+      "name": "Ugly and Rotten",
+      "url": "https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "SHUT UP",
-        "url": "https://open.spotify.com/album/0Q0Bp1mmsTAAOaquRqXpJY"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 145153,
-      "name": "SHUT UP",
-      "url": "https://open.spotify.com/track/3S4yhPy6IgixKECaZCBzEG"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "I'm So Good At Being Alone?",
         "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "SHUT UP",
+        "url": "https://open.spotify.com/album/0Q0Bp1mmsTAAOaquRqXpJY"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 145153,
+      "name": "SHUT UP",
+      "url": "https://open.spotify.com/track/3S4yhPy6IgixKECaZCBzEG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "The Watchers",
         "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 140363,
       "name": "The Watchers",
       "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX"
-      },
-      "artists": [
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
-        }
-      ],
-      "duration_ms": 171349,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX"
+      },
+      "artists": [
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "duration_ms": 171349,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 175536,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 142533,
       "name": "Power",
       "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/6f08KdogXbNKrPVBmQkk9p"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 175536,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/6DGAyltkwehLntbZ6GtJBz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Goals",
+        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Better Days (Deluxe)",
         "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 171294,
       "name": "Hell With Me (feat. Steve Aoki)",
       "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
-      },
-      "artists": [
-        {
-          "name": "Jordan Harvey",
-          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Kissing Death",
         "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 210683,
       "name": "Red",
       "url": "https://open.spotify.com/track/2ipG3kFYpjbMrym78MfrZG"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Harvey",
+          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Love Made Me Do It",
-        "url": "https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181393,
-      "name": "Daughter of the Night",
-      "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Love Made Me Do It",
+        "url": "https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181393,
+      "name": "Daughter of the Night",
+      "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
-      },
-      "artists": [
-        {
-          "name": "The Foxies",
-          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
-        }
-      ],
-      "duration_ms": 224504,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Mona Lisa On A Mattress",
         "url": "https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 169750,
       "name": "Mona Lisa On A Mattress",
       "url": "https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
+      },
+      "artists": [
+        {
+          "name": "The Foxies",
+          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
+        }
+      ],
+      "duration_ms": 224504,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
     },
     {
       "added_at": "2026-09-25 04:03:07",

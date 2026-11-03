@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97697,
+      "name": "Still On Dat",
+      "url": "https://open.spotify.com/track/4n0EZATPFiBSZvcsJIUI9W"
+    },
+    {
+      "album": {
         "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
         "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 169186,
       "name": "What's Tea? - with Kaliii",
       "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"

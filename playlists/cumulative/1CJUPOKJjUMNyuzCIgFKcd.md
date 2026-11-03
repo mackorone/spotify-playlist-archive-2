@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-629 songs - 1 day 4 hr 27 min
+630 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [ADIOS \(feat\. John Mackk\)](https://open.spotify.com/track/0TfadK2HYomFcmNpLkAXkK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF), [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [EPOCH](https://open.spotify.com/album/1y90tQ9GGjTMTI5Ydy4g7N) | 3:02 | 2025-04-09 | 2025-07-22 |
 | [AIN'T MY FAULT](https://open.spotify.com/track/55Z72BMg9NiNXQdunIUMRV) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [AIN'T MY FAULT](https://open.spotify.com/album/4I85abJyQMMIAmgFEoFY2M) | 2:51 | 2025-08-25 | 2026-01-27 |
 | [Ain't My Fault](https://open.spotify.com/track/453O275lHzJI4y321q2dk7) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb) | [Ain't My Fault](https://open.spotify.com/album/1mD0rR1VKGaJHd0cpfPZBG) | 2:15 | 2025-03-31 | 2025-07-08 |
+| [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 | 2026-11-02 |  |
 | [Alabama Don](https://open.spotify.com/track/6GdtQWDXpwBr1rWgbDIY3v) | [Eldorado Red](https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc) | [Alabama Don](https://open.spotify.com/album/5oUaD0eObdJmanpxCaTtC5) | 2:29 | 2024-12-03 | 2025-04-15 |
 | [ALBEE FOR PRESIDENT](https://open.spotify.com/track/3IvKy7X21KOm3cpiOSH7RJ) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd) | [ALBEE FOR PRESIDENT](https://open.spotify.com/album/4s3rqqDuNBasYtxtNTluys) | 2:18 | 2024-01-19 | 2024-05-21 |
 | [All Black Trucks](https://open.spotify.com/track/4BRcukyn9Kcb8YhKScnu0y) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [All Black Trucks](https://open.spotify.com/album/5m7ACE2vtWTrgx88h47dcm) | 3:17 | 2024-09-23 | 2025-02-25 |

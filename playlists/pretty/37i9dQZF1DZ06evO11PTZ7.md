@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 
 > This is Sick Of It All\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,216 likes - 49 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,215 likes - 49 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 | 48 | [The Blood & the Sweat](https://open.spotify.com/track/3AWvQrVVaxFQuUEGHwXWcM) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:50 |
 | 49 | [Bull's Anthem](https://open.spotify.com/track/1qzGGIgnLipNXsmLK8kq2h) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 2:02 |
 
-Snapshot ID: `auUvgAAAAABZxoyyQ3bxEBuD03JSl4JO`
+Snapshot ID: `auUvgAAAAACXm74ceYkFSUznWIFywd2Z`

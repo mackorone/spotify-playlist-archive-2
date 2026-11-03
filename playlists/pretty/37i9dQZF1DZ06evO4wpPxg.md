@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 49 | [O Lord, Search My Heart](https://open.spotify.com/track/32zidKZ81Jd6eK22Mkadqb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:05 |
 | 50 | [Mornin' Train](https://open.spotify.com/track/7GjgmGyUHn1GiLLGkYKwuO) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Worried Blues](https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz) | 3:50 |
 
-Snapshot ID: `auUvgAAAAABLalKKmQEjz13FzZELx0Ur`
+Snapshot ID: `auUvgAAAAADMkg5/2+9XJUCzzdxtMF4C`

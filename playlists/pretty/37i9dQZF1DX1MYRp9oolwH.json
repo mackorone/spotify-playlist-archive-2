@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
-  "num_followers": 172432,
+  "num_followers": 172438,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLKOn/ug0WN5bc1vvXEF50UdAzt",
+  "snapshot_id": "AAAAAGr2bKC65EW3UlRphBH8XMWz2Kx4",
   "tracks": [
     {
       "added_at": "2026-10-08 12:34:35",
@@ -83,6 +83,30 @@
       "duration_ms": 266105,
       "name": "Kusuma (From \"Mana Graamaayanam\")",
       "url": "https://open.spotify.com/track/72ZdH4RLvgnUzSlJIMNKcm"
+    },
+    {
+      "added_at": "2026-11-02 05:42:50",
+      "album": {
+        "name": "Radhe Radhe (From \"Aakasamlo Oka Tara\")",
+        "url": "https://open.spotify.com/album/4sgnro8gHdLb0sMALchfjw"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "duration_ms": 227119,
+      "name": "Radhe Radhe (From \"Aakasamlo Oka Tara\")",
+      "url": "https://open.spotify.com/track/3BMKuUKJyZ4y6A6LIhsop0"
     },
     {
       "added_at": "2026-09-29 07:37:16",
@@ -187,6 +211,30 @@
       "duration_ms": 230976,
       "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "added_at": "2026-11-02 05:52:35",
+      "album": {
+        "name": "The Sesso",
+        "url": "https://open.spotify.com/album/3qAld1Bgkx5Uq0F3xvrwIV"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Soujanya Bhagavatula",
+          "url": "https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt"
+        },
+        {
+          "name": "Viswadeep",
+          "url": "https://open.spotify.com/artist/5wLbekCe5fytgQjDFG17el"
+        }
+      ],
+      "duration_ms": 244304,
+      "name": "Edho Edho",
+      "url": "https://open.spotify.com/track/0erGjYzyWwnik8KqvOlUys"
     },
     {
       "added_at": "2026-11-02 03:30:36",
@@ -843,34 +891,6 @@
       "duration_ms": 255833,
       "name": "Manasa Vacha (From \"EPIC - First Semester\")",
       "url": "https://open.spotify.com/track/7JDM8eLX09fLkhBYxCLVAD"
-    },
-    {
-      "added_at": "2026-07-28 06:33:39",
-      "album": {
-        "name": "Hold Me So Tight (From \"Breakfast - Telugu\")",
-        "url": "https://open.spotify.com/album/5YrsjCPvB013Ajx55T8MEQ"
-      },
-      "artists": [
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Aruna Mary George",
-          "url": "https://open.spotify.com/artist/7HktKGee72q9qurC2L9ZcW"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Hold Me So Tight (From \"Breakfast - Telugu\")",
-      "url": "https://open.spotify.com/track/7ChIbEsOofbZslfMtzrh8F"
     },
     {
       "added_at": "2026-08-03 08:58:26",

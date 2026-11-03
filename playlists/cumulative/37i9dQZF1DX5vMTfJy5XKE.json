@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 183581,
       "name": "A Merry Black Christmas",
       "url": "https://open.spotify.com/track/6Q4EmIGs7YyxvYf8h4eb9Y"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 158256,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/0ipi2o4i8CXREQ3HQD9BkI"
@@ -6480,7 +6480,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 172415,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/4eygnv4e7nGdYPrS0br3pO"
@@ -6661,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Frosty The Snowman",
+        "url": "https://open.spotify.com/album/164ftrRERJ1fWfGYf0vHYj"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179685,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/5qvSsYcoDjovOWl6eWnsjA"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1"
       },
@@ -6748,7 +6766,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 150209,
       "name": "Gifts For Me",
       "url": "https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B"
@@ -11316,6 +11334,24 @@
     {
       "album": {
         "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6PATV6XKwlWIiBdI9dZN2E"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211691,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/3MoVFHdQUkvZcQ1Ur969ON"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
         "url": "https://open.spotify.com/album/4awqPGIwUO1svryLMY43KR"
       },
       "artists": [
@@ -11660,7 +11696,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 187000,
       "name": "Last First Christmas",
       "url": "https://open.spotify.com/track/20sRN1hzpN17HDfbuJSao1"
@@ -11952,6 +11988,24 @@
       "duration_ms": 247506,
       "name": "Listen, The Snow Is Falling - Ultimate Mix",
       "url": "https://open.spotify.com/track/08NRfo95tWrggYEPbsmuNI"
+    },
+    {
+      "album": {
+        "name": "Winterlicious D'Luxe",
+        "url": "https://open.spotify.com/album/09NIcvyuOhd1aRfFA8F5nt"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Lit Up!",
+      "url": "https://open.spotify.com/track/1eEjJ47DfDOM65C5H3zwBX"
     },
     {
       "album": {
@@ -12384,6 +12438,28 @@
       "duration_ms": 207050,
       "name": "mall santa",
       "url": "https://open.spotify.com/track/2vEOAz8nAPVVw7Tkj51ERf"
+    },
+    {
+      "album": {
+        "name": "Christmas in the City (Deluxe)",
+        "url": "https://open.spotify.com/album/64w5llVESyTua5FjZA4I7i"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "s\u00e4je",
+          "url": "https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199346,
+      "name": "Man With The Bag",
+      "url": "https://open.spotify.com/track/3G2b4BJpPqUsbcwXt6szN2"
     },
     {
       "album": {
@@ -13462,6 +13538,24 @@
       "duration_ms": 216042,
       "name": "Mr. Christmas",
       "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
+    },
+    {
+      "album": {
+        "name": "Mr. Mistletoe",
+        "url": "https://open.spotify.com/album/7KixvhZBZrmmN0dHodq6GY"
+      },
+      "artists": [
+        {
+          "name": "Tyler James Bellinger",
+          "url": "https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "Mr. Mistletoe",
+      "url": "https://open.spotify.com/track/2oSYBW2IztYkK6Wsoadrac"
     },
     {
       "album": {
@@ -16128,7 +16222,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 248571,
       "name": "Scotland In The Snow",
       "url": "https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg"
@@ -16164,7 +16258,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 184657,
       "name": "secret santa",
       "url": "https://open.spotify.com/track/7KeHUoqosk3skfRbICgHnS"
@@ -16703,6 +16797,28 @@
     },
     {
       "album": {
+        "name": "Lauren Daigle with The Preservation Hall Jazz Band Christmas",
+        "url": "https://open.spotify.com/album/6MQXSvAGhWBNusg1kdY6g8"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162199,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3MWgjnvfMfw6LC4sr3Ac19"
+    },
+    {
+      "album": {
         "name": "Christmas Morning",
         "url": "https://open.spotify.com/album/6RSTNJJCS89yRGNTSfTHrq"
       },
@@ -17001,6 +17117,24 @@
     },
     {
       "album": {
+        "name": "Snowed In With Me",
+        "url": "https://open.spotify.com/album/2j7BarIpVo1yEXEphxuf3g"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188557,
+      "name": "Snowed In With Me",
+      "url": "https://open.spotify.com/track/3hdaU2rPibQW0AgFE2a467"
+    },
+    {
+      "album": {
         "name": "Snowglobe",
         "url": "https://open.spotify.com/album/6gIKX3AkOW6v7wP9BqmI7s"
       },
@@ -17052,7 +17186,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 179820,
       "name": "Snowman (feat. Belinda)",
       "url": "https://open.spotify.com/track/7tQ5cliSQxT7kv2OAxgy7s"
@@ -18690,7 +18824,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 180974,
       "name": "This Christmas I'm Coming Home",
       "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
@@ -19056,6 +19190,28 @@
       "duration_ms": 176502,
       "name": "To All A Good Night",
       "url": "https://open.spotify.com/track/4VOnyIk3ThGRFR4CEaZR9K"
+    },
+    {
+      "album": {
+        "name": "To Be Together",
+        "url": "https://open.spotify.com/album/65LYndbBnnQTSFlnddRX5Y"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "To Be Together",
+      "url": "https://open.spotify.com/track/6qwGmCNSFUpI45DOj9ai1u"
     },
     {
       "album": {
@@ -19612,6 +19768,24 @@
       "duration_ms": 161210,
       "name": "Warm In December - Edit",
       "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+    },
+    {
+      "album": {
+        "name": "Warm Me Up",
+        "url": "https://open.spotify.com/album/7hTKvee6SZyqTOs3TM0tKs"
+      },
+      "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Warm Me Up",
+      "url": "https://open.spotify.com/track/0XoIsnlA76jro1fdUWzBL6"
     },
     {
       "album": {
@@ -20956,7 +21130,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 193879,
       "name": "wishlist",
       "url": "https://open.spotify.com/track/21RHVyVi4SiF4Yg8l0LJko"
@@ -21086,6 +21260,24 @@
       "duration_ms": 148109,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/202YroUlfNbHhOs7P2l08Q"
+    },
+    {
+      "album": {
+        "name": "Christmas on East Houston",
+        "url": "https://open.spotify.com/album/0c1cd77LdvkmWA4bGfNq7J"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155371,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/5vNZXNUlmXIKsOwxaOTSRQ"
     },
     {
       "album": {

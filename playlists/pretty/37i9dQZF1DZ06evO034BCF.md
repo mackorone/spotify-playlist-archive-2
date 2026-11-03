@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 
 > This is Gustavo Dudamel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,373 likes - 32 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,376 likes - 32 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 | 31 | [Violin Concerto in D Major, Op\. 35: I\. Moderato nobile](https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Simón Bolívar Symphony Orchestra of Venezuela](https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Homage to Heifetz](https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09) | 9:43 |
 | 32 | [Symphony No\. 7 in D Minor, Op\. 70, B\. 141: III\. Scherzo\. Vivace](https://open.spotify.com/track/5SNUNIE3AsANf6wBF4gcmg) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Dvořák: Symphonies Nos\. 7\-9](https://open.spotify.com/album/6b7rzLJNjDot2WLtTyFQwt) | 7:34 |
 
-Snapshot ID: `auUvgAAAAACXSyDHCl//xggwUzeLA0Uz`
+Snapshot ID: `auUvgAAAAAD1PDkX+rStkc/rdnH8NdPD`

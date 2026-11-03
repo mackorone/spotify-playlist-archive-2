@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 247706,
       "name": "Ballrooms Of Mars",
       "url": "https://open.spotify.com/track/0gtQG1Cc6USmwXXsakWbaB"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 247706,
       "name": "Ballrooms Of Mars",
       "url": "https://open.spotify.com/track/2PmGtDUyJIpYBEtI1hQIVp"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "Bang a Gong (Get It On) - 2003 Remaster",
       "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
@@ -164,6 +164,24 @@
       "duration_ms": 322548,
       "name": "Bennie And The Jets - Remastered 2014",
       "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    {
+      "album": {
+        "name": "A Night At The Opera",
+        "url": "https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354321,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2JiDi0qAXsPwhPqA2qaKGt"
     },
     {
       "album": {
@@ -196,7 +214,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 354320,
       "name": "Bohemian Rhapsody - Remastered 2011",
       "url": "https://open.spotify.com/track/2vwqOagUdKs4iPG4awFt7Y"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Can the Can",
       "url": "https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 214400,
       "name": "Can the Can",
       "url": "https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 264880,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/1agVrzicFWExgEiAtk8lmr"
@@ -326,6 +344,24 @@
       "duration_ms": 264880,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3dS7g2Cemp3bQEOqW9WbLm"
+    },
+    {
+      "album": {
+        "name": "The No.1's",
+        "url": "https://open.spotify.com/album/7wEdQ8Tmgp5xHV0QtLE2Z5"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Cum On Feel The Noize",
+      "url": "https://open.spotify.com/track/5ePlRY3BWAYIgkb4B68yA7"
     },
     {
       "album": {
@@ -365,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/1yzF0wUwJFgtkkXmKNe5BE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209391,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/1NHWG8zxSEypSRF3UufrnO"
+    },
+    {
+      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -376,7 +430,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
@@ -430,10 +484,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 214720,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/1QMmLeAxi9MDLXjboKOpc7"
+    },
+    {
+      "album": {
+        "name": "Slade in Flame",
+        "url": "https://open.spotify.com/album/2KRzPP0TYGYP5OBpjefzHQ"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "Far Far Away",
+      "url": "https://open.spotify.com/track/0asP38f9DfcVZ5P5AvKtJl"
     },
     {
       "album": {
@@ -466,7 +538,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 207666,
       "name": "Fox On The Run",
       "url": "https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r"
@@ -484,7 +556,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 200800,
       "name": "Fox on the Run - Single Version",
       "url": "https://open.spotify.com/track/4yJZP61jBhVTesHBZ0gpQn"
@@ -502,7 +574,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 263840,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/7dVQkdJ8VJp6I40eRH7V9o"
@@ -581,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Sheer Heart Attack",
+        "url": "https://open.spotify.com/album/6uj0z3xtvQ8Y0UWevdQlIx"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180858,
+      "name": "Killer Queen",
+      "url": "https://open.spotify.com/track/46L5lm1Xzwr0TExEMpObtq"
+    },
+    {
+      "album": {
         "name": "Sheer Heart Attack (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
       },
@@ -592,7 +682,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
@@ -722,7 +812,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 239213,
       "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
       "url": "https://open.spotify.com/track/184QpO8ZchGncbNyJe9SDT"
@@ -744,7 +834,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 239213,
       "name": "Make Me Smile (Come up and See Me) - 2014 Remaster",
       "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
@@ -780,10 +870,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 225000,
       "name": "Mama Weer All Crazee Now",
       "url": "https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez"
+    },
+    {
+      "album": {
+        "name": "Slayed? (Expanded)",
+        "url": "https://open.spotify.com/album/0LuhxUucoO3r97ZzvZdzzQ"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Mama Weer All Crazee Now",
+      "url": "https://open.spotify.com/track/4976QSeVPkyRCzpZFGKtSo"
     },
     {
       "album": {
@@ -798,7 +906,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 149706,
       "name": "Metal Guru",
       "url": "https://open.spotify.com/track/0Y41T26AFRxorHLO7rc6KX"
@@ -816,7 +924,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 149706,
       "name": "Metal Guru",
       "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
@@ -1032,10 +1140,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill (2025 Remaster)",
+        "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167790,
+      "name": "Rock And Roll All Nite - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1Buwv1iql0YsxftE5LHIgq"
     },
     {
       "album": {
@@ -1086,10 +1212,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 300800,
       "name": "Run Runaway",
       "url": "https://open.spotify.com/track/5e0ozDjIRDuitUuekiF6ns"
+    },
+    {
+      "album": {
+        "name": "The Amazing Kamikaze Syndrome (Expanded)",
+        "url": "https://open.spotify.com/album/1R9Woi3aeNyO4qkiD1kesB"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300920,
+      "name": "Run Runaway",
+      "url": "https://open.spotify.com/track/0mVeGcP0pjFyB3j2BFSFtv"
     },
     {
       "album": {
@@ -1219,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Sunburst Finish: 2018 Expanded & Remastered",
+        "url": "https://open.spotify.com/album/7MQEDHESaDSxE7DsYxMPFi"
+      },
+      "artists": [
+        {
+          "name": "Be Bop Deluxe",
+          "url": "https://open.spotify.com/artist/7ysGNWU37tHaPIG5QJLoX2"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241013,
+      "name": "Ships in the Night",
+      "url": "https://open.spotify.com/track/0OKTmwreMm01dkYjQtRwu1"
+    },
+    {
+      "album": {
         "name": "Sunburst Finish",
         "url": "https://open.spotify.com/album/5V8SvLfPeA366pdxR6BfSw"
       },
@@ -1230,7 +1392,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 241013,
       "name": "Ships In The Night - 2018 Remaster",
       "url": "https://open.spotify.com/track/78GwAwQg73gt4w9ucbWbO0"
@@ -1356,7 +1518,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 209893,
       "name": "Sugar Baby Love",
       "url": "https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0"
@@ -1381,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Wear It\u2019s \u2018At",
+        "url": "https://open.spotify.com/album/5Zj37JPT34iZsyj4993Kqv"
+      },
+      "artists": [
+        {
+          "name": "The Rubettes",
+          "url": "https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "Sugar Baby Love",
+      "url": "https://open.spotify.com/track/3Yzy0EKK8gV7UcFya2MDoL"
+    },
+    {
+      "album": {
         "name": "The Slider (Deluxe Edition)",
         "url": "https://open.spotify.com/album/24QRkhZ3ZYMdtcLn8AFkar"
       },
@@ -1392,7 +1572,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 225773,
       "name": "Telegram Sam",
       "url": "https://open.spotify.com/track/4C6MrgqXk2bj9zU5QOQtKW"
@@ -1410,7 +1590,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 225773,
       "name": "Telegram Sam",
       "url": "https://open.spotify.com/track/4hdKgDxQMLEoiNwzL1Wu5y"
@@ -1464,7 +1644,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 171826,
       "name": "The Wild One - Single Version",
       "url": "https://open.spotify.com/track/4upv1CF2L81mccpBlHB7KZ"
@@ -1482,7 +1662,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 171826,
       "name": "The Wild One - Single Version",
       "url": "https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG"

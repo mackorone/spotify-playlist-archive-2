@@ -1,12 +1,12 @@
 {
   "description": "Geolier  in cover della playlist con tutte le hit \ud83d\udd25",
-  "num_followers": 1704142,
+  "num_followers": 1703956,
   "original_name": "Hot Hits Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADiifyVNcpclbqQxIoCrLYznC2qx",
+  "snapshot_id": "AAAAABi7AOxhXk1xpo9aVPbiHb8kfD3E",
   "tracks": [
     {
       "added_at": "2026-10-17 07:38:04",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8"
     },
     {
+      "added_at": "2026-11-02 09:58:59",
+      "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Sentire La Musica",
+      "url": "https://open.spotify.com/track/70m2SuBHRCkxVpgqpXZPDk"
+    },
+    {
       "added_at": "2026-10-15 22:02:54",
       "album": {
         "name": "LA TESTA GIRA",
@@ -307,26 +323,6 @@
       "duration_ms": 257713,
       "name": "LA GRACIOSA",
       "url": "https://open.spotify.com/track/0b3Bkp0UfCkNqquAUmoP5m"
-    },
-    {
-      "added_at": "2026-10-15 22:02:54",
-      "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "added_at": "2026-10-15 22:02:54",
@@ -455,30 +451,22 @@
     {
       "added_at": "2026-10-15 22:02:54",
       "album": {
-        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
       },
       "artists": [
         {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        },
-        {
-          "name": "R3versal",
-          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
-        },
-        {
-          "name": "G.Mineiro",
-          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
         }
       ],
-      "duration_ms": 188000,
-      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "added_at": "2026-10-15 22:02:54",
@@ -559,18 +547,30 @@
     {
       "added_at": "2026-10-15 22:02:54",
       "album": {
-        "name": "Bugie",
-        "url": "https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG"
+        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        },
+        {
+          "name": "R3versal",
+          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
         }
       ],
-      "duration_ms": 193223,
-      "name": "Bugie",
-      "url": "https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu"
+      "duration_ms": 188000,
+      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
     },
     {
       "added_at": "2026-10-15 22:02:54",
@@ -607,6 +607,22 @@
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/6h5nbfvIJHRNH3oGrNWJwn"
+    },
+    {
+      "added_at": "2026-10-15 22:02:54",
+      "album": {
+        "name": "Bugie",
+        "url": "https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 193223,
+      "name": "Bugie",
+      "url": "https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu"
     },
     {
       "added_at": "2026-10-15 22:02:54",
@@ -679,22 +695,6 @@
     {
       "added_at": "2026-10-15 22:02:54",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-15 22:02:54",
-      "album": {
         "name": "SWAG MUSIC",
         "url": "https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
+    },
+    {
+      "added_at": "2026-10-15 22:02:54",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "added_at": "2026-10-27 09:19:31",
@@ -879,30 +895,6 @@
       "duration_ms": 219078,
       "name": "Giornate perse",
       "url": "https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N"
-    },
-    {
-      "added_at": "2026-10-15 22:02:54",
-      "album": {
-        "name": "TU MI PIACI TANTO",
-        "url": "https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k"
-      },
-      "artists": [
-        {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
-        },
-        {
-          "name": "Dibla",
-          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
-        },
-        {
-          "name": "Jiz",
-          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "TU MI PIACI TANTO",
-      "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
     },
     {
       "added_at": "2026-10-15 22:02:54",

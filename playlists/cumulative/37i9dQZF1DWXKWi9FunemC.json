@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/39NlzB697WxpkOwvVvAMXf"
+      },
+      "artists": [
+        {
+          "name": "Arbour Season",
+          "url": "https://open.spotify.com/artist/4XudVJyOISrXMkNvNFlysV"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194175,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/5dUpwtHCcBrl9VyEZqo2pa"
+    },
+    {
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/3dXXhI7NQBfvTWAQwfIIBZ"
       },
@@ -500,10 +518,28 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 253337,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
+    },
+    {
+      "album": {
+        "name": "The Hymns",
+        "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253337,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6"
     },
     {
       "album": {
@@ -668,7 +704,7 @@
     {
       "album": {
         "name": "Babylon",
-        "url": "https://open.spotify.com/album/6RxsiU29Br7Wu4ZdVwfHhr"
+        "url": "https://open.spotify.com/album/754A8blYFBg51YagnEBsXM"
       },
       "artists": [
         {
@@ -679,6 +715,24 @@
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163503,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/2I2VwHrsD1mMLWbcAZlokB"
+    },
+    {
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/6RxsiU29Br7Wu4ZdVwfHhr"
+      },
+      "artists": [
+        {
+          "name": "Kyndal",
+          "url": "https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-03",
       "duration_ms": 164106,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/42svR3QErydGM6Un0qcBSI"
@@ -768,7 +822,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 155016,
       "name": "BE LIKE YOU",
       "url": "https://open.spotify.com/track/5yBd7UAaQXHyDjfrPcjHoq"
@@ -1347,6 +1401,28 @@
     },
     {
       "album": {
+        "name": "Beta",
+        "url": "https://open.spotify.com/album/7lzW3bEAMs7vxYkaGJOOpE"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        },
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/1ozLeUoPmcPWngHbautQ4D"
+    },
+    {
+      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/5P7beLPJEtmWyMeLdxKcMK"
       },
@@ -1362,7 +1438,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 158181,
       "name": "Call",
       "url": "https://open.spotify.com/track/5LODwNHXLkva3cPsOdslV0"
@@ -1924,10 +2000,28 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 176162,
       "name": "Devil In The Water",
       "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
+    },
+    {
+      "album": {
+        "name": "Devil In The Water",
+        "url": "https://open.spotify.com/album/3SiDtjxcNR89elewNggLT4"
+      },
+      "artists": [
+        {
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176162,
+      "name": "Devil In The Water",
+      "url": "https://open.spotify.com/track/7oODWKIFPrL37Xh6xp004T"
     },
     {
       "album": {
@@ -2348,6 +2442,24 @@
       "duration_ms": 248902,
       "name": "EVERYTHING HALLELUJAH",
       "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
+    },
+    {
+      "album": {
+        "name": "eyes on Him",
+        "url": "https://open.spotify.com/album/100R10y1TgHLjhWdT6Nxna"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192002,
+      "name": "eyes on Him",
+      "url": "https://open.spotify.com/track/2lMvlhsvTUNDsr1hfUa6ld"
     },
     {
       "album": {
@@ -4477,6 +4589,28 @@
     },
     {
       "album": {
+        "name": "Asaph's Arrows II",
+        "url": "https://open.spotify.com/album/7kOSrO39glloRECjkFAbQU"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239200,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/2FIaDZWkZQ0wEN5xgItlcp"
+    },
+    {
+      "album": {
         "name": "It Is Well",
         "url": "https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY"
       },
@@ -4874,7 +5008,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 200330,
       "name": "Know Me God",
       "url": "https://open.spotify.com/track/51NTYD2gSPR3CLOsgnTBYE"
@@ -7066,7 +7200,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 129214,
       "name": "Romans 15:13",
       "url": "https://open.spotify.com/track/1Y0P9RdvIXtnDGMxXDyZ31"
@@ -8707,6 +8841,24 @@
     },
     {
       "album": {
+        "name": "Asaph's Arrows II",
+        "url": "https://open.spotify.com/album/7kOSrO39glloRECjkFAbQU"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/7nck7wzPvC9QkU786qE6RF"
+    },
+    {
+      "album": {
         "name": "This One Refrain (Acoustic)",
         "url": "https://open.spotify.com/album/4Lsag5qh6Y241LsHSur2Me"
       },
@@ -9002,7 +9154,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 316944,
       "name": "Union",
       "url": "https://open.spotify.com/track/7rO2RdfL0bEYE9a6bgijuK"

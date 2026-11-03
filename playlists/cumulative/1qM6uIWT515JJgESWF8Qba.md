@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-344 songs - 21 hr 27 min
+348 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bring Your Love](https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx) | 2:24 | 2025-11-26 |  |
 | [Broken Wings](https://open.spotify.com/track/5AxJgG2erlDiiwqPaRizts) | [Deully](https://open.spotify.com/artist/1tttcmDgOPmadXhAVQZLyr) | [Broken Wings](https://open.spotify.com/album/2Mz0dXbN2s0tRdOTujMPCT) | 4:21 | 2026-04-23 | 2026-05-19 |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2026-01-16 | 2026-02-23 |
+| [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 | 2026-11-02 |  |
 | [Burn It Down \- '25](https://open.spotify.com/track/077M4QbpESAeYneFBGqRdW) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:25 | 2025-12-03 | 2026-05-17 |
 | [Burn It Faster](https://open.spotify.com/track/3boHJrQo46C772vzvsWXyf) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:45 | 2026-01-22 | 2026-02-23 |
 | [Burning Hell](https://open.spotify.com/track/0a9kz1MrbUGQlz8MqE9WTr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Burning Hell](https://open.spotify.com/album/5SuTrgKemwnr0culrcxuCS) | 4:46 | 2026-03-28 |  |
@@ -65,6 +66,7 @@
 | [Cherry Vice](https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Cherry Vice](https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h) | 4:18 | 2026-03-28 | 2026-05-19 |
 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-07-13 | 2026-08-08 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-05 | 2026-03-21 |
+| [Clementine](https://open.spotify.com/track/2JzVE0Wyy7pvhjIq1StV4l) | [Every Living Beast](https://open.spotify.com/artist/2J3ATpiJf8oNmJLnVBmj1Z) | [Clementine](https://open.spotify.com/album/2TFnTOk9Aqk3QXz5XukWgt) | 2:55 | 2026-11-02 |  |
 | [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 | 2026-02-24 | 2026-04-01 |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-09-08 |  |
 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 | 2026-09-10 | 2026-10-11 |
@@ -99,6 +101,7 @@
 | [Dose of Speed](https://open.spotify.com/track/6YSOeHQAuuL5bk7tGNsUUC) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 2:38 | 2026-09-17 |  |
 | [Down \- '25](https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 4:39 | 2026-02-11 | 2026-05-19 |
 | [Dr\. Hammer](https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 3:48 | 2026-02-04 | 2026-02-23 |
+| [Drums Beat Riff](https://open.spotify.com/track/3g9s1J0iK0v3dJaCbg3M1G) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 3:27 | 2026-11-02 |  |
 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 | 2026-03-27 | 2026-10-18 |
 | [Eco friendly](https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [Eco friendly](https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq) | 3:24 | 2026-03-20 | 2026-05-19 |
 | [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 | 2025-12-20 | 2026-01-21 |
@@ -231,6 +234,7 @@
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 | 2025-12-28 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-28 |
 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 | 2026-05-08 | 2026-06-14 |
+| [Non Mi Troverai](https://open.spotify.com/track/2xvIZraE0QZRMKghPhzbIC) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Non Mi Troverai](https://open.spotify.com/album/5i9qmAEmZna27PgyYhAB80) | 3:43 | 2026-11-02 |  |
 | [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 | 2026-02-10 | 2026-04-01 |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-10-23 | 2026-03-21 |
 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 | 2026-06-15 | 2026-08-08 |

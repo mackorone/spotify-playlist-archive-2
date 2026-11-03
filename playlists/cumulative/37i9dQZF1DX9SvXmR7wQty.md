@@ -4,7 +4,7 @@
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Orelsan, Lost, Patrice Michaud, Sarahmée, Pomme, et plus!
 
-5,440 songs - 11 day 20 hr 16 min
+5,441 songs - 11 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4883,6 +4883,7 @@
 | [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 | 2023-05-12 | 2023-05-20 |
 | [Tous les gestes, les mots](https://open.spotify.com/track/26rL5fJOMs0GpcF0WEubxy) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Le cœur des oiseaux de cendre](https://open.spotify.com/album/0KoG3uSPa7heqUWcgJUOA2) | 4:08 | 2025-04-25 | 2025-05-03 |
 | [TOUS LES MATINS](https://open.spotify.com/track/3VH9WlV3UyTGdmUur4Pk4S) | [éther](https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY) | [TOUS LES MATINS](https://open.spotify.com/album/6pBltQ6tNm65AbyfKtGpR6) | 1:57 | 2026-03-13 | 2026-03-28 |
+| [TOUS MES DIAMANTS](https://open.spotify.com/track/11lYM95HuWxGyGMTWEFQVk) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [DOM PERIGNON CRYING \(Anniversary\)](https://open.spotify.com/album/1l5sYO33qmTKEna22Iy9xK) | 3:01 | 2026-10-30 |  |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:17 | 2022-06-17 | 2022-07-09 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-16 |
 | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0) | [Jay Essiambre](https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8) | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq) | 3:09 | 2026-10-30 |  |

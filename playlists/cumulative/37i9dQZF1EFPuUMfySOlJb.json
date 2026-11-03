@@ -128,10 +128,28 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 128250,
       "name": "Don't Waste Your Time",
       "url": "https://open.spotify.com/track/6ugwLnZak8lGnUqi8b8p15"
+    },
+    {
+      "album": {
+        "name": "Pain Never Looked This Good (Night)",
+        "url": "https://open.spotify.com/album/0gmvFL9UFeqwwBFDMWLDh5"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Don't Waste Your Time",
+      "url": "https://open.spotify.com/track/7gZ6wC0JVjkS1W1xkpQ7zf"
     },
     {
       "album": {
@@ -328,6 +346,24 @@
     {
       "album": {
         "name": "Issues",
+        "url": "https://open.spotify.com/album/3x1N5mOC36Sy0KyBRFDWtk"
+      },
+      "artists": [
+        {
+          "name": "Yung Pinch",
+          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166456,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/0fdGancqr2bZGUOT42CNj5"
+    },
+    {
+      "album": {
+        "name": "Issues",
         "url": "https://open.spotify.com/album/1fXSKNUR40ajVJvD4inDly"
       },
       "artists": [
@@ -338,7 +374,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 166456,
       "name": "Issues",
       "url": "https://open.spotify.com/track/73RF3sAfPudbZ57jChqhiv"

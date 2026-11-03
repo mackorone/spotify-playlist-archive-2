@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > váyanse a ver si ya puso la marrana con DENNA LA PORRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,951 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,988 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 | 51 | [Bailalo Como Shakira Mix](https://open.spotify.com/track/3ZCyS8IZFOSFU77Gf8Hhti) | [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Bailalo Como Shakira Mix](https://open.spotify.com/album/7iGOnyTZ0EiFTZfMkfpFnL) | 3:25 |
 | 52 | [MUEVEME ESAS NALGAS](https://open.spotify.com/track/4jN9kg4oW7MFBtyqOcBg7g) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW), [Sarita](https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I) | [MUEVEME ESAS NALGAS](https://open.spotify.com/album/6HytkLnyhPYatHufu6JOYJ) | 2:31 |
 | 53 | [Piripituchy](https://open.spotify.com/track/0ptRUFCCeO5AmWrY56tz9m) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Reggaetoñerito](https://open.spotify.com/album/4n7RrYFvdnl53Yc6hv17Z8) | 3:00 |
-| 54 | [descontrol](https://open.spotify.com/track/5BimcGZWyx0ArOozA1niJK) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [descontrol](https://open.spotify.com/album/32jcEzD0UzYJLij6xNHMT7) | 2:12 |
+| 54 | [descontrol \(feat\. Ruzzo Doblezz\)](https://open.spotify.com/track/5BimcGZWyx0ArOozA1niJK) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [descontrol \(feat\. Ruzzo Doblezz\)](https://open.spotify.com/album/32jcEzD0UzYJLij6xNHMT7) | 2:12 |
 | 55 | [Ay Mamasita](https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [Yell0w Yei](https://open.spotify.com/artist/4wYnHfMMu5an171J9sBE8i) | [Ay Mamasita](https://open.spotify.com/album/25bzzlibaTyLJT7ZlA6Jbm) | 2:39 |
 | 56 | [Jordan Flight](https://open.spotify.com/track/1sZH9ZyLQQk9LIVpyJFQlI) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Reggaetoñerito](https://open.spotify.com/album/4n7RrYFvdnl53Yc6hv17Z8) | 2:39 |
 | 57 | [Ñero Session 16](https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Ñero Session 16](https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1) | 2:17 |

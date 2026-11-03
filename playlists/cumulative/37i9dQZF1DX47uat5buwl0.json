@@ -1453,6 +1453,32 @@
     },
     {
       "album": {
+        "name": "Ewa Lieffie",
+        "url": "https://open.spotify.com/album/4GQ20hdYUtL0doxTwDlf7G"
+      },
+      "artists": [
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95269,
+      "name": "Ewa Lieffie",
+      "url": "https://open.spotify.com/track/4zNlU1NpdaCr2EKjkguBmg"
+    },
+    {
+      "album": {
         "name": "Ewa Safi",
         "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
       },
@@ -4670,7 +4696,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 155998,
       "name": "Uitslover",
       "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"

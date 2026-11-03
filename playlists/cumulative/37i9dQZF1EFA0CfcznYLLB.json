@@ -6676,10 +6676,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 202083,
       "name": "Pop a Perc",
       "url": "https://open.spotify.com/track/64eOzETJF1AFOzYOrdZEEe"
+    },
+    {
+      "album": {
+        "name": "Pop a Perc",
+        "url": "https://open.spotify.com/album/1Ypk5dGkLQY4j9jtQa4IIY"
+      },
+      "artists": [
+        {
+          "name": "Smoke Dawg",
+          "url": "https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202083,
+      "name": "Pop a Perc",
+      "url": "https://open.spotify.com/track/6iZTCVvaHucweVkAvee0FZ"
     },
     {
       "album": {

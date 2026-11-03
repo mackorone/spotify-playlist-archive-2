@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,342 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,439 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 46 | [Si Te Vas](https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Te Vas](https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b) | 4:00 |
 | 47 | [Cazzu: Bzrp Music Sessions, Vol\. 32/66](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32/66](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 |
 | 48 | [H.I.E.L.O.](https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [H.I.E.L.O.](https://open.spotify.com/album/2V5eHcsWILzjRzf9Z47tiX) | 3:16 |
-| 49 | [Cuenta Conmigo](https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS) | [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Maracucho Bueno Muere Chiquito](https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5) | 3:32 |
-| 50 | [Crecia](https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Crecia](https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy) | 4:30 |
+| 49 | [Crecia](https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Crecia](https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy) | 4:30 |
+| 50 | [Cuenta Conmigo](https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS) | [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Maracucho Bueno Muere Chiquito](https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5) | 3:32 |
 | 51 | [Ready Pa Morir](https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Steve Lean](https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T) | [A.D.R.O.M.I.C.F.M.S\. 2](https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu) | 3:11 |
 | 52 | [KHEA: Bzrp Music Sessions, Vol\. 34/66](https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [KHEA: Bzrp Music Sessions, Vol\. 34/66](https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww) | 3:18 |
 | 53 | [Tú No Amas](https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq) | [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Tú No Amas](https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh) | 4:33 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 95 | [Scarface](https://open.spotify.com/track/0NMfbBpDkMp4WnAOnRFoiw) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Scarface](https://open.spotify.com/album/0zoPlDSldE5qdPaoOzSqvn) | 3:45 |
 | 96 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
 | 97 | [Malportau](https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Malportau](https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx) | 3:33 |
-| 98 | [Criminal](https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Criminal](https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG) | 3:40 |
-| 99 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
+| 98 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
+| 99 | [Criminal](https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Criminal](https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG) | 3:40 |
 | 100 | [Como Me Ven](https://open.spotify.com/track/7j13aYb9i5749QxSI8Yhfv) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 2:47 |
 
 Snapshot ID: `AAAAAOk5KexFpXZNLBnaSuq7A7ZzcAFg`

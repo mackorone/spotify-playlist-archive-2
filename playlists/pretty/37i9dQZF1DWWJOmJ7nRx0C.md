@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,517 likes - 101 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,513 likes - 101 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 83 | [Silverline](https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Silverline](https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF) | 3:00 |
 | 84 | [F.A.M.O.U.S](https://open.spotify.com/track/4cLzHSqYaxcw8qVFV2xlGY) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [F.A.M.O.U.S](https://open.spotify.com/album/0vVoKZmi97XxytJghdjvHF) | 3:20 |
 | 85 | [Snakes for Dinner](https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Snakes for Dinner](https://open.spotify.com/album/6hfWE4ne6vuflQER7tVs0E) | 4:57 |
-| 86 | [GOING UNDER \(with Paledusk\)](https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [GOING UNDER \(with Paledusk\)](https://open.spotify.com/album/54tWIX2hWrWrPkRd8ko6K2) | 3:09 |
+| 86 | [GOING UNDER](https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [GOING UNDER](https://open.spotify.com/album/54tWIX2hWrWrPkRd8ko6K2) | 3:09 |
 | 87 | [Sleeping With The Enemy](https://open.spotify.com/track/1hLipkDpW1mAdGlUHl2Zl5) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Sleeping With The Enemy](https://open.spotify.com/album/1szmJLoAH4F1uk0AfSQj66) | 4:06 |
 | 88 | [Good Fortune](https://open.spotify.com/track/6h9g67CxwZf4RcsQF4SZZb) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Halcyon Blues](https://open.spotify.com/album/3vUBcLeVjcC2HIztGj0T7F) | 3:07 |
 | 89 | [Smoking In Bed](https://open.spotify.com/track/5xUyQIDuiYrGWoIlvDmmUv) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [If You Insist](https://open.spotify.com/album/0mlnEqCwYIG14bb538wHZZ) | 3:24 |

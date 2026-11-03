@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77162,
+  "num_followers": 77170,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
-      },
-      "artists": [
-        {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 213793,
       "name": "Reaper (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+      },
+      "artists": [
+        {
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Lose Your Shit",
-        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
-        }
-      ],
-      "duration_ms": 190094,
-      "name": "Lose Your Shit",
-      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Raving In The Studio (SOTA Remix)",
         "url": "https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 135428,
       "name": "Raving In The Studio (SOTA Remix)",
       "url": "https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Lose Your Shit",
+        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 190094,
+      "name": "Lose Your Shit",
+      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Go Hard / Wednesday",
         "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 267586,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-10-22 23:00:31",

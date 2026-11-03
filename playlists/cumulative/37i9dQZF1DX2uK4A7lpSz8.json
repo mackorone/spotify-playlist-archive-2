@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 109280,
       "name": "Smells Blood",
       "url": "https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO"
@@ -446,6 +446,24 @@
       "duration_ms": 212546,
       "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
       "url": "https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30f3\u30d0\u30fc\u30c8\u30fc\u30c1",
+        "url": "https://open.spotify.com/album/6gOb9Jv6UpHGBK5rtRRsqY"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210353,
+      "name": "\u30a8\u30f3\u30d0\u30fc\u30c8\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC"
     },
     {
       "album": {

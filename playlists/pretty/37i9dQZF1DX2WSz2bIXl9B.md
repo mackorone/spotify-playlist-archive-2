@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: Terapia de Parejas, Ahora me entero, Querido Pícaro, Chronically Online y Pareja in Crime.<br/><br/>En portada, Chronically Online
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,432 likes - 15 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,435 likes - 15 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 | 9 | [La Vida Extraterrestre TIENE que existir: experto explica por qué NO la encontramos](https://open.spotify.com/episode/7E3Sm9uBrqyEbyNFr4iEdj) | [Ahora me entero](https://open.spotify.com/show/1KOIc2AOrYJMsYn56kWiZg) | [Ahora me entero](https://open.spotify.com/album/1KOIc2AOrYJMsYn56kWiZg) | 1:31:02 |
 | 10 | [Terapia de Parejas \- 926 \- Por CULPA del COLOR de un VESTIDO](https://open.spotify.com/episode/5veICDHmyBLIqctGtIcHrX) | [Terapia de Parejas](https://open.spotify.com/show/6V7gzGJwYsHg4uJOCPM7C1) | [Terapia de Parejas](https://open.spotify.com/album/6V7gzGJwYsHg4uJOCPM7C1) | 2:10:55 |
 | 11 | [El verdadero LOVERS TO ENEMIES, CHRISTINA AGUILERA Y EMINEM –06x01 Chronically Online](https://open.spotify.com/episode/6aa1NDcdTYHrEYqspJyccS) | [Chronically Online](https://open.spotify.com/show/6YJ5u4yr0YLStYDWRMSZHB) | [Chronically Online](https://open.spotify.com/album/6YJ5u4yr0YLStYDWRMSZHB) | 39:44 |
-| 12 | [Caso 42 \- Chiara Poggi: 19 años de dudas en el Caso Garlasco \(Garlasco, 2007\)](https://open.spotify.com/episode/7Bnc4aECLW5SU0KnOprpod) | [Pareja in Crime](https://open.spotify.com/show/5kZoxoTKOrVIB5oM5Wgp9w) | [Pareja in Crime](https://open.spotify.com/album/5kZoxoTKOrVIB5oM5Wgp9w) | 41:18 |
+| 12 | [Caso 42 \- Chiara Poggi: 19 años de dudas en el Caso Garlasco \(Garlasco, 2007\)](https://open.spotify.com/episode/7Bnc4aECLW5SU0KnOprpod) | [Pareja in Crime](https://open.spotify.com/show/5kZoxoTKOrVIB5oM5Wgp9w) | [Pareja in Crime](https://open.spotify.com/album/5kZoxoTKOrVIB5oM5Wgp9w) | 41:19 |
 | 13 | [Gays and girls, la macho masculinidad y el fin del romanticismo con Tigrillo \| Querido Pìcaro 1X07](https://open.spotify.com/episode/4eiBa975ujaSaVLTi7dqtw) | [Querido Pìcaro](https://open.spotify.com/show/6ARmhjqBizRxdXqVWgVgQZ) | [Querido Pìcaro](https://open.spotify.com/album/6ARmhjqBizRxdXqVWgVgQZ) | 29:24 |
 | 14 | [Negociador de SECUESTROS y CRISIS: así convenzo a personas ARMADAS](https://open.spotify.com/episode/6lVdFb96MySOTxFDX0hydl) | [Ahora me entero](https://open.spotify.com/show/1KOIc2AOrYJMsYn56kWiZg) | [Ahora me entero](https://open.spotify.com/album/1KOIc2AOrYJMsYn56kWiZg) | 1:52:57 |
 | 15 | [Terapia de Parejas \- 925 \- QUIERO que mi MUJER cocine PARA MI](https://open.spotify.com/episode/2WxYBWLw6vIR0i90LtOL05) | [Terapia de Parejas](https://open.spotify.com/show/6V7gzGJwYsHg4uJOCPM7C1) | [Terapia de Parejas](https://open.spotify.com/album/6V7gzGJwYsHg4uJOCPM7C1) | 2:17:01 |

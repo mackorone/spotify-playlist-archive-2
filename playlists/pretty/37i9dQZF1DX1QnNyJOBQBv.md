@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Emilia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859,145 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,858,869 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 9 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 10 | [Las Cosas Que Solo Se Hacen En La Noche \(feat\. Nile Rodgers\)](https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Las Cosas Que Solo Se Hacen En La Noche](https://open.spotify.com/album/4m13C4u0Xhkaqla5t9Mf3T) | 2:18 |
 | 11 | [La Medalla](https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Para Cuando Sean Mayores](https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG) | 3:23 |
-| 12 | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
+| 12 | [Felicidades](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
 | 13 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |
 | 14 | [¿Qué Tan Cerca Es Cerca?](https://open.spotify.com/track/3koTH4PYS8Pd8arnOg9sCr) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 3:17 |
 | 15 | [La Explosión](https://open.spotify.com/track/5VIxJkbmLsMgQg9W1MryoE) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Explosión](https://open.spotify.com/album/6QRUjD0riNlL9fvC8tgGdS) | 3:09 |

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Hero \- Nicky Romero Remix](https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Hero \(Nicky Romero Remix\)](https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3) | 3:12 |
 | 50 | [Metropolis](https://open.spotify.com/track/2x6hopxvQkOzZTBdEMyUO2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 5:30 |
 
-Snapshot ID: `auUvgAAAAAAw05g+BDJqME8JBjZfemmF`
+Snapshot ID: `auaBAAAAAAA6TnHugXzuchChjEvYOtBQ`

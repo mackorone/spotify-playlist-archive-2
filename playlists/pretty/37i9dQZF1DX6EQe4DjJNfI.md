@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,206 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,216 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 25 | [só \(mais\) uma vez](https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [só \(mais\) uma vez](https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp) | 3:41 |
 | 26 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 |
 | 27 | [De Lua](https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [De Lua](https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY) | 3:12 |
-| 28 | [Cartas Na Mesa](https://open.spotify.com/track/5Q19PlPmY4VAordtvqzRqG) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:26 |
-| 29 | [Outono](https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:00 |
+| 28 | [Outono](https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:00 |
+| 29 | [Cartas Na Mesa](https://open.spotify.com/track/5Q19PlPmY4VAordtvqzRqG) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:26 |
 | 30 | [Não mente pra mim](https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Não mente pra mim](https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr) | 3:22 |
 | 31 | [Perigos&Macetes](https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Meio Feel](https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3) | [Muito Romântico](https://open.spotify.com/album/12huOOShCMRppercsnKCdS) | 2:28 |
 | 32 | [Nem Pensar](https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [O Último Romântico](https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT) | 2:43 |

@@ -2265,6 +2265,32 @@
     },
     {
       "album": {
+        "name": "The Sesso",
+        "url": "https://open.spotify.com/album/3qAld1Bgkx5Uq0F3xvrwIV"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Soujanya Bhagavatula",
+          "url": "https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt"
+        },
+        {
+          "name": "Viswadeep",
+          "url": "https://open.spotify.com/artist/5wLbekCe5fytgQjDFG17el"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244304,
+      "name": "Edho Edho",
+      "url": "https://open.spotify.com/track/0erGjYzyWwnik8KqvOlUys"
+    },
+    {
+      "album": {
         "name": "Edho Edho Kalavaram (From \"Anveshi\")",
         "url": "https://open.spotify.com/album/0xqWP4R2wrLps92i98SbGT"
       },
@@ -3736,7 +3762,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 215172,
       "name": "Hold Me So Tight (From \"Breakfast - Telugu\")",
       "url": "https://open.spotify.com/track/7ChIbEsOofbZslfMtzrh8F"
@@ -10266,6 +10292,32 @@
       "duration_ms": 266117,
       "name": "Raave Cheliya (From \"Srinivasa Mangapuram\")",
       "url": "https://open.spotify.com/track/1oukf3EYgEF4e7vN00eUdU"
+    },
+    {
+      "album": {
+        "name": "Radhe Radhe (From \"Aakasamlo Oka Tara\")",
+        "url": "https://open.spotify.com/album/4sgnro8gHdLb0sMALchfjw"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227119,
+      "name": "Radhe Radhe (From \"Aakasamlo Oka Tara\")",
+      "url": "https://open.spotify.com/track/3BMKuUKJyZ4y6A6LIhsop0"
     },
     {
       "album": {

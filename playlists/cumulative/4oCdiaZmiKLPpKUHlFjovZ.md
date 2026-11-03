@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring SOB x RBE, T.I., Fenix Flexin, Shaboozey &amp; more.
 
-247 songs - 11 hr 2 min
+248 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Access Granted](https://open.spotify.com/track/3DG8BACcLZTelczHn3W8Hf) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Catch Me If You Can](https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR) | 2:01 | 2023-09-28 | 2025-02-01 |
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-09-23 |  |
 | [Ain't My Fault](https://open.spotify.com/track/453O275lHzJI4y321q2dk7) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb) | [Ain't My Fault](https://open.spotify.com/album/1mD0rR1VKGaJHd0cpfPZBG) | 2:15 | 2025-03-31 | 2026-03-03 |
+| [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 | 2026-11-02 |  |
 | [All Black Trucks](https://open.spotify.com/track/4BRcukyn9Kcb8YhKScnu0y) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [All Black Trucks](https://open.spotify.com/album/5m7ACE2vtWTrgx88h47dcm) | 3:17 | 2024-09-23 | 2025-02-01 |
 | [ALL FLATS](https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [ALL FLATS](https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo) | 1:56 | 2026-01-12 |  |
 | [ALL I GOT](https://open.spotify.com/track/4y5gyOUkDAVwN6p58GdNKU) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [INTRUSIVE THOUGHTS 2](https://open.spotify.com/album/2qVwJjPM1v86KOaTUISMiT) | 3:08 | 2025-08-13 | 2025-09-30 |

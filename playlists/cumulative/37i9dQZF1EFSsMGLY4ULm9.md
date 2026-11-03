@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3AUv0IEjS8uKIooEtoQNF8">Raquel Silva</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-65 songs - 5 hr 44 min
+66 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Te Encha](https://open.spotify.com/track/2cGUIHpuhy6rauGOqEjMAK) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Resolvi Te Abençoar](https://open.spotify.com/album/4NYaqpow0G4q8KrI6IZYGd) | 3:46 | 2023-12-30 |  |
 | [Te Encher Pra Não Parar](https://open.spotify.com/track/2te9iYdXW8RvT7f5g1TjQt) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Te Encher Pra Não Parar](https://open.spotify.com/album/2ZCPGQh3ysOIpzGiYliV0v) | 4:24 | 2024-03-05 |  |
 | [Te Encher Pra Não Parar \- Play Back](https://open.spotify.com/track/5alNvf9hThQfdLT0KGjuNH) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Te Encher Pra Não Parar](https://open.spotify.com/album/2ZCPGQh3ysOIpzGiYliV0v) | 4:26 | 2023-12-30 | 2024-03-06 |
+| [Tem Livramento](https://open.spotify.com/track/1ASaEiRmjzhNTvjBEYgjB9) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Tem Livramento](https://open.spotify.com/album/0sp0Ugzr8n7H78TzxgKPPX) | 6:41 | 2026-11-02 |  |
 | [Tristezas e Alegrias](https://open.spotify.com/track/4SghGLK19UubbFV7aL7u7U) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 8:59 | 2023-12-30 |  |
 | [Vai Moisés](https://open.spotify.com/track/5WY0NTRy5qyRwXuXGP6Xbb) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:40 | 2023-12-30 |  |
 | [Vem Visita](https://open.spotify.com/track/4CSdExdy7piCp1N3ijXKcV) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:50 | 2023-12-30 |  |

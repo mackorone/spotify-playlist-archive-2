@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,441 likes - 65 songs - 3 hr 56 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,449 likes - 67 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 63 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
 | 64 | [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 |
 | 65 | [\(not\) Hard To Love](https://open.spotify.com/track/1H2N7wWdmrESclVCkq88a2) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [\(not\) Hard To Love](https://open.spotify.com/album/62wWEOz1JMT297bowmB8tf) | 4:00 |
+| 66 | [Overrated](https://open.spotify.com/track/5OUfkGbStbslpI2tHo9ljb) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [Overrated](https://open.spotify.com/album/1cOWmLcLfqKCdHEcUDNlhe) | 2:24 |
+| 67 | [FRESCO & SOLEADO](https://open.spotify.com/track/5o5zcdtReTum1l1qjWeS1S) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [FRESCO & SOLEADO](https://open.spotify.com/album/0Mx2NkaeSpuF9HCsocNagz) | 3:14 |
 
-Snapshot ID: `AAAHS2ZIdOFsEM2oKxG4OqgJF2N564oh`
+Snapshot ID: `AAAHTY02Ixl9/SNRqkWmGP3NIkLqzP4x`

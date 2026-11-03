@@ -45863,6 +45863,24 @@
     },
     {
       "album": {
+        "name": "r1 (ripples)",
+        "url": "https://open.spotify.com/album/6rr1eo40U5FulRBagLl4z3"
+      },
+      "artists": [
+        {
+          "name": "nowhere else to be",
+          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250782,
+      "name": "r1 (ripples)",
+      "url": "https://open.spotify.com/track/2Fg1BzhbflGk6zDVtrjobs"
+    },
+    {
+      "album": {
         "name": "takeaways",
         "url": "https://open.spotify.com/album/7cSg68Tk5OmkfBSviwghnm"
       },

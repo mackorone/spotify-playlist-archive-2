@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,018 songs - 11 day 8 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,020 songs - 11 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5026,5 +5026,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5016 | [Entrada](https://open.spotify.com/track/2v2i3wcQIcYARJ2J1bCobj) | [Wavediffraction](https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd) | [Entrada](https://open.spotify.com/album/6kenJ76Y8TJAuPcgZ1750P) | 3:07 |
 | 5017 | [ABOLISH ICE](https://open.spotify.com/track/0T81lv1iTVLqkh8URk1agd) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [ABOLISH ICE](https://open.spotify.com/album/4pjn1EgCN3CjAgQvCbJkp7) | 4:41 |
 | 5018 | [オルゴールの思い出 \(feat\. 音街ウナ\)](https://open.spotify.com/track/56XOzEphO8uyqKSg7e2hmT) | [Miya.P](https://open.spotify.com/artist/4o81xCtpNAHmWhgFdRSC9z), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [オルゴールの思い出 \(feat\. 音街ウナ\)](https://open.spotify.com/album/3pU5W6RyX6rZSUAfOtwzds) | 3:23 |
+| 5019 | [Something](https://open.spotify.com/track/5gAPlerVQ3cFednbpheJdQ) | [AIRFLO](https://open.spotify.com/artist/5enWQoEEYc5HIcUmju49vL) | [Something](https://open.spotify.com/album/3DtbqRhzGDVrWBzkBHjuF6) | 4:00 |
+| 5020 | [Morning Light](https://open.spotify.com/track/7q3bSnB43PJgmcJzB4gnzx) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Morning Light](https://open.spotify.com/album/37kNz5cw59TbcijwmZI8eu) | 3:58 |
 
-Snapshot ID: `AAAK4g5yNqDIlyFNXhNp1zFpcj+o5fAM`
+Snapshot ID: `AAAK5HLRVbaadMtgR8SGp1rver7RE+c+`

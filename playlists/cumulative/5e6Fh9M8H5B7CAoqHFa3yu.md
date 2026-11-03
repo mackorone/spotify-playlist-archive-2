@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,765 songs - 6 day 17 hr 6 min
+2,766 songs - 6 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Aevum Medium](https://open.spotify.com/track/5qwZEYgJZ366UkX5YDjbnk) | [Unfaded Studios](https://open.spotify.com/artist/3RQD5dw9Hz1imOaVda6H59) | [Nova Harmonia](https://open.spotify.com/album/6S2MXVx4gv8cASdmhi736H) | 3:32 | 2026-10-01 |  |
 | [Afghan House Music](https://open.spotify.com/track/1JYjENLsXqrmmcujDJJhWb) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Afghan House Music](https://open.spotify.com/album/4po7vfWFJJyPU1cfnq5iP2) | 2:09 | 2024-07-08 |  |
 | [Afghan méditation \(Phaz\-M Dub\) \- Bonus Remix](https://open.spotify.com/track/3GPC3dRA6tbBmW72p3KB2d) | [Tokiboun in Dub](https://open.spotify.com/artist/4Zd57im34ghqIM6ddkHCgt) | [Back To Roots](https://open.spotify.com/album/3QidxNN8JpX0ttlGDXWeYa) | 4:27 | 2024-03-25 |  |
+| [After Everyone](https://open.spotify.com/track/6gXpJUV7mz3BhPDs0ItnxI) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [After Everyone](https://open.spotify.com/album/3FPDHmZs7VnOTxhReQi7QZ) | 5:34 | 2026-11-02 |  |
 | [After the Dust Settles](https://open.spotify.com/track/7IbNQFyIa84ruIy43ZH4t5) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 4:57 | 2026-07-15 |  |
 | [After the Storm \- Original](https://open.spotify.com/track/5Go15EVaITaamtyyudMbJJ) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [After the Storm \(Original\)](https://open.spotify.com/album/3o4Ag0hDx39GlHxsv09smM) | 3:14 | 2025-06-13 |  |
 | [After Us](https://open.spotify.com/track/54KzWxkfywCM1cWPFh6Uhb) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [After Us](https://open.spotify.com/album/3C6v5BaV8srOBwaNLh5FgF) | 2:52 | 2026-02-07 |  |

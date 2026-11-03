@@ -4,7 +4,7 @@
 
 > This week's top new releases, including AYLIVA, Monet192, Ikkimel, Sido, Bligg, Heimweh & many more!
 
-24,857 songs - 51 day 8 hr 19 min
+24,858 songs - 51 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21913,6 +21913,7 @@
 | [Tourner en Rond](https://open.spotify.com/track/3k6NWLQIVNPsLo6RT7JAdU) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tourner en Rond](https://open.spotify.com/album/5WLDM7GfwZnU3WmaU5ynEH) | 3:25 | 2025-03-13 | 2025-03-21 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [Tourè](https://open.spotify.com/track/0KnpDL9EbYZ269MWaEUh55) | [Silaz](https://open.spotify.com/artist/7fQqSptwflgfVdRKXO2LUi) | [Tourè](https://open.spotify.com/album/7bMjsRWipe5J1akg0Wpbgt) | 2:32 | 2023-09-21 | 2023-09-29 |
+| [TOUS MES DIAMANTS](https://open.spotify.com/track/0loQ4ep4QLJzir6UesUgdW) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [TOUS MES DIAMANTS](https://open.spotify.com/album/16j7nuhpGWlIKoObbSKUFC) | 3:01 | 2026-10-29 |  |
 | [tout](https://open.spotify.com/track/5zEA7SK0MDAdAdHtWJ5cMj) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [tout](https://open.spotify.com/album/1JSWwJZBJSJLL67kqY8jXG) | 3:25 | 2025-05-08 | 2025-05-16 |
 | [TOUT DOUX](https://open.spotify.com/track/6vNelqGPn3g9PwKIv64xyo) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [TOUT DOUX](https://open.spotify.com/album/0oNj0B8btUWAqbVRKDhiPg) | 2:28 | 2026-01-23 | 2026-01-30 |
 | [Tout est Ok](https://open.spotify.com/track/6s3MOZDo55FpDw52hIrZwq) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Tout est Ok](https://open.spotify.com/album/1FBp8DCcFMVsVvYf9eDPHC) | 2:59 | 2022-09-08 | 2022-09-16 |

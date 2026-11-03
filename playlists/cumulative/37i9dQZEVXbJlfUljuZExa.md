@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,578 songs - 3 day 19 hr 25 min
+1,579 songs - 3 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/5doooVlMVRZztQbySqARMI) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:31 | 2025-02-26 | 2025-03-06 |
 | [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 | 2025-10-04 | 2025-10-06 |
 | [honeybee](https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:43 | 2026-06-13 |  |
+| [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni) | 3:36 | 2026-11-02 |  |
 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 | 2026-03-21 | 2026-04-17 |
 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2021-05-23 | 2021-06-01 |
 | [hoRRReg](https://open.spotify.com/track/1gvI1nP8e6wr6KSilWutKz) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Puting Beliung](https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K) | 3:08 | 2025-10-12 | 2025-11-04 |
@@ -856,7 +857,7 @@
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-07 | 2025-07-27 |
 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-04-30 |  |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-04-25 |
-| [Manifestasi \- From "Kudrat 1968 High Council"](https://open.spotify.com/track/08IHMRh92XGDUMPJARda5P) | [Sharul Kamal](https://open.spotify.com/artist/00N9ajQ1MYWJ2VEebxJmMv) | [Manifestasi \(From "Kudrat 1968 High Council"\)](https://open.spotify.com/album/3nfbQneWZOZO3WLw15ZvKY) | 3:15 | 2026-10-31 |  |
+| [Manifestasi \- From "Kudrat 1968 High Council"](https://open.spotify.com/track/08IHMRh92XGDUMPJARda5P) | [Sharul Kamal](https://open.spotify.com/artist/00N9ajQ1MYWJ2VEebxJmMv) | [Manifestasi \(From "Kudrat 1968 High Council"\)](https://open.spotify.com/album/3nfbQneWZOZO3WLw15ZvKY) | 3:15 | 2026-10-31 | 2026-11-03 |
 | [Manis Manis Lebaran](https://open.spotify.com/track/5YmuZ1Pm0ELkGMqpfXwou5) | [The New Boyz](https://open.spotify.com/artist/6qyiycpnMgFJgMb1AAxhCS) | [Berpesta Di Aidilfitri](https://open.spotify.com/album/2dDTCatTGI27sBdiLnv6Gz) | 3:43 | 2021-05-14 | 2021-05-15 |
 | [Mantra](https://open.spotify.com/track/1kUyOJb3fzUo8r0OCz5SQk) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:16 | 2025-03-08 | 2025-03-23 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-12 | 2025-01-13 |

@@ -1,13 +1,33 @@
 {
   "description": "\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0645\u0631",
-  "num_followers": 2397,
+  "num_followers": 2412,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB5ORd00lBOb5vZF9TvJFS5EHdE6",
+  "snapshot_id": "AAAAAF1mFe+OHwcuUQ3+hxr6e9taH8Vy",
   "tracks": [
+    {
+      "added_at": "2026-11-02 12:45:47",
+      "album": {
+        "name": "Ro7eelo / \u0631\u0648\u062d\u064a\u0644\u0647",
+        "url": "https://open.spotify.com/album/3M4RMxDhiWTo7sJYC9MOTD"
+      },
+      "artists": [
+        {
+          "name": "Remenkimi",
+          "url": "https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw"
+        },
+        {
+          "name": "Kurro",
+          "url": "https://open.spotify.com/artist/2JVl8pw8mhvFCwjbucRIV2"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Ro7eelo / \u0631\u0648\u062d\u064a\u0644\u0647",
+      "url": "https://open.spotify.com/track/5P51mHvljeTLA7HbWo4r9a"
+    },
     {
       "added_at": "2026-10-22 16:50:01",
       "album": {
@@ -113,6 +133,26 @@
       "url": "https://open.spotify.com/track/5iWOYRRyIJeLfPwFFjs0tu"
     },
     {
+      "added_at": "2026-11-02 13:34:07",
+      "album": {
+        "name": "Ya Bent El Maganeen",
+        "url": "https://open.spotify.com/album/4HS3SIUCvQlT6uKXNmJK6k"
+      },
+      "artists": [
+        {
+          "name": "Hussein Yasser",
+          "url": "https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Ya Bent El Maganeen",
+      "url": "https://open.spotify.com/track/3LeaHKpqOg5TQxRttKUQij"
+    },
+    {
       "added_at": "2026-10-22 16:50:01",
       "album": {
         "name": "GHADDARA (BONUS)",
@@ -143,6 +183,22 @@
       "duration_ms": 175800,
       "name": "BAHEB GDEED",
       "url": "https://open.spotify.com/track/16aFCdYs5avtLON2VKSd3K"
+    },
+    {
+      "added_at": "2026-11-02 12:57:13",
+      "album": {
+        "name": "Sa3at Mabafhamkesh",
+        "url": "https://open.spotify.com/album/7FepGS5UGW2pNe8nHYCHs2"
+      },
+      "artists": [
+        {
+          "name": "Daro",
+          "url": "https://open.spotify.com/artist/7rnVWUI5RiIkgiAptXQKMX"
+        }
+      ],
+      "duration_ms": 181221,
+      "name": "Sa3at Mabafhamkesh",
+      "url": "https://open.spotify.com/track/2kAks7cJ7nW9IJYHnk6QRn"
     },
     {
       "added_at": "2026-10-09 13:28:09",
@@ -191,6 +247,38 @@
       "duration_ms": 175735,
       "name": "EL BADLA WEL FOSTAN",
       "url": "https://open.spotify.com/track/2xYITR2JakEl8VxnQQ0Th8"
+    },
+    {
+      "added_at": "2026-11-02 12:45:47",
+      "album": {
+        "name": "Habiba",
+        "url": "https://open.spotify.com/album/17gWO3xVq3KqXr9utP5uib"
+      },
+      "artists": [
+        {
+          "name": "Showkey",
+          "url": "https://open.spotify.com/artist/3xQ3WqraSnv3qd9Ni7vlQx"
+        }
+      ],
+      "duration_ms": 148057,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/31vM9thC1YLLG6PVwHSOam"
+    },
+    {
+      "added_at": "2026-11-02 12:45:47",
+      "album": {
+        "name": "AYAM ZMAN",
+        "url": "https://open.spotify.com/album/4sfd06pNzkCw0sLl52PWbD"
+      },
+      "artists": [
+        {
+          "name": "OZAR",
+          "url": "https://open.spotify.com/artist/2HVHZqMFkmPoe02EZTVuP9"
+        }
+      ],
+      "duration_ms": 203388,
+      "name": "AYAM ZMAN",
+      "url": "https://open.spotify.com/track/0vbSbwBIF5Pk424uZHBhaS"
     },
     {
       "added_at": "2026-10-09 13:28:09",
@@ -551,22 +639,6 @@
     {
       "added_at": "2026-10-09 13:28:09",
       "album": {
-        "name": "\u0627\u0646\u062a",
-        "url": "https://open.spotify.com/album/3ihVZeR5QXWGbshGPNNP1E"
-      },
-      "artists": [
-        {
-          "name": "Hala",
-          "url": "https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k"
-        }
-      ],
-      "duration_ms": 163949,
-      "name": "\u0627\u0646\u062a",
-      "url": "https://open.spotify.com/track/2isDwmoN7Hc5a5ZYsaY6Io"
-    },
-    {
-      "added_at": "2026-10-09 13:28:09",
-      "album": {
         "name": "ESPA\u00d1A!",
         "url": "https://open.spotify.com/album/3TkQKgOifyi6zOBclOmMRU"
       },
@@ -687,22 +759,6 @@
       "duration_ms": 233760,
       "name": "Yesaalo 3ank",
       "url": "https://open.spotify.com/track/7I0qvacX0xIJtjozHf2iAo"
-    },
-    {
-      "added_at": "2026-10-09 13:28:09",
-      "album": {
-        "name": "Bent El Eh",
-        "url": "https://open.spotify.com/album/17lZVcXGAMXiXGJ77Ni3ND"
-      },
-      "artists": [
-        {
-          "name": "Layal",
-          "url": "https://open.spotify.com/artist/0rxqySAJPQZJ2SJMBfTGyG"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bent El Eh",
-      "url": "https://open.spotify.com/track/5hUPh8QeigKEdvHxiGW4xt"
     },
     {
       "added_at": "2026-10-09 13:28:09",
@@ -1060,7 +1116,7 @@
           "url": "https://open.spotify.com/artist/2LxQRRF8sFUTHnpYf1mf9e"
         }
       ],
-      "duration_ms": 150576,
+      "duration_ms": 150465,
       "name": "\u0646\u0648\u0643\u064a\u0627",
       "url": "https://open.spotify.com/track/4EpJriErcEHEUrGDJJqMG6"
     },

@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 78 | [nelle tue piscine \(okgiorgio rework\)](https://open.spotify.com/track/3ypRJXKSJRWeYX8cbRoJtp) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [Schegge \(reworks\)](https://open.spotify.com/album/25vPu3n3hPmCtjFvEMUr6f) | 3:44 |
 | 79 | [mi ami davvero?](https://open.spotify.com/track/1ZTQyGeAC8oJHMGxLyLqHu) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [BRIANZOLA ISSUES](https://open.spotify.com/album/27j6pnsbafDZIn3WnK6gKV) | 3:25 |
 | 80 | [Flash](https://open.spotify.com/track/2OajuteWecH4XFQyFLq1wQ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:43 |
-| 81 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 |
-| 82 | [okokokok](https://open.spotify.com/track/1bq3O8plsxH7V1gKkavpYI) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/2Aoaa2DRSBnFaACdmualPn) | 2:04 |
+| 81 | [okokokok](https://open.spotify.com/track/1bq3O8plsxH7V1gKkavpYI) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/2Aoaa2DRSBnFaACdmualPn) | 2:04 |
+| 82 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 |
 | 83 | [Danza](https://open.spotify.com/track/52KXGLUNnKoFFbV13lezFZ) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:44 |
 | 84 | [Londra](https://open.spotify.com/track/3f8Afp4ayOM9UPAwSYTkWE) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Londra](https://open.spotify.com/album/3oClS9LXJ5py2WVOS3mAgW) | 3:23 |
 | 85 | [IL BUIO \(MI CALMA\)](https://open.spotify.com/track/74nIJUv2Q3uUqgQQYHHu8n) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [IL BUIO \(MI CALMA\)](https://open.spotify.com/album/6ZLAvAQ6LmWeF7RinL9FgV) | 2:46 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 177 | [2 o 3 Minuti](https://open.spotify.com/track/5FiQGZTxFTt6WvS4Ux30sy) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 3:05 |
 | 178 | [ONLINE](https://open.spotify.com/track/0C6Vljd26BeeLlQWQylLz5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:13 |
 | 179 | [Crocefisso](https://open.spotify.com/track/1QcuCNj4hNFyRNaqvazuSN) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:54 |
-| 180 | [Antidoto](https://open.spotify.com/track/2TjbA4cbxicD2JlCWNC27d) | [UNO](https://open.spotify.com/artist/1NLsoj0FUUQh3Vm34Ji4nS) | [Antidoto](https://open.spotify.com/album/1NcnAWVkPQOYUxdJa5fpZx) | 2:46 |
-| 181 | [Blank](https://open.spotify.com/track/0FqfiePOpYPAbzfxgusZBh) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R) | [Bloom](https://open.spotify.com/album/5rZR4RN5PQnbhlhYb2Yauf) | 2:29 |
+| 180 | [Blank](https://open.spotify.com/track/0FqfiePOpYPAbzfxgusZBh) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R) | [Bloom](https://open.spotify.com/album/5rZR4RN5PQnbhlhYb2Yauf) | 2:29 |
+| 181 | [Antidoto](https://open.spotify.com/track/2TjbA4cbxicD2JlCWNC27d) | [UNO](https://open.spotify.com/artist/1NLsoj0FUUQh3Vm34Ji4nS) | [Antidoto](https://open.spotify.com/album/1NcnAWVkPQOYUxdJa5fpZx) | 2:46 |
 | 182 | [FEMME FATALE](https://open.spotify.com/track/38meGgUo3fx6HRuBSzlKtx) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:25 |
 | 183 | [Incubi](https://open.spotify.com/track/1a8LhS7N0s1HOjJVKlNW31) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:18 |
 | 184 | [Plenilunio](https://open.spotify.com/track/6nk1EJmN8Wtm6X104qRXFA) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [DeLorean](https://open.spotify.com/album/21Wru2PDE6gegfc1RBuSyn) | 2:58 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 | 198 | [Victoria's Secret](https://open.spotify.com/track/0qlfvwLYOxLs0pPktzqSmV) | [John's Saxophone](https://open.spotify.com/artist/5017jdzBcgvmdHLGkWwRZY) | [My Favorite Songs, International Hits 2025](https://open.spotify.com/album/6j1ufpqyRZqJp84UMigIXc) | 3:20 |
 
-Snapshot ID: `AcgiggAAAABys18oo/scII73tCQcSXFs`
+Snapshot ID: `AcgoXgAAAAAho2WBuqcjSlEzof9EqNLG`

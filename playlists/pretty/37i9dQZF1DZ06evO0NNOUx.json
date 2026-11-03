@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 220064,
+  "num_followers": 220182,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAADmVwEIeEoYxjH5FJ/Y/gDC",
+  "snapshot_id": "auaBAAAAAAAlwxmw0ZJWwz7SxB42QgDN",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "NOTHING ELSE",
-      "url": "https://open.spotify.com/track/10ngdDwCfjLTdFqDnkE2Jg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRAISES (remix)",
         "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 170353,
       "name": "PRAISES (remix)",
       "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "NOTHING ELSE",
+      "url": "https://open.spotify.com/track/10ngdDwCfjLTdFqDnkE2Jg"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 135975,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 156583,
       "name": "SUNRISE",
       "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 135975,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 133944,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOW KEY",
         "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 150485,
       "name": "LOW KEY",
       "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 133944,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 157155,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOMEBODY PRAYED",
         "url": "https://open.spotify.com/album/68Jhhl9zyFSKYaleHuTbJd"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 301584,
       "name": "SOMEBODY PRAYED",
       "url": "https://open.spotify.com/track/0jjnC0eVyhRRYfXLjBYFmg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 157155,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 163796,
+      "name": "Go Tell It",
+      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEMONADE (FOLK)",
         "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 183532,
       "name": "LEMONADE (FOLK)",
       "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 163796,
-      "name": "Go Tell It",
-      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE JESUS GENERATION",
-        "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 255197,
-      "name": "THE JESUS GENERATION",
-      "url": "https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 146613,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE JESUS GENERATION",
+        "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 255197,
+      "name": "THE JESUS GENERATION",
+      "url": "https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KEEP IT SIMPLE",
-        "url": "https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "KEEP IT SIMPLE",
-      "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 155067,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KEEP IT SIMPLE",
+        "url": "https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "KEEP IT SIMPLE",
+      "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
     },
     {
       "added_at": null,

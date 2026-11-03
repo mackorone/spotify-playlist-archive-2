@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Ghostly Kisses",
-  "num_followers": 1150385,
+  "num_followers": 1150380,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Bad Dream (Alternate Version)",
-        "url": "https://open.spotify.com/album/3Xh6tD8rBPCM470xDVZc11"
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
       },
       "artists": [
         {
-          "name": "Flower Face",
-          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 233478,
-      "name": "Bad Dream - Alternate Version",
-      "url": "https://open.spotify.com/track/6NtuOaVGMCYLHWTEOQ92tU"
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Husk",
-        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+        "name": "Bad Dream (Alternate Version)",
+        "url": "https://open.spotify.com/album/3Xh6tD8rBPCM470xDVZc11"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
         }
       ],
-      "duration_ms": 204651,
-      "name": "Husk",
-      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+      "duration_ms": 233478,
+      "name": "Bad Dream - Alternate Version",
+      "url": "https://open.spotify.com/track/6NtuOaVGMCYLHWTEOQ92tU"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -907,6 +907,22 @@
       "duration_ms": 229113,
       "name": "Taking Over The Sun",
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -939,22 +955,6 @@
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
         "name": "Alright, alright",
         "url": "https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 151011,
       "name": "Alright, alright",
       "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
-      },
-      "artists": [
-        {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        }
-      ],
-      "duration_ms": 193478,
-      "name": "July",
-      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "Joker & Rainbow",
         "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Ordinary, Extraordinary",
-        "url": "https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm"
+        "name": "July",
+        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Ordinary, Extraordinary",
-      "url": "https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd"
+      "duration_ms": 193478,
+      "name": "July",
+      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -1371,6 +1355,22 @@
       "duration_ms": 157567,
       "name": "Cherry Red Balloon",
       "url": "https://open.spotify.com/track/1fvDKiM3cQ0L4fYBbqfB0q"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "Ordinary, Extraordinary",
+        "url": "https://open.spotify.com/album/2jE0K3sXDhqkzaDXm3kcEm"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Ordinary, Extraordinary",
+      "url": "https://open.spotify.com/track/6NWc5cS7mmwRqSy9fviIMd"
     },
     {
       "added_at": "2026-10-23 20:48:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-10-23 20:48:23",
       "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
-    },
-    {
-      "added_at": "2026-10-23 20:48:23",
-      "album": {
         "name": "If Only With You",
         "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 194388,
       "name": "If Only With You",
       "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
+    },
+    {
+      "added_at": "2026-10-23 20:48:23",
+      "album": {
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
     },
     {
       "added_at": "2026-10-23 20:48:23",

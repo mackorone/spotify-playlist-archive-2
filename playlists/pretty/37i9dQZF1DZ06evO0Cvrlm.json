@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 600081,
+  "num_followers": 600120,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAABA6O2IDB2XYCHt4Ob4ZYvk",
+  "snapshot_id": "auUvgAAAAAD9/IC6pHeRlNdFYqAsxrEK",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 230893,
-      "name": "Too Funky - Single Edit",
-      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
+      "duration_ms": 289996,
+      "name": "Waiting for That Day - Remastered",
+      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 289996,
-      "name": "Waiting for That Day - Remastered",
-      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
+      "duration_ms": 230893,
+      "name": "Too Funky - Single Edit",
+      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 276418,
+      "name": "You Know That I Want To",
+      "url": "https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 245533,
       "name": "If I Told You That (feat. George Michael) - Radio Edit",
       "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 276418,
-      "name": "You Know That I Want To",
-      "url": "https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 355733,
-      "name": "Round Here",
-      "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 242493,
       "name": "Wild Is the Wind",
       "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 355733,
+      "name": "Round Here",
+      "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Easier Affair",
-        "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "An Easier Affair",
-      "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 263506,
       "name": "Brother Can You Spare a Dime?",
       "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Easier Affair",
+        "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "An Easier Affair",
+      "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
     },
     {
       "added_at": null,

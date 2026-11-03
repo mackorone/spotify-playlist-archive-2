@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 798 songs - 2 day 3 hr 42 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 800 songs - 2 day 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -806,5 +806,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 796 | [Only Girl](https://open.spotify.com/track/1IjFsLye5xTyYD3UkMXPCR) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 3:36 |
 | 797 | [Posters](https://open.spotify.com/track/7CSEImi7wq3uzOIg1go5Yj) | [Jeffrey Lewis DNU](https://open.spotify.com/artist/4HAZsKeTudGsYd978p7BKy), [Jack Lewis](https://open.spotify.com/artist/6RTpX8f2rtG20Z7GAyZbfq) | [City & Eastern Songs](https://open.spotify.com/album/6LprZiFVkf1egB6zr0W2SZ) | 2:55 |
 | 798 | [Pool Party](https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 4:15 |
+| 799 | [The thing](https://open.spotify.com/track/5R56hCdQMPGW4XXNoCqMK9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Jazz dreams](https://open.spotify.com/album/04vD00822fgNjeKsJTldbT) | 2:08 |
+| 800 | [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 |
 
-Snapshot ID: `AAAJ5ZJaEXnZfmufQCNQgNHl16gRMPwr`
+Snapshot ID: `AAAJ5/GxWyYEsVyXwdAPzk/znJmLnj9S`

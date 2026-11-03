@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Eechuu",
-  "num_followers": 42177,
+  "num_followers": 42182,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIKdwxWq+y65IgbDajKBNygHxcq1",
+  "snapshot_id": "AAAAAJ/6nTDfhTJfwoVDx01ho4VFB8rY",
   "tracks": [
     {
       "added_at": "2026-10-12 12:39:20",
@@ -71,6 +71,26 @@
       "duration_ms": 287222,
       "name": "Narayana Narayana",
       "url": "https://open.spotify.com/track/5uCQ3xl1mH7idU4rie8V5A"
+    },
+    {
+      "added_at": "2026-11-02 14:19:58",
+      "album": {
+        "name": "Kadakkannin Idayil",
+        "url": "https://open.spotify.com/album/4QQNaIfeVYAFg1TJKAaPhP"
+      },
+      "artists": [
+        {
+          "name": "Advaith R Rajesh",
+          "url": "https://open.spotify.com/artist/4WzW0JQpCI9fzZoyKVM036"
+        },
+        {
+          "name": "Shameem Rahman",
+          "url": "https://open.spotify.com/artist/0M8o9X2xeOhE2MiTfCqkfA"
+        }
+      ],
+      "duration_ms": 210419,
+      "name": "Kadakkannin Idayil",
+      "url": "https://open.spotify.com/track/3cIL49ktqnCoFJkeSrHx4o"
     },
     {
       "added_at": "2026-08-07 10:43:41",
@@ -255,6 +275,34 @@
       "duration_ms": 254086,
       "name": "Theeraa Theeraa - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/0xv8wzSoazfqMH4r38jjRD"
+    },
+    {
+      "added_at": "2026-11-02 14:00:19",
+      "album": {
+        "name": "Mizhiyithal",
+        "url": "https://open.spotify.com/album/5mkXTYcCxFp5rl4edX4XZV"
+      },
+      "artists": [
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        },
+        {
+          "name": "Jyotsna Radhakrishnan",
+          "url": "https://open.spotify.com/artist/4PGsgCRwejakZOHdf36Xum"
+        },
+        {
+          "name": "Binoj Antony",
+          "url": "https://open.spotify.com/artist/6gV26W9IIZNI4camhrpw04"
+        },
+        {
+          "name": "Nitheesh Ottapalam",
+          "url": "https://open.spotify.com/artist/00QmqFlgBAtNBejtBbulIN"
+        }
+      ],
+      "duration_ms": 250058,
+      "name": "Mizhiyithal",
+      "url": "https://open.spotify.com/track/2LYVgCTac1IW1gJZz9HRHs"
     },
     {
       "added_at": "2026-10-13 12:16:52",

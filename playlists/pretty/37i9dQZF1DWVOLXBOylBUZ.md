@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de La Cruz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,010 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,991 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 24 | [Feeling](https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Feeling](https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo) | 2:53 |
 | 25 | [OH OH](https://open.spotify.com/track/4OrFa5fWt37aEkheXZfcP0) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [OH OH](https://open.spotify.com/album/3jYVHtbPLYtgvsSqpcHNM7) | 1:41 |
 | 26 | [tu eres lo q pido](https://open.spotify.com/track/0UaLB8eAXmBboZOxp6Bxa4) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [Josa El Menor](https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [YNTRO](https://open.spotify.com/album/2Kie1bHmEHO470UxUmKwKD) | 3:50 |
-| 27 | [descontrol](https://open.spotify.com/track/5BimcGZWyx0ArOozA1niJK) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [descontrol](https://open.spotify.com/album/32jcEzD0UzYJLij6xNHMT7) | 2:12 |
+| 27 | [descontrol \(feat\. Ruzzo Doblezz\)](https://open.spotify.com/track/5BimcGZWyx0ArOozA1niJK) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [descontrol \(feat\. Ruzzo Doblezz\)](https://open.spotify.com/album/32jcEzD0UzYJLij6xNHMT7) | 2:12 |
 | 28 | [Tropical](https://open.spotify.com/track/5xHGXnZFyo3Ffgq08Owe2B) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Los Compas](https://open.spotify.com/artist/0p7iJs5QwLKfKmA2f7XRIg) | [Los Compas](https://open.spotify.com/album/3lSE90CRW0qGJVbTCO6YkP) | 3:08 |
 | 29 | [MI EX](https://open.spotify.com/track/363f2yu0W2nJZPRqCh7i5P) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [MI EX](https://open.spotify.com/album/4qQzvBTaaFB3ZGPZzG8TFv) | 3:43 |
 | 30 | [La Más Rika](https://open.spotify.com/track/3eIhjAdYTPIacTss3HGrz6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Más Rika](https://open.spotify.com/album/5Ux3yqgehYSnOZNwHTIF6q) | 2:26 |

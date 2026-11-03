@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-294 songs - 14 hr 12 min
+295 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/album/6h7bRxq7UfqGA1xZDPJe3S) | 3:22 | 2026-03-19 |  |
 | [Wanna Rock](https://open.spotify.com/track/33PX42yfwXnmeowcZktYmL) | [Sebastian Bronk](https://open.spotify.com/artist/4Iau0oBg23all6HbsD98lm) | [Revealed Recordings presents ADE Sampler 2023](https://open.spotify.com/album/0DB4352TIbGPGz1gSkENN8) | 2:43 | 2025-07-04 | 2025-08-26 |
 | [We Are Free](https://open.spotify.com/track/36vCzShuqcVtAikqtpPTmT) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [We Are Free](https://open.spotify.com/album/3PynmYXtpWvXeiabyyBH6k) | 2:42 | 2025-07-04 | 2026-06-12 |
+| [We Bring The Noise](https://open.spotify.com/track/4QQDBxasDo7jSEvE0jR4el) | [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG) | [We Bring The Noise](https://open.spotify.com/album/0D6OBtc2eYLvp3BAA6cUdF) | 2:57 | 2026-11-02 |  |
 | [We Can't Stop](https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [We Can't Stop](https://open.spotify.com/album/27LVMe5wMsHddairHoCux2) | 2:02 | 2025-07-04 |  |
 | [We Come As One](https://open.spotify.com/track/02Eg51HAwz1JmK4yPxV4ui) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [We Come As One](https://open.spotify.com/album/1YbMdMt6TsASotL4jueGGG) | 2:55 | 2026-04-02 |  |
 | [We Don't Care \- SaberZ Remix](https://open.spotify.com/track/0ZP7z0N7Fui5YWs6g1kHYF) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [We Don’t Care \(Incl\. SaberZ Remix\)](https://open.spotify.com/album/2ZhZGTgIcuySWBOYqQwK1X) | 3:10 | 2025-07-04 | 2026-06-12 |

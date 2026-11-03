@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: دنيا سمير غانم
 
-572 songs - 1 day 9 hr 37 min
+575 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 | 2025-12-30 | 2026-07-07 |
 | [El Lazaza](https://open.spotify.com/track/7aFoVkwQUxxwhwcRG4eV3i) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [El Lazaza](https://open.spotify.com/album/1dCroOEz97iq3QptK2npvy) | 2:25 | 2026-07-22 |  |
 | [El Leil W Akhro](https://open.spotify.com/track/6aoeesnYf7OKyklgurTlJe) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML), [Haneen](https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO) | [El Leil W Akhro](https://open.spotify.com/album/36aCslpZ40BFWsgNMzvfUs) | 3:12 | 2026-09-15 |  |
+| [El Nasseb](https://open.spotify.com/track/1UODPCsyI5VODEF7OQFssM) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Nasseb](https://open.spotify.com/album/446jBWjI5udkOigAH1pepE) | 3:55 | 2026-11-02 |  |
 | [El Okd](https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [El Okd](https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj) | 3:38 | 2023-08-20 | 2023-08-22 |
 | [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 | 2023-07-17 | 2023-08-03 |
 | [El Shai Ya Baba](https://open.spotify.com/track/1pvw0dOj7Qb2AFfLCHMpEo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Shai Ya Baba](https://open.spotify.com/album/1pKHGbTySdT8rfCwyUrRtL) | 3:15 | 2026-09-08 |  |
@@ -497,6 +498,7 @@
 | [غبي](https://open.spotify.com/track/4Xp2xAmjjGvMsmPwoz5aBR) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [غبي](https://open.spotify.com/album/5KwZPofeqoAFmkUTZzZ8jo) | 4:05 | 2026-07-06 | 2026-07-23 |
 | [غلبان](https://open.spotify.com/track/0dRTAnQLjml9xfFKQDCGfQ) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [شايفه فيك](https://open.spotify.com/album/6ylllDswM090TsaEqRXsci) | 3:21 | 2023-01-10 | 2023-07-12 |
 | [فداك قلبي](https://open.spotify.com/track/4kN86TEMDlCeqJs2mnY6NY) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [فداك قلبي](https://open.spotify.com/album/6yqG7ieUJFEpx48tpWRd9E) | 3:09 | 2026-07-06 | 2026-09-04 |
+| [فضيتها سيرة](https://open.spotify.com/track/2lc5LEUqT7TfMzDRDSxbdb) | [Mohamed Elsherbeny](https://open.spotify.com/artist/3M6stCLNFckDzvdJjohX7n) | [فضيتها سيرة](https://open.spotify.com/album/7wCXLqy1DHcGZZ5k12rGoW) | 2:49 | 2026-11-02 |  |
 | [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-01-06 | 2026-04-09 |
 | [في بالي](https://open.spotify.com/track/3n2pKLjes1ZeItC7au8BSw) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [في بالي](https://open.spotify.com/album/3VKqDho2Cc2w6vUtn6EsiW) | 3:15 | 2024-02-06 | 2024-07-30 |
 | [فين يوجعك](https://open.spotify.com/track/5SidQCdkoN5BzwjVn4NIHr) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [فين يوجعك](https://open.spotify.com/album/7J5WKHFeaBYGicmpajsi7f) | 3:34 | 2025-12-30 | 2026-07-07 |
@@ -523,6 +525,7 @@
 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 | 2025-01-27 | 2026-07-07 |
 | [لون الخمري](https://open.spotify.com/track/7480cSKe72OV1YiOQxBT6o) | [Aziz Abdo](https://open.spotify.com/artist/5Zf07Fg6LMGVw3jPoRlvVM) | [لون الخمري](https://open.spotify.com/album/7CKitMR6eBgGQzf0eBjbXl) | 3:06 | 2026-07-06 | 2026-08-07 |
 | [لينا معاد](https://open.spotify.com/track/2w4mJijrR9euogYlaq8H2R) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [لينا معاد](https://open.spotify.com/album/1PiNzyKUgo41ZnStM6EEY6) | 4:02 | 2025-07-17 | 2026-07-07 |
+| [ليه بنعاند](https://open.spotify.com/track/2JZMPHkVZgZZtLQvONW53r) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [ليه بنعاند](https://open.spotify.com/album/2TSiXm8uO4cSit5EgpjvA2) | 3:01 | 2026-11-02 |  |
 | [ليه طله](https://open.spotify.com/track/0VFtgOhZaR1btlkiOXgqM0) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [عشأنجي](https://open.spotify.com/album/0aAeot09E8YZwHc7rsg90Y) | 3:13 | 2023-01-10 | 2023-07-12 |
 | [ما تراعي قلبي](https://open.spotify.com/track/1jbrFDkwHAyHsleQB7GMhW) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [ما تراعي قلبي](https://open.spotify.com/album/6ZkiZSFTNOBC4Xs9wQ0R2f) | 3:29 | 2026-08-27 | 2026-10-23 |
 | [ما تيجي نركن الزعل](https://open.spotify.com/track/6SV1CubigxqGfvoSU6uCEV) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [ما تيجي نركن الزعل](https://open.spotify.com/album/032M5b75DmWMAnquK16IGN) | 3:08 | 2025-02-18 | 2026-07-07 |

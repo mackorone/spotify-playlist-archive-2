@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu"
+    },
+    {
+      "album": {
         "name": "ACT RIGHT",
         "url": "https://open.spotify.com/album/4GHFjmhUZkJfE6kuIJWQuk"
       },

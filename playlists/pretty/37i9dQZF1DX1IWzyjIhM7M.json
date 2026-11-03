@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10543,
+  "num_followers": 10546,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -623,18 +623,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+        "name": "Blue Voyage",
+        "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
       },
       "artists": [
         {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "REIA",
+          "url": "https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6"
         }
       ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+      "duration_ms": 254080,
+      "name": "Blue Voyage",
+      "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -655,22 +659,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Blue Voyage",
-        "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
       },
       "artists": [
         {
-          "name": "SERAPHINE NOIR",
-          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
-        },
-        {
-          "name": "REIA",
-          "url": "https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6"
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Blue Voyage",
-      "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Stone Killer",
-        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
-      },
-      "artists": [
-        {
-          "name": "26fix",
-          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Stone Killer",
-      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 190474,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Stone Killer",
+        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
+      },
+      "artists": [
+        {
+          "name": "26fix",
+          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Stone Killer",
+      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "I Keep My Feet on the Fragile Plane",
-        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 125199,
-      "name": "Making Sense Of",
-      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Gulabi",
         "url": "https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 165436,
       "name": "Gulabi",
       "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "I Keep My Feet on the Fragile Plane",
+        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 125199,
+      "name": "Making Sense Of",
+      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Supply/Demand",
-        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pit",
-          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Supply/Demand",
-      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "setar rock",
         "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 240250,
       "name": "setar rock",
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pit",
+          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Supply/Demand",
+      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "When i'm blue",
-        "url": "https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC"
-      },
-      "artists": [
-        {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "When i'm blue",
-      "url": "https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Once Upon The End",
         "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 279183,
       "name": "Once Upon The End",
       "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "When i'm blue",
+        "url": "https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "When i'm blue",
+      "url": "https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY"
       },
       "artists": [
         {
-          "name": "FiFi Zhang",
-          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
+          "name": "Tha Boy Myles",
+          "url": "https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5"
         }
       ],
-      "duration_ms": 182828,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
+      "duration_ms": 180636,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/49ST93zDICBoe4noumugsa"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
       },
       "artists": [
         {
-          "name": "Tha Boy Myles",
-          "url": "https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5"
+          "name": "FiFi Zhang",
+          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
         }
       ],
-      "duration_ms": 180636,
-      "name": "Express",
-      "url": "https://open.spotify.com/track/49ST93zDICBoe4noumugsa"
+      "duration_ms": 182828,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
     },
     {
       "added_at": "2024-01-10 16:06:35",

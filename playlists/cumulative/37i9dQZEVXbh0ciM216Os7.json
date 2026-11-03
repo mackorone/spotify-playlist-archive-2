@@ -2937,6 +2937,28 @@
     },
     {
       "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "ALFOMBRA VOLADORA",
+      "url": "https://open.spotify.com/track/7nbFHnFTfWYQICBBtKmrLf"
+    },
+    {
+      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -24513,6 +24535,28 @@
     },
     {
       "album": {
+        "name": "HIGH ROLLER",
+        "url": "https://open.spotify.com/album/1VOuYdIu9zEIqOFhM4IKYl"
+      },
+      "artists": [
+        {
+          "name": "FLVR",
+          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120424,
+      "name": "Firing Squad",
+      "url": "https://open.spotify.com/track/0H8wh7KfFJwgnMNhTISvy4"
+    },
+    {
+      "album": {
         "name": "The Call That Never Ended, Pt. 1",
         "url": "https://open.spotify.com/album/01CTkUKTpiRO6XCAoJH9F4"
       },
@@ -30836,7 +30880,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 200487,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/4Ir8aHokqildeFFR9xA7Oe"
@@ -47574,7 +47618,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 215640,
       "name": "Mission Of Love",
       "url": "https://open.spotify.com/track/2L0MrJLBmAvtMMSdfdje2X"
@@ -54464,6 +54508,32 @@
       "duration_ms": 172076,
       "name": "Ottomans",
       "url": "https://open.spotify.com/track/3crUmnbeVLEhkfjbX2GHLU"
+    },
+    {
+      "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Our Love Is Alive (feat. Suzanne Ciani & Barry Can't Swim)",
+      "url": "https://open.spotify.com/track/6WBaphmlacrNz0dE5p76ld"
     },
     {
       "album": {
@@ -79764,7 +79834,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-03",
       "duration_ms": 131920,
       "name": "Vida (feat. Erick the Architect)",
       "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"

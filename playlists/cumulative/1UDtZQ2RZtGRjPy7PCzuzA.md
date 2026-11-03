@@ -4,7 +4,7 @@
 
 > 
 
-2,257 songs - 5 day 10 hr 41 min
+2,258 songs - 5 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1731,6 +1731,7 @@
 | [ST\. PERCY](https://open.spotify.com/track/3wE9jU1zReHLMHLgAsWIYX) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:30 | 2026-09-02 |  |
 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 | 2025-01-26 | 2026-01-05 |
 | [STAR](https://open.spotify.com/track/1xfFPJdRjgDAaMcDgbXwyh) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION](https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm) | 2:41 | 2026-09-19 |  |
+| [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2026-11-02 |  |
 | [Starlight](https://open.spotify.com/track/7MecVsMj22MneZt7kVFaCr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 3:37 | 2025-05-31 |  |
 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 | 2025-06-27 |  |
 | [Starving Artist](https://open.spotify.com/track/6lk9hmkWrSUkw4wqshBTwo) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:00 | 2026-09-13 |  |

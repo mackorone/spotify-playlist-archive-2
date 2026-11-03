@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 29 | [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 |
 | 30 | [Strawberry](https://open.spotify.com/track/26dJcg1z7uYU67eFr2xN4w) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 3:33 |
 
-Snapshot ID: `auUvgAAAAAA45R8XLRQvLHNbRcR3wCo4`
+Snapshot ID: `auaBAAAAAAAESy0Bl30yje/l4ebe6Q5M`
