@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,276 songs - 3 day 5 hr 28 min
+1,277 songs - 3 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1222,7 +1222,8 @@
 | [WELCOME2DTQ](https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [WELCOME2DTQ](https://open.spotify.com/album/1coaR0jupZjPePYu3AkFQP) | 2:59 | 2023-09-16 | 2024-03-26 |
 | [Weng Weng](https://open.spotify.com/track/6740F9FsmpoNCjbOchwM8o) | [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [Gaspari](https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi) | [Weng Weng](https://open.spotify.com/album/6OtupUNjShdvKageqJHimo) | 3:39 | 2026-09-24 |  |
 | [Wet The Bed \(feat\. Ludacris\)](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:26 | 2022-12-09 | 2023-02-27 |
-| [What If I Call](https://open.spotify.com/track/3zBdVzYsuqVPyMk1YFiPcg) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [What If I Call](https://open.spotify.com/album/4yazxGFraz7lO9omZNEues) | 2:40 | 2026-08-13 |  |
+| [What If I Call](https://open.spotify.com/track/3B2e0XzWs6DdB5UCOAYzQ2) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [What If I Call](https://open.spotify.com/album/4NIxQ2s5Y4v5ImECTzkFU2) | 2:40 | 2026-11-03 |  |
+| [What If I Call](https://open.spotify.com/track/3zBdVzYsuqVPyMk1YFiPcg) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [What If I Call](https://open.spotify.com/album/4yazxGFraz7lO9omZNEues) | 2:40 | 2026-08-13 | 2026-11-04 |
 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 | 2026-06-07 | 2026-06-19 |
 | [What is Love?](https://open.spotify.com/track/5Ek40FyMPprcvtyZDjqylX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/4JRX1T8VKbEMvTtnQXnLYM) | 3:28 | 2021-07-15 | 2021-07-28 |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-05-20 | 2023-08-27 |

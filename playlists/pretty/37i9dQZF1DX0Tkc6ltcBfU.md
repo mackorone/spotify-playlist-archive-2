@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Young Nudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,927 likes - 102 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,830 likes - 102 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 101 | [What We On \(with Don Toliver\)](https://open.spotify.com/track/5euOEb5B1ALxnB06Oto5d8) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 3:58 |
 | 102 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 |
 
-Snapshot ID: `AAAAAJ2aPnvSznCT+v3rpZ0wyt0hMz+C`
+Snapshot ID: `AAAAAI7nyJewpotQIWEuBHvPRmeNxldq`

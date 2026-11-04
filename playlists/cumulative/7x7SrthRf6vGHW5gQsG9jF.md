@@ -4,7 +4,7 @@
 
 > 
 
-989 songs - 2 day 15 hr 35 min
+990 songs - 2 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,6 +947,7 @@
 | [稚魚の夢](https://open.spotify.com/track/0zBygbzlfhqH3xYrypB8kd) | [Kikuo feat\. si\_ku](https://open.spotify.com/artist/09YHTS3RVl5jJ8LQ8Pybb8) | [いきものの魂のゆくえ](https://open.spotify.com/album/3oyeILSYIp6nkBmwmc7dqw) | 5:13 | 2023-12-21 |  |
 | [笑っちゃったよな](https://open.spotify.com/track/3YzhRJ1uDu6w7Ey5JyHbB1) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 2:02 | 2025-03-14 |  |
 | [紫陽花の庭](https://open.spotify.com/track/6akOpGJcktIeKmtqK8LXdh) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 2:34 | 2023-12-27 |  |
+| [絶縁](https://open.spotify.com/track/4hTJX80GPyvoWHf720OegJ) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [友達がいました](https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq) | 6:30 | 2026-11-03 |  |
 | [綺麗な三角、朝日にんげん](https://open.spotify.com/track/0wkJyN5AQqh2uNSuFZfBa0) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [綺麗な三角、朝日にんげん](https://open.spotify.com/album/2IJowY1E7q1WzIsRTmshja) | 2:37 | 2024-01-18 |  |
 | [繋ぐ日の青](https://open.spotify.com/track/5pGZs7SwXzICfbboT7soBP) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [New Young City](https://open.spotify.com/album/0LplyvdRYizAysouFyvZxh) | 3:33 | 2023-12-12 |  |
 | [聖者たち](https://open.spotify.com/track/4KqsLRDsHTHCMhH5ktgc6K) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [聖者たち](https://open.spotify.com/album/4E6wdcx8giwIcXEhs8Jwxd) | 3:55 | 2024-02-04 |  |

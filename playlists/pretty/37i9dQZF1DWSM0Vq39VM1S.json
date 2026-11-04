@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388386,
+  "num_followers": 388374,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABhhTlTGFgzuhdvd2Lv4GU7FPJiy",
+  "snapshot_id": "AAAAAHR+37/wUw8MJ/1FVZg8W7aUCZNT",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:47",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2026-10-15 22:00:47",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-10-15 22:00:47",
       "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
-    },
-    {
-      "added_at": "2026-10-15 22:00:47",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-10-15 22:00:47",
+      "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
     },
     {
       "added_at": "2026-10-15 22:00:47",

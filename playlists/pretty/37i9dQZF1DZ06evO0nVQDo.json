@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAADLkXhZYPdJloGeXpwH/SAv",
+  "snapshot_id": "auaBAAAAAAD74vJtah+u7YnNqqYSG8gf",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 198620,
-      "name": "12:55 PM",
-      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
+      "duration_ms": 282545,
+      "name": "11:01 PM",
+      "url": "https://open.spotify.com/track/3TqfeqqdhRhZsGIE37pHSS"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 282545,
-      "name": "11:01 PM",
-      "url": "https://open.spotify.com/track/3TqfeqqdhRhZsGIE37pHSS"
+      "duration_ms": 198620,
+      "name": "12:55 PM",
+      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 60534,
-      "name": "Earth / Water",
-      "url": "https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ"
+      "duration_ms": 258000,
+      "name": "Air / Water",
+      "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 80888,
-      "name": "Air / Air",
-      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
+      "duration_ms": 60534,
+      "name": "Earth / Water",
+      "url": "https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 276266,
-      "name": "Shadow Spots",
-      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
+      "duration_ms": 267522,
+      "name": "Simple Walk",
+      "url": "https://open.spotify.com/track/3BZ0sNMJa1LRNGz6tpkZGS"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 344500,
-      "name": "2nd Wind",
-      "url": "https://open.spotify.com/track/12ywSB3U66OMMHE23p57uK"
+      "duration_ms": 172750,
+      "name": "Fielder",
+      "url": "https://open.spotify.com/track/6FD56LJ4nnfU1CAH4hVOzW"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 252857,
-      "name": "Air / Earth",
-      "url": "https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU"
+      "duration_ms": 276944,
+      "name": "Fire / Air",
+      "url": "https://open.spotify.com/track/3Dc4pQSPoxSFCorsvQMu4i"
     },
     {
       "added_at": null,
@@ -412,41 +412,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 267522,
-      "name": "Simple Walk",
-      "url": "https://open.spotify.com/track/3BZ0sNMJa1LRNGz6tpkZGS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recent Futures",
-        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 229625,
-      "name": "Vacant & Encouraging My Trophy Houseplant",
-      "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 276944,
-      "name": "Fire / Air",
-      "url": "https://open.spotify.com/track/3Dc4pQSPoxSFCorsvQMu4i"
+      "duration_ms": 276266,
+      "name": "Shadow Spots",
+      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
     },
     {
       "added_at": null,
@@ -463,6 +431,38 @@
       "duration_ms": 66000,
       "name": "You Have 3 New Telepathic Messages",
       "url": "https://open.spotify.com/track/3FMu8kzYmpw7pw84FcJY7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 80888,
+      "name": "Air / Air",
+      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recent Futures",
+        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 229625,
+      "name": "Vacant & Encouraging My Trophy Houseplant",
+      "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
     },
     {
       "added_at": null,

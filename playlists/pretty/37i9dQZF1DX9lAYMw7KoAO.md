@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,657 likes - 50 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,763 likes - 50 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 |
 | 50 | [JUBA](https://open.spotify.com/track/3y8fl4vQjkHjOaHc0nHmXU) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 3:01 |
 
-Snapshot ID: `AAAAALTtBF/f6CUyNcO38NM4y4I8rCPI`
+Snapshot ID: `AAAAAJwt59ojWUI3T4t4AHhgoSFG3yF6`

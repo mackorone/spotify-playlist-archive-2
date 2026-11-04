@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,515 likes - 69 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,556 likes - 69 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 21 | [Vieja Leyenda](https://open.spotify.com/track/7HXv9lRlRavCQ5kIF8bzoz) | [Federico Moreno Torroba](https://open.spotify.com/artist/1aVmFfdSgU2Gul9Tvdr0Ef), [Borbála Seres](https://open.spotify.com/artist/7qJBUQV54pgiiBm1VV4Fgp) | [Vieja Leyenda](https://open.spotify.com/album/6bbKWbchMKiz4IwkKWd4D4) | 2:19 |
 | 22 | [LakmÃ©: Flower Duet](https://open.spotify.com/track/10RYcLM6seFPApCHvxRoZ7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Reading and Studying](https://open.spotify.com/album/0UAfu361s41QtSeGArjPYq) | 1:28 |
 | 23 | [CARMEN](https://open.spotify.com/track/2yN0lB6tCkAduZJ9FnSF7N) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [CARMEN](https://open.spotify.com/album/1ghysw5wqx5sWEhTQJi1jr) | 8:21 |
-| 24 | [Hymne à l'amour \(Arr\. Dyens for Guitar\)](https://open.spotify.com/track/4SndSEWWh1uaiU6HyvQHHH) | [Marguerite Monnot](https://open.spotify.com/artist/1du2ve2XIWYeHHamxUT4cC), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Letters from Paris](https://open.spotify.com/album/1ze0PsI6mb4hDU7Hbbe5ob) | 3:20 |
+| 24 | [Hymne à l'amour \(Arr\. Dyens for Guitar\)](https://open.spotify.com/track/4SndSEWWh1uaiU6HyvQHHH) | [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Letters from Paris](https://open.spotify.com/album/1ze0PsI6mb4hDU7Hbbe5ob) | 3:20 |
 | 25 | [Sarabande for Guitar, FP 179](https://open.spotify.com/track/57kjlZb922AMJJKWCfpNLl) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Nash Ensemble](https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7) | [Poulenc: Complete Chamber Music](https://open.spotify.com/album/1wuDEkqo7hR06VieUrIGeB) | 2:46 |
 | 26 | [The Deer Hunter: Cavatina](https://open.spotify.com/track/0OjeJ8wBPo0AYTMbFp1QBI) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Jason Vieaux](https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO) | [Play](https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h) | 3:45 |
 | 27 | [Gabriel's Oboe \(From "The Mission"\) \- Arr\. for Guitar by Carlo Marchione](https://open.spotify.com/track/1HLPv4P8tJaL5Wj5bnZfXc) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Davide Giovanni Tomasi](https://open.spotify.com/artist/58vAMDCmcF6YPIEM54gEgK) | [Embers](https://open.spotify.com/album/72bo4VKcAc8pgYBJEX7JqZ) | 2:55 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 68 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Mario Castelnuovo\-Tedesco](https://open.spotify.com/artist/28c3Va3dnSLY1av3ym8XT2), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 |
 | 69 | [Exercise, Op\. 35: Study No\. 17 in D Major](https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16) | [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Sor: Fantasias Nos\. 7, 10, 13 / 24 Studies \(Excerpts\)](https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R) | 1:44 |
 
-Snapshot ID: `AAAAAO9M9atC3C0nkWj2F91dwtjSnXZE`
+Snapshot ID: `AAAAAD/2A9+e3fLVaSMNht+GCjksrRSc`

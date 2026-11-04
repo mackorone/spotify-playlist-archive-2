@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Jordan Davis, HARDY, Koe Wetzel with Stephen Wilson Jr\. and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,881 likes - 71 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,933 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 70 | [Now You Know Better](https://open.spotify.com/track/4SsFEP1IJBwxSi2oyAL9wO) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [New Her](https://open.spotify.com/album/5Hm8YnYwV37SGIK88Nl5GR) | 3:20 |
 | 71 | [Bloody Mary](https://open.spotify.com/track/6h1jbxFnYZwv1h9GXDYQ3V) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [Bloody Mary](https://open.spotify.com/album/4tOvTU8m4fhPOqSXrxz1MB) | 2:59 |
 
-Snapshot ID: `AAAAABQ2UEU2Hz5haAZUc+tZyg/Men2L`
+Snapshot ID: `AAAAAEcvIZHT2uI98N41xbgL5/4EIzAI`

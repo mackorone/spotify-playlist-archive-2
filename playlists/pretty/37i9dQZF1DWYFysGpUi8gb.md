@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring purple pilgrims
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,061 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,037 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 58 | [Something Else to Give](https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Something Else to Give](https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0) | 4:45 |
 | 59 | [Rolling Face](https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Rolling Face](https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H) | 5:09 |
 | 60 | [Isn't He Funny?](https://open.spotify.com/track/4RLCHXFRTWiAYUhdacWmSx) | [Big Red](https://open.spotify.com/artist/6BEEGVEK6XIrmqi64E66vC) | [Isn't He Funny?](https://open.spotify.com/album/4eyqwoo5mTFEGgyvaCTnDp) | 5:43 |
-| 61 | [Dancefloor Magic \- Groove Wizard](https://open.spotify.com/track/1l0ggF69SYlhSKOMNRGwzE) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Put On A Record Tommy \(Deluxe\)](https://open.spotify.com/album/4OnV97sJzdMyofvNehNKOV) | 3:48 |
+| 61 | [Dancefloor Magic \- Groove Wizard](https://open.spotify.com/track/1l0ggF69SYlhSKOMNRGwzE) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Put On A Record Tommy \- EP \(Deluxe\)](https://open.spotify.com/album/4OnV97sJzdMyofvNehNKOV) | 3:48 |
 | 62 | [Lightspeed](https://open.spotify.com/track/2niwAAhZV6Syj97ZHqSf3o) | [Spacestation](https://open.spotify.com/artist/0tC0VODFMyQLqetgajNbbh) | [Lightspeed](https://open.spotify.com/album/3jDNwiMlG1ANnNPCGispVz) | 3:44 |
 | 63 | [Bonny](https://open.spotify.com/track/7I2KJqvAvV909vi7w2LFOM) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Mount Zero](https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ) | 2:33 |
 | 64 | [Lay on Plastic Moment](https://open.spotify.com/track/6mOHiBCtC0EzimRRniKilA) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Lay on Plastic Moment](https://open.spotify.com/album/0jf6CKIbM42txOwkFOT9VB) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Buster](https://open.spotify.com/track/3aDbVibedUfG25q1PWD0Ay) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Shock Corridor](https://open.spotify.com/album/17gMcCILR3WdtxduhoSn98) | 4:22 |
 | 80 | [Tilapia](https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Oxis 9](https://open.spotify.com/album/5awexwsI3WGjVeU5TmhG7p) | 2:14 |
 
-Snapshot ID: `AAAAALFuDOXiCgCwqVi48CwxFuTEq8xp`
+Snapshot ID: `AAAAANjjqXzSibX1dFnxGJXSjyKYwDwL`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73939,
+  "num_followers": 73942,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACpdbKYOnKaGV9+iwZ3FbWvonwjO",
+  "snapshot_id": "AAAAAIxBsz4iIxjoP56MJZIgZ/oBrye5",
   "tracks": [
     {
       "added_at": "2024-08-05 06:00:58",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Dance Monkey",
-        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 209754,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN"
+      "duration_ms": 209754,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Love at First Sight",
-      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Bodyrockers",
         "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 200053,
       "name": "I Like The Way - Radio Edit",
       "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Slideshows",
         "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 218000,
       "name": "Plans",
       "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Off The Grid",
         "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
         }
       ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -927,22 +943,6 @@
       "duration_ms": 203213,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Thirty One",
         "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 234866,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "That's What I'm Talking About",
-        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
-      },
-      "artists": [
-        {
-          "name": "Shannon Noll",
-          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "What About Me",
-      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Lessons To Be Learned (Special Edition)",
         "url": "https://open.spotify.com/album/00fdw3tBe9l8qRBIm6Y1Ei"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 203280,
       "name": "Sweet About Me",
       "url": "https://open.spotify.com/track/6LTjAQf9JGZoVuLHJGUUlm"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "That's What I'm Talking About",
+        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
+      },
+      "artists": [
+        {
+          "name": "Shannon Noll",
+          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
     },
     {
       "added_at": "2024-08-05 06:00:58",

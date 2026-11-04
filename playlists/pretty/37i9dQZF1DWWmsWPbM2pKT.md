@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,242 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,357 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 49 | [FRENCH TIPS](https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [ESPERA](https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh) | 2:27 |
 | 50 | [Common Coffin](https://open.spotify.com/track/5eOMtsu5okb1yFtlBqAIn7) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Departed](https://open.spotify.com/album/1joLW4jRpV9ELUuZtzLiVp) | 3:00 |
 
-Snapshot ID: `AAAAAF3S6mxf29FT9hrykXxWWjLHzd96`
+Snapshot ID: `AAAAAPU89KJE5gLqoFxBlU4LNSTHdB3x`

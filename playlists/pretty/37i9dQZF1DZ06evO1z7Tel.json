@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 40568,
+  "num_followers": 40573,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAADhBb5QvMtGrvBA1HV4LsX3",
+  "snapshot_id": "auaBAAAAAAAPKgVNZ/6P6MJoiGA+Suve",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Los Federales De Caminos",
-      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Dulce Y Lo Amargo",
         "url": "https://open.spotify.com/album/1GiLhT7ASsEedLKoViDQOJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 142973,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/687VIkOLpnz5MX6jkd0nkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Los Federales De Caminos",
+      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Corrido De Gabino",
-      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Lujo",
         "url": "https://open.spotify.com/album/62O0ZTLYhSPhG2RSUsQJPZ"
       },
@@ -571,22 +555,6 @@
       "duration_ms": 219040,
       "name": "La Cuerva De La Petaca",
       "url": "https://open.spotify.com/track/2oCE2kA2Nx20OrtJDjoc4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "Dos Cruces En La Curva",
-      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,
@@ -607,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vienen Los Recuerdos",
-        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
       "artists": [
         {
@@ -616,9 +584,25 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 193600,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
+      "duration_ms": 227306,
+      "name": "Dos Cruces En La Curva",
+      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Corrido De Gabino",
+      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 147453,
       "name": "El Mandil\u00f3n",
       "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
     },
     {
       "added_at": null,

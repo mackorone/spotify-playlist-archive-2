@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,674 likes - 61 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,549 likes - 61 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [TOUR](https://open.spotify.com/track/5PvRXJzBqW8RzkYOB1u4Cv) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [LOS PLAYERS](https://open.spotify.com/album/6b10UwfCWClnSW138TjsEP) | 2:54 |
 | 61 | [Montuno](https://open.spotify.com/track/7kWyjafYpjKC2B2OvCGAvL) | [F.A.V.](https://open.spotify.com/artist/4YmGFUbISCk4YCJjbusoDQ), [Tino Amor](https://open.spotify.com/artist/7c99J3z4sOyIpRBgsfkCvi) | [AZÚCAR](https://open.spotify.com/album/2Iyyoupm5y9OFz0aBfZvxG) | 3:07 |
 
-Snapshot ID: `AAAAAEiUwBn/8He8mXRGCfaOF9UXy6V5`
+Snapshot ID: `AAAAALv6FvFO0b0MkdTp6oqIji7kg1ID`

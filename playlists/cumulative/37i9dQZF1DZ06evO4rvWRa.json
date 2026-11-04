@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/6B2vT37iq4UCzRyZP3068S"
+    },
+    {
+      "album": {
         "name": "Avem (The Aviation Theme)",
         "url": "https://open.spotify.com/album/7Cf1ov9ofReIxvRh5hkFPD"
       },
@@ -728,7 +750,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"

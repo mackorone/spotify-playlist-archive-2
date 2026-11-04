@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Advenire",
+        "url": "https://open.spotify.com/album/4IpDZfcs6XkD977bDaNTk4"
+      },
+      "artists": [
+        {
+          "name": "Slepth",
+          "url": "https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Advenire",
+      "url": "https://open.spotify.com/track/22Hu1yJ7APn6EGAXrKOaDw"
+    },
+    {
+      "album": {
         "name": "Aere Perrenius",
         "url": "https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y"
       },
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 147050,
       "name": "Another World",
       "url": "https://open.spotify.com/track/4UFG9vzQPI8ZZtya4rIEUy"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 198441,
       "name": "Ashari",
       "url": "https://open.spotify.com/track/6KGqnUHtivVjocueyVg1rV"
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 148363,
       "name": "Clouds Beneath",
       "url": "https://open.spotify.com/track/0KNodqc5PnG6hZYcVYUCYI"
@@ -5036,6 +5054,24 @@
       "duration_ms": 152583,
       "name": "Contentment",
       "url": "https://open.spotify.com/track/5ERFLJ0hgTIc8OlSC8jJlJ"
+    },
+    {
+      "album": {
+        "name": "Contentment Path",
+        "url": "https://open.spotify.com/album/01uGFkzaYA0m6BeZill0Dr"
+      },
+      "artists": [
+        {
+          "name": "Elliott Duncan",
+          "url": "https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157709,
+      "name": "Contentment Path",
+      "url": "https://open.spotify.com/track/4yCCYWIQ8mZIOUpq7RgWDz"
     },
     {
       "album": {
@@ -10198,7 +10234,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 145200,
       "name": "Guardiania",
       "url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2"
@@ -11530,7 +11566,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 159192,
       "name": "Ineffabile",
       "url": "https://open.spotify.com/track/35czu67QLUhIm9xhAnKuzC"
@@ -11944,7 +11980,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 176514,
       "name": "Intricate",
       "url": "https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC"
@@ -13388,7 +13424,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 184661,
       "name": "Lungs of the Planet",
       "url": "https://open.spotify.com/track/2143aXSdaX9SqEaZls2xzx"
@@ -13460,7 +13496,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 164000,
       "name": "Lyria",
       "url": "https://open.spotify.com/track/6vMuJ5Ksai6YewJFVEsJcK"
@@ -14432,7 +14468,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 172650,
       "name": "Moonlit Haze",
       "url": "https://open.spotify.com/track/3ILt8DOH9x1UzIKO7ofLQP"
@@ -15699,6 +15735,24 @@
     },
     {
       "album": {
+        "name": "Old Noise",
+        "url": "https://open.spotify.com/album/1EmGNYGEPUBrpLSr3j9P7K"
+      },
+      "artists": [
+        {
+          "name": "Hatchlings Calm",
+          "url": "https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Old Noise",
+      "url": "https://open.spotify.com/track/2QOlOJPssPd9Kj6A2bb7lb"
+    },
+    {
+      "album": {
         "name": "Ombroso",
         "url": "https://open.spotify.com/album/5Gorbr8wJ5Etvg272Ntz0E"
       },
@@ -16844,7 +16898,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 164305,
       "name": "Placid Interval",
       "url": "https://open.spotify.com/track/3rejhbJj7L7YG8dYkaq1Th"
@@ -17600,7 +17654,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 188000,
       "name": "Realization Blur",
       "url": "https://open.spotify.com/track/7J11u9tUvbQZ2tEb3vUNaG"
@@ -19958,7 +20012,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 137404,
       "name": "Slow Fall",
       "url": "https://open.spotify.com/track/1YtkMlAN0dDErdKmvAIR3R"
@@ -20196,6 +20250,24 @@
       "duration_ms": 155250,
       "name": "Soft Night",
       "url": "https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak"
+    },
+    {
+      "album": {
+        "name": "Soft Signal",
+        "url": "https://open.spotify.com/album/4WJB9ccJNATw5SSSwRm4Hp"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Soft Signal",
+      "url": "https://open.spotify.com/track/49oSlSmuv3zJwraoLfhkae"
     },
     {
       "album": {
@@ -20772,6 +20844,24 @@
       "duration_ms": 192448,
       "name": "South Path Deep Breath",
       "url": "https://open.spotify.com/track/3INKF2HjxXZcE5r45r8ypU"
+    },
+    {
+      "album": {
+        "name": "Space Lake",
+        "url": "https://open.spotify.com/album/7rF6AhkDSH5cADKGWbwFP9"
+      },
+      "artists": [
+        {
+          "name": "Celestial Whisperer",
+          "url": "https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Space Lake",
+      "url": "https://open.spotify.com/track/2Oz3VTuZf0iJVOV92FdAaV"
     },
     {
       "album": {
@@ -22864,10 +22954,28 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 134032,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/4RKK2JvJ4HcwVt9ZSYVlIT"
+    },
+    {
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/6SLSW7p29dRek3cBjXWKS7"
+      },
+      "artists": [
+        {
+          "name": "Amos Stovall",
+          "url": "https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/2vlQKDiizxSV5HumbIgtLk"
     },
     {
       "album": {
@@ -23951,6 +24059,24 @@
     },
     {
       "album": {
+        "name": "Warm Static Glow",
+        "url": "https://open.spotify.com/album/3Cuy83OfZ5Xu2jGLjKyfOJ"
+      },
+      "artists": [
+        {
+          "name": "M. Suremei",
+          "url": "https://open.spotify.com/artist/5BlPckrd8L7D9g7I3Xc66X"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Warm Static Glow",
+      "url": "https://open.spotify.com/track/0b4are62DXCnLFgfbIDd3R"
+    },
+    {
+      "album": {
         "name": "Warm Surface",
         "url": "https://open.spotify.com/album/7bYPzUyhM3NwM6lCzi82Ph"
       },
@@ -24214,7 +24340,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 176000,
       "name": "Where Silence Learns to Dream",
       "url": "https://open.spotify.com/track/1X9HdeMONCaAwsAiQogRJl"

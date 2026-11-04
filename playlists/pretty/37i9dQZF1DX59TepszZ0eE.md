@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,286 likes - 100 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,311 likes - 100 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion](https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S) | 8:55 |
 | 100 | [Uloyiko Lwami 2.0](https://open.spotify.com/track/2emoPu2M9pl2m30BESXX2J) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Siyakha Khitha](https://open.spotify.com/artist/70skg68CEMDXoJG2sv6wMe), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Uloyiko Lwami](https://open.spotify.com/album/2sg3JwDRtVuNg9SyREvnta) | 8:05 |
 
-Snapshot ID: `AAAAAEcL85lw2PAYXlxdjKaXGS112MBB`
+Snapshot ID: `AAAAAMPpHSFgIRil26ria0sdnrwl112d`

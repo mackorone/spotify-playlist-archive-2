@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,936 likes - 30 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,018 likes - 30 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [Tomorrow](https://open.spotify.com/track/0EWbCIe0CmNmSE55W1huLq) | [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [PA NGU](https://open.spotify.com/artist/6sMU60D1GkWWUbBRjt1xFO) | [Tomorrow](https://open.spotify.com/album/7pMvtoft0Jc906cQV7D4Ip) | 3:46 |
 | 30 | [Rift Valley \- 2026 Rework](https://open.spotify.com/track/2sKy3sbnArMST1tVIW8aQQ) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Rift Valley \(2026 Rework\)](https://open.spotify.com/album/7i2Y4z0OLEM5DlMtLe5Ncx) | 6:43 |
 
-Snapshot ID: `AAAAAH3Or0wkeCJMKZKre8cEY25Uue9U`
+Snapshot ID: `AAAAAFq+KqlLldbUWcDHmyS8GOz0t675`

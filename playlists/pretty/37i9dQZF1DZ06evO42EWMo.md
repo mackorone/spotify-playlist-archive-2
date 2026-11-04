@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,614 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,602 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 26 | [Monkey Man](https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:56 |
 | 27 | [Do Me Good](https://open.spotify.com/track/3EwxNAUKvuH5pmsTtXbo4Z) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(20th Anniversary Edition\)](https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH) | 4:19 |
 | 28 | [Help Yourself](https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 5:01 |
-| 29 | [Fuckery \- Me & Mr Jones / Original Demo](https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Fuckery \(Me & Mr Jones \- Original Demo\)](https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp) | 2:31 |
-| 30 | [Take The Box](https://open.spotify.com/track/1cYZfOVeTOSWNZe9liBa6h) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:20 |
+| 29 | [Take The Box](https://open.spotify.com/track/1cYZfOVeTOSWNZe9liBa6h) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:20 |
+| 30 | [Fuckery \- Me & Mr Jones / Original Demo](https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Fuckery \(Me & Mr Jones \- Original Demo\)](https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp) | 2:31 |
 | 31 | [Rehab \- Demo Version](https://open.spotify.com/track/6HygFcocG8OrWHVnxBXp6b) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Rehab \(Remixes & B Sides\)](https://open.spotify.com/album/59tk7qXLhxAKaWa5BghvGD) | 3:37 |
 | 32 | [Intro / Stronger Than Me](https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:54 |
 | 33 | [We're Still Friends \- Live At The Union Chapel](https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 2:55 |

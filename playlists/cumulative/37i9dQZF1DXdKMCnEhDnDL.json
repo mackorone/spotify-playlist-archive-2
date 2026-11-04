@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 201205,
       "name": "3.2.1.",
       "url": "https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF"
@@ -4778,7 +4778,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 170084,
       "name": "In Je Bed",
       "url": "https://open.spotify.com/track/5v78Fw0egMGlffUGn1pnb7"
@@ -5165,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Kleine Kans",
+        "url": "https://open.spotify.com/album/765keiBkbBudlWl6VESQGp"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Kleine Kans",
+      "url": "https://open.spotify.com/track/0kpnTV16wY5YPnUNjVARaE"
+    },
+    {
+      "album": {
         "name": "Kleine Vogel",
         "url": "https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ"
       },
@@ -5260,6 +5278,24 @@
       "duration_ms": 191357,
       "name": "Kom Je Me Halen",
       "url": "https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3"
+    },
+    {
+      "album": {
+        "name": "Kom Naar Huis",
+        "url": "https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl"
+      },
+      "artists": [
+        {
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "Kom Naar Huis",
+      "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
     },
     {
       "album": {
@@ -7918,7 +7954,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 166950,
       "name": "Samen",
       "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
@@ -8351,6 +8387,28 @@
     },
     {
       "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169852,
+      "name": "Spijt Komt Later",
+      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
+    },
+    {
+      "album": {
         "name": "Sprakeloos",
         "url": "https://open.spotify.com/album/0wvSyUbbI7uA3IDLmdcrHG"
       },
@@ -8362,7 +8420,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 145909,
       "name": "Sprakeloos",
       "url": "https://open.spotify.com/track/0phnbN8sTSUk1PSLLe1cic"
@@ -10136,6 +10194,28 @@
       "duration_ms": 239032,
       "name": "What Are You Waiting For?",
       "url": "https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX"
+    },
+    {
+      "album": {
+        "name": "What If I Told You",
+        "url": "https://open.spotify.com/album/2VeXDmD0M2LImNl3t3LwwA"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174407,
+      "name": "What If I Told You",
+      "url": "https://open.spotify.com/track/1vyW6Xjn8fWDJaMSKGIX7U"
     },
     {
       "album": {

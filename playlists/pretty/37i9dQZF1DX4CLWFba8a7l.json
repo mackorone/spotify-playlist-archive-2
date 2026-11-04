@@ -1,12 +1,12 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Sycco",
-  "num_followers": 139114,
+  "num_followers": 139107,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAeI/D35V5E2THiQrS5kZ5PRydz6",
+  "snapshot_id": "AAAAAPmbrq0OsCpOiR0MKDznP5+9yorm",
   "tracks": [
     {
       "added_at": "2026-10-22 13:01:12",
@@ -31,7 +31,7 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
       },
       "artists": [
@@ -57,7 +57,7 @@
         }
       ],
       "duration_ms": 224877,
-      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Piss In The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 154413,
-      "name": "Bluffin' (with The Kid LAROI)",
-      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/2d0ZL2C2YAUWejedK1dgBU"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 160011,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
+        "name": "Piss In The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 154413,
+      "name": "Bluffin' (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Pursuit of Anything",
-        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Lucky, Forever",
-      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
         "name": "BEFORE I FORGET (DELUXE)",
         "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 208640,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
-        "name": "Yearning",
-        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 173868,
-      "name": "Yearning",
-      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -895,6 +879,22 @@
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 173868,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
+        "name": "GODBREATH",
+        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 142187,
+      "name": "SO COOL",
+      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
         "name": "Every Single Weekend (feat. Jamie xx)",
         "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Things Take Time",
-        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Things Take Time",
-      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
         "name": "Love Love (Love Love)",
         "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "GODBREATH",
-        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
         }
       ],
-      "duration_ms": 142187,
-      "name": "SO COOL",
-      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Razor Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 364329,
-      "name": "Razor Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
         "name": "Carried Away",
         "url": "https://open.spotify.com/album/44lhdSDMItGwW0nsmXbioN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 200106,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/75F4TSKg87eYFHFKdnpN8s"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
         "name": "Swimming In Jeans",
         "url": "https://open.spotify.com/album/66K2nE9ch9gBmvn7E9Tyxf"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 208757,
       "name": "making out",
       "url": "https://open.spotify.com/track/5SQWCnd28UO4FrMwUYpQN5"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
-        "name": "GHOST WORLD",
-        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Something in the Water",
-        "url": "https://open.spotify.com/album/7oPD1sFHv0dsyTHgK7A4FF"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 227221,
-      "name": "Something in the Water - Single Version",
-      "url": "https://open.spotify.com/track/3AYcaeTecNpJGgcTZOzkXU"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
         "name": "The Biggest Dick",
         "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 163296,
       "name": "The Biggest Dick",
       "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
+        "name": "Something in the Water",
+        "url": "https://open.spotify.com/album/7oPD1sFHv0dsyTHgK7A4FF"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 227221,
+      "name": "Something in the Water - Single Version",
+      "url": "https://open.spotify.com/track/3AYcaeTecNpJGgcTZOzkXU"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/73agEe7EOBj973yHVERdiX"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
         "name": "A PERFECT WORLD",
         "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 187826,
       "name": "A PERFECT WORLD",
       "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/73agEe7EOBj973yHVERdiX"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
         "name": "Effortless",
         "url": "https://open.spotify.com/album/5aetSrrhTetpi8jXtxpcaW"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
       },
       "artists": [
         {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2026-10-22 13:01:12",
       "album": {
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
         "name": "Eastern Rosellas (Full Band)",
         "url": "https://open.spotify.com/album/2E7vjISA5i7yc8Pm4e8Qf5"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 99660,
       "name": "Eastern Rosellas - Full Band",
       "url": "https://open.spotify.com/track/44Uzl6Q8nNEsuvem75ZCPN"
-    },
-    {
-      "added_at": "2026-10-22 13:01:12",
-      "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-10-22 13:01:12",
@@ -1711,6 +1695,22 @@
       "duration_ms": 214956,
       "name": "I Used to Kill",
       "url": "https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm"
+    },
+    {
+      "added_at": "2026-10-22 13:01:12",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-10-22 13:01:12",

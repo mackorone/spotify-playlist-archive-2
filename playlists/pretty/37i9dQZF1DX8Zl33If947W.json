@@ -1,12 +1,12 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 213350,
+  "num_followers": 213399,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA1+5obfTsTrR0b8bkC4dpd+UNGH",
+  "snapshot_id": "AAAAANM68nqaGJtZSwR5nineNsAkR+eZ",
   "tracks": [
     {
       "added_at": "2026-03-26 08:28:03",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 169775,
       "name": "Wei\u00dfe Haare",
       "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Wenn Worte meine Sprache w\u00e4ren",
+        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
+      },
+      "artists": [
+        {
+          "name": "Tim Bendzko",
+          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Wenn Worte meine Sprache w\u00e4ren",
+      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "2012",
         "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Wenn Worte meine Sprache w\u00e4ren",
-        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
-      },
-      "artists": [
-        {
-          "name": "Tim Bendzko",
-          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Wenn Worte meine Sprache w\u00e4ren",
-      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Immer Nur An Dich",
-        "url": "https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC"
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
       "artists": [
         {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 117000,
-      "name": "Immer Nur An Dich",
-      "url": "https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk"
+      "duration_ms": 155577,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Du Fehlst",
-        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+        "name": "Immer Nur An Dich",
+        "url": "https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
         }
       ],
-      "duration_ms": 155577,
-      "name": "Du Fehlst",
-      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+      "duration_ms": 117000,
+      "name": "Immer Nur An Dich",
+      "url": "https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk"
     },
     {
       "added_at": "2026-03-26 08:28:03",

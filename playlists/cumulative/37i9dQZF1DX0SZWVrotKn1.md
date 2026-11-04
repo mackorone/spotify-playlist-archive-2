@@ -4,7 +4,7 @@
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-129 songs - 7 hr 37 min
+130 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Na De Na](https://open.spotify.com/track/5QgJjttIrNUiHCnpqlb05J) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Reyes del perreo](https://open.spotify.com/album/2yxCIICjEi443hROXHvwWa) | 3:22 | 2022-09-30 | 2022-11-14 |
 | [Na De Na](https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN) | 3:22 | 2022-02-11 |  |
 | [No Es Culpa Mía](https://open.spotify.com/track/0937oNIIoi0sDwjJ6z0Wnz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 1:47 | 2022-02-11 | 2024-04-19 |
-| [No Es Culpa Mía](https://open.spotify.com/track/4YAcCjGlRfpcFLyxiI54K7) | [DY](https://open.spotify.com/artist/1zqpsQPgYJM5lYlaaoIL7h) | [No Es Culpa Mía](https://open.spotify.com/album/6pa7ftXvhHJWLvuE4A5mLI) | 1:47 | 2021-09-24 |  |
+| [No Es Culpa Mía](https://open.spotify.com/track/4YAcCjGlRfpcFLyxiI54K7) | [DY](https://open.spotify.com/artist/1zqpsQPgYJM5lYlaaoIL7h) | [No Es Culpa Mía](https://open.spotify.com/album/6pa7ftXvhHJWLvuE4A5mLI) | 1:47 | 2021-09-24 | 2026-11-04 |
+| [No Es Culpa Mía \- Bonus Track](https://open.spotify.com/track/5QaMZslbtFs3rYQ43IlRe6) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/6R0fIFcUqDgQMyYdRWZJje) | 1:47 | 2026-11-03 |  |
 | [No Le Temas A Él \(feat\. Héctor & Tito\)](https://open.spotify.com/track/1eknj4ni0Cbswll0c5Fi3A) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:32 | 2021-09-24 | 2022-10-01 |
 | [No Necesito](https://open.spotify.com/track/75wlqiEzb6V0PbWyU66Va8) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Exitos](https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx) | 3:30 | 2021-09-24 | 2022-08-23 |
 | [No Se De Ella "My Space"](https://open.spotify.com/track/32SmDHzbqYRAhX9Jq4gDnT) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings \(Armageddon Edition\)](https://open.spotify.com/album/5P7eeivoVmpnalOUtwzj4h) | 3:42 | 2021-09-24 |  |

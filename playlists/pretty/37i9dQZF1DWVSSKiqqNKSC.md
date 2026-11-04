@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,825 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,853 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Disco Azúcar](https://open.spotify.com/track/7uQOfh1O1a6IA8g4VWFrd8) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Grandes Exitos, Juan Formell Y Los Van Van](https://open.spotify.com/album/4AWlWv6nqxy33XFDBv0aUo) | 5:24 |
 | 48 | [Mi Música](https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD) | [Grupo Danson](https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R), [Carlos Liban Pérez Alfonso](https://open.spotify.com/artist/3KtZLqXNVnn3C2JrZRZrQU), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Mia Birch Engsager](https://open.spotify.com/artist/6fAiZkXRxsbL2YFw950dfl), [Ernesto Manuitt Hernandez](https://open.spotify.com/artist/6shQLDgamKRDLKkysy9C5C), [Yasser Pino](https://open.spotify.com/artist/3yjnZbbWh736wux5a6jsH4), [Rune Thorsteinsson](https://open.spotify.com/artist/5xTi9OwHU2G7iNL1860DiS) | [Mi Música](https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs) | 6:08 |
 
-Snapshot ID: `AAAAABBUW4pVXxk5FmwgU+n5BCoK4WDd`
+Snapshot ID: `AAAAAGBDKp3aK+V4d6a5cYZkbDs2GKze`

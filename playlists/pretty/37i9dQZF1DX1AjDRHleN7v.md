@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,842 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,853 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 18 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
 | 19 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
 | 20 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
-| 21 | [ANA](https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 3:26 |
-| 22 | [Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Oh! Chuva \(Ao Vivo\)](https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK) | 3:14 |
+| 21 | [Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Oh! Chuva \(Ao Vivo\)](https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK) | 3:14 |
+| 22 | [ANA](https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 3:26 |
 | 23 | [Incenso \- Ao Vivo](https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva 20 Anos, Origem \- Ao Vivo](https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr) | 2:32 |
 | 24 | [Tudo Passará](https://open.spotify.com/track/3Sdd3cb8DyjzMSHO9tz9aX) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Tudo Passará](https://open.spotify.com/album/4ACgtyuRCkuwUV49eunX1y) | 2:30 |
 | 25 | [Denso e Danço](https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:37 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 41 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 |
 | 42 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 |
 | 43 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
-| 44 | [Aeroporto \- Acústico](https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Aeroporto \(Acústico\)](https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0) | 3:40 |
+| 44 | [Pura Ingratidão \- Ao Vivo](https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Pura Ingratidão \(Ao Vivo\)](https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf) | 4:18 |
 | 45 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
-| 46 | [Pura Ingratidão \- Ao Vivo](https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Pura Ingratidão \(Ao Vivo\)](https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf) | 4:18 |
+| 46 | [Aeroporto \- Acústico](https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Aeroporto \(Acústico\)](https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0) | 3:40 |
 | 47 | [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 |
 | 48 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
-| 49 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 |
-| 50 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
+| 49 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
+| 50 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 |
 | 51 | [O Amor Não Sabe Esperar](https://open.spotify.com/track/1RTmOom8bXMPkb9Q1OZiI8) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [O Amor Não Sabe Esperar](https://open.spotify.com/album/2Ua5qCOC8yTBRIPmqBZmnH) | 3:30 |
 | 52 | [Pele Morena](https://open.spotify.com/track/6KsZ1YezmFIAQPJwHQbaAw) | [DEKO](https://open.spotify.com/artist/4qVJiCr34ib52fsZdL4hoh), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pele Morena](https://open.spotify.com/album/6h10H3pTdbaH911fWczCsK) | 2:51 |
 | 53 | [Magnética](https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Magnética](https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 74 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 |
 | 75 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 
-Snapshot ID: `AAAAAOtdks0rGnCxWdQccwe4TTYjzCjX`
+Snapshot ID: `AAAAADsJJKPew/CMpS0jDdBxNjXoRpSy`

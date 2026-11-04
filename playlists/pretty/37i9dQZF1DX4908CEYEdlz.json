@@ -1,12 +1,12 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage",
-  "num_followers": 897339,
+  "num_followers": 897196,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdIleQXgwe82bUUM4y0ThPjRvx5",
+  "snapshot_id": "AAAAADUur3ZifsznQ0OU4UlXLXaa8Mgw",
   "tracks": [
     {
       "added_at": "2026-07-17 17:11:11",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-07-17 17:11:11",
       "album": {
+        "name": "I Need More Than This",
+        "url": "https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 264133,
+      "name": "I Need More Than This",
+      "url": "https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil"
+    },
+    {
+      "added_at": "2026-07-17 17:11:11",
+      "album": {
         "name": "Free Yourself",
         "url": "https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 145458,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
-    },
-    {
-      "added_at": "2026-07-17 17:11:11",
-      "album": {
-        "name": "Blood In The Water",
-        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
     },
     {
       "added_at": "2026-07-17 17:11:11",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-07-17 17:11:11",
       "album": {
-        "name": "I Need More Than This",
-        "url": "https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp"
+        "name": "Blood In The Water",
+        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
       },
       "artists": [
         {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
         }
       ],
-      "duration_ms": 264133,
-      "name": "I Need More Than This",
-      "url": "https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil"
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
     },
     {
       "added_at": "2026-07-17 17:11:11",

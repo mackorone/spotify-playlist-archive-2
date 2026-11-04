@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Aubree Archibeck of Bethel Music & Martin Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,774 likes - 80 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,806 likes - 80 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 79 | [Heaven Sings Holy](https://open.spotify.com/track/4KhMTGBEqYdTdLlos91oXI) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [Heaven Sings Holy](https://open.spotify.com/album/42BXK3yKX8LAeWGLr0Qigd) | 4:57 |
 | 80 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |
 
-Snapshot ID: `AAAAAHuwrIPMjbQE4khgF5TaYGlCWWF1`
+Snapshot ID: `AAAAAPzgnLtGe7BoeX2w2K7pIqOKfvUd`

@@ -1,13 +1,29 @@
 {
-  "description": "The new & hottest K-Pop is here! (Cover: IVE)",
-  "num_followers": 6128070,
+  "description": "The new & hottest K-Pop is here! (Cover: RESCENE)",
+  "num_followers": 6127890,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2bxjJgeftg0qJmGLpPD3HA5pyc",
+  "snapshot_id": "AAAAAIPyj51ADBNTP0Pxag9P5rP6mbxI",
   "tracks": [
+    {
+      "added_at": "2026-11-03 09:26:02",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "With",
+      "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
+    },
     {
       "added_at": "2026-10-19 09:27:36",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn"
+    },
+    {
+      "added_at": "2026-10-16 05:15:58",
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
+      },
+      "artists": [
+        {
+          "name": "A2O LITE",
+          "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
     },
     {
       "added_at": "2026-10-31 04:51:29",
@@ -55,6 +91,22 @@
       "duration_ms": 181911,
       "name": "You\u2019re Under Arrest",
       "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+    },
+    {
+      "added_at": "2026-10-23 07:44:16",
+      "album": {
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
     },
     {
       "added_at": "2026-10-22 15:44:50",
@@ -105,26 +157,6 @@
       "url": "https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv"
     },
     {
-      "added_at": "2026-10-16 05:15:58",
-      "album": {
-        "name": "NEON",
-        "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
-      },
-      "artists": [
-        {
-          "name": "A2O LITE",
-          "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
-        },
-        {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
-    },
-    {
       "added_at": "2026-10-26 07:52:57",
       "album": {
         "name": "Insomnia",
@@ -139,22 +171,6 @@
       "duration_ms": 194533,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5jC3lBWBcVdby76sqWwqAE"
-    },
-    {
-      "added_at": "2026-10-23 07:44:16",
-      "album": {
-        "name": "DESERVE",
-        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "DESERVE",
-      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
     },
     {
       "added_at": "2026-10-22 15:44:50",
@@ -819,22 +835,6 @@
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
-    },
-    {
-      "added_at": "2026-10-02 09:00:20",
-      "album": {
-        "name": "SYNK : aeXIS LINE - 2026 Special Digital Single",
-        "url": "https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Serenade (KARINA & WINTER)",
-      "url": "https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o"
     }
   ],
   "unique_name": "K-Pop ON! (\uc628)",

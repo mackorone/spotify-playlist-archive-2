@@ -4,7 +4,7 @@
 
 > These Games are going to be different\. Noah Kahan's "Draw You Out" is here, the first song from The Hunger Games: Sunrise on the Reaping\. In theaters soon.
 
-66 songs - 3 hr 58 min
+67 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Elastic Heart \- From "The Hunger Games: Catching Fire" Soundtrack](https://open.spotify.com/track/2JHG14oKGHQN0jPdyWHcxg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:17 | 2023-11-17 |  |
 | [Everybody Wants To Rule The World \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 2:35 | 2023-11-17 |  |
 | [Eyes Open](https://open.spotify.com/track/7wjbSn8QHsxqKXU5M0jXGM) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:04 | 2023-11-17 |  |
+| [Favor \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Favor](https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr) | 5:35 | 2026-11-03 |  |
 | [Flicker \(Kanye West Rework\)](https://open.spotify.com/track/4wio3OpeY6qhi9Pzy98JR5) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 4:12 | 2023-11-17 |  |
 | [Gale Song \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/11Oflzf2BzLlU912hF6yOT) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:05 | 2023-11-17 |  |
 | [Just A Game](https://open.spotify.com/track/4iyuehnUYAVRXOgVRg1hYK) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:01 | 2023-11-17 |  |

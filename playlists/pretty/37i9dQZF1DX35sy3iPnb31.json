@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2898,
+  "num_followers": 2900,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3mVG/Rzm3u6Tif9AVNvQVBWE+u",
+  "snapshot_id": "AAAAAFiB9SnDZvX4C//IPR+TVF6QRZY1",
   "tracks": [
     {
       "added_at": "2026-11-01 04:01:35",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "redstar",
-        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
-      },
-      "artists": [
-        {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
-        }
-      ],
-      "duration_ms": 256651,
-      "name": "redstar",
-      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "For Seasons: Love in a Time of War",
         "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 267250,
       "name": "Four Seasons",
       "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "SOFTER",
+        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Le X du Y",
         "url": "https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "SOFTER",
-        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 133359,
-      "name": "SOVEREIGN LAND",
-      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "angels on my mind",
         "url": "https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 247720,
       "name": "Tu choisis comment tu aimes",
       "url": "https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "THIS IS A BREAKUP ALBUM",
+        "url": "https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -627,6 +643,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Tout ce que tu fais c'est de la musique",
+        "url": "https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq"
+      },
+      "artists": [
+        {
+          "name": "Jay Essiambre",
+          "url": "https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Tout ce que tu fais c'est de la musique",
+      "url": "https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "STAFF MEAL",
         "url": "https://open.spotify.com/album/7AN1bIeyDydPiD4IOsKOwj"
       },
@@ -639,22 +671,6 @@
       "duration_ms": 130169,
       "name": "LA MIF DE LA MIF",
       "url": "https://open.spotify.com/track/0GorhXHgwykKIn0HgYlPdZ"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "THIS IS A BREAKUP ALBUM",
-        "url": "https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -675,38 +691,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Michael Wakes Up",
-        "url": "https://open.spotify.com/album/3KwJvw77cx2LoBVOM0ny5N"
-      },
-      "artists": [
-        {
-          "name": "young friend",
-          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
-        }
-      ],
-      "duration_ms": 294946,
-      "name": "Michael Wakes Up",
-      "url": "https://open.spotify.com/track/5gO8rrTb6RQRUhnG4sqzKc"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Tout ce que tu fais c'est de la musique",
-        "url": "https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq"
-      },
-      "artists": [
-        {
-          "name": "Jay Essiambre",
-          "url": "https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Tout ce que tu fais c'est de la musique",
-      "url": "https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Light and Matter",
         "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 174045,
       "name": "Make it Happen",
       "url": "https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Michael Wakes Up",
+        "url": "https://open.spotify.com/album/3KwJvw77cx2LoBVOM0ny5N"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "duration_ms": 294946,
+      "name": "Michael Wakes Up",
+      "url": "https://open.spotify.com/track/5gO8rrTb6RQRUhnG4sqzKc"
     },
     {
       "added_at": "2026-11-01 04:01:35",

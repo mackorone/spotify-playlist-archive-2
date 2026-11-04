@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMJaodGnpCrlmtLnAadHNmMq0/0",
+  "snapshot_id": "AAAAAGEsKHt+fu6Yv48y2TTCPoUqNMe0",
   "tracks": [
     {
       "added_at": "2024-06-12 23:40:25",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Man Ray",
-        "url": "https://open.spotify.com/album/3DbogDWbVBtPTcRpJzwsYX"
+        "name": "El Ritual De La Banana / Los Pericos",
+        "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
       },
       "artists": [
         {
-          "name": "Man Ray",
-          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 214600,
-      "name": "Extra\u00f1o Ser",
-      "url": "https://open.spotify.com/track/2P2eKFKQxDQcidLcZik3kq"
+      "duration_ms": 211426,
+      "name": "Nada que perder",
+      "url": "https://open.spotify.com/track/6UlD0JgjMvVXGB4J61w6hW"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "El Ritual De La Banana / Los Pericos",
-        "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
+        "name": "Man Ray",
+        "url": "https://open.spotify.com/album/3DbogDWbVBtPTcRpJzwsYX"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Man Ray",
+          "url": "https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Nada que perder",
-      "url": "https://open.spotify.com/track/6UlD0JgjMvVXGB4J61w6hW"
+      "duration_ms": 214600,
+      "name": "Extra\u00f1o Ser",
+      "url": "https://open.spotify.com/track/2P2eKFKQxDQcidLcZik3kq"
     },
     {
       "added_at": "2024-06-12 23:40:25",

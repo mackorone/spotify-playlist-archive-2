@@ -37101,6 +37101,24 @@
     },
     {
       "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/6LviXDKmL2X5aKYvadsol6"
+      },
+      "artists": [
+        {
+          "name": "STOW",
+          "url": "https://open.spotify.com/artist/3MOHWFXUVdM0hrHdZrQrhv"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/3SQcJylykG5wDqLL7TfD4r"
+    },
+    {
+      "album": {
         "name": "Feels Like Summer",
         "url": "https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k"
       },
@@ -85250,7 +85268,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "poco a poco (martes)",
       "url": "https://open.spotify.com/track/0gwwUAP8ZtDGUC2KD6Cap1"
@@ -98594,6 +98612,24 @@
       "duration_ms": 348500,
       "name": "Solitude Burns",
       "url": "https://open.spotify.com/track/1FQWkhlvCcjPsaqpMU9Yfn"
+    },
+    {
+      "album": {
+        "name": "Solo G",
+        "url": "https://open.spotify.com/album/10RdyvNswvIFQdaLZPjexn"
+      },
+      "artists": [
+        {
+          "name": "Porsha Faye",
+          "url": "https://open.spotify.com/artist/5cI1FAmU8q34IeixGe40l8"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194627,
+      "name": "Solo G",
+      "url": "https://open.spotify.com/track/1VqSB4T7dtBn107WbzkA24"
     },
     {
       "album": {

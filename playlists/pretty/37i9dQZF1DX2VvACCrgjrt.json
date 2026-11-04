@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310725,
+  "num_followers": 1310719,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJQhlngNvwbplToGlLgqv9ML4jF",
+  "snapshot_id": "AAAAANBcXPw8hf7kcNknw35c43X7GJqE",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:19",
@@ -308,7 +308,7 @@
       "added_at": "2026-07-17 04:01:08",
       "album": {
         "name": "Rave The World EP",
-        "url": "https://open.spotify.com/album/5TGMNVxpvnRK7M54gZRsw4"
+        "url": "https://open.spotify.com/album/6dk8FaoEGiQcRDWXuSZSmo"
       },
       "artists": [
         {
@@ -318,7 +318,7 @@
       ],
       "duration_ms": 233192,
       "name": "Around",
-      "url": "https://open.spotify.com/track/4sQR60DKwoW1x04KIP2bM6"
+      "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
     },
     {
       "added_at": "2026-09-18 04:02:27",
@@ -1025,26 +1025,6 @@
       "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
     },
     {
-      "added_at": "2026-09-25 04:02:01",
-      "album": {
-        "name": "To The Front",
-        "url": "https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        }
-      ],
-      "duration_ms": 138161,
-      "name": "To The Front",
-      "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Faded (Blacklizt Version)(HNTR Remix)",
@@ -1063,6 +1043,26 @@
       "duration_ms": 193005,
       "name": "Faded (Blacklizt Version) - HNTR Remix",
       "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+    },
+    {
+      "added_at": "2026-09-25 04:02:01",
+      "album": {
+        "name": "To The Front",
+        "url": "https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        }
+      ],
+      "duration_ms": 138161,
+      "name": "To The Front",
+      "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -1465,26 +1465,6 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "Step To The Floor",
-        "url": "https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I"
-      },
-      "artists": [
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Step To The Floor",
-      "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Rock My World",
@@ -1503,6 +1483,26 @@
       "duration_ms": 198750,
       "name": "Rock My World",
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "Step To The Floor",
+        "url": "https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "Step To The Floor",
+      "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1699,22 +1699,6 @@
       "duration_ms": 195942,
       "name": "About To Lose It",
       "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/6k1gakTL0p5HrPNAjtDWVZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/72rSqTaduChfXy5sJQpBCa"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1947,22 +1931,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Let Me Clear My Throat",
         "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
       },
@@ -1975,6 +1943,22 @@
       "duration_ms": 161818,
       "name": "Let Me Clear My Throat",
       "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-07-17 04:01:08",
@@ -2157,22 +2141,6 @@
       "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
     },
     {
-      "added_at": "2026-07-17 04:01:08",
-      "album": {
-        "name": "No Bite",
-        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "No Bite",
-      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Animal",
@@ -2191,6 +2159,22 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "No Bite",
+        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "No Bite",
+      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
     },
     {
       "added_at": "2026-10-02 04:01:32",
@@ -2241,54 +2225,6 @@
       "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
-      "added_at": "2026-07-24 04:02:19",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
-      },
-      "artists": [
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
-    },
-    {
-      "added_at": "2026-09-25 04:02:01",
-      "album": {
-        "name": "Keep The Heat",
-        "url": "https://open.spotify.com/album/1VDcjSEKxdZcAWNwoplzBU"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/5fFyFyZY2azjTMIS9NozEU"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
@@ -2307,6 +2243,54 @@
       "duration_ms": 167633,
       "name": "Cocaine Inside My Blunts - Dave Summer Remix",
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-09-25 04:02:01",
+      "album": {
+        "name": "Keep The Heat",
+        "url": "https://open.spotify.com/album/1VDcjSEKxdZcAWNwoplzBU"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/5fFyFyZY2azjTMIS9NozEU"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2333,22 +2317,6 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
-      },
-      "artists": [
-        {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
-    },
-    {
       "added_at": "2026-09-18 04:02:27",
       "album": {
         "name": "True",
@@ -2371,26 +2339,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/7Ibg79a6Uj578bLmHrSVq8"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 140654,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/4KFPs9vsmvNNKdZe5AbcfC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Grind It",
         "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
       },
@@ -2409,6 +2357,22 @@
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
+      "added_at": "2026-07-24 04:02:19",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
+    },
+    {
       "added_at": "2026-08-07 04:01:21",
       "album": {
         "name": "Take A Ride",
@@ -2423,6 +2387,50 @@
       "duration_ms": 196363,
       "name": "Take A Ride",
       "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Renegade Master (Don Diablo Edit)",
+        "url": "https://open.spotify.com/album/0NRlW0uReoU6nZN5Rc3xlj"
+      },
+      "artists": [
+        {
+          "name": "G-POL",
+          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "Renegade Master - Don Diablo Edit",
+      "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "Move It 2 The Drum",
+        "url": "https://open.spotify.com/album/0lFDSIIvQTrwlgCjAUy8pD"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        },
+        {
+          "name": "Chuckie",
+          "url": "https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ"
+        },
+        {
+          "name": "MC Ambush",
+          "url": "https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Move It 2 The Drum",
+      "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,497 likes - 100 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,544 likes - 100 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Angels All Around \(Live\) \- Radio Edit](https://open.spotify.com/track/6PoXjDXQx4HkLaXX4K5vKA) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Angels All Around \(Live\) \[Radio Edit\]](https://open.spotify.com/album/4sETyGMPsX7BoxsqU1UZIi) | 8:19 |
 | 100 | [Revelations 7 \- Live](https://open.spotify.com/track/2MiUaD8WJxxCWt30Q2FPYa) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Abike Adesida](https://open.spotify.com/artist/2wIsKcvptr39PMISxnIy1s) | [Revelations 7 \(Live\)](https://open.spotify.com/album/6JJh5T65NZDCP5RGSTa9V2) | 12:36 |
 
-Snapshot ID: `AAAAAO7md0wvqECtJVsHhnXc4Q3Z2MVL`
+Snapshot ID: `AAAAAAdTQhO6mhjyz+RChBFL4dI5xFGF`

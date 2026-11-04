@@ -33119,20 +33119,24 @@
     },
     {
       "album": {
-        "name": "\u96f2\u6ce5 ft. Alan",
+        "name": "\u96f2\u6ce5",
         "url": "https://open.spotify.com/album/1G7PDGcCgNRlEaqiGzh9j7"
       },
       "artists": [
         {
           "name": "SOPHY",
           "url": "https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq"
+        },
+        {
+          "name": "Alan",
+          "url": "https://open.spotify.com/artist/0ca2rgFK8t0ov38HvK5rU4"
         }
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194612,
-      "name": "\u96f2\u6ce5 ft. Alan",
+      "name": "\u96f2\u6ce5",
       "url": "https://open.spotify.com/track/4Rl12IO8tkhgLwFJEOolKN"
     },
     {

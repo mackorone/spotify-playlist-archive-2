@@ -1,12 +1,12 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Aswell",
-  "num_followers": 70800,
+  "num_followers": 70802,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKCAcCe6C1rYo3XRgMwS419YH+cy",
+  "snapshot_id": "AAAAABuIy4o4nLde9zz+2A9wRr51HWF3",
   "tracks": [
     {
       "added_at": "2026-10-30 04:02:43",
@@ -463,34 +463,18 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
-        "name": "Quand on aura 100 ans",
-        "url": "https://open.spotify.com/album/6MQ4VjsvLXriZeaOcUBhKL"
+        "name": "Alouette!",
+        "url": "https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n"
       },
       "artists": [
         {
-          "name": "Classe Moyenne",
-          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        },
-        {
-          "name": "Zach Chico",
-          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
-        },
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        },
-        {
-          "name": "Phil Rxcket",
-          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Quand on aura 100 ans",
-      "url": "https://open.spotify.com/track/3hNuvsH6zArmxbMss28xpI"
+      "duration_ms": 307389,
+      "name": "Ne me quitte pas des yeux",
+      "url": "https://open.spotify.com/track/2Ig2HQJp2wdbpQKPcOhL63"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -527,18 +511,34 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
-        "name": "Alouette!",
-        "url": "https://open.spotify.com/album/3DH22OuM4KWNsKDevq3j3n"
+        "name": "Quand on aura 100 ans",
+        "url": "https://open.spotify.com/album/6MQ4VjsvLXriZeaOcUBhKL"
       },
       "artists": [
         {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
         }
       ],
-      "duration_ms": 307389,
-      "name": "Ne me quitte pas des yeux",
-      "url": "https://open.spotify.com/track/2Ig2HQJp2wdbpQKPcOhL63"
+      "duration_ms": 180000,
+      "name": "Quand on aura 100 ans",
+      "url": "https://open.spotify.com/track/3hNuvsH6zArmxbMss28xpI"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
+        "name": "Natalie (40 Seasons Later)",
+        "url": "https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Natalie (40 Seasons Later)",
+      "url": "https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 186468,
       "name": "Postcard",
       "url": "https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D"
-    },
-    {
-      "added_at": "2026-10-30 04:02:43",
-      "album": {
-        "name": "Natalie (40 Seasons Later)",
-        "url": "https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1"
-      },
-      "artists": [
-        {
-          "name": "Milk & Bone",
-          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Natalie (40 Seasons Later)",
-      "url": "https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
-        "name": "pauvre pomme",
-        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "pauvre pomme",
-      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
-    },
-    {
-      "added_at": "2026-10-30 04:02:43",
-      "album": {
         "name": "Je fais confiance au temps",
         "url": "https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 197822,
       "name": "Je fais confiance au temps",
       "url": "https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "pauvre pomme",
+        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "pauvre pomme",
+      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -852,7 +852,7 @@
       "added_at": "2026-10-30 04:02:43",
       "album": {
         "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ohuhw6AZsxLD0PFiR2zfP"
+        "url": "https://open.spotify.com/album/2LKIx3NVFNyalSbbvp4VAi"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
         }
       ],
-      "duration_ms": 173346,
-      "name": "No One's Around",
-      "url": "https://open.spotify.com/track/4dSRwB0X45UDREfoJyOJao"
+      "duration_ms": 199266,
+      "name": "OLI",
+      "url": "https://open.spotify.com/track/4tnXRWJqHTAvaS8kJSNs24"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -919,38 +919,6 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
-        "name": "I don't know",
-        "url": "https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "I don't know",
-      "url": "https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK"
-    },
-    {
-      "added_at": "2026-10-30 04:02:43",
-      "album": {
-        "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
-        "url": "https://open.spotify.com/album/2LKIx3NVFNyalSbbvp4VAi"
-      },
-      "artists": [
-        {
-          "name": "GreenWoodz",
-          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "OLI",
-      "url": "https://open.spotify.com/track/4tnXRWJqHTAvaS8kJSNs24"
-    },
-    {
-      "added_at": "2026-10-30 04:02:43",
-      "album": {
         "name": "On n'a pas chang\u00e9",
         "url": "https://open.spotify.com/album/0QKWsKwco2RCn7nnZ1yINo"
       },
@@ -967,6 +935,38 @@
       "duration_ms": 176346,
       "name": "On n'a pas chang\u00e9",
       "url": "https://open.spotify.com/track/38USzMzQnz8nlM4VQq5Koh"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ohuhw6AZsxLD0PFiR2zfP"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "No One's Around",
+      "url": "https://open.spotify.com/track/4dSRwB0X45UDREfoJyOJao"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "I don't know",
+        "url": "https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "I don't know",
+      "url": "https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
-        "name": "Dolbeau-Mistassini",
-        "url": "https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0"
-      },
-      "artists": [
-        {
-          "name": "Sara Dufour",
-          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "Quand",
-      "url": "https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl"
-    },
-    {
-      "added_at": "2026-10-30 04:02:43",
-      "album": {
         "name": "Reflexiones",
         "url": "https://open.spotify.com/album/2oxeurp6jOwxCXGlNhTmeA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 209280,
       "name": "Me doy cuenta",
       "url": "https://open.spotify.com/track/6TWVvpKrhxDsTV9jrQaZXy"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Dolbeau-Mistassini",
+        "url": "https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "Quand",
+      "url": "https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
-        "name": "C'est \u00e7a qui est \u00e7a",
-        "url": "https://open.spotify.com/album/1LA6z3S83pDecGpHJIV8ES"
-      },
-      "artists": [
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "C'est \u00e7a qui est \u00e7a",
-      "url": "https://open.spotify.com/track/1VhIDjZSxTKPXHsNJy9sH1"
-    },
-    {
-      "added_at": "2026-10-30 04:02:43",
-      "album": {
         "name": "Exit",
         "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-10-30 04:02:43",
       "album": {
-        "name": "Si j'avais un clou",
-        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
+        "name": "C'est \u00e7a qui est \u00e7a",
+        "url": "https://open.spotify.com/album/1LA6z3S83pDecGpHJIV8ES"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
         }
       ],
-      "duration_ms": 229720,
-      "name": "Si j'avais un clou",
-      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
+      "duration_ms": 170106,
+      "name": "C'est \u00e7a qui est \u00e7a",
+      "url": "https://open.spotify.com/track/1VhIDjZSxTKPXHsNJy9sH1"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -1191,6 +1175,42 @@
       "duration_ms": 190808,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Si j'avais un clou",
+        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Si j'avais un clou",
+      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Au bout de la peur",
+        "url": "https://open.spotify.com/album/2yxVs7b883e0O0CohISiRp"
+      },
+      "artists": [
+        {
+          "name": "Huriel",
+          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+        },
+        {
+          "name": "VALOIS",
+          "url": "https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk"
+        }
+      ],
+      "duration_ms": 229367,
+      "name": "Au bout de la peur",
+      "url": "https://open.spotify.com/track/5cfY60saiGhksHU7tzdcsa"
     },
     {
       "added_at": "2026-10-30 04:02:43",
@@ -1239,22 +1259,6 @@
       "duration_ms": 138666,
       "name": "tout ce qui m'arrive",
       "url": "https://open.spotify.com/track/3j2RLn7aiBYVW6j5zXtG1l"
-    },
-    {
-      "added_at": "2026-10-30 04:02:43",
-      "album": {
-        "name": "Leave You Behind",
-        "url": "https://open.spotify.com/album/57AwWV7julwudwrjWA8EPd"
-      },
-      "artists": [
-        {
-          "name": "Theo Day",
-          "url": "https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "Leave You Behind",
-      "url": "https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Dalex
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,556 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,554 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 22 | [Uberconestrellita](https://open.spotify.com/track/4LKkCK0RXCkUxzEVJmYyfn) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Esteesgarcia](https://open.spotify.com/artist/0rpoBOaSqljEMecAxSw26j) | [Uberconestrellita](https://open.spotify.com/album/4GmHCWoCLdHzMRrE0MrRAu) | 3:36 |
 | 23 | [Fine 4Me](https://open.spotify.com/track/0f3admp88H8QV2ljYWczx9) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Fine 4Me](https://open.spotify.com/album/35BPFn1y5fQXlb1HaKh674) | 2:34 |
 | 24 | [Después del Show](https://open.spotify.com/track/0Ry3P1f5h0B6SqFdIhta2J) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Después del Show](https://open.spotify.com/album/52tCGnjcDVvOQjWZQWCWhx) | 3:08 |
-| 25 | [222](https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [222](https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh) | 1:55 |
+| 25 | [222](https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [222](https://open.spotify.com/album/25XDm5oXIisowUalHOGQXh) | 1:54 |
 | 26 | [AMARETTO](https://open.spotify.com/track/3IUojy1VhC8lWQBrORGPm4) | [Smooth Suave](https://open.spotify.com/artist/1zqaYQc0EXoDgMFV26cGur), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8), [D\-Jong](https://open.spotify.com/artist/58cWA46aG1S9BcBlDgKuvr) | [AMARETTO](https://open.spotify.com/album/6KrrSWxc4ZoO9uUMPal4lv) | 3:35 |
 | 27 | [New Things](https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [El Amante](https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG) | 3:01 |
 | 28 | [LEJOS DE KSA](https://open.spotify.com/track/12sAfDrm1mfzl5jOyJG2cD) | [cloudboi.](https://open.spotify.com/artist/1kSdbIDJfVcpdBwmtwrEgm) | [LEJOS DE KSA](https://open.spotify.com/album/76p2uv6nRWLvHl1yFTfksF) | 1:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 149 | [Quimica Divina](https://open.spotify.com/track/5ohBTUZkCiulRMgELnORaR) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [ELY](https://open.spotify.com/album/5JyPL5CuSIXPsxdfxjrAK7) | 2:59 |
 | 150 | [Krusty](https://open.spotify.com/track/7h8TjCOytFI0l1ZZnYfL0w) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [HANASHA](https://open.spotify.com/artist/1KebHbISUKPOuXBjjCs5N6) | [Krusty](https://open.spotify.com/album/2J7N9LFYEc6ftSDGEj45VF) | 3:25 |
 
-Snapshot ID: `AAAAAEP9eE2PI934wfWQATPmtXaUxy56`
+Snapshot ID: `AAAAAArgKIQrwM1lhFuLoc8jPj5sot41`

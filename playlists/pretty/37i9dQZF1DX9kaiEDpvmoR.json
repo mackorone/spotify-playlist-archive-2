@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP8mwEWj8P5tCpT9f068qwMZuCTm",
+  "snapshot_id": "AAAAABsqGWf6arAHn2ot4lU7j3nuKLJ4",
   "tracks": [
     {
       "added_at": "2026-10-29 23:01:39",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
+        "name": "tutto passa",
+        "url": "https://open.spotify.com/album/5BwuWUXizujBSicrDPbEzz"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 192752,
+      "name": "tutto passa",
+      "url": "https://open.spotify.com/track/3nzrTBdDYoy7OBVlRcSoa3"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
         "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
         "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "tutto passa",
-        "url": "https://open.spotify.com/album/5BwuWUXizujBSicrDPbEzz"
-      },
-      "artists": [
-        {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
-        }
-      ],
-      "duration_ms": 192752,
-      "name": "tutto passa",
-      "url": "https://open.spotify.com/track/3nzrTBdDYoy7OBVlRcSoa3"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
         "name": "Ain't Built For Leaving",
         "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 212442,
       "name": "Ain't Built For Leaving",
       "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
+        "name": "Lonely by Another Name",
+        "url": "https://open.spotify.com/album/7zGuV7WxIznZ5dxithXlvN"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 184436,
+      "name": "Lonely by Another Name",
+      "url": "https://open.spotify.com/track/2QXjZJP4MBo3EnM8HK8lOP"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -599,22 +615,6 @@
       "duration_ms": 273253,
       "name": "Moderna tider",
       "url": "https://open.spotify.com/track/1TR2P4Q2GeMdQd3EBQL9zZ"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
-        "name": "Lonely by Another Name",
-        "url": "https://open.spotify.com/album/7zGuV7WxIznZ5dxithXlvN"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 184436,
-      "name": "Lonely by Another Name",
-      "url": "https://open.spotify.com/track/2QXjZJP4MBo3EnM8HK8lOP"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "En s\u00e5ng till modet",
-        "url": "https://open.spotify.com/album/0phUs84n1MODY1e3lxUNJg"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 295784,
-      "name": "En s\u00e5ng till modet",
-      "url": "https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
         "name": "Arg och frustrerad",
         "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 198796,
       "name": "Sagolik",
       "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
+        "name": "En s\u00e5ng till modet",
+        "url": "https://open.spotify.com/album/0phUs84n1MODY1e3lxUNJg"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 295784,
+      "name": "En s\u00e5ng till modet",
+      "url": "https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -839,6 +839,26 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
+        "name": "Solen",
+        "url": "https://open.spotify.com/album/0CYBceyCn54dpx1hOwLhUf"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Solen",
+      "url": "https://open.spotify.com/track/6bjkdtQ8CD9zil8oXEsSeF"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
         "name": "Just n\u00e4r du trodde allt var \u00f6ver",
         "url": "https://open.spotify.com/album/6BFhRkDiD2KnD8Iv6N4yC2"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 278240,
       "name": "Mirakel",
       "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
-        "name": "Solen",
-        "url": "https://open.spotify.com/album/0CYBceyCn54dpx1hOwLhUf"
-      },
-      "artists": [
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Solen",
-      "url": "https://open.spotify.com/track/6bjkdtQ8CD9zil8oXEsSeF"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "Liten o stor",
-        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 312103,
-      "name": "Liten o stor",
-      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
         "name": "Noll personlig utveckling",
         "url": "https://open.spotify.com/album/27s0zZKUi93wyJaGvx6h2J"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "Dansa p\u00e5 min grav (2026 version)",
-        "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
+        "name": "Liten o stor",
+        "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
       },
       "artists": [
         {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 227068,
-      "name": "Dansa p\u00e5 min grav - (2026 version)",
-      "url": "https://open.spotify.com/track/4tVmwNcAHYvVDj5BUrxyrb"
+      "duration_ms": 312103,
+      "name": "Liten o stor",
+      "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -1015,24 +999,24 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "H\u00e4lsningar",
-        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+        "name": "Dansa p\u00e5 min grav (2026 version)",
+        "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
       },
       "artists": [
         {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
         }
       ],
-      "duration_ms": 248506,
-      "name": "H\u00e4lsningar",
-      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
+      "duration_ms": 227068,
+      "name": "Dansa p\u00e5 min grav - (2026 version)",
+      "url": "https://open.spotify.com/track/4tVmwNcAHYvVDj5BUrxyrb"
     },
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "In your bed",
-        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
+        "name": "Tale of four broken men",
+        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
       },
       "artists": [
         {
@@ -1040,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
         }
       ],
-      "duration_ms": 206325,
-      "name": "In your bed",
-      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
+      "duration_ms": 192746,
+      "name": "Tale of four broken men",
+      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -1059,6 +1043,22 @@
       "duration_ms": 155409,
       "name": "F\u00f6rbannad",
       "url": "https://open.spotify.com/track/0k2KMrEPyj5WmZxd4bE1qx"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
+        "name": "H\u00e4lsningar",
+        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "H\u00e4lsningar",
+      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
+        "name": "In your bed",
+        "url": "https://open.spotify.com/album/1KLwNzhTlwED7ErQ5aMcqN"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 206325,
+      "name": "In your bed",
+      "url": "https://open.spotify.com/track/0gRWM06ZFk93KLPctCOAu8"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
         "name": "You Got The Look",
         "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 181693,
       "name": "You Got The Look",
       "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
-        "name": "Tale of four broken men",
-        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Tale of four broken men",
-      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "25k",
-        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 237019,
-      "name": "25k",
-      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 166733,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
+        "name": "25k",
+        "url": "https://open.spotify.com/album/6uz7I1Z1Cze2cYsdeqwNxe"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 237019,
+      "name": "25k",
+      "url": "https://open.spotify.com/track/3PKzDf1fga2dPmxr8yy86a"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -1239,22 +1239,6 @@
       "duration_ms": 269250,
       "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
       "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
-        "name": "Scandinavian Eyes",
-        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 291197,
-      "name": "Scandinavian Eyes",
-      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
     },
     {
       "added_at": "2026-10-29 23:01:39",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
+        "name": "Scandinavian Eyes",
+        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 291197,
+      "name": "Scandinavian Eyes",
+      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3oEPgnaHXwi02DjenAQRyT"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-10-29 23:01:39",
       "album": {
-        "name": "Tillbaka",
-        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "Tillbaka",
-      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-10-29 23:01:39",
-      "album": {
         "name": "Prinsessa",
         "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 241000,
       "name": "Prinsessa",
       "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
+    },
+    {
+      "added_at": "2026-10-29 23:01:39",
+      "album": {
+        "name": "Tillbaka",
+        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "Tillbaka",
+      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
     },
     {
       "added_at": "2026-10-29 23:01:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,133 likes - 153 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,123 likes - 153 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 152 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 153 | [I leave the party](https://open.spotify.com/track/7yg7YNpQEtkqgpsW9Aydg9) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Andersson Funeral Home](https://open.spotify.com/album/2Tmvd1TjxBVtSDwNc9CeAe) | 2:37 |
 
-Snapshot ID: `AAAAAECAL6ncx7bpw+9cVodOVzN7gdgR`
+Snapshot ID: `AAAAANYobXDtwbWj1JeCbl8ESzrlgIZD`

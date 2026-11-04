@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 11 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
 | 12 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 |
 | 13 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
-| 14 | [Funeral](https://open.spotify.com/track/4HzfzcuokhG7MqcJKWnSrg) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:05 |
-| 15 | [Not Enough](https://open.spotify.com/track/2XiGA4e1c6xfISpypmJwGR) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 2:27 |
+| 14 | [Not Enough](https://open.spotify.com/track/2XiGA4e1c6xfISpypmJwGR) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 2:27 |
+| 15 | [Funeral](https://open.spotify.com/track/4HzfzcuokhG7MqcJKWnSrg) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:05 |
 | 16 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
 | 17 | [C’est La Vie](https://open.spotify.com/track/2AYAqt3S3I0LNatVAgcoVK) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [C’est La Vie](https://open.spotify.com/album/2vHsnOZM4N9PgD3orKhtHB) | 3:03 |
 | 18 | [Torture](https://open.spotify.com/track/28K8xAaFrNZHSe1EmCBJNU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 2:28 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 36 | [While We Have the Time](https://open.spotify.com/track/3pkojejSd7DVjDXSSKgZdO) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Sam Carter](https://open.spotify.com/artist/0x1N3jJbGtzIDIoJcktVCA) | [While We Have the Time](https://open.spotify.com/album/4KNH2Ba1dJTHuDz0YgLf1s) | 4:06 |
 | 37 | [Bassline](https://open.spotify.com/track/28nwKIQncsvccHV6Feds0C) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 2:52 |
 | 38 | [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 |
-| 39 | [JUICE BOX](https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JUICE BOX](https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n) | 1:54 |
-| 40 | [CLASSIC](https://open.spotify.com/track/3AgkaN9ca6gmA8vaBlgA3s) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 3:18 |
+| 39 | [CLASSIC](https://open.spotify.com/track/3AgkaN9ca6gmA8vaBlgA3s) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG) | 3:18 |
+| 40 | [JUICE BOX](https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JUICE BOX](https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n) | 1:54 |
 | 41 | [I WANNA FEEL IT ALL](https://open.spotify.com/track/0QxKOd4IHUHG0UvPraaicT) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [I WANNA FEEL IT ALL](https://open.spotify.com/album/02LSdnnb9RS5TM4SCbTVz8) | 2:28 |
 | 42 | [I DON'T WANNA KNOW](https://open.spotify.com/track/7C7ibGvwEFkVM64FD9Mwaf) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [I DON'T WANNA KNOW](https://open.spotify.com/album/4oHo81OEn1yuv0V5hbNQXE) | 2:01 |
 | 43 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 70 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 71 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AcgoVAAAAAAefUoTqZ/Qc+ShWtDcReT/`
+Snapshot ID: `AcgtuAAAAAB2t5+I1TcQS3BA7RX5c5v9`

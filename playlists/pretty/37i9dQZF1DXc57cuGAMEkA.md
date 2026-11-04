@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Dominic Fike, Sam Smith, HANA, ちゃんみな and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,551 likes - 61 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,538 likes - 61 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 60 | [Late loop](https://open.spotify.com/track/5sdMjA4FRRt0GOJJdhIDxj) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K), [Alison Skidmore](https://open.spotify.com/artist/0FgCQutC1MiV23DPuBDU0W) | [Late Loop](https://open.spotify.com/album/5ma4Jeo1KwJXQpBOKkq2PF) | 6:54 |
 | 61 | [Am I Even Real?](https://open.spotify.com/track/6cHT6EzgesM7DUpKwdIriL) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Save As](https://open.spotify.com/album/30RFBvHSXe6qHIS2w9hz3f) | 3:36 |
 
-Snapshot ID: `AAAAADaEoU1wqQN+PpUq1HKF8Q6Lc6hx`
+Snapshot ID: `AAAAABmpVTyRtCiaGx2cEFNtNTptGeIj`

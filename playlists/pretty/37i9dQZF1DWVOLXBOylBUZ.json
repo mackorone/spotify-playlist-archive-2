@@ -1,12 +1,12 @@
 {
   "description": "Latinoam\u00e9rica baila al ritmo de La Cruz.",
-  "num_followers": 518991,
+  "num_followers": 518969,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTgon3qhkiN1LNkVkgVeFaeyqgc",
+  "snapshot_id": "AAAAAPavKuzYAwQfRl5FPpxK4b34A052",
   "tracks": [
     {
       "added_at": "2026-10-23 04:59:35",
@@ -107,6 +107,26 @@
       "duration_ms": 198606,
       "name": "HOLA QU\u00c9 TAL",
       "url": "https://open.spotify.com/track/0CnS66Yw2oYO2ldpQ4ND4M"
+    },
+    {
+      "added_at": "2026-11-03 18:30:38",
+      "album": {
+        "name": "ESO NO ES DE ROCKSTAR",
+        "url": "https://open.spotify.com/album/2vGayndoqRxeKfOyzL4obx"
+      },
+      "artists": [
+        {
+          "name": "Dani Barranco",
+          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 176031,
+      "name": "8 preguntas",
+      "url": "https://open.spotify.com/track/6fRl2W57WGHbg5xUbJOy7G"
     },
     {
       "added_at": "2026-10-09 04:59:25",
@@ -887,22 +907,6 @@
       "duration_ms": 170066,
       "name": "Pretty Gyal",
       "url": "https://open.spotify.com/track/2WWjyLZfLZjELRKKLY12b6"
-    },
-    {
-      "added_at": "2026-10-09 04:59:25",
-      "album": {
-        "name": "Mucha Leche En Tu Cumplea\u00f1o / Tetas Tetas",
-        "url": "https://open.spotify.com/album/57lGy8zKbBceh3qJTVpAFK"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 134736,
-      "name": "Mucha Leche En Tu Cumplea\u00f1o / Tetas Tetas",
-      "url": "https://open.spotify.com/track/1R6x5WechTOVpRlaLPCr71"
     },
     {
       "added_at": "2026-10-09 04:59:25",

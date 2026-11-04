@@ -966,7 +966,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 320000,
       "name": "I'm Available (Prayer Chant)",
       "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
@@ -2218,6 +2218,24 @@
       "duration_ms": 272500,
       "name": "Worship Chant",
       "url": "https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx"
+    },
+    {
+      "album": {
+        "name": "Worship Chants -Apostle Micheal Orokpo (Ale Ah Ah Eh)",
+        "url": "https://open.spotify.com/album/7f8gkasOlAoMu8dU8jZtZO"
+      },
+      "artists": [
+        {
+          "name": "Sheba osher",
+          "url": "https://open.spotify.com/artist/3KOz7JYrKqwlbXZeC7Rt92"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Worship Chants -Apostle Micheal Orokpo (Ale Ah Ah Eh)",
+      "url": "https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9"
     },
     {
       "album": {

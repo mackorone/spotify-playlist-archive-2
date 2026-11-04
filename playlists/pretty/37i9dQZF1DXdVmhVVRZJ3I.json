@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 360425,
+  "num_followers": 360488,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKpkeDlHlRhycL+3C3pelacMre0K",
+  "snapshot_id": "AAAAAGWigXuCxiPXFbUmmMmZk2JMMJaj",
   "tracks": [
     {
       "added_at": "2026-10-02 12:20:02",
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
-        "name": "Drop It",
-        "url": "https://open.spotify.com/album/50BqATA6XSJtAsXQpsHRIi"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Drop It",
-      "url": "https://open.spotify.com/track/6BwN05qKw4Q8bNoq3rYuz7"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     },
     {
       "added_at": "2026-10-02 12:20:02",

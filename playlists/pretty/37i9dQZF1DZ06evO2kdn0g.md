@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,234 likes - 27 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,236 likes - 27 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 18 | [Heaven](https://open.spotify.com/track/1MjfmxFnt7CpIG4KnXS7jI) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/3dDHsgsMUgGJrgfxPyjdcI) | 3:02 |
 | 19 | [WHO DO U LUV](https://open.spotify.com/track/7IXmojGjBth1Vga82YkLg8) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/2VmIrHVXSVSb5z6KaTitMf) | 4:08 |
 | 20 | [MORAL](https://open.spotify.com/track/4B63t1G9ckJzC8X345lNPR) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3wRztW06iXHNpaHlbOYwTn) | 2:45 |
-| 21 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 |
-| 22 | [TRACK 02 \(Dangerous Lover\)](https://open.spotify.com/track/0BflE0kan9H39aPZzLjUHZ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:58 |
+| 21 | [TRACK 02 \(Dangerous Lover\)](https://open.spotify.com/track/0BflE0kan9H39aPZzLjUHZ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:58 |
+| 22 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 |
 | 23 | [Desert Oasis](https://open.spotify.com/track/3kK4h79kBOzCZrep4LW2ap) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:34 |
-| 24 | [Superficial / Love](https://open.spotify.com/track/3wKZ6upiSfqKFAhemZXdyZ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Medea](https://open.spotify.com/album/4EuJgqGe5oYxN36oSqZ3Jd) | 3:39 |
-| 25 | [MOVIE](https://open.spotify.com/track/0rASH6enPQjubIHb3uuYKF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Yaj2AWCgmCUgQzatJETct) | 2:46 |
+| 24 | [MOVIE](https://open.spotify.com/track/0rASH6enPQjubIHb3uuYKF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Yaj2AWCgmCUgQzatJETct) | 2:46 |
+| 25 | [Superficial / Love](https://open.spotify.com/track/3wKZ6upiSfqKFAhemZXdyZ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Medea](https://open.spotify.com/album/4EuJgqGe5oYxN36oSqZ3Jd) | 3:39 |
 | 26 | [Paradise](https://open.spotify.com/track/46a7o30ZuYAhX8LgralbbQ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 1:53 |
 | 27 | [MORTAL](https://open.spotify.com/track/4ZbUA2dQFMvEwgzZJWsBTF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:21 |
 

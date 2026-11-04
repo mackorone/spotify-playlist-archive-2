@@ -1,12 +1,12 @@
 {
   "description": "New music from Dressed Like Boys, TeddyBear, Myl\u00e8ne Farmer & DJ Snake, Ronisia, MEAU,  Armin van Buuren and more...",
-  "num_followers": 54674,
+  "num_followers": 54677,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPbrC2oEyxFSKRxAJRJLIEdzGEm/",
+  "snapshot_id": "AAAAAC2ZFo9sI+eis9wTEaM+gg/63Wem",
   "tracks": [
     {
       "added_at": "2026-10-29 23:00:36",
@@ -190,6 +190,10 @@
         {
           "name": "J\u00d8RD",
           "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Jasper Erkens",
+          "url": "https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ"
         }
       ],
       "duration_ms": 241594,

@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 331849,
       "name": "10 Min\u00fat",
       "url": "https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat"
@@ -2677,6 +2677,28 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "APRETO",
+      "url": "https://open.spotify.com/track/4MjqQXkwDCfbAjMnMIGJhC"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/5EtwY9I5SXbAFJRMr3rkab"
       },
@@ -5092,7 +5114,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -6494,7 +6516,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 192533,
       "name": "Body to body",
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
@@ -9316,7 +9338,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -9356,7 +9378,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 168923,
       "name": "Cik\u00e1dy",
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
@@ -12158,6 +12180,28 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DO KAR\u00c1T",
+      "url": "https://open.spotify.com/track/3r9yZPXZyiMxNI6r2ZIlBR"
     },
     {
       "album": {
@@ -16784,7 +16828,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 157475,
       "name": "FURT PYTLE",
       "url": "https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw"
@@ -34107,6 +34151,32 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        },
+        {
+          "name": "Molodoy",
+          "url": "https://open.spotify.com/artist/4CI5e56Ooi37srVjc81oYf"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "NEVID\u00cd\u0160",
+      "url": "https://open.spotify.com/track/6gKylanWU84an7QyjpRvg4"
+    },
+    {
+      "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
       },
@@ -39591,6 +39661,28 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172002,
+      "name": "POZERA\u0164 DO TMY",
+      "url": "https://open.spotify.com/track/6R6NVR99626wLhq5ZVTyWE"
+    },
+    {
+      "album": {
         "name": "Poznamenan\u00fd",
         "url": "https://open.spotify.com/album/0GPH1J5fmBenBFWxHqAqMx"
       },
@@ -44670,7 +44762,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
@@ -46038,6 +46130,28 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa"
+    },
+    {
+      "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/5ha9f8qpZqE8WxpJoAirCe"
+      },
+      "artists": [
+        {
+          "name": "\u010cistychov",
+          "url": "https://open.spotify.com/artist/678vUNwKLyNQInUedKKWeq"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "SOM",
+      "url": "https://open.spotify.com/track/1572gsQIVraS9MmMDnhS7L"
     },
     {
       "album": {
@@ -48510,7 +48624,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 155520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
@@ -52068,7 +52182,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 215013,
       "name": "Tras tou",
       "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"

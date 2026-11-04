@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: PISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,841 likes - 149 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,846 likes - 149 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 148 | [Cartoons](https://open.spotify.com/track/5z8aJqBgn5TLwaDk9f7OPn) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [Cartoons](https://open.spotify.com/album/76u45Nl1dExw9LN2wPg7XR) | 3:20 |
 | 149 | [So Alive I Cry](https://open.spotify.com/track/3E894ZHsg1VEAZPg3kyj5R) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [So Alive I Cry](https://open.spotify.com/album/1lVofLCCAXhAl1VdUOjETg) | 3:09 |
 
-Snapshot ID: `AAAAAEanpTWk5B1lWJGX6k6pEavhzJaP`
+Snapshot ID: `AAAAAOz+3OPKd06rv2kx8Aqx1C5LWrvE`

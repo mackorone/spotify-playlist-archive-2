@@ -5488,7 +5488,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 140952,
       "name": "Endrick",
       "url": "https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY"
@@ -13262,6 +13262,24 @@
       "duration_ms": 173333,
       "name": "Papo de Agustinho",
       "url": "https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF"
+    },
+    {
+      "album": {
+        "name": "De Volta Para 2002 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6cKomSWg0tv5pXH2QvA8bN"
+      },
+      "artists": [
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300150,
+      "name": "Para De Pirra\u00e7a / Toda Noite / \u00c9 No Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Npl1sQuuiJxXYxKGN9Kn9"
     },
     {
       "album": {

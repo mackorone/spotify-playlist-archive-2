@@ -1,13 +1,77 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Mika Yusay. Artwork: Isu Kim.\n",
-  "num_followers": 72198,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Lorenzo Jan. Artwork: Isu Kim.\n",
+  "num_followers": 72210,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJRHFfQg8ZOGevx1OyDEhY7Q9R32",
+  "snapshot_id": "AAAAAF2aheSmgeGAS31KvB4vv4CkqXcY",
   "tracks": [
+    {
+      "added_at": "2026-11-04 05:00:11",
+      "album": {
+        "name": "REBOUND",
+        "url": "https://open.spotify.com/album/3dbkGXolgtO5qIHSc8Tsh5"
+      },
+      "artists": [
+        {
+          "name": "Seramel",
+          "url": "https://open.spotify.com/artist/4ZrehxVo50z89Wn3cA6VbA"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "REBOUND",
+      "url": "https://open.spotify.com/track/3W5BFPJuwup3tO2836UQXQ"
+    },
+    {
+      "added_at": "2026-11-04 05:00:11",
+      "album": {
+        "name": "Langit Sa Piling Mo",
+        "url": "https://open.spotify.com/album/5pasBa8IVgT4Qeb9gMTHOz"
+      },
+      "artists": [
+        {
+          "name": "Purples n' Oranges",
+          "url": "https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq"
+        }
+      ],
+      "duration_ms": 229017,
+      "name": "Langit Sa Piling Mo",
+      "url": "https://open.spotify.com/track/7rPnzNHB7Se2vFerMthkXy"
+    },
+    {
+      "added_at": "2026-11-04 05:00:11",
+      "album": {
+        "name": "LOVER BOY: CHAPTER 2: Filipina Baddie",
+        "url": "https://open.spotify.com/album/2hVX32xk8lhlpIL0PquT4w"
+      },
+      "artists": [
+        {
+          "name": "Yudino",
+          "url": "https://open.spotify.com/artist/48Nnq14bV6DdMvkYPuw7Z5"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "Filipina Baddie",
+      "url": "https://open.spotify.com/track/1Lvc8sAZk57p6jpR9cqxPD"
+    },
+    {
+      "added_at": "2026-11-04 05:00:11",
+      "album": {
+        "name": "Ngayong Gabi",
+        "url": "https://open.spotify.com/album/2mwdu3XCnm7CzQD2CJr0RY"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Jan",
+          "url": "https://open.spotify.com/artist/7lK7mjhwPsz20Tzm5Lktii"
+        }
+      ],
+      "duration_ms": 208543,
+      "name": "Ngayong Gabi",
+      "url": "https://open.spotify.com/track/4pD54BTiP0IfyGdK3JNRg8"
+    },
     {
       "added_at": "2026-10-21 05:00:25",
       "album": {
@@ -767,74 +831,6 @@
       "duration_ms": 263773,
       "name": "Retsina",
       "url": "https://open.spotify.com/track/2TqP5fkkTKhxAkCifNop0F"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
-        "name": "Takbo",
-        "url": "https://open.spotify.com/album/3NH0dcvmoJMds8AOi9GKZe"
-      },
-      "artists": [
-        {
-          "name": "Tatz Maven",
-          "url": "https://open.spotify.com/artist/6SATKmQLDhwHRDzc4yiSbp"
-        },
-        {
-          "name": "SHNTI",
-          "url": "https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO"
-        }
-      ],
-      "duration_ms": 196941,
-      "name": "Takbo",
-      "url": "https://open.spotify.com/track/1Olsl8INFvkcAvXAR31vDN"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
-        "name": "Guba Nasad Ko",
-        "url": "https://open.spotify.com/album/7glEVFFrawDLrX9hJ9gOla"
-      },
-      "artists": [
-        {
-          "name": "Champaygne",
-          "url": "https://open.spotify.com/artist/0Uws7C618gPtAdeDlqkVGc"
-        }
-      ],
-      "duration_ms": 155358,
-      "name": "Guba Nasad Ko",
-      "url": "https://open.spotify.com/track/5xG1GgSbmCVfo49qsEo52N"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/6tJLNtMiKLl8tSBTrNRudw"
-      },
-      "artists": [
-        {
-          "name": "Monty Gi",
-          "url": "https://open.spotify.com/artist/2TBFowoG8SRg9opiTfO5r9"
-        }
-      ],
-      "duration_ms": 190837,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/4eyEuejVygsDJbOlDVIiwF"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
-        "name": "Urong Sulong",
-        "url": "https://open.spotify.com/album/2NSPpIGvccI3sYQ5991e5o"
-      },
-      "artists": [
-        {
-          "name": "Paul Monserrate",
-          "url": "https://open.spotify.com/artist/3sa2GW7TbeCFIYLacBk4kD"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Urong Sulong",
-      "url": "https://open.spotify.com/track/069wBYuPG4AHBucoNW5StN"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

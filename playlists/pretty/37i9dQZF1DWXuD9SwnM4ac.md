@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,288 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,286 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 3 | [Take It Over](https://open.spotify.com/track/0r2sEzSGrjOEhY9WG5b9CC) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Concrete Cowboy](https://open.spotify.com/album/5e7OJqIuen2Aui1i9Qzr02) | 3:14 |
 | 4 | [Wishing Well \- Porches Version](https://open.spotify.com/track/573NKQjwJ8qixIxoEHsEa7) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Wishing Well \(Porches Version\)](https://open.spotify.com/album/7EFBOZE7J3pO94PAkZtq01) | 3:53 |
 | 5 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
-| 6 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
+| 6 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 | 7 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
 | 8 | [Miles Away](https://open.spotify.com/track/29tK0Cf37wzjtvBVy8IWOF) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Miles Away](https://open.spotify.com/album/1M17nB0SPdGtYxbHvLbFcx) | 3:38 |
 | 9 | [Real!](https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh) | [Dream Boat](https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940) | [Real!](https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Pure Vice](https://open.spotify.com/track/2NF2GJ8rSAbirBnzBiF2ri) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [My World](https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9) | 4:19 |
 | 100 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |
 
-Snapshot ID: `AAAAAB3nB5KUwNkFz5War9NWS98IUUg8`
+Snapshot ID: `AAAAAMoCpZHHhM9gPgMgoPMnVQhlIJ9X`

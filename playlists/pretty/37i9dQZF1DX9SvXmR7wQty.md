@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Orelsan, Lost, Patrice Michaud, Sarahmée, Pomme, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,339 likes - 97 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,332 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 96 | [M.D](https://open.spotify.com/track/3bz3hKFyCsy60V2uURnEYZ) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Silence Radio](https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20) | 2:55 |
 | 97 | [Y'A QUOI](https://open.spotify.com/track/0jHGUOATdNZBmgadgs7qcs) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [Y'A QUOI](https://open.spotify.com/album/5Kx3D6HhAMRw390IdRFHP8) | 2:27 |
 
-Snapshot ID: `AAAAADASJMtHZf9k0Ja/oAmd62amUWSZ`
+Snapshot ID: `AAAAAHuhvvc22UQ5eASd4nj0epmXJjFO`

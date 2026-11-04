@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,689 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,688 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 49 | [La Noche Que Chicago Se Murió](https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944) | [Los Estrafalarios](https://open.spotify.com/artist/59h5QRZ8x3gk5oF8dr2UJf), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Chicago Se Murió](https://open.spotify.com/album/01Mr1tBBemO3LOKu8BJOHK) | 2:42 |
 | 50 | [El Cantador \- Estilo Tierra Caliente](https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 3:26 |
 
-Snapshot ID: `auUvgAAAAADZQpqB6iBLVA6XI21VLE7z`
+Snapshot ID: `auaBAAAAAADmVO3Rfh9GP88W/EgDTi09`

@@ -2,7 +2,7 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Itlu Arjuna
+> Bringing out the best of latest love tracks<br/>Cover : Alias Rukmini
 
 492 songs - 1 day 7 hr 39 min
 

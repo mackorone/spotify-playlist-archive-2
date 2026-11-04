@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,959 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,971 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 43 | [I Like This F’n Song](https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Krunk!](https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa) | [I Like This F’n Song](https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem) | 3:13 |
 | 44 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 | 45 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
-| 46 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
-| 47 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
+| 46 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
+| 47 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
 | 48 | [Cayendo](https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Elevation EP](https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J) | 4:00 |
 | 49 | [Dime](https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:49 |
 | 50 | [When The Funk Drops](https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Uberjack'd](https://open.spotify.com/artist/0UyHJ2JEmDdl7xpVnF0r3H), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [When The Funk Drops](https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl) | 3:58 |

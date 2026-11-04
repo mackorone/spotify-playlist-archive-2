@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,961 likes - 37 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,966 likes - 37 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 18 | [Good One](https://open.spotify.com/track/6AuoUvOQDpxQdyE28xg3wT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:35 |
 | 19 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
 | 20 | [Sum](https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:09 |
-| 21 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:28 |
+| 21 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 |
 | 22 | [There You Go](https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:19 |
-| 23 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 |
+| 23 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:28 |
 | 24 | [Never Enough](https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:00 |
 | 25 | [Got Em](https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:46 |
 | 26 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 |

@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 125055,
+  "num_followers": 125077,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABK7EbnyAlXSBXR3bK2zxMTLtH/1",
+  "snapshot_id": "AAAAAJ0oo518aqVSgDEbB3c2keq2yY6v",
   "tracks": [
     {
       "added_at": "2026-10-23 00:44:29",
@@ -235,26 +235,6 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
         "name": "HVL",
         "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 192485,
       "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
       "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "B\u1ea1n \u0110\u1eddi",
-        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
-      },
-      "artists": [
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        },
-        {
-          "name": "GDucky",
-          "url": "https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW"
-        }
-      ],
-      "duration_ms": 300718,
-      "name": "B\u1ea1n \u0110\u1eddi",
-      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
         "name": "HVL",
         "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 173402,
       "name": "Baby (feat. marzuz)",
       "url": "https://open.spotify.com/track/6cZ6NqFHytVdRMG2QB3n8q"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
+        "name": "B\u1ea1n \u0110\u1eddi",
+        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
+      },
+      "artists": [
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        },
+        {
+          "name": "GDucky",
+          "url": "https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW"
+        }
+      ],
+      "duration_ms": 300718,
+      "name": "B\u1ea1n \u0110\u1eddi",
+      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -623,6 +623,30 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
+        "name": "PULL UP (Explicit)",
+        "url": "https://open.spotify.com/album/1u85IFEbsSWqa1NcfO5omo"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 255441,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/6kkQ2uMYbxoh3RMAF6eAB9"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
         "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
         "url": "https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz"
       },
@@ -679,34 +703,6 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "C\u00f4ng Ty 4",
-        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "WOKEUP",
-          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
-        }
-      ],
-      "duration_ms": 254491,
-      "name": "C\u00f4ng Ty 4",
-      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -743,6 +739,34 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
+        "name": "C\u00f4ng Ty 4",
+        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
+        }
+      ],
+      "duration_ms": 254491,
+      "name": "C\u00f4ng Ty 4",
+      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
         "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
         "url": "https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 212732,
       "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
       "url": "https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
-        "name": "PULL UP (Explicit)",
-        "url": "https://open.spotify.com/album/1u85IFEbsSWqa1NcfO5omo"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "PULL UP",
-      "url": "https://open.spotify.com/track/6kkQ2uMYbxoh3RMAF6eAB9"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "Cho B\u1ea3o",
-        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        }
-      ],
-      "duration_ms": 244752,
-      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
-      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
-    },
-    {
-      "added_at": "2026-10-23 00:44:29",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 138973,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
+    },
+    {
+      "added_at": "2026-10-23 00:44:29",
+      "album": {
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 244752,
+      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
+      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -919,18 +919,22 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
+        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
       },
       "artists": [
         {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 344276,
-      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
-      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
+      "duration_ms": 210491,
+      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
+      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
     },
     {
       "added_at": "2026-10-23 00:44:29",
@@ -951,22 +955,18 @@
     {
       "added_at": "2026-10-23 00:44:29",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
-        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
       },
       "artists": [
         {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
-        },
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
         }
       ],
-      "duration_ms": 210491,
-      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
-      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+      "duration_ms": 344276,
+      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
+      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
     },
     {
       "added_at": "2026-10-23 00:44:29",

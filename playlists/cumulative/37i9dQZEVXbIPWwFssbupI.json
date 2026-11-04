@@ -3175,6 +3175,28 @@
     },
     {
       "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176190,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/7GvUVtvpRmxlun1sUnAHNt"
+    },
+    {
+      "album": {
         "name": "Fr\u00e8res Ennemis",
         "url": "https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh"
       },
@@ -13644,7 +13666,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -16188,7 +16210,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "D\u00e9gun",
       "url": "https://open.spotify.com/track/42KE76b1zWzeyFYYz6xKTF"
@@ -35842,7 +35864,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 153779,
       "name": "m\u00e9li-m\u00e9lo",
       "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
@@ -47638,7 +47660,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 198120,
       "name": "Soir\u00e9e mondaine",
       "url": "https://open.spotify.com/track/1XThNi0UIim6K9GLcouamU"
@@ -53308,7 +53330,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 161140,
       "name": "Uber",
       "url": "https://open.spotify.com/track/2PPFDGYR4t96gLVsd52NmL"

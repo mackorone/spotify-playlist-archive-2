@@ -1,12 +1,12 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22288,
+  "num_followers": 22290,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIUMoUKhA8oLhMXGb2ATPJVZa3J9",
+  "snapshot_id": "AAAAACJAWmSJrnwT6wl42KMzY12JB0S7",
   "tracks": [
     {
       "added_at": "2024-09-30 14:25:52",
@@ -669,6 +669,42 @@
       "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
     },
     {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/22nxwgJfy97fB41z7aPGfJ"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "SpotLite Nation",
+          "url": "https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "KHAEL",
+          "url": "https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 201766,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/636n7tssrg6jMzQa5NPijv"
+    },
+    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "Beautiful One",
@@ -711,42 +747,6 @@
       "duration_ms": 170500,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
-    },
-    {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/22nxwgJfy97fB41z7aPGfJ"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "SpotLite Nation",
-          "url": "https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        },
-        {
-          "name": "KHAEL",
-          "url": "https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 201766,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/636n7tssrg6jMzQa5NPijv"
     },
     {
       "added_at": "2026-09-25 00:01:24",
@@ -1169,6 +1169,22 @@
       "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
+      "added_at": "2026-06-26 00:01:41",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
+    },
+    {
       "added_at": "2026-10-09 00:01:36",
       "album": {
         "name": "Tinotenda",
@@ -1187,22 +1203,6 @@
       "duration_ms": 190865,
       "name": "Tinotenda",
       "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
-    },
-    {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
     },
     {
       "added_at": "2026-10-02 00:01:17",
@@ -1285,24 +1285,20 @@
       "url": "https://open.spotify.com/track/4DPK7ei1j8yglj2trKZKRt"
     },
     {
-      "added_at": "2026-10-09 00:01:36",
+      "added_at": "2026-07-10 00:01:15",
       "album": {
-        "name": "Soji",
-        "url": "https://open.spotify.com/album/109omRdXaeluK9amGMKsES"
+        "name": "K'OSENI",
+        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
       },
       "artists": [
         {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Denzel Rocks",
-          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
+          "name": "Teninlanimi",
+          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Soji",
-      "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
+      "duration_ms": 187826,
+      "name": "K'OSENI",
+      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1325,20 +1321,24 @@
       "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
     },
     {
-      "added_at": "2026-07-10 00:01:15",
+      "added_at": "2026-10-09 00:01:36",
       "album": {
-        "name": "K'OSENI",
-        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
+        "name": "Soji",
+        "url": "https://open.spotify.com/album/109omRdXaeluK9amGMKsES"
       },
       "artists": [
         {
-          "name": "Teninlanimi",
-          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Denzel Rocks",
+          "url": "https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7"
         }
       ],
-      "duration_ms": 187826,
-      "name": "K'OSENI",
-      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
+      "duration_ms": 141818,
+      "name": "Soji",
+      "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1363,6 +1363,22 @@
       "duration_ms": 172714,
       "name": "Oh My Soul",
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
+    },
+    {
+      "added_at": "2026-09-18 00:01:36",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0sivoWhfoOZLiXQwqZKPLR"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "duration_ms": 164696,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -1401,38 +1417,6 @@
       "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
-      "added_at": "2026-09-18 00:01:36",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0sivoWhfoOZLiXQwqZKPLR"
-      },
-      "artists": [
-        {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
-        }
-      ],
-      "duration_ms": 164696,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "The Address",
-        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
-      },
-      "artists": [
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 223966,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1451,6 +1435,22 @@
       "duration_ms": 145531,
       "name": "DO",
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "The Address",
+        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 223966,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
       "added_at": "2026-02-20 00:01:25",
@@ -1473,6 +1473,22 @@
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
+      "added_at": "2026-10-30 00:01:06",
+      "album": {
+        "name": "Dear Lord",
+        "url": "https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r"
+      },
+      "artists": [
+        {
+          "name": "Adeyinka Alaseyori",
+          "url": "https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob"
+        }
+      ],
+      "duration_ms": 532062,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Ifeoma",
@@ -1493,6 +1509,26 @@
       "url": "https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1"
     },
     {
+      "added_at": "2026-10-30 00:01:06",
+      "album": {
+        "name": "Those Who Belong (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 1023500,
+      "name": "Those Who Belong (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR"
+    },
+    {
       "added_at": "2026-08-21 00:01:32",
       "album": {
         "name": "I Dey Grateful",
@@ -1511,54 +1547,6 @@
       "duration_ms": 173676,
       "name": "I Dey Grateful",
       "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
-    },
-    {
-      "added_at": "2026-06-19 00:01:33",
-      "album": {
-        "name": "Titilailai II",
-        "url": "https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "CHUKWUMA",
-          "url": "https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani"
-        },
-        {
-          "name": "Johnson Jkeyz",
-          "url": "https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL"
-        },
-        {
-          "name": "Eddiekeyz",
-          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
-        }
-      ],
-      "duration_ms": 199023,
-      "name": "Titilailai II",
-      "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
-    },
-    {
-      "added_at": "2025-11-07 00:01:42",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm"
-      },
-      "artists": [
-        {
-          "name": "Awesome Madu",
-          "url": "https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8"
-        },
-        {
-          "name": "Hi-Bred",
-          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
-        }
-      ],
-      "duration_ms": 193422,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay"
     }
   ],
   "unique_name": "Blessed",

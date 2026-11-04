@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover:BABYMONSTER\)
 
-1,823 songs - 4 day 1 hr 9 min
+1,825 songs - 4 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [C'mon \(feat\. Aminé\)](https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 3:13 | 2023-10-11 | 2023-12-02 |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-04-28 | 2022-07-09 |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2021-10-16 | 2021-11-24 |
+| [Call My Name](https://open.spotify.com/track/2CQhZ1HZd2GrfJKxe1aW9Z) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TO US](https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3) | 2:38 | 2026-11-03 |  |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-02 | 2022-04-18 |
 | [Calm & Passion](https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:29 | 2021-10-21 | 2021-12-14 |
 | [Can You Entertain?](https://open.spotify.com/track/3VnY6q0HwCbRqXBCyzCJ9O) | [Kim Lip](https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i) | [<Can You Entertain?>](https://open.spotify.com/album/0at85Wc38V1VWs8z4GTJJr) | 2:49 | 2025-10-17 | 2025-11-13 |
@@ -789,7 +790,7 @@
 | [I\`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 | 2021-11-27 | 2022-02-18 |
 | [Icarus \(Artronic Waves Remix\)](https://open.spotify.com/track/59t5Zc74vI26ZC69zVwMmG) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Club Icarus Remix>](https://open.spotify.com/album/4UAhTCJuc1Rjch4AEnNBFb) | 4:10 | 2025-08-14 | 2025-09-13 |
 | [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 | 2024-08-06 | 2024-11-15 |
-| [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 | 2026-07-10 |  |
+| [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 | 2026-07-10 | 2026-11-04 |
 | [Ice Cream](https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL) | 2:51 | 2026-03-23 | 2026-05-14 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2k0e6dy1tx7fE6m126Ydfw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/7nZPZCnwS90jrRjGNjzv4D) | 2:55 | 2020-10-13\* | 2021-01-18 |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-05-25 | 2024-07-06 |
@@ -1059,7 +1060,7 @@
 | [Movie Star](https://open.spotify.com/track/4W8ixcvNvwWW5cdYSNlsiz) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Movie Star](https://open.spotify.com/album/5JaoZz8TeXaVHXamr7H2GB) | 3:08 | 2023-05-17 | 2023-08-04 |
 | [Movin'](https://open.spotify.com/track/4URh4EuzBNOAqTllcpjHXe) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.1](https://open.spotify.com/album/1N3vXThYiEWjbR8xiYiF8H) | 3:23 | 2021-09-29 | 2021-11-05 |
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-02 | 2025-05-05 |
-| [MUAH!](https://open.spotify.com/track/4i96s6IzO7USqeuOsxiyyU) | [VAYONN](https://open.spotify.com/artist/79zOflwBYq7fHf6kCQAB3l) | [Youth Today](https://open.spotify.com/album/5VDEgG7OiSfEVpiXG8dSYt) | 3:03 | 2026-07-07 |  |
+| [MUAH!](https://open.spotify.com/track/4i96s6IzO7USqeuOsxiyyU) | [VAYONN](https://open.spotify.com/artist/79zOflwBYq7fHf6kCQAB3l) | [Youth Today](https://open.spotify.com/album/5VDEgG7OiSfEVpiXG8dSYt) | 3:03 | 2026-07-07 | 2026-11-04 |
 | [mumumumuch](https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:29 | 2021-09-18 | 2021-11-12 |
 | [MUSEUM](https://open.spotify.com/track/52otRjqSDSPOpLYmiLU7cj) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:14 | 2026-03-30 | 2026-05-12 |
 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2022-04-05 | 2022-11-11 |
@@ -1385,6 +1386,7 @@
 | [Shhh!](https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 5th Mini Album 'VOYAGE'](https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL) | 3:14 | 2024-11-07 | 2025-04-12 |
 | [Shine Together](https://open.spotify.com/track/6Bj8o5vulKzrYmmaeCcBEe) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SPECIAL HISTORY BOOK](https://open.spotify.com/album/3XByrdCCU42SI5I9nxoA10) | 3:30 | 2020-10-13\* | 2020-11-16 |
 | [SHOCK](https://open.spotify.com/track/0F2s3Lc7LeAlt2w7OokIoL) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [WITNESS](https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt) | 3:08 | 2024-07-05 | 2024-11-28 |
+| [SHOCK](https://open.spotify.com/track/2svjqad0qwiEYps5QLR7rZ) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SHOCK](https://open.spotify.com/album/33q3b2UtHK0JW4RbzI86KJ) | 2:51 | 2026-11-03 |  |
 | [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 | 2025-09-12 | 2025-10-28 |
 | [Shooting Star](https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:07 | 2025-11-06 | 2025-12-05 |
 | [Shooting Star](https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez) | 3:03 | 2024-06-12 | 2025-03-28 |

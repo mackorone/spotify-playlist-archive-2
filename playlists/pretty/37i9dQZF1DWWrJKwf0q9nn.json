@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update! Cover: Armin van Buuren & Douwe Bob",
-  "num_followers": 156467,
+  "num_followers": 156455,
   "original_name": "New Dance 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtUIPJ2qbl/Jk1ac8DJ/SzS1J1O",
+  "snapshot_id": "AAAAAOZdsI/3TAqanKOKbVrgzhD635ad",
   "tracks": [
     {
       "added_at": "2026-10-29 23:01:22",
@@ -47,6 +47,30 @@
     {
       "added_at": "2026-10-29 23:01:22",
       "album": {
+        "name": "Heaven Is A Place",
+        "url": "https://open.spotify.com/album/5tnwqfo6Gw5iG9ojYBiAIu"
+      },
+      "artists": [
+        {
+          "name": "Charly Lownoise",
+          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
+        },
+        {
+          "name": "Dune",
+          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 150509,
+      "name": "Heaven Is A Place",
+      "url": "https://open.spotify.com/track/5LzyQqk7PFRlmoqHLDi9vG"
+    },
+    {
+      "added_at": "2026-10-29 23:01:22",
+      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/1J6N82rcDxDGdjMCLjFqV5"
       },
@@ -63,6 +87,42 @@
       "duration_ms": 174000,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/27p7Eb7nzPLByT9mPBlZy6"
+    },
+    {
+      "added_at": "2026-10-30 12:37:54",
+      "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Spijt Komt Later",
+      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
+    },
+    {
+      "added_at": "2026-10-29 23:01:22",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu"
     },
     {
       "added_at": "2026-10-29 23:01:22",
@@ -125,50 +185,6 @@
       "url": "https://open.spotify.com/track/5neaVbe1feDFfukwj8cNHL"
     },
     {
-      "added_at": "2026-10-30 12:37:54",
-      "album": {
-        "name": "Meisje Van Het Noorden",
-        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
-      },
-      "artists": [
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Spijt Komt Later",
-      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
-    },
-    {
-      "added_at": "2026-10-29 23:01:22",
-      "album": {
-        "name": "Heaven Is A Place",
-        "url": "https://open.spotify.com/album/5tnwqfo6Gw5iG9ojYBiAIu"
-      },
-      "artists": [
-        {
-          "name": "Charly Lownoise",
-          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
-        },
-        {
-          "name": "Dune",
-          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 150509,
-      "name": "Heaven Is A Place",
-      "url": "https://open.spotify.com/track/5LzyQqk7PFRlmoqHLDi9vG"
-    },
-    {
       "added_at": "2026-10-29 23:01:22",
       "album": {
         "name": "Body Cage",
@@ -187,22 +203,6 @@
       "duration_ms": 173793,
       "name": "Body Cage",
       "url": "https://open.spotify.com/track/0RgXwG9y19wNuCfadaPyB2"
-    },
-    {
-      "added_at": "2026-10-29 23:01:22",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu"
     },
     {
       "added_at": "2026-10-15 22:00:29",

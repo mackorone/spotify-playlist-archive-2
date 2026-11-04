@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,324 songs - 3 day 5 hr 48 min
+1,325 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [New Journey](https://open.spotify.com/track/7dOWN2UK7jsmtnGAs8CcLr) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Beyond the Sea](https://open.spotify.com/album/7BAvGRf8ZBAtYmieJKCnO5) | 3:48 | 2026-07-29 | 2026-08-13 |
 | [New Martyrs \(Ride 4 U\)](https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [New Martyrs \(Ride 4 U\)](https://open.spotify.com/album/2JsUcLi6QE4l46IR4U4lMU) | 3:30 | 2025-09-04 | 2025-11-16 |
 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 | 2024-11-06 | 2024-11-13 |
+| [New to Love](https://open.spotify.com/track/4tX7t9p8jMLMsou83f6FLm) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [New to Love](https://open.spotify.com/album/23dHlSzv3ymbgpbQjQ8zQU) | 3:34 | 2026-10-20 |  |
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-05-18 | 2024-01-22 |
 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 | 2024-01-10 | 2024-01-24 |
 | [New York](https://open.spotify.com/track/5tUvHmtOoOFzglmBlBgC2e) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [New York](https://open.spotify.com/album/5foPuNMZwUFQgkPTUBLgrY) | 6:08 | 2023-05-11 | 2023-06-11 |
@@ -1024,7 +1025,7 @@
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-10 |  |
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/0v2Kv316ccVrrL3BDDqRHm) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/3Krjqn3TYEyvQ4JC0TF7xX) | 3:35 | 2023-03-07 | 2023-03-09 |
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/72MRQEQStg151kpzKoTM7q) | 3:35 | 2023-03-07 | 2023-03-29 |
-| [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 | 2026-08-26 |  |
+| [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 | 2026-08-26 | 2026-11-04 |
 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 | 2026-05-30 | 2026-07-30 |
 | [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 | 2025-07-02 | 2025-07-11 |
 | [taste test](https://open.spotify.com/track/6cJMqbFoBGsLFf4yuq7PRv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [taste test](https://open.spotify.com/album/1PCcnx3pkx9xnDjE48JE9f) | 2:49 | 2025-10-01 | 2025-10-15 |

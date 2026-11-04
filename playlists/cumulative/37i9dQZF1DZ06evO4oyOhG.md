@@ -4,13 +4,13 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-143 songs - 9 hr 17 min
+144 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11月の雨](https://open.spotify.com/track/1yWV04HUCesq5NbuhYkRwA) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:21 | 2022-06-27 | 2022-09-15 |
 | [11月の雨](https://open.spotify.com/track/3yhP6kOdhZL3ZY7vr8nsGu) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 5:21 | 2023-09-21 | 2024-01-13 |
-| [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 | 2022-06-09 |  |
+| [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 | 2022-06-09 | 2026-11-04 |
 | [BGM](https://open.spotify.com/track/6sGx2nUtdDfQcUJBHc53x5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 5:02 | 2023-09-21 | 2024-01-13 |
 | [BGM \-Instrumental\-](https://open.spotify.com/track/0czSVq9GkW0rcghTgLaeDs) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 | 2022-06-09 | 2022-10-13 |
 | [BGM \-Instrumental\-](https://open.spotify.com/track/5jMEIZnC22U6R60MZxYrjO) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 5:02 | 2023-09-21 | 2024-01-13 |
@@ -119,6 +119,7 @@
 | [今日もサクラ舞う暁に](https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるｉの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:15 | 2022-06-09 |  |
 | [今日もサクラ舞う暁に](https://open.spotify.com/track/7BB9jAA7JkX6oLaSioKvX4) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 4:15 | 2023-11-10 | 2024-01-13 |
 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 | 2022-06-09 |  |
+| [原宿deいちご☆オレ](https://open.spotify.com/track/72juW6VPwtAnOcfVLH2Bw2) | [mona（CV：夏川椎菜）](https://open.spotify.com/artist/0EE5w10plFiTUBnTcidwcU), [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [原宿deいちご☆オレ](https://open.spotify.com/album/69nEWFUuDV6g9YPtu1cLjd) | 3:48 | 2026-11-04 |  |
 | [可愛くなりたい](https://open.spotify.com/track/1XA0rFBVY3VouEigL2a5b1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:15 | 2023-09-21 | 2024-01-13 |
 | [君のせいで愛してる](https://open.spotify.com/track/07uIelDCQyg8Pmzbwjwloc) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [君のせいで愛してる](https://open.spotify.com/album/4eUCmpDRq2bu9O62BTKoPk) | 3:45 | 2026-04-16 |  |
 | [君ガ空コソカナシケレ](https://open.spotify.com/track/78eNy6PS6zZetlXJZIRSH1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [CHiCO with HoneyWorks 2016.1.10 "世界はiに満ちている \-1st\-" at 渋谷WWW](https://open.spotify.com/album/7eu3mYVNTeq6mV0sD7XkR0) | 3:21 | 2025-09-10 |  |

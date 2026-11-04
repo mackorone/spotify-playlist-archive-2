@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247479,
+  "num_followers": 247472,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxsMrf5YOYJKTxYyRpe7G8HMiiK",
+  "snapshot_id": "AAAAAINjksaBoGOKWiWCrqAdERXHN5ur",
   "tracks": [
     {
       "added_at": "2026-10-16 14:04:25",
@@ -223,26 +223,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "BODY TYPE",
-        "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "BODY TYPE",
-      "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
         "url": "https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 103384,
       "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
       "url": "https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "BODY TYPE",
+        "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "BODY TYPE",
+      "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Deusimar",
+        "url": "https://open.spotify.com/album/1uI5zgguHsXVl74QBuIrfp"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        },
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ"
+        }
+      ],
+      "duration_ms": 171685,
+      "name": "piseiro dos abandonados",
+      "url": "https://open.spotify.com/track/4PT3pmcVqgQvKZBUABV4d3"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "Despertador",
         "url": "https://open.spotify.com/album/7vA9eHv6BrmIa2ctMTZh31"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 106483,
       "name": "Despertador",
       "url": "https://open.spotify.com/track/587ueKmuDHoDzAAgTVJ9M2"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Deusimar",
-        "url": "https://open.spotify.com/album/1uI5zgguHsXVl74QBuIrfp"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        },
-        {
-          "name": "Malu",
-          "url": "https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ"
-        }
-      ],
-      "duration_ms": 171685,
-      "name": "piseiro dos abandonados",
-      "url": "https://open.spotify.com/track/4PT3pmcVqgQvKZBUABV4d3"
     },
     {
       "added_at": "2026-10-16 14:04:25",

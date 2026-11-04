@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,431 songs - 3 day 12 hr 18 min
+1,432 songs - 3 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-28 | 2025-07-01 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2023-06-05 |
 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 | 2021-05-12 | 2021-05-16 |
+| [DND \(โหมดพระจันทร์🌙\)](https://open.spotify.com/track/0bwzEJDyFoZYQ3byuS7NPX) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE) | [DND \(โหมดพระจันทร์🌙\)](https://open.spotify.com/album/41N8FQilvC33nTjqPmALcL) | 3:20 | 2026-11-03 |  |
 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 | 2026-06-17 | 2026-07-05 |
 | [Do your dance](https://open.spotify.com/track/5POcU3tBNEXuIDgfYo4TEa) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [II \- The 2nd Mini Album](https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R) | 2:57 | 2026-06-16 | 2026-07-04 |
 | [Don't Care About Me](https://open.spotify.com/track/1Sy1ZJBwL22SG1QGwkmwqC) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:11 | 2022-05-24 | 2022-05-27 |
@@ -943,7 +944,7 @@
 | [ก่อนที่เธอจะลืมฝัน](https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ก่อนที่เธอจะลืมฝัน \(Lucid\)](https://open.spotify.com/album/3ERquWsXSCsvB7g1LGTrIp) | 4:16 | 2023-06-25 | 2023-06-27 |
 | [ก่อนนอนคืนนี้](https://open.spotify.com/track/57NV6TzzYS473R7OgmDepf) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [BANGKOK LEGACY](https://open.spotify.com/album/21LG4vnSC0pmcDaB1ICoi2) | 2:41 | 2025-09-10 | 2025-09-11 |
 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 | 2024-02-24 | 2024-04-21 |
-| [ขอ \(WARM EYES\)](https://open.spotify.com/track/5MZe9NqyaSvtoaZKCeyGee) | [Lomosonic](https://open.spotify.com/artist/3RnRECOTd7fAWTPgmwRYMc) | [LOST FREQUENCIES](https://open.spotify.com/album/37xF3sm2hL8TWhcMfAGsF7) | 5:56 | 2026-04-03 |  |
+| [ขอ \(WARM EYES\)](https://open.spotify.com/track/5MZe9NqyaSvtoaZKCeyGee) | [Lomosonic](https://open.spotify.com/artist/3RnRECOTd7fAWTPgmwRYMc) | [LOST FREQUENCIES](https://open.spotify.com/album/37xF3sm2hL8TWhcMfAGsF7) | 5:56 | 2026-04-03 | 2026-11-04 |
 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 | 2025-11-15 | 2026-01-23 |
 | [ขอแค่นี้ \(Forever n ever\)](https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [While I'm away](https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W) | 3:39 | 2026-06-21 |  |
 | [ขอโทษที่ติดต่อไป](https://open.spotify.com/track/1EPvxPb6ToC6LHzmHik4ZJ) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [Nap The Nap](https://open.spotify.com/artist/12uTsbd2SoA8dRXfbI9rfd) | [ขอโทษที่ติดต่อไป \- Single](https://open.spotify.com/album/2yPNK8VRicVSkfUBy4KDJ1) | 4:18 | 2025-01-25 | 2025-01-27 |

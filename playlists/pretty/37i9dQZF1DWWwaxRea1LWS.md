@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT is all about Halloween this week\. Cover: Andrew Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,257,283 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,257,139 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 39 | [Hungry Like the Wolf](https://open.spotify.com/track/2HuHopKnnuGQEpGb0CssCs) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/2siHYnkgCUsilqW5UYjY1y) | 3:29 |
 | 40 | [Evil Ways](https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 3:58 |
 
-Snapshot ID: `AAAAAGTcJHLyaqJaBbLjHARp4NVviq35`
+Snapshot ID: `AAAAAKTI7rikhbD57iHhoh1Kp1J0PAwb`

@@ -5262,6 +5262,28 @@
     {
       "album": {
         "name": "The Purple M&M 2",
+        "url": "https://open.spotify.com/album/35IpgMXimg9shu3YqeNKda"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167327,
+      "name": "Say That Shit (feat. K Carbon)",
+      "url": "https://open.spotify.com/track/4tAF3iymJpt1yMBTiu9DZT"
+    },
+    {
+      "album": {
+        "name": "The Purple M&M 2",
         "url": "https://open.spotify.com/album/1Dyhf2sffhUOYe2dz1NGhu"
       },
       "artists": [
@@ -5276,7 +5298,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 167327,
       "name": "Say That Shit (feat. K Carbon)",
       "url": "https://open.spotify.com/track/6co7b9zSYqldsecNzzIQYS"

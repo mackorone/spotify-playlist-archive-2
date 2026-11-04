@@ -1,6 +1,6 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8361,
+  "num_followers": 8362,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 204081,
-      "name": "Vida Truncada",
-      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
+      "duration_ms": 184052,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
       "duration_ms": 134699,
       "name": "All\u00e1 en el Baile Grande",
       "url": "https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Country Roland Vs. Los Relampagos",
-        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
-      },
-      "artists": [
-        {
-          "name": "Country Roland Band",
-          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
-        },
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 164115,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/0O2Xy6fraAVq3q841IYH9T"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

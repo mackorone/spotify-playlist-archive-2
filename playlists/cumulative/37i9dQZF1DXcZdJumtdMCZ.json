@@ -7741,6 +7741,36 @@
     },
     {
       "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/26VEuzFPnNRfBhJPckkXC5"
+      },
+      "artists": [
+        {
+          "name": "Hari S R",
+          "url": "https://open.spotify.com/artist/2JE6c6KUpnyUqx8JcyU7d7"
+        },
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        },
+        {
+          "name": "Gana Gowtham",
+          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216020,
+      "name": "Terror Error",
+      "url": "https://open.spotify.com/track/0J5VOgrjm9weGrAQ8qImZ7"
+    },
+    {
+      "album": {
         "name": "THADI (Clean Version)",
         "url": "https://open.spotify.com/album/7vn4kNiI4IG74mLBbeQKnb"
       },

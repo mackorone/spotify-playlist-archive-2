@@ -1,12 +1,12 @@
 {
   "description": "The sound of the underground. Cover: Polyphia",
-  "num_followers": 486483,
+  "num_followers": 486431,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgdjOWYQqgi3d82W7xd/aOOWz5s",
+  "snapshot_id": "AAAAAGczf3DftSgZSq6lVYrpkMgeGD/q",
   "tracks": [
     {
       "added_at": "2026-10-23 00:00:24",
@@ -415,18 +415,22 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "The Plot In You",
-        "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
       },
       "artists": [
         {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 198595,
-      "name": "Carved",
-      "url": "https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq"
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -447,22 +451,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Hive Mind (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+        "name": "The Plot In You",
+        "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
       },
       "artists": [
         {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
         }
       ],
-      "duration_ms": 206161,
-      "name": "Hive Mind (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
+      "duration_ms": 198595,
+      "name": "Carved",
+      "url": "https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Zero Day",
-        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 145129,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "La Promesa",
         "url": "https://open.spotify.com/album/35e8rg7jfHUZafZpTAuhp5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 191543,
       "name": "La Promesa",
       "url": "https://open.spotify.com/track/5anCJxgVfQLzlHJ53tXOXm"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "Zero Day",
+        "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 145129,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/66D8mKcsfB1mzeVPTzKfav"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "dark heaven",
-        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 212272,
-      "name": "dark heaven",
-      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Count Your Blessings | Repented",
         "url": "https://open.spotify.com/album/1v47s2Z5kdloRlVkxHcTWO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 365774,
       "name": "(I Used to Make Out With) Medusa - 2026 Repented",
       "url": "https://open.spotify.com/track/0EaCnpPMhiGMLkGcaQfgv0"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "dark heaven",
+        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 212272,
+      "name": "dark heaven",
+      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "At Work In The Fields Of The Bomb",
-        "url": "https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R"
-      },
-      "artists": [
-        {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
-        }
-      ],
-      "duration_ms": 436850,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "An Ending In Itself",
         "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "If Not Now, When",
-        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
+        "name": "At Work In The Fields Of The Bomb",
+        "url": "https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R"
       },
       "artists": [
         {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
         }
       ],
-      "duration_ms": 237384,
-      "name": "If Not Now, When",
-      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
+      "duration_ms": 436850,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -867,22 +851,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "OUTBREAK (feat. Cory Brandan)",
-        "url": "https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x"
+        "name": "If Not Now, When",
+        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 292549,
-      "name": "OUTBREAK (feat. Cory Brandan)",
-      "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
+      "duration_ms": 237384,
+      "name": "If Not Now, When",
+      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -899,6 +879,26 @@
       "duration_ms": 194597,
       "name": "CUT_it",
       "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "OUTBREAK (feat. Cory Brandan)",
+        "url": "https://open.spotify.com/album/0tlb1VwunVtvuMtt4eeB4x"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 292549,
+      "name": "OUTBREAK (feat. Cory Brandan)",
+      "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "The Carrion Choir",
-        "url": "https://open.spotify.com/album/1UUTzVvJg987HOcOmrLSh6"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "The Carrion Choir",
-      "url": "https://open.spotify.com/track/7hqrfDYNDTOt8ng4U9yuw2"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "NOISE",
         "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 162760,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "The Carrion Choir",
+        "url": "https://open.spotify.com/album/1UUTzVvJg987HOcOmrLSh6"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "The Carrion Choir",
+      "url": "https://open.spotify.com/track/7hqrfDYNDTOt8ng4U9yuw2"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
+        "name": "Growing Different Limbs",
+        "url": "https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0"
+      },
+      "artists": [
+        {
+          "name": "Lady Radiator",
+          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
+        },
+        {
+          "name": "Donovan Melero",
+          "url": "https://open.spotify.com/artist/6Q3ralMRVqEqQKwnML65w4"
+        },
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "Growing Different Limbs",
+      "url": "https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
         "name": "Song Of The Swamp",
         "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 203800,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
-        "name": "Growing Different Limbs",
-        "url": "https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0"
-      },
-      "artists": [
-        {
-          "name": "Lady Radiator",
-          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
-        },
-        {
-          "name": "Donovan Melero",
-          "url": "https://open.spotify.com/artist/6Q3ralMRVqEqQKwnML65w4"
-        },
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 200287,
-      "name": "Growing Different Limbs",
-      "url": "https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
+        "name": "Doom Tripping",
+        "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Doom Tripping",
+      "url": "https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Doom Tripping",
-        "url": "https://open.spotify.com/album/04itSXBYbk1bIBu8w3gmiZ"
+        "name": "Black & Blue (2026 Repented)",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
       },
       "artists": [
         {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Doom Tripping",
-      "url": "https://open.spotify.com/track/7qqLeysvBdIKZMEwt8xM9I"
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Modern Life Is Lonely",
-        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 282726,
-      "name": "Modern Life Is Lonely",
-      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Bullshit",
         "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
       },
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Black & Blue (2026 Repented)",
-        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 272967,
-      "name": "Black & Blue - 2026 Repented",
-      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "dna",
-        "url": "https://open.spotify.com/album/07xvPNFtCyHEmgvg2KDrfc"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "dna",
-      "url": "https://open.spotify.com/track/7LygYLu2lZQ45dlhGrQUbW"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Your Name In Red Ink",
         "url": "https://open.spotify.com/album/28BwYERM72BwDCFnwWDfb6"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 194693,
       "name": "Your Name In Red Ink",
       "url": "https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "dna",
+        "url": "https://open.spotify.com/album/07xvPNFtCyHEmgvg2KDrfc"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "dna",
+      "url": "https://open.spotify.com/track/7LygYLu2lZQ45dlhGrQUbW"
     },
     {
       "added_at": "2026-10-23 00:00:24",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 223941,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
-    },
-    {
-      "added_at": "2026-10-23 00:00:24",
-      "album": {
         "name": "Love Is Not Enough",
         "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
       },
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2026-10-23 00:00:24",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/775FTflkHkZfaZYP130ALj"
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg"
       },
       "artists": [
         {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 205636,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i"
+      "duration_ms": 223941,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg"
+    },
+    {
+      "added_at": "2026-10-23 00:00:24",
+      "album": {
+        "name": "NETWORK",
+        "url": "https://open.spotify.com/album/6gMcQzQGSD2j83ZBIDpA3i"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "NETWORK",
+      "url": "https://open.spotify.com/track/26bUHwjwSidCORMzLXFf3F"
     }
   ],
   "unique_name": "The Pit",

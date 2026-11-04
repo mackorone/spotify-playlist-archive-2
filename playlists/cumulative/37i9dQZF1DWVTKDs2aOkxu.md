@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: RIP Magic
 
-1,259 songs - 3 day 2 hr 35 min
+1,260 songs - 3 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [LIFE](https://open.spotify.com/track/2piZnAQmdM4kwdKTdeKevR) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [LIFE](https://open.spotify.com/album/11UH2nnKfxCzdhWXkffIOE) | 3:16 | 2026-07-02 | 2026-07-17 |
 | [Light As Grass](https://open.spotify.com/track/6bN8Zwkr4c7gTWW5LZlEnC) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Light As Grass](https://open.spotify.com/album/2DGxYuxoTsgzIw8v0UbrsO) | 3:46 | 2024-06-27 | 2024-07-27 |
 | [Light Over There](https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Light Over There](https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n) | 4:06 | 2026-07-23 | 2026-09-25 |
+| [Lightweight Champion](https://open.spotify.com/track/2V2gSjlWbCUbyK8ldJEgTM) | [Danny Griffiths](https://open.spotify.com/artist/1D7ogs6m8zs5JAY950koox) | [Lightweight Champion](https://open.spotify.com/album/4DMBw5kau1j7SFgeYFFAz5) | 3:28 | 2026-11-03 |  |
 | [Like You Did Before](https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Like You Did Before](https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg) | 3:07 | 2024-12-13 | 2025-01-31 |
 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 | 2025-05-08 | 2025-07-11 |
 | [Liquorice](https://open.spotify.com/track/60pygaEEzRQ9mh4VxqW2bf) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Liquorice](https://open.spotify.com/album/0RgikP1YRg3brEygNcfiQf) | 2:53 | 2025-02-07 | 2025-03-07 |

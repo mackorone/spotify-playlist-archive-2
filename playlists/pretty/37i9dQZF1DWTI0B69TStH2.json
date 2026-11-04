@@ -1,13 +1,213 @@
 {
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:4Sr4lK1noNj4styLslt07Z\">Sophia Hajduk</a>",
-  "num_followers": 31976,
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:5iDiPypShxdC8FhWYMvomb\">OLY.</a>",
+  "num_followers": 31981,
   "original_name": "Fresh Finds Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgvpcpjJBoU0r4wgxoM6pS3M7Sm",
+  "snapshot_id": "AAAAAN0CDyYkncPV3qr5DFMtiJiZa9JJ",
   "tracks": [
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "OOS",
+        "url": "https://open.spotify.com/album/1kDSXqiz1vfJjje5bMQeqL"
+      },
+      "artists": [
+        {
+          "name": "OLY.",
+          "url": "https://open.spotify.com/artist/5iDiPypShxdC8FhWYMvomb"
+        }
+      ],
+      "duration_ms": 170696,
+      "name": "OOS",
+      "url": "https://open.spotify.com/track/4DQBLBEOmBZdsAQSlUr93V"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "palma",
+        "url": "https://open.spotify.com/album/53qwJuBhlPxz2m1BuW2S4N"
+      },
+      "artists": [
+        {
+          "name": "RONJA",
+          "url": "https://open.spotify.com/artist/5yHumt7Is9acuJsq2Wkx47"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "palma",
+      "url": "https://open.spotify.com/track/59oDFLVjWCfiY3RjZptbI0"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
+      },
+      "artists": [
+        {
+          "name": "Pola",
+          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "fale k\u0142ad\u0142y si\u0119 na brzegu",
+        "url": "https://open.spotify.com/album/2o9Gy51odRGs7vjG1YCYgh"
+      },
+      "artists": [
+        {
+          "name": "Mabel Sage",
+          "url": "https://open.spotify.com/artist/5wtKAsdqJjoNO5I2NHAQ0X"
+        }
+      ],
+      "duration_ms": 334285,
+      "name": "fale k\u0142ad\u0142y si\u0119 na brzegu",
+      "url": "https://open.spotify.com/track/25i2CwiYHzq1PB6oruIz7k"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "Kryteria",
+        "url": "https://open.spotify.com/album/5qFZ8lyNT8Oyvirqj0BQjx"
+      },
+      "artists": [
+        {
+          "name": "luo",
+          "url": "https://open.spotify.com/artist/0WEXApM73gGdJrWf27SKUA"
+        }
+      ],
+      "duration_ms": 97777,
+      "name": "Co z tego",
+      "url": "https://open.spotify.com/track/1GUOrDnxEa5Y4et1d9XG0k"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "szybko min\u0119\u0142o",
+        "url": "https://open.spotify.com/album/2o9d5xkaQjT8Sw3fiBgs45"
+      },
+      "artists": [
+        {
+          "name": "Runia",
+          "url": "https://open.spotify.com/artist/2H7QeqEBPdqQlJndh3s4sv"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "szybko min\u0119\u0142o",
+      "url": "https://open.spotify.com/track/6LF5vinFe1PmvSQ6LGxJUL"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "poka\u017c mi",
+        "url": "https://open.spotify.com/album/3gFzOJYlk4OIy8QlTSFNyJ"
+      },
+      "artists": [
+        {
+          "name": "Kanoohii",
+          "url": "https://open.spotify.com/artist/2Fzh07zdn2x3hjT0bz21lX"
+        }
+      ],
+      "duration_ms": 187450,
+      "name": "poka\u017c mi",
+      "url": "https://open.spotify.com/track/4gGzNeLpXzzJKjAgu0N9iR"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "\u017b\u00d3\u0141TE OKNA",
+        "url": "https://open.spotify.com/album/0qBvNseXNXLauplqZJwCJQ"
+      },
+      "artists": [
+        {
+          "name": "JACKOWSKI",
+          "url": "https://open.spotify.com/artist/77cs27w0VN5UnR7tHNhxbe"
+        }
+      ],
+      "duration_ms": 74842,
+      "name": "Czuj\u0119",
+      "url": "https://open.spotify.com/track/6ya5V4b6sX8V9WmQ5ikIUU"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "Pi\u0119kne s\u0142owa",
+        "url": "https://open.spotify.com/album/0oby9hUrgqmOQLk8e7GTPm"
+      },
+      "artists": [
+        {
+          "name": "Czantoria",
+          "url": "https://open.spotify.com/artist/5QSgYvSQLhL9vEGWLFQEBq"
+        },
+        {
+          "name": "Przyborowski",
+          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Pi\u0119kne s\u0142owa",
+      "url": "https://open.spotify.com/track/5gGGON7QuAiF73xhMNkMFI"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "co przynios\u0105 te zmiany?",
+        "url": "https://open.spotify.com/album/4YpoFvDWxWCbrvhoDOHMSz"
+      },
+      "artists": [
+        {
+          "name": "heka",
+          "url": "https://open.spotify.com/artist/6r4kcAer6MticXA2sxMwSe"
+        }
+      ],
+      "duration_ms": 100934,
+      "name": "co przynios\u0105 te zmiany?",
+      "url": "https://open.spotify.com/track/3vFoTd1j1uUMqqseORi2EF"
+    },
+    {
+      "added_at": "2026-11-03 23:00:07",
+      "album": {
+        "name": "Nie przeszkadza\u0107",
+        "url": "https://open.spotify.com/album/6fzfZ3U6RazHzR8hiOiK2W"
+      },
+      "artists": [
+        {
+          "name": "Jakub Hovitz",
+          "url": "https://open.spotify.com/artist/7nEZlCMUqAwb4mD1wWecE6"
+        }
+      ],
+      "duration_ms": 268994,
+      "name": "Nie przeszkadza\u0107",
+      "url": "https://open.spotify.com/track/0LvatiW1vcEbmmnnqrfTdR"
+    },
+    {
+      "added_at": "2026-10-27 23:00:13",
+      "album": {
+        "name": "Stop Looking At Me",
+        "url": "https://open.spotify.com/album/6kLjpSeyXDygGitR6itq1u"
+      },
+      "artists": [
+        {
+          "name": "Hidel Eye",
+          "url": "https://open.spotify.com/artist/3p7SOpsF37g2ry8QOdf45R"
+        }
+      ],
+      "duration_ms": 300016,
+      "name": "Stop Looking At Me",
+      "url": "https://open.spotify.com/track/6SDLiYr3G2611eGiDAd0ti"
+    },
     {
       "added_at": "2026-10-27 23:00:13",
       "album": {
@@ -55,22 +255,6 @@
       "duration_ms": 168000,
       "name": "XXL",
       "url": "https://open.spotify.com/track/4xzt807pi6G0yPkvcDRsuX"
-    },
-    {
-      "added_at": "2026-10-27 23:00:13",
-      "album": {
-        "name": "Stop Looking At Me",
-        "url": "https://open.spotify.com/album/6kLjpSeyXDygGitR6itq1u"
-      },
-      "artists": [
-        {
-          "name": "Hidel Eye",
-          "url": "https://open.spotify.com/artist/3p7SOpsF37g2ry8QOdf45R"
-        }
-      ],
-      "duration_ms": 300016,
-      "name": "Stop Looking At Me",
-      "url": "https://open.spotify.com/track/6SDLiYr3G2611eGiDAd0ti"
     },
     {
       "added_at": "2026-10-20 22:00:14",
@@ -623,38 +807,6 @@
     {
       "added_at": "2026-10-13 22:00:23",
       "album": {
-        "name": "porzucone my\u015bli",
-        "url": "https://open.spotify.com/album/4BUeODT8xMLnNqgzEBFZfP"
-      },
-      "artists": [
-        {
-          "name": "oswojeni",
-          "url": "https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh"
-        }
-      ],
-      "duration_ms": 200888,
-      "name": "porzucone my\u015bli",
-      "url": "https://open.spotify.com/track/72FttWE6kXh9KPIQhdBygO"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "KNIVES AND BLADES",
-        "url": "https://open.spotify.com/album/0H7ChZG1DVxOkrjaiDrBTb"
-      },
-      "artists": [
-        {
-          "name": "The Bullseyes",
-          "url": "https://open.spotify.com/artist/4VrvRbGxs71Cs797ThTy6f"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "KNIVES AND BLADES",
-      "url": "https://open.spotify.com/track/5WmhCgdnhAaDchGoWOtLn5"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
         "name": "chc\u0119 tu zosta\u0107",
         "url": "https://open.spotify.com/album/0nxNfsEdFAv9fv2EEo9U4A"
       },
@@ -683,158 +835,6 @@
       "duration_ms": 184768,
       "name": "Zapach Lata",
       "url": "https://open.spotify.com/track/5zcPV6AWeYULww597bZZLW"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "klucze na dach",
-        "url": "https://open.spotify.com/album/6tBK28pIM5fOodD1tpk6xW"
-      },
-      "artists": [
-        {
-          "name": "barekprzesta\u0144",
-          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
-        },
-        {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "klucze na dach",
-      "url": "https://open.spotify.com/track/0DVTWUvfL4SI3mYTrSgLkf"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "\u0141YK",
-        "url": "https://open.spotify.com/album/7dLXz7VTCgvLZIZrxXYUWD"
-      },
-      "artists": [
-        {
-          "name": "waitforfriday",
-          "url": "https://open.spotify.com/artist/2taU3Fsy7TWxGNHDtY9UbO"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "\u0141YK",
-      "url": "https://open.spotify.com/track/0GaUDdNvmoXXz4Ek6MzBVJ"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "sad, alone?",
-        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "kurtis baker",
-          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "sad, alone?",
-      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Algorytm",
-        "url": "https://open.spotify.com/album/3nKqdr0MwTD7JcuLWakJnF"
-      },
-      "artists": [
-        {
-          "name": "Adam Milaro",
-          "url": "https://open.spotify.com/artist/4dFCYNAIZxmlemYQy3APqt"
-        }
-      ],
-      "duration_ms": 208189,
-      "name": "Algorytm",
-      "url": "https://open.spotify.com/track/7wl8ypBgTdBsxhaz7lWe2F"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "nie umiem inaczej",
-        "url": "https://open.spotify.com/album/2Vxni60OqOrr4l9WW80WXn"
-      },
-      "artists": [
-        {
-          "name": "Zuzia Dudek",
-          "url": "https://open.spotify.com/artist/6lrqSwgfR4RGvpzTGlynHz"
-        }
-      ],
-      "duration_ms": 199947,
-      "name": "nie umiem inaczej",
-      "url": "https://open.spotify.com/track/2qW0fgqz7EUWOZOGfr3Utq"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Dzisiaj na My",
-        "url": "https://open.spotify.com/album/0SfolUtnGpHM9GaNzCdMmc"
-      },
-      "artists": [
-        {
-          "name": "Norbi&Wika",
-          "url": "https://open.spotify.com/artist/5LQgfVZPc6yC4VfDRj5xmi"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Dzisiaj na My",
-      "url": "https://open.spotify.com/track/6W2wEJmYbDSWZaUAGMlOGF"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Pick me baby",
-        "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
-      },
-      "artists": [
-        {
-          "name": "Kasia Babis",
-          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
-        }
-      ],
-      "duration_ms": 203101,
-      "name": "Pick me baby",
-      "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "How To Say Goodbye",
-        "url": "https://open.spotify.com/album/3F5BbrMiMrjWONS3Mi42CB"
-      },
-      "artists": [
-        {
-          "name": "Metrosexual",
-          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
-        }
-      ],
-      "duration_ms": 199811,
-      "name": "How To Say Goodbye",
-      "url": "https://open.spotify.com/track/0dmU9asldBCK3TkTjiTfQO"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Sen dla dw\u00f3ch",
-        "url": "https://open.spotify.com/album/1cXdBLJQ1iA42pYEVDyveo"
-      },
-      "artists": [
-        {
-          "name": "Zuza Talkowska",
-          "url": "https://open.spotify.com/artist/0DWqT2Rp7OdoZckWUQQvxa"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Sen dla dw\u00f3ch",
-      "url": "https://open.spotify.com/track/59Nqu8oQNdO3hYz54N0af2"
     }
   ],
   "unique_name": "Fresh Finds Polska",

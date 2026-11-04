@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,514 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,406 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 43 | [El Zacatecano](https://open.spotify.com/track/5m3TBrw10tXhHvIdS2r3mR) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/album/4b5U1WWD6h0kJtr2Npv5HR) | 2:26 |
 | 44 | [Juan Colorado](https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:58 |
 | 45 | [El Fandanguero](https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [Luis Aguilar](https://open.spotify.com/album/7wYE2NUCtpIJcetqiQ1ybd) | 2:14 |
-| 46 | [Toro Relajo](https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 2:29 |
-| 47 | [La Ventana](https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro: Tres Grandes Con Mariachi, Vol\. 1 – Joan Sebastian](https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G) | 2:25 |
+| 46 | [La Ventana](https://open.spotify.com/track/1js1ErXLdhEICtjWGG7Q6i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro: Tres Grandes Con Mariachi, Vol\. 1 – Joan Sebastian](https://open.spotify.com/album/4nT0tuBlMgoUMIHnAMI43G) | 2:25 |
+| 47 | [Toro Relajo](https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 2:29 |
 | 48 | [El Son De Los Aguacates](https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD) | [Mariachi Los Caporales](https://open.spotify.com/artist/1EkCOEysq5KAQ1axi0YhGE) | [Puro Mariachi](https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3) | 2:17 |
 | 49 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 |
 | 50 | [El Caporal de Chihuahua](https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:56 |
-| 51 | [Popurrí de Sones](https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 5:22 |
-| 52 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 |
+| 51 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 |
+| 52 | [Popurrí de Sones](https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 5:22 |
 | 53 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
 | 54 | [Las Abajenas](https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK) | [Rubén Fuentes](https://open.spotify.com/artist/6q8g3vOMKyrhhRWLsOUC98), [Silvestre Vargas](https://open.spotify.com/artist/4C09kjudW0ZTpef7cMpjPF), [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:24 |
 | 55 | [La Raspa](https://open.spotify.com/track/28Jl8MxjxLZMvwkT84zTrl) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [20 Éxitos](https://open.spotify.com/album/4MF8urxgLWiJXDctu2ZNJJ) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [Jesucita en Chihuahua](https://open.spotify.com/track/2Hmt4wtmK3mJVCTj823VW7) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR) | 2:45 |
 | 100 | [Guadalajara](https://open.spotify.com/track/215vR8WYgCai4ibawAVyl1) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR) | 2:45 |
 
-Snapshot ID: `AAAAAFfj7U3+ovP+x9Ra9lWDuOBiHTvv`
+Snapshot ID: `AAAAAGXmqUPzwCmOQsEdjmVQEEaH2SCJ`

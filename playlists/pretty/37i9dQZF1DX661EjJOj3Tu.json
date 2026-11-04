@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513227,
+  "num_followers": 513222,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFNetj+DY91bZTrUrVOpLShX9Yy",
+  "snapshot_id": "AAAAAJY7q2K9SH9p3kZrFDrjfUA7apjK",
   "tracks": [
     {
       "added_at": "2025-08-07 16:57:48",
@@ -95,26 +95,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "El Manisero",
-        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Orquesta Sabor De Cuba",
-          "url": "https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "El Manisero - Mambo Son",
-      "url": "https://open.spotify.com/track/00MvNfAAC4O5pSvAZPDnGc"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "El Manisero",
+        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Orquesta Sabor De Cuba",
+          "url": "https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "El Manisero - Mambo Son",
+      "url": "https://open.spotify.com/track/00MvNfAAC4O5pSvAZPDnGc"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 357120,
+      "name": "The Feeling Of Jazz",
+      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Tradiciones",
         "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 291636,
       "name": "Cuadra 11",
       "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 357120,
-      "name": "The Feeling Of Jazz",
-      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "El Cervatillo",
-        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 307519,
-      "name": "El Cervatillo",
-      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 299160,
       "name": "After All",
       "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "El Cervatillo",
+        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 307519,
+      "name": "El Cervatillo",
+      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Keeper Of The Flame",
-        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Caetano Veloso & Ivan Sacerdote",
         "url": "https://open.spotify.com/album/4B4iz6pBrcnxVBZRdEx4QP"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 233483,
       "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
       "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Keeper Of The Flame",
+        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Te Escucho",
-        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ribeiro",
-          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
-        },
-        {
-          "name": "ELENI",
-          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
-        }
-      ],
-      "duration_ms": 230550,
-      "name": "Te Escucho",
-      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1495,18 +1475,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Dear Diz (Every Day I Think Of You)",
-        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
+        "name": "Te Escucho",
+        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
       },
       "artists": [
         {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+          "name": "Sofia Ribeiro",
+          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
+        },
+        {
+          "name": "ELENI",
+          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
         }
       ],
-      "duration_ms": 408920,
-      "name": "Salt Peanuts! (Mani Salado)",
-      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
+      "duration_ms": 230550,
+      "name": "Te Escucho",
+      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1531,6 +1515,22 @@
       "duration_ms": 427106,
       "name": "Palabras para Nombrarte",
       "url": "https://open.spotify.com/track/2eupFPL10HymH4hjkwwuoK"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Dear Diz (Every Day I Think Of You)",
+        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 408920,
+      "name": "Salt Peanuts! (Mani Salado)",
+      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1615,42 +1615,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
-        }
-      ],
-      "duration_ms": 345370,
-      "name": "El Regreso (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Sonero: The Music of Ismael Rivera",
-        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        }
-      ],
-      "duration_ms": 427964,
-      "name": "Qu\u00edtate de la V\u00eda, Perico",
-      "url": "https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "The Dreamer Is The Dream",
         "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
       },
@@ -1675,6 +1639,42 @@
       "duration_ms": 334746,
       "name": "Sonic Anomaly",
       "url": "https://open.spotify.com/track/4oW5TZR1ommlrPipe5R7g2"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Sonero: The Music of Ismael Rivera",
+        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 427964,
+      "name": "Qu\u00edtate de la V\u00eda, Perico",
+      "url": "https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+        }
+      ],
+      "duration_ms": 345370,
+      "name": "El Regreso (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2025-08-07 16:57:48",

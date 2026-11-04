@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,917 likes - 63 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,908 likes - 63 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 10 | [Kinder der Nacht](https://open.spotify.com/track/5iUhmVWE4osz1bEFliRDDd) | [KaaCee](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV), [Dirty House Ink.](https://open.spotify.com/artist/3Kt90Sjb4JOLRbMunILkMR) | [Kinder der Nacht](https://open.spotify.com/album/4H7SBzPBhFF7dH9fWTpUgT) | 2:13 |
 | 11 | [Nächstenliebe](https://open.spotify.com/track/61zdXHYTIPD8WaCs5hQYoj) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Nächstenliebe](https://open.spotify.com/album/4kBCwBGPOB86PAfRkDEbv6) | 2:50 |
 | 12 | [Choice \(feat\. Kareen Lomax\)](https://open.spotify.com/track/2NP35GAj6usPBqYRV9fA3L) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [In The Night Again](https://open.spotify.com/album/4WzFwh3MS7Jcrdf5hwlGcc) | 2:52 |
-| 13 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 13 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 14 | [How Does It Feel](https://open.spotify.com/track/7m1DGNFRq1hPP1vn0OMx8u) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [Mashmex](https://open.spotify.com/artist/1AX9WyrNOT1POMpQQWZhQ7) | [How Does It Feel](https://open.spotify.com/album/3qxFPOB8UClbg6EcFGPTDy) | 2:13 |
 | 15 | [Heartbreak](https://open.spotify.com/track/0T5GoFBNze40ZGFkTx2SL2) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Heartbreak](https://open.spotify.com/album/4wKGB3EbCOi8ESTr5MOwfK) | 2:09 |
 | 16 | [Weekend Never Ends](https://open.spotify.com/track/0Ed2IikYin2FOY7DRQ8vaJ) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Weekend Never Ends](https://open.spotify.com/album/5YSarr7dHJ4Rd7Pte2Hjwd) | 2:32 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 62 | [selfish girl](https://open.spotify.com/track/2euDNX9hI0RYyMpN7hLbgQ) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [selfish girl](https://open.spotify.com/album/48oSlpeBMWgL7LFWizyvAh) | 1:47 |
 | 63 | [Bittersweet](https://open.spotify.com/track/6UDj2f587N0ObbyMAeAfWk) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Bittersweet](https://open.spotify.com/album/3PSWE9HJOHRtxAO1EfquPb) | 2:46 |
 
-Snapshot ID: `AAAAAGOchN9gNdJ+p1vEoFz6LWmOW5tu`
+Snapshot ID: `AAAAAPd/Ttz5ozXDu6TesIPDQR5U81bf`

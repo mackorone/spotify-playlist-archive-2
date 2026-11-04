@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,192 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,166 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 20 | [LESSTOMBÉ](https://open.spotify.com/track/2uF2XYjyn6hJSb79aa3mkf) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 3:36 |
 | 21 | [Blackstar](https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Blackstar](https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v) | 2:36 |
 | 22 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
-| 23 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
-| 24 | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/track/4sN7Kg50VWeDEmRhBONe9i) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/album/1K8INSckfNLaLTFkgQlTQs) | 2:34 |
-| 25 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:22 |
+| 23 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:22 |
+| 24 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
+| 25 | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/track/4sN7Kg50VWeDEmRhBONe9i) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/album/1K8INSckfNLaLTFkgQlTQs) | 2:34 |
 | 26 | [Whole Room Dancing](https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Whole Room Dancing](https://open.spotify.com/album/44wu5EOlqWT4yVUrAJ0qTC) | 2:56 |
 | 27 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 |
 | 28 | [Wishing Well](https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Wishing Well](https://open.spotify.com/album/73agEe7EOBj973yHVERdiX) | 3:53 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 31 | [UNE FLEUR EN ÉTÉ](https://open.spotify.com/track/5TzyuT7HQmxjtCxnzYLZP3) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [UNE FLEUR EN ÉTÉ](https://open.spotify.com/album/1gGdWczAHzq2B2SifhhoHt) | 2:39 |
 | 32 | [les fourmis](https://open.spotify.com/track/5PDQo9PRufKGHpobY2nUAl) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [guérir](https://open.spotify.com/album/5SLhRamBJlp8UHE5VhKj5Y) | 2:53 |
 | 33 | [PAS TOUS LES HOMMES](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
-| 34 | [sex](https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sex](https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp) | 2:42 |
-| 35 | [Try A Hundred Times](https://open.spotify.com/track/161RBd1KoPgrzPUGSgcIIB) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [Try A Hundred Times](https://open.spotify.com/album/6wAVQX0HJbLdyIHlRkBmVE) | 3:39 |
+| 34 | [Try A Hundred Times](https://open.spotify.com/track/161RBd1KoPgrzPUGSgcIIB) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [Try A Hundred Times](https://open.spotify.com/album/6wAVQX0HJbLdyIHlRkBmVE) | 3:39 |
+| 35 | [sex](https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sex](https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp) | 2:42 |
 | 36 | [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 |
 | 37 | [Living Room](https://open.spotify.com/track/0bFB03Qc4ZoLiaNy2zkuvJ) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Autumn](https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW) | 4:55 |
 | 38 | [Photos au mur](https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Photos au mur](https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |
 | 50 | [Who You Callin' Crazy](https://open.spotify.com/track/6RoAAej2b94deRZ23FehHW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues, Loose Lips](https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3) | 4:09 |
 
-Snapshot ID: `AAAAAADJL5/hZhStfQRbM5Fd/DkRc16R`
+Snapshot ID: `AAAAAKfOGpETkvDybygA1pIRFCKnlFUy`

@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 309826,
+  "num_followers": 309937,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFgL5lu2MSoHa1PBPamv9QhPe+ZI",
+  "snapshot_id": "AAAAAK2Ixt1ilaZhqxTYgIgrLxLBk8O1",
   "tracks": [
     {
       "added_at": "2024-10-25 23:07:14",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Dynasty: Roc La Familia",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "I Just Wanna Love U (Give It 2 Me)",
-      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Here Comes The Fuzz",
         "url": "https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 209626,
       "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Dynasty: Roc La Familia",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
     },
     {
       "added_at": "2024-10-25 23:07:14",

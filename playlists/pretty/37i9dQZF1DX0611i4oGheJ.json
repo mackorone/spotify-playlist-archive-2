@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 546021,
+  "num_followers": 546104,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABllBrcC8sgtnyUAqP5TRo9QVs4P",
+  "snapshot_id": "AAAAAH53ZQIr89qBrYXDgy4e4pGVJ9ho",
   "tracks": [
     {
       "added_at": "2026-09-25 04:00:27",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 245732,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "like home",
-        "url": "https://open.spotify.com/album/7H19Sj4ofTzO0CYA0ag9Pq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 182055,
-      "name": "like home",
-      "url": "https://open.spotify.com/track/3i7W9o2isj3qOgy093fixn"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Flower of the soul",
         "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 151999,
       "name": "I wish for the rain",
       "url": "https://open.spotify.com/track/59ZkByVPAIPe0YhqIO723Y"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "like home",
+        "url": "https://open.spotify.com/album/7H19Sj4ofTzO0CYA0ag9Pq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "like home",
+      "url": "https://open.spotify.com/track/3i7W9o2isj3qOgy093fixn"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Now Would Be A Good Time",
-        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
       },
       "artists": [
         {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 199258,
-      "name": "God's A Different Sword",
-      "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+        "name": "Now Would Be A Good Time",
+        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
         }
       ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+      "duration_ms": 199258,
+      "name": "God's A Different Sword",
+      "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
-      },
-      "artists": [
-        {
-          "name": "Elissa Mielke",
-          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
-        }
-      ],
-      "duration_ms": 282949,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Light That Match",
         "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 182386,
       "name": "Light That Match",
       "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
+      },
+      "artists": [
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "duration_ms": 282949,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Humble & Kind",
-      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 216781,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Humble & Kind",
+      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Blind and Brave",
         "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
       },
       "artists": [
         {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
         }
       ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1531,6 +1515,22 @@
       "duration_ms": 153720,
       "name": "strip mall",
       "url": "https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Soho House Valet",
-        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 242223,
-      "name": "Soho House Valet",
-      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Mending Song",
         "url": "https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 229560,
       "name": "Mending Song",
       "url": "https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Soho House Valet",
+        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 242223,
+      "name": "Soho House Valet",
+      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "No Place Like You",
-      "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 215869,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "No Place Like You",
+      "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "How Did It Seem To You?",
-        "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
       },
       "artists": [
         {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+          "name": "Jesse Jo Stark",
+          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
         }
       ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
+      "duration_ms": 231131,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
     }
   ],
   "unique_name": "Soft & Slow",

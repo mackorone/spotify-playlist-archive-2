@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Pair
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,108 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,101 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [devil´s in the sideroom](https://open.spotify.com/track/1qKdtUsOjrJy9Ids0ZQgoe) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [devil´s in the sideroom](https://open.spotify.com/album/7xJuAVgieSui8gau66R012) | 3:31 |
 | 90 | [Ponder Neek](https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [Ponder Neek](https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq) | 2:35 |
 
-Snapshot ID: `AAAAAArT/SBAgyRRfT42iSw4oVX4tYoh`
+Snapshot ID: `AAAAADZdK0v0fAz348sRtTAAgghvgUQw`

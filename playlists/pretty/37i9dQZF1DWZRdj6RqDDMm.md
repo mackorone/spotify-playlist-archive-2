@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,734 likes - 105 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,765 likes - 105 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 104 | [Adurotini](https://open.spotify.com/track/0nzKJEdWrAZMv0xQ97eLDv) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Adurotini](https://open.spotify.com/album/5DSBMZ0LQIbEOld01mOW5D) | 5:04 |
 | 105 | [With you](https://open.spotify.com/track/5I7TtT69kgDmU4Jo7JowvA) | [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx), [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [With you](https://open.spotify.com/album/0BSmdxQJPazdNVkQsm4Vhy) | 2:56 |
 
-Snapshot ID: `AAAAAIpC2Xc2RDNV5ew6DLV7SKBRpsGy`
+Snapshot ID: `AAAAAG2UZqi+I7ZGILiK20T5B85EYJkz`

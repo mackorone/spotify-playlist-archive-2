@@ -1604,6 +1604,24 @@
     {
       "album": {
         "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2W9zfGYdbWcX2nk03EQNs7"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/1XYYkoM02HedCIGPcdaeVk"
+    },
+    {
+      "album": {
+        "name": "EXTRA EXTRA!",
         "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
       },
       "artists": [
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 193080,
       "name": "FIRE",
       "url": "https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey"
@@ -2846,10 +2864,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 145173,
       "name": "MUST BE",
       "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
+    },
+    {
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2W9zfGYdbWcX2nk03EQNs7"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/6z9wMwI7das5Vt4de2xYm6"
     },
     {
       "album": {
@@ -2980,10 +3016,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 186011,
       "name": "NEW FRIENDS",
       "url": "https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM"
+    },
+    {
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2W9zfGYdbWcX2nk03EQNs7"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186011,
+      "name": "NEW FRIENDS",
+      "url": "https://open.spotify.com/track/3yppDJu0l02RlvJzLicxlu"
     },
     {
       "album": {
@@ -3020,10 +3074,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 132035,
       "name": "NIKE SHOE BOX (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/2j2iro1jdg8atPJfF7qg9X"
+    },
+    {
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2W9zfGYdbWcX2nk03EQNs7"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132035,
+      "name": "NIKE SHOE BOX (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3Ntydhcin9BU9EGBvbfzCZ"
     },
     {
       "album": {
@@ -3626,10 +3702,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 169013,
       "name": "SMILING",
       "url": "https://open.spotify.com/track/28xRKT60WwfDDb5pHtJT2N"
+    },
+    {
+      "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2W9zfGYdbWcX2nk03EQNs7"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "SMILING",
+      "url": "https://open.spotify.com/track/6kxreY12jBDZNm2rSnaY6s"
     },
     {
       "album": {

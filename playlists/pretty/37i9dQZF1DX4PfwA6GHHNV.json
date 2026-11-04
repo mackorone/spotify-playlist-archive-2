@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23563,
+  "num_followers": 23566,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIrlddyTLQ0XlKKdtvWanlla/kxh",
+  "snapshot_id": "AAAAAPmdpZR7Vgqr7QOXRFTqS2KTjCxf",
   "tracks": [
     {
       "added_at": "2026-10-19 15:51:33",
@@ -271,30 +271,26 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "Pra Qu\u00ea?",
-        "url": "https://open.spotify.com/album/2w5VbaZHOs6XmtlbMOG5pV"
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
       "artists": [
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         },
         {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Pra Qu\u00ea?",
-      "url": "https://open.spotify.com/track/4C3t5Qx8LsV6x9VYl6TCW6"
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -319,26 +315,30 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+        "name": "Pra Qu\u00ea?",
+        "url": "https://open.spotify.com/album/2w5VbaZHOs6XmtlbMOG5pV"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
         }
       ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+      "duration_ms": 177600,
+      "name": "Pra Qu\u00ea?",
+      "url": "https://open.spotify.com/track/4C3t5Qx8LsV6x9VYl6TCW6"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "duration_ms": 169249,
+      "name": "Meu Jeito De Amar",
+      "url": "https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "ZAZA",
         "url": "https://open.spotify.com/album/6SN1GyJsTfXFhuoaWnj05n"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 157777,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/5yfkS5GXG6JmPeSMElT7gN"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
-      },
-      "artists": [
-        {
-          "name": "Trivia",
-          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
-        }
-      ],
-      "duration_ms": 169249,
-      "name": "Meu Jeito De Amar",
-      "url": "https://open.spotify.com/track/4AWZQMgmB8jtLQ9PfUixs1"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 149333,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -851,6 +851,26 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "BRINDE",
         "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
       },
@@ -895,42 +915,26 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+        "name": "A Beira Mar",
+        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
       "artists": [
         {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
         },
         {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "Coulda Shown You",
-        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
-      },
-      "artists": [
-        {
-          "name": "Lucca DL",
-          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
         },
         {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+          "name": "D3jav\u00fa",
+          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
         }
       ],
-      "duration_ms": 141130,
-      "name": "Coulda Shown You",
-      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+      "duration_ms": 228735,
+      "name": "A Beira Mar",
+      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -955,26 +959,22 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "A Beira Mar",
-        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
+        "name": "Coulda Shown You",
+        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
       "artists": [
         {
-          "name": "Jhayam",
-          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
         },
         {
-          "name": "Zeferina",
-          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
-        },
-        {
-          "name": "D3jav\u00fa",
-          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
         }
       ],
-      "duration_ms": 228735,
-      "name": "A Beira Mar",
-      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
+      "duration_ms": 141130,
+      "name": "Coulda Shown You",
+      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
     },
     {
       "added_at": "2026-10-19 15:51:33",

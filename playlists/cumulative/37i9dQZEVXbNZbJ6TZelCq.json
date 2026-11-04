@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Am intrebat un om (Nebunu)",
       "url": "https://open.spotify.com/track/2Qvl3q2nNNDAOHuT652h5w"
@@ -8468,7 +8468,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 165910,
       "name": "Cash sau card",
       "url": "https://open.spotify.com/track/2Qx7HVYNfiKBDFQekaoZN3"
@@ -24454,7 +24454,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 136875,
       "name": "Jester",
       "url": "https://open.spotify.com/track/7kcBiaUm1uPSNgUbSioyEE"
@@ -30602,7 +30602,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 203920,
       "name": "MonCher",
       "url": "https://open.spotify.com/track/1S7tbZ8cDzZ0Pu2OOACEjX"
@@ -35360,7 +35360,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 211013,
       "name": "paradyse",
       "url": "https://open.spotify.com/track/2os0uiO7qZQoLYqjJQ2J6v"
@@ -36120,7 +36120,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 198837,
       "name": "Peter Parker - Balkanic Version",
       "url": "https://open.spotify.com/track/2j6msyUIiJMUgbcoWdXMZB"
@@ -37496,7 +37496,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 161048,
       "name": "Printesa Din Dubai",
       "url": "https://open.spotify.com/track/03OWoQY55BtX46zAu6ente"
@@ -37738,7 +37738,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Promite-mi",
       "url": "https://open.spotify.com/track/1Z150PGFyhGbzADUI3tdki"
@@ -42102,10 +42102,28 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
     },
     {
       "album": {
@@ -44480,7 +44498,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 214649,
       "name": "STIU CA TI-E DOR",
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
@@ -45542,7 +45560,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -45560,7 +45578,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -49756,7 +49774,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 216804,
       "name": "ultima noapte de dragoste",
       "url": "https://open.spotify.com/track/0oXZ3qfucx429EeoUDbXhK"

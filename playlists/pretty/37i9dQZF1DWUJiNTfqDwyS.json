@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 392441,
+  "num_followers": 392436,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUVUZoASNvtlQeuj950iKZ9PoiL",
+  "snapshot_id": "AAAAAGSQr2CUOP653LXgiSq4tAAAN1kf",
   "tracks": [
     {
       "added_at": "2026-03-20 16:45:24",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
-        "name": "The Fate of Ophelia",
-        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
+        "name": "Bloody Kisses",
+        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
         }
       ],
-      "duration_ms": 217862,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
+      "duration_ms": 289240,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI"
     },
     {
       "added_at": "2026-03-20 16:45:24",
@@ -515,18 +515,18 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
-        "name": "Bloody Kisses",
-        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI"
+      "duration_ms": 217862,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
     },
     {
       "added_at": "2026-03-20 16:45:24",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+    },
+    {
+      "added_at": "2026-03-20 16:45:24",
+      "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 245053,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/00L2MQuug19kvRNs41ZHFp"
-    },
-    {
-      "added_at": "2026-03-20 16:45:24",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2026-03-20 16:45:24",

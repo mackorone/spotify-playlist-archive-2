@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 383448,
+  "num_followers": 383470,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIdBMk5pPZpQ3h66xOhmK4IugDw/",
+  "snapshot_id": "AAAAALNkC0w2Lwx5ge9dixyhnlXECbHa",
   "tracks": [
     {
       "added_at": "2026-10-19 15:48:51",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
         "name": "Milagre de Amor",
         "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 256824,
       "name": "Milagre de Amor",
       "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -667,42 +667,6 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
-        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim (Ad10), Pt. 2",
-        "url": "https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 455338,
-      "name": "Compromisso/ Jesus",
-      "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
         "name": "Um certo Galileu (Vers\u00e3o Comemorativa 50 Anos)",
         "url": "https://open.spotify.com/album/0fKFV07rawmBk1fwuwNgSK"
       },
@@ -783,6 +747,42 @@
       "duration_ms": 352501,
       "name": "Um certo Galileu - Vers\u00e3o Comemorativa 50 Anos",
       "url": "https://open.spotify.com/track/6fyy49Rdt8p6sWgDhmmWIc"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
+        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim (Ad10), Pt. 2",
+        "url": "https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 455338,
+      "name": "Compromisso/ Jesus",
+      "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
     },
     {
       "added_at": "2026-10-19 15:48:51",

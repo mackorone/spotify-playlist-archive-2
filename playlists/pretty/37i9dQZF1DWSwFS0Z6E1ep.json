@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 313145,
+  "num_followers": 313171,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM0Msjyf1+0rgzJ2maidhZvzSYoE",
+  "snapshot_id": "AAAAAKxvAKAq7o56W6sOr4v3y5m55Zwm",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Memories Never Grow Old / Good Lovin'",
+        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
+      },
+      "artists": [
+        {
+          "name": "Dickey Lee",
+          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
+        },
+        {
+          "name": "The Collegiates",
+          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
+        }
+      ],
+      "duration_ms": 172568,
+      "name": "Good Lovin'",
+      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Frankie Lymon & The Teenagers Greatest Hits",
         "url": "https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 138520,
       "name": "My Bucket's Got a Hole in It",
       "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Memories Never Grow Old / Good Lovin'",
-        "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
-      },
-      "artists": [
-        {
-          "name": "Dickey Lee",
-          "url": "https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq"
-        },
-        {
-          "name": "The Collegiates",
-          "url": "https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On"
-        }
-      ],
-      "duration_ms": 172568,
-      "name": "Good Lovin'",
-      "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
     },
     {
       "added_at": "2022-06-07 05:25:13",

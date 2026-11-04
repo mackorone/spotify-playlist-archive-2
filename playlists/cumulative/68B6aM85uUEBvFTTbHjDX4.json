@@ -1613,6 +1613,28 @@
     },
     {
       "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/0UYwmKC16Zl74hASov2dk6"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        },
+        {
+          "name": "Mauro Somm",
+          "url": "https://open.spotify.com/artist/3jGc6igIVzjC0ElXKbsfHd"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230270,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/5GxetRorkvVDqah2jGNjwT"
+    },
+    {
+      "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
       },

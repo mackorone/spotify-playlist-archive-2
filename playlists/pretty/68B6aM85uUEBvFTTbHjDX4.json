@@ -6,7 +6,7 @@
     "name": "Bram Bloemen",
     "url": "https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq"
   },
-  "snapshot_id": "AAABeYawHEA28nRlZd9zz5kod6nq+L26",
+  "snapshot_id": "AAABem8SYpJOgQJsouNcA2KL19mesax4",
   "tracks": [
     {
       "added_at": "2018-05-19 11:41:16",
@@ -3259,6 +3259,26 @@
       "duration_ms": 171200,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/7hNcBQYwyWZTfEwSEkV0xw"
+    },
+    {
+      "added_at": "2026-11-03 10:21:27",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/0UYwmKC16Zl74hASov2dk6"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        },
+        {
+          "name": "Mauro Somm",
+          "url": "https://open.spotify.com/artist/3jGc6igIVzjC0ElXKbsfHd"
+        }
+      ],
+      "duration_ms": 230270,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/5GxetRorkvVDqah2jGNjwT"
     }
   ],
   "unique_name": "Lopen",

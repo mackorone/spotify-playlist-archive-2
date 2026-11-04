@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Phyno, Omah Lay, Davido, Sarkodoie, M.anifest, Sewa and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,261 likes - 62 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,356 likes - 62 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 61 | [Joki na Joke](https://open.spotify.com/track/7zJFDScFi8lrZhIaPzsAwC) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Joki na Joke](https://open.spotify.com/album/4EYjpY3EzzbAQ3UZpiLAV0) | 2:36 |
 | 62 | [Mad](https://open.spotify.com/track/1nMCBlgsXtGQEO9QmrPIYx) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Mad](https://open.spotify.com/album/3PrmlZ3PwBljQIIjC1ctfk) | 2:46 |
 
-Snapshot ID: `AAAAAAjMJdYdkY9Zm1iZT2ZYo5Lzg3gS`
+Snapshot ID: `AAAAACbzZ/61diE9dMKaZfRc+6cSeWFG`

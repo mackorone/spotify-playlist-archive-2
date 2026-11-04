@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 151464,
+  "num_followers": 151457,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/xw+S4XqoazUDDig7iHaPV85eo",
+  "snapshot_id": "AAAAANWF8PL514k0GtQAexiG5jxZV/e6",
   "tracks": [
     {
       "added_at": "2026-10-27 13:10:15",
@@ -747,30 +747,6 @@
     {
       "added_at": "2026-10-27 13:10:15",
       "album": {
-        "name": "Sentido \u00e0 Zona Leste",
-        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 123508,
-      "name": "Sentido \u00e0 Zona Leste",
-      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2026-10-27 13:10:15",
-      "album": {
         "name": "\u00c9 Que os Menino \u00c9 Bom",
         "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 145655,
       "name": "\u00c9 Que os Menino \u00c9 Bom",
       "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
+    },
+    {
+      "added_at": "2026-10-27 13:10:15",
+      "album": {
+        "name": "Sentido \u00e0 Zona Leste",
+        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 123508,
+      "name": "Sentido \u00e0 Zona Leste",
+      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
     },
     {
       "added_at": "2026-10-27 13:10:15",

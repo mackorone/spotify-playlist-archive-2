@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Navz\-47
 
-399 songs - 20 hr 41 min
+400 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [TATAKAE](https://open.spotify.com/track/3PmcImYvSFg5VMhVZVmS7T) | [showswrld](https://open.spotify.com/artist/6Xl8AHvIYiBvzn7HseTpWS), [Silvan](https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw) | [TATAKAE](https://open.spotify.com/album/3jFBJVUFeNd00HSaF9UlcX) | 2:15 | 2025-09-08 | 2026-05-29 |
 | [Taxi Taxi](https://open.spotify.com/track/3PPKGIG8FHOpJP5yArO5E9) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Viviane Chaix](https://open.spotify.com/artist/4U6JVqUGCdSW8Aas1qob6E), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Sakkarakatti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60WDIMQNU3toN91FiRkF8Z) | 5:47 | 2022-02-08 | 2024-12-29 |
 | [Teri Maa Ki](https://open.spotify.com/track/3CpENaRVeAdz5Eezj7fYwl) | [K4rupu](https://open.spotify.com/artist/7fEyTrxBD0QR6iAV6tODe8), [Kee](https://open.spotify.com/artist/4qm3NLBdhIWgKE08B4aSNV) | [Teri Maa Ki](https://open.spotify.com/album/3aLEtJ7gzIYvFzJN0yIR3J) | 1:50 | 2026-09-18 |  |
+| [Terror Error](https://open.spotify.com/track/0J5VOgrjm9weGrAQ8qImZ7) | [Hari S R](https://open.spotify.com/artist/2JE6c6KUpnyUqx8JcyU7d7), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [Drones](https://open.spotify.com/album/26VEuzFPnNRfBhJPckkXC5) | 3:36 | 2026-11-03 |  |
 | [THADI \(Clean Version\)](https://open.spotify.com/track/640qIPvO9CgNHheous2TVe) | [Slim KD](https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI), [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE), [Abhishek Solomon](https://open.spotify.com/artist/5dgtHxWOCczwceqvBio34M) | [THADI \(Clean Version\)](https://open.spotify.com/album/7vn4kNiI4IG74mLBbeQKnb) | 3:02 | 2025-04-18 | 2025-06-04 |
 | [Thakida](https://open.spotify.com/track/5a7zraT8M2KCoti6y55r6w) | [No Ya Kai](https://open.spotify.com/artist/6s0uMC9N27Jnp3kOhYHmi9), [Neil Pepin](https://open.spotify.com/artist/7JDzp7OdHGCNhufVRPcPcE), [raze](https://open.spotify.com/artist/2bHCMsJhQQqw4A3RvzryGP) | [Thakida](https://open.spotify.com/album/1ClupOIOZuE3Jk5jllMJTL) | 2:34 | 2025-02-21 | 2026-02-13 |
 | [Thakka Thai \- From "Cheers Music"](https://open.spotify.com/track/5XmdQR3j0ymfMRQ4XTC68j) | [RITUAL](https://open.spotify.com/artist/2cmiBDa6er4eCF0Fez1gus), [Silvan](https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw) | [Thakka Thai \(From "Cheers Music"\)](https://open.spotify.com/album/0H6yH2chI03zjSY5hWnyco) | 3:01 | 2026-02-23 |  |

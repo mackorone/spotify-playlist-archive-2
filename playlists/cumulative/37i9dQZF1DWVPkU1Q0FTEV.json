@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 277500,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/0w1eEmcA4LdQpOf7wzLAUr"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 214588,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0YL2OHBm98Qv8Ca07XaN7b"
@@ -384,6 +384,24 @@
       "duration_ms": 307500,
       "name": "Adrenaline Assault",
       "url": "https://open.spotify.com/track/3ivjaY274FVZGORw7vHWe6"
+    },
+    {
+      "album": {
+        "name": "Adrenaline Junkie",
+        "url": "https://open.spotify.com/album/5tPfu3c3CteCwZjtoCi94g"
+      },
+      "artists": [
+        {
+          "name": "Fin Carroll",
+          "url": "https://open.spotify.com/artist/5rTMtXlb3xw0Y2ISoVqPb0"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204303,
+      "name": "Adrenaline Junkie",
+      "url": "https://open.spotify.com/track/4rzWnuhHtcOk3La8xmvJ2C"
     },
     {
       "album": {
@@ -496,7 +514,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 335280,
       "name": "Arkade",
       "url": "https://open.spotify.com/track/7z9z8FAiNHLoukpMB6vEpt"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 276000,
       "name": "Bass Control",
       "url": "https://open.spotify.com/track/59kBYRhTuyzPaVd9vm5V6h"
@@ -789,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Brasilian",
+        "url": "https://open.spotify.com/album/5pnasuLeFU4OVs41AarQ5w"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285490,
+      "name": "Brasilian",
+      "url": "https://open.spotify.com/track/1pfFg1AeRevJhSI4L4MavK"
+    },
+    {
+      "album": {
         "name": "BREAK THE SPEAKERS",
         "url": "https://open.spotify.com/album/3LsWvJqDJAdJCFChbUgheD"
       },
@@ -804,6 +840,32 @@
       "duration_ms": 219000,
       "name": "BREAK THE SPEAKERS",
       "url": "https://open.spotify.com/track/2WuSvoJWLQhL7DG9qYM0Yc"
+    },
+    {
+      "album": {
+        "name": "Break This Party",
+        "url": "https://open.spotify.com/album/6vDQDJ5p83bFYhsFMtq142"
+      },
+      "artists": [
+        {
+          "name": "Ed E.T",
+          "url": "https://open.spotify.com/artist/1PIf0GYyEuXbSIyPAzNPkI"
+        },
+        {
+          "name": "Rudaki",
+          "url": "https://open.spotify.com/artist/5XYNc9Y6UvVlJdDofYxi8i"
+        },
+        {
+          "name": "RASC\u00d8",
+          "url": "https://open.spotify.com/artist/1OUqg1dr0QhcBRrH80cmI3"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Break This Party",
+      "url": "https://open.spotify.com/track/1B68CkJSYt4dYnBmuJXdJU"
     },
     {
       "album": {
@@ -1045,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "CONTROL FREAK",
+        "url": "https://open.spotify.com/album/0YcMvlDnAPf6PXxZ2JaTLE"
+      },
+      "artists": [
+        {
+          "name": "CATALYST",
+          "url": "https://open.spotify.com/artist/27D1XEtLUVpo52WMshLMpX"
+        },
+        {
+          "name": "SICKEAU",
+          "url": "https://open.spotify.com/artist/5WgJw8EFdAo7K0DUOlWM5o"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "CONTROL FREAK",
+      "url": "https://open.spotify.com/track/2oWOcwAg0jX01RhdC2XOoY"
+    },
+    {
+      "album": {
         "name": "Corrupted",
         "url": "https://open.spotify.com/album/1JXjmEQoBrmRX5MVXOxC4d"
       },
@@ -1096,7 +1180,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 302539,
       "name": "Cryptic - Kobosil Hart Mix",
       "url": "https://open.spotify.com/track/7fXK4nSADxslMaAHshrkZI"
@@ -1244,7 +1328,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 326400,
       "name": "Desespera",
       "url": "https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7"
@@ -1417,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Double The Speed",
+        "url": "https://open.spotify.com/album/6GdDsgIhjNXBbmwfzYlLsX"
+      },
+      "artists": [
+        {
+          "name": "Daniele Chiabrera",
+          "url": "https://open.spotify.com/artist/0ctp83cGBHhwxyIHVnBdWj"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235687,
+      "name": "Double The Speed",
+      "url": "https://open.spotify.com/track/1SS2eLGJQS5a1wPjg8vWvl"
+    },
+    {
+      "album": {
         "name": "Drop It Like It's Hot",
         "url": "https://open.spotify.com/album/4HBrc7rHMjB2LWZBZFjkPM"
       },
@@ -1428,7 +1530,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 213693,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/6KJt0MTAD57CjtZ4ID7x2e"
@@ -1486,7 +1588,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 226086,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/5GlppuRB70itNumGWhmdF5"
@@ -1658,7 +1760,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 185943,
       "name": "Everything for Money",
       "url": "https://open.spotify.com/track/30VS6OsQiciVNCeB8q66IO"
@@ -1800,7 +1902,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 195000,
       "name": "FAVELA",
       "url": "https://open.spotify.com/track/77tXrFoSnkvx7DR9wHDu4Q"
@@ -2348,7 +2450,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 336623,
       "name": "Give Me A Break (GRAVEKID) - Per Pleks Remix",
       "url": "https://open.spotify.com/track/1Rft4rRIT2OBa6bAUmqsbN"
@@ -2388,7 +2490,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 320000,
       "name": "Hajji Atlantis",
       "url": "https://open.spotify.com/track/1OxyyhUIUuzrrSmQnES5h7"
@@ -2572,7 +2674,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 271661,
       "name": "Hidden Frequencies",
       "url": "https://open.spotify.com/track/0ihoHOy7es3FbtJKageQUn"
@@ -2612,7 +2714,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 305165,
       "name": "Holi",
       "url": "https://open.spotify.com/track/4nCx7lGZicc4zQKvA9gu9r"
@@ -2655,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "44028",
+        "url": "https://open.spotify.com/album/7pROTm65uazeyq2h3xts2B"
+      },
+      "artists": [
+        {
+          "name": "Vlace",
+          "url": "https://open.spotify.com/artist/4ZY8YRSlpQjiajlKEPRG7a"
+        },
+        {
+          "name": "KSN",
+          "url": "https://open.spotify.com/artist/0XoL7jG81GKX7WPdC8SKvp"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/3wxe5qtdUpH4Rxbv9Js8P9"
+    },
+    {
+      "album": {
         "name": "Bomb Ass Bass",
         "url": "https://open.spotify.com/album/4xwpZVzialmHn12IeOnZtw"
       },
@@ -2692,6 +2816,24 @@
       "duration_ms": 359225,
       "name": "I Just Wanna Rave",
       "url": "https://open.spotify.com/track/67S1W4XLWFC4onYLlg0az8"
+    },
+    {
+      "album": {
+        "name": "I'm Feeling",
+        "url": "https://open.spotify.com/album/4O1eOIFb0GNLgyfnyxn9hj"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307451,
+      "name": "I'm Feeling",
+      "url": "https://open.spotify.com/track/5pXY2Jk8cSBuo9x4S5A1bD"
     },
     {
       "album": {
@@ -2760,7 +2902,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 333061,
       "name": "Interdimensional Portal",
       "url": "https://open.spotify.com/track/0RGq3BAWmOUoRNntkTUoGH"
@@ -3076,7 +3218,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 299220,
       "name": "Kollaps - SveTec Remix",
       "url": "https://open.spotify.com/track/0KSqOm96QT7MDMxVG7r62L"
@@ -3475,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Modern Rave Culture",
+        "url": "https://open.spotify.com/album/1S0JmzLB1ijn7nk4Ian4g0"
+      },
+      "artists": [
+        {
+          "name": "Onik",
+          "url": "https://open.spotify.com/artist/0zNf6at1PHSBzl1uiVd97R"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281806,
+      "name": "Modern Rave Culture",
+      "url": "https://open.spotify.com/track/0QGWMekJrmgwWeSxBEj7lU"
+    },
+    {
+      "album": {
         "name": "Devil May Cry",
         "url": "https://open.spotify.com/album/0RdkCpTUPeU3xqICHWvk0N"
       },
@@ -3490,6 +3650,24 @@
       "duration_ms": 249600,
       "name": "Move Your Body - Original Mix",
       "url": "https://open.spotify.com/track/63ZW9vN2WYoY4S9Sax1RwM"
+    },
+    {
+      "album": {
+        "name": "Muita",
+        "url": "https://open.spotify.com/album/7x9sKKLLS65NvtF7VPtSW1"
+      },
+      "artists": [
+        {
+          "name": "KRANK.",
+          "url": "https://open.spotify.com/artist/71nL3JrP67LMTpz8tFTjaE"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234750,
+      "name": "Muita",
+      "url": "https://open.spotify.com/track/0XgtMid5YqNKcnNB6dNkY5"
     },
     {
       "album": {
@@ -3584,7 +3762,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 354000,
       "name": "NO CONNECTION",
       "url": "https://open.spotify.com/track/1DzuJ1WJffdj6zLjjwrCI5"
@@ -3656,7 +3834,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 261000,
       "name": "Nuclear",
       "url": "https://open.spotify.com/track/1934tL6DWl2wdw4GrV8GMZ"
@@ -3870,7 +4048,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 206153,
       "name": "Pattern Interruption - Original Mix",
       "url": "https://open.spotify.com/track/67UsCRPeQzFs1FsV3jWQTI"
@@ -4202,7 +4380,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 316106,
       "name": "Rock This Place",
       "url": "https://open.spotify.com/track/1grslxEGzIDdcyZZraKu28"
@@ -4382,7 +4560,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 326345,
       "name": "Sch\u00f6neweide - Original Mix",
       "url": "https://open.spotify.com/track/6movATKX2GcJUMomIJyhUp"
@@ -4552,7 +4730,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 283000,
       "name": "Sorry Baby",
       "url": "https://open.spotify.com/track/7gAKe1ESfzuqDtIAvL6hU3"
@@ -4786,7 +4964,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 325714,
       "name": "Tarzan",
       "url": "https://open.spotify.com/track/5CcHRD3ZKH814SVELKD1Es"
@@ -4822,7 +5000,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 195100,
       "name": "Techno Fix - Radio Edit",
       "url": "https://open.spotify.com/track/5rNG0UwcFI9scz37V70OdY"
@@ -4952,7 +5130,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 219000,
       "name": "The System",
       "url": "https://open.spotify.com/track/6OIoQDKccAq9sOME9L6wMP"
@@ -5024,7 +5202,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 240000,
       "name": "This Is PERCY!",
       "url": "https://open.spotify.com/track/1O9MkutItJfQzPOKeXGZCv"
@@ -5166,7 +5344,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 330000,
       "name": "Turn Up The Heat",
       "url": "https://open.spotify.com/track/0LUj5OxBb2eMlh1BZ6fkzv"
@@ -5206,6 +5384,24 @@
       "duration_ms": 423800,
       "name": "Unchanged",
       "url": "https://open.spotify.com/track/5X88Dzc8T01NmYrbsiIPoh"
+    },
+    {
+      "album": {
+        "name": "Der Abgrund",
+        "url": "https://open.spotify.com/album/5xq0G7h1c6tk9oXMNnEjGs"
+      },
+      "artists": [
+        {
+          "name": "O.B.I.",
+          "url": "https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/2MOxQDsPEJlOfqJWKTwWWU"
     },
     {
       "album": {
@@ -5278,6 +5474,42 @@
       "duration_ms": 286956,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/5DWmaYtp6G9IXvn2lp9UUg"
+    },
+    {
+      "album": {
+        "name": "WE DON'T NEED TO SPEAK",
+        "url": "https://open.spotify.com/album/0FkhQFrcpITMW8PN6Yp3gU"
+      },
+      "artists": [
+        {
+          "name": "3ATISTA",
+          "url": "https://open.spotify.com/artist/013BmYsSzsDVIUCXbqaW7o"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241750,
+      "name": "WE DON'T NEED TO SPEAK",
+      "url": "https://open.spotify.com/track/69eEALJ93NOdqDQ2pGKt2c"
+    },
+    {
+      "album": {
+        "name": "We Don't Stop",
+        "url": "https://open.spotify.com/album/2DHlHZHYS62vf7btx49jHq"
+      },
+      "artists": [
+        {
+          "name": "VIDO",
+          "url": "https://open.spotify.com/artist/28DVBoEuAN6d6D6u83v2JP"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217169,
+      "name": "We Don't Stop",
+      "url": "https://open.spotify.com/track/10246cyQyf7rKofzddG4FD"
     },
     {
       "album": {

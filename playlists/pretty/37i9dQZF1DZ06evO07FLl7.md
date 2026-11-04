@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,396 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 48 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 | 49 | [Da Lama / Afrontamento](https://open.spotify.com/track/6Zkb1V7bbL5hIR4SEdhmGm) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Outra Esfera](https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k) | 6:24 |
 
-Snapshot ID: `auUvgAAAAADEGDmsfpE2Q+AbiW9jzanL`
+Snapshot ID: `auaBAAAAAADNp1XOOuY2Yh3iRT0lH9Rk`

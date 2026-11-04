@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Donovan Woods, Charlotte Cornfield
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,838 likes - 159 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,825 likes - 159 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 158 | [Compass](https://open.spotify.com/track/1cG638T4uymBifCbyqy8Qj) | [Fruition](https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8) | [Something More](https://open.spotify.com/album/0Lak2L8IVUM8nPjJh4H7vV) | 4:11 |
 | 159 | [Haven Hill](https://open.spotify.com/track/2os8dLW2POd2gezm36kXJe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Haven Hill](https://open.spotify.com/album/3HT5SnCWmVP7SNh7KetkC1) | 3:50 |
 
-Snapshot ID: `AAAAAD9I5hmjIcxd5aV5uHRCQoGywGNw`
+Snapshot ID: `AAAAAJ+MzeGgXz/zqQpBsULPbm5Su0Tv`

@@ -2863,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Dear Lord",
+        "url": "https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r"
+      },
+      "artists": [
+        {
+          "name": "Adeyinka Alaseyori",
+          "url": "https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532062,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
+    },
+    {
+      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
@@ -12801,6 +12819,28 @@
     },
     {
       "album": {
+        "name": "Those Who Belong (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1023500,
+      "name": "Those Who Belong (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR"
+    },
+    {
+      "album": {
         "name": "EXPANSION",
         "url": "https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F"
       },
@@ -12886,7 +12926,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
@@ -12930,7 +12970,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 193422,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay"

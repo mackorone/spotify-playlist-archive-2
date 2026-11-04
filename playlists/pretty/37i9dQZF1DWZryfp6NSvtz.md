@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,430 likes - 261 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,458 likes - 261 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,7 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 166 | [GOLD](https://open.spotify.com/track/4yVwrAG2WtCWkAJs1NJhue) | [mudy on the 昨晩](https://open.spotify.com/artist/7m3Wr9xcBXSiUysFwOMLnx) | [The Golden Age](https://open.spotify.com/album/0lKcuS206Gp5R91qDO05v1) | 3:29 |
 | 167 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
 | 168 | [Hysteria](https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Hysteria](https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY) | 2:48 |
-| 169 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
+| 169 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 | 170 | [Sex & Drugs](https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Sex & Drugs](https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv) | 3:15 |
 | 171 | [Ghosts](https://open.spotify.com/track/1z8A0pBSko5gfFlCY2cflK) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Ghosts](https://open.spotify.com/album/3ZhTfeef3Y6AkC7PEaGmRJ) | 3:12 |
 | 172 | [Black Stars \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Black Stars](https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f) | 3:26 |
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 260 | [Crab](https://open.spotify.com/track/7bmmpNsaJxl1Wi4FNobWgw) | [TVOD](https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh) | [The Farm](https://open.spotify.com/album/7L4rmHev0bDisrFvOY8P96) | 2:45 |
 | 261 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 
-Snapshot ID: `AAAAAECnKTaNrUQDslnskUQmFhmxh6Ye`
+Snapshot ID: `AAAAALuxhO/efxfQqazE7hzhbsiMQRM7`

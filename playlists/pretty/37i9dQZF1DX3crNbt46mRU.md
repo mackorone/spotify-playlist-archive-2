@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including AYLIVA, Monet192, Ikkimel, Sido, Bligg, Heimweh & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,151 likes - 96 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,155 likes - 96 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 87 | [second skin](https://open.spotify.com/track/0NPNeIzgvh2OF1lUZO310x) | [Wavy](https://open.spotify.com/artist/6fo2QiffMr02sEA2aFvUIz), [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [second skin](https://open.spotify.com/album/1VO5SQsx1ELnx01GkoTfeL) | 2:37 |
 | 88 | [la verità](https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [la verità](https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5) | 3:05 |
 | 89 | [Upside Down](https://open.spotify.com/track/6T4ug8wsWpC8N8tJO4X31s) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Upside Down](https://open.spotify.com/album/11HLVIOuiubtk9xnVGJMHZ) | 2:19 |
-| 90 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 90 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 91 | [Something I Wanna Say](https://open.spotify.com/track/5kaUpoIe6ZE77m039AJjDp) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Something I Wanna Say](https://open.spotify.com/album/4tW1209rJsFi3IE97IArtw) | 2:22 |
 | 92 | [THERAPEUT](https://open.spotify.com/track/22n4u65CGt1kAVxhwdeEzC) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [THERAPEUT](https://open.spotify.com/album/7keXVv4XMRIcVxltFl7MKT) | 2:07 |
 | 93 | [Nothing is Lost](https://open.spotify.com/track/06SnkXgnkyjbf8HXT2Tnww) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Séance](https://open.spotify.com/album/5qrPAak9YE0GXDvLajF9YK) | 4:51 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 95 | [Spinnin \(feat\. 21 Savage\)](https://open.spotify.com/track/39nAnKr81v4pgYJe3c2AA3) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Spinnin \(feat\. 21 Savage\)](https://open.spotify.com/album/2NBf4aKmDkQZqrl7tlOEPm) | 3:44 |
 | 96 | [Presslufthammer](https://open.spotify.com/track/77NAR2cBoHQqorsc81qAQl) | [Alexander Marcus](https://open.spotify.com/artist/4WmEJkzJ7Z3yeIa98QS93Y) | [Presslufthammer](https://open.spotify.com/album/728UO2GdUbBfJp4AZDBh69) | 2:04 |
 
-Snapshot ID: `AAAAAIJWqNB/jPuWJC4iUgr9QXAg2Y7h`
+Snapshot ID: `AAAAAMndcSJewo7IsxSH+IHQ4ipooW/p`

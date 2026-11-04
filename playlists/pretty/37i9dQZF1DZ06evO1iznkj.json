@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 212879,
+  "num_followers": 212936,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACFhUc9UiisgXK7s8obGCdP",
+  "snapshot_id": "auaBAAAAAACY9uSFSaqR7JPY3SfyMQLQ",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "YK Where It's Goin",
-        "url": "https://open.spotify.com/album/7hvZQ7mzQ1fqtskqtOYFEQ"
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
       "artists": [
         {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 180869,
-      "name": "YK Where It's Goin",
-      "url": "https://open.spotify.com/track/7pEbUrQNQ5cEpFltjha5TA"
+      "duration_ms": 169906,
+      "name": "TOP FLOOR (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+        "name": "YK Where It's Goin",
+        "url": "https://open.spotify.com/album/7hvZQ7mzQ1fqtskqtOYFEQ"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 169906,
-      "name": "TOP FLOOR (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd"
+      "duration_ms": 180869,
+      "name": "YK Where It's Goin",
+      "url": "https://open.spotify.com/track/7pEbUrQNQ5cEpFltjha5TA"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 184093,
-      "name": "Surf (feat. Gunna)",
-      "url": "https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -943,22 +923,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Bad",
-        "url": "https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 162377,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q"
+      "duration_ms": 184093,
+      "name": "Surf (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 212658,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
     }
   ],
   "unique_name": "This Is Gunna",

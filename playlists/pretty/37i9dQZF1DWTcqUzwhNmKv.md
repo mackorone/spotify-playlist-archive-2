@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Rev3rent are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658,950 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,012 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 99 | [Cloudfall](https://open.spotify.com/track/2FLcvAxo2yLuP1QUUuw5dy) | [REZN](https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK) | [Cycles in the Infinite Dream](https://open.spotify.com/album/2TPMM1A2ZihUKty4r7LJS1) | 4:06 |
 | 100 | [Burning The Lungs Of Earth](https://open.spotify.com/track/6luc7YrLOpzgKUNJtXU3rr) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Burning The Lungs Of Earth](https://open.spotify.com/album/4fryR3SFWFKDvMEoOc5LqP) | 5:12 |
 
-Snapshot ID: `AAAAAP/c+GZ16dsMZT8mIQJLQKpgQC2v`
+Snapshot ID: `AAAAAJVWBL2ZbwxIiauwK0edobTBW1o0`

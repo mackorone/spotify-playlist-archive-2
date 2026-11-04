@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Su Presencia
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,196 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,215 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [¿Quién Dijo Miedo? \- Versión Vallenato](https://open.spotify.com/track/75ZGX7w9qgNcLVbZC94K37) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Alex Martinez](https://open.spotify.com/artist/1mI8LQvP73Y5IMXN0KstBZ), [Oscar Gamarra](https://open.spotify.com/artist/5ytyAQZRgrkqSeGiRgkSi1), [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS), [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [¿Quién Dijo Miedo? \(Versión Vallenato\)](https://open.spotify.com/album/1mgCKYWlbTNPusTyjelJ03) | 4:06 |
 | 100 | [Vivo Agradecido](https://open.spotify.com/track/2Cmje8z81Odt7jDcVhbsVI) | [Obyone](https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa) | [Vivo Agradecido](https://open.spotify.com/album/1yU8ULR4vOrZmm1FQs6wqd) | 3:21 |
 
-Snapshot ID: `AAAAANMokCHEHfOoGm4JlEI1d6PBwU0z`
+Snapshot ID: `AAAAAC2jOrrjDim+V1Tvni/6+zmWiQiK`

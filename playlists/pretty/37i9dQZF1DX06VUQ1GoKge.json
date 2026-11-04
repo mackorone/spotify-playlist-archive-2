@@ -1,12 +1,12 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 551470,
+  "num_followers": 551461,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIo8tkz2fn2hlQ3eyT7vqtM99WIQ",
+  "snapshot_id": "AAAAAN4PtB3kMWtPgMTKvszt4ZiPEK1F",
   "tracks": [
     {
       "added_at": "2025-11-05 11:45:24",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 322933,
-      "name": "Tornado Of Souls",
-      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "can u see me in the dark?",
         "url": "https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 238756,
       "name": "can u see me in the dark?",
       "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 322933,
+      "name": "Tornado Of Souls",
+      "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Judas",
         "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "The End of All We Know",
-        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 251512,
-      "name": "The End of All We Know",
-      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Obsolete",
         "url": "https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 265750,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "The End of All We Know",
+        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 251512,
+      "name": "The End of All We Know",
+      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Necessary Evil",
-        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Necessary Evil",
-      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Death Diviner",
-        "url": "https://open.spotify.com/album/2vMRAb3qY0ilWVSfLeBEDH"
+        "name": "Necessary Evil",
+        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
       },
       "artists": [
         {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 305813,
-      "name": "Death Diviner",
-      "url": "https://open.spotify.com/track/4zx54sa1AiERlvrFyLMXtJ"
+      "duration_ms": 176040,
+      "name": "Necessary Evil",
+      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
+        "name": "Death Diviner",
+        "url": "https://open.spotify.com/album/2vMRAb3qY0ilWVSfLeBEDH"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
         }
       ],
-      "duration_ms": 247040,
-      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
-      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+      "duration_ms": 305813,
+      "name": "Death Diviner",
+      "url": "https://open.spotify.com/track/4zx54sa1AiERlvrFyLMXtJ"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1651,6 +1635,22 @@
       "duration_ms": 200987,
       "name": "You Never Listen",
       "url": "https://open.spotify.com/track/4e35IvdO5AoCUNFUur99T5"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+        "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
+      "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
     }
   ],
   "unique_name": "Blood, Sweat & Cheers",

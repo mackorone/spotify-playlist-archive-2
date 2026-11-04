@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,830 likes - 156 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,779 likes - 156 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 155 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
 | 156 | [BIG 5](https://open.spotify.com/track/5S5gF7ujCupq2bmZMhAvmJ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:03 |
 
-Snapshot ID: `AAAAABqMU1WX+tGo3ssCDjLBDp5A7RG5`
+Snapshot ID: `AAAAABWySUTj58HLH0quinNqMoDwLfq/`

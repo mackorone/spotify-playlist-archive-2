@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Ofelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,519 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,525 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [śniło mi się, że się nie zakochałam](https://open.spotify.com/track/1XUeJd5kGm6k7qRix6mWqg) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [śniło mi się, że się nie zakochałam](https://open.spotify.com/album/2cR7zPwNhEopnGOvmsxQDn) | 2:53 |
 | 100 | [No i co teraz](https://open.spotify.com/track/7hIhzCfDxWly0XcLeA2MkZ) | [zachwyt](https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01), [Clayknot](https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7) | [Chciałbym być jak Wojtek Nowak](https://open.spotify.com/album/4dzcmqYmFcLlVm0yeBr78H) | 3:53 |
 
-Snapshot ID: `AAAAAHj8n0tNsThEroUDCbDPBWusT2Oz`
+Snapshot ID: `AAAAACKB1TL4nMXNL5cUx4x7d+uZ9zDq`

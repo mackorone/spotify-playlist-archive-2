@@ -3631,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Quand la vie est vide",
+        "url": "https://open.spotify.com/album/6N852oP7zIvARE3y4tJrAc"
+      },
+      "artists": [
+        {
+          "name": "Dje\u00efke\u00ef",
+          "url": "https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Quand la vie est vide",
+      "url": "https://open.spotify.com/track/3GIdXR8xerdTn33599qIgr"
+    },
+    {
+      "album": {
         "name": "Que je t'aime",
         "url": "https://open.spotify.com/album/0mtw01T6Ej87tx9U8TZfhw"
       },

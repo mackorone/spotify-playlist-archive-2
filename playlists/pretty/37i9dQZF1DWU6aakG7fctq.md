@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Silvana Estrada & M\. Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,207 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,122 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Hombre De Bien](https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Hombre De Bien](https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3) | 3:01 |
 | 50 | [La gravedad y el tiempo.](https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [La gravedad y el tiempo.](https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM) | 2:42 |
 
-Snapshot ID: `AAAAACY5v2tRGMKjtQ4Crkkf4h385mpd`
+Snapshot ID: `AAAAAC9l9rTg41XlxKY9En/A5NLCuBrz`

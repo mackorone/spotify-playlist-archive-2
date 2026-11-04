@@ -1,12 +1,12 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 263510,
+  "num_followers": 263529,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+U15J0x5jBvk4vLNN9Hp0QHL6/",
+  "snapshot_id": "AAAAAPXDTOjv/wIcE/HnlRw3g/EXfO7z",
   "tracks": [
     {
       "added_at": "2026-10-08 13:00:21",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-10-08 13:00:21",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2026-10-08 13:00:21",
-      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-10-08 13:00:21",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2026-10-08 13:00:21",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-10-08 13:00:21",
       "album": {
+        "name": "Birds Of Tokyo",
+        "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
+      },
+      "artists": [
+        {
+          "name": "Birds Of Tokyo",
+          "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
+    },
+    {
+      "added_at": "2026-10-08 13:00:21",
+      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
-    },
-    {
-      "added_at": "2026-10-08 13:00:21",
-      "album": {
-        "name": "Birds Of Tokyo",
-        "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
-      },
-      "artists": [
-        {
-          "name": "Birds Of Tokyo",
-          "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
     },
     {
       "added_at": "2026-10-08 13:00:21",

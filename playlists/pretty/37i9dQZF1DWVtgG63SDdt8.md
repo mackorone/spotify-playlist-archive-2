@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: TobyMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,853 likes - 98 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,874 likes - 98 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [Victory](https://open.spotify.com/track/4k2FUrjkfSMkyZTM7B4O64) | [Taiwo Oshin](https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U) | [Victory](https://open.spotify.com/album/5Wus6I2cHdX9HBF3U5f0js) | 5:47 |
 | 98 | [Locked In](https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Locked In](https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4) | 3:00 |
 
-Snapshot ID: `AAAAAKduhZ7CupSpTpxrkJWV7SwxGh9q`
+Snapshot ID: `AAAAAJFcknrrxabHInuVUsiz69A9XmhC`

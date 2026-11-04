@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,604 likes - 104 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,602 likes - 104 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 83 | [Almost](https://open.spotify.com/track/2yxBMqrQBMI5EDr9nGn4ZZ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:14 |
 | 84 | [Head To Toe](https://open.spotify.com/track/5z46zIR3mwi0dslAXrGcO6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 4:20 |
 | 85 | [Say Dat](https://open.spotify.com/track/78bzMwCcMQcN2dx3oi562r) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:04 |
-| 86 | [On My Mama \(Christmas Medley\)](https://open.spotify.com/track/6Ay0TRb8NCzqYrZRAzzWEz) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 3:43 |
-| 87 | [Lose Myself \(feat\. Chlöe\)](https://open.spotify.com/track/2TrjqIhObLpCehMyN6piHO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:36 |
+| 86 | [Lose Myself \(feat\. Chlöe\)](https://open.spotify.com/track/2TrjqIhObLpCehMyN6piHO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 3:36 |
+| 87 | [On My Mama \(Christmas Medley\)](https://open.spotify.com/track/6Ay0TRb8NCzqYrZRAzzWEz) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 3:43 |
 | 88 | [I Want You](https://open.spotify.com/track/43oTdiVKrsSc4ITvM2VGgs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:56 |
 | 89 | [Well I Do \(Interlude\)](https://open.spotify.com/track/3l555CfcMh4RUpTuPF8cZ6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 1:41 |
 | 90 | [90's Babies](https://open.spotify.com/track/7F1te2Bs6zaY9CzhowmGEo) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 3:05 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 103 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
 | 104 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
 
-Snapshot ID: `AcgoSgAAAABVcx8+Mhr666KugLYtKZCO`
+Snapshot ID: `Acgt6gAAAAA/W286AE5qZa00A7ILuD6G`

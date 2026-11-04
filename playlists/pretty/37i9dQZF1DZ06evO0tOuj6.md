@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,405 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,406 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/7JXv8zritDObflbmgZ9dQZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/album/3zbsxwfh22qdpXt73Dmk24) | 3:50 |
 | 50 | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/track/6otLqvQTgaVxUit8cxBQ7j) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 4:17 |
 
-Snapshot ID: `auUvgAAAAAASDhWflI+cQPVc2auYLltG`
+Snapshot ID: `auaBAAAAAABSabMGvO11gePyViCpwJxF`

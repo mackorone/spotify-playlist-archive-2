@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 361598,
+  "num_followers": 361612,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI6RN8OEko177yV5+J1GUyU2f9VT",
+  "snapshot_id": "AAAAAP1tbhbUTcEO+Fv/Ij19UskbD8/q",
   "tracks": [
     {
       "added_at": "2025-01-28 19:15:57",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
         "name": "I Follow Rivers (The Magician Remix)",
         "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Dirty Paws",
-      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 329049,
-      "name": "Boys Will Be Bugs",
-      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "Hold My Home",
         "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 329049,
+      "name": "Boys Will Be Bugs",
+      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "We Are Only What We Feel",
-        "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
-      },
-      "artists": [
-        {
-          "name": "NONONO",
-          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
-        }
-      ],
-      "duration_ms": 209485,
-      "name": "Pumpin Blood",
-      "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "Sure Sure",
         "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219260,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "We Are Only What We Feel",
+        "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
+      },
+      "artists": [
+        {
+          "name": "NONONO",
+          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+        }
+      ],
+      "duration_ms": 209485,
+      "name": "Pumpin Blood",
+      "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272806,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 218227,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272806,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "Negro Swan",
         "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 192009,
       "name": "Saint",
       "url": "https://open.spotify.com/track/2PzWUwFXApjQBZzKMl4Hd6"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
+      },
+      "artists": [
+        {
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "OctaHate",
+      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
         "name": "Till Sunrise (feat. Mammals)",
         "url": "https://open.spotify.com/album/0EDKcvwuKdPn4M2ICXG90w"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 246148,
       "name": "Till Sunrise (feat. Mammals)",
       "url": "https://open.spotify.com/track/1pnwoWbZcS77Dx0jQVYK8X"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
-      },
-      "artists": [
-        {
-          "name": "Ryn Weaver",
-          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "OctaHate",
-      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
     },
     {
       "added_at": "2025-01-28 19:15:57",

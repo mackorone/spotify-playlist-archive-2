@@ -1,6 +1,6 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1635635,
+  "num_followers": 1635640,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
@@ -219,34 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5"
-      },
-      "artists": [
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "Mangoo",
-          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
-        }
-      ],
-      "duration_ms": 167976,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
       },
@@ -271,6 +243,34 @@
       "duration_ms": 210288,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Mangoo",
+          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
+        }
+      ],
+      "duration_ms": 167976,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml"
     },
     {
       "added_at": null,
@@ -463,26 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/4Gsbmz1D5hh0uREWTVmCWB"
       },
       "artists": [
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Ahrix",
-          "url": "https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 187560,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/0Z5sAboGfP3hksUOH1R3oV"
     },
     {
       "added_at": null,
@@ -507,22 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/4Gsbmz1D5hh0uREWTVmCWB"
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
       },
       "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Ahrix",
+          "url": "https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/0Z5sAboGfP3hksUOH1R3oV"
+      "duration_ms": 187560,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 264048,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
@@ -643,6 +627,42 @@
       "duration_ms": 202210,
       "name": "Eroina",
       "url": "https://open.spotify.com/track/4CZa02xgeNmic0Leii4kzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 264048,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 153207,
+      "name": "Last Song (feat. Faouzia)",
+      "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"
     },
     {
       "added_at": null,
@@ -743,6 +763,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/0v8YZMnPRYQrPgBOBRayg3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy"
       },
@@ -783,30 +827,6 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/0v8YZMnPRYQrPgBOBRayg3"
     },
     {
       "added_at": null,
@@ -879,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 153207,
-      "name": "Last Song (feat. Faouzia)",
-      "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld",
         "url": "https://open.spotify.com/album/4Gsbmz1D5hh0uREWTVmCWB"
       },
@@ -939,6 +939,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 123624,
+      "name": "Fire!",
+      "url": "https://open.spotify.com/track/7qAVOMJRLOG04YTiIOt7eu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
       },
@@ -955,26 +983,6 @@
       "duration_ms": 191861,
       "name": "Void",
       "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
     },
     {
       "added_at": null,
@@ -1056,21 +1064,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
         }
       ],
-      "duration_ms": 123624,
-      "name": "Fire!",
-      "url": "https://open.spotify.com/track/7qAVOMJRLOG04YTiIOt7eu"
+      "duration_ms": 136421,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/6B2vT37iq4UCzRyZP3068S"
     }
   ],
   "unique_name": "This Is Alan Walker",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,716 songs - 4 day 3 hr 21 min
+1,717 songs - 4 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-04 | 2025-02-18 |
 | [Actually Romantic](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:43 | 2025-10-04 | 2025-10-16 |
 | [Actually Romantic](https://open.spotify.com/track/6ZSxG2QvGmwXbTfn7iDq7a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 2:43 | 2025-10-08 | 2025-10-12 |
-| [ADDICTED](https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ADDICTED](https://open.spotify.com/album/0vUguBVUu74NEtzLdXh4X5) | 2:59 | 2026-10-31 | 2026-11-02 |
+| [ADDICTED](https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ADDICTED](https://open.spotify.com/album/0vUguBVUu74NEtzLdXh4X5) | 2:59 | 2026-10-31 |  |
 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2025-04-09 | 2025-04-17 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2026-10-26 | 2026-10-30 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-23 | 2023-04-30 |
@@ -115,7 +115,7 @@
 | [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-22 | 2025-07-28 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-05-13 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-29 | 2024-04-07 |
-| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-14 |  |
+| [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-14 | 2026-11-04 |
 | [begged](https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:37 | 2026-06-13 | 2026-06-17 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-11-05 |
 | [Better Man](https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [COMPOSITION](https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ) | 3:06 | 2025-12-17 |  |
@@ -525,7 +525,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2025-12-28 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:31 | 2024-12-25 | 2024-12-27 |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2021-05-08 | 2021-10-08 |
-| [It’s Ū](https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [It’s Ū](https://open.spotify.com/album/25kiFb6DT1SFoafMgcQxqS) | 2:51 | 2026-08-24 | 2026-10-31 |
+| [It’s Ū](https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [It’s Ū](https://open.spotify.com/album/25kiFb6DT1SFoafMgcQxqS) | 2:51 | 2026-08-24 |  |
 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 | 2024-11-20 | 2025-11-04 |
 | [I’ll Be There](https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 3:01 | 2024-11-21 | 2024-11-23 |
 | [I’m Fine, Thx.](https://open.spotify.com/track/5shbtf9Q9Wx1DQ3bNoF3TH) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:41 | 2021-06-09 | 2021-06-12 |
@@ -623,6 +623,7 @@
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-01 | 2025-03-09 |
 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 | 2025-05-03 | 2025-05-05 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2024-12-16 |
+| [Love Options](https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt) | [BESTie](https://open.spotify.com/artist/1HiZjIv6iLp9cs5vX0AJKo) | [Love Options](https://open.spotify.com/album/48aNxerOupoy4EbC0el0l8) | 3:14 | 2026-11-03 |  |
 | [Love Song](https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [未來](https://open.spotify.com/album/4y11FrvacuhutkuV9T1mlq) | 4:29 | 2025-03-02 | 2025-03-19 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-24 | 2023-08-26 |
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-01-25 | 2024-03-03 |
@@ -1288,7 +1289,7 @@
 | [喃嘸師感官漫遊](https://open.spotify.com/track/2zRPV8j2xHJs4aBKgs4Zsy) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [ISFP](https://open.spotify.com/album/1o3ijiVqCl7zUDkO1bLWZH) | 3:09 | 2024-06-26 | 2024-07-02 |
 | [喫煙席](https://open.spotify.com/track/3eT4GvkE7uzp9hdYxc4So2) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:06 | 2021-09-01 | 2021-09-02 |
 | [單程票](https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [單程票](https://open.spotify.com/album/2SotDVVlfqOy4gdA0F7wSj) | 3:41 | 2026-02-12 | 2026-02-14 |
-| [囍帖街](https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Binary](https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC) | 3:31 | 2025-11-22 |  |
+| [囍帖街](https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Binary](https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC) | 3:31 | 2025-11-22 | 2026-11-04 |
 | [四](https://open.spotify.com/track/0Mdym6sYES65bYALdGQJE4) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [四](https://open.spotify.com/album/1VVjgSImZqAgiEefynSjhc) | 4:00 | 2026-09-24 | 2026-11-01 |
 | [四人遊](https://open.spotify.com/track/5gkZUgKtvnQtkdYEO9WKzD) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd), [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:48 | 2025-03-03 | 2025-03-05 |
 | [四月物語](https://open.spotify.com/track/3MqGva6ELfd235l8WtkTIa) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [四月物語](https://open.spotify.com/album/3TFoUzcs5EGik3ZGxg5jOf) | 3:33 | 2025-04-16 | 2025-09-25 |
@@ -1720,7 +1721,7 @@
 | [鯨落](https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鯨落](https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC) | 4:02 | 2021-03-27\* | 2023-03-19 |
 | [麥恩莉](https://open.spotify.com/track/04GSbfB9TU0uH32b3rZbLs) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [回到未來](https://open.spotify.com/album/0hvQktrWrmT4V51FIQyMpA) | 4:48 | 2025-03-02 | 2025-03-09 |
 | [黑月](https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [黑月](https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X) | 3:25 | 2024-01-13 | 2025-09-27 |
-| [黑玻璃](https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Inner l Child](https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds) | 3:39 | 2024-03-29 |  |
+| [黑玻璃](https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Inner l Child](https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds) | 3:39 | 2024-03-29 | 2026-11-04 |
 | [黑玻璃](https://open.spotify.com/track/6eK3D9wcJhv7RDtpsqPBXs) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [黑玻璃](https://open.spotify.com/album/6GcBM6GjAMgYo83TGzuviv) | 3:39 | 2024-01-05 | 2024-03-30 |
 | [黑白](https://open.spotify.com/track/2WvUDNEW4LvDDNq3DY0gY8) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:51 | 2025-03-03 | 2025-03-06 |
 | [보나마나 \(BONAMANA\)](https://open.spotify.com/track/6fbS9Lbyv6L4tz7tcmBGKh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:15 | 2025-02-26 | 2025-03-02 |

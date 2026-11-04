@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: Anubha Bajaj
 
-471 songs - 1 day 2 hr 6 min
+472 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-18 | 2024-10-01 |
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-03-01 | 2024-01-11 |
 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-14 | 2023-03-14 |
+| [Dilruba Dilnasheen](https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Dilfek](https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf) | 2:53 | 2026-11-03 |  |
 | [Do Shaitano](https://open.spotify.com/track/6SrDgvxLztbmuK5jX7hg1T) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Do Shaitano](https://open.spotify.com/album/0TfdtzxV0kkk4vXtXiZcv8) | 3:30 | 2023-02-17 | 2024-06-22 |
 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 | 2026-02-05 | 2026-03-04 |
 | [Don’t Wanna Love](https://open.spotify.com/track/5lRru9LwvZnd2tVXRfDZZG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Don’t Wanna Love](https://open.spotify.com/album/4BrAHxQqfEIoYLiPf8Y9q4) | 2:29 | 2024-08-10 | 2025-02-19 |
@@ -303,7 +304,7 @@
 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-06-10 | 2026-05-10 |
 | [Nadi](https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Nadi](https://open.spotify.com/album/1jPFzDb2ednXUtyZEUla0H) | 3:26 | 2025-04-08 | 2026-02-06 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-10-05 | 2025-03-11 |
-| [Naina](https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg) | [Anand S Bajpai](https://open.spotify.com/artist/3vcJ5Hy223Tc24058Ei5lw), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Naina](https://open.spotify.com/album/16u0hCKXEmbfM66kvDOhjM) | 2:01 | 2026-08-28 |  |
+| [Naina](https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg) | [Anand S Bajpai](https://open.spotify.com/artist/3vcJ5Hy223Tc24058Ei5lw), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Naina](https://open.spotify.com/album/16u0hCKXEmbfM66kvDOhjM) | 2:01 | 2026-08-28 | 2026-11-04 |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-10 |  |
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 | 2024-06-11 |
 | [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 | 2025-11-11 | 2026-03-11 |

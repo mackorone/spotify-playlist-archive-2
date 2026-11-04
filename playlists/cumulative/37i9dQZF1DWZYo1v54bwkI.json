@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 181000,
       "name": "Amittere",
       "url": "https://open.spotify.com/track/1XgdDsHcvRR9xuUQKL9I0k"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 145714,
       "name": "Aoede",
       "url": "https://open.spotify.com/track/5hJiGLklnMcQfBtjy3y2g6"
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Where The Light Begins",
+        "url": "https://open.spotify.com/album/0madwmALualJrqSwo9OFtb"
+      },
+      "artists": [
+        {
+          "name": "Vindviska",
+          "url": "https://open.spotify.com/artist/49ZUaDbjVFmr85mRlqw76O"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Before The Warmth",
+      "url": "https://open.spotify.com/track/2g3yW6ZLhWl2rD4EtID6Dq"
+    },
+    {
+      "album": {
         "name": "Beneficial",
         "url": "https://open.spotify.com/album/1AFNDfBBBY6xofSzwgCOEW"
       },
@@ -1010,6 +1028,24 @@
       "duration_ms": 201000,
       "name": "Beneficial",
       "url": "https://open.spotify.com/track/27FWLbQamHJGL7xkW10ev9"
+    },
+    {
+      "album": {
+        "name": "Between Light and Air",
+        "url": "https://open.spotify.com/album/0oQe0ofjwGeffVAYdo6H1L"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Between Light and Air",
+      "url": "https://open.spotify.com/track/27bQi87HAzLZ2k7A1asnXU"
     },
     {
       "album": {
@@ -2759,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Drift Geometry",
+        "url": "https://open.spotify.com/album/6H6iv6Zm7P9h2LDo8AUlPH"
+      },
+      "artists": [
+        {
+          "name": "Milo\u0161 Zakzewski",
+          "url": "https://open.spotify.com/artist/3xUiPDnT0opugzPPFAtF62"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134032,
+      "name": "Drift Geometry",
+      "url": "https://open.spotify.com/track/09WjZYPhNlFyQNzE4jXIS3"
+    },
+    {
+      "album": {
         "name": "Drift Into Dusk",
         "url": "https://open.spotify.com/album/7pHxOavqv4b5quzF8KWN26"
       },
@@ -2864,6 +2918,24 @@
       "duration_ms": 132427,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh"
+    },
+    {
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/0kJcBOI4g4LdjL2A2rolKa"
+      },
+      "artists": [
+        {
+          "name": "Sonura",
+          "url": "https://open.spotify.com/artist/6JnZyzcigF0OU9VOMYaOGa"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7e7WH7z1zrY3di21M5JOrY"
     },
     {
       "album": {
@@ -3970,6 +4042,24 @@
       "duration_ms": 124878,
       "name": "Flor",
       "url": "https://open.spotify.com/track/5tvZ0sRTMZfrI1smWB8IFr"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6KfMPw1YcglyQRpS2cUTXi"
+      },
+      "artists": [
+        {
+          "name": "Soulstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4fme0XkJS8gV1teVDzdNb4"
     },
     {
       "album": {
@@ -6317,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "Moon Etching",
+        "url": "https://open.spotify.com/album/493CoZ2iqzKfknKRkY7b2Y"
+      },
+      "artists": [
+        {
+          "name": "Stellian",
+          "url": "https://open.spotify.com/artist/0J7ija5d6fGOPYGODzuRLq"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Moon Etching",
+      "url": "https://open.spotify.com/track/5i4Aeef6KLQoOhRWfeqzD1"
+    },
+    {
+      "album": {
         "name": "Moonlit",
         "url": "https://open.spotify.com/album/3LYcPJg8To1f5mh4PUenMx"
       },
@@ -6731,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "Night Under Branches",
+        "url": "https://open.spotify.com/album/7GgPwljZerRPJRNU5SaLs0"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Night Under Branches",
+      "url": "https://open.spotify.com/track/47k4WhHkbSVG76TMOLhohD"
+    },
+    {
+      "album": {
         "name": "Night Writer",
         "url": "https://open.spotify.com/album/0ZnDdkcVLevsqZaq8VGC4E"
       },
@@ -7052,6 +7178,24 @@
       "duration_ms": 201333,
       "name": "Omsluten",
       "url": "https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp"
+    },
+    {
+      "album": {
+        "name": "One Reality",
+        "url": "https://open.spotify.com/album/0HMsT0arQl8t0Kt9rW3KUK"
+      },
+      "artists": [
+        {
+          "name": "Calmia",
+          "url": "https://open.spotify.com/artist/3lLrkEwsCiOO1ON2vt7nNy"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154997,
+      "name": "One Reality",
+      "url": "https://open.spotify.com/track/7pSNa4QjoQFAsOHvIZdnR3"
     },
     {
       "album": {
@@ -8877,6 +9021,24 @@
     },
     {
       "album": {
+        "name": "Simple Notions",
+        "url": "https://open.spotify.com/album/1kZUDWCY5eNRe7ZO4yLaQl"
+      },
+      "artists": [
+        {
+          "name": "Fourth Eye",
+          "url": "https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144335,
+      "name": "Simple Notions",
+      "url": "https://open.spotify.com/track/0RSTUgXuuLQVeWyvar55bp"
+    },
+    {
+      "album": {
         "name": "Skaisti",
         "url": "https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV"
       },
@@ -9392,7 +9554,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 160884,
       "name": "Source",
       "url": "https://open.spotify.com/track/6OXrydeV3tYaOqVs4sfCQL"
@@ -9972,6 +10134,24 @@
       "duration_ms": 138566,
       "name": "The Slow Horizon",
       "url": "https://open.spotify.com/track/30gYInRpcHDr1iBMTpFy55"
+    },
+    {
+      "album": {
+        "name": "Theta Bloom",
+        "url": "https://open.spotify.com/album/4hyEg8HQdZ1u6LHZ5nLXhD"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "Theta Bloom",
+      "url": "https://open.spotify.com/track/0XaqQUNh0xPPYAws4y8j4x"
     },
     {
       "album": {

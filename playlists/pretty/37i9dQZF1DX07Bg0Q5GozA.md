@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Zimmer90
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,616 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,589 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 3 | [Until we die](https://open.spotify.com/track/5egIdSg0Kf5wSnUxjlcUzp) | [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Oversharing](https://open.spotify.com/album/0NU8hFKWb1J6EJ8EyN9Qjf) | 2:58 |
 | 4 | [Looking For You](https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tri/xon](https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Looking For You](https://open.spotify.com/album/0wY4yjXzBpL5wXSNjVMSD7) | 3:55 |
 | 5 | [Random Violence](https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Random Violence](https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK) | 5:15 |
-| 6 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
+| 6 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 | 7 | [IWUDLYK](https://open.spotify.com/track/0ETCwiSL7d6N9Wg4jJn5Gz) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [IWUDLYK](https://open.spotify.com/album/7rCM4KM596wnMhJzbHCqCg) | 2:48 |
 | 8 | [Goodwife](https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Goodwife](https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978) | 4:10 |
 | 9 | [Lemme Dance](https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lemme Dance](https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 | 75 | [Rayon](https://open.spotify.com/track/2weT26RNcHVHWcLiIpsk4l) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Rayon](https://open.spotify.com/album/62d0c6tLm8P9EPRw2XBe2C) | 4:23 |
 
-Snapshot ID: `AAAAABfA07+QrICYCBiUbIBRmVoQqzcF`
+Snapshot ID: `AAAAAD9W4pc1zvwE5p22OWvuzjxW8s+h`

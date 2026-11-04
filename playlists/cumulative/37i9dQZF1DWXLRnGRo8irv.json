@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: g0nny)",
+  "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: RESCENE)",
   "name": "EQUAL Korea",
   "tracks": [
     {
@@ -10048,7 +10048,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 143797,
       "name": "HOT",
       "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
@@ -11526,6 +11526,24 @@
       "duration_ms": 240840,
       "name": "Ing..",
       "url": "https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje"
+    },
+    {
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6t45ZC1w8QADl5HpeyJ3Rr"
     },
     {
       "album": {
@@ -23962,7 +23980,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 148573,
       "name": "UNCHILD",
       "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
@@ -25448,6 +25466,24 @@
       "duration_ms": 242500,
       "name": "WITCH (Feat. Jay Park, So!YoON!) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3"
+    },
+    {
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "With",
+      "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
     },
     {
       "album": {

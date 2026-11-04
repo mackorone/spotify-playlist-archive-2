@@ -4,7 +4,7 @@
 
 > 
 
-149 songs - 10 hr 30 min
+150 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 | 2025-07-22 | 2026-10-08 |
 | [What Are You Waiting For](https://open.spotify.com/track/10bdqV0CgtHjizrW4rfqAH) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/5PA7ISOAqIrULa0AAPOJVx) | 2:24 | 2026-03-30 |  |
 | [Who Lives, Who Dies, Who Tells Your Story](https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:37 | 2025-12-07 | 2026-03-31 |
+| [Will I](https://open.spotify.com/track/0OuPMjmicFfmnB3SFFqdgQ) | [Aaron Lohr](https://open.spotify.com/artist/7kpYFxC5CpMUjfXtOGOrvR), [Wayne Wilcox](https://open.spotify.com/artist/76Yo2sJEDEDN98LZddkGC1), [Cast of the Motion Picture RENT](https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 2:46 | 2026-11-04 |  |
 | [Without a Tribe](https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Without a Tribe](https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb) | 2:14 | 2025-11-05 | 2025-12-28 |
 | [Without You \(4 Tonite\) \- Live](https://open.spotify.com/track/4Ymlnq6LskNxKfn5nCcPSp) | [Lucky Chops](https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852) | [Live at Virtue and Vice Studio](https://open.spotify.com/album/7hoM6KnToWUFhTU77wBgIa) | 4:27 | 2025-11-23 | 2026-01-26 |
 | [Words Are Worthless](https://open.spotify.com/track/1FwQ5seq3gFcqLAsIu8QpE) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:41 | 2026-03-30 |  |

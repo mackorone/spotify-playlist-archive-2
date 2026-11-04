@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola 2026 is over but don't fret, check out some highlights from the festival! For your pre\-games, afters, spurts of manic cleaning, and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,946 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,952 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zara Larsson \- Live at Portola Music Festival 2026](https://open.spotify.com/track/4MjrrYxewQWeWnSmXrCAej) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Live at Portola Music Festival 2026](https://open.spotify.com/album/7b4x4VGx6rJZCfkwboc7i7) | 3:19 |
-| 2 | [Fcukers \- Live at Portola Music Festival 2026](https://open.spotify.com/track/2NHkBou2uDZzKPNrMBlFI8) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Live at Portola Music Festival 2026](https://open.spotify.com/album/5v57uXrtRXFwdIgEa4Ufxr) | 3:21 |
+| 2 | [Tommy \(Live at Portola Music Festival 2026\)](https://open.spotify.com/track/2NHkBou2uDZzKPNrMBlFI8) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Tommy \(Live at Portola Music Festival 2026\)](https://open.spotify.com/album/5v57uXrtRXFwdIgEa4Ufxr) | 3:21 |
 | 3 | [BREAK LAW](https://open.spotify.com/track/223t7TwvWm5PuE1IuWpRZM) | [Dog Blood](https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Turn Off The Lights](https://open.spotify.com/album/1Pg5Ot24fhSbQbxqV5OTZS) | 4:02 |
 | 4 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
 | 5 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 83 | [What We Got](https://open.spotify.com/track/3UeGo2iTVN98fWW96iRL5p) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [What We Got](https://open.spotify.com/album/72T1E70vH8a71qX2OwGwrl) | 2:55 |
 | 84 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
 
-Snapshot ID: `AAAAAJ+Z7jYe/TC/1+Gw4XQREjmZQi80`
+Snapshot ID: `AAAAAAqmxkBh0ImYbitQFNAoAQSvBh6H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik fra bl.a\. Burhan G, Berg og Malte Ebert 🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,713 likes - 103 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,717 likes - 103 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 102 | [Good Night Saga](https://open.spotify.com/track/2weBRNnp3zhf0AZ0XIYZnb) | [MILA](https://open.spotify.com/artist/0a5jvNSoJnhiF9Q550d0hH), [Ian Mark](https://open.spotify.com/artist/6UKISq09kKbFxEhGXZD0rE) | [Character Study](https://open.spotify.com/album/7zuHFbygUTTIFBrldveEsc) | 2:53 |
 | 103 | [You Are What You Want](https://open.spotify.com/track/282G5ObH4Vfbi2LBRmsUvz) | [CLENITE](https://open.spotify.com/artist/5fBUkkX9ffSVPSZQMVr6VY) | [You Are What You Want](https://open.spotify.com/album/6PThHlz34gCIAV8mpFlX6Q) | 3:40 |
 
-Snapshot ID: `AAAAAIGjwitXg/sqBmtuW0xfGiRUtdAy`
+Snapshot ID: `AAAAADEn3P6f9YfTMv/zWN/gKqe83hLE`

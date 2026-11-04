@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 262 songs - 14 hr 4 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 263 songs - 14 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,5 +270,6 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 260 | [Solitude connectée](https://open.spotify.com/track/3J2o5tps0Ngst3K0C2syl9) | [Djeïkeï](https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q) | [Solitude connectée](https://open.spotify.com/album/63PR5fliqR9pEJHK96a4S5) | 3:45 |
 | 261 | [la pluie sur un sourire](https://open.spotify.com/track/7EPM28iVOgUqfDc8mcssz5) | [Indécis](https://open.spotify.com/artist/2Ob8Sw8cUGdNE1t1ZtFFDC) | [la pluie sur un sourire](https://open.spotify.com/album/62DYJajnXXjqOHP4oEzVWm) | 2:29 |
 | 262 | [On se sait](https://open.spotify.com/track/77tyR0eQEbNglQPA0OxTsS) | [JANEREVA](https://open.spotify.com/artist/7J2WoLXgGpYTjnKiIZCN44) | [On se sait](https://open.spotify.com/album/6bt1zfR2cvJFd2Ouv30iSF) | 3:46 |
+| 263 | [Quand la vie est vide](https://open.spotify.com/track/3GIdXR8xerdTn33599qIgr) | [Djeïkeï](https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q) | [Quand la vie est vide](https://open.spotify.com/album/6N852oP7zIvARE3y4tJrAc) | 4:09 |
 
-Snapshot ID: `AAABMEeK74Kl1R+XBcITGCe3dwW1QZoH`
+Snapshot ID: `AAABMZaRUlXAQgZuZCLrUcuDQIPNVkg0`

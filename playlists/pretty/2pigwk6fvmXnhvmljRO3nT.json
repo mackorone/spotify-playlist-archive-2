@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAN6Zn1v0sPZhSUB9qq9+CyRO1BwRxy",
+  "snapshot_id": "AAAN7CuKBu1tS5p/NXoU0lR+4+Djj5sU",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -41291,30 +41291,6 @@
     {
       "added_at": "2025-01-03 01:21:34",
       "album": {
-        "name": "The Dynasty: Roc La Familia",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Beanie Sigel",
-          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
-        },
-        {
-          "name": "Scarface",
-          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
-        }
-      ],
-      "duration_ms": 288226,
-      "name": "This Can't Be Life",
-      "url": "https://open.spotify.com/track/4UPyqSVCf0ukiBbi0MvLDW"
-    },
-    {
-      "added_at": "2025-01-03 01:21:34",
-      "album": {
         "name": "Magna Carta... Holy Grail",
         "url": "https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi"
       },
@@ -43519,22 +43495,6 @@
       "duration_ms": 111809,
       "name": "8701",
       "url": "https://open.spotify.com/track/0gmYtRyuvRKpd6cCApSDTh"
-    },
-    {
-      "added_at": "2025-01-03 01:22:58",
-      "album": {
-        "name": "The Never Story",
-        "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 242930,
-      "name": "LAUDER",
-      "url": "https://open.spotify.com/track/6v19tp922KYTzPg7sovNt1"
     },
     {
       "added_at": "2025-01-03 01:22:58",
@@ -150291,6 +150251,26 @@
       "duration_ms": 227973,
       "name": "Blood Drain -Again- (Eltnum Theme)",
       "url": "https://open.spotify.com/track/2rc5d4JWhkUAqC6V26Apcf"
+    },
+    {
+      "added_at": "2026-11-03 06:02:53",
+      "album": {
+        "name": "Entremont Plays Satie",
+        "url": "https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Gymnop\u00e9die No. 1",
+      "url": "https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7"
     }
   ],
   "unique_name": "Purge",

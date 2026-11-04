@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Kensington
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,273 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,270 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Educate The Billionaires](https://open.spotify.com/track/0nDhoLQdIA8YoebS6xBmfW) | [GREEN CROW COLLECTIVE](https://open.spotify.com/artist/3FgJRgo3kQVAo5MvdgldeD) | [Educate The Billionaires](https://open.spotify.com/album/0UubT3qfExNtTr8foTrC2l) | 2:47 |
 | 100 | [Not Cool](https://open.spotify.com/track/6ZfXGI85ZmI5PV9sNAmwV1) | [Disgusting Sisters](https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe) | [Not Cool](https://open.spotify.com/album/10K90z7u4oN08wiwIeWrQX) | 2:56 |
 
-Snapshot ID: `AAAAABfmyjPJBPg87EJqw3FE9WlZumie`
+Snapshot ID: `AAAAAAM7aGd/wx0c5qz1HssotrQppG6R`

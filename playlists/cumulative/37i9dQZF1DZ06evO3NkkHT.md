@@ -4,7 +4,7 @@
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-89 songs - 3 hr 48 min
+90 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Climate](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 | 2025-09-04 | 2026-11-01 |
 | [Cold \(feat\. Post Malone\)](https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 3:08 | 2025-11-23 |  |
 | [Comes & Goes \(feat\. Tommy Newport\)](https://open.spotify.com/track/6HaciYi0PXePK4rY3BbZBr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:01 | 2025-09-04 | 2025-11-23 |
+| [CRACCED](https://open.spotify.com/track/5nSaQklwqScpU3D43kiTJm) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:32 | 2026-11-04 |  |
 | [DA FUCC \(feat\. Ro$ama\)](https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:29 | 2026-11-02 |  |
 | [DOPEMAN](https://open.spotify.com/track/6lTxBTBNE8NCLfSs5LflhJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:01 | 2026-04-03 | 2026-07-18 |
 | [Dream](https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:58 | 2025-12-22 |  |
@@ -46,7 +47,7 @@
 | [Gift & a Curse \(interlude\)](https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 0:41 | 2025-09-04 | 2025-12-05 |
 | [GIVE IT ALL](https://open.spotify.com/track/6MbhjBsn3wSrJpXow9OUSp) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:00 | 2026-11-01 |  |
 | [Gone \(interlude\)](https://open.spotify.com/track/2z7vD5cJfwXaOU5D6mLAvg) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 0:40 | 2025-09-04 | 2025-09-11 |
-| [Good Chance \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:04 | 2026-08-18 |  |
+| [Good Chance \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [NDA](https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ) | 2:04 | 2026-08-18 | 2026-11-04 |
 | [Good To Me](https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/3ITvNAnHd2Ub45NyQLmZ2k) | 3:28 | 2026-06-20 | 2026-11-02 |
 | [Good To Me](https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3) | 3:28 | 2025-09-04 | 2026-06-19 |
 | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hell At Night \(feat\. Ella Langley\)](https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V) | 2:59 | 2025-09-04 | 2025-11-26 |

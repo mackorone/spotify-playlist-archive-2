@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,629,521 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,628,845 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Who Told You That](https://open.spotify.com/track/2DZKhX2k3XZqQ5h5jwJyGh) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Who Told You That](https://open.spotify.com/album/7MHzrc64ZU0SvegIKDSFzQ) | 3:22 |
 | 50 | [Good Girls & Cowgirls](https://open.spotify.com/track/34teaZ6EaOdPDmfbxfNVtP) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Good Girls & Cowgirls](https://open.spotify.com/album/2b7e7TUNXhvbthypUy5ZNr) | 3:04 |
 
-Snapshot ID: `AAAAAKLUc+FPcQuiN17CVSg3h4SQC1DU`
+Snapshot ID: `AAAAAEa4gziSCheo35oN45mUWOZrvi2L`

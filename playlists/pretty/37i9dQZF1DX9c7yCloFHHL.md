@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: Jeremiah Chiu
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,388 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,436 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Shelter for the Quiet](https://open.spotify.com/track/4nX5p69spLsF9zIC206Mef) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Remnants and Whispers](https://open.spotify.com/album/1fqbWApJPH1snrmadN0l1p) | 2:26 |
 | 100 | [Butterfly Lover](https://open.spotify.com/track/1wYOslGmJkqbHun50MxKIE) | [Flor van Myller](https://open.spotify.com/artist/3SCQO1fe6hHBh51RYiupMH) | [Butterfly Lover](https://open.spotify.com/album/4DOy4JZ95yqTwegBYRscoN) | 2:40 |
 
-Snapshot ID: `AAAAAAbJKL+t4AiBu1aEr96Gu6pXjjmX`
+Snapshot ID: `AAAAAB6awriOF0nr3QDxaXu7C414/zha`

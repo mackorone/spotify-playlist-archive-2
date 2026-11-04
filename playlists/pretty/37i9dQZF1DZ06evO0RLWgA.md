@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,912 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,913 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Ground Hog Blues \- Single Version](https://open.spotify.com/track/2zwnpN2MCs6hCxaXhFZJK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [House Of The Blues](https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3) | 2:55 |
 | 50 | [I'm Bad Like Jesse James \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 5:31 |
 
-Snapshot ID: `auUvgAAAAAD7tGPbFyBMqyTdsjeXm7Er`
+Snapshot ID: `auaBAAAAAAASiOYTcmdifU/Qyvuay4eH`

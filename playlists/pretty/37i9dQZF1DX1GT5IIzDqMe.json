@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 105828,
+  "num_followers": 105878,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+WEzfQlgkcrV4QrY3WwH0Prz/m",
+  "snapshot_id": "AAAAAF9ZTYHACjLbtPfIhpf6GE9TBc4Z",
   "tracks": [
     {
       "added_at": "2025-08-29 04:00:36",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Back To Basics (Part 1)",
+        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        }
+      ],
+      "duration_ms": 361400,
+      "name": "Track Ten",
+      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Recycled Plastik",
         "url": "https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 555626,
       "name": "Spastik",
       "url": "https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Back To Basics (Part 1)",
-        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        }
-      ],
-      "duration_ms": 361400,
-      "name": "Track Ten",
-      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "No Ufo's (Original Version)",
+        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
+      },
+      "artists": [
+        {
+          "name": "Model 500",
+          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "No Ufo's - Vocal",
+      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Frisk",
         "url": "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 191350,
       "name": "Frisk",
       "url": "https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "No Ufo's (Original Version)",
-        "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
-      },
-      "artists": [
-        {
-          "name": "Model 500",
-          "url": "https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "No Ufo's - Vocal",
-      "url": "https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA"
     },
     {
       "added_at": "2025-08-29 04:00:36",

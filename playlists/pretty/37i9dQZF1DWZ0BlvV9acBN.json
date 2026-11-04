@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148641,
+  "num_followers": 148636,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3C4xD3LBTJhTJvKBEbD3n9W6wD",
+  "snapshot_id": "AAAAACmFLwcnp2rDqitV/dzJvwVaoHSU",
   "tracks": [
     {
       "added_at": "2026-10-23 03:01:25",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 304240,
       "name": "Tudo Fica Bem",
       "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 244566,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
         "name": "For\u00e7a",
         "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 240704,
       "name": "For\u00e7a",
       "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 244566,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY"
     },
     {
       "added_at": "2026-10-23 03:01:25",

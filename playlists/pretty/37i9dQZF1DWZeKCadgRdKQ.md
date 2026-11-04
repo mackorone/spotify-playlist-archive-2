@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,018,762 likes - 255 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,019,124 likes - 255 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 254 | [Soft](https://open.spotify.com/track/3SECuvGw9heEdWMoQBHQ88) | [Looming Peak](https://open.spotify.com/artist/3emUOzWNNtDq70QXKfluWC) | [Soft](https://open.spotify.com/album/2mWC7y4uP00Z1yHk2UxpMr) | 2:27 |
 | 255 | [Cloud Gradient](https://open.spotify.com/track/2sn8vaJJaeNJHlx9ZvPYjW) | [Aurora Bloom](https://open.spotify.com/artist/1QdVMaHym56IirhxqEVUFT) | [Cloud Gradient](https://open.spotify.com/album/5PFWOvDSgJqoakjPutG2zP) | 2:12 |
 
-Snapshot ID: `AAAAACpTCwjH5RiqZKebGw6AmBVt4Me0`
+Snapshot ID: `AAAAACcbJ0jJFi74H7slozgIgL6miyFq`

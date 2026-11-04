@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-850 songs - 2 day 4 hr 52 min
+853 songs - 2 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Back to the start](https://open.spotify.com/track/3udu8nAbzIPcIxzd0vGFIu) | [Danny Burbank Music](https://open.spotify.com/artist/0G7ynrTB2fLLfshHTm1ExK), [wil bruninga](https://open.spotify.com/artist/6W39Y8jM6A71i3wrmFYSGq), [chuck lopez](https://open.spotify.com/artist/6BGoZ1lniBMWMRu5Fe1cT2) | [Back to the start](https://open.spotify.com/album/4yEUJSkoOGDZIUqCfmnM15) | 3:48 | 2025-09-29 | 2025-12-17 |
 | [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 | 2026-06-26 | 2026-07-12 |
 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 | 2026-02-22 | 2026-03-18 |
+| [Bad Girl](https://open.spotify.com/track/4B5EPbvObQFIfFlww8RYFF) | [Shadowcast](https://open.spotify.com/artist/5FxRl4JNEu1Xa7BQ5b1Lza) | [Bad Girl](https://open.spotify.com/album/2uAIgvSpuJ7GLiGYGO4rVO) | 4:33 | 2026-11-03 |  |
 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 | 2026-04-23 | 2026-06-25 |
 | [Bad Vibes](https://open.spotify.com/track/3jvM9MKz7ykupfSVjqPVAW) | [Bottom Shelf](https://open.spotify.com/artist/5oe17JXV0rx6w21hy7bddG) | [Bad Vibes](https://open.spotify.com/album/3rPl8OuIjXtZiLTBnULfM1) | 1:07 | 2025-12-16 | 2026-04-21 |
 | [BADASS\-GIRL](https://open.spotify.com/track/102FBAQ7ZoDSxxAEPnT9Nt) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [BADASS\-GIRL](https://open.spotify.com/album/1zj1pe14y73hucU7DuFHyg) | 2:53 | 2026-09-06 | 2026-09-20 |
@@ -306,6 +307,7 @@
 | [Hangover](https://open.spotify.com/track/1AAetcgV5lmgLM07i3gxDW) | [Rollin Bee](https://open.spotify.com/artist/1SzjCvXYlJ3gW3WsivnYFR) | [First Sting](https://open.spotify.com/album/2KtYi2vu5RqNIhU50G9bMm) | 3:14 | 2025-09-26 | 2025-12-17 |
 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 | 2026-04-02 | 2026-04-21 |
 | [Hard Country](https://open.spotify.com/track/2L1KX6BpiWNkKNPT91Qqne) | [Backstrom](https://open.spotify.com/artist/31DB1gJNtSbXs06VuQgx8h) | [Hard Country](https://open.spotify.com/album/1iYZDKxioYiwrL07Zu1oHb) | 3:11 | 2026-04-27 | 2026-05-26 |
+| [He's My Best Friend](https://open.spotify.com/track/5b3aXT4oMVQqwmR4x9bmuS) | [Benj Clarke](https://open.spotify.com/artist/1dQvzl3MgJ9iok8Erpg5dn), [Bill Brandenburgh](https://open.spotify.com/artist/32skbbFJEqpuO0Fe6x2H2x) | [He's My Best Friend](https://open.spotify.com/album/3uKnZLigSGqoGYtoVBsSiz) | 4:15 | 2026-11-03 |  |
 | [Headspin](https://open.spotify.com/track/2liyNPgBSB69fWJRaTL8ra) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [Deliverance](https://open.spotify.com/album/4JWS6dUdADr2OTwQucLVh6) | 5:01 | 2025-10-22 | 2025-11-28 |
 | [Healed by grace](https://open.spotify.com/track/4lACGHtRSMAdxITk9vkxKb) | [Faby Heavenly Rock](https://open.spotify.com/artist/6yYt5hgzgGJoHX0zzte2GW) | [Healed by grace](https://open.spotify.com/album/0ZeYzdDh2rfiuBCS0N0OVK) | 4:58 | 2026-10-14 |  |
 | [Heart of Gold](https://open.spotify.com/track/5Pausy8tB1Mjfn9CmLSY3S) | [Tevere Grand Hotel](https://open.spotify.com/artist/2NHbBV9zmDv6FNADm6MWyK) | [Heart of Gold](https://open.spotify.com/album/3htGGxNoRlfkKQjXhUFmX8) | 2:51 | 2025-12-04 | 2025-12-17 |
@@ -517,6 +519,7 @@
 | [Nuvens](https://open.spotify.com/track/0SejuWnZQoAT88poImtMiy) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Vida na Estrada](https://open.spotify.com/album/4XfA2gMTG2IXlpXaVhjsYn) | 2:59 | 2025-10-09 | 2025-11-28 |
 | [NYC](https://open.spotify.com/track/1XV6HbFuk6d2e5WnOEnSPo) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [21st Century Prayer](https://open.spotify.com/album/0YaMrVDCvO6AZDmHFGSRSk) | 3:32 | 2025-10-07 | 2025-11-28 |
 | [Não Venha Sem Avisar](https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [Não Venha Sem Avisar](https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs) | 2:51 | 2026-09-21 |  |
+| [Obsessed](https://open.spotify.com/track/5wj9CKSCA03adRI9tM2j1x) | [Leela Misel](https://open.spotify.com/artist/1zQTvWsb6vuMGVoAlhXvJ1) | [Obsessed](https://open.spotify.com/album/0RW5aKam3r8yxlj8s5w8zr) | 3:42 | 2026-11-03 |  |
 | [Ocean Life](https://open.spotify.com/track/7bvXe56Ce0h4gtiU0xWzuM) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [The Alchemindmistyc](https://open.spotify.com/album/21DJLojbuDUBIGslS0yIIc) | 7:00 | 2025-10-18 | 2025-11-28 |
 | [Often](https://open.spotify.com/track/1KuCYrJ2QqdjOhaKsRGUvW) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [Often](https://open.spotify.com/album/2x2nmJBlTRBbpa3ic52cR0) | 3:46 | 2026-02-22 | 2026-07-12 |
 | [Oh Come On!](https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Oh Come On!](https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB) | 3:07 | 2026-06-05 | 2026-06-18 |

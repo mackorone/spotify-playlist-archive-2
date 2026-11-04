@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -6380,7 +6380,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 201000,
       "name": "Bezdarbnieks",
       "url": "https://open.spotify.com/track/7a7ZhLqvMBD33Sx4d4uNsB"
@@ -11468,7 +11468,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 242720,
       "name": "Da\u013ca R\u012bgas",
       "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
@@ -17460,7 +17460,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -27672,7 +27672,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -36463,6 +36463,28 @@
     },
     {
       "album": {
+        "name": "Nokav\u0113jis",
+        "url": "https://open.spotify.com/album/0RvTC7KiNE6YIvxeyWF1Cz"
+      },
+      "artists": [
+        {
+          "name": "Fi\u0146\u0137is",
+          "url": "https://open.spotify.com/artist/6jAmGa0ssb0T7yCsDCvMvk"
+        },
+        {
+          "name": "JULIANNA",
+          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205866,
+      "name": "Nokav\u0113jis",
+      "url": "https://open.spotify.com/track/4WM9OTrKnHFgeflxiClH1T"
+    },
+    {
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -44774,7 +44796,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -45994,7 +46016,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -55306,7 +55328,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Tu Neesi Viens",
       "url": "https://open.spotify.com/track/16x3OI7aibVk4ZiKN5e0q9"
@@ -57698,7 +57720,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 264545,
       "name": "V\u0113lvienreiz",
       "url": "https://open.spotify.com/track/5DzO7UTlmA6O6J0GLsTxGy"
@@ -63092,7 +63114,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 225750,
       "name": "\u041c\u0430\u043b\u043e \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/0nlAuSXPTsT3ws2zeNzI7K"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Kapak: Mahmut Orhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,695 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,685 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 49 | [Vertigo](https://open.spotify.com/track/64aXxgrtA3T2gYdxzJhIA4) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Vertigo](https://open.spotify.com/album/5nS0sCJUWnextYkGXuKfKn) | 2:38 |
 | 50 | [Bubblegum Moonlight](https://open.spotify.com/track/6xP0ntDwDUHZPtdrKJfBDx) | [Cagan Tunali](https://open.spotify.com/artist/4J4jrBN4VwLUYCrZ0I0L69) | [Bubblegum Moonlight](https://open.spotify.com/album/4AkOPYDLYRHcPj9nkxwUe5) | 4:08 |
 
-Snapshot ID: `AAAAAMULtPUe/jXIVnJYYzf/az5egOZP`
+Snapshot ID: `AAAAAGvt2yU3O8M5UFSh97Om8dTOiMPB`

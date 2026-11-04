@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797 likes - 152 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 796 likes - 152 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 148 | [6deep](https://open.spotify.com/track/3Gr0valhCPMKJqPfza8mZ6) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO), [Toyotomi](https://open.spotify.com/artist/6HCXRVOCucwBF8zV66T2cr), [MAX BLACK](https://open.spotify.com/artist/15qK4Jx9tO39zd6vCU75rL) | [6deep](https://open.spotify.com/album/4iSUwKDw5MKlHKWsJm0KBw) | 3:52 |
 | 149 | [Gentlewoman](https://open.spotify.com/track/30Npm4RFzP3zVRs2LKIyk5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:35 |
 | 150 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
-| 151 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
-| 152 | [Shake The Snow Globe](https://open.spotify.com/track/5MjHwSUJJQLI3Dtta9ktbT) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/0dkmNHHdcA7nn9v0hAFhQS) | 2:53 |
+| 151 | [Shake The Snow Globe](https://open.spotify.com/track/5MjHwSUJJQLI3Dtta9ktbT) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe Edition – 2025\)](https://open.spotify.com/album/0dkmNHHdcA7nn9v0hAFhQS) | 2:53 |
+| 152 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcgoXgAAAADTFV086zkkRW9DpaqN3YvD`
+Snapshot ID: `AcgtwgAAAABJ+oBMEqk+Hd49Xnx7Nvem`

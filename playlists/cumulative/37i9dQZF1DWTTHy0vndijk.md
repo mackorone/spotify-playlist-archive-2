@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: MINNIE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: RESCENE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-571 songs - 1 day 6 hr 55 min
+572 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Perfect Target](https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Perfect Target](https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc) | 2:28 | 2026-06-30 | 2026-07-09 |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2022-03-29 | 2022-04-02 |
 | [Picky Picky](https://open.spotify.com/track/2RwHcRK2KfIAUGNq4Nlfv5) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [LOCK END LOL](https://open.spotify.com/album/1JrQT5pcTgC9HfVe5f2SL6) | 3:16 | 2022-03-29 | 2022-04-10 |
-| [Pinball](https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:12 | 2024-09-25 |  |
+| [Pinball](https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:12 | 2024-09-25 | 2026-11-04 |
 | [PINK CLOUD](https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [nrv](https://open.spotify.com/album/3dpGk03xqeTM8ZRb6NUg1g) | 3:10 | 2024-11-09 | 2024-11-27 |
 | [Pinocchio](https://open.spotify.com/track/5IHqT5CMbpc35bh5aomwNK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:20 | 2021-11-29 | 2022-07-11 |
 | [PIT\-A\-PAT](https://open.spotify.com/track/1eSwiP5R9g2ws39TemiRHi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:27 | 2022-03-29 | 2022-04-20 |
@@ -429,7 +429,7 @@
 | [Sky Walking](https://open.spotify.com/track/537GKqf0UdlbI2aYOglmct) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/4fVtHcVAgLbRV3YphyyZBz) | 4:12 | 2025-09-03 | 2025-11-11 |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-04-04 |  |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2023-08-15 |
-| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 | 2026-08-08 |
+| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 |  |
 | [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 | 2023-10-12 |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
@@ -500,7 +500,7 @@
 | [To Heart](https://open.spotify.com/track/3PIzI4Bl2b7oZloFWTPAna) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:08 | 2021-11-29 | 2022-07-25 |
 | [To My Boyfriend](https://open.spotify.com/track/2WuD4tAn8iCscm1EuZvVWr) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [To My Boyfriend](https://open.spotify.com/album/35tJGKUZuTosrpnCaKghCD) | 3:23 | 2023-10-24 | 2023-11-07 |
 | [To Reach You](https://open.spotify.com/track/39vr6WFmhE3juhrcDkQ9fu) | [Memory Fabricators](https://open.spotify.com/artist/7H7jQxAxVm0E8zzP92riSI) | [PRODUCE 48 \- 30 Girls 6 Concepts](https://open.spotify.com/album/1WzVAxZWm3JDNbI0jzk0dF) | 3:30 | 2022-02-14 | 2022-07-19 |
-| [to the moon :\)](https://open.spotify.com/track/698VZCnbPlyHyMzdgW9eXU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [i love you to the moon and back](https://open.spotify.com/album/5t3ccy97ysIsyQy7Zch0cM) | 3:47 | 2026-10-23 |  |
+| [to the moon :\)](https://open.spotify.com/track/698VZCnbPlyHyMzdgW9eXU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [i love you to the moon and back](https://open.spotify.com/album/5t3ccy97ysIsyQy7Zch0cM) | 3:47 | 2026-10-23 | 2026-11-04 |
 | [To\. My First Love](https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 3:30 | 2026-03-05 | 2026-05-13 |
 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 | 2024-10-11 |  |
 | [Triangle](https://open.spotify.com/track/442KH2XPdpjhrj2AiqFB6l) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Fall in Lovelyz](https://open.spotify.com/album/5arTUoeVhoeHrRRXTjWoGA) | 3:30 | 2021-11-29 | 2022-07-24 |
@@ -550,6 +550,7 @@
 | [Wish You Hell](https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 2:50 | 2024-04-17 | 2024-09-12 |
 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 | 2024-03-12 | 2024-04-19 |
 | [Witch](https://open.spotify.com/track/4esQGgU0ekQyRXXENzCo9u) | [UiU](https://open.spotify.com/artist/4qmogHXIzvEU3BhuX5YBYy) | [UiU \#1](https://open.spotify.com/album/5mggU4oN75UThUVfKkKOI0) | 3:09 | 2022-04-13 | 2022-06-01 |
+| [With](https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [PULSE](https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI) | 3:11 | 2026-11-03 |  |
 | [With U](https://open.spotify.com/track/2hN0AnYI3myW8m4GdNkSw1) | [MW:MEU](https://open.spotify.com/artist/4iWzLJS700YZDi2PeJecWW) | [With U](https://open.spotify.com/album/4rkh2rOaP54YESrV73x8mJ) | 2:41 | 2026-09-16 | 2026-09-23 |
 | [Wonderland](https://open.spotify.com/track/1w1BFGe9bPUKi0Tpfsh0a6) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.1 The Little Mermaid](https://open.spotify.com/album/2s65QrFa3eBaqdAlDlffhm) | 3:04 | 2021-11-29 | 2022-04-18 |
 | [Woohoo](https://open.spotify.com/track/3lhcNzVPV6UUBWL45QWx8j) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:20 | 2022-04-04 | 2022-04-20 |

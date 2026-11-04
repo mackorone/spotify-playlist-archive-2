@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring OK MICKEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,079 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,057 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [SUN FROM BOTH SIDES](https://open.spotify.com/track/6NYNsVgVEFLlV1A3fHyEiD) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [SUN FROM BOTH SIDES](https://open.spotify.com/album/4FaVqDP2br0TqNX6Kb4tQQ) | 3:40 |
 | 50 | [Who We Are](https://open.spotify.com/track/1jKBuqvBVcKaJWZOLqWyVF) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Who We Are](https://open.spotify.com/album/6gIX1GpqaD5UMqrgmXqxXV) | 2:55 |
 
-Snapshot ID: `AAAAADO2N0JWbO5IJfj9lJkBZa0cQwsw`
+Snapshot ID: `AAAAACZLHEjPwA+7ycx+ofCcMVBSp0DV`

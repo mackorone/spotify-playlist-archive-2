@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Latrelle, Kid Yugi, Slings, Finesse e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,361 likes - 90 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,359 likes - 90 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 89 | [posacenere](https://open.spotify.com/track/3v5lUQS6r3CiuHHV2rQSwH) | [kimori](https://open.spotify.com/artist/1Ry25dXtTBXrHleJl71Ikn) | [posacenere](https://open.spotify.com/album/6spG9k0iJoROvYitAEqXKb) | 2:19 |
 | 90 | [Sotto pressione](https://open.spotify.com/track/0q6uD3wWhdlgjkOuxRX2sX) | [Lamia](https://open.spotify.com/artist/5wkscBCRsDw7WNh3NFWgp3), [Volta](https://open.spotify.com/artist/42lHANs4mX9viD3VW6G7LK), [David Kristo](https://open.spotify.com/artist/1IMn6fWaU4MW3V17OZOtbU) | [Sotto pressione](https://open.spotify.com/album/5iv0kJJenIJe2gSqeKkcvo) | 2:21 |
 
-Snapshot ID: `AAAAACehf5hc3RM01OnYiX8yokdyRtzH`
+Snapshot ID: `AAAAABcjxgtUE3ShX4lH6LlE5i8NBq16`

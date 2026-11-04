@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: Verbal Jint\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Dakshood\)
 
 1,969 songs - 4 day 9 hr 1 min
 

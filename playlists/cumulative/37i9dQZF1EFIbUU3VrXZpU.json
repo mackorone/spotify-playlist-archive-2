@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156586,
+      "name": "Daddy's Girl",
+      "url": "https://open.spotify.com/track/7nV7RxteS61NPKIX8iUZZh"
+    },
+    {
+      "album": {
         "name": "Da Real World",
         "url": "https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i"
       },
@@ -3408,6 +3426,28 @@
       "duration_ms": 244173,
       "name": "Hit U Up",
       "url": "https://open.spotify.com/track/7ksLzLVkGRwBGCofK2tr7t"
+    },
+    {
+      "album": {
+        "name": "HOLD DA PHONE",
+        "url": "https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203222,
+      "name": "HOLD DA PHONE",
+      "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
     },
     {
       "album": {
@@ -5042,7 +5082,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN"

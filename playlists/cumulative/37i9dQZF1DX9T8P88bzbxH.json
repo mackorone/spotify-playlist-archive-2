@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "One night only. Cover: NCT 127",
-  "name": "On Tour Singapore: NCT 127",
+  "description": "One night only. Cover: izna",
+  "name": "On Tour Singapore: izna",
   "tracks": [
     {
       "album": {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 203721,
       "name": "0 Mile",
       "url": "https://open.spotify.com/track/7BR3N1IbXTjEJffLd8aics"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 230293,
       "name": "2 Baddies",
       "url": "https://open.spotify.com/track/7035sowF3NNYDfRUO8GF9H"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 221493,
       "name": "Ay-Yo",
       "url": "https://open.spotify.com/track/3ePLUHZ0wpewHpAg6P3wUE"
@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "BEEP",
+        "url": "https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164884,
+      "name": "BEEP",
+      "url": "https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5"
+    },
+    {
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
       },
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 201000,
       "name": "Blingy",
       "url": "https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB"
@@ -3250,7 +3268,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 222160,
       "name": "Bring The Noize",
       "url": "https://open.spotify.com/track/6ItCueFMTt3KOgCnISTDr8"
@@ -4178,7 +4196,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 236667,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
@@ -5222,7 +5240,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 193000,
       "name": "Day After Day",
       "url": "https://open.spotify.com/track/3gQ8mrkh4nyDPFYRmcnESB"
@@ -6319,6 +6337,24 @@
     },
     {
       "album": {
+        "name": "N/a",
+        "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142673,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/6ZpH3dVydCxg1NnXe8SdyV"
+    },
+    {
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -7024,7 +7060,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 184653,
       "name": "Fact Check",
       "url": "https://open.spotify.com/track/5H46gVYLDwpxbsIgPoihO4"
@@ -7082,6 +7118,24 @@
       "duration_ms": 283226,
       "name": "Faith",
       "url": "https://open.spotify.com/track/3orEOtd8CPL8GFlpRpKuoE"
+    },
+    {
+      "album": {
+        "name": "N/a",
+        "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165186,
+      "name": "FAKE IT",
+      "url": "https://open.spotify.com/track/4QgchKaG9fzfmb66i9WT1E"
     },
     {
       "album": {
@@ -8422,7 +8476,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 185000,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3EsDU1SpxFr7FEKNRunSLQ"
@@ -10960,7 +11014,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 163000,
       "name": "IKR",
       "url": "https://open.spotify.com/track/2dlhfguK5lPKgzOdIPKGoz"
@@ -11223,6 +11277,24 @@
     },
     {
       "album": {
+        "name": "Not Just Pretty",
+        "url": "https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168817,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
       },
@@ -11314,6 +11386,24 @@
       "duration_ms": 226714,
       "name": "Infatuated",
       "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
+    },
+    {
+      "album": {
+        "name": "SET THE TEMPO",
+        "url": "https://open.spotify.com/album/44FBhWiDfo2K0PxJyEpN7q"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186877,
+      "name": "INFINITY",
+      "url": "https://open.spotify.com/track/5v8h0wgY5cxUmq4MXI3bHX"
     },
     {
       "album": {
@@ -11570,6 +11660,42 @@
       "duration_ms": 285320,
       "name": "Itutulog Na Lang",
       "url": "https://open.spotify.com/track/5EnlPeg0b7VPJeNarKEAjA"
+    },
+    {
+      "album": {
+        "name": "N/a",
+        "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182620,
+      "name": "IWALY - izna Version",
+      "url": "https://open.spotify.com/track/3RKBemJLg88fpribzIO2CA"
+    },
+    {
+      "album": {
+        "name": "N/a",
+        "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156040,
+      "name": "IZNA",
+      "url": "https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt"
     },
     {
       "album": {
@@ -12336,7 +12462,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 233013,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/0yFq4GHDqLfeceyAs63B3W"
@@ -13070,7 +13196,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 180000,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/4mxr7X0oynGQkzn4FkXdwN"
@@ -13124,7 +13250,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 190066,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/21C8u2VFhCC8NAyoaR6rVC"
@@ -14149,6 +14275,24 @@
     },
     {
       "album": {
+        "name": "Not Just Pretty",
+        "url": "https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159524,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/5mxBUe5ycmUiUkDaLC5yVI"
+    },
+    {
+      "album": {
         "name": "Pagsibol",
         "url": "https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf"
       },
@@ -14724,6 +14868,24 @@
       "duration_ms": 246386,
       "name": "Metamorphose",
       "url": "https://open.spotify.com/track/0aTAZtzSPuPHQeSlHOsJjq"
+    },
+    {
+      "album": {
+        "name": "SET THE TEMPO",
+        "url": "https://open.spotify.com/album/44FBhWiDfo2K0PxJyEpN7q"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179657,
+      "name": "METRONOME",
+      "url": "https://open.spotify.com/track/6SGwediIFxWYxvU7zbWtri"
     },
     {
       "album": {
@@ -15994,7 +16156,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 204706,
       "name": "NonStop",
       "url": "https://open.spotify.com/track/2mAimBqtgLqzwxcQgaap6x"
@@ -16084,7 +16246,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 225173,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/26jI9TGHvFIR0alFLMuJMr"
@@ -16904,7 +17066,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 224013,
       "name": "Paper Plane",
       "url": "https://open.spotify.com/track/6Y8l3DrSGCJnei8EiudfZA"
@@ -17550,7 +17712,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 153000,
       "name": "Pi\u00f1ata",
       "url": "https://open.spotify.com/track/0qqJdEzeuAgPU21ge3SiWK"
@@ -17782,7 +17944,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 211160,
       "name": "Promise You",
       "url": "https://open.spotify.com/track/6NgnzFTrGz9jINgUmZiqfx"
@@ -17876,7 +18038,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 204000,
       "name": "Punch",
       "url": "https://open.spotify.com/track/7LXW05QcQi9ri7ZBYqGhPJ"
@@ -18060,6 +18222,42 @@
       "duration_ms": 187750,
       "name": "r&r",
       "url": "https://open.spotify.com/track/5F9PY53AsSFXO6vNWW14UG"
+    },
+    {
+      "album": {
+        "name": "SET THE TEMPO",
+        "url": "https://open.spotify.com/album/44FBhWiDfo2K0PxJyEpN7q"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153668,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/1xGhH49S08gwBa4QSvLxaY"
+    },
+    {
+      "album": {
+        "name": "Not Just Pretty",
+        "url": "https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152683,
+      "name": "Racecar",
+      "url": "https://open.spotify.com/track/3ylwpGWNGip7lRhNCpCBLR"
     },
     {
       "album": {
@@ -18555,6 +18753,24 @@
     },
     {
       "album": {
+        "name": "SET THE TEMPO",
+        "url": "https://open.spotify.com/album/44FBhWiDfo2K0PxJyEpN7q"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140408,
+      "name": "ROCK, PAPER, SCISSORS",
+      "url": "https://open.spotify.com/track/47fxWmFvEtVywOYH2GuwUu"
+    },
+    {
+      "album": {
         "name": "Hot Sauce - The 1st Album",
         "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
@@ -19010,6 +19226,24 @@
       "duration_ms": 182800,
       "name": "SARURU",
       "url": "https://open.spotify.com/track/59FZVzhkkFsu99ShD8ON8j"
+    },
+    {
+      "album": {
+        "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "SASS (Prod. THE HUB)",
+      "url": "https://open.spotify.com/track/3i4uRxBpIrI6xb6CHLvh9p"
     },
     {
       "album": {
@@ -19979,6 +20213,24 @@
     },
     {
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166612,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
+    },
+    {
+      "album": {
         "name": "Lapit",
         "url": "https://open.spotify.com/album/20Ho2ZnYwEQ3n2q6UINVmI"
       },
@@ -20052,7 +20304,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 199773,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/1zedfw5iu7XzKJT8CupEIP"
@@ -20948,7 +21200,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 160000,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/66AvchkvKKmZ9crMlRXaM1"
@@ -21164,7 +21416,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 217697,
       "name": "Summer 127",
       "url": "https://open.spotify.com/track/7tQTOyhv9BAjKoMoegHncb"
@@ -21204,6 +21456,24 @@
       "duration_ms": 149093,
       "name": "Sunlight!",
       "url": "https://open.spotify.com/track/0wAE8X8R3A0WqIBTuxwRvF"
+    },
+    {
+      "album": {
+        "name": "Not Just Pretty",
+        "url": "https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174312,
+      "name": "Supercrush",
+      "url": "https://open.spotify.com/track/5SQvNdCt8nwz9VOhfpCt9a"
     },
     {
       "album": {
@@ -22693,6 +22963,24 @@
     },
     {
       "album": {
+        "name": "N/a",
+        "url": "https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171232,
+      "name": "TIMEBOMB",
+      "url": "https://open.spotify.com/track/3CkGiFTTyIguBZzZGmE6eq"
+    },
+    {
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -22964,7 +23252,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 189077,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/1mdEvT7X3Rs7vL75fRb8oo"
@@ -23832,7 +24120,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 191826,
       "name": "Walk",
       "url": "https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw"
@@ -27644,7 +27932,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 178565,
       "name": "\uc18c\ubc29\ucc28 Fire Truck",
       "url": "https://open.spotify.com/track/5hHlmrSV6d9LFMsDA1lamE"

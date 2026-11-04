@@ -2247,6 +2247,28 @@
     },
     {
       "album": {
+        "name": "Dilfek",
+        "url": "https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173138,
+      "name": "Dilruba Dilnasheen",
+      "url": "https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF"
+    },
+    {
+      "album": {
         "name": "Do Shaitano",
         "url": "https://open.spotify.com/album/0TfdtzxV0kkk4vXtXiZcv8"
       },
@@ -6002,7 +6024,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 121442,
       "name": "Naina",
       "url": "https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg"

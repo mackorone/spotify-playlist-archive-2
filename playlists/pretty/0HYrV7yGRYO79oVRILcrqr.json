@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAM76s8JjmDsiuJF3z186z0jfSmm1OE",
+  "snapshot_id": "AAAM8mpD2lBU/4ypzkgDrfuJ5WubDOR5",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -3191,6 +3191,58 @@
       "duration_ms": 169200,
       "name": "Gum On My Shoe",
       "url": "https://open.spotify.com/track/6RxMgMkrKsNBW6OFClALJf"
+    },
+    {
+      "added_at": "2026-11-03 08:29:02",
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/2uAIgvSpuJ7GLiGYGO4rVO"
+      },
+      "artists": [
+        {
+          "name": "Shadowcast",
+          "url": "https://open.spotify.com/artist/5FxRl4JNEu1Xa7BQ5b1Lza"
+        }
+      ],
+      "duration_ms": 273528,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/4B5EPbvObQFIfFlww8RYFF"
+    },
+    {
+      "added_at": "2026-11-03 13:16:26",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/0RW5aKam3r8yxlj8s5w8zr"
+      },
+      "artists": [
+        {
+          "name": "Leela Misel",
+          "url": "https://open.spotify.com/artist/1zQTvWsb6vuMGVoAlhXvJ1"
+        }
+      ],
+      "duration_ms": 222717,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/5wj9CKSCA03adRI9tM2j1x"
+    },
+    {
+      "added_at": "2026-11-03 13:20:31",
+      "album": {
+        "name": "He's My Best Friend",
+        "url": "https://open.spotify.com/album/3uKnZLigSGqoGYtoVBsSiz"
+      },
+      "artists": [
+        {
+          "name": "Benj Clarke",
+          "url": "https://open.spotify.com/artist/1dQvzl3MgJ9iok8Erpg5dn"
+        },
+        {
+          "name": "Bill Brandenburgh",
+          "url": "https://open.spotify.com/artist/32skbbFJEqpuO0Fe6x2H2x"
+        }
+      ],
+      "duration_ms": 255407,
+      "name": "He's My Best Friend",
+      "url": "https://open.spotify.com/track/5b3aXT4oMVQqwmR4x9bmuS"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Ace Banzuelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,026,832 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,026,638 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Palaisipan](https://open.spotify.com/track/4Z7hKDpGq5bMmQ98fdwDOt) | [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v), [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Saan Ba Pupunta?](https://open.spotify.com/album/3Zch40hPayH1X01LvDwBF7) | 3:57 |
 | 50 | [Waiting For You](https://open.spotify.com/track/5U1UoeR6Dh0BwzoRtcXhvc) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV), [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E) | [Waiting For You](https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi) | 3:49 |
 
-Snapshot ID: `AAAAAHqD+P7K5M5iqBdVfMJ85S2lEOt4`
+Snapshot ID: `AAAAAALXNl1Jcag/k10DDnBrtgLGWCcb`

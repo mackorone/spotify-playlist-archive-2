@@ -431,6 +431,28 @@
     },
     {
       "album": {
+        "name": "Au bout de la peur",
+        "url": "https://open.spotify.com/album/2yxVs7b883e0O0CohISiRp"
+      },
+      "artists": [
+        {
+          "name": "Huriel",
+          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+        },
+        {
+          "name": "VALOIS",
+          "url": "https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229367,
+      "name": "Au bout de la peur",
+      "url": "https://open.spotify.com/track/5cfY60saiGhksHU7tzdcsa"
+    },
+    {
+      "album": {
         "name": "Treize miniatures",
         "url": "https://open.spotify.com/album/06All3BqxHCltO0QXzF55F"
       },
@@ -6120,7 +6142,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 173653,
       "name": "Leave You Behind",
       "url": "https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd"

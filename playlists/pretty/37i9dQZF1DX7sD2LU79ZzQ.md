@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:dia
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,289 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,295 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Ini Bukan Cinta](https://open.spotify.com/track/3KFi5afCTz6clzLXK7noue) | [ASTRI](https://open.spotify.com/artist/7rn4Z9vVBJDsz4ehMwCmOg) | [Ini Bukan Cinta](https://open.spotify.com/album/2BScMn8yGahXrZs5qAV0Ex) | 2:54 |
 | 100 | [Strategi Memilikimu](https://open.spotify.com/track/1mwLvEiFXRKrxdFIDiuySS) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Strategi Memilikimu](https://open.spotify.com/album/6h0LAtMzO6fNCDQjgsQUtJ) | 3:34 |
 
-Snapshot ID: `AAAAAE4gIUTDSv5zaWGfJtG6a+NWRyyC`
+Snapshot ID: `AAAAAG/kVlr49vWnvptLAuHd3kWO9Q7F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,228 likes - 236 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,229 likes - 236 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 169 | [Mr Darkness \(feat\. Zakk Wylde\)](https://open.spotify.com/track/4xV2QwgyP4xOSjZgQ7heRN) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
 | 170 | [2step \(feat\. reezy\)](https://open.spotify.com/track/6Md7OetCK5pP3HzcX0ermc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 |
 | 171 | [Got To Give](https://open.spotify.com/track/0pbo6zLqhafAy4r1T4F4jD) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:37 |
-| 172 | [Ghost In My Head](https://open.spotify.com/track/6W1EBxpZcZpaqPoMubgHIC) | [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Ghost In My Head EP](https://open.spotify.com/album/2WFIJV7ySO8kurCIVYcUHt) | 3:33 |
-| 173 | [Human](https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:20 |
+| 172 | [Human](https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:20 |
+| 173 | [Ghost In My Head](https://open.spotify.com/track/6W1EBxpZcZpaqPoMubgHIC) | [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Ghost In My Head EP](https://open.spotify.com/album/2WFIJV7ySO8kurCIVYcUHt) | 3:33 |
 | 174 | [You Without Me](https://open.spotify.com/track/1976jJn3uLmKNUa9cIWm5q) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:39 |
 | 175 | [Frenzy](https://open.spotify.com/track/5JngFjxkVIvlGSsHgUME7B) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:00 |
 | 176 | [On My Way](https://open.spotify.com/track/5yYcUqdQoaYa3udHBsUMDA) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Haywood](https://open.spotify.com/artist/2qlW5MFeHssyUCbitfNmJx) | [On My Way](https://open.spotify.com/album/7s8wjo42XcZ3rLN78QuJEt) | 3:16 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 235 | [One Night Stand \- \(Bonus Track\)](https://open.spotify.com/track/0A9ZMNesPbIXCCiaOpe2Gc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane \(Special Edition\)](https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu) | 3:15 |
 | 236 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcgofAAAAABBMwycW4oUjll+ON1yhM3r`
+Snapshot ID: `Acgt4AAAAAA31ZxCohzZc+MSfILC315B`

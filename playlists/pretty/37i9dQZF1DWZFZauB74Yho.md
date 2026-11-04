@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: The Creekers
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,060 likes - 99 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,063 likes - 99 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 98 | [Blue Night](https://open.spotify.com/track/4wMzY3Ppuc9eHhM4TbU1Km) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blue Night](https://open.spotify.com/album/1VOmpfma0UivK1IYlnyQ8P) | 4:06 |
 | 99 | [Leavin' Town](https://open.spotify.com/track/033t7yIDaVQDpgVGtaO8ck) | [Trey Hedrick](https://open.spotify.com/artist/4Nhc6hSYDtqX3hQjYZjJCX) | [Sing, Appalachia](https://open.spotify.com/album/2wT5x6mgNU9MU8unSmMAf0) | 2:59 |
 
-Snapshot ID: `AAAAAJ4UJqm4af6dH5lm02+rQbYd4aSG`
+Snapshot ID: `AAAAAOt208ijEY0/4DPP1hjECvj/oEis`

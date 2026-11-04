@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,176 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,190 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 94 | [khabbi seat](https://open.spotify.com/track/1yOdrG5OpQQNHkoZDzgIYL) | [MIU](https://open.spotify.com/artist/3AjPfDCWmCsaFp5flfP8HO), [dotxb](https://open.spotify.com/artist/5hZRffJ4faH94fVKwG4Kzk) | [khabbi seat](https://open.spotify.com/album/1aHwOC1NzKAHZDRz4PCRm9) | 2:44 |
 | 95 | [Tenu](https://open.spotify.com/track/4cBDWTewLmPU9vKVn9sP46) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Tenu](https://open.spotify.com/album/58LGOY9Kp2tB0fm5AvQ2zc) | 3:38 |
 
-Snapshot ID: `AAAAACCMHxON4yBau2vYWnER3rVK3xpp`
+Snapshot ID: `AAAAAHfw0unCQwyjFMStZkY0mNUyul5o`

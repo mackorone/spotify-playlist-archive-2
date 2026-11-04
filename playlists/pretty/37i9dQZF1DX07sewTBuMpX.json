@@ -1,12 +1,12 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141980,
+  "num_followers": 141978,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfPnDFlHpGguFwx/57PINEHa4Os",
+  "snapshot_id": "AAAAAAIYAPLIlPC5md45uBYdgrXSY/Fb",
   "tracks": [
     {
       "added_at": "2026-09-28 22:00:24",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Waar Was Je?",
-        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "Waar Was Je?",
-      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -515,22 +499,18 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "bLoOdLine",
-        "url": "https://open.spotify.com/album/0WW2cx3x8Foi8d4xNLfHce"
+        "name": "Waar Was Je?",
+        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
         }
       ],
-      "duration_ms": 154062,
-      "name": "ZAAZAA",
-      "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"
+      "duration_ms": 148645,
+      "name": "Waar Was Je?",
+      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -555,6 +535,26 @@
       "duration_ms": 145092,
       "name": "HEFTIG MAN",
       "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "bLoOdLine",
+        "url": "https://open.spotify.com/album/0WW2cx3x8Foi8d4xNLfHce"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 154062,
+      "name": "ZAAZAA",
+      "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"
     },
     {
       "added_at": "2026-09-28 22:00:24",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-09-28 22:00:24",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/1JygDI95oCjVbs3Y3vZQwP"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
-        },
-        {
-          "name": "Thierry Ganz",
-          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
-        }
-      ],
-      "duration_ms": 206988,
-      "name": "Know Your Name",
-      "url": "https://open.spotify.com/track/43gYU2gBjJRRJm2ncFDz6L"
-    },
-    {
-      "added_at": "2026-09-28 22:00:24",
-      "album": {
         "name": "Don Julio Daddy",
         "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 176518,
       "name": "Don Julio Daddy",
       "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
+    },
+    {
+      "added_at": "2026-09-28 22:00:24",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1JygDI95oCjVbs3Y3vZQwP"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "duration_ms": 206988,
+      "name": "Know Your Name",
+      "url": "https://open.spotify.com/track/43gYU2gBjJRRJm2ncFDz6L"
     },
     {
       "added_at": "2026-09-28 22:00:24",

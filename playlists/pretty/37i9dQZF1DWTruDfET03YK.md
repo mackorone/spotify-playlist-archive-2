@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,452 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,468 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 7 | [O Pato \- El Pato](https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 2:09 |
 | 8 | [Pollito Amarillito](https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:47 |
 | 9 | [Coco En Su Cueva](https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Fiesta En La Aldea Encantada](https://open.spotify.com/album/69rQXystVGM2FksqbAO6M3) | 1:56 |
-| 10 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
+| 10 | [La Vaca Lola](https://open.spotify.com/track/50jTH2CYOJdQaLSy0Xfmre) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:55 |
 | 11 | [El Baile de los Animales](https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH), [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [Canciones del Zoo Vol\. 3](https://open.spotify.com/album/3COabJotsgeogBvNsNpcok) | 2:54 |
-| 12 | [La Vaca Lola](https://open.spotify.com/track/50jTH2CYOJdQaLSy0Xfmre) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:55 |
+| 12 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
 | 13 | [Escuela de Perritos](https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:30 |
 | 14 | [S.I.M.P\. \(Squirrels in My Pants\)](https://open.spotify.com/track/7ymrbUUrrqvUKBMmdRvieZ) | [2 Guys n the Parque](https://open.spotify.com/artist/2HQvN6u2hFOIRsZOdXB6UM) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:34 |
 | 15 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 49 | [Oso Azul](https://open.spotify.com/track/6YSFYrDmxaE54vxii1ignx) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 3:05 |
 | 50 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Masha and the Bear](https://open.spotify.com/artist/2HTXyQhFn9avH2spohJh1j) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
 
-Snapshot ID: `AAAAAAsgYtv7UygO537YkVdJDRuP5ZOI`
+Snapshot ID: `AAAAAL1Zoxavcn7UA7wt4Gm0FZ+F2kCO`

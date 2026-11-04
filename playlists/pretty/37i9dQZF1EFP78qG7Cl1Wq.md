@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,146 likes - 256 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,147 likes - 256 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 106 | [Honey](https://open.spotify.com/track/4T3nfbJ0G6uwNOdhygapfu) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:21 |
 | 107 | [Love Is Unkind](https://open.spotify.com/track/6pIdNFsaQW7yH4c77FfFqh) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 3:33 |
 | 108 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 |
-| 109 | [Nervous System](https://open.spotify.com/track/6L4gFqY2OumTh17xbnsUnu) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/2tUCz7FgWO4Z9Gob0qumxg) | 2:37 |
+| 109 | [Nervous System](https://open.spotify.com/track/4Ep8X2aGFC9kgBP3kfZsjK) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/1firK4Zf4pe0vHXjwL1QfE) | 2:37 |
 | 110 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
 | 111 | [Insomnia](https://open.spotify.com/track/1KynKSyhY1OJzZgQlV3Rda) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:49 |
 | 112 | [Asleep](https://open.spotify.com/track/50qwbUIAa3PNs1x9OC7jPA) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6KTCgvjhx37ytGnmRu2flX) | 3:49 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 120 | [Call Me Crazy](https://open.spotify.com/track/5Kxs4hSxjT9faa77ZMql6o) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 3:40 |
 | 121 | [Spring Cleaning](https://open.spotify.com/track/4Z5ZGYDG3yn73kEAa0BMIX) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Through The Madness Vol\. 2](https://open.spotify.com/album/5s1S4QUVIVFRg9gLOz9ves) | 2:32 |
 | 122 | [Relapse](https://open.spotify.com/track/0Ky7dNE5kiSBgqNiwwl1jx) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [While You Were Out](https://open.spotify.com/album/6lYGdrU9Qg9qLLUAEoFcqi) | 2:52 |
-| 123 | [So Good](https://open.spotify.com/track/4dLN7SiPi5EspQwirFSAIQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:45 |
-| 124 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
+| 123 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
+| 124 | [So Good](https://open.spotify.com/track/4dLN7SiPi5EspQwirFSAIQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:45 |
 | 125 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
 | 126 | [ain't a lonely christmas song \(feat\. Tayla Parx\)](https://open.spotify.com/track/1WSOncoBvbmkvujGKVBQKu) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:52 |
 | 127 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 255 | [Intro](https://open.spotify.com/track/2voUe1ZoydUCnrjjSBymNz) | [Monet](https://open.spotify.com/artist/258AGqI6omKexzEte9BXci), [Mellow Bora](https://open.spotify.com/artist/77EKywL0RK6rDMGuxvxZmj) | [Popo](https://open.spotify.com/album/61VeYxptr7wSy5QfxLHzR2) | 2:16 |
 | 256 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcgoXgAAAADoBgM2hPf+MqPw7a511aAB`
+Snapshot ID: `AcgtwgAAAABQqNyjsbb3AzRBntCkbJ19`

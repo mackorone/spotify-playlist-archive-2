@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 107922,
+  "num_followers": 107970,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxOd+s+14mKKh4jdqJtfEAw08qT",
+  "snapshot_id": "AAAAAFc6beqHGZwoBZdWG618BGkzBH0o",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:20",
@@ -431,6 +431,30 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "Shayimpempe",
+        "url": "https://open.spotify.com/album/6EcnO6qmWJzUuPODOMK6TH"
+      },
+      "artists": [
+        {
+          "name": "Mavuthela",
+          "url": "https://open.spotify.com/artist/48do32hpl3t6HQhhXqqPPo"
+        },
+        {
+          "name": "Swizz Panache",
+          "url": "https://open.spotify.com/artist/6H633neNAKof6YOntia735"
+        },
+        {
+          "name": "Ribby",
+          "url": "https://open.spotify.com/artist/5mNfMjlfB7wGturL1tcWj9"
+        }
+      ],
+      "duration_ms": 255049,
+      "name": "Shayimpempe",
+      "url": "https://open.spotify.com/track/0Rl25OrMjAz4w54JfkjGBo"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Gibela",
         "url": "https://open.spotify.com/album/2BeBEMD1u0cFkYsgfS14Hu"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 404994,
       "name": "Gibela",
       "url": "https://open.spotify.com/track/3m8fmJWhgUvGOPpRE60OS8"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
-        "name": "Shayimpempe",
-        "url": "https://open.spotify.com/album/6EcnO6qmWJzUuPODOMK6TH"
-      },
-      "artists": [
-        {
-          "name": "Mavuthela",
-          "url": "https://open.spotify.com/artist/48do32hpl3t6HQhhXqqPPo"
-        },
-        {
-          "name": "Swizz Panache",
-          "url": "https://open.spotify.com/artist/6H633neNAKof6YOntia735"
-        },
-        {
-          "name": "Ribby",
-          "url": "https://open.spotify.com/artist/5mNfMjlfB7wGturL1tcWj9"
-        }
-      ],
-      "duration_ms": 255049,
-      "name": "Shayimpempe",
-      "url": "https://open.spotify.com/track/0Rl25OrMjAz4w54JfkjGBo"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -639,30 +639,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Thanda (Tshwala) 10.0",
-        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
-      },
-      "artists": [
-        {
-          "name": "Bukzin Keyz",
-          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
-        },
-        {
-          "name": "Loony Q",
-          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
-        },
-        {
-          "name": "Senzo02",
-          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
-        }
-      ],
-      "duration_ms": 271737,
-      "name": "Thanda (Tshwala) 10.0",
-      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Makhelwane",
         "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 328096,
       "name": "Keneilwe (feat. Dalom Kids)",
       "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Thanda (Tshwala) 10.0",
+        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Loony Q",
+          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
+        },
+        {
+          "name": "Senzo02",
+          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
+        }
+      ],
+      "duration_ms": 271737,
+      "name": "Thanda (Tshwala) 10.0",
+      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Leon Lee",
+          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
+        }
+      ],
+      "duration_ms": 411952,
+      "name": "Mang' Dakiwe (feat. Leon Lee)",
+      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Tshela Fela (feat. MU MuziQal, Sbuda Maleather & Vic_to_ry)",
         "url": "https://open.spotify.com/album/5Pl4iSF9sYE91uM2bulp9K"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 351478,
       "name": "Tshela Fela (feat. MU MuziQal, Sbuda Maleather & Vic_to_ry)",
       "url": "https://open.spotify.com/track/4p1h9qEVTimh0noh4aG1zR"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
-      },
-      "artists": [
-        {
-          "name": "Dj Obza",
-          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
-        },
-        {
-          "name": "Leon Lee",
-          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
-        }
-      ],
-      "duration_ms": 411952,
-      "name": "Mang' Dakiwe (feat. Leon Lee)",
-      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
     },
     {
       "added_at": "2026-09-10 22:02:20",

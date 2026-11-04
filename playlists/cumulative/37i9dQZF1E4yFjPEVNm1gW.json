@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Sexiest Man Alive",
+        "url": "https://open.spotify.com/album/6cxiMShncARBAZ72ydEXkT"
+      },
+      "artists": [
+        {
+          "name": "Jaybexo",
+          "url": "https://open.spotify.com/artist/2EiZrhJaUqMPjo8qlVC93L"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117937,
+      "name": "Black Trucks (dirty souf)",
+      "url": "https://open.spotify.com/track/0kdwZawCRqIZjKHEXRO8aX"
+    },
+    {
+      "album": {
         "name": "Reaper Files",
         "url": "https://open.spotify.com/album/1LkpG33vQtsDO7J16w9eE5"
       },
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 115356,
       "name": "havin",
       "url": "https://open.spotify.com/track/31TmrpMSlfEb7B07RvF8it"
@@ -2776,6 +2794,28 @@
       "duration_ms": 90200,
       "name": "hunnid",
       "url": "https://open.spotify.com/track/0OJbP2toa8a2CJv5ouYZtc"
+    },
+    {
+      "album": {
+        "name": "CENTER OF ATTENTION!",
+        "url": "https://open.spotify.com/album/5KtPR9iv4r1KRjdkn0yruO"
+      },
+      "artists": [
+        {
+          "name": "xomase",
+          "url": "https://open.spotify.com/artist/13ziqK9EOcx8jocomAhHR7"
+        },
+        {
+          "name": "xosamu",
+          "url": "https://open.spotify.com/artist/0N28D7ds7Ode9Jc0ekOWdw"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109969,
+      "name": "hunnit sum",
+      "url": "https://open.spotify.com/track/5ugpt9BuF2OE4Nx1yeRvg6"
     },
     {
       "album": {
@@ -3040,7 +3080,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
@@ -3730,7 +3770,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 110221,
       "name": "Militia",
       "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
@@ -4306,6 +4346,32 @@
       "duration_ms": 162781,
       "name": "Notre dame",
       "url": "https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt"
+    },
+    {
+      "album": {
+        "name": "Tape Talk 2",
+        "url": "https://open.spotify.com/album/1XMZz853xRJX1gTPUiMadl"
+      },
+      "artists": [
+        {
+          "name": "Ysn yellowtape",
+          "url": "https://open.spotify.com/artist/5TK14iTl8oeppeVviOLGcU"
+        },
+        {
+          "name": "Streameum",
+          "url": "https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh"
+        },
+        {
+          "name": "Shadoh",
+          "url": "https://open.spotify.com/artist/41dX8NdAG3wlzUTPwa7Fdp"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125433,
+      "name": "Nottaburden",
+      "url": "https://open.spotify.com/track/10nUAMDyOWjwqnwVxTaRbJ"
     },
     {
       "album": {
@@ -4985,6 +5051,28 @@
     },
     {
       "album": {
+        "name": "GOTHTOBER 3",
+        "url": "https://open.spotify.com/album/3RVRc9pMTJWbDzj9mm7j3c"
+      },
+      "artists": [
+        {
+          "name": "ZAYGUAPKID",
+          "url": "https://open.spotify.com/artist/2b8pqrjpgCOC8gvB2FS2nD"
+        },
+        {
+          "name": "1bloxkz",
+          "url": "https://open.spotify.com/artist/6poh2CHSdINAltoySbSTev"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180302,
+      "name": "ROUND MY WAY (with 1BLOXKZ)",
+      "url": "https://open.spotify.com/track/413Sjs3tTjuQVSDTc7NGcc"
+    },
+    {
+      "album": {
         "name": "ROZAY",
         "url": "https://open.spotify.com/album/1K79ej2VVyNJKYrQDbQthM"
       },
@@ -5148,7 +5236,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 148878,
       "name": "Scared of Love",
       "url": "https://open.spotify.com/track/1SbxQBrTQQIvd1Ih74cIuD"

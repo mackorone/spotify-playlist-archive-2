@@ -1,6 +1,6 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 221203,
+  "num_followers": 221229,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras De Noche II",
-        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 210122,
-      "name": "Eres Arte <3",
-      "url": "https://open.spotify.com/track/5yJBiHH4O9q3gFVFl4abUZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 107153,
       "name": "QUE DIABLOS HICE (INTERLUDE)",
       "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras De Noche II",
+        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 210122,
+      "name": "Eres Arte <3",
+      "url": "https://open.spotify.com/track/5yJBiHH4O9q3gFVFl4abUZ"
     },
     {
       "added_at": null,

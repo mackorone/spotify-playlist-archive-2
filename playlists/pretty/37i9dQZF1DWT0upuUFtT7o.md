@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Billboard Style
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,821 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,845 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [1 By One](https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T) | [Ideas By Ab](https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk) | [1 By One](https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe) | 2:09 |
 | 75 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |
 
-Snapshot ID: `AAAAAMchzSzdZL1ABeyLAwsp6cqC2wg/`
+Snapshot ID: `AAAAAPrNOIuf3sxPt7Meuz9FZdWc2p2L`

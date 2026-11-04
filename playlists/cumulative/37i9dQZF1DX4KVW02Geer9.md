@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 梅井美咲
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Sup
 
-640 songs - 1 day 21 hr 51 min
+641 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Good Intentions](https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Good Intentions](https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf) | 3:14 | 2026-03-20 |  |
 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 | 2025-09-25 | 2026-04-10 |
 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 | 2024-11-07 | 2025-02-07 |
+| [Green Willow](https://open.spotify.com/track/7CFmnDU3MAk4KHOtggpb3R) | [Sup](https://open.spotify.com/artist/56p5ak4D7Ltq49E5yTRRm7), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [Green Willow](https://open.spotify.com/album/4QOGmuRg1SroFT2JbRB0OQ) | 5:05 | 2026-11-03 |  |
 | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/track/4TgNRA05pRMz0oBaQYMyS3) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/album/7dCw1GWPdLc8exWpsmn1vn) | 3:37 | 2025-08-07 | 2026-02-06 |
 | [Half Moon](https://open.spotify.com/track/2M0XvBBSxE26LTFfGIJQdU) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Quiet Clown](https://open.spotify.com/album/0bqi6Hw8qCq4s5TFt9n7Wn) | 4:07 | 2026-07-21 |  |
 | [Half Past Something feat\. Imani J & Hikaru Arata](https://open.spotify.com/track/2TTSIDn06bL3uplkLBVglR) | [ALFA B](https://open.spotify.com/artist/4f97pMKxRRKriperqmNHWW), [Imani J](https://open.spotify.com/artist/14pucqDOzazKI7ZrxSk9xj), [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Half Past Something feat\. Imani J & Hikaru Arata](https://open.spotify.com/album/3GSZNwNBkywtBRQWHi746k) | 7:21 | 2025-01-24 | 2025-02-21 |

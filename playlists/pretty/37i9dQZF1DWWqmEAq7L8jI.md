@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,110 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,113 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 77 | [Morirme con vos](https://open.spotify.com/track/68TQC7YHkhh0Vx2beqgvpu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Morirme con vos](https://open.spotify.com/album/3A8EQyuP4PHYsjBNEt6KAE) | 3:27 |
 | 78 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 |
 | 79 | [Una Noche Contigo](https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Una Noche Contigo](https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3) | 3:13 |
-| 80 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 |
-| 81 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
+| 80 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
+| 81 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fuego de Noche, Nieve de Día](https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos) | 4:42 |
 | 82 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastián Yatra](https://open.spotify.com/artist/5pht7tKXc1DYyYVmqkYejt) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 |
 | 83 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 |
 | 84 | [Ay amor](https://open.spotify.com/track/4uKLboqw7YmgKzYdrrrSGN) | [PALO](https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk) | [Más allá](https://open.spotify.com/album/5cqlNAQExeLN7YagrSjBAK) | 2:37 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 94 | [Nada es lo Mismo](https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Nada es lo Mismo](https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk) | 3:04 |
 | 95 | [cuerpo](https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 3:18 |
 | 96 | [100 Días](https://open.spotify.com/track/2dMiawx9oxLX6uYOIRuI0h) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Michael Ronda](https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt) | [La Dolce Vita](https://open.spotify.com/album/1LT8bIhW6uYBdMzKf94XI5) | 3:04 |
-| 97 | [El Problema Del Amor](https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Problema Del Amor](https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv) | 3:40 |
-| 98 | [Tu y yo](https://open.spotify.com/track/3TPJ3wIbNBNoYb9cisIAXY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Prometieron volar](https://open.spotify.com/album/2lBkfSRpIuPR09IaLGiqn4) | 3:14 |
+| 97 | [Tu y yo](https://open.spotify.com/track/3TPJ3wIbNBNoYb9cisIAXY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Prometieron volar](https://open.spotify.com/album/2lBkfSRpIuPR09IaLGiqn4) | 3:14 |
+| 98 | [El Problema Del Amor](https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Problema Del Amor](https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv) | 3:40 |
 | 99 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 100 | [Tus Errores](https://open.spotify.com/track/57JOyleJlwAZRzB5LQQQVf) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Otra Que Arde](https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj) | 3:06 |
 
-Snapshot ID: `AAAAAFHzHaypLJDdEUJyLnM9vBLR7DIa`
+Snapshot ID: `AAAAAIKu9sXkPaYg7r2Xm64CecLmVKA2`

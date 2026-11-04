@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Brindavihari",
-  "num_followers": 76848,
+  "num_followers": 76861,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABr/b0q6y1f30NLzCaH/PUUHoKgm",
+  "snapshot_id": "AAAAAJV8xXo7ehv8FLGU9WWCO9zG6SbA",
   "tracks": [
     {
       "added_at": "2026-10-22 05:48:36",
@@ -235,6 +235,34 @@
       "duration_ms": 209336,
       "name": "Eru Peru Hrudaya (From \"Premada Oorali\")",
       "url": "https://open.spotify.com/track/10uvd9gC2yb5MQ2Ww3r2eL"
+    },
+    {
+      "added_at": "2026-11-03 09:43:28",
+      "album": {
+        "name": "If You Come Today 2.0",
+        "url": "https://open.spotify.com/album/5mr1sAC2rj2KEh1CwkOj9a"
+      },
+      "artists": [
+        {
+          "name": "Gubbi",
+          "url": "https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3"
+        },
+        {
+          "name": "SYNKFLO",
+          "url": "https://open.spotify.com/artist/7nFL4swk0BVeURhBrhpF8O"
+        },
+        {
+          "name": "Dr. Rajkumar",
+          "url": "https://open.spotify.com/artist/335Vd3L0eWKgX1Fl409K7D"
+        },
+        {
+          "name": "G.K. Venkatesh",
+          "url": "https://open.spotify.com/artist/6zQglmdJBfzjStpsm0XxTV"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "If You Come Today 2.0",
+      "url": "https://open.spotify.com/track/4ntifzHQt5xGMpp7t5kHWC"
     },
     {
       "added_at": "2026-10-22 05:48:36",

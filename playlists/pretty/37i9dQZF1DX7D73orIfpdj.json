@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADK1cRjlTEZO+P4uhIdoS2uObGej",
+  "snapshot_id": "AAAAANCHy/QwtVZIu2Hu5XyZ62ISyJq4",
   "tracks": [
     {
       "added_at": "2026-10-19 13:37:50",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/episode/2k9dVo18xmABUNh8QHUKDs"
     },
     {
-      "added_at": "2026-10-19 13:37:50",
+      "added_at": "2026-11-03 10:00:46",
       "album": {
         "name": "Strap In",
         "url": "https://open.spotify.com/album/033fUZ1y1rtauoPH49qjJl"
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/show/033fUZ1y1rtauoPH49qjJl"
         }
       ],
-      "duration_ms": 1377024,
-      "name": "Where can I find queer friends?!",
-      "url": "https://open.spotify.com/episode/6rLqU9qSCNK41Z1dca9vIw"
+      "duration_ms": 1888725,
+      "name": "Pride, plant genders & accidental nudes",
+      "url": "https://open.spotify.com/episode/5xnJqdYxWZF1pxNSWC4clf"
     },
     {
       "added_at": "2026-10-19 13:37:50",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/episode/4G0xBr1GJhguETssgTjCnl"
     },
     {
+      "added_at": "2026-11-03 10:00:46",
+      "album": {
+        "name": "Strap In",
+        "url": "https://open.spotify.com/album/033fUZ1y1rtauoPH49qjJl"
+      },
+      "artists": [
+        {
+          "name": "Strap In",
+          "url": "https://open.spotify.com/show/033fUZ1y1rtauoPH49qjJl"
+        }
+      ],
+      "duration_ms": 2066005,
+      "name": "How to date women?!",
+      "url": "https://open.spotify.com/episode/4m6Hky4RjIXwKbV9pBbZSv"
+    },
+    {
       "added_at": "2026-10-19 13:37:50",
       "album": {
         "name": "The discourse department",
@@ -183,22 +199,6 @@
       "duration_ms": 2395690,
       "name": "From Illness to Intuition: Issy Oakley on Crohn's, Self-Worth & Finding Her Power!",
       "url": "https://open.spotify.com/episode/1lmoVocSjVqXI5Ke6p9oDS"
-    },
-    {
-      "added_at": "2026-10-19 13:37:50",
-      "album": {
-        "name": "Strap In",
-        "url": "https://open.spotify.com/album/033fUZ1y1rtauoPH49qjJl"
-      },
-      "artists": [
-        {
-          "name": "Strap In",
-          "url": "https://open.spotify.com/show/033fUZ1y1rtauoPH49qjJl"
-        }
-      ],
-      "duration_ms": 2344618,
-      "name": "Queer history you should know! with Safe Space",
-      "url": "https://open.spotify.com/episode/0yJgRtfkElPoJfeBbkda0n"
     }
   ],
   "unique_name": "Radar Creators UK",

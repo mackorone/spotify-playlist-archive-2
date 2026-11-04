@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,634 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,637 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 18 | [Wilde Rodeo](https://open.spotify.com/track/22PeNKVzgb9yZGN6T78H5r) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Wilde Rodeo](https://open.spotify.com/album/65Kd2XT0CXfZL6eY0DEtrj) | 2:42 |
 | 19 | [Amarillo](https://open.spotify.com/track/1wrQccu69oY8PujdEeW9nM) | [Jurgen Geers](https://open.spotify.com/artist/2JN04M6UtYdHKtN4G1LBM7) | [Amarillo](https://open.spotify.com/album/1XLgsHDoyPju3itFfsdKiH) | 3:30 |
 | 20 | [Als Die Gratis Is](https://open.spotify.com/track/4Ivd5ighhu4bUzPNs2VOzu) | [Sidney Jr](https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6) | [Als Die Gratis Is](https://open.spotify.com/album/14pxpnp7ojRHEs2HePNahe) | 2:52 |
-| 21 | [Nog eentje dan](https://open.spotify.com/track/3k43HK0AaqZyhzkJK8DDro) | [Glenn De Koning](https://open.spotify.com/artist/68zpjg88haM1OkIzCWCPoT) | [Nog eentje dan](https://open.spotify.com/album/4fl3wzHlGD7CHyCq8L3cWc) | 2:39 |
+| 21 | [Nog Eentje Dan](https://open.spotify.com/track/3k43HK0AaqZyhzkJK8DDro) | [Glenn De Koning](https://open.spotify.com/artist/68zpjg88haM1OkIzCWCPoT) | [Nog Eentje Dan](https://open.spotify.com/album/4fl3wzHlGD7CHyCq8L3cWc) | 2:39 |
 | 22 | [Mama](https://open.spotify.com/track/6fnXhJWf8b7SChzFCi2V7Q) | [Chicco](https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb) | [Mama](https://open.spotify.com/album/6P7lrELyFnQD7QquzPVhpx) | 3:19 |
 | 23 | [Valse Start](https://open.spotify.com/track/1jemmXmlgoQOXsHyGyb5DM) | [Gino Schallenberg](https://open.spotify.com/artist/5c1NHu3IKuHYlW3gtVnTFp) | [Valse Start](https://open.spotify.com/album/6XrOfwMzOUBAl7y15W8tnF) | 2:28 |
 | 24 | [Pak Het Geluk](https://open.spotify.com/track/4kyRyy56ZCPl3SHrSQq2nw) | [Frank van Weert](https://open.spotify.com/artist/5Y3k2wLaPwlop5CGmHyBOV) | [Pak Het Geluk](https://open.spotify.com/album/4Xgps5JIwhbbbnWhkZ4eTQ) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [We Zijn Er](https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [We Zijn Er](https://open.spotify.com/album/49LywfHBRIWur1tPzZJ6gJ) | 2:42 |
 | 100 | [Ik Red Me Wel!](https://open.spotify.com/track/0pC5LjrwyFE54NWd6tSnx2) | [Charelle](https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG) | [Ik Red Me Wel!](https://open.spotify.com/album/3atu19R7DPog7y5meKTjnr) | 2:30 |
 
-Snapshot ID: `AAAAAAXLwkOFRf6niuhtl+0XYPQyqVPs`
+Snapshot ID: `AAAAAMUJ/6TUiOnyCXdF0qMkm/XLoQaI`

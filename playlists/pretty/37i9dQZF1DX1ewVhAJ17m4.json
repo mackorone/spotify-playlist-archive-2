@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604617,
+  "num_followers": 604597,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPaLuON1KwWHlHC9DcaxVf7U+vFG",
+  "snapshot_id": "AAAAAMqganxaz9F1UVqbR5uDpngV5FTW",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:58",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Nowhere, At Last",
-        "url": "https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "Dead Roses",
-      "url": "https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "You're Not What I Need",
         "url": "https://open.spotify.com/album/4m8gGjBdYlYBoMlTlIbTwZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 175857,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/4G20NrWLkGu3PbEck4ItAt"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Nowhere, At Last",
+        "url": "https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "Dead Roses",
+      "url": "https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0rcadyPvkCU8RqcfjHiTuh"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 224508,
-      "name": "Sweet Sad Sugar",
-      "url": "https://open.spotify.com/track/6XPnQtpYuNe8X0wvn4p5K3"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Evil Is Contagious",
         "url": "https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 196097,
       "name": "Evil Is Contagious",
       "url": "https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0rcadyPvkCU8RqcfjHiTuh"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 224508,
+      "name": "Sweet Sad Sugar",
+      "url": "https://open.spotify.com/track/6XPnQtpYuNe8X0wvn4p5K3"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
       },
       "artists": [
         {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
         }
       ],
-      "duration_ms": 176381,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
+      "duration_ms": 201081,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
       },
       "artists": [
         {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 201081,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
+      "duration_ms": 176381,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Burn Me Out",
-        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 191010,
-      "name": "Burn Me Out",
-      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Big Couch",
         "url": "https://open.spotify.com/album/63AHpXbfKdMuJlzZpCTujr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 243413,
       "name": "Big Couch",
       "url": "https://open.spotify.com/track/3UqJCXXBjkGMEsTpMvyFnW"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 191010,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Moments Before The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Phoenix Down",
-      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Probable Claws",
         "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 197600,
       "name": "Cooler",
       "url": "https://open.spotify.com/track/7eKabJnGgkzWctW0F237Fr"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Phoenix Down",
+      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Extremely Fragile Human Being",
+        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "duration_ms": 190673,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Can You Keep A Secret?",
         "url": "https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 160726,
       "name": "Back To Basics",
       "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Right Place, Wrong Timing",
-        "url": "https://open.spotify.com/album/3ghkOYTOyYQFjI83YpDpEn"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 178270,
-      "name": "Right Place, Wrong Timing",
-      "url": "https://open.spotify.com/track/6CkPEo3j7XXNlNluwrMfYO"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1455,34 +1455,34 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Extremely Fragile Human Being",
-        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+        "name": "Right Place, Wrong Timing",
+        "url": "https://open.spotify.com/album/3ghkOYTOyYQFjI83YpDpEn"
       },
       "artists": [
         {
-          "name": "Good Hangs",
-          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
         }
       ],
-      "duration_ms": 190673,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+      "duration_ms": 178270,
+      "name": "Right Place, Wrong Timing",
+      "url": "https://open.spotify.com/track/6CkPEo3j7XXNlNluwrMfYO"
     },
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+        "name": "Someone You Need",
+        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
       },
       "artists": [
         {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+      "duration_ms": 183375,
+      "name": "Someone You Need",
+      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Someone You Need",
-        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
       },
       "artists": [
         {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
         }
       ],
-      "duration_ms": 183375,
-      "name": "Someone You Need",
-      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Get Your Ass To Mars",
-        "url": "https://open.spotify.com/album/41kUIzh1ng3MqRIH83oxyC"
-      },
-      "artists": [
-        {
-          "name": "Hit The Lights",
-          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Get Your Ass To Mars",
-      "url": "https://open.spotify.com/track/66OzlSp5sPkJOoeWXCh9r8"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3WRLRzAkTcrrGemtia8jxF"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 183588,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2YcUWBymYJzYYumtJPMJE4"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Get Your Ass To Mars",
+        "url": "https://open.spotify.com/album/41kUIzh1ng3MqRIH83oxyC"
+      },
+      "artists": [
+        {
+          "name": "Hit The Lights",
+          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Get Your Ass To Mars",
+      "url": "https://open.spotify.com/track/66OzlSp5sPkJOoeWXCh9r8"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
+        "url": "https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm"
+      },
+      "artists": [
+        {
+          "name": "Tired Radio",
+          "url": "https://open.spotify.com/artist/6im3GUuYNQtmULnJgTuEpk"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
+      "url": "https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
         "url": "https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 222460,
       "name": "Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)",
       "url": "https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
-        "url": "https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm"
-      },
-      "artists": [
-        {
-          "name": "Tired Radio",
-          "url": "https://open.spotify.com/artist/6im3GUuYNQtmULnJgTuEpk"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
-      "url": "https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/7m2IJzqPeQui16xleWRW0R"
+        "name": "And Still the Mick Foley of Pop Punk",
+        "url": "https://open.spotify.com/album/4YSmANLNasWsKY1S50fBfS"
       },
       "artists": [
         {
-          "name": "Bukowski",
-          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
+          "name": "Forever Came Calling",
+          "url": "https://open.spotify.com/artist/3LqgxOMfONGBf034jekl9H"
         }
       ],
-      "duration_ms": 138628,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/23HKdRHL7scRmncCyzrUSw"
+      "duration_ms": 180225,
+      "name": "And Still the Mick Foley of Pop Punk",
+      "url": "https://open.spotify.com/track/2CcYws7objfy7y0Q8zJyTY"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

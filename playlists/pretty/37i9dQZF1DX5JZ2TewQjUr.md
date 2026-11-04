@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Vincy 蘇詠淳
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,801 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,805 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 5 | [南方之星](https://open.spotify.com/track/6DvGBsmDVF3CT94nWKOqIJ) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU), [Jim Yan](https://open.spotify.com/artist/1E8wUKpoj218ixj9PdcwfC) | [南方之星](https://open.spotify.com/album/6reyc9DT3yyQGMnOf9BSV9) | 3:34 |
 | 6 | [suite 02: velvet](https://open.spotify.com/track/3bSPpMFhhtPCKuliR9d1sd) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [suite 02: velvet](https://open.spotify.com/album/7CaEcIwNdPJfH5w92nfCsN) | 2:14 |
 | 7 | [夠膽踢我出個club](https://open.spotify.com/track/57SoPrzCHAUQHlcLdK3mXd) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [夠膽踢我出個club](https://open.spotify.com/album/0lJ288TVilCk3Cm5KT5BQ9) | 3:16 |
-| 8 | [雲泥 ft\. Alan](https://open.spotify.com/track/4Rl12IO8tkhgLwFJEOolKN) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [雲泥 ft\. Alan](https://open.spotify.com/album/1G7PDGcCgNRlEaqiGzh9j7) | 3:14 |
+| 8 | [雲泥](https://open.spotify.com/track/4Rl12IO8tkhgLwFJEOolKN) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [Alan](https://open.spotify.com/artist/0ca2rgFK8t0ov38HvK5rU4) | [雲泥](https://open.spotify.com/album/1G7PDGcCgNRlEaqiGzh9j7) | 3:14 |
 | 9 | [紙皮屋](https://open.spotify.com/track/4fa0qN4MrwDVkjB5zg6WZ8) | [elka 鄭芷淇](https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7) | [紙皮屋](https://open.spotify.com/album/5AzhfLk05iYIcPubxlwTGq) | 3:19 |
 | 10 | [第7代男團](https://open.spotify.com/track/3K9JAVucfQYyRlaNmtJu8I) | [ZPOT](https://open.spotify.com/artist/57y7JG0bX89FnUI4rsex2E) | [第7代男團](https://open.spotify.com/album/61ad29K38opBhpfs4hqRQP) | 2:39 |
 | 11 | [成田來未](https://open.spotify.com/track/1FOflDKlMgPMHlxSQeUzTv) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [成田來未](https://open.spotify.com/album/31KGSaPZMl3dcqWzqFmcjc) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [I Have Your Letter Still](https://open.spotify.com/track/7JUDSlEXbD16wCoMFXubbg) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Have Your Letter Still](https://open.spotify.com/album/0Kdr1gCwLfHrqOYAEgq6Nw) | 3:41 |
 | 100 | [未firm](https://open.spotify.com/track/6WOZmRXO92K0j7VYREcJnj) | [elka 鄭芷淇](https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7) | [未firm](https://open.spotify.com/album/4OgudE0JBgtdMaJZfabHko) | 3:42 |
 
-Snapshot ID: `AAAAADtzl6sMNNacxoS4ycBCvNRoDAPK`
+Snapshot ID: `AAAAANjIOEOSejSFE3KxJsXDkbGcmAWh`

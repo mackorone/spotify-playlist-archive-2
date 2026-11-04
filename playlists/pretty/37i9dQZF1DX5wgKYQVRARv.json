@@ -1,12 +1,12 @@
 {
   "description": "New and recent favorites of Progressive Metal. Cover: Enslaved",
-  "num_followers": 572394,
+  "num_followers": 572397,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAb7cfEGSeBT6e0KiQZeCDeh0qBv",
+  "snapshot_id": "AAAAAKgvXYZW6wU+ipxosGEISPD1/I4Y",
   "tracks": [
     {
       "added_at": "2026-10-19 21:38:58",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Les Chants de l'Aurore",
-        "url": "https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Flamme Jumelle",
-      "url": "https://open.spotify.com/track/6qWYIFxZV0ZkmTynlhR1qk"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Onsra",
         "url": "https://open.spotify.com/album/10U8LiPvSiWJJSh0wbAUAv"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "The Wounds We Share",
-        "url": "https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V"
+        "name": "Les Chants de l'Aurore",
+        "url": "https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy"
       },
       "artists": [
         {
-          "name": "A Sense of Purpose",
-          "url": "https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM"
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
         }
       ],
-      "duration_ms": 194893,
-      "name": "The Wounds We Share",
-      "url": "https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28"
+      "duration_ms": 317946,
+      "name": "Flamme Jumelle",
+      "url": "https://open.spotify.com/track/6qWYIFxZV0ZkmTynlhR1qk"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -515,6 +499,22 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
+        "name": "The Wounds We Share",
+        "url": "https://open.spotify.com/album/4T5J6ZKt8f8ofDr5nYwU0V"
+      },
+      "artists": [
+        {
+          "name": "A Sense of Purpose",
+          "url": "https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "The Wounds We Share",
+      "url": "https://open.spotify.com/track/3iXz5NVmYv1TQHvDHawB28"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
         "name": "CURE",
         "url": "https://open.spotify.com/album/1SOXDy18xKOgjygDKqCHWv"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm"
-      },
-      "artists": [
-        {
-          "name": "Wolf & Bear",
-          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Annihilist",
         "url": "https://open.spotify.com/album/52PAn8vUovx1ZLdfPymklZ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 341000,
       "name": "Builder of Eden",
       "url": "https://open.spotify.com/track/2i511UKbqR4TBpYjxdhblz"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm"
+      },
+      "artists": [
+        {
+          "name": "Wolf & Bear",
+          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Du\u00e9l",
-        "url": "https://open.spotify.com/album/4HyB0J8FeoBzdGT12ZaPVN"
-      },
-      "artists": [
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Du\u00e9l",
-      "url": "https://open.spotify.com/track/71X2JVYR4k6iZvdDByQL6w"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Diluted Dreams",
         "url": "https://open.spotify.com/album/1a01YAkWypznv6q2fQcpzr"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 167200,
       "name": "Diluted Dreams",
       "url": "https://open.spotify.com/track/4yDiN4Ak4T47JUAoXsTHQp"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Du\u00e9l",
+        "url": "https://open.spotify.com/album/4HyB0J8FeoBzdGT12ZaPVN"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Du\u00e9l",
+      "url": "https://open.spotify.com/track/71X2JVYR4k6iZvdDByQL6w"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Voidkind",
-        "url": "https://open.spotify.com/album/7vJHAW9nY0d3yBCOmExeKT"
-      },
-      "artists": [
-        {
-          "name": "Dvne",
-          "url": "https://open.spotify.com/artist/1isrot4GGRmnqFT2vMAa5q"
-        }
-      ],
-      "duration_ms": 448853,
-      "name": "Abode of the Perfect Soul",
-      "url": "https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "GREIF",
         "url": "https://open.spotify.com/album/1chw1DFmefTueG1VbNVoGN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 247293,
       "name": "Kilonova",
       "url": "https://open.spotify.com/track/6AQk9MuNAClIEeXiBxYKUs"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Voidkind",
+        "url": "https://open.spotify.com/album/7vJHAW9nY0d3yBCOmExeKT"
+      },
+      "artists": [
+        {
+          "name": "Dvne",
+          "url": "https://open.spotify.com/artist/1isrot4GGRmnqFT2vMAa5q"
+        }
+      ],
+      "duration_ms": 448853,
+      "name": "Abode of the Perfect Soul",
+      "url": "https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
-        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 377773,
-      "name": "Vasgy\u00e1r",
-      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Genotype",
         "url": "https://open.spotify.com/album/6Rtb6kGCLxFJiknApNXuxZ"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Synaesthesia",
-        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
+        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
+        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
       },
       "artists": [
         {
-          "name": "Weather Systems",
-          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
         }
       ],
-      "duration_ms": 551436,
-      "name": "Synaesthesia",
-      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+      "duration_ms": 377773,
+      "name": "Vasgy\u00e1r",
+      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1139,6 +1123,22 @@
       "duration_ms": 500088,
       "name": "The Stargate [Tablet I]",
       "url": "https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Synaesthesia",
+        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
+      },
+      "artists": [
+        {
+          "name": "Weather Systems",
+          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+        }
+      ],
+      "duration_ms": 551436,
+      "name": "Synaesthesia",
+      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Psychotic Banana",
-        "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
-      },
-      "artists": [
-        {
-          "name": "Hand of Juno",
-          "url": "https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj"
-        }
-      ],
-      "duration_ms": 229442,
-      "name": "Hug My Death",
-      "url": "https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Rick Ranch",
         "url": "https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+        "name": "Psychotic Banana",
+        "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
       "artists": [
         {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+          "name": "Hand of Juno",
+          "url": "https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj"
         }
       ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
+      "duration_ms": 229442,
+      "name": "Hug My Death",
+      "url": "https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1283,6 +1267,22 @@
       "duration_ms": 281187,
       "name": "A Lesser King",
       "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Stargod",
-        "url": "https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ"
-      },
-      "artists": [
-        {
-          "name": "Astronoid",
-          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Depressed Mode",
-      "url": "https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Skinwalker",
         "url": "https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 304500,
       "name": "Castle In The Sky",
       "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Stargod",
+        "url": "https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Depressed Mode",
+      "url": "https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "The Great Filters",
-        "url": "https://open.spotify.com/album/6DI4rXauRX4BzzPAnKo8Nu"
-      },
-      "artists": [
-        {
-          "name": "Fractal Universe",
-          "url": "https://open.spotify.com/artist/4xP1ALrFSYLVCUiRA0xzMy"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Causality's Grip",
-      "url": "https://open.spotify.com/track/4LAnkpI6JW7bB4hRwMYF3y"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Insanium",
         "url": "https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 398720,
       "name": "In the Name of War",
       "url": "https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "The Great Filters",
+        "url": "https://open.spotify.com/album/6DI4rXauRX4BzzPAnKo8Nu"
+      },
+      "artists": [
+        {
+          "name": "Fractal Universe",
+          "url": "https://open.spotify.com/artist/4xP1ALrFSYLVCUiRA0xzMy"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Causality's Grip",
+      "url": "https://open.spotify.com/track/4LAnkpI6JW7bB4hRwMYF3y"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2239,8 +2239,8 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Solastalgia",
-        "url": "https://open.spotify.com/album/2fNtxFbPJrspvkjaQprvVW"
+        "name": "The Lightest Straw",
+        "url": "https://open.spotify.com/album/1lz3eFVXKr5OSTLL6y7zeY"
       },
       "artists": [
         {
@@ -2248,25 +2248,9 @@
           "url": "https://open.spotify.com/artist/1UztxAFwIMRgVVNdQ54iqg"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/5aLfxUY0wQFrNcSLdpr7DF"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "Last Words",
-        "url": "https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr"
-      },
-      "artists": [
-        {
-          "name": "Fear Of Domination",
-          "url": "https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq"
-        }
-      ],
-      "duration_ms": 178862,
-      "name": "Last Words",
-      "url": "https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr"
+      "duration_ms": 272280,
+      "name": "The Lightest Straw",
+      "url": "https://open.spotify.com/track/71TSY68EmW1RUcdwgzp6NK"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2287,6 +2271,22 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
+        "name": "Last Words",
+        "url": "https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Domination",
+          "url": "https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq"
+        }
+      ],
+      "duration_ms": 178862,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0qWcqN4UMDFR5sHHmMnFFz"
       },
@@ -2299,38 +2299,6 @@
       "duration_ms": 233000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/3pjbMtdU3IXHYoWMRX3xfz"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "In Devastation",
-        "url": "https://open.spotify.com/album/23Kv3ejTtYMiRmaEawBoVP"
-      },
-      "artists": [
-        {
-          "name": "Sinsaenum",
-          "url": "https://open.spotify.com/artist/4IC0vJuY4fw72mSBesfO5B"
-        }
-      ],
-      "duration_ms": 290769,
-      "name": "In Devastation",
-      "url": "https://open.spotify.com/track/3GxCZUgVRSH8SXz9UzItUH"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "The Lightest Straw",
-        "url": "https://open.spotify.com/album/1lz3eFVXKr5OSTLL6y7zeY"
-      },
-      "artists": [
-        {
-          "name": "The Old Dead Tree",
-          "url": "https://open.spotify.com/artist/1UztxAFwIMRgVVNdQ54iqg"
-        }
-      ],
-      "duration_ms": 272280,
-      "name": "The Lightest Straw",
-      "url": "https://open.spotify.com/track/71TSY68EmW1RUcdwgzp6NK"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2351,6 +2319,38 @@
       "duration_ms": 238105,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/1vrU3ajM7wLj6xn3sU2pZ2"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Solastalgia",
+        "url": "https://open.spotify.com/album/2fNtxFbPJrspvkjaQprvVW"
+      },
+      "artists": [
+        {
+          "name": "The Old Dead Tree",
+          "url": "https://open.spotify.com/artist/1UztxAFwIMRgVVNdQ54iqg"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/5aLfxUY0wQFrNcSLdpr7DF"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "In Devastation",
+        "url": "https://open.spotify.com/album/23Kv3ejTtYMiRmaEawBoVP"
+      },
+      "artists": [
+        {
+          "name": "Sinsaenum",
+          "url": "https://open.spotify.com/artist/4IC0vJuY4fw72mSBesfO5B"
+        }
+      ],
+      "duration_ms": 290769,
+      "name": "In Devastation",
+      "url": "https://open.spotify.com/track/3GxCZUgVRSH8SXz9UzItUH"
     },
     {
       "added_at": "2026-10-19 21:38:58",

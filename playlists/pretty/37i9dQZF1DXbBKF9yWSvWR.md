@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Dressed Like Boys \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,946 likes - 105 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,942 likes - 105 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 104 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
 | 105 | [Cherokee](https://open.spotify.com/track/1oiPajU5fnVuWcRjOm4GgV) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Jacob Dubbel](https://open.spotify.com/artist/4Lp0MmnChBCtuK7HIYO3Jn), [Grote Komeet](https://open.spotify.com/artist/7LYfZxjkhw2zHu56dEhzG6) | [Cherokee](https://open.spotify.com/album/6sQ6qGi6jkhScqV75qhvQs) | 3:34 |
 
-Snapshot ID: `AAAAAOfU28Y+OQgNxarga2zaLNX5bcAe`
+Snapshot ID: `AAAAADAYDtP4zK7/kM3HlQOmozBhtBVf`

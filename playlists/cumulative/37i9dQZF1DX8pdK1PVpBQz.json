@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Dillon Jo",
+  "description": "The best new music by independent artists and labels. Cover: Bite My Tongue",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -13600,7 +13600,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 67616,
       "name": "chemical",
       "url": "https://open.spotify.com/track/5L7vB0uar1cqvCws0uCwfA"
@@ -26520,7 +26520,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 223009,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/4qhGoA6hC1vncKI52DUuiY"
@@ -30074,7 +30074,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 211280,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/4p6NsOuSVKnUcnv4DhAYPU"
@@ -53858,7 +53858,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 239529,
       "name": "Not Your God",
       "url": "https://open.spotify.com/track/1g7QMtSAstZsgo5bsFVYrE"
@@ -60995,6 +60995,24 @@
     },
     {
       "album": {
+        "name": "QUEEN'S GAMBIT",
+        "url": "https://open.spotify.com/album/3wBpxlKQtxonMBI7MGyJaJ"
+      },
+      "artists": [
+        {
+          "name": "ASM Keeno",
+          "url": "https://open.spotify.com/artist/4hOzP5v63WYkbLWzZJDefU"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156087,
+      "name": "QUEEN'S GAMBIT",
+      "url": "https://open.spotify.com/track/1pGHS64Mqwa1ImMCZ16wqm"
+    },
+    {
+      "album": {
         "name": "Question Mark",
         "url": "https://open.spotify.com/album/68gwLJUCRoYXU0UajxnZ7c"
       },
@@ -66088,6 +66106,24 @@
       "duration_ms": 238298,
       "name": "Shame",
       "url": "https://open.spotify.com/track/4VZbRpHCrWuJtOr89KcHrU"
+    },
+    {
+      "album": {
+        "name": "Sharehouse Blues",
+        "url": "https://open.spotify.com/album/6WZwcDI83nCLJtMrZK0Qha"
+      },
+      "artists": [
+        {
+          "name": "Red Hill",
+          "url": "https://open.spotify.com/artist/3OqlGX7gDuFvMHDULh1siW"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197824,
+      "name": "Sharehouse Blues",
+      "url": "https://open.spotify.com/track/4AG2vjhfDzudK7KKQNLgyM"
     },
     {
       "album": {
@@ -76941,6 +76977,24 @@
     },
     {
       "album": {
+        "name": "This Is Never Gonna Last",
+        "url": "https://open.spotify.com/album/1qE8Aj22yErpHlvS4f1GZS"
+      },
+      "artists": [
+        {
+          "name": "Bite My Tongue",
+          "url": "https://open.spotify.com/artist/7CbAVTK8CqlzZVUpFtNo0k"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239690,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/2ef3FqqLb4MVMrj79r1CUY"
+    },
+    {
+      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd"
       },
@@ -77890,6 +77944,24 @@
       "duration_ms": 175524,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/72CQvFsq5eCmwdQAvNHw0s"
+    },
+    {
+      "album": {
+        "name": "TONGUE TIED",
+        "url": "https://open.spotify.com/album/2tXhQWX3SaqmLLsHHUcI2C"
+      },
+      "artists": [
+        {
+          "name": "Charly Oakley",
+          "url": "https://open.spotify.com/artist/3rFqwKN0Utepq8wtbrGTcQ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "TONGUE TIED",
+      "url": "https://open.spotify.com/track/60Jz4KZAStnbvka0ND5P68"
     },
     {
       "album": {
@@ -79202,7 +79274,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 239874,
       "name": "Tunnel To Our Bliss",
       "url": "https://open.spotify.com/track/2fXWdC9DOlJY4TE0d180L4"
@@ -82354,6 +82426,32 @@
       "duration_ms": 149437,
       "name": "watermelon juice",
       "url": "https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5"
+    },
+    {
+      "album": {
+        "name": "Watermelon Juice",
+        "url": "https://open.spotify.com/album/5LrXqtxA439xJpbxDeBW8r"
+      },
+      "artists": [
+        {
+          "name": "Solomon Crook",
+          "url": "https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1"
+        },
+        {
+          "name": "Marianne Wren",
+          "url": "https://open.spotify.com/artist/4IOMcJE9Y7LZ7rc7CazwH6"
+        },
+        {
+          "name": "My Name is June",
+          "url": "https://open.spotify.com/artist/4ms5gCDbXY8sHX1SkV8qH2"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "Watermelon Juice",
+      "url": "https://open.spotify.com/track/50B1WW8SChPEpnu8JWoQBj"
     },
     {
       "album": {

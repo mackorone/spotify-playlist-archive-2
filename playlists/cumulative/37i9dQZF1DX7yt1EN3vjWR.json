@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-02",
-  "description": "2026\u5e7410\u670810\u65e5\uff08\u571f\uff09\u306b\u5927\u962a\u30fbGORILLA HALL OSAKA\u300111\u67083\u65e5\uff08\u706b\u30fb\u795d\uff09\u306b\u6771\u4eac\u30fbZepp Shinjuku\u3067\u958b\u50ac\u3055\u308c\u308b\u300ePOP YOURS presents Golden Age Tour\u300f\u51fa\u6f14\u8005\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u30c1\u30a7\u30c3\u30af",
+  "description": "\u3010\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u516c\u958b\u30112026\u5e7410\u670810\u65e5\uff08\u571f\uff09\u306b\u5927\u962a\u30fbGORILLA HALL OSAKA\u300111\u67083\u65e5\uff08\u706b\u30fb\u795d\uff09\u306b\u6771\u4eac\u30fbZepp Shinjuku\u3067\u958b\u50ac\u3055\u308c\u305f\u300ePOP YOURS presents Golden Age Tour\u300f\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u632f\u308a\u8fd4\u308d\u3046\u3002",
   "name": "POP YOURS presents Golden Age Tour",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 202250,
       "name": "0000",
       "url": "https://open.spotify.com/track/6RjybEGkjLTRmhuWUlupUe"
+    },
+    {
+      "album": {
+        "name": "Not In Streets",
+        "url": "https://open.spotify.com/album/4iF8CQ9SNnfYqb3sAZfnFM"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "04:43",
+      "url": "https://open.spotify.com/track/6lLeK9QgVcb6E5hXo5U9uJ"
     },
     {
       "album": {
@@ -142,7 +160,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 127279,
       "name": "19",
       "url": "https://open.spotify.com/track/3AAnGhMV7rfPpYbdyheboH"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 144033,
       "name": "2am in Tokyo",
       "url": "https://open.spotify.com/track/4Fux91Rwyl6Kovmc5U2qwq"
@@ -846,6 +864,28 @@
       "duration_ms": 173592,
       "name": "6TH CORNER",
       "url": "https://open.spotify.com/track/3XfOr3qrwBQB9wmOUW9v6d"
+    },
+    {
+      "album": {
+        "name": "Kiannacore 3",
+        "url": "https://open.spotify.com/album/2acnrphTbYKIUxnToZUIpX"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        },
+        {
+          "name": "AssToro",
+          "url": "https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "7-11 (feat. AssToro)",
+      "url": "https://open.spotify.com/track/7mK3RASbSR4mupZYghzUvJ"
     },
     {
       "album": {
@@ -1832,7 +1872,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 148321,
       "name": "ASAP2",
       "url": "https://open.spotify.com/track/3zw78xrRmbtxch4hTO1dXY"
@@ -3019,6 +3059,42 @@
     },
     {
       "album": {
+        "name": "Kiss My Life",
+        "url": "https://open.spotify.com/album/4R997Un05hwAv8rA2rNAlB"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171511,
+      "name": "BIGMAN",
+      "url": "https://open.spotify.com/track/5mppguYhWadYZjm37qU3Lf"
+    },
+    {
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/6YI3T1Fp18q8b7s7QM9pGs"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134368,
+      "name": "bigsteppa",
+      "url": "https://open.spotify.com/track/4IH1BU2QyNNuZOdbwymUxE"
+    },
+    {
+      "album": {
         "name": "Pink Crocodile",
         "url": "https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr"
       },
@@ -3120,7 +3196,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 135384,
       "name": "Bitch I\u2019m Yabashi",
       "url": "https://open.spotify.com/track/3QDSZZQ29cPWbPsyGwG0Bq"
@@ -3740,6 +3816,24 @@
       "duration_ms": 171717,
       "name": "BOW - Submerse Remix",
       "url": "https://open.spotify.com/track/3iZzgnrXkTGOydY1rBc5gi"
+    },
+    {
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/6YI3T1Fp18q8b7s7QM9pGs"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122234,
+      "name": "box",
+      "url": "https://open.spotify.com/track/3u3SBFxAW0NndqspvQ67ll"
     },
     {
       "album": {
@@ -6310,13 +6404,13 @@
       },
       "artists": [
         {
-          "name": "Harka",
+          "name": "HARKA",
           "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
         }
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5jlif2RCtZmdXMu7emqaMe"
@@ -7688,7 +7782,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 142809,
       "name": "Frozen Car",
       "url": "https://open.spotify.com/track/44iIAnuwYkM3BqND70wyNo"
@@ -8583,6 +8677,32 @@
     },
     {
       "album": {
+        "name": "POP YOURS presents Golden Age",
+        "url": "https://open.spotify.com/album/7pKdLr1n5JhKXIN1I5Y5Ij"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        },
+        {
+          "name": "Yog*",
+          "url": "https://open.spotify.com/artist/4Yu1jfEQO3TLm9sT1JapUw"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "goldenblue",
+      "url": "https://open.spotify.com/track/3NjgYq2Ya5j0nIT7Lcw6PY"
+    },
+    {
+      "album": {
         "name": "THE FIRST",
         "url": "https://open.spotify.com/album/2yFC6Ky43UapNQBllMAFZ5"
       },
@@ -8934,7 +9054,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 113374,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3ajZcM8zemf9ZI9r2T4lFq"
@@ -9048,6 +9168,24 @@
       "duration_ms": 179785,
       "name": "HAPPY (feat. Young Dalu)",
       "url": "https://open.spotify.com/track/5730HOEHpz6ORLzlAGxw9j"
+    },
+    {
+      "album": {
+        "name": "Not In Streets",
+        "url": "https://open.spotify.com/album/4iF8CQ9SNnfYqb3sAZfnFM"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175201,
+      "name": "Hate me (Broken)",
+      "url": "https://open.spotify.com/track/5evPUW2PxSEDydP3IkTTcV"
     },
     {
       "album": {
@@ -9439,6 +9577,32 @@
     },
     {
       "album": {
+        "name": "Hmm",
+        "url": "https://open.spotify.com/album/1eabIphg6tIU4BAnLPVkjX"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        },
+        {
+          "name": "Letsu",
+          "url": "https://open.spotify.com/artist/6vKWmpaoLoTkRJ5GB05IJN"
+        },
+        {
+          "name": "octopus nakamura",
+          "url": "https://open.spotify.com/artist/6LlWvl6a2S6O3nlf32UZJO"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200586,
+      "name": "Hmm",
+      "url": "https://open.spotify.com/track/1Da0HkgFDXoxD7PNweL2FU"
+    },
+    {
+      "album": {
         "name": "Soul Quake",
         "url": "https://open.spotify.com/album/0whYwuNXhP16C1h7BuWUmr"
       },
@@ -9666,6 +9830,24 @@
       "duration_ms": 133781,
       "name": "HOT BOYZ",
       "url": "https://open.spotify.com/track/36fSLwDdTbC31HjTb1MhV2"
+    },
+    {
+      "album": {
+        "name": "641-0001-5",
+        "url": "https://open.spotify.com/album/3KYhKn3xv91KVOqH6KZhfT"
+      },
+      "artists": [
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137027,
+      "name": "HOT HOT",
+      "url": "https://open.spotify.com/track/2FUwWV6b5Fc0PImjAFdcfC"
     },
     {
       "album": {
@@ -10169,6 +10351,24 @@
     },
     {
       "album": {
+        "name": "FIRST FLEX",
+        "url": "https://open.spotify.com/album/35hNUXv61EXuRnZyWluB1O"
+      },
+      "artists": [
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114933,
+      "name": "I WAS PLAYING",
+      "url": "https://open.spotify.com/track/6WhH1roHBBggeKU317BPco"
+    },
+    {
+      "album": {
         "name": "DADA",
         "url": "https://open.spotify.com/album/0d9pdRt03IxYgOjqvYQXME"
       },
@@ -10442,7 +10642,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 122790,
       "name": "IMAKA (IN MY CUP)",
       "url": "https://open.spotify.com/track/0j5TQuaobeehKxbfSSq3Wy"
@@ -10594,7 +10794,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 116833,
       "name": "INEEDSUMOKM",
       "url": "https://open.spotify.com/track/7dLnryFfT4Qcu9kvozERf2"
@@ -10847,6 +11047,46 @@
     },
     {
       "album": {
+        "name": "POP YOURS presents Golden Age",
+        "url": "https://open.spotify.com/album/7pKdLr1n5JhKXIN1I5Y5Ij"
+      },
+      "artists": [
+        {
+          "name": "27AM",
+          "url": "https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm"
+        },
+        {
+          "name": "YELLASOMA",
+          "url": "https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/1V6tZcutwYbrvHH2GxVdVI"
+    },
+    {
+      "album": {
+        "name": "Kiss My Life",
+        "url": "https://open.spotify.com/album/4R997Un05hwAv8rA2rNAlB"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138781,
+      "name": "Jet Life",
+      "url": "https://open.spotify.com/track/4jWVjkb2w8SYjojhC4xqUv"
+    },
+    {
+      "album": {
         "name": "GOLDEN ROUTE",
         "url": "https://open.spotify.com/album/7g8P5rDMl5Y0n5hSVYImn4"
       },
@@ -10966,7 +11206,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 138857,
       "name": "JPN",
       "url": "https://open.spotify.com/track/4EOc6ETTHmJwq5IiYLLhIc"
@@ -12040,13 +12280,13 @@
       },
       "artists": [
         {
-          "name": "Harka",
+          "name": "HARKA",
           "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
         }
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 147500,
       "name": "Limited",
       "url": "https://open.spotify.com/track/59YhNkOsV5meroZ712n2DJ"
@@ -13792,6 +14032,28 @@
       "duration_ms": 138666,
       "name": "MVP",
       "url": "https://open.spotify.com/track/65puBbbfZSyrdKSWpbwyQ0"
+    },
+    {
+      "album": {
+        "name": "POP YOURS presents Golden Age",
+        "url": "https://open.spotify.com/album/7pKdLr1n5JhKXIN1I5Y5Ij"
+      },
+      "artists": [
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        },
+        {
+          "name": "Gam Ball",
+          "url": "https://open.spotify.com/artist/4BuoZTTiixgFgZxB4gCW83"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182564,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/3gQVhJULpxrqrkGx8la86K"
     },
     {
       "album": {
@@ -15716,7 +15978,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 122728,
       "name": "Oppressive",
       "url": "https://open.spotify.com/track/3UtHdIPA9QXzK0gcbRYCaV"
@@ -16138,7 +16400,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 100000,
       "name": "Passion fruit",
       "url": "https://open.spotify.com/track/7nIJ0dgdVLEq9crl70DfCx"
@@ -16160,6 +16422,24 @@
       "duration_ms": 215768,
       "name": "PASSO",
       "url": "https://open.spotify.com/track/1fJB5WFXOUHDVTdm0jcby6"
+    },
+    {
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/6YI3T1Fp18q8b7s7QM9pGs"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128668,
+      "name": "pay 4 u",
+      "url": "https://open.spotify.com/track/331UBQir5lRxTi9N7SirYe"
     },
     {
       "album": {
@@ -18589,6 +18869,24 @@
     },
     {
       "album": {
+        "name": "Leaks 2025",
+        "url": "https://open.spotify.com/album/66lTuhr6mszcYPZlaHS0SM"
+      },
+      "artists": [
+        {
+          "name": "27AM",
+          "url": "https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104837,
+      "name": "Season1",
+      "url": "https://open.spotify.com/track/449CvNgjujRhfANolzyS0q"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ"
       },
@@ -18630,6 +18928,24 @@
       "duration_ms": 187920,
       "name": "See You Again (Prod. KM)",
       "url": "https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ"
+    },
+    {
+      "album": {
+        "name": "641-0001-5",
+        "url": "https://open.spotify.com/album/3KYhKn3xv91KVOqH6KZhfT"
+      },
+      "artists": [
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143478,
+      "name": "Self marionette",
+      "url": "https://open.spotify.com/track/5JOchSsxSYRxOqBdKGwFP5"
     },
     {
       "album": {
@@ -18830,6 +19146,24 @@
       "duration_ms": 212908,
       "name": "Shirase",
       "url": "https://open.spotify.com/track/4LK7la2FNBaiXi2KJ47YpY"
+    },
+    {
+      "album": {
+        "name": "Frozen Car",
+        "url": "https://open.spotify.com/album/5Kcs3qkYxF6O12k34toSiw"
+      },
+      "artists": [
+        {
+          "name": "27AM",
+          "url": "https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179824,
+      "name": "Shoutout My Label",
+      "url": "https://open.spotify.com/track/5PyNr0nEbvmPKPPZGUPfc9"
     },
     {
       "album": {
@@ -19522,6 +19856,36 @@
       "duration_ms": 242400,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/0FG5Byhhrxel96MUf1tTUb"
+    },
+    {
+      "album": {
+        "name": "POP YOURS presents Golden Age",
+        "url": "https://open.spotify.com/album/7pKdLr1n5JhKXIN1I5Y5Ij"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        },
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        },
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/4BZULb8rewmzCRP6yhrcpb"
     },
     {
       "album": {
@@ -20591,6 +20955,28 @@
     },
     {
       "album": {
+        "name": "Haigamine",
+        "url": "https://open.spotify.com/album/0PXHhBhPWAlokGj9opuA1R"
+      },
+      "artists": [
+        {
+          "name": "ACE COOL",
+          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208559,
+      "name": "Tenjo (feat. Siero)",
+      "url": "https://open.spotify.com/track/6fhPbZLElohfdcjMo2bEnI"
+    },
+    {
+      "album": {
         "name": "Tenkasu",
         "url": "https://open.spotify.com/album/2T2YtpB6xcjIrGFBJ4FSeL"
       },
@@ -20620,7 +21006,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 147428,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/3ESQaceY3D1QckTk6MJSQh"
@@ -20744,6 +21130,24 @@
       "duration_ms": 180844,
       "name": "THEME OF TAXMEN",
       "url": "https://open.spotify.com/track/6crVZm20UGJrdqNBbxRyFG"
+    },
+    {
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/6YI3T1Fp18q8b7s7QM9pGs"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "they be like tryin so hard",
+      "url": "https://open.spotify.com/track/4nWGMjLbpFOMsVdCFAqMEK"
     },
     {
       "album": {
@@ -21490,7 +21894,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 135000,
       "name": "U.R.G BOYZ",
       "url": "https://open.spotify.com/track/0z4qkYFCl4w3JpvUTe50JS"
@@ -22668,6 +23072,36 @@
       "duration_ms": 185554,
       "name": "Wifey - Feat. Lil Keed",
       "url": "https://open.spotify.com/track/1F12ArAq906JEJhfLFuhYh"
+    },
+    {
+      "album": {
+        "name": "WIN WING (feat. HARKA, Only U & TOFU)",
+        "url": "https://open.spotify.com/album/7EzbnbZ1OGBrhe8pHqJCAS"
+      },
+      "artists": [
+        {
+          "name": "DJ KANJI",
+          "url": "https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN"
+        },
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        },
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C"
+        },
+        {
+          "name": "TOFU",
+          "url": "https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239162,
+      "name": "WIN WING (feat. HARKA, Only U & TOFU)",
+      "url": "https://open.spotify.com/track/373M5NXMEOT7RTiW03Nb8y"
     },
     {
       "album": {
@@ -24113,6 +24547,24 @@
     },
     {
       "album": {
+        "name": "Kiss My Life",
+        "url": "https://open.spotify.com/album/4R997Un05hwAv8rA2rNAlB"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142164,
+      "name": "\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb",
+      "url": "https://open.spotify.com/track/1rM162RTCMHwLJrlAJ96E7"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/1oiJtRkdssy78EODknBdUy"
       },
@@ -24246,6 +24698,24 @@
       "duration_ms": 218613,
       "name": "\u30c1\u30fc\u30e0\u53cb\u9054 - Dirty Kansai Remix",
       "url": "https://open.spotify.com/track/7L23oYq9gQRjoxX8UlARLX"
+    },
+    {
+      "album": {
+        "name": "Kiss My Life",
+        "url": "https://open.spotify.com/album/4R997Un05hwAv8rA2rNAlB"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144216,
+      "name": "\u30c7\u30a3\u30ab\u30d7\u30ea\u30aa",
+      "url": "https://open.spotify.com/track/2wm90HFidQjgtZWk1BRLlA"
     },
     {
       "album": {
@@ -24495,6 +24965,24 @@
     },
     {
       "album": {
+        "name": "\u30d3\u30eb\u30b2\u30a4\u30c4",
+        "url": "https://open.spotify.com/album/4EufbSolAAO3apKPByzWev"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153465,
+      "name": "\u30d3\u30eb\u30b2\u30a4\u30c4",
+      "url": "https://open.spotify.com/track/0EwN6HW5Z0jkRh0rC13Hlp"
+    },
+    {
+      "album": {
         "name": "Kiss My Life",
         "url": "https://open.spotify.com/album/4R997Un05hwAv8rA2rNAlB"
       },
@@ -24650,7 +25138,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 150708,
       "name": "\u30dc\u30ed\u5132\u3051",
       "url": "https://open.spotify.com/track/0AcUCSOqzGrWP73GYwjUkD"
@@ -24792,7 +25280,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 158598,
       "name": "\u30e4\u30f3\u30b0\u30d3\u30f3\u30c6\u30fc\u30b8",
       "url": "https://open.spotify.com/track/1ddOu8dNXZEJmk3YSUSPCz"
@@ -24906,7 +25394,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 111428,
       "name": "\u4e57\u308a\u306a",
       "url": "https://open.spotify.com/track/6cHxic7kM86bj9yR8hKtA1"
@@ -25440,7 +25928,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 168162,
       "name": "\u5927\u5bcc\u8c6a (feat. ENEL & MIKADO)",
       "url": "https://open.spotify.com/track/2GtIHkEkRdyXeggCOuGvnH"
@@ -25850,6 +26338,24 @@
       "duration_ms": 117464,
       "name": "\u663c\u306f\u30ea\u30fc\u30de\u30f3\u591c\u306f\u30e9\u30c3\u30d1\u30fc",
       "url": "https://open.spotify.com/track/5b5KABTNzIw7ZsaRt2buUO"
+    },
+    {
+      "album": {
+        "name": "THE GOAT TAPE 4",
+        "url": "https://open.spotify.com/album/691GLrlnXVyUrc9dvEpTAj"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160032,
+      "name": "\u6771\u4eac",
+      "url": "https://open.spotify.com/track/52zMVtToKe2dlxFxZDhTnw"
     },
     {
       "album": {
@@ -26792,6 +27298,24 @@
       "duration_ms": 181318,
       "name": "\u91d1\u30d1\u30f3\u30d1\u30f3\u306e\u30b8\u30fc\u30f3\u30ba",
       "url": "https://open.spotify.com/track/31qVxllzSev7Ap1ASoU0no"
+    },
+    {
+      "album": {
+        "name": "FIRST FLEX",
+        "url": "https://open.spotify.com/album/35hNUXv61EXuRnZyWluB1O"
+      },
+      "artists": [
+        {
+          "name": "HARKA",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94382,
+      "name": "\u91d1\u9b5a",
+      "url": "https://open.spotify.com/track/12RdHxbAfMV4VL1j2F4Flt"
     },
     {
       "album": {

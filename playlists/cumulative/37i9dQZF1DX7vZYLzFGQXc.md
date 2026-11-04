@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Dabda\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-1,717 songs - 4 day 0 hr 12 min
+1,721 songs - 4 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-06-04 | 2024-09-03 |
 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 | 2022-02-04 | 2023-01-12 |
 | [20](https://open.spotify.com/track/52zbeFcxoKyH47w7OhYvSM) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6), [Geuneul](https://open.spotify.com/artist/6uSaCBHrprsu7g60k2pcIW) | [20](https://open.spotify.com/album/4V0r9nkH1B4uxgodJi8rvp) | 3:03 | 2021-12-02 | 2022-01-11 |
+| [23](https://open.spotify.com/track/3ST1e6Qzh9VeWOPSOTHSuq) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [23](https://open.spotify.com/album/4gBn6ZTPjExLcwVwbm9tbs) | 3:29 | 2026-11-03 |  |
 | [24](https://open.spotify.com/track/1REKIYQvydzigyZWjwZUqv) | [Rsh](https://open.spotify.com/artist/7KhZh3WHtkAHy43de80W0B) | [I Am Here Today](https://open.spotify.com/album/3DQJujCzCBsjZqk6CHntFs) | 3:58 | 2022-01-24 | 2022-02-24 |
 | [24 Hours \(feat\. Lokid & FR:EDEN\)](https://open.spotify.com/track/1aBzs6GWuNGdc22n74fbCi) | [Oh Yun](https://open.spotify.com/artist/55CwuMY7kGIJfqihhRaDXK), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Shape of Love](https://open.spotify.com/album/2rRwemyUvwmh1fiKq0JUKj) | 2:59 | 2023-05-01 | 2023-07-06 |
 | [24/7](https://open.spotify.com/track/5kfHQviez9l9OJI5TfQ9Dn) | [Moon Yeon](https://open.spotify.com/artist/2EgZaRnWb6ucGVmoyrXH1s), [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB) | [24/7](https://open.spotify.com/album/5HT3wgiyTWNmBeIL6LPFaS) | 3:06 | 2022-04-20 | 2022-06-10 |
@@ -563,6 +564,7 @@
 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 | 2022-06-18 | 2023-01-12 |
 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 | 2022-08-12 | 2022-09-30 |
 | [Gold](https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC) | [Gold](https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O) | 2:46 | 2023-01-11 | 2023-02-09 |
+| [gone!!!](https://open.spotify.com/track/1GpN5sqH5m89BsMegz5kb1) | [justinforthis](https://open.spotify.com/artist/1MZvn2OoRX4PO4KA85NwdD) | [gone!!!](https://open.spotify.com/album/1bu9r3oeyDaTIXxN07dOiD) | 2:12 | 2026-11-03 |  |
 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 | 2025-02-28 | 2025-10-02 |
 | [GOOD 2 GO \(feat\. Jay Park\)](https://open.spotify.com/track/1pNtXt7AY1D4U9699g40mS) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [GOOD 2 GO](https://open.spotify.com/album/6t05xCPgRIHjikiHPxWI6a) | 2:34 | 2022-07-04 | 2022-08-13 |
 | [GOOD DAY](https://open.spotify.com/track/22TruoFI39QbtdjeLMyCZE) | [Osole](https://open.spotify.com/artist/2MvwNqaFxSXxeyLKOrINRR) | [GOOD DAY](https://open.spotify.com/album/3rGn47PdNXu28HVHcGbWOG) | 3:00 | 2023-03-31 | 2023-06-02 |
@@ -1156,6 +1158,7 @@
 | [Rainy day](https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj) | [HVLF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [Rainy day](https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ) | 2:56 | 2022-07-04 | 2022-09-06 |
 | [Rainy Lullaby \(Feat\. Lee go do\)](https://open.spotify.com/track/50uXeJFrBdlECHpuNjxNi8) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [이고도](https://open.spotify.com/artist/38XPiylfk5upjuzcr0BkZu) | [Rainy Lullaby](https://open.spotify.com/album/1WbecnYmnTwekNjaeLZyvq) | 2:39 | 2023-10-30 | 2024-04-04 |
 | [rat hole](https://open.spotify.com/track/5EwVrS8cmjIdAQSRelZqHE) | [XINZWA](https://open.spotify.com/artist/2rwfN3z1guR3gqv7GNF3P3) | [rat hole](https://open.spotify.com/album/1boUY0tC9JdcTKXkq3nLit) | 4:03 | 2022-01-27 | 2022-03-05 |
+| [RE\-ROAD RE\-ROAD](https://open.spotify.com/track/17oHgDBFdkG01cbjztfh5k) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [RE\-ROAD RE\-ROAD](https://open.spotify.com/album/3zq6jtXKwb4QjcNKHyfTVX) | 3:47 | 2026-11-03 |  |
 | [Ready To Love](https://open.spotify.com/track/6BlyzWvWBjBCIU8mvPKTsl) | [CROQ](https://open.spotify.com/artist/0PHcPKpUIBAYJigtZdtgM9) | [Ready To Love](https://open.spotify.com/album/0ZbuzWCQpbhF5OCzPMBWnZ) | 2:57 | 2022-06-18 | 2022-07-05 |
 | [Realize](https://open.spotify.com/track/3OwRRovUEiWD8lvOugwDok) | [YEO\-EUN](https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww) | [Bravo, My Life OST Part.1](https://open.spotify.com/album/6xdFXmE7GUggS9fcsU5GpU) | 4:13 | 2022-04-20 | 2022-06-10 |
 | [Really Like You \- Spring Version](https://open.spotify.com/track/2DFudW1pZSLY739UrsPDTV) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You \(Spring Version\)](https://open.spotify.com/album/6FY4ksL8ycUIQYeaGO0HHM) | 3:13 | 2024-04-03 | 2025-01-21 |
@@ -1581,6 +1584,7 @@
 | [Why](https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [WHY](https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M) | 4:04 | 2023-05-01 | 2023-06-02 |
 | [Why](https://open.spotify.com/track/7vXz27gbT8KncfeS2yjNnI) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Why](https://open.spotify.com/album/360d8HtgYF6H5zB7RHmQH7) | 2:56 | 2021-12-02 | 2022-01-11 |
 | [why do you \(feat\. GARDEN\)](https://open.spotify.com/track/5MrHtk0teelb4sXlNBBXZe) | [if.iwere](https://open.spotify.com/artist/4VnK0eLt40zsiLDznBBYvu), [GARDEN](https://open.spotify.com/artist/3OCijSCs6UVHZibd5nIJWt) | [why do you](https://open.spotify.com/album/5jYvHX0fdCjaDgwQhmMUQd) | 2:33 | 2023-05-01 | 2024-01-03 |
+| [Why Does My Heart](https://open.spotify.com/track/6duJ6byY1PHElRrKRnBOZO) | [Wack](https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr) | [Why Does My Heart](https://open.spotify.com/album/5hUG4NaCUCVsS7AQtbTydi) | 3:33 | 2026-11-03 |  |
 | [Why Me \(feat\. Han Yo Han\) \- Prod\. Melange](https://open.spotify.com/track/32lsuO0jpecjvz6N8EIQd2) | [LIPNINE](https://open.spotify.com/artist/1q5u8LnvomvAmiMhg8kRDp), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Why Me \(feat\. Han Yo Han\) \[Prod\. Melange\]](https://open.spotify.com/album/6k4qqkm3WKoVQ7L1GNrgGV) | 2:38 | 2023-01-11 | 2023-02-09 |
 | [WHY!](https://open.spotify.com/track/2xaU2W9WncSNX1vGrSfdap) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [PL\#YOUTH1](https://open.spotify.com/album/70OCNTytx4o41C87ixt0tf) | 2:35 | 2024-03-21 | 2024-08-02 |
 | [wild horse](https://open.spotify.com/track/3ere7angYB5oujs2H3qhiT) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [wild horse](https://open.spotify.com/album/61393UEyTe9dQAmaarzIXP) | 3:32 | 2025-04-18 | 2025-06-27 |

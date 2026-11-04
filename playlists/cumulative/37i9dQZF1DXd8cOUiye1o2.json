@@ -6185,6 +6185,36 @@
     },
     {
       "album": {
+        "name": "Dhola Ji (From \"Suryaa\")",
+        "url": "https://open.spotify.com/album/38DhqY7bhf2gLWF2Ww8IpM"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Swaroop Khan",
+          "url": "https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319090,
+      "name": "Dhola Ji - From \"Suryaa\"",
+      "url": "https://open.spotify.com/track/2fMJcKSDhbSEkN1v7pOXGi"
+    },
+    {
+      "album": {
         "name": "Dhoond",
         "url": "https://open.spotify.com/album/74t69zVK1iIYYeZoqd1CUW"
       },
@@ -15735,6 +15765,32 @@
     },
     {
       "album": {
+        "name": "Mahiya",
+        "url": "https://open.spotify.com/album/4VvgtNAafQWryMF9K6ZkWk"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149148,
+      "name": "Mahiya",
+      "url": "https://open.spotify.com/track/3RPCyZLAJXh14LThX16Zs5"
+    },
+    {
+      "album": {
         "name": "Clashyamical",
         "url": "https://open.spotify.com/album/2hTeJWNOYYzCua5zwwDNRg"
       },
@@ -18276,7 +18332,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 161339,
       "name": "Nakhre",
       "url": "https://open.spotify.com/track/3oKMkK72dhxniqCKXrhDvq"
@@ -24922,7 +24978,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 223958,
       "name": "Tera Mera Yaarana",
       "url": "https://open.spotify.com/track/3lnEdkKGxyCCqYIsCsDSJL"

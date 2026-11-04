@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/0UYwmKC16Zl74hASov2dk6"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        },
+        {
+          "name": "Mauro Somm",
+          "url": "https://open.spotify.com/artist/3jGc6igIVzjC0ElXKbsfHd"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230270,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/5GxetRorkvVDqah2jGNjwT"
+    },
+    {
+      "album": {
         "name": "Light In The Eyes",
         "url": "https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t"
       },
@@ -4176,6 +4198,24 @@
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju"
+    },
+    {
+      "album": {
+        "name": "The Flow",
+        "url": "https://open.spotify.com/album/2My75Iq0sI5UNJD2tVCAAi"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "The Flow",
+      "url": "https://open.spotify.com/track/5NLBOLqtHeOoCgtHNo8eN7"
     },
     {
       "album": {

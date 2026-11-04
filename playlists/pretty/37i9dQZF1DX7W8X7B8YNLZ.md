@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,017 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,005 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 |
-| 2 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
-| 3 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:45 |
+| 2 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:45 |
+| 3 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
 | 4 | [J'ai encore rêvé d'elle](https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE) | [Il Etait Une Fois](https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR) | [ils vecurent heureux](https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk) | 3:40 |
 | 5 | [Quand on arrive en ville \- Remasterisé en 2009](https://open.spotify.com/track/62QQEK5BZPtOw0CvrBe9ho) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7), [Nanette Workman](https://open.spotify.com/artist/4KM2fWVoNDDdgrKmk41Ygy), [Starmania](https://open.spotify.com/artist/4VOX5R6FyddOOtzKgY8OGv) | [Starmania \(Remasterisé en 2009\)](https://open.spotify.com/album/1KfEKYPClCYGHtJWTi6PCQ) | 3:37 |
 | 6 | [Le chasseur \(Les oies sauvages\)](https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Le Chasseur](https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH) | 3:04 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 15 | [Si maman si \- Remasterisé en 2004](https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Remasterisé en 2004\)](https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB) | 2:58 |
 | 16 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
 | 17 | [Alexandrie Alexandra](https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Magnolias for Ever](https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM) | 4:22 |
-| 18 | [La ballade des gens heureux](https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les plus belles chansons de Gérard Lenorman](https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf) | 3:17 |
-| 19 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
+| 18 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
+| 19 | [La ballade des gens heureux](https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les plus belles chansons de Gérard Lenorman](https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf) | 3:17 |
 | 20 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
 | 21 | [Mon vieux](https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb) | 3:30 |
 | 22 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 49 | [L'avventura](https://open.spotify.com/track/3E1xf2aDc3eRFt69PrXnaw) | [Stone & Charden](https://open.spotify.com/artist/4ndPdP6aVSDCvhsjOHLGjb) | [22 titres inoubliables](https://open.spotify.com/album/72euUqr3HkpoXf7I8UUGAs) | 3:36 |
 | 50 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 
-Snapshot ID: `AAAAACMcJaxfU93F97Tu6r7BjESBHyNk`
+Snapshot ID: `AAAAAJPsGYxox2GGoccgCDiuaN+Ld3Rd`

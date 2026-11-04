@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Insomniacks, XONE, JISOO, Dominic Fike, Gracie Abrams, Hael Husaini, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,313 likes - 114 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,304 likes - 114 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 113 | [Curtains](https://open.spotify.com/track/3kILm8G5dGyE4pUAYUF0le) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Alvilde](https://open.spotify.com/album/03IebqmFblCZNbiHxUOm3F) | 3:00 |
 | 114 | [mrs brightside](https://open.spotify.com/track/0AkoqnejiMuGx0MzNNq53B) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [mrs brightside](https://open.spotify.com/album/2FQM0yX3Q15A4lspfYuvnT) | 2:49 |
 
-Snapshot ID: `AAAAAAM0ZL+l1BrBrR2V3x0lb45exDnb`
+Snapshot ID: `AAAAALNKGRGOHki3OikUatCOIYrPYppF`

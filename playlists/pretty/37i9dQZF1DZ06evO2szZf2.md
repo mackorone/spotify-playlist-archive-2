@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is MC Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,484 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,482 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Sexo Bolado](https://open.spotify.com/track/6imVq8B1PLvb7TDYUohfRR) | [Junior Gobira](https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk), [Arrochadeira FLuxos](https://open.spotify.com/artist/1QHls0KR42PAqEpkPnCMcP), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Abril](https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi) | 2:01 |
 | 50 | [Só Colocadinha](https://open.spotify.com/track/3xBtiampAoM5x457TcHl9U) | [Yrlan Costa](https://open.spotify.com/artist/6xw3J3zMVz7ge5oAdko1CN), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Piseiro Tiktok 2.0 \#Viral](https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86) | 2:37 |
 
-Snapshot ID: `auUvgAAAAADr3fy8OGE0nT/0YZdKubbx`
+Snapshot ID: `auaBAAAAAAAR6Dtukzcae6mrhQXxPPVD`

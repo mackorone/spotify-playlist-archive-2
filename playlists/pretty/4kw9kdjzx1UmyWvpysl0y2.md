@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 122,271 likes - 71 songs - 3 hr 45 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 122,247 likes - 71 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 16 | [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 |
 | 17 | [Back To You](https://open.spotify.com/track/7wua5sZzdBAaPU6gO46b0N) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Back To You](https://open.spotify.com/album/2PauMsiWPwaQimpIJQWg02) | 2:54 |
 | 18 | [Insanity](https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Insanity](https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii) | 3:42 |
-| 19 | [Free Your Mind](https://open.spotify.com/track/5gKnbJH2bfDdvSZNK0I3Qe) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Free Your Mind](https://open.spotify.com/album/3zbBA8vdwChCma3CB36bVz) | 3:48 |
+| 19 | [Free Your Mind](https://open.spotify.com/track/5gKnbJH2bfDdvSZNK0I3Qe) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Free Your Mind](https://open.spotify.com/album/3zbBA8vdwChCma3CB36bVz) | 3:46 |
 | 20 | [Bittersweet](https://open.spotify.com/track/4HVXaQkI6CLCnbr0eKdku4) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Bittersweet](https://open.spotify.com/album/12Fn47QlhEDFYoBZCHp4VY) | 2:45 |
 | 21 | [if you wanna love me](https://open.spotify.com/track/1meldVf4wwhiQXokIEKU9M) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [dnvn](https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [if you wanna love me](https://open.spotify.com/album/3pBAb9xoGwDswp5rMjdfMW) | 1:52 |
 | 22 | [More Than A Feeling](https://open.spotify.com/track/0yoRBpZlnY6ASkk47kdZlt) | [LUCKY](https://open.spotify.com/artist/5P9GtQg7W4cIRJZR5RbJfy), [Emma Somi](https://open.spotify.com/artist/1002I61ZXXZIfBhFMoJ3Mi) | [More Than A Feeling](https://open.spotify.com/album/3yQEXIBRpsNILTLLyEpToe) | 3:41 |

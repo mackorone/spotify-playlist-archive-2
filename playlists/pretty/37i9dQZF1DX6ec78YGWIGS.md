@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: K4OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,074 likes - 108 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,059 likes - 108 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 107 | [SI ERA PARA TANTO](https://open.spotify.com/track/1gtmYYfWFgdsiPjfNYSXZH) | [Gvtz](https://open.spotify.com/artist/1NpAIsLdfMv1U5a5rX9UMq), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [SI ERA PARA TANTO](https://open.spotify.com/album/52fuXaLV3nvUVFhEf3zaTR) | 1:57 |
 | 108 | [SHEITE](https://open.spotify.com/track/7uAYxv8bvhC6S1cG2Meb1V) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/1bqLzseLTYvip4HTcqChsP) | 2:12 |
 
-Snapshot ID: `AAAAAJMiP17j68XzOsBnvppO8Hg8s5D7`
+Snapshot ID: `AAAAADZ512LnRkfjgUkCbOrz2uBmvbhm`

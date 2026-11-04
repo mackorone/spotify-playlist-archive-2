@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,295 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,127 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 51 | [A Xon De Que](https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Xon De Que](https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP) | 2:21 |
 | 52 | [Dime Baby](https://open.spotify.com/track/4Du97m5kFIyMZ1nTekYlnh) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Dime Baby](https://open.spotify.com/album/3ORiiEK2HQQYUAA9IFmtQJ) | 3:09 |
 | 53 | [Puñaladas \- Remix](https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas \(Remix\)](https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz) | 3:26 |
-| 54 | [Quién Contra Mí](https://open.spotify.com/track/1HFexllZVkoSkVDl7vqBEc) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Quiero Que Se Acabe Este Bendito Verano](https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo) | 2:51 |
-| 55 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
+| 54 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
+| 55 | [Quién Contra Mí](https://open.spotify.com/track/1HFexllZVkoSkVDl7vqBEc) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Quiero Que Se Acabe Este Bendito Verano](https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo) | 2:51 |
 | 56 | [Dumb Boy](https://open.spotify.com/track/1NnLLdGhBeQRZ8LNGM0CWb) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Dumb Boy](https://open.spotify.com/album/5EkTWCPU6bNaFGvodiYY05) | 3:03 |
 | 57 | [Scat Pack](https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Scat Pack](https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx) | 4:13 |
 | 58 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dimelo Magic](https://open.spotify.com/artist/1s09WzlGc9wC1ChjTOiMtg), [OGBOOY](https://open.spotify.com/artist/0FHcoqof3mhgLgcPGW8EAF) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
-| 59 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
-| 60 | [0%](https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [0%](https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ) | 2:53 |
+| 59 | [0%](https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [0%](https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ) | 2:53 |
+| 60 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 61 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
 | 62 | [CHULA](https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:07 |
 | 63 | [Botellita De Champagne](https://open.spotify.com/track/1qUwfQjdSq3Jta580WvsI3) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [LAS FILTRADAS](https://open.spotify.com/album/4AL3l5qn3kF1FMBUoW5AKq) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 99 | [Chamba](https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chamba](https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg) | 3:22 |
 | 100 | [Ay Dale](https://open.spotify.com/track/0S71WAkS1fLsGHMC4NX4zt) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Ay Dale](https://open.spotify.com/album/554YtsiV2xM17gb9XE84TP) | 2:26 |
 
-Snapshot ID: `AAAAAPRhniz4k/LgobMN+CYYyx6u86tt`
+Snapshot ID: `AAAAAH15EgSxEXX5AsiaX27yKVj826h1`

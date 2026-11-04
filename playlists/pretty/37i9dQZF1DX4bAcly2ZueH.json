@@ -1,12 +1,12 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55460,
+  "num_followers": 55465,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/1nuzqpm+PpvcjeraICUuqo2Pj",
+  "snapshot_id": "AAAAAOHrQwRIv45ggPjn2A6g2/X4qQC4",
   "tracks": [
     {
       "added_at": "2026-10-19 02:40:42",
@@ -203,6 +203,26 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        },
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "outset",
+      "url": "https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
         "name": "no one else",
         "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 138000,
       "name": "no one else",
       "url": "https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lee",
-          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
-        },
-        {
-          "name": "frad",
-          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "outset",
-      "url": "https://open.spotify.com/track/6ZpPt8jptwLcWmEmqQ95OO"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Dreamwave",
-        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Greens",
         "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 250212,
       "name": "Greens",
       "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Dreamwave",
+        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "three",
-        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
-      },
-      "artists": [
-        {
-          "name": "ILIVEHERE.",
-          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "three",
-      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "BEAU PAYSAGE",
         "url": "https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 348805,
       "name": "BEAU PAYSAGE",
       "url": "https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "three",
+      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
+        "name": "\u5c71\u6708",
+        "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
+      },
+      "artists": [
+        {
+          "name": "\u7e54\u7530\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "\u5c71\u6708",
+      "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
         "name": "Day Trip",
         "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 133953,
       "name": "When We Were Small",
       "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "\u5c71\u6708",
-        "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
-      },
-      "artists": [
-        {
-          "name": "\u7e54\u7530\u7950\u4eae",
-          "url": "https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "\u5c71\u6708",
-      "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 167543,
-      "name": "Walk (Interlude)",
-      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "qutie",
         "url": "https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 149333,
       "name": "qutie",
       "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Walk (Interlude)",
+      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "flowingtime",
-        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
-      },
-      "artists": [
-        {
-          "name": "Otokaze",
-          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Colony",
-      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 172833,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "flowingtime",
+        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
+      },
+      "artists": [
+        {
+          "name": "Otokaze",
+          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Colony",
+      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1003,6 +1003,26 @@
       "duration_ms": 156363,
       "name": "Day of the Moon",
       "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "re: Sound Of Light",
+        "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "Hitori",
+          "url": "https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "re: Sound Of Light",
+      "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1043,26 +1063,6 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "re: Sound Of Light",
-        "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
-      },
-      "artists": [
-        {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        },
-        {
-          "name": "Hitori",
-          "url": "https://open.spotify.com/artist/1BLxupu4NPracLOtvGHYbl"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "re: Sound Of Light",
-      "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Husigina Ki",
-        "url": "https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl"
-      },
-      "artists": [
-        {
-          "name": "Yassy",
-          "url": "https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Husigina Ki",
-      "url": "https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Chamomile",
         "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 231500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Husigina Ki",
+        "url": "https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl"
+      },
+      "artists": [
+        {
+          "name": "Yassy",
+          "url": "https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Husigina Ki",
+      "url": "https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Dragon Collection",
-        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
-      },
-      "artists": [
-        {
-          "name": "Four Face",
-          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Dragon Collection",
-      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Continue",
         "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 232066,
       "name": "Continue",
       "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Dragon Collection",
+        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
+      },
+      "artists": [
+        {
+          "name": "Four Face",
+          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Dragon Collection",
+      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
     },
     {
       "added_at": "2026-10-19 02:40:42",

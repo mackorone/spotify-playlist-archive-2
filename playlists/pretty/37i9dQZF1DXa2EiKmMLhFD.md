@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Adrian Khalif, LISA, Gloria Jessica, Ade Govinda, ADÉLA serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,422,542 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,422,422 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 49 | [Hannah Montana](https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Hannah Montana](https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X) | 3:33 |
 | 50 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 |
 
-Snapshot ID: `AAAAANyD2Aratt07YUJuTuv7DuryoAvR`
+Snapshot ID: `AAAAAD1kh32G8kWnuOgPtHyuZCs7MhIS`

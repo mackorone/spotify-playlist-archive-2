@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Geolier  in cover della playlist con tutte le hit 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,956 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,785 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 49 | [Giornate perse](https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Giornate perse](https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH) | 3:39 |
 | 50 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
 
-Snapshot ID: `AAAAABi7AOxhXk1xpo9aVPbiHb8kfD3E`
+Snapshot ID: `AAAAADbjNxFMF15BFGeiFYaNLVSHhkJI`

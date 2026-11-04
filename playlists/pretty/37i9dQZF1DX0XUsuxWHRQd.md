@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from BigXthaPlug, Young Nudy and 2 Chainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,490,921 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,488,986 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 |
 | 50 | [London \- Bonus](https://open.spotify.com/track/3fq2iQjL6aun4zJ4R1cJjK) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 3:11 |
 
-Snapshot ID: `AAAAAPcNJxmigUSccM6Bw9KJp+mTMUTt`
+Snapshot ID: `AAAAAMAMSv1Mb9bpp2RjzRYDVYFB+lLH`

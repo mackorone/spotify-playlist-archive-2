@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från FELICIA, Håkan Hellström och waterbaby med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,848 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,832 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [We Used To Dance Here](https://open.spotify.com/track/6vbgxOSyw64p5VzkQOHT8g) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [We Used To Dance Here](https://open.spotify.com/album/3DsmScR385rdRLYzrwt1RW) | 2:51 |
 | 97 | [You Are What You Want](https://open.spotify.com/track/282G5ObH4Vfbi2LBRmsUvz) | [CLENITE](https://open.spotify.com/artist/5fBUkkX9ffSVPSZQMVr6VY) | [You Are What You Want](https://open.spotify.com/album/6PThHlz34gCIAV8mpFlX6Q) | 3:40 |
 
-Snapshot ID: `AAAAADpiIkpqXmd6YUOyoZMchM4Z6xoN`
+Snapshot ID: `AAAAAP8m3VJ7j+eE5/ToyCIMyERKDN0S`

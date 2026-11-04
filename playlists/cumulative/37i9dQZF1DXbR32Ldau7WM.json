@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "AXEL",
+        "url": "https://open.spotify.com/album/2R8luQ7gaj5iKHQKcLlnSD"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212653,
+      "name": "AXEL",
+      "url": "https://open.spotify.com/track/2ZxNr28k5ey6M0HnGecyJF"
+    },
+    {
+      "album": {
         "name": "Azabana",
         "url": "https://open.spotify.com/album/4TB4oOpj0hs5ByhtCTLKzg"
       },
@@ -3531,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "Angie",
+        "url": "https://open.spotify.com/album/5MG6d7rouuswGJxOsjkcJQ"
+      },
+      "artists": [
+        {
+          "name": "Johnnivan",
+          "url": "https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288876,
+      "name": "Dead Language",
+      "url": "https://open.spotify.com/track/1c28wpBWEJ2NxL3z3LldEQ"
+    },
+    {
+      "album": {
         "name": "Deadman's Constellation",
         "url": "https://open.spotify.com/album/2rLnpU9Fu8j9kTipMEwxdq"
       },
@@ -4271,6 +4307,24 @@
     },
     {
       "album": {
+        "name": "wabi-sabi",
+        "url": "https://open.spotify.com/album/2ERfRPPmi9njWO7J2EfWib"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "easy, no way!!",
+      "url": "https://open.spotify.com/track/3qS6XGXooGQac24zVRDOrj"
+    },
+    {
+      "album": {
         "name": "In The Beginning - The Best Of 2017-2021",
         "url": "https://open.spotify.com/album/4UrV9uJWU2HaLZVpomztEP"
       },
@@ -4752,7 +4806,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 177500,
       "name": "Everything I Need",
       "url": "https://open.spotify.com/track/3d4jmXtJu1y6XIrP3kIPvt"
@@ -5168,7 +5222,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 268960,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/3kph8ILbNbg142prbibCQz"
@@ -5302,6 +5356,24 @@
       "duration_ms": 233122,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb"
+    },
+    {
+      "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/19fOeNIS4WzLdMfl1ngb7N"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234766,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/3PkVsdTPpvE1E9YpyNKybm"
     },
     {
       "album": {
@@ -6360,7 +6432,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 209662,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/4yVwrAG2WtCWkAJs1NJhue"
@@ -6540,7 +6612,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 233000,
       "name": "halfway",
       "url": "https://open.spotify.com/track/4XEcOOU5HQdE4y9XGi2k7S"
@@ -7052,7 +7124,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 203866,
       "name": "hora",
       "url": "https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9"
@@ -9016,7 +9088,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 272075,
       "name": "Later",
       "url": "https://open.spotify.com/track/1jtlK851YQPv8EY6wA59c3"
@@ -12277,6 +12349,24 @@
     },
     {
       "album": {
+        "name": "Rise of The Man",
+        "url": "https://open.spotify.com/album/1CrtLyH5X4RfK6onpwbRJX"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Oxygen199",
+      "url": "https://open.spotify.com/track/0GFx8up9kY9kZjhhJEXM3u"
+    },
+    {
+      "album": {
         "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/3dGJibXKM0J2axOfKP9wmA"
       },
@@ -15038,7 +15128,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 235659,
       "name": "Sleep Walking Orchestra",
       "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
@@ -15706,6 +15796,24 @@
       "duration_ms": 229105,
       "name": "Spicy Queen",
       "url": "https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn"
+    },
+    {
+      "album": {
+        "name": "SPIN",
+        "url": "https://open.spotify.com/album/0O2KymxU4WJLifb6fJK7Xd"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "SPIN",
+      "url": "https://open.spotify.com/track/1JiI5Qkmvc2UZ5WJy7dYTM"
     },
     {
       "album": {
@@ -17886,7 +17994,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 262760,
       "name": "TRICK STAR",
       "url": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX"
@@ -17904,7 +18012,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 208666,
       "name": "Tropical Therapy",
       "url": "https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK"
@@ -22159,6 +22267,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30b7\u30c7\u30de\u30c8\u30a4",
+        "url": "https://open.spotify.com/album/10IYBJneL1Ke2F4LhO68tS"
+      },
+      "artists": [
+        {
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335960,
+      "name": "\u30a2\u30b7\u30c7\u30de\u30c8\u30a4",
+      "url": "https://open.spotify.com/track/7bJvn5SFOWN17OnAjczSsW"
+    },
+    {
+      "album": {
         "name": "SUB MACHINE, BEST MACHINE (Best Selected Edition)",
         "url": "https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J"
       },
@@ -23540,7 +23666,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 245893,
       "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
       "url": "https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ"
@@ -25442,7 +25568,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 226020,
       "name": "\u30ea\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/19I5ZcQ9LfLStcGLR73kpB"
@@ -25976,6 +26102,28 @@
       "duration_ms": 259877,
       "name": "\u50d5\u306b\u306f\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3060\u308d\u3046",
       "url": "https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u3089\u306e\u4e8b\u306b\u3055\u305b\u3066 (Prod. Vaundy)",
+        "url": "https://open.spotify.com/album/1Mjrfn6qqRAAJM6OTjxnaz"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        },
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317102,
+      "name": "\u50d5\u3089\u306e\u4e8b\u306b\u3055\u305b\u3066 (Prod. Vaundy)",
+      "url": "https://open.spotify.com/track/73PjaJWkRvlTqGekbZ3rjZ"
     },
     {
       "album": {
@@ -27231,6 +27379,24 @@
     },
     {
       "album": {
+        "name": "\u5a11\u5a46\u5815\u7f75 -Shabadaba-",
+        "url": "https://open.spotify.com/album/0hVqT36HvgyOr4wV160LDb"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253433,
+      "name": "\u5a11\u5a46\u5815\u7f75 -Shabadaba-",
+      "url": "https://open.spotify.com/track/39WE2duYMF00oF7E6lLSSW"
+    },
+    {
+      "album": {
         "name": "Fire Inside Us",
         "url": "https://open.spotify.com/album/1C6u53lVYx1WJyx6Is9oJX"
       },
@@ -28166,6 +28332,24 @@
       "duration_ms": 214688,
       "name": "\u659c\u967d",
       "url": "https://open.spotify.com/track/027MQoO13DSFdsAbx6Nhyf"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u3057\u3044\uff01",
+        "url": "https://open.spotify.com/album/35PXiOIgmGflpwDorzSEl8"
+      },
+      "artists": [
+        {
+          "name": "Guiba",
+          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236685,
+      "name": "\u65b0\u3057\u3044\uff01",
+      "url": "https://open.spotify.com/track/3iyoyHiYmhgCggSFcR2q20"
     },
     {
       "album": {
@@ -30976,6 +31160,24 @@
       "duration_ms": 307666,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+    },
+    {
+      "album": {
+        "name": "\u900f\u660e\u3060\u3063\u305f\u4e16\u754c",
+        "url": "https://open.spotify.com/album/3F9eCmmAJiNtRRptvUfalt"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "\u900f\u660e\u3060\u3063\u305f\u4e16\u754c",
+      "url": "https://open.spotify.com/track/1UPHVPKiQ8tb66UHgYSSpa"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: eaJ\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kim Feel\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!
 
-674 songs - 1 day 19 hr 53 min
+675 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,11 +280,11 @@
 | [It Would Have Been The Same \(feat\. Chan\) \[From "Airman Morning Diaries \#5"\]](https://open.spotify.com/track/6hPM1g1PZmKZNDCKWcwA7G) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [It Would Have Been The Same \(feat\. Chan\) \[From "Airman Morning Diaries \#5"\]](https://open.spotify.com/album/4XzCh4KTWT72QmA2KAZw21) | 3:07 | 2021-12-27 | 2022-06-03 |
 | [It'll pass](https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [It'll pass](https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU) | 3:48 | 2023-10-04 | 2024-05-05 |
 | [It's all just lies](https://open.spotify.com/track/4T2XFY63jsrqFx2Hc7YXEn) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/4MVXmcZU1FDhR9OGarTEQK) | 3:42 | 2022-07-25 | 2022-08-04 |
-| [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-24 | 2026-10-02 |
+| [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-24 |  |
 | [It's Love](https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [It's Love](https://open.spotify.com/album/0aIHXsPQNfjajIwveOyDkk) | 4:17 | 2024-07-16 | 2024-09-28 |
 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 | 2023-08-24 |  |
 | [It’ll Be Okay](https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [20](https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP) | 4:27 | 2024-10-22 | 2024-12-16 |
-| [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2021-12-20 |  |
+| [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2021-12-20 | 2026-11-04 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-27 | 2025-11-14 |
 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 | 2024-03-26 | 2024-08-27 |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-13 |  |
@@ -310,6 +310,7 @@
 | [LIE LIE LIE](https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [LIE LIE LIE](https://open.spotify.com/album/1LXGcl8lCXhZx7XjmvZ1kE) | 3:34 | 2026-02-11 | 2026-06-04 |
 | [Lie to me](https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Unlock My Boss, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9) | 3:22 | 2022-12-27 | 2023-06-01 |
 | [Life is a Drama](https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Life is a Drama Prelude3](https://open.spotify.com/album/65DEU4VXqQaDO7qeuOAV6D) | 3:38 | 2026-01-15 | 2026-03-17 |
+| [Life Is Life](https://open.spotify.com/track/4SwbuL0i9XorhDoS0uP5s0) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [JOURNEY](https://open.spotify.com/album/5FXBk0VWk4OduYHMMbBn8E) | 4:08 | 2026-11-03 |  |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2022-09-07 |
 | [Like nothing happened](https://open.spotify.com/track/5zpTQE7cQO6YbLuDIwyFpW) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 3:59 | 2022-04-01 | 2022-07-29 |
 | [Like The Winter That Loved Spring](https://open.spotify.com/track/6tIcrtTCwfaFTojXWNGh0e) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Men Are Men \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/5FxDU6d9QK7gU2bGkFSRm6) | 4:06 | 2022-03-24 | 2022-05-04 |
@@ -658,7 +659,7 @@
 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 | 2023-12-01 |  |
 | [배웅](https://open.spotify.com/track/01U1Qm1lGhiwOi0zzFLjUr) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [My Strange Hero Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1J0DyNr0dvnv8ZCeaxLPow) | 3:27 | 2022-01-27 | 2022-04-16 |
 | [보고싶다](https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [천국의 계단 OST](https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq) | 4:04 | 2023-12-01 |  |
-| [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 | 2023-12-01 |  |
+| [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 | 2023-12-01 | 2026-11-04 |
 | [비가 \(feat\. 박재정\)](https://open.spotify.com/track/1k9K2j7YUYubvuhCX0h6tH) | [피아노맨](https://open.spotify.com/artist/0Ue5N6ZoKngSO5l9o1gNQZ), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [비가 \(feat\. 박재정\)](https://open.spotify.com/album/5gfO6H8ME6OQm0ct3pKfMz) | 4:59 | 2025-02-10 | 2025-02-21 |
 | [비상 \- 2021 Remaster Version](https://open.spotify.com/track/4ymit9zQwlWNR35jEBdk6p) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories...속으로 Pt\. 3](https://open.spotify.com/album/0WCdB90PesVFkun2JoNVnV) | 4:21 | 2022-10-24 | 2022-11-24 |
 | [빌려줄게](https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [EMPATHY](https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym) | 3:32 | 2021-12-20 | 2022-07-29 |

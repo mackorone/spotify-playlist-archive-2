@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con ARIA VEGA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,602,667 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,602,584 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [DesOrden](https://open.spotify.com/track/2Fd7PA5quhm73Aw7H3FwwN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [DesOrden](https://open.spotify.com/album/2P4DYITUx7faiFzAzXaofU) | 2:36 |
 | 50 | [Vulnerable](https://open.spotify.com/track/0Vvwifdi7bGbM88EMBz6HM) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vulnerable](https://open.spotify.com/album/2wviACnHjGEzWgX4ZVUeCl) | 4:24 |
 
-Snapshot ID: `AAAAAPRCb6Q3dHwB5lz+Y/tE7jt8nfZ9`
+Snapshot ID: `AAAAAFIFJCo2bnjmwof4bHktRZwBCMIe`

@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 463871,
+  "num_followers": 463853,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYUzxRr/cJ4yPCcMMlA9Phyp5AF",
+  "snapshot_id": "AAAAAMhLuB9DMzGLwJVtn8FW8eq+XECf",
   "tracks": [
     {
       "added_at": "2026-02-19 15:33:55",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Willoughby Tucker, I'll Always Love You",
         "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 447058,
       "name": "Willoughby's Interlude",
       "url": "https://open.spotify.com/track/3ugwznRhQxaUD8C5R8AhoG"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Come Down",
         "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 273360,
       "name": "Physical",
       "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Serfs Up!",
-        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
-      },
-      "artists": [
-        {
-          "name": "Fat White Family",
-          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
-        }
-      ],
-      "duration_ms": 342538,
-      "name": "Tastes Good With The Money",
-      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "The Rocky Road to Dublin (Edit)",
         "url": "https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 246125,
       "name": "The Rocky Road to Dublin - Edit",
       "url": "https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Serfs Up!",
+        "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "duration_ms": 342538,
+      "name": "Tastes Good With The Money",
+      "url": "https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "My Cosmos Is Mine",
-        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 316899,
-      "name": "My Cosmos Is Mine",
-      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Piggy",
         "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 264733,
       "name": "Turn Off The Noise",
       "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "My Cosmos Is Mine",
+        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 316899,
+      "name": "My Cosmos Is Mine",
+      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Spinning Wheel",
-        "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 205703,
-      "name": "Spinning Wheel",
-      "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Spinning Wheel",
+        "url": "https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 205703,
+      "name": "Spinning Wheel",
+      "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "through the telescope",
-        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "pile of bones",
-      "url": "https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "So Medieval",
         "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 200281,
       "name": "Darp 2 / Exorcism",
       "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "through the telescope",
+        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "pile of bones",
+      "url": "https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e"
     },
     {
       "added_at": "2026-02-19 15:33:55",

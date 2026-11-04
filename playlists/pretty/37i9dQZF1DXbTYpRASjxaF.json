@@ -1,12 +1,12 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: Vitinho RB, MD Chefe\n",
-  "num_followers": 138103,
+  "num_followers": 138099,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8pWe5k2kFpXdk59IUu9asceNyE",
+  "snapshot_id": "AAAAAE/KQTAdSugUxiOdePUcDVchKXJx",
   "tracks": [
     {
       "added_at": "2026-10-16 03:01:03",
@@ -207,30 +207,6 @@
     {
       "added_at": "2026-10-16 03:01:03",
       "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Pente 270!",
-      "url": "https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g"
-    },
-    {
-      "added_at": "2026-10-16 03:01:03",
-      "album": {
         "name": "THE BOX MEDLEY 10",
         "url": "https://open.spotify.com/album/5SgslEzgfpXXwrpnFeUHiL"
       },
@@ -287,6 +263,30 @@
       "duration_ms": 336000,
       "name": "THE BOX MEDLEY 10",
       "url": "https://open.spotify.com/track/3GXnIt9ELJUYtxtkfiVx2j"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Pente 270!",
+      "url": "https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g"
     },
     {
       "added_at": "2026-10-16 03:01:03",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-10-16 03:01:03",
       "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Vil\u00e3o da M\u00eddia!",
-      "url": "https://open.spotify.com/track/5BA4HUyjhg6ock2zEjxEjw"
-    },
-    {
-      "added_at": "2026-10-16 03:01:03",
-      "album": {
         "name": "Rugal & Bomfino",
         "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 204562,
       "name": "Pique B.I.G",
       "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Vil\u00e3o da M\u00eddia!",
+      "url": "https://open.spotify.com/track/5BA4HUyjhg6ock2zEjxEjw"
     },
     {
       "added_at": "2026-10-16 03:01:03",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-10-16 03:01:03",
       "album": {
+        "name": "Psicol\u00f3gico 2",
+        "url": "https://open.spotify.com/album/0WVQMqrIA4tQut8f3BE9vs"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Psicol\u00f3gico 2",
+      "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
         "name": "Ecos do Sil\u00eancio",
         "url": "https://open.spotify.com/album/3oiPHSVfWq4JunYpYnwxNK"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 174763,
       "name": "After Party",
       "url": "https://open.spotify.com/track/7pi9Y5Dix1avrFQgvBWoa5"
-    },
-    {
-      "added_at": "2026-10-16 03:01:03",
-      "album": {
-        "name": "Psicol\u00f3gico 2",
-        "url": "https://open.spotify.com/album/0WVQMqrIA4tQut8f3BE9vs"
-      },
-      "artists": [
-        {
-          "name": "Akashi Cruz",
-          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Psicol\u00f3gico 2",
-      "url": "https://open.spotify.com/track/10eqeLbxPhrFfPiAT1CYsQ"
     },
     {
       "added_at": "2026-10-16 03:01:03",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-10-16 03:01:03",
       "album": {
-        "name": "MIXTAPE - BIG G",
-        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 134736,
-      "name": "CORA\u00c7\u00c3O TATUADO",
-      "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
-    },
-    {
-      "added_at": "2026-10-16 03:01:03",
-      "album": {
         "name": "Mentiras pro KayG",
         "url": "https://open.spotify.com/album/7bx8HbegrAyZtelJIDAK94"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 195555,
       "name": "Mentiras pro kayg",
       "url": "https://open.spotify.com/track/7AKo34ACJn6fAdmHNOPdHV"
+    },
+    {
+      "added_at": "2026-10-16 03:01:03",
+      "album": {
+        "name": "MIXTAPE - BIG G",
+        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 134736,
+      "name": "CORA\u00c7\u00c3O TATUADO",
+      "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
     },
     {
       "added_at": "2026-10-16 03:01:03",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOECfaeJ34wzAscXBVGD5bNzkuc6",
+  "snapshot_id": "AAAAACl3OSLpqxgbYhxvve90iNXtkiXQ",
   "tracks": [
     {
       "added_at": "2023-02-17 13:36:32",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Oriental",
+        "url": "https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk"
+      },
+      "artists": [
+        {
+          "name": "OSAK",
+          "url": "https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf"
+        }
+      ],
+      "duration_ms": 268551,
+      "name": "Oriental",
+      "url": "https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Drop It Again",
         "url": "https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 221156,
       "name": "Token Baashi",
       "url": "https://open.spotify.com/track/39qUZ7zIlDXziDOvRE2UCN"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Oriental",
-        "url": "https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk"
-      },
-      "artists": [
-        {
-          "name": "OSAK",
-          "url": "https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf"
-        }
-      ],
-      "duration_ms": 268551,
-      "name": "Oriental",
-      "url": "https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT"
     },
     {
       "added_at": "2023-02-17 13:36:32",

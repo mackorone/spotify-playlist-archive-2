@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-341 songs - 16 hr 23 min
+342 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Rush Hour](https://open.spotify.com/track/1Gs1Jd3UXixFgZ3NncoiYQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:01 | 2024-06-11 |  |
 | [Russian Cream](https://open.spotify.com/track/03ThZweiBWFP8tOGsk6QMO) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glock Bond](https://open.spotify.com/album/1J4REuUZfX1OjjQhi9whzA) | 2:22 | 2024-06-11 |  |
 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 | 2024-06-11 |  |
-| [Say That Shit \(feat\. K Carbon\)](https://open.spotify.com/track/6co7b9zSYqldsecNzzIQYS) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [The Purple M&M 2](https://open.spotify.com/album/1Dyhf2sffhUOYe2dz1NGhu) | 2:47 | 2025-05-31 |  |
+| [Say That Shit \(feat\. K Carbon\)](https://open.spotify.com/track/4tAF3iymJpt1yMBTiu9DZT) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [The Purple M&M 2](https://open.spotify.com/album/35IpgMXimg9shu3YqeNKda) | 2:47 | 2026-11-03 |  |
+| [Say That Shit \(feat\. K Carbon\)](https://open.spotify.com/track/6co7b9zSYqldsecNzzIQYS) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [The Purple M&M 2](https://open.spotify.com/album/1Dyhf2sffhUOYe2dz1NGhu) | 2:47 | 2025-05-31 | 2026-11-04 |
 | [SCAT MUSIC FEAT\. TAY KEITH](https://open.spotify.com/track/6UWZrMCwgPwuiHhqxiVLHH) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [KIA BOYZ](https://open.spotify.com/album/78SRQLdOmiWm1eki9OVUgN) | 1:44 | 2026-09-03 |  |
 | [ScOrEbOaRd](https://open.spotify.com/track/7eOyaFgc1AJ1wBX20iPS4W) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 3:07 | 2024-06-11 |  |
 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 | 2024-06-11 |  |

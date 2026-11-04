@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: Boys Noize\n",
-  "num_followers": 759268,
+  "num_followers": 759277,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGAcsd8dsuRLGFTGj6P2NChaCoMB",
+  "snapshot_id": "AAAAAA+6PZHRdKeFMuvY9/hIf7is3CyO",
   "tracks": [
     {
       "added_at": "2026-11-02 08:56:51",
@@ -182,6 +182,10 @@
         {
           "name": "J\u00d8RD",
           "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Jasper Erkens",
+          "url": "https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ"
         }
       ],
       "duration_ms": 241594,

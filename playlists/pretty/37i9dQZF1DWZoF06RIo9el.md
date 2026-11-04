@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las favoritas de octubre 2026\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,051 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,853 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 9 | [ENTRE TU Y YO](https://open.spotify.com/track/5qWf1WJSGYDCdRQSCdE9Wg) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ENTRE TU Y YO](https://open.spotify.com/album/0j2ddnXXH8srvVx8A9s1op) | 3:41 |
 | 10 | [Dónde estás](https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh) | [Barbas](https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Dónde estás](https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5) | 2:39 |
 | 11 | [CAPCANA COCOA](https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [CAPCANA COCOA](https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4) | 4:04 |
-| 12 | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw) | 2:53 |
-| 13 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
+| 12 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
+| 13 | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw) | 2:53 |
 | 14 | [Amor De Antes](https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Amor De Antes](https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD) | 3:02 |
 | 15 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
 | 16 | [After \(feat\. Young Miko\)](https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [After \(feat\. Young Miko\)](https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq) | 3:09 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 23 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
 | 24 | [Detective](https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K) | [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Detective](https://open.spotify.com/album/6XhB8rGigLQhPiS4NO8maJ) | 2:45 |
 | 25 | [MADRID](https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID](https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT) | 3:04 |
-| 26 | [Con Esos Celos](https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Con Esos Celos](https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H) | 2:13 |
-| 27 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
+| 26 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
+| 27 | [Con Esos Celos](https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Con Esos Celos](https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H) | 2:13 |
 | 28 | [que seas tú \-\-](https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [que seas tú \-\- & amor herido \. \. .](https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1) | 3:13 |
 | 29 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |
 | 30 | [Tell Me I'm Beautiful](https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tell Me I'm Beautiful](https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs) | 3:35 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
 | 50 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
 | 51 | [santa lucía \(impala\)](https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [todavía no vuelvo](https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK) | 3:35 |
-| 52 | [LA MENTIRA](https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex) | 3:01 |
-| 53 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
-| 54 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
+| 52 | [algo me gusta de ti](https://open.spotify.com/track/6QBwsbFFoDzKKMwfoU4VCw) | [MYF](https://open.spotify.com/artist/5Xwx1803CBjI5p827twc1K) | [algo me gusta de ti](https://open.spotify.com/album/1Ck80vpdXzrnQdoyA4TXdV) | 2:36 |
+| 53 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
+| 54 | [LA MENTIRA](https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex) | 3:01 |
 | 55 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
 | 56 | [INTERÉS HACIA TI](https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2) | 2:29 |
 | 57 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 59 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
 | 60 | [Viento](https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Viento](https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU) | 3:05 |
 
-Snapshot ID: `AAAAABPVgqVhWOVS1yQWL93UEvkbBZqW`
+Snapshot ID: `AAAAALB2WlLXIGPcaHeIfIf/kr57567X`

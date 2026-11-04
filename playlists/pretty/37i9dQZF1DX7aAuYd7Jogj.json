@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ambiental para un sue\u00f1o profundo.",
-  "num_followers": 1969897,
+  "num_followers": 1970014,
   "original_name": "Sue\u00f1o Profundo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFXV+BEohtDZgANDMwO9poh5XdFY",
+  "snapshot_id": "AAAAAO85oF3892k5wqJG1BJ+2flEF+Sf",
   "tracks": [
     {
       "added_at": "2026-09-15 13:30:12",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Nova Bloom",
-        "url": "https://open.spotify.com/album/7zFGxCK2mjxd1gWoJnISjF"
-      },
-      "artists": [
-        {
-          "name": "Somniare",
-          "url": "https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn"
-        }
-      ],
-      "duration_ms": 155660,
-      "name": "Nova Bloom",
-      "url": "https://open.spotify.com/track/0G12HioZEGtH0AjxK5hi4q"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "Amber Light",
         "url": "https://open.spotify.com/album/335h0AujDJgGznPpua02yk"
       },
@@ -183,54 +167,6 @@
       "duration_ms": 154000,
       "name": "Twilight Arrival",
       "url": "https://open.spotify.com/track/4ko0z8M4NCEV8kjrfHNZ7p"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Wind Over Water",
-        "url": "https://open.spotify.com/album/1z6h1eCuTUOSydWgGnxZDY"
-      },
-      "artists": [
-        {
-          "name": "Kepler Tapestry",
-          "url": "https://open.spotify.com/artist/6vs7duLKDLjauB3BOjHLS3"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Wind Over Water",
-      "url": "https://open.spotify.com/track/1188SS0K9sKmuPTJKFFeFN"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Stellar Voyage",
-        "url": "https://open.spotify.com/album/10LxmLXi5nMRmBpKuP71MH"
-      },
-      "artists": [
-        {
-          "name": "Starstrum",
-          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
-        }
-      ],
-      "duration_ms": 141874,
-      "name": "Stellar Voyage",
-      "url": "https://open.spotify.com/track/7GWx7F265RuNZ1ulRa1sMb"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Soar Quiet",
-        "url": "https://open.spotify.com/album/2O1bJmuDc3WxXDOtsVqc0G"
-      },
-      "artists": [
-        {
-          "name": "Slow Journey",
-          "url": "https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW"
-        }
-      ],
-      "duration_ms": 127111,
-      "name": "Soar Quiet",
-      "url": "https://open.spotify.com/track/5cZyvjrnA8FhihTAz0O4vR"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -395,22 +331,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Terminal Sanctuary",
-        "url": "https://open.spotify.com/album/2izM6cImdf65gJuvgaL2GY"
-      },
-      "artists": [
-        {
-          "name": "TRANSQUILOSITY",
-          "url": "https://open.spotify.com/artist/2OB4HTTsYnJZoCsjOEWNTw"
-        }
-      ],
-      "duration_ms": 140511,
-      "name": "Terminal Sanctuary",
-      "url": "https://open.spotify.com/track/5kEXSmDR7hf88i7AofdTzj"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "In the Shadows",
         "url": "https://open.spotify.com/album/0xikvUlqtKSpo4VV092kWr"
       },
@@ -423,22 +343,6 @@
       "duration_ms": 168500,
       "name": "In the Shadows",
       "url": "https://open.spotify.com/track/2SV1sRRof74MxHoyyqthg0"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Over the mountains",
-        "url": "https://open.spotify.com/album/2jR7xAr5B0XPhc2Bkoto18"
-      },
-      "artists": [
-        {
-          "name": "Chalka",
-          "url": "https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Over the mountains",
-      "url": "https://open.spotify.com/track/1oECbIn3Z5ZOnaKYNt2xYK"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -519,6 +423,22 @@
       "duration_ms": 136750,
       "name": "Theta Bloom",
       "url": "https://open.spotify.com/track/0XaqQUNh0xPPYAws4y8j4x"
+    },
+    {
+      "added_at": "2026-11-03 16:48:46",
+      "album": {
+        "name": "Advenire",
+        "url": "https://open.spotify.com/album/4IpDZfcs6XkD977bDaNTk4"
+      },
+      "artists": [
+        {
+          "name": "Slepth",
+          "url": "https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Advenire",
+      "url": "https://open.spotify.com/track/22Hu1yJ7APn6EGAXrKOaDw"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -631,6 +551,22 @@
       "duration_ms": 160000,
       "name": "Midnight Frequency",
       "url": "https://open.spotify.com/track/0iqOVs7m1rQS1EoUfbNaQr"
+    },
+    {
+      "added_at": "2026-11-03 16:48:46",
+      "album": {
+        "name": "Old Noise",
+        "url": "https://open.spotify.com/album/1EmGNYGEPUBrpLSr3j9P7K"
+      },
+      "artists": [
+        {
+          "name": "Hatchlings Calm",
+          "url": "https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Old Noise",
+      "url": "https://open.spotify.com/track/2QOlOJPssPd9Kj6A2bb7lb"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -761,20 +697,20 @@
       "url": "https://open.spotify.com/track/7ou6YNDED5uIS4gQ6zL0nF"
     },
     {
-      "added_at": "2026-09-15 13:30:12",
+      "added_at": "2026-11-03 16:48:46",
       "album": {
-        "name": "Gentle Air",
-        "url": "https://open.spotify.com/album/5lLmThQWFLEqQl5LVLDnez"
+        "name": "Contentment Path",
+        "url": "https://open.spotify.com/album/01uGFkzaYA0m6BeZill0Dr"
       },
       "artists": [
         {
-          "name": "August Cole",
-          "url": "https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O"
+          "name": "Elliott Duncan",
+          "url": "https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Gentle Air",
-      "url": "https://open.spotify.com/track/6c0HYnt1CQmoK29ubDi8Zv"
+      "duration_ms": 157709,
+      "name": "Contentment Path",
+      "url": "https://open.spotify.com/track/4yCCYWIQ8mZIOUpq7RgWDz"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -913,6 +849,22 @@
       "url": "https://open.spotify.com/track/3sKLohmcFswZytAWumqLTC"
     },
     {
+      "added_at": "2026-11-03 16:48:46",
+      "album": {
+        "name": "Space Lake",
+        "url": "https://open.spotify.com/album/7rF6AhkDSH5cADKGWbwFP9"
+      },
+      "artists": [
+        {
+          "name": "Celestial Whisperer",
+          "url": "https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Space Lake",
+      "url": "https://open.spotify.com/track/2Oz3VTuZf0iJVOV92FdAaV"
+    },
+    {
       "added_at": "2026-09-15 13:30:12",
       "album": {
         "name": "Evimeria",
@@ -1025,6 +977,22 @@
       "url": "https://open.spotify.com/track/2fEQzvxRTVhSGmr8W1qzur"
     },
     {
+      "added_at": "2026-11-03 16:48:46",
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/6SLSW7p29dRek3cBjXWKS7"
+      },
+      "artists": [
+        {
+          "name": "Amos Stovall",
+          "url": "https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/2vlQKDiizxSV5HumbIgtLk"
+    },
+    {
       "added_at": "2026-09-15 13:30:12",
       "album": {
         "name": "Ombroso",
@@ -1127,22 +1095,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/7mgdCjdvNx0Nh0nuo5Clj6"
-      },
-      "artists": [
-        {
-          "name": "Vincent La Rossi",
-          "url": "https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3"
-        }
-      ],
-      "duration_ms": 147050,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/4UFG9vzQPI8ZZtya4rIEUy"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "Envisage",
         "url": "https://open.spotify.com/album/7KayPxZbS1PQCo3ynADhQa"
       },
@@ -1155,6 +1107,22 @@
       "duration_ms": 159642,
       "name": "Envisage",
       "url": "https://open.spotify.com/track/1wm9NL0JQsyXAcKeAMEIrN"
+    },
+    {
+      "added_at": "2026-11-03 16:48:46",
+      "album": {
+        "name": "Soft Signal",
+        "url": "https://open.spotify.com/album/4WJB9ccJNATw5SSSwRm4Hp"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Soft Signal",
+      "url": "https://open.spotify.com/track/49oSlSmuv3zJwraoLfhkae"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -1283,6 +1251,22 @@
       "duration_ms": 145500,
       "name": "Float",
       "url": "https://open.spotify.com/track/4IcQ7Mc2UZBnnQnEtMiDXn"
+    },
+    {
+      "added_at": "2026-11-03 16:48:46",
+      "album": {
+        "name": "Warm Static Glow",
+        "url": "https://open.spotify.com/album/3Cuy83OfZ5Xu2jGLjKyfOJ"
+      },
+      "artists": [
+        {
+          "name": "M. Suremei",
+          "url": "https://open.spotify.com/artist/5BlPckrd8L7D9g7I3Xc66X"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Warm Static Glow",
+      "url": "https://open.spotify.com/track/0b4are62DXCnLFgfbIDd3R"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -4327,6 +4311,118 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
+        "name": "Nova Bloom",
+        "url": "https://open.spotify.com/album/7zFGxCK2mjxd1gWoJnISjF"
+      },
+      "artists": [
+        {
+          "name": "Somniare",
+          "url": "https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn"
+        }
+      ],
+      "duration_ms": 155660,
+      "name": "Nova Bloom",
+      "url": "https://open.spotify.com/track/0G12HioZEGtH0AjxK5hi4q"
+    },
+    {
+      "added_at": "2026-09-15 13:30:12",
+      "album": {
+        "name": "Wind Over Water",
+        "url": "https://open.spotify.com/album/1z6h1eCuTUOSydWgGnxZDY"
+      },
+      "artists": [
+        {
+          "name": "Kepler Tapestry",
+          "url": "https://open.spotify.com/artist/6vs7duLKDLjauB3BOjHLS3"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Wind Over Water",
+      "url": "https://open.spotify.com/track/1188SS0K9sKmuPTJKFFeFN"
+    },
+    {
+      "added_at": "2026-09-15 13:30:12",
+      "album": {
+        "name": "Stellar Voyage",
+        "url": "https://open.spotify.com/album/10LxmLXi5nMRmBpKuP71MH"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Stellar Voyage",
+      "url": "https://open.spotify.com/track/7GWx7F265RuNZ1ulRa1sMb"
+    },
+    {
+      "added_at": "2026-09-15 13:30:12",
+      "album": {
+        "name": "Soar Quiet",
+        "url": "https://open.spotify.com/album/2O1bJmuDc3WxXDOtsVqc0G"
+      },
+      "artists": [
+        {
+          "name": "Slow Journey",
+          "url": "https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW"
+        }
+      ],
+      "duration_ms": 127111,
+      "name": "Soar Quiet",
+      "url": "https://open.spotify.com/track/5cZyvjrnA8FhihTAz0O4vR"
+    },
+    {
+      "added_at": "2026-09-15 13:30:12",
+      "album": {
+        "name": "Terminal Sanctuary",
+        "url": "https://open.spotify.com/album/2izM6cImdf65gJuvgaL2GY"
+      },
+      "artists": [
+        {
+          "name": "TRANSQUILOSITY",
+          "url": "https://open.spotify.com/artist/2OB4HTTsYnJZoCsjOEWNTw"
+        }
+      ],
+      "duration_ms": 140511,
+      "name": "Terminal Sanctuary",
+      "url": "https://open.spotify.com/track/5kEXSmDR7hf88i7AofdTzj"
+    },
+    {
+      "added_at": "2026-09-15 13:30:12",
+      "album": {
+        "name": "Over the mountains",
+        "url": "https://open.spotify.com/album/2jR7xAr5B0XPhc2Bkoto18"
+      },
+      "artists": [
+        {
+          "name": "Chalka",
+          "url": "https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt"
+        }
+      ],
+      "duration_ms": 155044,
+      "name": "Over the mountains",
+      "url": "https://open.spotify.com/track/1oECbIn3Z5ZOnaKYNt2xYK"
+    },
+    {
+      "added_at": "2026-09-15 13:30:12",
+      "album": {
+        "name": "Gentle Air",
+        "url": "https://open.spotify.com/album/5lLmThQWFLEqQl5LVLDnez"
+      },
+      "artists": [
+        {
+          "name": "August Cole",
+          "url": "https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Gentle Air",
+      "url": "https://open.spotify.com/track/6c0HYnt1CQmoK29ubDi8Zv"
+    },
+    {
+      "added_at": "2026-09-15 13:30:12",
+      "album": {
         "name": "Undo Time",
         "url": "https://open.spotify.com/album/0xGqs0DKPyqz5qSDDlqCWz"
       },
@@ -4439,22 +4535,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Clouds Beneath",
-        "url": "https://open.spotify.com/album/5ZXrQpoZ09CcFLV44qzlIU"
-      },
-      "artists": [
-        {
-          "name": "Lucas Leigh",
-          "url": "https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "Clouds Beneath",
-      "url": "https://open.spotify.com/track/0KNodqc5PnG6hZYcVYUCYI"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "Transparent Day",
         "url": "https://open.spotify.com/album/3H1UOIPM6nS2LUADoUQnJr"
       },
@@ -4475,22 +4555,6 @@
       "duration_ms": 138795,
       "name": "Transparent Day",
       "url": "https://open.spotify.com/track/4a2jlK5xHOfUFPBbwNhU4j"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Slow Fall",
-        "url": "https://open.spotify.com/album/1Srd5lVGsqUcLV3zI5UUaX"
-      },
-      "artists": [
-        {
-          "name": "knownbyC",
-          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "Slow Fall",
-      "url": "https://open.spotify.com/track/1YtkMlAN0dDErdKmvAIR3R"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -5247,22 +5311,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Where Silence Learns to Dream",
-        "url": "https://open.spotify.com/album/6en7EWTEZaKKJjHprkidar"
-      },
-      "artists": [
-        {
-          "name": "ZenithEcho",
-          "url": "https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Where Silence Learns to Dream",
-      "url": "https://open.spotify.com/track/1X9HdeMONCaAwsAiQogRJl"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "Sun Silence",
         "url": "https://open.spotify.com/album/2RRNgalWhTlgFZlHWttvy0"
       },
@@ -5407,22 +5455,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/3myku1Gn4MAQFPqFLQVfXt"
-      },
-      "artists": [
-        {
-          "name": "Karlis Volt",
-          "url": "https://open.spotify.com/artist/55DNIiMoYD4awuH7e1gZiT"
-        }
-      ],
-      "duration_ms": 134032,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/4RKK2JvJ4HcwVt9ZSYVlIT"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "Affections",
         "url": "https://open.spotify.com/album/6MMTdk9uojOlZgNZzrT8Fk"
       },
@@ -5519,22 +5551,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Lungs of the Planet",
-        "url": "https://open.spotify.com/album/3reeTvIOQSKxf7CduBSxOJ"
-      },
-      "artists": [
-        {
-          "name": "Luca Kerr",
-          "url": "https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Lungs of the Planet",
-      "url": "https://open.spotify.com/track/2143aXSdaX9SqEaZls2xzx"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/54ryRr5O7crKg8cbyEJWQf"
       },
@@ -5551,22 +5567,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Ashari",
-        "url": "https://open.spotify.com/album/4C5bJWkHmJwsDzQpR3ZCUw"
-      },
-      "artists": [
-        {
-          "name": "Valante",
-          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
-        }
-      ],
-      "duration_ms": 198441,
-      "name": "Ashari",
-      "url": "https://open.spotify.com/track/6KGqnUHtivVjocueyVg1rV"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "White Mist",
         "url": "https://open.spotify.com/album/5Pm9Q853Bhwe3qyHal42i0"
       },
@@ -5579,38 +5579,6 @@
       "duration_ms": 190000,
       "name": "White Mist",
       "url": "https://open.spotify.com/track/2y5hF6IeXqWkCfPbR4dVP3"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Guardiania",
-        "url": "https://open.spotify.com/album/1GEkcRSmBo7UOl5Q4rHQNG"
-      },
-      "artists": [
-        {
-          "name": "Jnana Flow",
-          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Guardiania",
-      "url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Placid Interval",
-        "url": "https://open.spotify.com/album/7d55HIpi8OCtp0LiiU2KQK"
-      },
-      "artists": [
-        {
-          "name": "Zyair Price",
-          "url": "https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t"
-        }
-      ],
-      "duration_ms": 164305,
-      "name": "Placid Interval",
-      "url": "https://open.spotify.com/track/3rejhbJj7L7YG8dYkaq1Th"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -5727,22 +5695,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Ineffabile",
-        "url": "https://open.spotify.com/album/5t6ApWBXjVINDC6fUrAQFk"
-      },
-      "artists": [
-        {
-          "name": "Vespera Nube",
-          "url": "https://open.spotify.com/artist/1xJaGUScKBjjp4ScPHf83R"
-        }
-      ],
-      "duration_ms": 159192,
-      "name": "Ineffabile",
-      "url": "https://open.spotify.com/track/35czu67QLUhIm9xhAnKuzC"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "Resting Mind",
         "url": "https://open.spotify.com/album/4s4k1P1OxgxYej9py5jMWU"
       },
@@ -5759,38 +5711,6 @@
     {
       "added_at": "2026-09-15 13:30:12",
       "album": {
-        "name": "Realization Blur",
-        "url": "https://open.spotify.com/album/7lylmBze2qA0M8p4nXHYnp"
-      },
-      "artists": [
-        {
-          "name": "Alpenglown",
-          "url": "https://open.spotify.com/artist/2qyskqdJr7HXoZteM4OhCT"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Realization Blur",
-      "url": "https://open.spotify.com/track/7J11u9tUvbQZ2tEb3vUNaG"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Intricate",
-        "url": "https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN"
-      },
-      "artists": [
-        {
-          "name": "Garc\u00edia",
-          "url": "https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM"
-        }
-      ],
-      "duration_ms": 176514,
-      "name": "Intricate",
-      "url": "https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
         "name": "No Doubts",
         "url": "https://open.spotify.com/album/3T7GMOByIzgwKZQwO7aMjl"
       },
@@ -5803,22 +5723,6 @@
       "duration_ms": 170500,
       "name": "No Doubts",
       "url": "https://open.spotify.com/track/0Lm0y5ACwWnZuiqOOkimxJ"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Moonlit Haze",
-        "url": "https://open.spotify.com/album/5DwK0F0gNN2HB1pJYeWzPW"
-      },
-      "artists": [
-        {
-          "name": "Lunaura",
-          "url": "https://open.spotify.com/artist/7yDFYDO8YUgn49WOaaQmIZ"
-        }
-      ],
-      "duration_ms": 172650,
-      "name": "Moonlit Haze",
-      "url": "https://open.spotify.com/track/3ILt8DOH9x1UzIKO7ofLQP"
     },
     {
       "added_at": "2026-09-15 13:30:12",
@@ -5867,22 +5771,6 @@
       "duration_ms": 159818,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4HT1WedbhVHDpyFem0aMg4"
-    },
-    {
-      "added_at": "2026-09-15 13:30:12",
-      "album": {
-        "name": "Lyria",
-        "url": "https://open.spotify.com/album/1mi4W11biS0vxNLxqtz6aG"
-      },
-      "artists": [
-        {
-          "name": "Nova Cantabile",
-          "url": "https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Lyria",
-      "url": "https://open.spotify.com/track/6vMuJ5Ksai6YewJFVEsJcK"
     }
   ],
   "unique_name": "Sue\u00f1o Profundo",

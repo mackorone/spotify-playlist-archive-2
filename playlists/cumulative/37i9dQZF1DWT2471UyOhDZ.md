@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Hot Chip
 
-549 songs - 1 day 11 hr 17 min
+550 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,10 +432,11 @@
 | [Sober](https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Sober](https://open.spotify.com/album/52VNpXFgf7DENnJb4MXdkH) | 4:46 | 2025-05-08 | 2025-07-21 |
 | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/track/7oA9S6NHRiaI7TUbPwKOCF) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/album/3D8hTdaS1LPiA8gayUlGdR) | 4:03 | 2024-10-06 | 2024-10-17 |
 | [Something Else to Give](https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Something Else to Give](https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0) | 4:45 | 2026-07-16 | 2026-10-02 |
+| [Something Fragile](https://open.spotify.com/track/7wLshhX7n4JkGTdxixHDa5) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Something Fragile](https://open.spotify.com/album/1mxQ2nQlOEeXimggDOyFB2) | 4:40 | 2026-10-22 |  |
 | [Something Now](https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Something Now](https://open.spotify.com/album/0ESfeXr4ZLjlrnGlm64ly5) | 3:07 | 2024-06-14 | 2024-07-12 |
 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-11 | 2025-11-26 |
 | [Soul\-net](https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Soul\-net](https://open.spotify.com/album/00kD3E9hxwyMrzHq5EjCiQ) | 4:24 | 2024-06-14 | 2024-07-21 |
-| [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 | 2026-09-25 |  |
+| [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 | 2026-09-25 | 2026-11-04 |
 | [Sousoume Tamacheq](https://open.spotify.com/track/6Y3OFWI9zIWP4ClMeOUqBx) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq) | 5:40 | 2024-07-18 | 2024-09-17 |
 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 | 2024-10-06 | 2024-10-18 |
 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 | 2025-05-08 | 2026-06-19 |

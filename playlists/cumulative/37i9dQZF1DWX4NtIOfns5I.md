@@ -4,7 +4,7 @@
 
 > grumpy on the cover :\)
 
-956 songs - 2 day 9 hr 50 min
+959 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Colorado](https://open.spotify.com/track/3LGptYQodNdJAxgtKPIbRb) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Colorado](https://open.spotify.com/album/2lUUoJrmkwVTYzOKvzSoWN) | 4:27 | 2024-10-18 | 2025-04-05 |
 | [Colors](https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Knots](https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq) | 3:37 | 2026-09-25 |  |
 | [Comedy Show](https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Comedy Show](https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl) | 3:00 | 2026-09-25 |  |
+| [Concrete Cowboy](https://open.spotify.com/track/2cubmkSK7KZDiJ063MzViO) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [Concrete Cowboy](https://open.spotify.com/album/31tY51KvbFLZbsJ5xIdX5s) | 3:22 | 2026-11-03 |  |
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-02-28 | 2025-09-27 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-10-06 | 2024-05-25 |
 | [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 | 2024-02-16 | 2024-04-03 |
@@ -500,6 +501,7 @@
 | [Looking at the Geese](https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Looking at the Geese](https://open.spotify.com/album/2x9lOjN6sFLzJJ433DGbdZ) | 4:25 | 2024-12-13 | 2025-07-12 |
 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 | 2024-04-06 |
 | [Looking For Nothing](https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Looking For Nothing](https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu) | 3:58 | 2025-10-31 | 2026-06-13 |
+| [Lord, Let That Tesla Crash](https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 5:06 | 2026-11-03 |  |
 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 | 2024-05-01 | 2025-01-18 |
 | [Lost & Found](https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Lost & Found](https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ) | 4:09 | 2023-10-20 | 2024-06-01 |
 | [Lost Again](https://open.spotify.com/track/736kzWTAngrJGQVZicIMCx) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Losin'](https://open.spotify.com/album/5sH5XoVKY8ZMJgVhuc1gw0) | 5:13 | 2025-04-25 | 2025-09-13 |
@@ -522,6 +524,7 @@
 | [Martha Sways \- Spotify Singles](https://open.spotify.com/track/0o96BRVCx7wR4NtUHsvbCN) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Martha Sways \(Spotify Singles\)](https://open.spotify.com/album/3Gb20a0lgpweeO3k98i2vg) | 4:56 | 2026-09-22 |  |
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-11 | 2025-03-13 |
 | [me and you](https://open.spotify.com/track/0oJ0ZWkjZBYRtUBeC0o76c) | [gabrielle hope](https://open.spotify.com/artist/5VSQfk6IkMUb8IVxo3mtPt) | [me and you](https://open.spotify.com/album/089mLGaIa69aVY4G5yjg9F) | 1:32 | 2025-01-10 | 2025-08-09 |
+| [Meadow ’gain](https://open.spotify.com/track/6CJQynKrr0Y8nyMt9OvReG) | [Lamplight](https://open.spotify.com/artist/6W7C7NhjSvrh9u1P7bjUx0) | [Lick the Spoon, Let it Soften](https://open.spotify.com/album/403SneXFVPq7mACnLz8rBQ) | 4:00 | 2026-11-03 |  |
 | [Mean Guy](https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [With a Lightning Strike](https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr) | 3:29 | 2024-10-11 | 2025-05-14 |
 | [Meaning](https://open.spotify.com/track/41S0JSa52kSmDUFsKEBaiB) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 5:35 | 2025-06-06 | 2025-08-09 |
 | [Mercy Kill \(Schrödinger's Cat\)](https://open.spotify.com/track/2wjE1Fc8Q3RsAohwZsVoyY) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mercy Kill \(Schrödinger's Cat\)](https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu) | 3:48 | 2026-09-29 |  |

@@ -3075,6 +3075,32 @@
     },
     {
       "album": {
+        "name": "RENT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lohr",
+          "url": "https://open.spotify.com/artist/7kpYFxC5CpMUjfXtOGOrvR"
+        },
+        {
+          "name": "Wayne Wilcox",
+          "url": "https://open.spotify.com/artist/76Yo2sJEDEDN98LZddkGC1"
+        },
+        {
+          "name": "Cast of the Motion Picture RENT",
+          "url": "https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Will I",
+      "url": "https://open.spotify.com/track/0OuPMjmicFfmnB3SFFqdgQ"
+    },
+    {
+      "album": {
         "name": "Without a Tribe",
         "url": "https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb"
       },

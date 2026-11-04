@@ -1,12 +1,12 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 64357,
+  "num_followers": 64372,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGbIm7DQzuOU3rvijt5g2nRzNbe",
+  "snapshot_id": "AAAAABR8ZTDl/54PdiwoSY+C31l26Uxv",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:46",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "Before I Blow",
+        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "CHE",
         "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "Before I Blow",
-        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 147302,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
-      },
-      "artists": [
-        {
-          "name": "Toje",
-          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Oriad\u00e9",
         "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 150147,
       "name": "Tell Everybody (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
+      },
+      "artists": [
+        {
+          "name": "Toje",
+          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/6qACH9R67mlG2RfEejcQzl"
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HOQQpVwY6erTTCnQfvt7t"
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -795,26 +779,18 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6qACH9R67mlG2RfEejcQzl"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 211756,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+      "duration_ms": 213600,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HOQQpVwY6erTTCnQfvt7t"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -839,6 +815,30 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 211756,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "THEY LOVE ME",
-        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "THEY LOVE ME",
-      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "May 10th",
         "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "THEY LOVE ME",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "THEY LOVE ME",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1215,22 +1215,26 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "Stay a Little Longer",
-        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P"
       },
       "artists": [
         {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+          "name": "Chisway",
+          "url": "https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ"
         },
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "\u65af\u4e39\u66fc\u7c07",
+          "url": "https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9"
         }
       ],
-      "duration_ms": 174915,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
+      "duration_ms": 191538,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1275,6 +1279,26 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
         "name": "Okpeke (Dance for Me)",
         "url": "https://open.spotify.com/album/2YTlHepyfJXo6VdFNCs0y9"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 145328,
       "name": "Okpeke (Dance for Me)",
       "url": "https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P"
-      },
-      "artists": [
-        {
-          "name": "Chisway",
-          "url": "https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ"
-        },
-        {
-          "name": "JZyNo",
-          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
-        },
-        {
-          "name": "\u65af\u4e39\u66fc\u7c07",
-          "url": "https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz"
     },
     {
       "added_at": "2026-10-23 00:01:46",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-10-23 00:01:46",
       "album": {
-        "name": "High Spirit",
-        "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
-      },
-      "artists": [
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 169678,
-      "name": "Shayo",
-      "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
-    },
-    {
-      "added_at": "2026-10-23 00:01:46",
-      "album": {
         "name": "Crazily",
         "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "added_at": "2026-10-23 00:01:46",
+      "album": {
+        "name": "High Spirit",
+        "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 169678,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
     },
     {
       "added_at": "2026-10-23 00:01:46",

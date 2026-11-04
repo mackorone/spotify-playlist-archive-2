@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,731 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,715 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 79 | [This Is the Last Song About You](https://open.spotify.com/track/56mCbeIok8fW5fG3oe0wmn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [This Is the Last Song About You](https://open.spotify.com/album/4QVwataDdz8ZuUNa2dKiAJ) | 2:06 |
 | 80 | [star](https://open.spotify.com/track/5B2mE1GD2u2DotWHJQilzf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [island girl](https://open.spotify.com/album/3SqmsePfS5FsfyrqzREGfR) | 2:30 |
 
-Snapshot ID: `AAAAAMBvHpGir9w4vpUVEp98k/QHsYsq`
+Snapshot ID: `AAAAAGSp9n9EytOVPTrBZPOmpvEHa/tI`

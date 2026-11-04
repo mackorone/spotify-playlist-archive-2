@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-317 songs - 16 hr 59 min
+318 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,8 +202,9 @@
 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 | 2024-06-14 |  |
 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 | 2024-06-14 |  |
 | [needy](https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:51 | 2024-06-14 |  |
+| [Nervous System](https://open.spotify.com/track/4Ep8X2aGFC9kgBP3kfZsjK) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/1firK4Zf4pe0vHXjwL1QfE) | 2:37 | 2026-11-03 |  |
 | [Nervous System](https://open.spotify.com/track/673bojA0jR34cPblKgt3D5) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt) | 2:37 | 2024-06-14 | 2025-07-03 |
-| [Nervous System](https://open.spotify.com/track/6L4gFqY2OumTh17xbnsUnu) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/2tUCz7FgWO4Z9Gob0qumxg) | 2:37 | 2025-07-02 |  |
+| [Nervous System](https://open.spotify.com/track/6L4gFqY2OumTh17xbnsUnu) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/2tUCz7FgWO4Z9Gob0qumxg) | 2:37 | 2025-07-02 | 2026-11-04 |
 | [Nevermind](https://open.spotify.com/track/2VxJAEJff8YpPkr5q1sLK5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:43 | 2025-07-09 |  |
 | [Nevermind](https://open.spotify.com/track/6zrSdA1OVeHo3Em3Ej5SSv) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Nevermind](https://open.spotify.com/album/1LZUQBxZaXlijfj0No8kaH) | 2:31 | 2024-06-14 | 2025-07-10 |
 | [Nobody but Me](https://open.spotify.com/track/1Cqqr2V32xGScFeuj5qCKp) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Nobody But Me](https://open.spotify.com/album/7CisHDnMwiAnuEel2OSdTq) | 4:08 | 2024-06-14 |  |

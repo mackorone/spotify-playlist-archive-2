@@ -1,12 +1,12 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 19205,
+  "num_followers": 19204,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPjtMs/ehg0wnMxxqriej0TLRo7U",
+  "snapshot_id": "AAAAAHTbzqKT2kwY0P89qEyQFoN8DHw4",
   "tracks": [
     {
       "added_at": "2025-07-21 16:15:15",
@@ -571,18 +571,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD\u3010\u685c\u5742\u3057\u305a\u304f\u76e4\u3011",
-        "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Solitude Rain",
-      "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
+      "duration_ms": 241306,
+      "name": "\u697d\u3057\u3044\u306e\u5929\u624d",
+      "url": "https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -599,6 +599,22 @@
       "duration_ms": 243480,
       "name": "DIVE!",
       "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD\u3010\u685c\u5742\u3057\u305a\u304f\u76e4\u3011",
+        "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Solitude Rain",
+      "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -651,22 +667,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "\u54c0\u6e29\u30ce\u8a69",
-      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "L\uff01L\uff01L\uff01 (Love the Life We Live)",
         "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 255280,
       "name": "\u30e4\u30c0\uff01",
       "url": "https://open.spotify.com/track/6L8bDztOq8w5fWpED5b1Zb"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "\u54c0\u6e29\u30ce\u8a69",
+      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -743,22 +759,6 @@
       "duration_ms": 249720,
       "name": "Eutopia",
       "url": "https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "\u697d\u3057\u3044\u306e\u5929\u624d",
-      "url": "https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd"
     },
     {
       "added_at": "2025-07-21 16:15:15",

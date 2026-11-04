@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: nomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,709 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,689 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 25 | [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 |
 | 26 | [Kinda Guy](https://open.spotify.com/track/4ilXU3QwwIqwtGlw2UjIAX) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Kinda Guy](https://open.spotify.com/album/12b7HqzzZngwfvr9Rbkal1) | 2:58 |
 | 27 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
-| 28 | [Heroes & Villains](https://open.spotify.com/track/7k1RyCE03ZzpNXCd7Kc0wD) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [STRIKING](https://open.spotify.com/album/1qD7ujFQ06byTA6jObEPOx) | 3:41 |
+| 28 | [Heroes & Villains](https://open.spotify.com/track/7k1RyCE03ZzpNXCd7Kc0wD) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Nahree](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [STRIKING](https://open.spotify.com/album/1qD7ujFQ06byTA6jObEPOx) | 3:41 |
 | 29 | [Mantra](https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Mantra](https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL) | 3:05 |
 | 30 | [Diamanti](https://open.spotify.com/track/6zfxjkpJZNloKSCE7EfB50) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Diamanti](https://open.spotify.com/album/41vTySQadkMdvNU9SIcqZe) | 2:53 |
 | 31 | [IRL](https://open.spotify.com/track/6eRM3i6S1WN3yCy5Gr2eid) | [Ania Hoo](https://open.spotify.com/artist/141bAnJhsORNsCW1biNRvL) | [IRL](https://open.spotify.com/album/2nd1HvTITdoLzdyLn9WxcE) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Tiroteo](https://open.spotify.com/track/1KaBfgt21SXIoIdkmCVSvH) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Tiroteo](https://open.spotify.com/album/0mNAQrOqBedUsrgonzxGmp) | 2:17 |
 | 100 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 
-Snapshot ID: `AAAAANz3lf+4UnATrw6iQ7jXUqfthWLP`
+Snapshot ID: `AAAAAFD0TECfYA1rC+vj6EYETQOfFKOh`

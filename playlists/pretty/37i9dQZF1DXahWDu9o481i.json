@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Victony",
-  "num_followers": 121998,
+  "num_followers": 122035,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAODufkr075WYNsVL4kOCvLvhuahv",
+  "snapshot_id": "AAAAAL+A1ovh0Radyq51idQ+UZvVEaI5",
   "tracks": [
     {
       "added_at": "2026-10-27 04:00:01",
@@ -275,18 +275,18 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Long Life Living for a Lover Boy",
-        "url": "https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8"
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
       "artists": [
         {
-          "name": "Joshua Slone",
-          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 171752,
-      "name": "Are We Ever Gonna Work Out, Baby?",
-      "url": "https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp"
+      "duration_ms": 236600,
+      "name": "Swan Lake",
+      "url": "https://open.spotify.com/track/4EXi4kcNP02S4zUEqrqFuP"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+        "name": "Long Life Living for a Lover Boy",
+        "url": "https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Swan Lake",
-      "url": "https://open.spotify.com/track/4EXi4kcNP02S4zUEqrqFuP"
+      "duration_ms": 171752,
+      "name": "Are We Ever Gonna Work Out, Baby?",
+      "url": "https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 209453,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "let's talk about it",
+        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 157810,
+      "name": "let\u2019s talk about it",
+      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "DANGER DANGER (feat. Skepta)",
         "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 180150,
       "name": "DANGER DANGER (feat. Skepta)",
       "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "let's talk about it",
-        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 157810,
-      "name": "let\u2019s talk about it",
-      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 284420,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 185330,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7iva1QVtX8yUQOzR2ysAVj"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 284420,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1wyzwFsSpEh65mQqApmd7o"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Trillions",
-        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Trillions",
-      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Stalks",
         "url": "https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 167831,
       "name": "Stalks",
       "url": "https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "added_at": "2026-10-27 04:00:01",

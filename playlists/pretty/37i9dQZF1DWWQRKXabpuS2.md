@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,329 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,338 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Qooli Fenk](https://open.spotify.com/track/3MGu4KPXEcVJaCYrIiENSS) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Abdulaziz Elmuanna 2026](https://open.spotify.com/album/46MLFQoXY0pnUUwnk3yKzj) | 3:57 |
 | 50 | [Arja3 Le An](https://open.spotify.com/track/3b4Fb82NgUrPeW6fIr9AKH) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Arja3 Le An](https://open.spotify.com/album/1zlShYHGAXpworkwciHUI6) | 5:10 |
 
-Snapshot ID: `AAAAAOaidO2wE9Cuee1sp3+rCzTELyIK`
+Snapshot ID: `AAAAAAhhXdn1M8XJSJd+NDDd4LKDwHry`

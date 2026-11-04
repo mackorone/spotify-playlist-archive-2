@@ -1,12 +1,12 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 433426,
+  "num_followers": 433525,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPyUMF4T2SQ4hnavm0xUSFRLhYq3",
+  "snapshot_id": "AAAAAORlGTUWwN4+pONoJxmOtAu1csPp",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "Magico\u2026 di notte (Pekka Remix)",
         "url": "https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 183515,
       "name": "Magico\u2026 di notte - Pekka Remix",
       "url": "https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -999,6 +999,38 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Gemma e le altre",
+        "url": "https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "E\u2026allora\u2026cercasi",
+      "url": "https://open.spotify.com/track/1Qp2i10AR8aDIp5WhRS5J6"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -1023,38 +1055,6 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Gemma e le altre",
-        "url": "https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "E\u2026allora\u2026cercasi",
-      "url": "https://open.spotify.com/track/1Qp2i10AR8aDIp5WhRS5J6"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Tacchini",
-        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 289815,
-      "name": "Tacchini",
-      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "The Night (Original Remastered Version 2020)",
         "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Tacchini",
+        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 289815,
+      "name": "Tacchini",
+      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 281167,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "Caf\u00e8",
         "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 393773,
       "name": "Caf\u00e8 - Original 1979 Version",
       "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 281167,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B"
     },
     {
       "added_at": "2026-07-30 22:02:37",

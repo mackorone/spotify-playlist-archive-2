@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,764 likes - 130 songs - 7 hr 1 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,762 likes - 130 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 126 | [SERPENT CHAMBER](https://open.spotify.com/track/5JIOWeefDQBlGlXgYEI1ZZ) | [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv) | [PLAGUE MUSIC](https://open.spotify.com/album/6df6MwrUe8rwmxHpWglwwr) | 3:31 |
 | 127 | [On & On](https://open.spotify.com/track/0Ju4lqTas9lg3Q1oUmBWNM) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 4:12 |
 | 128 | [TWISTING OF HEARTS](https://open.spotify.com/track/1DNLxFi5SW6L1M34rdNJo8) | [SUUTOO](https://open.spotify.com/artist/7MttCmb0xZO74UvlbC697W) | [STARFIRE](https://open.spotify.com/album/3EIFJkABzkpmNCQ2aKMIKc) | 4:32 |
-| 129 | [Se Pone d a Perro](https://open.spotify.com/track/3KE6aKSNIqtYnjJbMvIDlY) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 3:42 |
+| 129 | [Se Pone d a Perro](https://open.spotify.com/track/3KE6aKSNIqtYnjJbMvIDlY) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [LA OBSESIÓN](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 3:42 |
 | 130 | [CLICK](https://open.spotify.com/track/6TqFifK9exup01sQqOxXxT) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [WOULO VOLUME 1](https://open.spotify.com/album/3pt6PfzhiRYn5OU5dDBp8Q) | 2:28 |
 
 Snapshot ID: `AAAZa2Q47SGbYl4YwbIiyDWbHNmPFg64`

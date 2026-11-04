@@ -34,10 +34,28 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 255297,
       "name": "A B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3GdR1Am14WnZaCsGiXQNy3"
+    },
+    {
+      "album": {
+        "name": "Pequenos Levitas",
+        "url": "https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255297,
+      "name": "A B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3PoGIF3VwQKqyPOINuOjWR"
     },
     {
       "album": {
@@ -1114,10 +1132,28 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 520935,
       "name": "Meu Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/4CBrbzhvuka2a3gZOm48E8"
+    },
+    {
+      "album": {
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1gJRrBTFtZn4gSbFzyOezh"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520936,
+      "name": "Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yD7EU4QTTEoRHnwvqu1vV"
     },
     {
       "album": {

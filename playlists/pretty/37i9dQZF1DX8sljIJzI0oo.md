@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Dei V is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,900,653 likes - 45 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,900,573 likes - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 44 | [6 de la Mañana](https://open.spotify.com/track/0uBVHQlUFRSyepbljYUjXF) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J), [Jey H](https://open.spotify.com/artist/1MUrvcaLQS9bwe29QiBnXJ) | [6 de la Mañana](https://open.spotify.com/album/4R4mvpVdDEzOEnzFvY0F3B) | 2:35 |
 | 45 | [Honguito \- Remix](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 |
 
-Snapshot ID: `AAAAAEDMt9hO2lUMZCl1XvRXg/XeHR2A`
+Snapshot ID: `AAAAAB/orNrHRCHCrr+Cow2n5QX1GAlb`

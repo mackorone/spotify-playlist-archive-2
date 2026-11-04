@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,929 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,945 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 28 | [BREAKING](https://open.spotify.com/track/7GMVsr90LiDFsNLFCJfsLq) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 4:07 |
 | 29 | [Revolution](https://open.spotify.com/track/2f5tbUaM4IrFDyBuf61afK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:25 |
 | 30 | [Listening For The Silence](https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:51 |
-| 31 | [Psalm 150](https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 0:55 |
-| 32 | [School Of Hard Knocks \- 2021 Remaster](https://open.spotify.com/track/3E0vgHkr4wJcsqI65vFJAx) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(Expanded Edition; 2021 Remaster\)](https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw) | 4:06 |
-| 33 | [It Can't Rain Everyday \- 2022 Remixed & Remastered](https://open.spotify.com/track/66ohz8sYtRkVBftnS9mGPp) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:43 |
+| 31 | [It Can't Rain Everyday \- 2022 Remixed & Remastered](https://open.spotify.com/track/66ohz8sYtRkVBftnS9mGPp) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:43 |
+| 32 | [Psalm 150](https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 0:55 |
+| 33 | [School Of Hard Knocks \- 2021 Remaster](https://open.spotify.com/track/3E0vgHkr4wJcsqI65vFJAx) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(Expanded Edition; 2021 Remaster\)](https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw) | 4:06 |
 | 34 | [Roots in Stereo](https://open.spotify.com/track/41WwJd8ZzllMdQQqp11e6D) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Testify](https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo) | 4:42 |
 | 35 | [Higher](https://open.spotify.com/track/6jlQBh3PNUWRUHsATIfQWU) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:22 |
 | 36 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |

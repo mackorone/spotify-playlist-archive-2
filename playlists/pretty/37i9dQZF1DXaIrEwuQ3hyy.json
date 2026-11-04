@@ -1,12 +1,12 @@
 {
   "description": "lass mal den herbst romantisieren",
-  "num_followers": 1108589,
+  "num_followers": 1108696,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxLC9l1eL1Ie6phTxpfAK/FpzF4",
+  "snapshot_id": "AAAAAPltFSpYl54se1FuUOfBqW1cvEIL",
   "tracks": [
     {
       "added_at": "2026-10-22 22:00:20",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Take Me There",
         "url": "https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 202626,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Summer Clothes",
-        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "Summer Clothes",
-      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Changes - EP",
         "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 184559,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
         "name": "Rehab - Spotify Singles",
         "url": "https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "light up",
-        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "light up",
-      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 220608,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "light up",
+        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "light up",
+      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "tonight",
-        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
-      },
-      "artists": [
-        {
-          "name": "BEACHPEOPLE",
-          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
-        }
-      ],
-      "duration_ms": 164477,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Lonely Island",
         "url": "https://open.spotify.com/album/0csQ5xD4LaQ7Zw2qOWis6L"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 173415,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
+      },
+      "artists": [
+        {
+          "name": "BEACHPEOPLE",
+          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
+        }
+      ],
+      "duration_ms": 164477,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "I Was Stone",
-        "url": "https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 226147,
-      "name": "I Was Stone",
-      "url": "https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 216093,
       "name": "Bau mich auseinander (Piano Version)",
       "url": "https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "I Was Stone",
+        "url": "https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 226147,
+      "name": "I Was Stone",
+      "url": "https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Iman",
         "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 240853,
       "name": "Iman",
       "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-10-22 22:00:20",

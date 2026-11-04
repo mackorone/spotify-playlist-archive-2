@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Brindavihari
 
-2,143 songs - 5 day 11 hr 31 min
+2,144 songs - 5 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,6 +803,7 @@
 | [Idu Nanna Ninna \(From "Parimala D'souza"\)](https://open.spotify.com/track/3jJe3ZPOATQcKAnEE7d4rb) | [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA), [Shruthi V S](https://open.spotify.com/artist/7lRx7W1RIn1gLI2mRFa3fL), [Christopher Jayson](https://open.spotify.com/artist/0ZCvDIG98QcJDdkwelvbpf), [Vinod Sheshadri](https://open.spotify.com/artist/06IMD4HFSIgrOj2sJiWbw8) | [Idu Nanna Ninna \(From "Parimala D'souza"\)](https://open.spotify.com/album/3XpsUaCo4ME920n549IHO5) | 4:02 | 2023-04-25 | 2023-05-05 |
 | [Idu Sneha \- From "Megha"](https://open.spotify.com/track/1gcWO6AYOmETN9CslJP85l) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU), [Joel Sakkari](https://open.spotify.com/artist/5czzvCflTYTFwFiF5Lj6WO) | [Idu Sneha \(From "Megha"\)](https://open.spotify.com/album/5VsYT5HkNllUZnOr2kH7xx) | 5:11 | 2024-11-20 | 2025-01-17 |
 | [Idu Yeno Ond Thara](https://open.spotify.com/track/6Yc4XeH6yX3AE5WELTgMq6) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Siddharth Belmannu](https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj) | [Orchestra, Mysuru! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd) | 4:56 | 2023-01-12 | 2023-03-04 |
+| [If You Come Today 2.0](https://open.spotify.com/track/4ntifzHQt5xGMpp7t5kHWC) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [SYNKFLO](https://open.spotify.com/artist/7nFL4swk0BVeURhBrhpF8O), [Dr\. Rajkumar](https://open.spotify.com/artist/335Vd3L0eWKgX1Fl409K7D), [G.K\. Venkatesh](https://open.spotify.com/artist/6zQglmdJBfzjStpsm0XxTV) | [If You Come Today 2.0](https://open.spotify.com/album/5mr1sAC2rj2KEh1CwkOj9a) | 2:53 | 2026-11-03 |  |
 | [Ilege Banda Maleye \(From "Murphy"\)](https://open.spotify.com/track/0FALclXBdKAAdMBAxtasQ8) | [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW), [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Ilege Banda Maleye \(From "Murphy"\)](https://open.spotify.com/album/2Q5t8p5xMgVR0w3SSTD3Sp) | 4:32 | 2024-07-25 | 2024-10-17 |
 | [Ili Sanjeyu Mankagide](https://open.spotify.com/track/2fMdEkql4Od2To6bhpRxYT) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Rahul Raj Music](https://open.spotify.com/artist/6pWY7RG00F76WyWWXshlbV) | [Feel My Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6c27PQGtfDHPDTolAbsJEZ) | 4:24 | 2023-05-18 | 2023-08-09 |
 | [In The Night \(From "FireFly"\)](https://open.spotify.com/track/4jDxAujQGl71asAoZvhANZ) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k) | [In The Night \(From "FireFly "\)](https://open.spotify.com/album/5dBNTNLG6DvBvCSu3IQkjH) | 3:59 | 2025-03-25 | 2025-06-07 |

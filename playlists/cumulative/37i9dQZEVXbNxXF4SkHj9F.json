@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -10470,7 +10470,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 181790,
       "name": "Drip",
       "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
@@ -18374,7 +18374,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 194533,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW"
@@ -20580,7 +20580,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 163000,
       "name": "Lemon Tang",
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
@@ -40523,6 +40523,24 @@
     },
     {
       "album": {
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "When I stop thinking",
+      "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
+    },
+    {
+      "album": {
         "name": "Resident Playbook, Pt. 9 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2gZ7EtpMiM5cEtQIHzOCLo"
       },
@@ -42946,7 +42964,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 207826,
       "name": "\ubc8c\uc368 \uc77c\ub144",
       "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"

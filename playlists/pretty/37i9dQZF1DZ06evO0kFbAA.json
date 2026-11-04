@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 61628,
+  "num_followers": 61683,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAADLdQpQl+MC5dtPxaqN1UH+",
+  "snapshot_id": "auaBAAAAAAAnGr+SVtpNvOyDI7jTlW57",
   "tracks": [
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 179160,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
+      "duration_ms": 220493,
+      "name": "E Luxo So",
+      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
     },
     {
       "added_at": null,
@@ -651,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Stan Getz Plays (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 220493,
-      "name": "E Luxo So",
-      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
+      "duration_ms": 179160,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/6cxMl748yPkmJk1WNDaNgw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 347846,
-      "name": "Manha De Carnaval (Morning of Carnaval)",
-      "url": "https://open.spotify.com/track/54Qk897P1MR7fPh1hYzCKl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212320,
       "name": "Samba Dees Days",
       "url": "https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/6cxMl748yPkmJk1WNDaNgw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 347846,
+      "name": "Manha De Carnaval (Morning of Carnaval)",
+      "url": "https://open.spotify.com/track/54Qk897P1MR7fPh1hYzCKl"
     },
     {
       "added_at": null,

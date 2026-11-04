@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Thoom from Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,534 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,414 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 12 | [HOT](https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(English ver.\) \(feat\. JADE\)](https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT) | 2:23 |
 | 13 | [Eden](https://open.spotify.com/track/5KyfPP2D1K9e1pXAXQUlao) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Desert of Eden](https://open.spotify.com/album/4vyN0W5tpT0qj1By7oHzXN) | 4:23 |
 | 14 | [Right Back!](https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [Right Back!](https://open.spotify.com/album/4Dr66VzqLpQ1l6eg8ZyJgW) | 3:18 |
-| 15 | [Da Me](https://open.spotify.com/track/4i3eWwG09zTzJy8lItFsXB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:25 |
-| 16 | [Jet Lag](https://open.spotify.com/track/60PVPWT6JRNlGiOBD2t4j8) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Jet Lag](https://open.spotify.com/album/4tvHHcGKxKvU4Gpb7kHS9S) | 3:01 |
+| 15 | [Jet Lag](https://open.spotify.com/track/60PVPWT6JRNlGiOBD2t4j8) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Jet Lag](https://open.spotify.com/album/4tvHHcGKxKvU4Gpb7kHS9S) | 3:01 |
+| 16 | [Da Me](https://open.spotify.com/track/4i3eWwG09zTzJy8lItFsXB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:25 |
 | 17 | [Tiempos Dorados](https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tiempos Dorados](https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA) | 3:13 |
 | 18 | [Icnocuicatl](https://open.spotify.com/track/5ZqKUtJ6NADj7Y82skZgb0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tree Of Life](https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU) | 3:15 |
 | 19 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 43 | [Amor Azar](https://open.spotify.com/track/0utCRix8bmtLLhMSItgE72) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda Eterna](https://open.spotify.com/album/60upWGNYp7K9cllRlT8UJT) | 2:42 |
 | 44 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
 | 45 | [Te Mereces Un Amor](https://open.spotify.com/track/6gaIFnYe0umznzKhhci4A7) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:46 |
-| 46 | [好鍾意！](https://open.spotify.com/track/7EiOKCZaPnIyQuvD7T84T1) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [好鍾意！](https://open.spotify.com/album/7LsMpEveA8Ak8TazJdUmIs) | 3:10 |
-| 47 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
+| 46 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
+| 47 | [好鍾意！](https://open.spotify.com/track/7EiOKCZaPnIyQuvD7T84T1) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [好鍾意！](https://open.spotify.com/album/7LsMpEveA8Ak8TazJdUmIs) | 3:10 |
 | 48 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
 | 49 | [Sonsuza Kadar](https://open.spotify.com/track/7hpawzlBGT3YFnJgzSmOtO) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Sonsuza Kadar](https://open.spotify.com/album/3ViKM7SloMTlkyrE3cNHZi) | 2:40 |
 | 50 | [Ring\-A\-Ring O' Roses](https://open.spotify.com/track/5aJ5pbsbHRgFYAhLS82bzM) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 4:28 |
 
-Snapshot ID: `AAAAAOlm1yNpGyGNNVtnqk6Eml3tM3Yl`
+Snapshot ID: `AAAAALt5VVd+ODmHYU/HOkkZi9aMeuMM`

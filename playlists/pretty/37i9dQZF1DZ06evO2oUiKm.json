@@ -1,6 +1,6 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11651,
+  "num_followers": 11654,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 273132,
+      "name": "More Than Twice",
+      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 273132,
-      "name": "More Than Twice",
-      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+        "name": "Night Blooms",
+        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
       },
       "artists": [
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
         },
         {
-          "name": "Color Purple New Broadway Cast",
-          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 234731,
-      "name": "The Color Purple (Reprise)",
-      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Blooms",
-        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
       "artists": [
         {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Color Purple New Broadway Cast",
+          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
         }
       ],
-      "duration_ms": 190026,
-      "name": "If I Only Had A Brain",
-      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
+      "duration_ms": 234731,
+      "name": "The Color Purple (Reprise)",
+      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
     },
     {
       "added_at": null,

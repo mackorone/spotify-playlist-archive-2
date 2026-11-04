@@ -1,12 +1,12 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 179631,
+  "num_followers": 179666,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALbNTJs92QlvSNDLGQpd/YnSgEh2",
+  "snapshot_id": "AAAAAMPO/mFxDrVZnjQrrk19be4PsmdR",
   "tracks": [
     {
       "added_at": "2026-06-08 18:17:51",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Soy HUMBE",
         "url": "https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 178327,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+      "duration_ms": 346800,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 213613,
-      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
-      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 219893,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
+      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Por Amor A Ti",
-        "url": "https://open.spotify.com/album/1O8ZCkuCwPpvTAzhdNOUQy"
-      },
-      "artists": [
-        {
-          "name": "Arnulfo Jr. \"Rey Y As\"",
-          "url": "https://open.spotify.com/artist/02nFFG9OM3C6J5jSSa5zdg"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Soy De La Calle",
-      "url": "https://open.spotify.com/track/4ANwRC8rQJHkaciHKYfUzQ"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Libres Y Locos",
         "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187493,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Por Amor A Ti",
+        "url": "https://open.spotify.com/album/1O8ZCkuCwPpvTAzhdNOUQy"
+      },
+      "artists": [
+        {
+          "name": "Arnulfo Jr. \"Rey Y As\"",
+          "url": "https://open.spotify.com/artist/02nFFG9OM3C6J5jSSa5zdg"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Soy De La Calle",
+      "url": "https://open.spotify.com/track/4ANwRC8rQJHkaciHKYfUzQ"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Un Millon de Rosas",
-      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Rinconcito En El Cielo",
         "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214706,
       "name": "Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Un Millon de Rosas",
+      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "El regreso de los reyes",
-        "url": "https://open.spotify.com/album/21pqkG5DDm78wlxhXJkZ9Q"
-      },
-      "artists": [
-        {
-          "name": "Cruz Martinez presenta Los Super Reyes",
-          "url": "https://open.spotify.com/artist/1mEYmsbKTfxfLbyyjvgEId"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/6aD9eiMPS1zn9rmvIMZbJq"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Y Qu\u00e9 M\u00e1s Da",
         "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 149506,
       "name": "Amor Chiquito",
       "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "El regreso de los reyes",
+        "url": "https://open.spotify.com/album/21pqkG5DDm78wlxhXJkZ9Q"
+      },
+      "artists": [
+        {
+          "name": "Cruz Martinez presenta Los Super Reyes",
+          "url": "https://open.spotify.com/artist/1mEYmsbKTfxfLbyyjvgEId"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/6aD9eiMPS1zn9rmvIMZbJq"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cumbia Del Lazo",
-        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "La Cumbia Del Lazo",
-      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Cumbia Embajadora",
         "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 218337,
       "name": "Cumbia de Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Cumbia Del Lazo",
+        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "La Cumbia Del Lazo",
+      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 201538,
-      "name": "Cumbia Lunera",
-      "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 165493,
       "name": "Cuando Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Cumbia Lunera",
+      "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/50uNNuDhDgqELZa3mPkR9y"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Locos",
-          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Coqueteando",
-      "url": "https://open.spotify.com/track/4Yhw1FNM4yLjsm2BsjOhKc"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "El M\u00fasico Chiflado",
         "url": "https://open.spotify.com/album/4SXJ0wQipresGFmEsQDy0v"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 193266,
       "name": "El M\u00fasico Chiflado",
       "url": "https://open.spotify.com/track/0taP3xZzS7do4KjaGx1kRG"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/50uNNuDhDgqELZa3mPkR9y"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Locos",
+          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Coqueteando",
+      "url": "https://open.spotify.com/track/4Yhw1FNM4yLjsm2BsjOhKc"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Sopa De Frijoles",
-        "url": "https://open.spotify.com/album/0qH3KbWwf3LZHcBLr3xvo9"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/0NyzwUrGvbJAXN4772B0de"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 230600,
       "name": "Hoy Vi A Santa Claus Besar A Mama",
       "url": "https://open.spotify.com/track/20xpEy5KeTKAvaDU3csbTD"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Sopa De Frijoles",
+        "url": "https://open.spotify.com/album/0qH3KbWwf3LZHcBLr3xvo9"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/0NyzwUrGvbJAXN4772B0de"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 192809,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/6kk5NriWRn5my0USWHifUS"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 138640,
       "name": "Recordando Monterrey",
       "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 192809,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/6kk5NriWRn5my0USWHifUS"
     },
     {
       "added_at": "2026-06-08 18:17:51",

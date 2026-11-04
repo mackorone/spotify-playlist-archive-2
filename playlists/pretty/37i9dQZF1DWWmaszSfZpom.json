@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALG3iSymNYAmgGR/NTDcIZMWCsya",
+  "snapshot_id": "AAAAAL78tDbgHpEfWHl9SxZZdSosgLtq",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
       },
       "artists": [
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
+      "duration_ms": 267795,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1875,18 +1871,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
       },
       "artists": [
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 267795,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
     },
     {
       "added_at": "2023-06-26 14:06:50",

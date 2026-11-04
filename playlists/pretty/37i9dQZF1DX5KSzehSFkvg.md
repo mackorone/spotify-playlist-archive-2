@@ -4,38 +4,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,928 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,003 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LBASATA](https://open.spotify.com/track/34CI2kHw8rt0oQUIc5lfWo) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [LBASATA](https://open.spotify.com/album/1lvbzl0U8pG41tMEk09asg) | 2:35 |
 | 2 | [Achkhellah Yetfakarni](https://open.spotify.com/track/3H54lEEiew66nSG4NyatEF) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Ach khellah Yetfakarni](https://open.spotify.com/album/3783OvbEPlHQVwToBsrirf) | 3:22 |
-| 3 | [ABERDI](https://open.spotify.com/track/5VPfBBt3YgeOyZHcY9kCDv) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [ABERDI](https://open.spotify.com/album/0gtXA6YpdiX9OAAXQzF2YR) | 2:27 |
-| 4 | [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 |
-| 5 | [Chlahbiya](https://open.spotify.com/track/30U031LnjvezZQZu9eSexR) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Chlahbiya](https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S) | 3:14 |
-| 6 | [Zin KayQatar](https://open.spotify.com/track/52km20Zds9W9jWvBAD2fuu) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Zin KayQatar](https://open.spotify.com/album/7saUMM1oTNSd6mnfwU23FU) | 3:26 |
-| 7 | [Cheraniya](https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Cheraniya](https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk) | 2:50 |
-| 8 | [Allo Wesh](https://open.spotify.com/track/7lIGrwm9EozgjjGDyXYnov) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Allo Wesh](https://open.spotify.com/album/5i0vpFrP36Fmvp3S8uUFhf) | 2:53 |
-| 9 | [TITIZ A KHAY](https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [TITIZ A KHAY](https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb) | 3:09 |
-| 10 | [KOUNI LIA](https://open.spotify.com/track/6kqkr4273Pbwg0RDgFufUg) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [KOUNI LIA](https://open.spotify.com/album/4TpWITgbttzXa4Q4ytdsJy) | 2:47 |
-| 11 | [Houwa 2](https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa 2](https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan) | 2:10 |
-| 12 | [Ha Rai](https://open.spotify.com/track/1zdZcvDuSOZQkdrtos7Bcd) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Rai](https://open.spotify.com/album/3jo3vY4m7IaOEVF3OPWpSL) | 2:45 |
-| 13 | [LIAM](https://open.spotify.com/track/21aSPwD9zwJly334s2qUJM) | [JUBA](https://open.spotify.com/artist/4OkArG0eh8yAOwKPSwTIad) | [LIAM](https://open.spotify.com/album/2BNxuNW4GTVenflIb3TGPz) | 3:07 |
-| 14 | [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 |
-| 15 | [Majnoun](https://open.spotify.com/track/1bwxIPCP0sX7p3Svj3ZCak) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Majnoun](https://open.spotify.com/album/0GS1y6yGaY2OkoGdKSC0hq) | 2:48 |
-| 16 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 17 | [Les Sentiments](https://open.spotify.com/track/71KVvbi4QzahY168VViofQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Les Sentiments](https://open.spotify.com/album/2BlFh5pZ4VAHkZG83d7oZC) | 2:57 |
-| 18 | [Ça Y Est](https://open.spotify.com/track/2qKRy47q3fucOEUDnyloPY) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Ça Y Est](https://open.spotify.com/album/1zKsSi1Sxf2hnrPhVyzUCN) | 2:51 |
-| 19 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 |
-| 20 | [Ghir Ana](https://open.spotify.com/track/5pPBbSleU1nnknHrGqADep) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ghir Ana](https://open.spotify.com/album/5BiUm5dEENGHri4Wu0XfYj) | 2:51 |
-| 21 | [La La \- لا لا](https://open.spotify.com/track/10j44BWMnYtr2JnZcxJu7v) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [La La \- لا لا](https://open.spotify.com/album/33TQa6td5uJtBHVK1hsGzg) | 2:36 |
-| 22 | [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 |
-| 23 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
-| 24 | [Jatni S3iba](https://open.spotify.com/track/5UL5GQIlwzmmcXQJlDUDcL) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Jatni S3iba](https://open.spotify.com/album/1r0FGLUWSda2QHqYdhc5Od) | 3:01 |
-| 25 | [Mimti](https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia) | 3:18 |
-| 26 | [Ya Lmossiba](https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Ya Lmossiba](https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd) | 3:04 |
-| 27 | [Hassassiya](https://open.spotify.com/track/5w3WUacjjy4TgQI1ffGXaB) | [Salim Cravata ](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Hassassiya](https://open.spotify.com/album/3z6Qdj8k7H9OWYhuKhgcHP) | 3:00 |
-| 28 | [B9it Tabe3 Galbi](https://open.spotify.com/track/4Rkt46PBhT2fRQ1KnY2tlH) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [B9it Tabe3 Galbi](https://open.spotify.com/album/57SfJVPDJsDvBBJKSe3EEK) | 3:29 |
+| 3 | [C'est Pas Facile](https://open.spotify.com/track/5UtkkA4Rw0CWHeyqFn0Bzq) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [C'est Pas Facile](https://open.spotify.com/album/1NOlrWyYjYNKK2H42R8DsW) | 3:27 |
+| 4 | [ABERDI](https://open.spotify.com/track/5VPfBBt3YgeOyZHcY9kCDv) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [ABERDI](https://open.spotify.com/album/0gtXA6YpdiX9OAAXQzF2YR) | 2:27 |
+| 5 | [7OLM KBIR](https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [7OLM KBIR](https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF) | 3:37 |
+| 6 | [Chlahbiya](https://open.spotify.com/track/30U031LnjvezZQZu9eSexR) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Chlahbiya](https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S) | 3:14 |
+| 7 | [Zin KayQatar](https://open.spotify.com/track/52km20Zds9W9jWvBAD2fuu) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Zin KayQatar](https://open.spotify.com/album/7saUMM1oTNSd6mnfwU23FU) | 3:26 |
+| 8 | [Cheraniya](https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Cheraniya](https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk) | 2:50 |
+| 9 | [Allo Wesh](https://open.spotify.com/track/7lIGrwm9EozgjjGDyXYnov) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Allo Wesh](https://open.spotify.com/album/5i0vpFrP36Fmvp3S8uUFhf) | 2:53 |
+| 10 | [TITIZ A KHAY](https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [TITIZ A KHAY](https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb) | 3:09 |
+| 11 | [KOUNI LIA](https://open.spotify.com/track/6kqkr4273Pbwg0RDgFufUg) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [KOUNI LIA](https://open.spotify.com/album/4TpWITgbttzXa4Q4ytdsJy) | 2:47 |
+| 12 | [Houwa 2](https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa 2](https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan) | 2:10 |
+| 13 | [Ha Rai](https://open.spotify.com/track/1zdZcvDuSOZQkdrtos7Bcd) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Rai](https://open.spotify.com/album/3jo3vY4m7IaOEVF3OPWpSL) | 2:45 |
+| 14 | [LIAM](https://open.spotify.com/track/21aSPwD9zwJly334s2qUJM) | [JUBA](https://open.spotify.com/artist/4OkArG0eh8yAOwKPSwTIad) | [LIAM](https://open.spotify.com/album/2BNxuNW4GTVenflIb3TGPz) | 3:07 |
+| 15 | [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 |
+| 16 | [Majnoun](https://open.spotify.com/track/1bwxIPCP0sX7p3Svj3ZCak) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Majnoun](https://open.spotify.com/album/0GS1y6yGaY2OkoGdKSC0hq) | 2:48 |
+| 17 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
+| 18 | [Les Sentiments](https://open.spotify.com/track/71KVvbi4QzahY168VViofQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Les Sentiments](https://open.spotify.com/album/2BlFh5pZ4VAHkZG83d7oZC) | 2:57 |
+| 19 | [Ça Y Est](https://open.spotify.com/track/2qKRy47q3fucOEUDnyloPY) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Ça Y Est](https://open.spotify.com/album/1zKsSi1Sxf2hnrPhVyzUCN) | 2:51 |
+| 20 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 |
+| 21 | [Ghir Ana](https://open.spotify.com/track/5pPBbSleU1nnknHrGqADep) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ghir Ana](https://open.spotify.com/album/5BiUm5dEENGHri4Wu0XfYj) | 2:51 |
+| 22 | [La La \- لا لا](https://open.spotify.com/track/10j44BWMnYtr2JnZcxJu7v) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [La La \- لا لا](https://open.spotify.com/album/33TQa6td5uJtBHVK1hsGzg) | 2:36 |
+| 23 | [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 |
+| 24 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
+| 25 | [Jatni S3iba](https://open.spotify.com/track/5UL5GQIlwzmmcXQJlDUDcL) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Jatni S3iba](https://open.spotify.com/album/1r0FGLUWSda2QHqYdhc5Od) | 3:01 |
+| 26 | [Mimti](https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia) | 3:18 |
+| 27 | [Ya Lmossiba](https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Ya Lmossiba](https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd) | 3:04 |
+| 28 | [Hassassiya](https://open.spotify.com/track/5w3WUacjjy4TgQI1ffGXaB) | [Salim Cravata ](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Hassassiya](https://open.spotify.com/album/3z6Qdj8k7H9OWYhuKhgcHP) | 3:00 |
 | 29 | [Ziyech](https://open.spotify.com/track/5DXSYFR5cMESPBM9W2c18r) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [AURA](https://open.spotify.com/album/0BA2ApY3nX3QIpzcCE2aYb) | 3:27 |
 | 30 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 |
 | 31 | [Jilali](https://open.spotify.com/track/3ADao3EAzM0qRS1TgAIB7J) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Jilali](https://open.spotify.com/album/2JcXqUtwwpGHolWtlyO4zC) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 |
 | 50 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 
-Snapshot ID: `AAAAANzHojxjzVZjSuniyIzAysXcpGMb`
+Snapshot ID: `AAAAAHPqeSCOWWYXIs4943jHEmByJM8O`

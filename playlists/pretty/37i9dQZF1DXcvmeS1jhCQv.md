@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Bleech 9:3
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,142 likes - 103 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,158 likes - 103 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 102 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
 | 103 | [Eimear](https://open.spotify.com/track/2zyOvwdn3gIZaZQpajXxPa) | [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Eimear](https://open.spotify.com/album/0rGFx1cWBzfGdzIqGbmF7M) | 1:58 |
 
-Snapshot ID: `AAAAAITW/GitKkcDbZj9Y3x5kI623x9O`
+Snapshot ID: `AAAAAFukMJBYd0M3KoIBDocfz5G3j+AU`

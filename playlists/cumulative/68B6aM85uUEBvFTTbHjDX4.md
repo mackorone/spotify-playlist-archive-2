@@ -4,7 +4,7 @@
 
 > 
 
-177 songs - 14 hr 21 min
+178 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Lately \- Enamour Remix](https://open.spotify.com/track/1epW8YONDcgYdExSr1Ha6k) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:22 | 2025-10-03 |  |
 | [LEGACY](https://open.spotify.com/track/0ZY1TYRRPpEAu1KUuxnaKM) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [LEGACY](https://open.spotify.com/album/5o4rfjlvkETwHpsMpaAaF3) | 3:25 | 2025-09-08 |  |
 | [Let the Bass Be Louder \- T78 Remix](https://open.spotify.com/track/05vVD36TJXTNFhXFObsSpP) | [Bass Boy](https://open.spotify.com/artist/4HGuFCXk1BeLPO5lJwifBc), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Let the Bass Be Louder \(T78 Remix\)](https://open.spotify.com/album/6zC7R2C7ywktI0KxGxbVk9) | 4:38 | 2023-08-28 |  |
+| [Lifetime](https://open.spotify.com/track/5GxetRorkvVDqah2jGNjwT) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ), [Mauro Somm](https://open.spotify.com/artist/3jGc6igIVzjC0ElXKbsfHd) | [Go Wild](https://open.spotify.com/album/0UYwmKC16Zl74hASov2dk6) | 3:50 | 2026-11-03 |  |
 | [Lightbringers](https://open.spotify.com/track/4vlYC3s6Ps8fA8hLGcaiNG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:10 | 2023-07-03 |  |
 | [Like This](https://open.spotify.com/track/7hCkaxvq1PSl7YJ4JR57L0) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Like This](https://open.spotify.com/album/2sTccJFP953A2lMVNuIlMI) | 4:22 | 2025-01-15 |  |
 | [Line of Fire \(feat\. Karin Park\) \- 9 Squares Remix](https://open.spotify.com/track/2zGE07x0rxHqr9ZWvaYdk8) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Line of Fire \[feat\. Karin Park\]](https://open.spotify.com/album/2NFrNJFdOKz68IyVDA1tUy) | 8:17 | 2018-08-19 |  |

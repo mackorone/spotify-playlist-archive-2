@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Mita Gami
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,250 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,372 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Sun My Sweet Sun \- Love Version](https://open.spotify.com/track/18tRRaLHF6Y0b1yb6rJNET) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Sun My Sweet Sun \(Love Version\)](https://open.spotify.com/album/5Y7gnEmaXsOH3mDUZCkyt0) | 5:31 |
 | 100 | [Oldskool Flavor](https://open.spotify.com/track/1RaDR9M8gan0KxZOSl2i8Y) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3) | [Oldskool Flavor](https://open.spotify.com/album/0djGGJfuvFT7ytIj9acRYD) | 3:32 |
 
-Snapshot ID: `AAAAAGE0ZlADdMVycA/x3stu/QVYW/qw`
+Snapshot ID: `AAAAAGzKi9eQDsP9lj4Sxqrw2OkRLdYd`

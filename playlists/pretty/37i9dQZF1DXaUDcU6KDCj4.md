@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,555 likes - 190 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,545 likes - 190 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 189 | [Popfly](https://open.spotify.com/track/59DBX7yXZx5dEAu0diFgna) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Popfly](https://open.spotify.com/album/2B72e5iSG2T6jPfBm7Fqlf) | 3:22 |
 | 190 | [I Don't Think About You At All](https://open.spotify.com/track/3OVHIXxMgDnWO3mimKikH7) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [I Don’t Think About You At All](https://open.spotify.com/album/2PyzkdpQyjz7JKSuhxzuhP) | 3:05 |
 
-Snapshot ID: `AAAAAF6yd/hG/XR3zfDjTaObWYyo+5aZ`
+Snapshot ID: `AAAAAD3JmRePmLdBS+yW8cYjCwpbUZqD`

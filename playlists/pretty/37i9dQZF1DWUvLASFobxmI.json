@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Equipo HC en portada.",
-  "num_followers": 532371,
+  "num_followers": 532373,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/P1PiJj0EEhddf3mRr1dnnSqyR",
+  "snapshot_id": "AAAAAJImPAUihXtKfniUf7+WUwBw2je7",
   "tracks": [
     {
       "added_at": "2026-10-16 05:41:28",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "Las Filtradas",
+        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 147799,
+      "name": "El Rubio",
+      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Tras del Dolor",
         "url": "https://open.spotify.com/album/3lITpzSz4nIoLvn5oK0wLQ"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Las Filtradas",
-        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 147799,
-      "name": "El Rubio",
-      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Noche Perfecta",
         "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "Y C\u00f3mo Es El",
-        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exclusivo",
-          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
-        }
-      ],
-      "duration_ms": 269072,
-      "name": "Y C\u00f3mo Es El",
-      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -807,6 +791,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "Y C\u00f3mo Es El",
+        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        }
+      ],
+      "duration_ms": 269072,
+      "name": "Y C\u00f3mo Es El",
+      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Terco Y Que",
         "url": "https://open.spotify.com/album/1u3dbpuXQkWP4p4CNUjqVV"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Qu\u00e9 Mal",
-        "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
-        }
-      ],
-      "duration_ms": 175105,
-      "name": "Qu\u00e9 Mal",
-      "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "La Meta Es Ser",
         "url": "https://open.spotify.com/album/01BRbJbk8itR8nCetRX16p"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 170454,
       "name": "La Meta Es Ser",
       "url": "https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Qu\u00e9 Mal",
+        "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
+        }
+      ],
+      "duration_ms": 175105,
+      "name": "Qu\u00e9 Mal",
+      "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Pluma Fina",
-        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 172705,
-      "name": "Pluma Fina",
-      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Faltaba Fe",
         "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 169386,
       "name": "Faltaba Fe",
       "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Pluma Fina",
+        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 172705,
+      "name": "Pluma Fina",
+      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 202860,
-      "name": "Explicaci\u00f3n real",
-      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "ASUNTOS PENDIENTES",
         "url": "https://open.spotify.com/album/2qVp2WXlNuG4bqyrRkfCb6"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Loco Jodido",
         "url": "https://open.spotify.com/album/6CyVv4Gu9Y3ZXrpS6ldfD8"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "The Magic Man",
-        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 218235,
-      "name": "Mi Bonita",
-      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Arreando La Mula",
         "url": "https://open.spotify.com/album/2x26HGEeH9nmBf7LBKxYJb"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 142805,
       "name": "Arreando La Mula",
       "url": "https://open.spotify.com/track/2BN0gS4aqT6yFywU0kezjj"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "The Magic Man",
+        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 218235,
+      "name": "Mi Bonita",
+      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "El Plan Perfecto",
-        "url": "https://open.spotify.com/album/2gl7Zc325H3DISVMSj9R39"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 199541,
-      "name": "El Plan Perfecto",
-      "url": "https://open.spotify.com/track/4FpDTTWtPoLy7OpoWE128H"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "La Troca Del Mo\u00f1o Negro",
         "url": "https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT"
       },
@@ -1539,18 +1523,34 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
+        "name": "El Plan Perfecto",
+        "url": "https://open.spotify.com/album/2gl7Zc325H3DISVMSj9R39"
       },
       "artists": [
         {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 182593,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad"
+      "duration_ms": 199541,
+      "name": "El Plan Perfecto",
+      "url": "https://open.spotify.com/track/4FpDTTWtPoLy7OpoWE128H"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Puras Cantineras (Live Session)",
+        "url": "https://open.spotify.com/album/47YwNAMa2sUBnLOXcnqcsO"
+      },
+      "artists": [
+        {
+          "name": "Akilatados",
+          "url": "https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Boleros de Oro",
+      "url": "https://open.spotify.com/track/4zqMMU50TAlOAm258qggWX"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Puras Cantineras (Live Session)",
-        "url": "https://open.spotify.com/album/47YwNAMa2sUBnLOXcnqcsO"
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
       },
       "artists": [
         {
-          "name": "Akilatados",
-          "url": "https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX"
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
         }
       ],
-      "duration_ms": 392000,
-      "name": "Boleros de Oro",
-      "url": "https://open.spotify.com/track/4zqMMU50TAlOAm258qggWX"
+      "duration_ms": 182593,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad"
     },
     {
       "added_at": "2026-10-16 05:41:28",

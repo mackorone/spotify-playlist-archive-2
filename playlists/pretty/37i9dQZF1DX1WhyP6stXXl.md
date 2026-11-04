@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,636 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,609 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 88 | [Big Time](https://open.spotify.com/track/1SgkTby13xNDsocLFx49lv) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [Big Time](https://open.spotify.com/album/6jSL3pfg7igeILG1yjWJt6) | 2:41 |
 | 89 | [thin skin](https://open.spotify.com/track/6p2vfvIPA5nix9JteA1GtO) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [thin skin](https://open.spotify.com/album/7u8MGAX3IOnvkybqKrZJC5) | 2:43 |
 
-Snapshot ID: `AAAAAMRtqAdTwYgEl47ZQPsd/zrdO+xk`
+Snapshot ID: `AAAAALHLwWjz+io+GtgzqGMPK0i7eOx8`

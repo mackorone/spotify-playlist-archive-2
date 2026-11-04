@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88633,
+  "num_followers": 88630,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEicLCjcSpGAckbkTL6AQhPj6eBO",
+  "snapshot_id": "AAAAAKgIO1kXPxEJOUh7bItbBh3ZpEDf",
   "tracks": [
     {
       "added_at": "2026-02-19 15:16:11",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Better Days (Japanese Edition)",
-        "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Every Second - Japanese Version",
-      "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "HELP EVER HURT COVER",
         "url": "https://open.spotify.com/album/0mBGh0XeyVwHbh9aceF2Sp"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 218493,
       "name": "Close to you",
       "url": "https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Better Days (Japanese Edition)",
+        "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Every Second - Japanese Version",
+      "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "back to you (you're the reason)",
@@ -759,6 +743,22 @@
       "duration_ms": 240392,
       "name": "back to you (you're the reason)",
       "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "covent garden",
-        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "covent garden",
-      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Turntable in the Lift",
         "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "TIME SLIP",
-        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
+        "name": "covent garden",
+        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
       },
       "artists": [
         {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
         }
       ],
-      "duration_ms": 268060,
-      "name": "PERFECT",
-      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+      "duration_ms": 181000,
+      "name": "covent garden",
+      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1143,6 +1127,22 @@
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "TIME SLIP",
+        "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 268060,
+      "name": "PERFECT",
+      "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1557,6 +1557,22 @@
       "url": "https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "pineapple bun",
+        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "pineapple bun",
+      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
+    },
+    {
       "added_at": "2026-05-21 15:00:24",
       "album": {
         "name": "la misma piedra",
@@ -1575,22 +1591,6 @@
       "duration_ms": 216996,
       "name": "la misma piedra",
       "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "pineapple bun",
-        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
-      },
-      "artists": [
-        {
-          "name": "Dessy",
-          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "pineapple bun",
-      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
       "added_at": "2026-02-19 15:16:11",

@@ -4,12 +4,13 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Foto: Motherflowers
 
-235 songs - 13 hr 38 min
+236 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 0:00 | 2021-12-17 | 2025-08-13 |
 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 | 2021-12-17 | 2023-09-23 |
+| [8 preguntas](https://open.spotify.com/track/6fRl2W57WGHbg5xUbJOy7G) | [Dani Barranco](https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ESO NO ES DE ROCKSTAR](https://open.spotify.com/album/2vGayndoqRxeKfOyzL4obx) | 2:56 | 2026-11-03 |  |
 | [A Usted](https://open.spotify.com/track/4PX3v1a24ji1lKcK1XLyOJ) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/7FFD7wBmJN2GA2GiY3Hmfx) | 2:59 | 2021-12-17 |  |
 | [A Usted](https://open.spotify.com/track/5LSC9zM0ppYJJjHwvVvFef) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/5MaoWlg2pDE2YD4meTjq0n) | 2:59 | 2023-11-21 | 2024-04-19 |
 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 | 2021-12-17 |  |
@@ -84,7 +85,7 @@
 | [El Farolito \- Live](https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx) | 3:19 | 2022-09-30 | 2024-04-19 |
 | [EL FAVORITO DE MAMI](https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:35 | 2024-11-01 | 2025-05-24 |
 | [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 | 2025-02-13 |  |
-| [El Pana Deiby](https://open.spotify.com/track/0p5vebYEqSahFULjaYB8LY) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [El Pana Deiby](https://open.spotify.com/album/6ugV5SZ0KALBO8BAt1vYXr) | 4:11 | 2026-05-01 |  |
+| [El Pana Deiby](https://open.spotify.com/track/0p5vebYEqSahFULjaYB8LY) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [El Pana Deiby](https://open.spotify.com/album/6ugV5SZ0KALBO8BAt1vYXr) | 4:11 | 2026-05-01 | 2026-11-04 |
 | [El Peor](https://open.spotify.com/track/6ClrUcM3YpKlJhihx94Oel) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [El Peor](https://open.spotify.com/album/6Mvh9jth820sgXAxpzrUFT) | 3:12 | 2021-12-17 | 2024-06-15 |
 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 | 2021-12-17 | 2022-05-20 |
 | [El Vestido Rojo](https://open.spotify.com/track/1v6q6j9tCZYrg4slscHO8t) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Más](https://open.spotify.com/album/7sb67M38RH5TgKbVRI4aAF) | 3:55 | 2023-03-03 | 2023-04-20 |

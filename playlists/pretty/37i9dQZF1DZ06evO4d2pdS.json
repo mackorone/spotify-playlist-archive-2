@@ -1,6 +1,6 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 4058,
+  "num_followers": 4059,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get It Together",
-        "url": "https://open.spotify.com/album/45f4FqlTCBQx6Jk4TwAVm3"
-      },
-      "artists": [
-        {
-          "name": "1TakeTheGreat",
-          "url": "https://open.spotify.com/artist/7EkLbjaNuDQFmB5WAyzSWN"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 200150,
-      "name": "Get It Together",
-      "url": "https://open.spotify.com/track/51KzcZ351FYyu7x5MQzOZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTION PACK",
         "url": "https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 201656,
       "name": "I'M KNOWIN' (feat. KenTheMan)",
       "url": "https://open.spotify.com/track/3f72wceJz35zVhehff2reA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get It Together",
+        "url": "https://open.spotify.com/album/45f4FqlTCBQx6Jk4TwAVm3"
+      },
+      "artists": [
+        {
+          "name": "1TakeTheGreat",
+          "url": "https://open.spotify.com/artist/7EkLbjaNuDQFmB5WAyzSWN"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 200150,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/51KzcZ351FYyu7x5MQzOZL"
     },
     {
       "added_at": null,
@@ -496,13 +496,13 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Maneuver (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
+      "duration_ms": 166730,
+      "name": "Brand New (feat. Layton Green)",
+      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
     },
     {
       "added_at": null,
@@ -572,13 +572,13 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         },
         {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 166730,
-      "name": "Brand New (feat. Layton Green)",
-      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
+      "duration_ms": 201600,
+      "name": "Maneuver (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
     },
     {
       "added_at": null,
@@ -599,18 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "WANT EM HOOD",
-        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
       },
       "artists": [
         {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
         }
       ],
-      "duration_ms": 165517,
-      "name": "WANT EM HOOD",
-      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+      "duration_ms": 217731,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
     },
     {
       "added_at": null,
@@ -647,26 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
+        "name": "WANT EM HOOD",
+        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
       },
       "artists": [
         {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        },
-        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
         }
       ],
-      "duration_ms": 217731,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
+      "duration_ms": 165517,
+      "name": "WANT EM HOOD",
+      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDECISIVE",
-        "url": "https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "INDECISIVE",
-      "url": "https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ETHER",
         "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 194676,
       "name": "WATER (with Lakeyah)",
       "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INDECISIVE",
+        "url": "https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "duration_ms": 176744,
+      "name": "INDECISIVE",
+      "url": "https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 116288,
+      "name": "Record Straight",
+      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Ratchet",
         "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
       },
@@ -799,42 +815,6 @@
       "duration_ms": 141030,
       "name": "Get Ratchet",
       "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 116288,
-      "name": "Record Straight",
-      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "310degrees",
-        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 124903,
-      "name": "look easy",
-      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 208163,
       "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
       "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "310degrees",
+        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 124903,
+      "name": "look easy",
+      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
     },
     {
       "added_at": null,

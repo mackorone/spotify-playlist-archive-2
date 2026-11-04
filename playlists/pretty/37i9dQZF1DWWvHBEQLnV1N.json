@@ -1,12 +1,12 @@
 {
   "description": "Festive season staples and new holiday favourites \ud83c\udf81",
-  "num_followers": 1095755,
+  "num_followers": 1095766,
   "original_name": "Christmas is Coming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiAjBG80iDWNvZttWDiKLp4L3uG",
+  "snapshot_id": "AAAAANHc3NrUu08ksWJzQRtk7ZfJ9/3i",
   "tracks": [
     {
       "added_at": "2025-12-04 05:43:16",
@@ -287,26 +287,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -479,18 +479,18 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 240213,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+      "duration_ms": 240213,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "Silent Night - 1999 Remaster",
-      "url": "https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "Cozy Little Christmas",
         "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 182520,
       "name": "Cozy Little Christmas",
       "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "Silent Night - 1999 Remaster",
+      "url": "https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\" Soundtrack)",
-      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "Holiday Road - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 125196,
       "name": "Holiday Road - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 232213,
       "name": "Shake Up Christmas",
       "url": "https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
     },
     {
       "added_at": "2025-12-04 05:43:16",

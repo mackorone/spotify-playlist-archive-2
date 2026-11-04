@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: FAYAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,094 likes - 89 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,036 likes - 89 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 88 | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/track/1C8bu0Kb6hhmPDh4cOkEoE) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/album/1wnAVskIhErBic6NEUW9TV) | 3:26 |
 | 89 | [Pretty Girl](https://open.spotify.com/track/4TXeZhDInJT7osQTazk7Tt) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Pretty Girl](https://open.spotify.com/album/08k611hM5Bgd1GVb6SVgey) | 2:43 |
 
-Snapshot ID: `AAAAAB//DE4Rr7/ozjvxmzO2bF+KOR9D`
+Snapshot ID: `AAAAAIyjdrm6ida2qFUoltJ1sQ05H26Q`

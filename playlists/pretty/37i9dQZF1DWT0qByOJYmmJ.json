@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Luciano Daniel en portada. ",
-  "num_followers": 626416,
+  "num_followers": 626399,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDbRx1sKAI807hzlHzXZ4f0qegN",
+  "snapshot_id": "AAAAAFe9Xgja1pOGSUhM/hD8ibhyH7OO",
   "tracks": [
     {
       "added_at": "2026-10-02 06:00:24",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-10-02 06:00:24",
       "album": {
+        "name": "Despu\u00e9s de la tormenta",
+        "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
+      },
+      "artists": [
+        {
+          "name": "Bryan Kaarl",
+          "url": "https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui"
+        }
+      ],
+      "duration_ms": 166086,
+      "name": "Despu\u00e9s de la tormenta",
+      "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
+    },
+    {
+      "added_at": "2026-10-02 06:00:24",
+      "album": {
         "name": "Cada Vez M\u00e1s > :-(",
         "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 187666,
       "name": "Vete a la Chingada",
       "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"
-    },
-    {
-      "added_at": "2026-10-02 06:00:24",
-      "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
-      },
-      "artists": [
-        {
-          "name": "valeria d\u00e1vila",
-          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
-        }
-      ],
-      "duration_ms": 214865,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
     },
     {
       "added_at": "2026-10-02 06:00:24",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-10-02 06:00:24",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "duration_ms": 214865,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
+    },
+    {
+      "added_at": "2026-10-02 06:00:24",
+      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/1XDxJgWumrFQr4xybNPlDn"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 206915,
       "name": "Honey, No Est\u00e1s",
       "url": "https://open.spotify.com/track/1E6QpX1YCNfyXtZ4e6HUuS"
-    },
-    {
-      "added_at": "2026-10-02 06:00:24",
-      "album": {
-        "name": "Despu\u00e9s de la tormenta",
-        "url": "https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld"
-      },
-      "artists": [
-        {
-          "name": "Bryan Kaarl",
-          "url": "https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui"
-        }
-      ],
-      "duration_ms": 166086,
-      "name": "Despu\u00e9s de la tormenta",
-      "url": "https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP"
     },
     {
       "added_at": "2026-10-02 06:00:24",

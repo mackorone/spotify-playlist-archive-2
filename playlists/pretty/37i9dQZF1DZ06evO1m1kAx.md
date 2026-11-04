@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,997 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,003 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 48 | [Hate What You Do To Me](https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Ascension](https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ) | 3:54 |
 | 49 | [Outside](https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 3:56 |
 
-Snapshot ID: `auUvgAAAAAC9mrVt3jZCDSlqLbu9eKWL`
+Snapshot ID: `auaBAAAAAAAhpATn4waAW60jtt/l6lMB`

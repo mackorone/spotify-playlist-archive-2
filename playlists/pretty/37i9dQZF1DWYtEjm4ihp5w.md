@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Bo9al
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,307 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,406 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [caramel](https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [caramel](https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H) | 2:43 |
 | 50 | [Machi M3ana](https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Machi M3ana](https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx) | 2:33 |
 
-Snapshot ID: `AAAAAONZGq5lVHyQZdU83PxQN3lpETcN`
+Snapshot ID: `AAAAAHlIyD1MRQIhJcoYZ9x31oq9qsQd`

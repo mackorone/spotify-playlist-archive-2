@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > pinegrove autumn 🍂 sadurn on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,495 likes - 159 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,517 likes - 159 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 158 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 | 159 | [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 |
 
-Snapshot ID: `AAAAAIkSl+3pitMPRuW+BI4L7bgCuqnF`
+Snapshot ID: `AAAAACbtPkkLr2GRSjI6+uVuKx7JwcA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with DIIV.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,145,183 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,144,643 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 84 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
 | 85 | [Good Fortune](https://open.spotify.com/track/6h9g67CxwZf4RcsQF4SZZb) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Halcyon Blues](https://open.spotify.com/album/3vUBcLeVjcC2HIztGj0T7F) | 3:07 |
 
-Snapshot ID: `AAAAAH3ZQEdhKbc5pBc2ZvbrJXytYjs8`
+Snapshot ID: `AAAAAE14Vtv95cXthQRi/Jix4Sl2MN2h`

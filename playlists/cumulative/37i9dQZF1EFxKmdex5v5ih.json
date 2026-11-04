@@ -1220,6 +1220,24 @@
     {
       "album": {
         "name": "Break",
+        "url": "https://open.spotify.com/album/7KYqCzGLsOYRmIKHAh7cWg"
+      },
+      "artists": [
+        {
+          "name": "Jacquie",
+          "url": "https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171961,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/1vy6HhsIouva9dfC4Meyti"
+    },
+    {
+      "album": {
+        "name": "Break",
         "url": "https://open.spotify.com/album/3Sh8YKaGZ4tAYfBahniCaC"
       },
       "artists": [
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 171961,
       "name": "Break",
       "url": "https://open.spotify.com/track/3OGMwLZ5ZbPTgTZT22XjTd"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -4766,7 +4784,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV"
@@ -6014,7 +6032,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 211733,
       "name": "Love U Like That",
       "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"

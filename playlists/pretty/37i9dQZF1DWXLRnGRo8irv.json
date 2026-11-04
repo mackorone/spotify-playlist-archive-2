@@ -1,13 +1,45 @@
 {
-  "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: g0nny)",
-  "num_followers": 11877,
+  "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: RESCENE)",
+  "num_followers": 11876,
   "original_name": "EQUAL Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANFgEn2NT5cSfie6usKOnxYObKUU",
+  "snapshot_id": "AAAAAK3J5lzE/tMMResbNNhQ28dlOw19",
   "tracks": [
+    {
+      "added_at": "2026-11-04 03:01:27",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "With",
+      "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
+    },
+    {
+      "added_at": "2026-11-04 03:01:27",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6t45ZC1w8QADl5HpeyJ3Rr"
+    },
     {
       "added_at": "2026-09-01 03:41:12",
       "album": {
@@ -799,38 +831,6 @@
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
-    },
-    {
-      "added_at": "2026-09-01 03:41:12",
-      "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 143797,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
-    },
-    {
-      "added_at": "2026-09-01 03:41:12",
-      "album": {
-        "name": "We Are UNCHILD",
-        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
-      },
-      "artists": [
-        {
-          "name": "UNCHILD",
-          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "UNCHILD",
-      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
     }
   ],
   "unique_name": "EQUAL Korea",

@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 530199,
+  "num_followers": 530182,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOqkpmlPXRH/pqcPp6iXDPoSU53a",
+  "snapshot_id": "AAAAAGzoK1CLcNX3mivMMnrI5tYTbdlM",
   "tracks": [
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Prune, You Talk Funny",
         "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 212701,
       "name": "Prune, You Talk Funny",
       "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2026-01-20 16:17:11",

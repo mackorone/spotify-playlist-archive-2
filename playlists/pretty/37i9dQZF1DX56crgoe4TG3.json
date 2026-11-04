@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 287409,
+  "num_followers": 287436,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1Ul6PDjXgqK2YXNksiBTJfxQqp",
+  "snapshot_id": "AAAAAMqKU462LAOK1HQGVTOufm2FShKJ",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:18",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Colors of the Wind",
-        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Colors of the Wind",
-      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "No Rain",
         "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 203810,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Those Were the Days",
         "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 230454,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Wagon Wheel",
         "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 433563,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 230454,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+          "name": "Shar Carillo",
+          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+        },
+        {
+          "name": "Loke",
+          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
         }
       ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+      "duration_ms": 243789,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
     }
   ],
   "unique_name": "Bluegrass Covers",

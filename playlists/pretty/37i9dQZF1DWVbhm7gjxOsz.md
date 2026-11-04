@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,111 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,154 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 22 | [Baby, I'm Yours](https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Baby, I'm Yours](https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN) | 2:28 |
 | 23 | [Suavecito](https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl) | [Malo](https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB) | [Malo](https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo) | 6:35 |
 | 24 | [Natural High](https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd) | [Bloodstone](https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk) | [Natural High](https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2) | 4:00 |
-| 25 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 |
-| 26 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
+| 25 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
+| 26 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 |
 | 27 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
-| 28 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
-| 29 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
+| 28 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
+| 29 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 30 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
 | 31 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
 | 32 | [I'm Your Puppet](https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [James & Bobby Purify](https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK) | 3:01 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 37 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
 | 38 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
 | 39 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
-| 40 | [Float On \- Single Version](https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:15 |
-| 41 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
+| 40 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
+| 41 | [Float On \- Single Version](https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:15 |
 | 42 | [Angel Baby](https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [The Unavailable 16 & The Original Nitty Gritty](https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj) | 3:47 |
 | 43 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |
 | 44 | [I Do Love You](https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 4:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Float On](https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Float On](https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH) | 11:48 |
 | 150 | [Smile Now, Cry Later](https://open.spotify.com/track/0e7q3Hd0K1CypBz5R1p2iz) | [Sunny & The Sunliners](https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO) | [Mr\. Brown Eyed Soul](https://open.spotify.com/album/6vTJGd8uvZ1nGw6DuMsS2H) | 1:59 |
 
-Snapshot ID: `AAAAAMRVIARX6UzNfs/aJXHliev2yHEy`
+Snapshot ID: `AAAAAKMyPwIPnErxzad4qhJHJsgkON48`

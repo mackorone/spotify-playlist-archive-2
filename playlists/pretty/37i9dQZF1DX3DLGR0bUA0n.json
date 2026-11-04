@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
-  "num_followers": 99002,
+  "num_followers": 99023,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAANzUYIsUTaeo1GjG2CNS0iw3XgM",
+  "snapshot_id": "AAAAAJlLTrMT+RgObtmZ3U6HamMMIj5/",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:39",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-10-16 06:00:39",
       "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
         "name": "Mal Amor",
         "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 168120,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
+    },
+    {
+      "added_at": "2026-10-16 06:00:39",
+      "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2026-10-16 06:00:39",
@@ -1119,38 +1119,6 @@
     {
       "added_at": "2026-10-16 06:00:39",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2026-10-16 06:00:39",
-      "album": {
         "name": "Made in Michoacan",
         "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
       },
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2026-10-16 06:00:39",
       "album": {
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+    },
+    {
+      "added_at": "2026-10-16 06:00:39",
+      "album": {
         "name": "El Potosino y El Cocho",
         "url": "https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 200936,
       "name": "El Potosino y El Cocho",
       "url": "https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem"
+    },
+    {
+      "added_at": "2026-10-16 06:00:39",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2026-10-16 06:00:39",
@@ -2067,18 +2067,22 @@
     {
       "added_at": "2026-10-16 06:00:39",
       "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
+        "name": "Canci\u00f3n a mi Pap\u00e1",
+        "url": "https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls"
       },
       "artists": [
         {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        },
+        {
+          "name": "Los Numero 1",
+          "url": "https://open.spotify.com/artist/5NguftlrG2vteEZ6WVgugW"
         }
       ],
-      "duration_ms": 376181,
-      "name": "Mix de Sones #2",
-      "url": "https://open.spotify.com/track/69T73pmI6Ikpne4NHp4Px6"
+      "duration_ms": 170812,
+      "name": "Canci\u00f3n a mi Pap\u00e1",
+      "url": "https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk"
     }
   ],
   "unique_name": "Tierra Caliente",

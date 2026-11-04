@@ -1,6 +1,6 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 683541,
+  "num_followers": 683573,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill Yourself (Part IV)",
-        "url": "https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 113972,
-      "name": "Kill Yourself (Part IV)",
-      "url": "https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Tide in the Snake's Nest",
         "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 192168,
       "name": "Diemonds",
       "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill Yourself (Part IV)",
+        "url": "https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 113972,
+      "name": "Kill Yourself (Part IV)",
+      "url": "https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY WILL BE DONE",
-        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 154035,
-      "name": "Angel Grove",
-      "url": "https://open.spotify.com/track/1HwmcwWYJ5TgMJ0zQZSw1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now the Moon's Rising",
         "url": "https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 122331,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/2nzjXDv6OuRHrHKhfhfB98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THY WILL BE DONE",
+        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 154035,
+      "name": "Angel Grove",
+      "url": "https://open.spotify.com/track/1HwmcwWYJ5TgMJ0zQZSw1T"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY WILL BE DONE",
-        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 204969,
-      "name": "2009 Reggie Bush",
-      "url": "https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meet Me Where the River Turns Grey",
         "url": "https://open.spotify.com/album/76hYvDqTeYbU6mdJSK2jRN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185725,
       "name": "Sarcophagus II",
       "url": "https://open.spotify.com/track/2vaciFbhcEWGr8loxKyWSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THY WILL BE DONE",
+        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 204969,
+      "name": "2009 Reggie Bush",
+      "url": "https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy"
     }
   ],
   "unique_name": "This Is $uicideboy$",

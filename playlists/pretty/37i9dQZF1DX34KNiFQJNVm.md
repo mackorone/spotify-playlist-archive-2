@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  MC Hariel, Daddy Yankee, DUDA BEAT, Israel & Rodolffo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,318,096 likes - 66 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,775 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 55 | [CANÔNICO](https://open.spotify.com/track/5WpsPgM78CaGLM6xQrZ8xt) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [CANÔNICO](https://open.spotify.com/album/7FTcmqgSSR6eTc8y9Xk37O) | 2:11 |
 | 56 | [Vida Noturna](https://open.spotify.com/track/6nKphoDt9F7iirWfHEjBro) | [Menor Richard](https://open.spotify.com/artist/270oVXkThAqFNaoF7vLpNq) | [Vida Noturna](https://open.spotify.com/album/2tOnH5uSRV7NBgpnvUXEDz) | 1:21 |
 | 57 | [Griô](https://open.spotify.com/track/24DT6HyAZ389JPGbgmG889) | [Rio Carnaval](https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v), [Unidos do Viradouro](https://open.spotify.com/artist/2TvCrbqQMOG0MLbqjqBES0), [Wander Pires](https://open.spotify.com/artist/06aErK9NwNAHzLob15if8z) | [Sambas de Enredo Rio Carnaval 2027](https://open.spotify.com/album/4RY1NIKHCwVd6kkUa4gqP9) | 6:37 |
-| 58 | [Vai Comer Na Minha Mão](https://open.spotify.com/track/1r6h5Df2YJhpUgbdXuIV3Y) | [Mc Fantaxma](https://open.spotify.com/artist/6soU0c0fdHeVIdLIvngcjQ), [Lindão](https://open.spotify.com/artist/1ZlEiKjgbQVsuyyocxFdyc), [Ellen Nery](https://open.spotify.com/artist/4LBVNF15h6yFNBVjjYjr6O) | [Vai Comer Na Minha Mão](https://open.spotify.com/album/5bAfu8rxOtRiSTZrAslUTi) | 2:29 |
+| 58 | [Vai Comer Na Minha Mão](https://open.spotify.com/track/1r6h5Df2YJhpUgbdXuIV3Y) | [Mc Fantaxma](https://open.spotify.com/artist/6soU0c0fdHeVIdLIvngcjQ), [Lindão](https://open.spotify.com/artist/1ZlEiKjgbQVsuyyocxFdyc) | [Vai Comer Na Minha Mão](https://open.spotify.com/album/5bAfu8rxOtRiSTZrAslUTi) | 2:29 |
 | 59 | [AMAPIANO](https://open.spotify.com/track/54WDtiswuc64xwQLgeAnYp) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [AMAPIANO](https://open.spotify.com/album/7HAMSpW7LYgEsvfpzgfADk) | 2:08 |
 | 60 | [Não toca na lace](https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [Não toca na lace](https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9) | 2:12 |
 | 61 | [Grove Street](https://open.spotify.com/track/5PzRVxamUZp1DijuUZ8ESm) | [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [Elipe](https://open.spotify.com/artist/5DYNCxrEXydchmfndMzzku), [djjmarques](https://open.spotify.com/artist/1Z9pEawnxdeEzb5hQV1cca) | [Grove Street](https://open.spotify.com/album/4D3efHM8XvWqvxDCbUKDjQ) | 2:22 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 65 | [Boca de Veludo](https://open.spotify.com/track/1ShncDW7RCysKEEQ3d06j5) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [Pepeu Prod](https://open.spotify.com/artist/4gKbn672mdtQNvmeB7DhTO), [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Boca de Veludo](https://open.spotify.com/album/1sCoerAKBysNATmCU9mnfR) | 2:27 |
 | 66 | [Procedimento](https://open.spotify.com/track/3uXBH4XvFkawenKXqFuc4V) | [Bomfino](https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl), [Andrezin Mc](https://open.spotify.com/artist/2SjGb9xnwKXcdQKhd5K5B5) | [Procedimento](https://open.spotify.com/album/5qOhtcC0KfXMf60eO8sTUo) | 1:58 |
 
-Snapshot ID: `AAAAAITvwxSjRcoAv7GbQfmEesFJZ9zJ`
+Snapshot ID: `AAAAANUNZfi/V+nzXRUIByLWV6wbD3+l`

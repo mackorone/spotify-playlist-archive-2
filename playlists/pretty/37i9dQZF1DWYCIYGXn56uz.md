@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 Ari in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,260 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,237 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 83 | [GIRASOLE](https://open.spotify.com/track/6i8q7geqsUuj9Uhkv8zvuf) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [VITA VERA PARADISO](https://open.spotify.com/album/7ujoimoSquqdm5EKAhtnf6) | 3:01 |
 | 84 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 |
 
-Snapshot ID: `AAAAAOUsk+jicvFq2Nwd9FTD2h6plbAb`
+Snapshot ID: `AAAAAI4zP+m9yCXXBseOfv9kMp/TZe4O`

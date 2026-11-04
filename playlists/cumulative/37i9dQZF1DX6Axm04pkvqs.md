@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-120 songs - 18 hr 57 min
+121 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [House of Prayer \(feat\. Jayna Cullens\)](https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T) | [Eddie James](https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq), [Jayna Cullens](https://open.spotify.com/artist/49UDs5Mtq1PYQeL5n9bqL0) | [Shift \(Awakening\)](https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz) | 7:59 | 2024-07-26 |  |
 | [Hunger \(Cover Version\)](https://open.spotify.com/track/4y1G0zIj1I6FKdD5riSTEy) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Hunger \(Cover Version\)](https://open.spotify.com/album/0SApsq2CLGIYTK2BDHHTtM) | 3:27 | 2024-07-26 | 2025-11-17 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-07-26 |  |
-| [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 | 2024-07-26 |  |
+| [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 | 2024-07-26 | 2026-11-04 |
 | [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/track/3GBLldAE30bF3eAnE1z4ws) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/album/7rt2Nc83eLlhmILEvHrskU) | 5:11 | 2024-07-26 | 2026-09-26 |
 | [Igbo Worship Medley \- Live](https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Igbo Worship Medley \(Live\)](https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs) | 7:54 | 2025-02-21 |  |
 | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/track/75uBK33oMZqgY8zV5PeiCO) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [The City Choir](https://open.spotify.com/artist/1SVHoT2JwZ2NP7JbYK9VvJ) | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/album/5DoRb3TJZwF4C1g4GMdgvw) | 9:38 | 2025-01-10 | 2026-02-13 |
@@ -122,6 +122,7 @@
 | [When God Walks In](https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 12:58 | 2024-07-26 |  |
 | [Worship Chant](https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Worship Chant](https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA) | 1:44 | 2024-07-26 | 2026-09-15 |
 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 | 2026-09-07 |
+| [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9) | [Sheba osher](https://open.spotify.com/artist/3KOz7JYrKqwlbXZeC7Rt92) | [Worship Chants \-Apostle Micheal Orokpo \(Ale Ah Ah Eh\)](https://open.spotify.com/album/7f8gkasOlAoMu8dU8jZtZO) | 3:21 | 2026-10-30 |  |
 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 | 2024-07-26 | 2026-01-15 |
 | [Yahweh \- Live](https://open.spotify.com/track/4IHbHNYL5qlk53XPvxg8kc) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [The Declaration \(Live\)](https://open.spotify.com/album/61ORlXf6oUCesajS1E6FfQ) | 8:32 | 2024-07-26 | 2025-03-24 |
 | [YAHWEH is in the room \(Aya Ya\)](https://open.spotify.com/track/1zfJyhYv1rDinVbAmNcE2z) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K) | [YAHWEH is in the room \(Aya Ya\)](https://open.spotify.com/album/7EgDBqYDx2H3ISM8RZ2BLS) | 9:30 | 2024-11-08 | 2025-10-11 |

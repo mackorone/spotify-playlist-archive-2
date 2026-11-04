@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
 
-1,706 songs - 3 day 18 hr 16 min
+1,707 songs - 3 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-07-12 | 2024-08-24 |
 | [Am I Your Girl](https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:14 | 2024-10-25 | 2024-11-23 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-06 |  |
+| [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2026-11-03 |  |
 | [Angels In The Sky](https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Angels In The Sky](https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW) | 2:42 | 2024-05-31 | 2024-07-13 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-11-03 | 2023-12-09 |
 | [Anxiety](https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Anxiety](https://open.spotify.com/album/4CzCtsPM1jOgMW2grZHah6) | 3:28 | 2024-06-07 | 2024-06-22 |

@@ -1,28 +1,32 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf41",
-  "num_followers": 144187,
+  "num_followers": 144189,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACKflyM9LMojimXS2hdr2durQmf0",
+  "snapshot_id": "AAAAAI9dkDLtZFl9q3SE3QUFIZp2dvab",
   "tracks": [
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
+        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
       },
       "artists": [
         {
-          "name": "Edward Rogers",
-          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        },
+        {
+          "name": "Heated Rivalry",
+          "url": "https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz"
         }
       ],
-      "duration_ms": 183275,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
+      "duration_ms": 240491,
+      "name": "It's You - from \"Heated Rivalry\"",
+      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -43,22 +47,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Rivalry / It's You (from \"Heated Rivalry\" Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s"
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        },
-        {
-          "name": "Heated Rivalry",
-          "url": "https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz"
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
         }
       ],
-      "duration_ms": 240491,
-      "name": "It's You - from \"Heated Rivalry\"",
-      "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
+      "duration_ms": 183275,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -747,18 +747,22 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Ease Your Mind",
-        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
+        "name": "Southern Star (feat. AURORA)",
+        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
+      "duration_ms": 304760,
+      "name": "Southern Star (feat. AURORA)",
+      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -779,22 +783,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Southern Star (feat. AURORA)",
-        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 304760,
-      "name": "Southern Star (feat. AURORA)",
-      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
+      "duration_ms": 182946,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
         "name": "Gros Pierre",
         "url": "https://open.spotify.com/album/14c1yHU4DDR8s9pBeJ7ogR"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 325213,
       "name": "Gros Pierre",
       "url": "https://open.spotify.com/track/5Recbbg68TS7AdeHKy2tdk"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
-        "name": "Les yeux couleur bois",
-        "url": "https://open.spotify.com/album/5OXG6MvvkRT1NUJAhtjiEG"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Les yeux couleur bois",
-      "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+        "name": "Les yeux couleur bois",
+        "url": "https://open.spotify.com/album/5OXG6MvvkRT1NUJAhtjiEG"
       },
       "artists": [
         {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
         }
       ],
-      "duration_ms": 242653,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+      "duration_ms": 203506,
+      "name": "Les yeux couleur bois",
+      "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Laughter (Bouquet Version)",
-        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 221245,
-      "name": "Laughter - Bouquet Version",
-      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
         "name": "2 go\u00e9lands",
         "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+        "name": "Laughter (Bouquet Version)",
+        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
       },
       "artists": [
         {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
         }
       ],
-      "duration_ms": 184360,
-      "name": "pas de vagues",
-      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
+      "duration_ms": 221245,
+      "name": "Laughter - Bouquet Version",
+      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1471,6 +1455,22 @@
       "duration_ms": 188516,
       "name": "Tu pars",
       "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "pas de vagues",
+      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
     },
     {
       "added_at": "2026-10-30 04:02:41",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-10-30 04:02:41",
       "album": {
-        "name": "Dahlia",
-        "url": "https://open.spotify.com/album/79I7Ni0EYfsnW4wjjlc8KD"
-      },
-      "artists": [
-        {
-          "name": "Violette Lapierre",
-          "url": "https://open.spotify.com/artist/2yf6K4enZDC4UntKaEdQSO"
-        },
-        {
-          "name": "Violette & Jordan",
-          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Dahlia",
-      "url": "https://open.spotify.com/track/3agckIPLw6x61oiODAdth4"
-    },
-    {
-      "added_at": "2026-10-30 04:02:41",
-      "album": {
         "name": "Isabella",
         "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 132560,
       "name": "Le go\u00fbt des mangues",
       "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+    },
+    {
+      "added_at": "2026-10-30 04:02:41",
+      "album": {
+        "name": "Dahlia",
+        "url": "https://open.spotify.com/album/79I7Ni0EYfsnW4wjjlc8KD"
+      },
+      "artists": [
+        {
+          "name": "Violette Lapierre",
+          "url": "https://open.spotify.com/artist/2yf6K4enZDC4UntKaEdQSO"
+        },
+        {
+          "name": "Violette & Jordan",
+          "url": "https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj"
+        }
+      ],
+      "duration_ms": 202025,
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/3agckIPLw6x61oiODAdth4"
     },
     {
       "added_at": "2026-10-30 04:02:41",

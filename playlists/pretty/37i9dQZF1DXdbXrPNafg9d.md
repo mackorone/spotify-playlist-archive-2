@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Rockie Rode
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,698 likes - 229 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,667 likes - 229 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 228 | [Forever](https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Forever](https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD) | 3:11 |
 | 229 | [Fantasy](https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fantasy](https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8) | 2:02 |
 
-Snapshot ID: `AAAAAGg+2zSSrzSaKhp2bHZOKeOuwqfX`
+Snapshot ID: `AAAAAFEKXbeHpQc4fZ8CXxhlpRT6C3EY`

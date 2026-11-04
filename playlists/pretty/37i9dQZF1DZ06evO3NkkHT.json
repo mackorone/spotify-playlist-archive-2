@@ -1,6 +1,6 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 90179,
+  "num_followers": 90245,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "GIVE IT ALL",
+      "url": "https://open.spotify.com/track/6MbhjBsn3wSrJpXow9OUSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Badu Flow",
-      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Orange Tape",
         "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
       },
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 120000,
-      "name": "GIVE IT ALL",
-      "url": "https://open.spotify.com/track/6MbhjBsn3wSrJpXow9OUSp"
+      "duration_ms": 144000,
+      "name": "Badu Flow",
+      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
       "duration_ms": 122240,
       "name": "FROM THE BOTTOM",
       "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
     },
     {
       "added_at": null,
@@ -607,6 +591,38 @@
       "duration_ms": 128493,
       "name": "6WA",
       "url": "https://open.spotify.com/track/3f0ZKyw7mIbnVJiF2iz3dN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122333,
+      "name": "I GET IT",
+      "url": "https://open.spotify.com/track/41C8oQ4f7UZQDMAVcGLQ85"
     },
     {
       "added_at": null,
@@ -663,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147226,
+      "name": "NO LIMIT (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE (DELUXE)",
         "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
@@ -699,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
       },
       "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Left Eye",
-      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
+      "duration_ms": 168041,
+      "name": "U and Me (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
     },
     {
       "added_at": null,
@@ -722,11 +762,15 @@
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         }
       ],
-      "duration_ms": 122333,
-      "name": "I GET IT",
-      "url": "https://open.spotify.com/track/41C8oQ4f7UZQDMAVcGLQ85"
+      "duration_ms": 149533,
+      "name": "DA FUCC (feat. Ro$ama)",
+      "url": "https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI"
     },
     {
       "added_at": null,
@@ -747,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
       "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 168041,
-      "name": "U and Me (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
+      "duration_ms": 122000,
+      "name": "Left Eye",
+      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
     },
     {
       "added_at": null,
@@ -802,15 +842,11 @@
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         }
       ],
-      "duration_ms": 149533,
-      "name": "DA FUCC (feat. Ro$ama)",
-      "url": "https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI"
+      "duration_ms": 152000,
+      "name": "CRACCED",
+      "url": "https://open.spotify.com/track/5nSaQklwqScpU3D43kiTJm"
     },
     {
       "added_at": null,
@@ -827,6 +863,26 @@
       "duration_ms": 120066,
       "name": "Rich Off Rap",
       "url": "https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Run It",
+        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Who Run It",
+      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
     },
     {
       "added_at": null,
@@ -867,46 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147226,
-      "name": "NO LIMIT (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6tsTH3fpf29Hk3psCrf0tT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Run It",
-        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
-      },
-      "artists": [
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Who Run It",
-      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Forte",
         "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
       },
@@ -923,26 +939,6 @@
       "duration_ms": 167114,
       "name": "Picc ah Side",
       "url": "https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NDA",
-        "url": "https://open.spotify.com/album/4gh3yMWf8GIYqsB7QgA0uJ"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124923,
-      "name": "Good Chance (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/4rBDoRvi2c4C6TUpEZ4ooj"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

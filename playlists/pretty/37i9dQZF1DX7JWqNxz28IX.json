@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeTbxEK+3gKiSoXMwlLKGSN5Xu0",
+  "snapshot_id": "AAAAAPXAlF4GgJ7L8CFLK5opRmz1ZO9u",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "ERA L\u2019INIZIO",
-        "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
-      },
-      "artists": [
-        {
-          "name": "EMMA",
-          "url": "https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq"
-        }
-      ],
-      "duration_ms": 257156,
-      "name": "IL MONDO FUORi : .. ?",
-      "url": "https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "TauroTape3",
         "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 177777,
       "name": "Xelisa2 (feat. ARIETE)",
       "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "ERA L\u2019INIZIO",
+        "url": "https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga"
+      },
+      "artists": [
+        {
+          "name": "EMMA",
+          "url": "https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq"
+        }
+      ],
+      "duration_ms": 257156,
+      "name": "IL MONDO FUORi : .. ?",
+      "url": "https://open.spotify.com/track/4KhQFg7o7JRJWiI8zQmxIf"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "non sto bene, va bene cos\u00ec",
-        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
+        "name": "Foglio rosa",
+        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
       },
       "artists": [
         {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 113816,
-      "name": "Ho perso il cuore,",
-      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
+      "duration_ms": 139540,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Foglio rosa",
-        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
+        "name": "non sto bene, va bene cos\u00ec",
+        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
         }
       ],
-      "duration_ms": 139540,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
+      "duration_ms": 113816,
+      "name": "Ho perso il cuore,",
+      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1511,22 +1511,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "CONFESSIONE",
-        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1567,34 +1563,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+        "name": "CONFESSIONE",
+        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
         {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1619,6 +1603,22 @@
       "duration_ms": 144000,
       "name": "Passaporto (feat. Dimawhite)",
       "url": "https://open.spotify.com/track/2G2kU72RuO80kLecvjp0MZ"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Devil May Cry",
-        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
-      },
-      "artists": [
-        {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        }
-      ],
-      "duration_ms": 148818,
-      "name": "Devil May Cry",
-      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Ci siamo fatti male",
         "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 170095,
       "name": "Ci siamo fatti male",
       "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Devil May Cry",
+        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
+      },
+      "artists": [
+        {
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+        }
+      ],
+      "duration_ms": 148818,
+      "name": "Devil May Cry",
+      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
     }
   ],
   "unique_name": "rimedi per cuori spezzati",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3193351,
+  "num_followers": 3193289,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQ7RbIMGMMsPJBlWnLC3qbGDOaj",
+  "snapshot_id": "AAAAACXXumSHUKxLWbV+8IwVD+Vmvjyq",
   "tracks": [
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
-      },
-      "artists": [
-        {
-          "name": "Scott McKenzie",
-          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
-      "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Parsley, Sage, Rosemary And Thyme",
         "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 152895,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
+      },
+      "artists": [
+        {
+          "name": "Scott McKenzie",
+          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
+      "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 175893,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
+      "duration_ms": 133933,
+      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
+      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
         }
       ],
-      "duration_ms": 133933,
-      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
-      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+      "duration_ms": 175893,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Wimoweh!!! - The Best Of The Tokens",
-        "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
-      },
-      "artists": [
-        {
-          "name": "The Tokens",
-          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "The Lion Sleeps Tonight (Wimoweh)",
-      "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Album 1700",
         "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 207240,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Wimoweh!!! - The Best Of The Tokens",
+        "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
+      },
+      "artists": [
+        {
+          "name": "The Tokens",
+          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "The Lion Sleeps Tonight (Wimoweh)",
+      "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Creedence Clearwater Revival (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 271786,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1587,6 +1571,22 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 271786,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Wheatfield Soul",
-        "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
       },
       "artists": [
         {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 226605,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
+      "duration_ms": 177307,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "I Left My Heart In San Francisco",
-        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+        "name": "Wheatfield Soul",
+        "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
         }
       ],
-      "duration_ms": 177307,
-      "name": "(I Left My Heart) In San Francisco",
-      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+      "duration_ms": 226605,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Spanish Harlem",
         "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
       },
@@ -2055,18 +2039,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Good Vibrations 40th Anniversary",
-        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 217746,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2083,6 +2067,22 @@
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Good Vibrations 40th Anniversary",
+        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
     },
     {
       "added_at": "2026-02-06 15:24:01",

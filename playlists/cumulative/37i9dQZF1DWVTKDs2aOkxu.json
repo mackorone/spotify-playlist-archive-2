@@ -11515,6 +11515,24 @@
     },
     {
       "album": {
+        "name": "Lightweight Champion",
+        "url": "https://open.spotify.com/album/4DMBw5kau1j7SFgeYFFAz5"
+      },
+      "artists": [
+        {
+          "name": "Danny Griffiths",
+          "url": "https://open.spotify.com/artist/1D7ogs6m8zs5JAY950koox"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "Lightweight Champion",
+      "url": "https://open.spotify.com/track/2V2gSjlWbCUbyK8ldJEgTM"
+    },
+    {
+      "album": {
         "name": "Like You Did Before",
         "url": "https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg"
       },

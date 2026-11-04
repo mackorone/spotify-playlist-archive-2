@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover:BigXthaPlug
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,970 likes - 79 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,949 likes - 79 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 78 | [MOLOTOV \(feat\. Terror Reid\)](https://open.spotify.com/track/0xvhfqxN1vTzgvHkVk8O23) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [MOLOTOV \(feat\. Terror Reid\)](https://open.spotify.com/album/5QewxUTw1iZOqUjA8TVTvL) | 2:07 |
 | 79 | [My Heart](https://open.spotify.com/track/3KzqPheSwyNSvYtjtOtmP4) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [My Heart](https://open.spotify.com/album/6Zcy3dIE2qyVwqBVpSvy3U) | 4:27 |
 
-Snapshot ID: `AAAAAHk8muCtd92By9wu9MLq6CmQNSJD`
+Snapshot ID: `AAAAALoHjoVaw/Uh2YPKLFQEYqv1iCVq`

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 686876,
+  "num_followers": 686892,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKddiWPyIryVYQZe5pMi64/ZBmh8",
+  "snapshot_id": "AAAAAHFYCL8dnI9tU3MkasbgRgt8R1EK",
   "tracks": [
     {
       "added_at": "2026-10-02 11:02:32",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-10-02 11:02:32",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Alyz\u00e9e",
-          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
-        }
-      ],
-      "duration_ms": 214108,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
-    },
-    {
-      "added_at": "2026-10-02 11:02:32",
-      "album": {
         "name": "More To Life",
         "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 204374,
       "name": "More To Life",
       "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
+    },
+    {
+      "added_at": "2026-10-02 11:02:32",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Alyz\u00e9e",
+          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
+        }
+      ],
+      "duration_ms": 214108,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
     },
     {
       "added_at": "2026-10-02 11:02:32",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-02 11:02:32",
       "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
-    },
-    {
-      "added_at": "2026-10-02 11:02:32",
-      "album": {
         "name": "Casableu",
         "url": "https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 218666,
       "name": "Casableu",
       "url": "https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B"
+    },
+    {
+      "added_at": "2026-10-02 11:02:32",
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     }
   ],
   "unique_name": "Ibiza Sunset",

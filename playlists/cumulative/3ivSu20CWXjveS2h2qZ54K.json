@@ -145759,6 +145759,28 @@
     },
     {
       "album": {
+        "name": "SexyHOT",
+        "url": "https://open.spotify.com/album/1Rbu1T8TTJJnyZ75RNzzkd"
+      },
+      "artists": [
+        {
+          "name": "FUTURACHICAPOP",
+          "url": "https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ"
+        },
+        {
+          "name": "Juan Anselmo",
+          "url": "https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258576,
+      "name": "SexyHOT",
+      "url": "https://open.spotify.com/track/28I9DF0YnYCiVdyxIEQbFF"
+    },
+    {
+      "album": {
         "name": "Destello, se\u00f1al, hilo y alba",
         "url": "https://open.spotify.com/album/5TvLGH3WC2txxLpx4UqsZm"
       },
@@ -178346,6 +178368,10 @@
         {
           "name": "J\u00d8RD",
           "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Jasper Erkens",
+          "url": "https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ"
         }
       ],
       "date_added": "2026-10-30",

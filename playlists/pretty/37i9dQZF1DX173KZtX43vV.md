@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Che Mario
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,542 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,539 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 36 | [Home](https://open.spotify.com/track/3HySMchyvUd9J6VLtp0yjv) | [Bobbyy](https://open.spotify.com/artist/3Vk2Sjk6l8GVlK5jEBbH2z), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [TACKYY](https://open.spotify.com/album/00mA5eTJeOzMm9MQGyqVNe) | 2:30 |
 | 37 | [Introvert](https://open.spotify.com/track/1IY44IB0MHYUnQ5REm5g1c) | [Young T](https://open.spotify.com/artist/3Pw9IzOKjxMQEwSQ7UAqo3), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Introvert](https://open.spotify.com/album/5KQ5RxT9ft6wNznKAauBBC) | 2:44 |
 | 38 | [100 SPARTANS](https://open.spotify.com/track/1Xt0CKU9RHMd0RUckFs822) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Jooka Savage](https://open.spotify.com/artist/5n14FWsvUgJgEsHXo7GGky) | [OOAK Vol\. 3](https://open.spotify.com/album/2jAeSkPMKDD4FsTelvR8G7) | 2:07 |
-| 39 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
+| 39 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 | 40 | [Lay Low](https://open.spotify.com/track/5MJoXRKLMfqlZAVnAEuhjJ) | [Shireen Valentina](https://open.spotify.com/artist/413HJCrRfrlWsS1QjOVkMQ) | [Lay Low](https://open.spotify.com/album/7gZjxGBppJ3zKzvIGr0Odo) | 3:11 |
 | 41 | [O rí mi](https://open.spotify.com/track/3R4GEid3JLlWuujA7HlRQt) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [O rí mi](https://open.spotify.com/album/1O6BfPiNKoMy1iIZOHekVG) | 2:45 |
 | 42 | [Balotelli](https://open.spotify.com/track/2xU4WLz2vh4nLUznAf7Hk5) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Balotelli](https://open.spotify.com/album/5zpM9sQ7GmjkMvu8iugDkk) | 1:43 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 44 | [Your Body \(Crazy\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Crazy\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 |
 | 45 | [Good Morning](https://open.spotify.com/track/6RcqkNnsyQqRLdzzG7kUa6) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Good Morning](https://open.spotify.com/album/0UGOA85TuPg24d7uhn5CFK) | 3:26 |
 
-Snapshot ID: `AAAAAHr3SBrgo4Z/k1s6l4hJJV/IwifF`
+Snapshot ID: `AAAAAI0JjnoEqGhn7uLf4TRcPVhwsGGA`

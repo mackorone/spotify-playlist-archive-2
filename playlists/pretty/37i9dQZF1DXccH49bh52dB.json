@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 752260,
+  "num_followers": 752303,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtjtrt+GRKEg0MjCxfguz+SiF4N",
+  "snapshot_id": "AAAAAHzsDnOwjUNT/K5ksPBGI8m3oRMS",
   "tracks": [
     {
       "added_at": "2026-07-10 04:00:56",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Wo, man (Edit)",
-        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Wo, man - Edit",
-      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "All We Know (feat. Phoebe Ryan)",
         "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 194080,
       "name": "All We Know (feat. Phoebe Ryan)",
       "url": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -959,6 +959,26 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 212424,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Fast Car",
-        "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Help Me Lose My Mind",
-        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
       "artists": [
         {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
         }
       ],
-      "duration_ms": 172945,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1463,26 +1467,6 @@
       "duration_ms": 198425,
       "name": "Love Songs (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Help Me Lose My Mind",
+        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 172945,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Angel of Mine",
         "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
       },
@@ -1523,26 +1523,6 @@
       "duration_ms": 162741,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Brightest Lights",
-        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1571,6 +1551,26 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Brightest Lights",
+        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Childish",
+        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 331935,
+      "name": "The Deep",
+      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Childish",
-        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        }
-      ],
-      "duration_ms": 331935,
-      "name": "The Deep",
-      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2587,26 +2587,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "To Love Again",
-        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "To Love Again",
-      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "ILYAF (I love you always forever)",
         "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
       },
@@ -2623,6 +2603,26 @@
       "duration_ms": 166091,
       "name": "ILYAF (I love you always forever)",
       "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "To Love Again",
+        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "To Love Again",
+      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2799,6 +2799,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Swimming In The Dark",
+        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Swimming In The Dark",
+      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/4SxQPH2WUVZbnhLPwDQuQT"
       },
@@ -2835,22 +2851,6 @@
       "duration_ms": 180401,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/78u5zXt7t0vySly74lXMyP"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Swimming In The Dark",
-        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Swimming In The Dark",
-      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
     },
     {
       "added_at": "2026-07-10 04:00:56",

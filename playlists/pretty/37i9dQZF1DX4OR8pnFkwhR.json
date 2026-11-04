@@ -1,13 +1,45 @@
 {
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u3081\u3063\u3061\u3083\u7f8e\u4eba",
-  "num_followers": 76108,
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: OddRe:",
+  "num_followers": 76114,
   "original_name": "RADAR: Early Noise ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3Bm3h6YNHUp7F8dVGJxNrT5Lji",
+  "snapshot_id": "AAAAAFR+x+zG4dlplyLAcNO0LviRmdfK",
   "tracks": [
+    {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "AXEL",
+        "url": "https://open.spotify.com/album/2R8luQ7gaj5iKHQKcLlnSD"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "AXEL",
+      "url": "https://open.spotify.com/track/2ZxNr28k5ey6M0HnGecyJF"
+    },
+    {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "wabi-sabi",
+        "url": "https://open.spotify.com/album/2ERfRPPmi9njWO7J2EfWib"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "easy, no way!!",
+      "url": "https://open.spotify.com/track/3qS6XGXooGQac24zVRDOrj"
+    },
     {
       "added_at": "2026-10-20 15:00:34",
       "album": {
@@ -75,42 +107,6 @@
     {
       "added_at": "2026-10-13 15:00:11",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6CTnhjsCTTXdCu2126UUHo"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        },
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 232233,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/20dDIAqQEqaRBFWWkEjwhI"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
-        "name": "Yomigaeri",
-        "url": "https://open.spotify.com/album/1IzZXSFT7zuD2Dkxklij4Z"
-      },
-      "artists": [
-        {
-          "name": "OddRe:",
-          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
-        }
-      ],
-      "duration_ms": 232102,
-      "name": "Yomigaeri",
-      "url": "https://open.spotify.com/track/4RgwLcidaKCOwJeM6gS8rV"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
         "name": "\u714c\u3081\u304d",
         "url": "https://open.spotify.com/album/1SMHURDMjPyDAn1IsvSvp0"
       },
@@ -123,38 +119,6 @@
       "duration_ms": 209012,
       "name": "\u714c\u3081\u304d",
       "url": "https://open.spotify.com/track/4f5Y1HJ7rigPnCDJSonwzS"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
-        "name": "\u30b3\u30f3\u30c6\u30f3\u30dd\u30e9\u30ea\u30fc\u30c0\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/6GTYf6MfNubPMziBRCLfAf"
-      },
-      "artists": [
-        {
-          "name": "PompadollS",
-          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
-        }
-      ],
-      "duration_ms": 237327,
-      "name": "\u30b3\u30f3\u30c6\u30f3\u30dd\u30e9\u30ea\u30fc\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/0abmIa1nBnueKntVaUbGbk"
-    },
-    {
-      "added_at": "2026-10-20 15:00:34",
-      "album": {
-        "name": "\u30d3\u30f3\u30c6\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/5mieOlXEHsOzqL9UuHdwKe"
-      },
-      "artists": [
-        {
-          "name": "\u3093\u30fb\u30d5\u30a7\u30cb",
-          "url": "https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0"
-        }
-      ],
-      "duration_ms": 221100,
-      "name": "\u30d3\u30f3\u30c6\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3qpmHcDXL3YcYviQFVQ1l6"
     },
     {
       "added_at": "2026-10-13 15:00:11",
@@ -253,6 +217,38 @@
       "url": "https://open.spotify.com/track/2MfxPImeLJ4QKankpKFAPu"
     },
     {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/5qdJ0tGjUYh6xA7xqWl4LL"
+      },
+      "artists": [
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        }
+      ],
+      "duration_ms": 253275,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4MlRA1wWu89HXrvd22EEpZ"
+    },
+    {
+      "added_at": "2026-10-20 15:00:34",
+      "album": {
+        "name": "\u30d3\u30f3\u30c6\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5mieOlXEHsOzqL9UuHdwKe"
+      },
+      "artists": [
+        {
+          "name": "\u3093\u30fb\u30d5\u30a7\u30cb",
+          "url": "https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0"
+        }
+      ],
+      "duration_ms": 221100,
+      "name": "\u30d3\u30f3\u30c6\u30fc\u30b8\u30de\u30f3\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3qpmHcDXL3YcYviQFVQ1l6"
+    },
+    {
       "added_at": "2026-10-13 15:00:11",
       "album": {
         "name": "DND",
@@ -327,6 +323,38 @@
       "duration_ms": 131197,
       "name": "lazy",
       "url": "https://open.spotify.com/track/611eTmAk6BLtGK2hmhXagn"
+    },
+    {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "\u82f1\u96c4\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6Y8J8PN5wgYvXmCoQC2ibb"
+      },
+      "artists": [
+        {
+          "name": "PompadollS",
+          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
+        }
+      ],
+      "duration_ms": 222452,
+      "name": "\u82f1\u96c4\u306e\u6b4c",
+      "url": "https://open.spotify.com/track/3n9GDnvJTuU1CMod5id4sh"
+    },
+    {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "Raspberry",
+        "url": "https://open.spotify.com/album/7xp12xjs1p0twJ3w9GinOm"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Raspberry",
+      "url": "https://open.spotify.com/track/0P5GeyB3QX0Yicn8dHZbRZ"
     },
     {
       "added_at": "2026-10-13 15:00:11",
@@ -411,6 +439,22 @@
       "duration_ms": 194312,
       "name": "bed (Prod. hinata miyake from luv)",
       "url": "https://open.spotify.com/track/2kLxmMOyfCls972veUnf5t"
+    },
+    {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "\u77e5\u3089\u306a\u3044\u6771\u4eac",
+        "url": "https://open.spotify.com/album/5PguE93RSUyPTgj1in9rsG"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u98a8\u30ec\u30b3\u30fc\u30c9",
+          "url": "https://open.spotify.com/artist/22XYJGn2ZmvGfY2FOwTfeD"
+        }
+      ],
+      "duration_ms": 280113,
+      "name": "\u77e5\u3089\u306a\u3044\u6771\u4eac",
+      "url": "https://open.spotify.com/track/2DMRvS9AZiV7hMGcEP6A3O"
     },
     {
       "added_at": "2026-10-13 15:00:11",
@@ -509,6 +553,22 @@
       "url": "https://open.spotify.com/track/63la9ShAib2e1s80hOCQ2a"
     },
     {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "\u307b\u3069\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/0nMVPyPetUjfFszgb7YBOS"
+      },
+      "artists": [
+        {
+          "name": "VIDA Hollywood",
+          "url": "https://open.spotify.com/artist/5q7ADnpPQgRg9KnOnn5P0I"
+        }
+      ],
+      "duration_ms": 230062,
+      "name": "\u307b\u3069\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/4cHUXFmc3i9lQ5PbRbm1TL"
+    },
+    {
       "added_at": "2026-10-13 15:00:11",
       "album": {
         "name": "Still No Signal",
@@ -571,6 +631,22 @@
       "duration_ms": 145081,
       "name": "\u30d6\u30e9\u30c3\u30c9\u2661\u30b9\u30d1\u30fc\u30af\u30b9",
       "url": "https://open.spotify.com/track/0MtmpkswjRWBAfKk9isee5"
+    },
+    {
+      "added_at": "2026-11-03 15:00:36",
+      "album": {
+        "name": "\u6708\u3068\u592a\u967d",
+        "url": "https://open.spotify.com/album/3pxfr2SOdqL8DgyuqPLBmj"
+      },
+      "artists": [
+        {
+          "name": "the paddles",
+          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "\u6708\u3068\u592a\u967d",
+      "url": "https://open.spotify.com/track/0G22V5WaXNn23z6jEQwmCS"
     },
     {
       "added_at": "2026-10-13 15:00:11",
@@ -655,22 +731,6 @@
     {
       "added_at": "2026-10-13 15:00:11",
       "album": {
-        "name": "\u3044\u308c\u3082\u306e",
-        "url": "https://open.spotify.com/album/5WKWmWFYeBU5aN2yRlRXhI"
-      },
-      "artists": [
-        {
-          "name": "\u3053\u305f\u306b",
-          "url": "https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq"
-        }
-      ],
-      "duration_ms": 296921,
-      "name": "\u3044\u308c\u3082\u306e",
-      "url": "https://open.spotify.com/track/4LxioLlC4EC5wbTAPY7ipC"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/0PAmDDNyEcR2LmPucALrav"
       },
@@ -751,22 +811,6 @@
     {
       "added_at": "2026-10-13 15:00:11",
       "album": {
-        "name": "Still Blond, Stay Gold",
-        "url": "https://open.spotify.com/album/3HobvfSqoSCILU2H6HHdCb"
-      },
-      "artists": [
-        {
-          "name": "AOTO",
-          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
-        }
-      ],
-      "duration_ms": 164374,
-      "name": "Still Blond, Stay Gold",
-      "url": "https://open.spotify.com/track/0hwgcD47X0NaZn0DCmeEyl"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
         "name": "sayonara radio",
         "url": "https://open.spotify.com/album/68ToVq4WzoGDMx31oCrkEQ"
       },
@@ -815,26 +859,6 @@
       "duration_ms": 227070,
       "name": "\u8679\u8272\u30a8\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5o7kcMdVFtxUtvZQwPGFvr"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
-        "name": "outernet \u958b\u304f",
-        "url": "https://open.spotify.com/album/7LRnYt4Cc4SeXoTNCn62vg"
-      },
-      "artists": [
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        },
-        {
-          "name": "Jeter",
-          "url": "https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "pink flamingo",
-      "url": "https://open.spotify.com/track/13RAle8tNej3u5Y4pSHB9c"
     },
     {
       "added_at": "2026-10-13 15:00:11",
@@ -931,38 +955,6 @@
       "duration_ms": 193133,
       "name": "Supermoon",
       "url": "https://open.spotify.com/track/6pF9sEbjaYCwkJwNAQO2tx"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/711CSDuqViter5yoNFJXDv"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
-          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
-        }
-      ],
-      "duration_ms": 221884,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/0sggdp0ykyrgQlCnOgb4Rx"
-    },
-    {
-      "added_at": "2026-10-13 15:00:11",
-      "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/5hhXdMgzGkgjYDJyc8pQiR"
-      },
-      "artists": [
-        {
-          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
-          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "REM",
-      "url": "https://open.spotify.com/track/2ap4cu2SyRJyqFBeZWck0s"
     },
     {
       "added_at": "2026-10-13 15:00:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,709 likes - 112 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,799 likes - 112 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 43 | [Pathos](https://open.spotify.com/track/3xtZEGTqd4vlcVZn9XP7uI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Pathos](https://open.spotify.com/album/4DmcATr0IItDrDAbccsrvZ) | 7:06 |
 | 44 | [Sunset on M\. \- felt piano version](https://open.spotify.com/track/7nuGDc7oNpIPz2tki0UFSU) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Sunset on M\. 2025](https://open.spotify.com/album/03DU2edyH9fDxFAas8z3sh) | 4:47 |
 | 45 | [VIRGO “The Perfectionist”](https://open.spotify.com/track/0AnQvSyfdR5D9XdDQgDWCG) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [180°](https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs) | 3:43 |
-| 46 | [To Zanarkand \(From "Final Fantasy X"\)](https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:50 |
+| 46 | [To Zanarkand \(From "Final Fantasy X"\)](https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:50 |
 | 47 | [Solitaire](https://open.spotify.com/track/4aXSGPgISzXyLxWubWj9hs) | [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [Places](https://open.spotify.com/album/6k4KdkEC2YrybTUP1660tc) | 2:25 |
 | 48 | [Summer Fantasy \- From “Justice Online”](https://open.spotify.com/track/2pKV2fkNDcCyy7u0oHumAI) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Shanghai Philharmonic Orchestra](https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8) | [Summer Fantasy \(From “Justice Online”\)](https://open.spotify.com/album/2egmNxgYnLxHaHrNXgzMo2) | 2:34 |
 | 49 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 111 | [Bathsheba and Oak Unite \(From "Far from the Madding Crowd" Soundtrack\)](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 112 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `AAAAAFIUcT4RhxOGxlMFp4foiDglawnV`
+Snapshot ID: `AAAAAMFQAwM4qQCmWXh024wXcCja7BIp`

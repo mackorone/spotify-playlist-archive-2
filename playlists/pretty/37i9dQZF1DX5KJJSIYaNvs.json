@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover - Palak Muchhal",
-  "num_followers": 110591,
+  "num_followers": 110618,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPN7V4g/9VlUQRTecltvMgmjDmE4",
+  "snapshot_id": "AAAAADCEG3nMjexmEnpzIgTDNy4pPvpw",
   "tracks": [
     {
       "added_at": "2026-11-03 05:00:54",
@@ -847,6 +847,34 @@
     {
       "added_at": "2026-11-03 05:00:54",
       "album": {
+        "name": "Tu Hi Wajah (From \"Bhoomi 2026\")",
+        "url": "https://open.spotify.com/album/0HPQ8RL4AJoN4Amh7qjYSm"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 266676,
+      "name": "Tu Hi Wajah (From \"Bhoomi 2026\")",
+      "url": "https://open.spotify.com/track/1DZUbTP8Y7eLtA470BTBht"
+    },
+    {
+      "added_at": "2026-11-03 05:00:54",
+      "album": {
         "name": "Mulaqatein",
         "url": "https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ"
       },
@@ -887,34 +915,6 @@
       "duration_ms": 252587,
       "name": "Jalwa E Jaanaan - Maati S2",
       "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
-    },
-    {
-      "added_at": "2026-11-03 05:00:54",
-      "album": {
-        "name": "Tu Hi Wajah (From \"Bhoomi 2026\")",
-        "url": "https://open.spotify.com/album/0HPQ8RL4AJoN4Amh7qjYSm"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 266676,
-      "name": "Tu Hi Wajah (From \"Bhoomi 2026\")",
-      "url": "https://open.spotify.com/track/1DZUbTP8Y7eLtA470BTBht"
     },
     {
       "added_at": "2026-11-03 05:00:54",
@@ -1331,26 +1331,18 @@
     {
       "added_at": "2026-11-03 05:00:54",
       "album": {
-        "name": "Toxic (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
+        "name": "Jiya",
+        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
         }
       ],
-      "duration_ms": 171547,
-      "name": "Chingariyaan - From \"Toxic\"",
-      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
+      "duration_ms": 181826,
+      "name": "Jiya",
+      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
     },
     {
       "added_at": "2026-11-03 05:00:54",
@@ -1379,18 +1371,26 @@
     {
       "added_at": "2026-11-03 05:00:54",
       "album": {
-        "name": "Jiya",
-        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
+        "name": "Toxic (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
       },
       "artists": [
         {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
         }
       ],
-      "duration_ms": 181826,
-      "name": "Jiya",
-      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
+      "duration_ms": 171547,
+      "name": "Chingariyaan - From \"Toxic\"",
+      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
     },
     {
       "added_at": "2026-11-03 05:00:54",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-11-03 05:00:54",
       "album": {
+        "name": "Ishaare",
+        "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
+    },
+    {
+      "added_at": "2026-11-03 05:00:54",
+      "album": {
         "name": "Tum Yun Mile Ho",
         "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
       },
@@ -1479,18 +1495,22 @@
     {
       "added_at": "2026-11-03 05:00:54",
       "album": {
-        "name": "Ishaare",
-        "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
+        "name": "Jiya Mora",
+        "url": "https://open.spotify.com/album/1kJagEQC1xcP69zPDgHxDb"
       },
       "artists": [
         {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
         }
       ],
-      "duration_ms": 142173,
-      "name": "Ishaare",
-      "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
+      "duration_ms": 174545,
+      "name": "Jiya Mora",
+      "url": "https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH"
     },
     {
       "added_at": "2026-11-03 05:00:54",
@@ -1515,26 +1535,6 @@
       "duration_ms": 252621,
       "name": "Daastaan - The Drishyam Recap",
       "url": "https://open.spotify.com/track/7mOUFPpcuIkvkNigz1Swe5"
-    },
-    {
-      "added_at": "2026-11-03 05:00:54",
-      "album": {
-        "name": "Jiya Mora",
-        "url": "https://open.spotify.com/album/1kJagEQC1xcP69zPDgHxDb"
-      },
-      "artists": [
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Shubham Shirule",
-          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Jiya Mora",
-      "url": "https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH"
     },
     {
       "added_at": "2026-11-03 05:00:54",

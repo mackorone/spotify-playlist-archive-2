@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Aswell
 
-650 songs - 1 day 12 hr 22 min
+651 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ascension](https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Marathon 2 \(Mont\-Royal\)](https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI) | 6:24 | 2026-10-02 |  |
 | [Astronaute \- Deluxe](https://open.spotify.com/track/56DBXuNndPOxNfVYmX7mew) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim), [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [Cycle délicat \(Deluxe\)](https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy) | 2:50 | 2026-09-04 |  |
 | [Attends\-moi pas](https://open.spotify.com/track/5UV95aJxscC7hP62Hrlvat) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Je ne t'aime plus](https://open.spotify.com/album/6yKbg6bRr8Aj3m4GzQwAhp) | 2:23 | 2026-05-01 | 2026-06-13 |
+| [Au bout de la peur](https://open.spotify.com/track/5cfY60saiGhksHU7tzdcsa) | [Huriel](https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K), [VALOIS](https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk) | [Au bout de la peur](https://open.spotify.com/album/2yxVs7b883e0O0CohISiRp) | 3:49 | 2026-10-30 |  |
 | [Au début du soleil](https://open.spotify.com/track/48XwaGQMz2YpbxJk9VBeI9) | [Joseph Marchand](https://open.spotify.com/artist/3PtlrMQcFMfxJbmPvycl2F), [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Treize miniatures](https://open.spotify.com/album/06All3BqxHCltO0QXzF55F) | 1:53 | 2025-11-21 | 2026-03-14 |
 | [Au fond des bois \(feat\. Rymz\)](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 | 2025-12-26 | 2026-01-24 |
 | [Aucune fleur](https://open.spotify.com/track/1mNE0GGpvUrtg4yDroOCXw) | [Soleil Secret](https://open.spotify.com/artist/4IQCnobNBeEGanSiX0iU1K), [Secret sun](https://open.spotify.com/artist/3v7tbK2VbPQC4A3Isn2G1y) | [Soleil Secret \- Aucune fleur](https://open.spotify.com/album/1c8Ma7WVt1HCgPoAgAunwO) | 3:18 | 2026-03-20 | 2026-05-16 |
@@ -332,7 +333,7 @@
 | [Le Spectre](https://open.spotify.com/track/2nsfLmU40tquCtYY6dPnnb) | [Desy](https://open.spotify.com/artist/6bWX5tQebid2OyNLzJDT9Q), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Le Spectre](https://open.spotify.com/album/5qMrZgeLohAtwItdI7Esax) | 3:34 | 2026-03-13 | 2026-05-01 |
 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 | 2024-06-28 | 2025-04-19 |
 | [Leave Me Alone](https://open.spotify.com/track/5bj7q3xvnZr8H7wQTdAXLa) | [Vinni Payne](https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59) | [Leave Me Alone](https://open.spotify.com/album/22h3LpO9FAe3xWtZBfiPHo) | 2:26 | 2026-10-16 | 2026-10-24 |
-| [Leave You Behind](https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Leave You Behind](https://open.spotify.com/album/57AwWV7julwudwrjWA8EPd) | 2:53 | 2026-06-05 |  |
+| [Leave You Behind](https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Leave You Behind](https://open.spotify.com/album/57AwWV7julwudwrjWA8EPd) | 2:53 | 2026-06-05 | 2026-11-04 |
 | [Les avions](https://open.spotify.com/track/7aT6ht7g4HfOIum0mKw7Eb) | [Bonne nuit, chérie](https://open.spotify.com/artist/7ug7YjtHvqyA1QY2tRfjC9) | [Les avions](https://open.spotify.com/album/45HLbzQ4EzJwpJbsutH1F0) | 3:25 | 2025-10-17 | 2026-01-15 |
 | [Les catastrophes](https://open.spotify.com/track/6WTs6yDjbkWvQAxJy52bco) | [Andréanne Sabourin\-Côté](https://open.spotify.com/artist/4bgPlxnoanAoq5xdIfRTG2) | [Face A](https://open.spotify.com/album/5LbKIkO9T2S6FOdciRIU1v) | 4:30 | 2026-03-06 | 2026-03-21 |
 | [Les chemins de travers](https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Dynastie](https://open.spotify.com/album/7iQA80BCQhFCWe0In1PRp0) | 5:00 | 2024-10-04 | 2025-10-03 |

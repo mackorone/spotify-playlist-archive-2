@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,576 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,574 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [Spotlight](https://open.spotify.com/track/2p3FFRInA7EMjN9lMoTREv) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Spotlight](https://open.spotify.com/album/4WCujpaomv4OdxdCYTomKe) | 2:33 |
 | 50 | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/track/5jITjgPYZYUieRhS7fUJPP) | [אורי כלטוב](https://open.spotify.com/artist/0Ifr5SPFErAslSPfbPgUNW) | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/album/6vI3qWUMOfguz5kspNiPIo) | 2:30 |
 
-Snapshot ID: `AAAAAAcc3TAXu/F/Ui1Tq9jErom7TpdW`
+Snapshot ID: `AAAAAJ1Ir+ciuWyFR0t7GsfgE3c3rZZu`

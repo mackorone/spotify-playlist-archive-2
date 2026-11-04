@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้
 
-237 songs - 14 hr 36 min
+238 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 | 2023-06-09 |  |
 | [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 | 2023-02-21 | 2026-10-20 |
 | [ทำไมต้องคนนี้?](https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG) | [ทำไมต้องคนนี้?](https://open.spotify.com/album/2E0mvHoOhKLRcewQLgd9ee) | 2:50 | 2023-02-10 | 2024-04-19 |
+| [ทำไมต้องคนนี้?](https://open.spotify.com/track/3vgn9uNYGGpxABjcc4TWuF) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG) | [ทำไมต้องคนนี้?](https://open.spotify.com/album/1CeqcG4YboL2t3CUztmR0A) | 2:50 | 2026-04-29 |  |
 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 | 2023-02-10 | 2025-02-27 |
 | [นะครับ \(ได้ไหม\) \- Acoustic Version](https://open.spotify.com/track/51GuxG7BsdZ0MRR3CgbhFp) | [spsalola](https://open.spotify.com/artist/0KLp5ppsZerGbWrWnO7lXG) | [นะครับ \(ได้ไหม\) \[Acoustic Version\]](https://open.spotify.com/album/1i0J3VWxDAqpCaZcf5PJoM) | 4:09 | 2023-02-10 | 2024-05-21 |
 | [นานเท่าไหร่ก็จะรัก](https://open.spotify.com/track/4mQKlp0OQDS6SlcBro4iKx) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [นานเท่าไหร่ก็จะรัก](https://open.spotify.com/album/27RPkxN1HHONUp5tuQP7PL) | 3:43 | 2024-03-16 | 2024-07-16 |
@@ -127,7 +128,7 @@
 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-07-15 |  |
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2023-02-10 | 2023-05-09 |
 | [พิง \(เพลงประกอบละคร กระเช้าสีดา\)](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [พิง \- Single](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 | 2023-02-10 |  |
-| [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/5xP13jAUjzH2TBjxaj5stu) | 3:39 | 2025-08-17 |  |
+| [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/5xP13jAUjzH2TBjxaj5stu) | 3:39 | 2025-08-17 | 2026-11-04 |
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR) | 3:39 | 2023-02-10 | 2024-04-19 |
 | [ภูเขาบังเส้นผม \(Hide you\) feat\. TWOPEE](https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ภูเขาบังเส้นผม \(Hide you\)](https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr) | 3:39 | 2024-03-16 |  |
 | [มันคือความรัก](https://open.spotify.com/track/0teSa2LZFYcmJsWL3OQJXJ) | [Mr.Lazy](https://open.spotify.com/artist/0SxUEXqsDkjeDZRy60KZ8j), [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [White Music White Hits Album](https://open.spotify.com/album/1DY8ltrJojDtTVVEYVPHgh) | 3:28 | 2025-12-29 | 2026-06-04 |

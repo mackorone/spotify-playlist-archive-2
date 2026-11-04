@@ -6,7 +6,7 @@
     "name": "Bram Bloemen",
     "url": "https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq"
   },
-  "snapshot_id": "AAABSqr6gxSFC+TzSlIdq461Q6n8uaJN",
+  "snapshot_id": "AAABTIVjG2Irlsorx41I8FOWzialPFYv",
   "tracks": [
     {
       "added_at": "2020-07-21 16:26:45",
@@ -4595,6 +4595,42 @@
       "duration_ms": 328040,
       "name": "Love It",
       "url": "https://open.spotify.com/track/3zbkAAldw4iljC3ABcgRqu"
+    },
+    {
+      "added_at": "2026-11-03 10:13:44",
+      "album": {
+        "name": "The Flow",
+        "url": "https://open.spotify.com/album/2My75Iq0sI5UNJD2tVCAAi"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "The Flow",
+      "url": "https://open.spotify.com/track/5NLBOLqtHeOoCgtHNo8eN7"
+    },
+    {
+      "added_at": "2026-11-03 10:19:16",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/0UYwmKC16Zl74hASov2dk6"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        },
+        {
+          "name": "Mauro Somm",
+          "url": "https://open.spotify.com/artist/3jGc6igIVzjC0ElXKbsfHd"
+        }
+      ],
+      "duration_ms": 230270,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/5GxetRorkvVDqah2jGNjwT"
     }
   ],
   "unique_name": "Melodic",

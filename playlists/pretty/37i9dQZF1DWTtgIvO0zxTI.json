@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Foto: La Cruz ",
-  "num_followers": 93647,
+  "num_followers": 93653,
   "original_name": "Flow Venezuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD9sfKw5d4iN8QDgmOX+ypjSGE2/",
+  "snapshot_id": "AAAAAKfahGXHIwDUBHEx6SW+GtHjC+Qb",
   "tracks": [
     {
       "added_at": "2026-10-23 04:59:36",
@@ -93,6 +93,26 @@
       "url": "https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q"
     },
     {
+      "added_at": "2026-11-03 18:30:37",
+      "album": {
+        "name": "ESO NO ES DE ROCKSTAR",
+        "url": "https://open.spotify.com/album/2vGayndoqRxeKfOyzL4obx"
+      },
+      "artists": [
+        {
+          "name": "Dani Barranco",
+          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 176031,
+      "name": "8 preguntas",
+      "url": "https://open.spotify.com/track/6fRl2W57WGHbg5xUbJOy7G"
+    },
+    {
       "added_at": "2026-10-23 04:59:36",
       "album": {
         "name": "Gidi 2 Caracas (La M\u00fasica)",
@@ -143,26 +163,6 @@
       "duration_ms": 222511,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv"
-    },
-    {
-      "added_at": "2026-10-23 04:59:36",
-      "album": {
-        "name": "Problematikoh",
-        "url": "https://open.spotify.com/album/0PzOWsRyj1XSE6ttFsMxQ7"
-      },
-      "artists": [
-        {
-          "name": "Dani Barranco",
-          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "Problematikoh",
-      "url": "https://open.spotify.com/track/301LYshJiRuZuqcIqUl4LB"
     },
     {
       "added_at": "2026-06-12 15:15:04",
@@ -279,6 +279,26 @@
       "duration_ms": 156000,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC"
+    },
+    {
+      "added_at": "2026-11-03 18:30:37",
+      "album": {
+        "name": "ESO NO ES DE ROCKSTAR",
+        "url": "https://open.spotify.com/album/2vGayndoqRxeKfOyzL4obx"
+      },
+      "artists": [
+        {
+          "name": "Dani Barranco",
+          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 209791,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/6KIUvMGrTFGL00ijV7QkZ6"
     },
     {
       "added_at": "2026-10-23 04:59:36",
@@ -607,22 +627,6 @@
       "duration_ms": 156845,
       "name": "DesOrden",
       "url": "https://open.spotify.com/track/2Fd7PA5quhm73Aw7H3FwwN"
-    },
-    {
-      "added_at": "2026-10-23 04:59:36",
-      "album": {
-        "name": "desn\u00fadame x Medellin",
-        "url": "https://open.spotify.com/album/3O87bRydSOciQ9BqFZGUuT"
-      },
-      "artists": [
-        {
-          "name": "Dani Barranco",
-          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
-        }
-      ],
-      "duration_ms": 156176,
-      "name": "desn\u00fadame x Medellin",
-      "url": "https://open.spotify.com/track/40QRSZXAeuuIzZpg1jUFfh"
     },
     {
       "added_at": "2026-06-12 15:15:04",

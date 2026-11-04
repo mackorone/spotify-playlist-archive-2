@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: xiao xiao
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,281 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,288 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Get Up and Dance](https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Get Up and Dance](https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn) | 4:21 |
 | 75 | [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 |
 
-Snapshot ID: `AAAAAHR/dHqAwB6Fx4TAD2W/PjWXQcRJ`
+Snapshot ID: `AAAAAIKBEu/Se94x0aGNeaRWAJuJZ41y`

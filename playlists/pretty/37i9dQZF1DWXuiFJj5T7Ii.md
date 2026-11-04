@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 
 > Our editors' picks for best country songs of the year\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,678 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,720 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 | 32 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/6BZaRf4Zh9Y07qnELLboGu) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:01 |
 | 33 | [People Hatin'](https://open.spotify.com/track/5Q5CeW3FeTzrqYiYZxir8l) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [People Hatin'](https://open.spotify.com/album/0agjjIocSqdBq3pabKYrlJ) | 4:08 |
 | 34 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 |
-| 35 | [Dream Come True](https://open.spotify.com/track/2NjsQqEUvkMku9VHRhBAn5) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 2:58 |
+| 35 | [Dream Come True](https://open.spotify.com/track/5u4PukbCMvkFuL3RhKTzhO) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Dream Come True](https://open.spotify.com/album/38tmkYP4ggGyNADbAL1iM3) | 2:57 |
 | 36 | [Sober](https://open.spotify.com/track/1ml4KeOvEgQFazOfZqrlSU) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Texas Forever](https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe) | 3:31 |
 | 37 | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB) | 3:55 |
 | 38 | [Baggage](https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:32 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 | 40 | [Johnny \- Single Edit](https://open.spotify.com/track/1j2sOWFrq5IeEze75RJwzG) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Johnny](https://open.spotify.com/album/1QFl8e1rgipIyTXgxcZCRg) | 4:20 |
 | 41 | [Amen](https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:17 |
 | 42 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/59F5qOMpqqclD21cIAxFEo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:45 |
-| 43 | [Starting New](https://open.spotify.com/track/6IuVJasJ0NTC1U7cEM2Gx0) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Smokestack Town](https://open.spotify.com/album/418zF0fTcSEOWTnaMbyoKr) | 3:53 |
+| 43 | [Starting New](https://open.spotify.com/track/4bhuYYm6eysWaN3hskJna3) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Smokestack Town](https://open.spotify.com/album/3UYGvm4wCqViaF8XkOhd5m) | 3:53 |
 | 44 | [Sounds Like Something I'd Say \(Feat\. Parker McCollum\)](https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Sounds Like Something I'd Say \(Feat\. Parker McCollum\)](https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78) | 3:20 |
 | 45 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 |
 | 46 | [The Fence](https://open.spotify.com/track/4qVZeKKmRMk8jUZIMkA0xk) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [The Fence](https://open.spotify.com/album/7lwhC9rO5k4ChxUPUhJtvL) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 | 74 | [Backseat Driver](https://open.spotify.com/track/503M7xJjwoLZZIshZQAzqF) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:48 |
 | 75 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
 
-Snapshot ID: `AAAAAO17Mq39CoH1oNTgVoxTQr+37ClS`
+Snapshot ID: `AAAAAKEWBLFBUwnoYuQYUSdGfOaQ0V96`

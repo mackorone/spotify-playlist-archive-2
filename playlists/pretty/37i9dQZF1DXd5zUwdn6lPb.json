@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 618368,
+  "num_followers": 618540,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwvFLW4qVzi7HAAd0qc5dUtrFhZ",
+  "snapshot_id": "AAAAAFL6Q6tOI+djE16qtBuHTu/DCdUL",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:32",
@@ -751,30 +751,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Glass: Tissue No. 7 (Musical Moments)",
-        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Camille Thomas",
-          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
-        },
-        {
-          "name": "Julien Brocal",
-          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
-        }
-      ],
-      "duration_ms": 195712,
-      "name": "Tissue No. 7",
-      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Lacrimosa (Arr. Piano)",
         "url": "https://open.spotify.com/album/5pXRAGlv6hnd5vJvcQ8Z3A"
       },
@@ -815,6 +791,30 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Glass: Tissue No. 7 (Musical Moments)",
+        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Julien Brocal",
+          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
+        }
+      ],
+      "duration_ms": 195712,
+      "name": "Tissue No. 7",
+      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Schumann: Myrthen, Op.25 - Version For Cello And Piano, 24. Du bist wie eine Blume",
         "url": "https://open.spotify.com/album/0nNceg0mOYKmxH1p8NhNSK"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+        }
+      ],
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Debussy: R\u00eaverie, CD 76",
         "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 259799,
       "name": "R\u00eaverie, CD 76",
       "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
-        }
-      ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
       },
       "artists": [
         {
@@ -1040,13 +1040,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
         }
       ],
-      "duration_ms": 92853,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+      "duration_ms": 151923,
+      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
@@ -1148,13 +1148,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 151923,
-      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
+      "duration_ms": 92853,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Alexandre Tharaud. \"Voyage en France\"",
         "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 326400,
       "name": "Jeux d\u2019eau, M 30",
       "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1367,6 +1347,26 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
         "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
         "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 144333,
       "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
       "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2026-09-25 04:01:32",
@@ -1991,6 +1991,26 @@
     {
       "added_at": "2026-09-25 04:01:32",
       "album": {
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (Arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+    },
+    {
+      "added_at": "2026-09-25 04:01:32",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -2047,38 +2067,6 @@
       "duration_ms": 179800,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn"
-    },
-    {
-      "added_at": "2026-09-25 04:01:32",
-      "album": {
-        "name": "Danzi: Music for Clarinet & Orchestra",
-        "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
-      },
-      "artists": [
-        {
-          "name": "Franz Danzi",
-          "url": "https://open.spotify.com/artist/6k3Ws6wp7iOp7lN7pxsfjT"
-        },
-        {
-          "name": "Eduard Brunner",
-          "url": "https://open.spotify.com/artist/1YZbTL8pA4Xe9Ha7V4tLBu"
-        },
-        {
-          "name": "Klaus Thunemann",
-          "url": "https://open.spotify.com/artist/0HLqp813o9kv2t8JtVLH4a"
-        },
-        {
-          "name": "Munich Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/43CmLUkZNUzmvPNUhxeoSU"
-        },
-        {
-          "name": "Hans Stadlmair",
-          "url": "https://open.spotify.com/artist/2nSo5GklA6StFDLyVq0uEA"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante",
-      "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
     }
   ],
   "unique_name": "Classical Focus",

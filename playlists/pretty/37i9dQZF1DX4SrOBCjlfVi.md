@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Young Nudy, BigXthaPlug, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,605 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,644 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [HIT YOUR PHONE](https://open.spotify.com/track/22aq9utGOxjg3DaS33gxPE) | [BabyBartier](https://open.spotify.com/artist/1XNYNLCPH2kILEL73Kp1y9) | [HIT YOUR PHONE](https://open.spotify.com/album/6Y3pIygELttvooNIQTMArK) | 1:39 |
 | 49 | [Been Wavy](https://open.spotify.com/track/0v4la9ZzJjQJrBk17QgafM) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [MS HUSTLE](https://open.spotify.com/artist/2nQcRubxUw48XFynmQneHw) | [Sailor Goon](https://open.spotify.com/album/2YX2hNBXVZeZoTpGyTXRQ9) | 3:47 |
 
-Snapshot ID: `AAAAAAKoXAsZN6mvCBJsnf6q6ep+dGkT`
+Snapshot ID: `AAAAAFfwKMwcb79jLk4wn+1D288raYvi`

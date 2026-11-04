@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,621 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,624 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 29 | [What's Changed](https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:40 |
 | 30 | [Rain](https://open.spotify.com/track/4aTIJmX2tfsw2Lcxo8LwBg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:34 |
 | 31 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:37 |
-| 32 | [Nothing Like This](https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Nothing Like This](https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr) | 3:03 |
-| 33 | [Woman Trouble \(Radio Edit\)](https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA) | 4:01 |
+| 32 | [Woman Trouble \(Radio Edit\)](https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Robbie Craig](https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Woman Trouble](https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA) | 4:01 |
+| 33 | [Nothing Like This](https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Nothing Like This](https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr) | 3:03 |
 | 34 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 |
 | 35 | [We Were Just Kids \(feat\. Craig David & Kirsten Joy\)](https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kirsten Joy](https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:29 |
 | 36 | [For Once In My Life](https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:34 |

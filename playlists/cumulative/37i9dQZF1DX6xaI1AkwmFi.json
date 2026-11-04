@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 175727,
       "name": "BOW AND ARROW",
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 266974,
       "name": "Dear",
       "url": "https://open.spotify.com/track/6upKdkevIOzrl3MvOZkg2R"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 177500,
       "name": "Everything I Need",
       "url": "https://open.spotify.com/track/3d4jmXtJu1y6XIrP3kIPvt"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 189000,
       "name": "ICONIC HEART",
       "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
@@ -3969,6 +3969,32 @@
     },
     {
       "album": {
+        "name": "PEACE (feat. WILYWNKA)",
+        "url": "https://open.spotify.com/album/2k2xm1B580KdRjtq7ghLwi"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        },
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "PEACE - feat. WILYWNKA",
+      "url": "https://open.spotify.com/track/2dCtax7khWtpUEmuAt7cND"
+    },
+    {
+      "album": {
         "name": "PEEK A BOO",
         "url": "https://open.spotify.com/album/27ovbDe4pbIuUwXFBPC0UH"
       },
@@ -4360,6 +4386,24 @@
       "duration_ms": 168120,
       "name": "Rainy Driver",
       "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
+    },
+    {
+      "album": {
+        "name": "Raspberry",
+        "url": "https://open.spotify.com/album/7xp12xjs1p0twJ3w9GinOm"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Raspberry",
+      "url": "https://open.spotify.com/track/0P5GeyB3QX0Yicn8dHZbRZ"
     },
     {
       "album": {
@@ -7600,7 +7644,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 268800,
       "name": "\u30af\u30e9\u30a4\u30cd",
       "url": "https://open.spotify.com/track/4GnrPXsMALWfu1Bp7URyYq"
@@ -9601,6 +9645,28 @@
     },
     {
       "album": {
+        "name": "\u50d5\u3089\u306e\u4e8b\u306b\u3055\u305b\u3066 (Prod. Vaundy)",
+        "url": "https://open.spotify.com/album/1Mjrfn6qqRAAJM6OTjxnaz"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        },
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317102,
+      "name": "\u50d5\u3089\u306e\u4e8b\u306b\u3055\u305b\u3066 (Prod. Vaundy)",
+      "url": "https://open.spotify.com/track/73PjaJWkRvlTqGekbZ3rjZ"
+    },
+    {
+      "album": {
         "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
         "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
       },
@@ -9796,6 +9862,24 @@
       "duration_ms": 187800,
       "name": "\u5348\u524d\u56db\u6642",
       "url": "https://open.spotify.com/track/0wQdYrJT00p7OKoUiBZZaW"
+    },
+    {
+      "album": {
+        "name": "PURE",
+        "url": "https://open.spotify.com/album/5R0dCdjb1aDADy623EOLpg"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "\u541b\u3068\u751f\u304d\u3066\u541b\u3068\u6b7b\u306b\u305f\u3044\uff01",
+      "url": "https://open.spotify.com/track/76m7HVNSn9boYZqzfdMuXq"
     },
     {
       "album": {
@@ -10100,7 +10184,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 202529,
       "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
       "url": "https://open.spotify.com/track/6O8Xcn1WhdJUQz8AFN0ghn"

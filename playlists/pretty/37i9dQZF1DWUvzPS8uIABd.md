@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,504 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,487 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 99 | [Pahoille teille](https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Pahoille teille](https://open.spotify.com/album/30uvqyR8zMCrmnZ6IGwH31) | 2:38 |
 | 100 | [Pidä kii](https://open.spotify.com/track/308QHU9tQ8hDQouvmHM7Ay) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Pidä kii](https://open.spotify.com/album/2jLbBZZgDM6F8n4NJsinXo) | 3:38 |
 
-Snapshot ID: `AAAAAMxois4iLTrkwHwePb+oCgGAuW4Z`
+Snapshot ID: `AAAAAMU53MRcYCo7tlmo4FJ9tqCiwYKi`

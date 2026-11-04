@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367255,
+  "num_followers": 367242,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACT+SG8UkVr6zn5dZeCQhlUJ9yvc",
+  "snapshot_id": "AAAAAPuIeLHqdp4Tao5jQeH0assvYHto",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Slow Dance (For A Minute)",
-        "url": "https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Slow Dance (For A Minute)",
-      "url": "https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw"
-    },
-    {
-      "added_at": "2026-10-15 22:00:59",
-      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/0oHB2HAnWAToJvn7c4qZIt"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 179893,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/4oWMKNeoD1ghLCy37m0wQ1"
+    },
+    {
+      "added_at": "2026-10-15 22:00:59",
+      "album": {
+        "name": "Slow Dance (For A Minute)",
+        "url": "https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Slow Dance (For A Minute)",
+      "url": "https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw"
     },
     {
       "added_at": "2026-10-15 22:00:59",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2026-10-15 22:00:59",
-      "album": {
         "name": "How To Heal",
         "url": "https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 176114,
       "name": "You",
       "url": "https://open.spotify.com/track/7hkYOiAjBNifkavLfxjCo6"
+    },
+    {
+      "added_at": "2026-10-15 22:00:59",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2026-10-15 22:00:59",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Flugmodus",
-        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
-      },
-      "artists": [
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
-        }
-      ],
-      "duration_ms": 178469,
-      "name": "Flugmodus",
-      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
-    },
-    {
-      "added_at": "2026-10-15 22:00:59",
-      "album": {
         "name": "GROWING UP IS _____",
         "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 233587,
       "name": "GROWING UP IS _____",
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2026-10-15 22:00:59",
+      "album": {
+        "name": "Flugmodus",
+        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
+      },
+      "artists": [
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "duration_ms": 178469,
+      "name": "Flugmodus",
+      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
     },
     {
       "added_at": "2026-10-15 22:00:59",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2026-10-15 22:00:59",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+      "duration_ms": 170928,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
     },
     {
       "added_at": "2026-10-15 22:00:59",

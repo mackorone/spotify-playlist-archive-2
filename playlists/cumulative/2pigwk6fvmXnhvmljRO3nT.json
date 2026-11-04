@@ -54091,6 +54091,28 @@
     },
     {
       "album": {
+        "name": "Entremont Plays Satie",
+        "url": "https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205866,
+      "name": "Gymnop\u00e9die No. 1",
+      "url": "https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -74228,7 +74250,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 242930,
       "name": "LAUDER",
       "url": "https://open.spotify.com/track/6v19tp922KYTzPg7sovNt1"
@@ -134998,7 +135020,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 288226,
       "name": "This Can't Be Life",
       "url": "https://open.spotify.com/track/4UPyqSVCf0ukiBbi0MvLDW"

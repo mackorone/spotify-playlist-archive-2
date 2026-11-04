@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZVztSCAFKCwIuTNXtDkMG.md) - [plain]
 
 > Feel the difference with MadFit's official workout playlist\.  <a href="https://topsify.lnk.to/MadFitYouTubeSY">Subscribe to MadFit on YouTube.</a>
 
-[Topsify](https://open.spotify.com/user/topsify) - 147,290 likes - 100 songs - 5 hr 29 min
+[Topsify](https://open.spotify.com/user/topsify) - 147,275 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

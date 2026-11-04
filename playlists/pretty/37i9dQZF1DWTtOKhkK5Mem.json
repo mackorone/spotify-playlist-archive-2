@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 829543,
+  "num_followers": 829587,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwrtQTHZDtVO1omH2xJwxNpAIzB",
+  "snapshot_id": "AAAAAIXtQV7v1hSIoedB2wkqQObtHIlU",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "I've Been Expecting You",
-        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "She's The One",
-      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Picture This (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 246240,
       "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
       "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "I've Been Expecting You",
+        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "She's The One",
+      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Chicago 18 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 343280,
-      "name": "Will You Still Love Me? - 2009 Remaster",
-      "url": "https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lay Me Down",
         "url": "https://open.spotify.com/album/3uRJWbCnuU4kCxHQWp009X"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 219045,
       "name": "Lay Me Down - Single Version",
       "url": "https://open.spotify.com/track/7r4dwgu3hzR60pVulZ9IP9"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Chicago 18 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 343280,
+      "name": "Will You Still Love Me? - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Ultimate Manilow",
-        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Mandy - Single Version",
-      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1419,34 +1419,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Classics (Vol.4)",
-        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
+        "name": "Ultimate Manilow",
+        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 162973,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "More Than This - The Best Of Bryan Ferry And Roxy Music",
-        "url": "https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt"
+      "duration_ms": 197733,
+      "name": "Mandy - Single Version",
+      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 219960,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/3f5rOhrNLYP53c9RcPfp02"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "More Than This - The Best Of Bryan Ferry And Roxy Music",
+        "url": "https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Lasting Love",
-        "url": "https://open.spotify.com/album/1jZJMsrl6E1ycGXJeYykJ0"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 285040,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/0tx981nZO0V21ZgRRSKxqe"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Whitesnake's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 284400,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/78FzQfooQzB43sGzlpI2At"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Lasting Love",
+        "url": "https://open.spotify.com/album/1jZJMsrl6E1ycGXJeYykJ0"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/0tx981nZO0V21ZgRRSKxqe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2255,18 +2255,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "David Soul",
+        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "David Soul",
+          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 218946,
+      "name": "Don't give up on us",
+      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2283,6 +2283,22 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes - Edit",
       "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2315,22 +2331,6 @@
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "David Soul",
-        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
-      },
-      "artists": [
-        {
-          "name": "David Soul",
-          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Don't give up on us",
-      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
     },
     {
       "added_at": "2022-08-26 12:00:00",

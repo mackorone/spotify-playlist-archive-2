@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 41 | [Meal Prepping](https://open.spotify.com/track/1miszn27p0hfXYkwVRWj5v) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 2:46 |
 | 42 | [YOU](https://open.spotify.com/track/4NGPIOGig9sCHWj6roOmeu) | [ANKHLEJOHN](https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [WHAT REMAINS](https://open.spotify.com/album/1KlMknPbPoZLgevvWAKbF6) | 1:26 |
 | 43 | [2 Left Feet](https://open.spotify.com/track/1mdArD6d9HmEVdXR2SeuG4) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 3:24 |
-| 44 | [SINNERS](https://open.spotify.com/track/6SZeloYUNLBtz9r6O1mPwH) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Salvation for the Wicked](https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM) | 2:36 |
-| 45 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
+| 44 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
+| 45 | [SINNERS](https://open.spotify.com/track/6SZeloYUNLBtz9r6O1mPwH) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Salvation for the Wicked](https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM) | 2:36 |
 | 46 | [Look What You Done](https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:14 |
 | 47 | [Thumb of Craven](https://open.spotify.com/track/0b4QMytM23x5RIqNoZR3pv) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 3:04 |
-| 48 | [FORGIVENESS](https://open.spotify.com/track/4jQ3pZetRgBQV5rU768QoH) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Salvation for the Wicked](https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM) | 2:21 |
-| 49 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 |
+| 48 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 |
+| 49 | [FORGIVENESS](https://open.spotify.com/track/4jQ3pZetRgBQV5rU768QoH) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Salvation for the Wicked](https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM) | 2:21 |
 | 50 | [Wit out a Question](https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:26 |
 
-Snapshot ID: `auUvgAAAAACpVYciyS+diwyJjJ6LXsUy`
+Snapshot ID: `auaBAAAAAAAjpRADmdV8edAvEHfMOvyo`

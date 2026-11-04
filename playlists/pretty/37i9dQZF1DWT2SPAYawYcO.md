@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Dominic Fike, Gracie Abrams, 5SOS, TEEKS + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,242 likes - 89 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,220 likes - 89 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 88 | [Imagine](https://open.spotify.com/track/72owjmNDnMivH1YPUvZ4aU) | [BARTS](https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH), [IVANA](https://open.spotify.com/artist/7pn6Syh1RaJDbprpLFz58N) | [Imagine](https://open.spotify.com/album/25tSPyqjcHwYVPH86FXPlJ) | 3:32 |
 | 89 | [VOID](https://open.spotify.com/track/6QddY6kBcZW7Kg6a8Y5uAe) | [FANGZ](https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy) | [VOID](https://open.spotify.com/album/7ivD2qJ3hAoL75JKPxhUfS) | 3:34 |
 
-Snapshot ID: `AAAAAC3D7XOYgAm74hcbnPHG7H9sLZ3+`
+Snapshot ID: `AAAAAEz/D+UwSo21/yV+mE1yHbtd72fn`

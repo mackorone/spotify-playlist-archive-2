@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,693 songs - 3 day 13 hr 5 min
+1,694 songs - 3 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [BYE](https://open.spotify.com/track/7y96ZlDK5dsa5bVP29BrHO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:53 | 2026-06-20 | 2026-07-09 |
 | [BYE BYE](https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 2:43 | 2025-12-19 | 2026-04-23 |
 | [Bölüm Sonu](https://open.spotify.com/track/1W7vixv87ysuAoOKzz0uLE) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Bölüm Sonu](https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0) | 2:41 | 2023-08-26 | 2023-10-07 |
+| [Böyle Kahpedir Dünya](https://open.spotify.com/track/257FRDatWz1V90vKJP2mwV) | [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [Gripin](https://open.spotify.com/album/5HXzcpST9xlr25I7TCuoG7) | 4:22 | 2026-11-03 |  |
 | [Böyle Sever](https://open.spotify.com/track/7hU3H2id2pBVawD7e3zd8N) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [19](https://open.spotify.com/album/3lQ0IrxVzM4Bn6BI6gcQMj) | 4:04 | 2024-12-03 | 2025-10-03 |
 | [Bütün Gülleri Çalmışlar](https://open.spotify.com/track/0ZrreFYweVri0h5fZhegq0) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Umut](https://open.spotify.com/album/3BdlyOtto3aobfiUiSkYMJ) | 2:41 | 2021-05-16 | 2021-05-21 |
 | [Büyük İnsan](https://open.spotify.com/track/5wImzSCz8puf7BY82SXCiF) | [İntizar](https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0) | [Ömrüm Senindir](https://open.spotify.com/album/69B5odbEJMLqOxdSZhvrZc) | 4:13 | 2025-10-08 | 2026-01-06 |
@@ -1339,7 +1340,7 @@
 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-20 | 2023-08-27 |
 | [Sen Evlisin](https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Ağlıyorsam Yaşıyorum \- Gülden Karaböcek Klasikleri, Vol\. 2](https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW) | 3:40 | 2024-02-12 | 2024-09-12 |
 | [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 | 2024-08-10 | 2026-04-17 |
-| [Sen Orda Yoksun](https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Sen Orda Yoksun](https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD) | 4:01 | 2026-08-20 |  |
+| [Sen Orda Yoksun](https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Sen Orda Yoksun](https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD) | 4:01 | 2026-08-20 | 2026-11-04 |
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Sen ve Yıldız](https://open.spotify.com/track/3tIoAdD3rSPCYdtR55TXyj) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sen ve Yıldız](https://open.spotify.com/album/1nQRXlzrnkEN8qJAoj4pra) | 3:18 | 2023-11-04 | 2023-11-06 |
 | [Sende Kalmış](https://open.spotify.com/track/28xHWi9g6Rt4C0eGaf6Wvu) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq) | 3:44 | 2026-05-02 | 2026-05-08 |

@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 709927,
+  "num_followers": 709942,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHXZyMPBZniVBe5hAEJx+X3aNkCO",
+  "snapshot_id": "AAAAAJ2+1LWJHVdQdKcEwkpX/78bQePX",
   "tracks": [
     {
       "added_at": "2026-05-08 04:01:55",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Slipping Through My Fingers",
         "url": "https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 263500,
       "name": "Slipping Through My Fingers",
       "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 215843,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 182068,
       "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 215843,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/7cQ2x6bqiOKWzKxB7Rp8tc"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "Mr. Sandman",
         "url": "https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 206493,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Every Breath You Take (feat. Liza Anne)",
-        "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
-      },
-      "artists": [
-        {
-          "name": "Aaron Krause",
-          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
-        },
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Every Breath You Take (feat. Liza Anne)",
-      "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
     }
   ],
   "unique_name": "Classic Covers",

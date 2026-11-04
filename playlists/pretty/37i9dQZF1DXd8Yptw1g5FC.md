@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sertab Erener ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,613 likes - 104 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,619 likes - 104 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 103 | [YANGIN](https://open.spotify.com/track/7FzQTKbzX7SCTNNZ2risVJ) | [ASLY](https://open.spotify.com/artist/3HaMbD4rPkq9vnP77FOOKb) | [YANGIN](https://open.spotify.com/album/5Dkye9IahSM9M11Is7pemC) | 4:00 |
 | 104 | [gelemem](https://open.spotify.com/track/31HqfnuxlwLepvlfu5gOSr) | [STVR](https://open.spotify.com/artist/0p8AsjpUmhwyKXYhSZuJNi) | [gelemem](https://open.spotify.com/album/5bv50QhLEEMp3guJ5Yy6ia) | 1:51 |
 
-Snapshot ID: `AAAAAJb1hiXekyjErn2bYEp+W7nJEiaz`
+Snapshot ID: `AAAAAEHPyCdluNn9E7Inq5xriv3YVquC`

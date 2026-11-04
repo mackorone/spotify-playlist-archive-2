@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 54884,
+  "num_followers": 54981,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAADUbVob0igKbt/R2hWKRf4I",
+  "snapshot_id": "auaBAAAAAAAcu3LMVF7Bpoibr6yeShn/",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 168213,
       "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
       "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
     },
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 201933,
       "name": "I CARE: FAYE WEBSTER VERSION",
       "url": "https://open.spotify.com/track/2952OPwh3MiKGVN5gXR70j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 124880,
-      "name": "I Don't Wanna Be Blind",
-      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 78590,
+      "name": "Blue by You",
+      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 166480,
       "name": "LIGHT DESIGN: OKLOU VERSION",
       "url": "https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 78590,
-      "name": "Blue by You",
-      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
     },
     {
       "added_at": null,

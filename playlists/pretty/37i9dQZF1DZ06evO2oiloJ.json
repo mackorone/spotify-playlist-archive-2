@@ -1,6 +1,6 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 257686,
+  "num_followers": 257705,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jupiter's Diary: 7 Day Theory",
+        "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Love Overdose",
+      "url": "https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 172602,
       "name": "Fall Fast in Love",
       "url": "https://open.spotify.com/track/32rUiWgyd3Du6uJe0CbXR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jupiter's Diary: 7 Day Theory",
-        "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Love Overdose",
-      "url": "https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh"
     },
     {
       "added_at": null,

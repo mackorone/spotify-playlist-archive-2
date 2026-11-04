@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With NUDNIK, DIE DIE BE, Rue Oberkampf and more
+> With NUDNIK, JUST LIZZY, DIE DIE BE and more
 
 1,411 songs - 3 day 18 hr 55 min
 

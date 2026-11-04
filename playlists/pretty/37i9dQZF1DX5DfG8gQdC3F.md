@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Dominic Fike, Nickelback, Gracie Abrams, BigXthaPlug, Jahson Paynter, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,422 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,362 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Visions](https://open.spotify.com/track/4iMEZjaZd6QrBXbGXwK0z4) | [Lowkita](https://open.spotify.com/artist/5a6ihpmD1tWEkLsql9vDxC) | [Why\(te\) Tee](https://open.spotify.com/album/0w2pDF54RFwGjcL6joWXQF) | 2:36 |
 | 100 | [IFYGF](https://open.spotify.com/track/6jYJYzfwvI8DUeHD4wP35R) | [Gen Laforce](https://open.spotify.com/artist/41V8rH3K84PmlhLSAf8NsS) | [IFYGF](https://open.spotify.com/album/02PMAdeF21U9rdrt08wWJv) | 2:22 |
 
-Snapshot ID: `AAAAAPlZ0gdbYeUQJfpqZn/U2q/KBA3G`
+Snapshot ID: `AAAAAF7mPVUF9uYaqAtCRNuTFfswXhEe`

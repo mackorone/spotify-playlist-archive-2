@@ -4,7 +4,7 @@
 
 > ❗️Nieuwe tracks van HIGH SOCIETY & OYSTER \(Spotify RADAR\-artiest\); 3robi, Mensa & Henkie T; Idaly, Adje & CHO en meer..
 
-635 songs - 1 day 4 hr 32 min
+636 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,8 @@
 | [Technisch](https://open.spotify.com/track/1EgJppxmTVC8lkvab5kndk) | [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Technisch](https://open.spotify.com/album/22ZreRJH204KD8ZCKs024n) | 3:06 | 2026-07-16 | 2026-09-16 |
 | [Tellen](https://open.spotify.com/track/6E0301CxsDRQLsPJp5aCha) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [REGELAAR](https://open.spotify.com/album/0qSvKIR2s0O2BaFcl23tL1) | 2:49 | 2025-12-11 | 2026-03-20 |
 | [Ten Hag](https://open.spotify.com/track/0DhFudPWfqlTA4olwQBaHs) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [Ten Hag](https://open.spotify.com/album/1JAlftK2rH4aYZ1OdjJbLU) | 2:14 | 2025-08-28 | 2025-10-03 |
-| [TF3](https://open.spotify.com/track/2G2gYyRTNzAW5X7BBlx5Vf) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 4:05 | 2026-10-29 |  |
+| [TF3](https://open.spotify.com/track/2G2gYyRTNzAW5X7BBlx5Vf) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 4:05 | 2026-10-29 | 2026-11-04 |
+| [TF3](https://open.spotify.com/track/7kPCKywdvgopywtcmUKbJ6) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/69tRf27Cjspimzp6d1ij15) | 4:36 | 2026-11-03 |  |
 | [The Biggest](https://open.spotify.com/track/064X2YCbMsFVEG2NO8c0ME) | [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [The Biggest](https://open.spotify.com/album/1p5gs3ri4razIUXp9ysuos) | 1:45 | 2026-04-16 | 2026-05-19 |
 | [The Game](https://open.spotify.com/track/2CSOgDt6IAcLs20zdZ5Yte) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp), [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Springplank 2 \(Deluxe\)](https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL) | 3:17 | 2025-09-18 | 2025-10-03 |
 | [Theezakjes](https://open.spotify.com/track/1DhmAP6wzyk83oSu9aCfV8) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Theezakjes](https://open.spotify.com/album/7oQovlHX14Tuu4x8MGbxeJ) | 2:04 | 2025-07-24 | 2025-09-07 |

@@ -2,9 +2,9 @@
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIUAb1pCe6QOZ>Whiskey Myers</a>, <a href=spotify:playlist:37i9dQZF1EIUXx6OHYXD1I>pupsies</a>, <a href=spotify:playlist:37i9dQZF1EIZgxpYE3Nj2W>Plain White T's</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIUAb1pCe6QOZ>Whiskey Myers</a>, <a href=spotify:playlist:37i9dQZF1EIUXx6OHYXD1I>pupsies</a>, <a href=spotify:playlist:37i9dQZF1EIZCxFUJomB5x>SIENNA SPIRO</a> and more
 
-1,225 songs - 3 day 0 hr 11 min
+1,226 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Diary Depresiku](https://open.spotify.com/track/4HPxh6IkRxCkb3T06Pltch) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Everything We Are Everything](https://open.spotify.com/album/54kJ2LnLUi8jhkgtgJaIXc) | 5:17 | 2025-12-10 | 2026-03-08 |
 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 | 2026-02-28 | 2026-05-03 |
 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2025-12-23 | 2026-02-23 |
+| [Die On This Hill](https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:37 | 2026-11-04 |  |
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-09-20 | 2026-06-21 |
 | [difference \(interlude\)](https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:16 | 2024-04-09 | 2024-04-11 |
 | [Dirimu Yang Dulu](https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:00 | 2026-01-15 | 2026-02-27 |
@@ -431,7 +432,7 @@
 | [Heavenly Kind Of State Of Mind](https://open.spotify.com/track/7lvfJHcumTCV5Yjt4Tl1I1) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:21 | 2023-07-18 | 2023-07-19 |
 | [held your heart](https://open.spotify.com/track/6EY8tZnKEzRylJG4QrQh66) | [gloomy](https://open.spotify.com/artist/69beQ0OjuDA1QZaFJLLuhW), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th), [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX) | [held your heart](https://open.spotify.com/album/60iPmYKOjVdNhz8L64rQPz) | 2:21 | 2026-06-30 | 2026-07-01 |
 | [Herida Abierta](https://open.spotify.com/track/1xvuA42QBl5ssBHvCwHXwK) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 3:36 | 2026-04-13 | 2026-04-29 |
-| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2026-07-10 |  |
+| [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2026-07-10 | 2026-11-04 |
 | [Hide Behind My Disguise](https://open.spotify.com/track/7yqCXB1u5eWVWzx0A9HNyn) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 3:23 | 2026-08-13 |  |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-06-17 | 2026-07-10 |
 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 | 2022-11-29 | 2025-12-20 |

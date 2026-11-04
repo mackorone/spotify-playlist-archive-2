@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Maaaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,758 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,757 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Call](https://open.spotify.com/track/0nvZTtfY2wtpC4Vsshv4fe) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Call](https://open.spotify.com/album/02SMVXnAqyc2qJRQfEcihp) | 4:16 |
 | 80 | [LOST](https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [LOST](https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz) | 3:41 |
 
-Snapshot ID: `AAAAAOf17PEf7agacHU7md2SWmoPRF0K`
+Snapshot ID: `AAAAADs5Mu/UCK5JZLtohRzJ7rNbK4NZ`

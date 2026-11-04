@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,950 likes - 194 songs - 12 hr 12 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,950 likes - 197 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,5 +202,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 192 | [Kendi Dünyam](https://open.spotify.com/track/643dEOMjkJ3vcY0AqIXWtn) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Kendi Dünyam](https://open.spotify.com/album/5Kv5Rnnna9hKfjKcv4pY41) | 2:36 |
 | 193 | [SANCOCHO](https://open.spotify.com/track/76RUHJgHO72jPSzuZlcxKK) | [R69.](https://open.spotify.com/artist/7HyKPvhSUoLztKsDq2wGFj) | [SANCOCHO](https://open.spotify.com/album/7dlZFkwBoU2r8vEQnX5tKi) | 2:05 |
 | 194 | [Gum On My Shoe](https://open.spotify.com/track/6RxMgMkrKsNBW6OFClALJf) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Gum On My Shoe](https://open.spotify.com/album/1pCNAudbov019XN9bmYycg) | 2:49 |
+| 195 | [Bad Girl](https://open.spotify.com/track/4B5EPbvObQFIfFlww8RYFF) | [Shadowcast](https://open.spotify.com/artist/5FxRl4JNEu1Xa7BQ5b1Lza) | [Bad Girl](https://open.spotify.com/album/2uAIgvSpuJ7GLiGYGO4rVO) | 4:33 |
+| 196 | [Obsessed](https://open.spotify.com/track/5wj9CKSCA03adRI9tM2j1x) | [Leela Misel](https://open.spotify.com/artist/1zQTvWsb6vuMGVoAlhXvJ1) | [Obsessed](https://open.spotify.com/album/0RW5aKam3r8yxlj8s5w8zr) | 3:42 |
+| 197 | [He's My Best Friend](https://open.spotify.com/track/5b3aXT4oMVQqwmR4x9bmuS) | [Benj Clarke](https://open.spotify.com/artist/1dQvzl3MgJ9iok8Erpg5dn), [Bill Brandenburgh](https://open.spotify.com/artist/32skbbFJEqpuO0Fe6x2H2x) | [He's My Best Friend](https://open.spotify.com/album/3uKnZLigSGqoGYtoVBsSiz) | 4:15 |
 
-Snapshot ID: `AAAM76s8JjmDsiuJF3z186z0jfSmm1OE`
+Snapshot ID: `AAAM8mpD2lBU/4ypzkgDrfuJ5WubDOR5`

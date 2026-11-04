@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Elise Elvira
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,585 likes - 200 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,582 likes - 200 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 199 | [Wind that makes the subway sound](https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wind that makes the subway sound](https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a) | 2:52 |
 | 200 | [Lubnan \(لبنان\)](https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lubnan \(لبنان\)](https://open.spotify.com/album/4z0HkMA3ktMlt4cGVOrMFU) | 5:16 |
 
-Snapshot ID: `AAAAAIZ0ulTKghBSBakW39guCSpO0Z7C`
+Snapshot ID: `AAAAAH8hNwA1KuWpyBqp2i1//5KMHGgl`

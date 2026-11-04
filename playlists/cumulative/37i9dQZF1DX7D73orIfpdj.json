@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Strap In",
+        "url": "https://open.spotify.com/album/033fUZ1y1rtauoPH49qjJl"
+      },
+      "artists": [
+        {
+          "name": "Strap In",
+          "url": "https://open.spotify.com/show/033fUZ1y1rtauoPH49qjJl"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2066005,
+      "name": "How to date women?!",
+      "url": "https://open.spotify.com/episode/4m6Hky4RjIXwKbV9pBbZSv"
+    },
+    {
+      "album": {
         "name": "Frugal Chic\u00ae",
         "url": "https://open.spotify.com/album/6W8IKtlfqwZPhb2VCi3Rjp"
       },
@@ -140,9 +158,27 @@
           "url": "https://open.spotify.com/show/033fUZ1y1rtauoPH49qjJl"
         }
       ],
-      "date_added": "2026-10-19",
+      "date_added": "2026-11-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 1888725,
+      "name": "Pride, plant genders & accidental nudes",
+      "url": "https://open.spotify.com/episode/5xnJqdYxWZF1pxNSWC4clf"
+    },
+    {
+      "album": {
+        "name": "Strap In",
+        "url": "https://open.spotify.com/album/033fUZ1y1rtauoPH49qjJl"
+      },
+      "artists": [
+        {
+          "name": "Strap In",
+          "url": "https://open.spotify.com/show/033fUZ1y1rtauoPH49qjJl"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-04",
       "duration_ms": 2344618,
       "name": "Queer history you should know! with Safe Space",
       "url": "https://open.spotify.com/episode/0yJgRtfkElPoJfeBbkda0n"
@@ -214,7 +250,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 1377024,
       "name": "Where can I find queer friends?!",
       "url": "https://open.spotify.com/episode/6rLqU9qSCNK41Z1dca9vIw"

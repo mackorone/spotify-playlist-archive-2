@@ -19607,6 +19607,36 @@
     },
     {
       "album": {
+        "name": "If You Come Today 2.0",
+        "url": "https://open.spotify.com/album/5mr1sAC2rj2KEh1CwkOj9a"
+      },
+      "artists": [
+        {
+          "name": "Gubbi",
+          "url": "https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3"
+        },
+        {
+          "name": "SYNKFLO",
+          "url": "https://open.spotify.com/artist/7nFL4swk0BVeURhBrhpF8O"
+        },
+        {
+          "name": "Dr. Rajkumar",
+          "url": "https://open.spotify.com/artist/335Vd3L0eWKgX1Fl409K7D"
+        },
+        {
+          "name": "G.K. Venkatesh",
+          "url": "https://open.spotify.com/artist/6zQglmdJBfzjStpsm0XxTV"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "If You Come Today 2.0",
+      "url": "https://open.spotify.com/track/4ntifzHQt5xGMpp7t5kHWC"
+    },
+    {
+      "album": {
         "name": "Ilege Banda Maleye (From \"Murphy\")",
         "url": "https://open.spotify.com/album/2Q5t8p5xMgVR0w3SSTD3Sp"
       },

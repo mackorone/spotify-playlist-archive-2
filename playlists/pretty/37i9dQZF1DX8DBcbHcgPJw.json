@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1084200,
+  "num_followers": 1084067,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9vahC6Qvc2Zx2UjE4q6CRS7Cbi",
+  "snapshot_id": "AAAAAEzZDZ8SyMMJ1xTLNp0zk7BFYfJc",
   "tracks": [
     {
       "added_at": "2026-10-23 13:41:51",
@@ -431,6 +431,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "DE PE A PA",
+        "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 153260,
+      "name": "DE PE A PA",
+      "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "No Vayas a Llorar I Variet\u00e9 #5",
         "url": "https://open.spotify.com/album/7MoyUPjnBfmcZbZCoYUT7w"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 156422,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "DE PE A PA",
-        "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 153260,
-      "name": "DE PE A PA",
-      "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "BORRACHO",
+        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "Somos o no somos?",
         "url": "https://open.spotify.com/album/2WZMuMeSmu4RQyGx5fWGLU"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 165997,
       "name": "Somos o no somos?",
       "url": "https://open.spotify.com/track/2AZ23mGgDkXaeuM49kzRWl"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "BORRACHO",
-        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "QUE ES ESO?",
+        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
+      },
+      "artists": [
+        {
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+        }
+      ],
+      "duration_ms": 145847,
+      "name": "QUE ES ESO?",
+      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "FINGI DEMENCIA",
         "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 126705,
       "name": "FINGI DEMENCIA",
       "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "QUE ES ESO?",
-        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
-      },
-      "artists": [
-        {
-          "name": "VIUS",
-          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
-        }
-      ],
-      "duration_ms": 145847,
-      "name": "QUE ES ESO?",
-      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -851,30 +851,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Quiero Creer",
-        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 145054,
-      "name": "Quiero Creer",
-      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
         "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 165161,
       "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
       "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Quiero Creer",
+        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 145054,
+      "name": "Quiero Creer",
+      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Sin Cadenas",
         "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 211238,
       "name": "Sin Cadenas",
       "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "SALE SOLA",
-        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
-      },
-      "artists": [
-        {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 125969,
-      "name": "SALE SOLA",
-      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Todo Comenz\u00f3 Bailando (Remix)",
         "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 326437,
       "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
       "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "SALE SOLA",
+        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 125969,
+      "name": "SALE SOLA",
+      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "\u00daltima Noche",
-        "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
-      },
-      "artists": [
-        {
-          "name": "Treekoo",
-          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "\u00daltima Noche",
-      "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Quiero Verte Bailar (Remix)",
         "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
       },
@@ -1723,6 +1699,30 @@
       "duration_ms": 197142,
       "name": "Quiero Verte Bailar (Remix)",
       "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "\u00daltima Noche",
+        "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
+      },
+      "artists": [
+        {
+          "name": "Treekoo",
+          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "\u00daltima Noche",
+      "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "Noche de Party",
+        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 152942,
+      "name": "Noche de Party",
+      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "Tu Re Amor",
         "url": "https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 122000,
       "name": "Tu Re Amor",
       "url": "https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "Noche de Party",
-        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 152942,
-      "name": "Noche de Party",
-      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
     },
     {
       "added_at": "2026-10-23 13:41:51",

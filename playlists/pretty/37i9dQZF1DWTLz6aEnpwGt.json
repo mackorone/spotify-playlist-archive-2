@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 75218,
+  "num_followers": 75235,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKka+lMYJpAoDhQm1e7uop5N1VW2",
+  "snapshot_id": "AAAAAGdtG5W64zAWuU2FrNBaDP5YPgKl",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:37",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
-        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 77093,
-      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
-      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 236120,
       "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
       "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
+        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 77093,
+      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
+      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
-        "name": "Johann Sebastian Bach: The French Suites",
-        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: IV. Gavotte",
-      "url": "https://open.spotify.com/track/2DRI7n3nCVuerUVIJFKUCw"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: IV. Gavotte",
+      "url": "https://open.spotify.com/track/2DRI7n3nCVuerUVIJFKUCw"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Concerto in D Minor, BWV 974: III. Presto",
-      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
         "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
         "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 430893,
       "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
       "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Concerto in D Minor, BWV 974: III. Presto",
+      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -823,38 +823,6 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
-        "name": "Bach",
-        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lucas Jussen",
-          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
-        },
-        {
-          "name": "Arthur Jussen",
-          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
-        },
-        {
-          "name": "Amsterdam Sinfonietta",
-          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
-        },
-        {
-          "name": "Candida Thompson",
-          "url": "https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM"
-        }
-      ],
-      "duration_ms": 453880,
-      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication] (performed on two pianos)",
-      "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
         "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
         "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
       },
@@ -899,8 +867,8 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
-        "name": "Bach: The Well-Tempered Clavier I",
-        "url": "https://open.spotify.com/album/2wl3k3TsSyUxwTxzaYJMCf"
+        "name": "Bach",
+        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
       "artists": [
         {
@@ -908,13 +876,25 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Mahan Esfahani",
-          "url": "https://open.spotify.com/artist/3IGLp0T2tKCevHZ2znDhtT"
+          "name": "Lucas Jussen",
+          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
+        },
+        {
+          "name": "Arthur Jussen",
+          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+        },
+        {
+          "name": "Amsterdam Sinfonietta",
+          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
+        },
+        {
+          "name": "Candida Thompson",
+          "url": "https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM"
         }
       ],
-      "duration_ms": 138000,
-      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
-      "url": "https://open.spotify.com/track/2W3rT18YGlUPudC5zLxxVw"
+      "duration_ms": 453880,
+      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication] (performed on two pianos)",
+      "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -935,6 +915,26 @@
       "duration_ms": 110773,
       "name": "Goldberg Variations, BWV 988: Var. 1",
       "url": "https://open.spotify.com/track/78sZ6qdT6HFK2NZPSoClLa"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
+        "name": "Bach: The Well-Tempered Clavier I",
+        "url": "https://open.spotify.com/album/2wl3k3TsSyUxwTxzaYJMCf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mahan Esfahani",
+          "url": "https://open.spotify.com/artist/3IGLp0T2tKCevHZ2znDhtT"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/2W3rT18YGlUPudC5zLxxVw"
     },
     {
       "added_at": "2026-09-25 04:01:37",

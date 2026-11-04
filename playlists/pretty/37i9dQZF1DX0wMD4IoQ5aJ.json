@@ -1,12 +1,12 @@
 {
   "description": "Work and study to the sound of soft electronic music.",
-  "num_followers": 306581,
+  "num_followers": 306626,
   "original_name": "Electronic Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxClQ6JDdMP048Fxu/DGoMVmmNE",
+  "snapshot_id": "AAAAAI197uar7brPD6SMfvTgCoTGvZwL",
   "tracks": [
     {
       "added_at": "2026-09-23 14:18:15",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-09-23 14:18:15",
       "album": {
+        "name": "Weightless Edit",
+        "url": "https://open.spotify.com/album/0PxDbAwmWZLw7FPsnHmwvB"
+      },
+      "artists": [
+        {
+          "name": "Toby Tech",
+          "url": "https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "Weightless Edit",
+      "url": "https://open.spotify.com/track/20HhM8uPARPdLDhDCqkJOW"
+    },
+    {
+      "added_at": "2026-09-23 14:18:15",
+      "album": {
         "name": "In Flow",
         "url": "https://open.spotify.com/album/4s7Sl3rCU2J3VlhzbmPf4F"
       },
@@ -107,6 +123,22 @@
     {
       "added_at": "2026-09-23 14:18:15",
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/2r4eaABtRX6moyBwaa27fq"
+      },
+      "artists": [
+        {
+          "name": "Yim",
+          "url": "https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc"
+        }
+      ],
+      "duration_ms": 157159,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4jR5piv6BxxUV1VR20wwiu"
+    },
+    {
+      "added_at": "2026-09-23 14:18:15",
+      "album": {
         "name": "Broke My Heart",
         "url": "https://open.spotify.com/album/46Fp7CDFzd1xvQonjwKNtK"
       },
@@ -119,6 +151,22 @@
       "duration_ms": 153000,
       "name": "Broke My Heart",
       "url": "https://open.spotify.com/track/0JUC3isRu3JHjCcGl13iGb"
+    },
+    {
+      "added_at": "2026-09-23 14:18:15",
+      "album": {
+        "name": "Vitamin E",
+        "url": "https://open.spotify.com/album/6OQAvgpU379xzlNI2zRs6z"
+      },
+      "artists": [
+        {
+          "name": "dusque",
+          "url": "https://open.spotify.com/artist/5q4rYOVVLMJfpitKocYCJK"
+        }
+      ],
+      "duration_ms": 165651,
+      "name": "Vitamin E",
+      "url": "https://open.spotify.com/track/3BNbzwNKCf34lDyk6iHjI8"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -219,22 +267,6 @@
     {
       "added_at": "2026-09-23 14:18:15",
       "album": {
-        "name": "Saffron",
-        "url": "https://open.spotify.com/album/1zzEfwbljG4uf5fNWwPzAc"
-      },
-      "artists": [
-        {
-          "name": "Tynell Bloom",
-          "url": "https://open.spotify.com/artist/71O1gJCrOphKFwJfZ6Vr7j"
-        }
-      ],
-      "duration_ms": 140607,
-      "name": "Saffron",
-      "url": "https://open.spotify.com/track/0Fwvyunz8B1KCbChcHV9Et"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
         "name": "Buoyant Energy",
         "url": "https://open.spotify.com/album/4nDLHy2lkjS0ZtZBHwXaaL"
       },
@@ -279,6 +311,22 @@
       "duration_ms": 179454,
       "name": "Finishing Line",
       "url": "https://open.spotify.com/track/0t3USCQKJsJ86Oz3Yp2eZw"
+    },
+    {
+      "added_at": "2026-11-03 17:20:58",
+      "album": {
+        "name": "Lush Nights",
+        "url": "https://open.spotify.com/album/6ecMtVkKOrQNLLRp5qi1Gt"
+      },
+      "artists": [
+        {
+          "name": "Mist & Maris",
+          "url": "https://open.spotify.com/artist/1cvhDMISyzFWxdGzsrEiM8"
+        }
+      ],
+      "duration_ms": 150309,
+      "name": "Lush Nights",
+      "url": "https://open.spotify.com/track/3RHr6M0xR9qrnFYATaCQUf"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -375,6 +423,22 @@
       "duration_ms": 149433,
       "name": "Laidback",
       "url": "https://open.spotify.com/track/1VVTutag5cViM1EAxvzYBT"
+    },
+    {
+      "added_at": "2026-11-03 17:20:58",
+      "album": {
+        "name": "End of the Day",
+        "url": "https://open.spotify.com/album/12NMI244wn1ULk0EPzwQIO"
+      },
+      "artists": [
+        {
+          "name": "Hausward",
+          "url": "https://open.spotify.com/artist/23v5l9Xt9MklrDy9475aW0"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "End of the Day",
+      "url": "https://open.spotify.com/track/36z7S3aH1nLoPnBjY5AIHv"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -489,6 +553,22 @@
       "url": "https://open.spotify.com/track/4h6Qpk4e0UrEzHnnH9vYU5"
     },
     {
+      "added_at": "2026-11-03 17:20:58",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1GBEdhzJrXmHcgJlyiCBcK"
+      },
+      "artists": [
+        {
+          "name": "buddyonthebeach",
+          "url": "https://open.spotify.com/artist/7nCbxgQGa1EYC02kgJuZVd"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5dYtujRyMHfyGB0KvXX5gK"
+    },
+    {
       "added_at": "2026-09-23 14:18:15",
       "album": {
         "name": "Tall Grass",
@@ -599,6 +679,22 @@
       "duration_ms": 141202,
       "name": "Slip",
       "url": "https://open.spotify.com/track/3me0UCdbezSbXAwhrtTAYo"
+    },
+    {
+      "added_at": "2026-11-03 17:20:58",
+      "album": {
+        "name": "Velour Sky",
+        "url": "https://open.spotify.com/album/2C6yplJxLg5M6SFB35AOid"
+      },
+      "artists": [
+        {
+          "name": "Aurove",
+          "url": "https://open.spotify.com/artist/5mZ3zJnbcuCLfBWUoBRFdA"
+        }
+      ],
+      "duration_ms": 150285,
+      "name": "Velour Sky",
+      "url": "https://open.spotify.com/track/0JBkvjxqDe7xFPhv7zV1QE"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -729,6 +825,22 @@
       "url": "https://open.spotify.com/track/6XMCaNhcF0G4bz6VH1Xc4q"
     },
     {
+      "added_at": "2026-11-03 17:20:58",
+      "album": {
+        "name": "Eau Calme",
+        "url": "https://open.spotify.com/album/4nUw8jK5WqfDXJIQqJkAhP"
+      },
+      "artists": [
+        {
+          "name": "Mont Bleu",
+          "url": "https://open.spotify.com/artist/3degLYRjAtBsjVJ5wqipSS"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Eau Calme",
+      "url": "https://open.spotify.com/track/3Fl8g8pTKTKr9gc4S33Exr"
+    },
+    {
       "added_at": "2026-09-23 14:18:15",
       "album": {
         "name": "balance",
@@ -807,22 +919,6 @@
       "duration_ms": 152000,
       "name": "Blue World",
       "url": "https://open.spotify.com/track/7dLQ8Src5RHL1Q6LKGoMkJ"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
-        "name": "Weightless Edit",
-        "url": "https://open.spotify.com/album/0PxDbAwmWZLw7FPsnHmwvB"
-      },
-      "artists": [
-        {
-          "name": "Toby Tech",
-          "url": "https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "Weightless Edit",
-      "url": "https://open.spotify.com/track/20HhM8uPARPdLDhDCqkJOW"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -987,22 +1083,6 @@
     {
       "added_at": "2026-09-23 14:18:15",
       "album": {
-        "name": "Cabana Dreams",
-        "url": "https://open.spotify.com/album/7CmsVgMLFYMhJvq5bmhSUF"
-      },
-      "artists": [
-        {
-          "name": "Aicnelav",
-          "url": "https://open.spotify.com/artist/11YvJIJglT5UQVFmo5w1CR"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Cabana Dreams",
-      "url": "https://open.spotify.com/track/59KwNpw8DmnRibrxG0C33m"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
         "name": "Weekend Ride",
         "url": "https://open.spotify.com/album/1lzt3oBlEJ2goB3A3RexBW"
       },
@@ -1063,22 +1143,6 @@
       "duration_ms": 114871,
       "name": "Tropic",
       "url": "https://open.spotify.com/track/5ZghKqncflpO8VH9Buh2NM"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
-        "name": "Schoolyard",
-        "url": "https://open.spotify.com/album/3eogy3j6WQcXWDFWsLmnQV"
-      },
-      "artists": [
-        {
-          "name": "Dupl\u00e9",
-          "url": "https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf"
-        }
-      ],
-      "duration_ms": 146318,
-      "name": "Schoolyard",
-      "url": "https://open.spotify.com/track/1hc24rXcFhG5cZZvA96vDC"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -1239,22 +1303,6 @@
       "duration_ms": 127304,
       "name": "Reboot",
       "url": "https://open.spotify.com/track/3E8iJmbN9PYz1KvMnTphLu"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
-        "name": "Floating in the Glow",
-        "url": "https://open.spotify.com/album/5uZ4byA65JN6V2i3aWlvjW"
-      },
-      "artists": [
-        {
-          "name": "Bamba Lamer",
-          "url": "https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Floating in the Glow",
-      "url": "https://open.spotify.com/track/5hpz1mr6K0pjqfm5GK4t2A"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -1679,22 +1727,6 @@
     {
       "added_at": "2026-09-23 14:18:15",
       "album": {
-        "name": "Vitamin E",
-        "url": "https://open.spotify.com/album/6OQAvgpU379xzlNI2zRs6z"
-      },
-      "artists": [
-        {
-          "name": "dusque",
-          "url": "https://open.spotify.com/artist/5q4rYOVVLMJfpitKocYCJK"
-        }
-      ],
-      "duration_ms": 165651,
-      "name": "Vitamin E",
-      "url": "https://open.spotify.com/track/3BNbzwNKCf34lDyk6iHjI8"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/0qBG7MPclgr7bscmUj7Bz2"
       },
@@ -2079,22 +2111,6 @@
     {
       "added_at": "2026-09-23 14:18:15",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/7BVpGvNjanXGd8FyMtdafP"
-      },
-      "artists": [
-        {
-          "name": "Deep Cove",
-          "url": "https://open.spotify.com/artist/769jCbfRT86Ysfwg1Jiagd"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/3QPhtN67JQmQAjKOjAm3FE"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
         "name": "Santino",
         "url": "https://open.spotify.com/album/1o8Vv6YJCXcuU11IugDU2Y"
       },
@@ -2255,22 +2271,6 @@
     {
       "added_at": "2026-09-23 14:18:15",
       "album": {
-        "name": "Perfect Days",
-        "url": "https://open.spotify.com/album/6VDgQ2KL8UNW2EAzrMlVof"
-      },
-      "artists": [
-        {
-          "name": "frukks",
-          "url": "https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Perfect Days",
-      "url": "https://open.spotify.com/track/6MVDli0oEUcNToqCnqng9x"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
         "name": "Ethos",
         "url": "https://open.spotify.com/album/10Zq0xfz1cW0IBXRAx0bBE"
       },
@@ -2331,22 +2331,6 @@
       "duration_ms": 171925,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/6NM6O8YFXpx8AYt1YhmsRl"
-    },
-    {
-      "added_at": "2026-09-23 14:18:15",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/2r4eaABtRX6moyBwaa27fq"
-      },
-      "artists": [
-        {
-          "name": "Yim",
-          "url": "https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc"
-        }
-      ],
-      "duration_ms": 157159,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/4jR5piv6BxxUV1VR20wwiu"
     },
     {
       "added_at": "2026-09-23 14:18:15",
@@ -2491,6 +2475,22 @@
       "duration_ms": 156610,
       "name": "Softness",
       "url": "https://open.spotify.com/track/11yy3szswtwpVgIiHbb2J1"
+    },
+    {
+      "added_at": "2026-09-23 14:18:15",
+      "album": {
+        "name": "Perfect Days",
+        "url": "https://open.spotify.com/album/6VDgQ2KL8UNW2EAzrMlVof"
+      },
+      "artists": [
+        {
+          "name": "frukks",
+          "url": "https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Perfect Days",
+      "url": "https://open.spotify.com/track/6MVDli0oEUcNToqCnqng9x"
     }
   ],
   "unique_name": "Electronic Focus",

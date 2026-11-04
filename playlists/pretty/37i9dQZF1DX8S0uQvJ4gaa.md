@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: HARDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,047 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,346,032 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 100 | [Me Holdin' On](https://open.spotify.com/track/4B6n9OdoJKMQ2jpO05nVCn) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Me Holdin' On](https://open.spotify.com/album/0CfmoFfZjzHz9ISbvDJ54n) | 3:27 |
 | 101 | [the long haul](https://open.spotify.com/track/3VzruTDlXDth0txAyBnAwb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [the long haul](https://open.spotify.com/album/4FATH35O7poCB78iRgrnFp) | 3:24 |
 
-Snapshot ID: `AAAAAEWLkFITaxbnGsoCozOPHMYi6n28`
+Snapshot ID: `AAAAAP56KfoMt/DbohZDKObu0vfEj93i`

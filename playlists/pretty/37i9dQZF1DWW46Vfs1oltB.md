@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: Verbal Jint\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Dakshood\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,177 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,126 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
-| 2 | [What If](https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB) | [What If](https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4) | 3:16 |
-| 3 | [Buffet](https://open.spotify.com/track/59znSU71z8XGJLgQgdKpPT) | [Dakshood](https://open.spotify.com/artist/2jKQ4jDx4IYeDyTHGz1tkk), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [808 Ceremony](https://open.spotify.com/album/3FiSfq06tQKWRcphPHlKh1) | 3:09 |
+| 2 | [Buffet](https://open.spotify.com/track/59znSU71z8XGJLgQgdKpPT) | [Dakshood](https://open.spotify.com/artist/2jKQ4jDx4IYeDyTHGz1tkk), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [808 Ceremony](https://open.spotify.com/album/3FiSfq06tQKWRcphPHlKh1) | 3:09 |
+| 3 | [What If](https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB) | [What If](https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4) | 3:16 |
 | 4 | [NEW AMBITION](https://open.spotify.com/track/4b5gQYvdqNrrkIuzrMRG4X) | [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [MilliMax](https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [AMBITION 10/10](https://open.spotify.com/album/2mw7Ym7O9bSZWhyKQa8Mj4) | 5:09 |
 | 5 | [KAiKAiKiKi](https://open.spotify.com/track/25RwVpvbrqlAmpcD49iiM3) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [SINS](https://open.spotify.com/album/5p63oUGmqaNvltJVhMW87q) | 2:42 |
 | 6 | [후 \(puff\)](https://open.spotify.com/track/0MmlAwSg3Zx8590JMei6G9) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [shaking](https://open.spotify.com/album/2ZDqjIVxeRURiJrp3sARkx) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 99 | [R.I.L + King′s gambit \(Feat\. ZICO, Gaeko, Sik\-K, VINXEN\) \(Prod\. by ZICO, Crush\)](https://open.spotify.com/track/2CO0qu8M2UrT2IxRdYbGOg) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [Show Me The Money 12 Final](https://open.spotify.com/album/0ggz2ubI65Fw9c9tIi27xP) | 5:26 |
 | 100 | [MAMBA](https://open.spotify.com/track/1kgIkIAp1pIXBcOin9orAf) | [YF](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [MAMBA](https://open.spotify.com/album/42fsXPUdkbr3zXhhfCWVYa) | 2:01 |
 
-Snapshot ID: `AAAAABECjAlBRzG52JvH8YFBHRcpiFWL`
+Snapshot ID: `AAAAANoZ9+Ug5ZFNcWqAPx81Rpnd3nZJ`

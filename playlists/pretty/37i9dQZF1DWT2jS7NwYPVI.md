@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Radio Free Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,585 likes - 176 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,569 likes - 176 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 175 | [Penny Drop](https://open.spotify.com/track/32GjuqtqII6OOUIzPYbrfs) | [studio20](https://open.spotify.com/artist/2RLTzU6T70BdbKDd7Fcata) | [Penny Drop](https://open.spotify.com/album/6GlTwfD72bVGcDYyG4Jyv9) | 2:12 |
 | 176 | [Belly Of The Whale](https://open.spotify.com/track/6ZgkpG7XT0OYZATsXQGG31) | [Reclus.É](https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV) | [Belly Of The Whale](https://open.spotify.com/album/4HG3PnTncNW7byXDZ4qUqD) | 4:17 |
 
-Snapshot ID: `AAAAAOj0BtAXRO4nWDKec1aD60pZ07IC`
+Snapshot ID: `AAAAAAWUTDPipm6Fa0MyX/2uuMEGf29d`

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 225717,
+  "num_followers": 225738,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIR8Qg7Izg6aYbST8wa64I5K4GEl",
+  "snapshot_id": "AAAAAKYEEb6RPNpTMDILd7MurlDjeE/D",
   "tracks": [
     {
       "added_at": "2026-10-29 23:00:38",
@@ -311,18 +311,18 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "embraced for a second as we die",
-        "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
+        "name": "Helvegen II",
+        "url": "https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu"
       },
       "artists": [
         {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
         }
       ],
-      "duration_ms": 217560,
-      "name": "groby",
-      "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
+      "duration_ms": 403650,
+      "name": "Helvegen II",
+      "url": "https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
+        "name": "embraced for a second as we die",
+        "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "groby",
+      "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
         "name": "Avignon",
         "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 179812,
       "name": "Avignon",
       "url": "https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
-        "name": "Helvegen II",
-        "url": "https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 403650,
-      "name": "Helvegen II",
-      "url": "https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
         "name": "Overboda",
         "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 191440,
       "name": "Overboda",
       "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "In The Silver Wire Up The Hill",
-        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "In The Silver Wire Up The Hill",
-      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
         "name": "Vampire Country",
         "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 247975,
       "name": "Raven",
       "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
+        "name": "In The Silver Wire Up The Hill",
+        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "In The Silver Wire Up The Hill",
+      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "Deliver Me From Trying",
-        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Deliver Me From Trying",
-      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
         "name": "Love Freely",
         "url": "https://open.spotify.com/album/1V0cNxts85DS7hmWmkRnBa"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 247124,
       "name": "How Love\u2019s Supposed to Feel",
       "url": "https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
+        "name": "Deliver Me From Trying",
+        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Deliver Me From Trying",
+      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "Come Through",
-        "url": "https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 172121,
-      "name": "Come Through",
-      "url": "https://open.spotify.com/track/06nuQASic35njbk01mB2KY"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
         "name": "member",
         "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
+        "name": "Come Through",
+        "url": "https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 315000,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
+      "duration_ms": 172121,
+      "name": "Come Through",
+      "url": "https://open.spotify.com/track/06nuQASic35njbk01mB2KY"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -691,18 +675,18 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
       },
       "artists": [
         {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+      "duration_ms": 315000,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -719,6 +703,38 @@
       "duration_ms": 180364,
       "name": "UFO",
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -743,18 +759,34 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+        "name": "Brick by Brick",
+        "url": "https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "August Green",
+          "url": "https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu"
         }
       ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+      "duration_ms": 218248,
+      "name": "Brick by Brick",
+      "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
+        "name": "A Chosen Family",
+        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "I Let the Good Ones Go",
+      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -791,22 +823,6 @@
       "duration_ms": 218400,
       "name": "Cult to A Saint",
       "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
-        "name": "A Chosen Family",
-        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "I Let the Good Ones Go",
-      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -987,22 +1003,6 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
-        "name": "Evigheten n\u00e6rmer seg",
-        "url": "https://open.spotify.com/album/77RXk1VrQ9aDWIWcGfnipX"
-      },
-      "artists": [
-        {
-          "name": "Daniela Reyes",
-          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Evigheten n\u00e6rmer seg",
-      "url": "https://open.spotify.com/track/5pYxllxzdm368L57cbzGIq"
     }
   ],
   "unique_name": "Nordic Folk",

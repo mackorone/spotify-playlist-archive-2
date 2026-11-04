@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 53828,
+  "num_followers": 53832,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIuf53QdOo+6K9QuUnV9VmNQwtFV",
+  "snapshot_id": "AAAAAG5E5vt7JOQVy+JF76TMz0f1YcP4",
   "tracks": [
     {
       "added_at": "2024-06-12 22:23:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Las Lunas",
+        "url": "https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 223692,
+      "name": "R\u00edos de Lava",
+      "url": "https://open.spotify.com/track/1LclQTL1W61TRCesAJzRJB"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Las Lunas",
-        "url": "https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 223692,
-      "name": "R\u00edos de Lava",
-      "url": "https://open.spotify.com/track/1LclQTL1W61TRCesAJzRJB"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Las Antenas",
+        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Alas Rotas",
+      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Besos en la Espalda",
         "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 166573,
       "name": "Perdiendo la Cabeza",
       "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Aunque No Quiero",
-      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Las Antenas",
-        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 273240,
-      "name": "Alas Rotas",
-      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
+      "duration_ms": 215626,
+      "name": "Aunque No Quiero",
+      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Historias Perdidas",
+        "url": "https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        }
+      ],
+      "duration_ms": 223979,
+      "name": "\u00bfA d\u00f3nde vas?",
+      "url": "https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Pel\u00edcula",
         "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 340920,
       "name": "Cosas para Decirte",
       "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Historias Perdidas",
-        "url": "https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX"
-      },
-      "artists": [
-        {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
-        }
-      ],
-      "duration_ms": 223979,
-      "name": "\u00bfA d\u00f3nde vas?",
-      "url": "https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R"
     },
     {
       "added_at": "2024-06-12 22:23:25",

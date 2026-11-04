@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Stella Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,688 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,705 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [Eco do Futuro](https://open.spotify.com/track/08NXZbmhDroOdEDOdvud7K) | [Tiago Caetano](https://open.spotify.com/artist/4pE3HJx3EQb9tBxSYib3Cr), [Céline Dessberg](https://open.spotify.com/artist/4yrAcGcuF9KXNpeLXdwlGA) | [Eco do Futuro](https://open.spotify.com/album/1lPwis4eP2olWfAPzZobEU) | 2:39 |
 | 60 | [azur](https://open.spotify.com/track/2px8SIGbY3eYlOY08DKVtz) | [cezanne](https://open.spotify.com/artist/4bNudtyn4yd44nhew3jnJS), [Sabres](https://open.spotify.com/artist/2ICOorx8dIb9Fq4pIHSNcm) | [azur](https://open.spotify.com/album/4tTpPeS7Iw6mWbDd6FNF2r) | 2:16 |
 
-Snapshot ID: `AAAAAFuWdZSdiJ62nUukAPw3okOlvUlz`
+Snapshot ID: `AAAAAJakRJeJyTLplOghQJXPN8fNhJ58`

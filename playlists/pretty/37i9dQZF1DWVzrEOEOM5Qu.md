@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzrEOEOM5Qu.md) - [plain]
 | 24 | [Chapter 1 \- Only YOU Can Save Christmas! \- A Help\-the\-Elf Adventure](https://open.spotify.com/track/5t6WKY4czkc233lBoxDA7L) | [Adam Wallace](https://open.spotify.com/artist/73j6cBMfIP39GqwyJE8pZA), [Nick Podehl](https://open.spotify.com/artist/1XHbOKTW9sJgucOsQ3Y7um) | [Only YOU Can Save Christmas! \[A Help\-the\-Elf Adventure \(Unabridged\)\]](https://open.spotify.com/album/3RMiNUY2sH3J5bjOfJl01l) | 3:02 |
 | 25 | [Chapter 2 \- Only YOU Can Save Christmas! \- A Help\-the\-Elf Adventure](https://open.spotify.com/track/5P8oxotA95amzBLjcZQzFB) | [Adam Wallace](https://open.spotify.com/artist/73j6cBMfIP39GqwyJE8pZA), [Nick Podehl](https://open.spotify.com/artist/1XHbOKTW9sJgucOsQ3Y7um) | [Only YOU Can Save Christmas! \[A Help\-the\-Elf Adventure \(Unabridged\)\]](https://open.spotify.com/album/3RMiNUY2sH3J5bjOfJl01l) | 5:58 |
 
-Snapshot ID: `AAAAACpROJcldG8Xf2oIsDIUuTrdvgxe`
+Snapshot ID: `AAAAAHhFf5c0R9ztCbkcMRhmaUk/lL9+`

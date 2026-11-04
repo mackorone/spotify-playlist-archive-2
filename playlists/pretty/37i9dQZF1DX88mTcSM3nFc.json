@@ -1,12 +1,12 @@
 {
   "description": "christmas always makes me cry",
-  "num_followers": 33978,
+  "num_followers": 34034,
   "original_name": "sad christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFeS9btsK7ZZiJlAxpR6uOhHAF6",
+  "snapshot_id": "AAAAANBGuR0c+d/JTm7Vs3S6RyyopUTd",
   "tracks": [
     {
       "added_at": "2025-10-24 15:00:37",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "\u2018tis the damn season",
-      "url": "https://open.spotify.com/track/4GBkffrtA51p17JH35irGA"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 181773,
       "name": "The Christmas Waltz - Remastered 1999",
       "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "\u2018tis the damn season",
+      "url": "https://open.spotify.com/track/4GBkffrtA51p17JH35irGA"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
-        "name": "Music From The Netflix Original Series The Politician",
-        "url": "https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 247606,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
-        "name": "Loneliest Time Of Year",
-        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
+        "name": "Music From The Netflix Original Series The Politician",
+        "url": "https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
         }
       ],
-      "duration_ms": 202613,
-      "name": "Loneliest Time Of Year",
-      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
+      "duration_ms": 247606,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -407,6 +391,22 @@
       "duration_ms": 164053,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
+        "name": "Loneliest Time Of Year",
+        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Loneliest Time Of Year",
+      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
-        "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
-        "url": "https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL"
-      },
-      "artists": [
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
-      "url": "https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 165813,
       "name": "The Secret Of Christmas",
       "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
+        "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
+        "name": "A Very Kacey Christmas",
+        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Christmas Makes Me Cry",
+      "url": "https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
         "name": "2000 Miles",
         "url": "https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 195717,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
-        "name": "For Those Who Can't Be Here",
-        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 183079,
-      "name": "For Those Who Can't Be Here",
-      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
+        "name": "For Those Who Can't Be Here",
+        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 183079,
+      "name": "For Those Who Can't Be Here",
+      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
         "name": "Christmas Bells",
         "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 247672,
       "name": "Christmas Bells",
       "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
-        "name": "A Very Kacey Christmas",
-        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Christmas Makes Me Cry",
-      "url": "https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
+        "name": "Christmas In Soulsville",
+        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "What Do The Lonely Do At Christmas?",
+      "url": "https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
         "name": "Ultimate Christmas",
         "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 186360,
       "name": "Whatever Happened To Christmas?",
       "url": "https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
-        "name": "Christmas In Soulsville",
-        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "What Do The Lonely Do At Christmas?",
-      "url": "https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -775,34 +775,18 @@
     {
       "added_at": "2025-10-24 15:00:37",
       "album": {
-        "name": "long distance christmas",
-        "url": "https://open.spotify.com/album/3ZFZN7pMgE5GYGHTz7VxfL"
+        "name": "This Time Last Year",
+        "url": "https://open.spotify.com/album/09LBtelS62mavkNWHg325x"
       },
       "artists": [
         {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2"
         }
       ],
-      "duration_ms": 176343,
-      "name": "long distance christmas",
-      "url": "https://open.spotify.com/track/46jGv8HeBxL5ZcL5rjV2EG"
-    },
-    {
-      "added_at": "2025-10-24 15:00:37",
-      "album": {
-        "name": "The Hits / The B-Sides",
-        "url": "https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 293813,
-      "name": "Another Lonely Christmas",
-      "url": "https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg"
+      "duration_ms": 225322,
+      "name": "This Time Last Year",
+      "url": "https://open.spotify.com/track/4wUhXOfV4hqNTurbJkWOU9"
     },
     {
       "added_at": "2025-10-24 15:00:37",
@@ -819,6 +803,22 @@
       "duration_ms": 341603,
       "name": "The Ghost of New Years Past",
       "url": "https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD"
+    },
+    {
+      "added_at": "2025-10-24 15:00:37",
+      "album": {
+        "name": "long distance christmas",
+        "url": "https://open.spotify.com/album/3ZFZN7pMgE5GYGHTz7VxfL"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "long distance christmas",
+      "url": "https://open.spotify.com/track/46jGv8HeBxL5ZcL5rjV2EG"
     }
   ],
   "unique_name": "sad christmas",

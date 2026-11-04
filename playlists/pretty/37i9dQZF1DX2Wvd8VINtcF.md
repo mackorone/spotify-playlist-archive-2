@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨waterbaby✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,731 likes - 200 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,734 likes - 200 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 199 | [Pink Dress](https://open.spotify.com/track/3SySVpkLVKuXhEEUeczfgq) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Pink Dress](https://open.spotify.com/album/5siPYM6eCEjNxxReRbTkOD) | 2:54 |
 | 200 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 
-Snapshot ID: `AAAAAOnRNVvOqRWuO58JeZYl4COKXWGH`
+Snapshot ID: `AAAAAI+g8+eFD5StwgNM46E8M1oTuZdM`

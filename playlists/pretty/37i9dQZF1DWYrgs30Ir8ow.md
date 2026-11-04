@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,290 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,285 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
 | 40 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
 
-Snapshot ID: `AAAAAEyGoDyPlmKWxGGBNTB3ykN3zx9C`
+Snapshot ID: `AAAAAFdkQjvP0zcdKrPy5AN/r169G0Rh`

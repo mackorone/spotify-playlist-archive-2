@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,682 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,684 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 49 | [Man Ye The Shell \(Theme from "March of Giants" Soundtrack\)](https://open.spotify.com/track/2W7KuHPg6Uqph2y9asQprB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Man Ye The Shell \(Theme from "March of Giants" Soundtrack\)](https://open.spotify.com/album/3mqoDjHJ4Q779smSSLyNFn) | 4:17 |
 | 50 | [Moch Sa Mhadainn \(feat\. Griogair\)](https://open.spotify.com/track/1QcJb3RpR83LVjbAmO4hXB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Griogair](https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 4:35 |
 
-Snapshot ID: `auUvgAAAAACv8Wu2akMz2y709IK/ahp7`
+Snapshot ID: `auaBAAAAAADvzY6HHb7YXKSHf/b03dvH`

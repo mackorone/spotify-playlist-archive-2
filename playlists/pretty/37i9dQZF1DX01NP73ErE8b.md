@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > le canzoni di cui siamo ossessionati 🇧🇷 Gaia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,709 likes - 84 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,704 likes - 84 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 83 | [Tu cosa fai questa sera](https://open.spotify.com/track/3oyJa5AEBL1gS3ALTo0rWg) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Tu cosa fai questa sera](https://open.spotify.com/album/1NChOjk3hNwwCYgiGEbSPh) | 2:49 |
 | 84 | [ADRENALINA](https://open.spotify.com/track/2pULqfE2k1DHr24dtJwMRh) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:24 |
 
-Snapshot ID: `AAAAAJwxO0eajPjgIqyjEDs7S4oftBXF`
+Snapshot ID: `AAAAADVr6edalGz5rRZpFdHIbVZ1/fXW`

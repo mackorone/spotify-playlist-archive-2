@@ -4,13 +4,14 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-311 songs - 17 hr 55 min
+312 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3026](https://open.spotify.com/track/4ad21BWm7B2Dwa9bWjKDE7) | [DJ Tony Magic](https://open.spotify.com/artist/3GmpVstDknVbWocJKp9NFk), [Mike Mendizabal](https://open.spotify.com/artist/1hBsfzOOJtR9BJ3QBYdA60) | [3026](https://open.spotify.com/album/7qKWlE9HcUdYXJaSsOYPGY) | 3:30 | 2025-12-12 |  |
 | [4AM](https://open.spotify.com/track/7HswRhwlZc9yzwWl33UgCD) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco), [KATTASTROPHIX](https://open.spotify.com/artist/77AaFDgxJxuXNbl1eEgX0z) | [4AM](https://open.spotify.com/album/6tdmsAe3f38GQIIEzmtazr) | 2:24 | 2025-07-11 | 2025-09-27 |
 | [7 Miles High](https://open.spotify.com/track/6QmYmxft6ZLXvLJz8UBVqe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [7 Miles High](https://open.spotify.com/album/3gFDcNRzQ7hRWkB80Qx63K) | 2:30 | 2026-09-25 |  |
+| [7 Miles High \- Alex Adair Remix](https://open.spotify.com/track/6Ebc4VvnhTT0ybFavZrhs0) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [7 Miles High \(Remixes\)](https://open.spotify.com/album/7GWVbCdjUvFsEuih2rAmdF) | 2:56 | 2026-11-03 |  |
 | [8ths](https://open.spotify.com/track/3oLfgPob5XKsY48VB20UZz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Error5 EP](https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2) | 6:11 | 2025-08-08 | 2026-08-01 |
 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 | 2025-07-11 | 2025-08-23 |
 | [ACID](https://open.spotify.com/track/2Kkx9JxUQqsUIjGtjO4hMP) | [ON\_1](https://open.spotify.com/artist/1yga9Ci8sD6gpO5Vf1AN86) | [ACID](https://open.spotify.com/album/1COAoGRQqPCQIGZX9qCH3b) | 3:34 | 2025-07-25 | 2025-08-23 |

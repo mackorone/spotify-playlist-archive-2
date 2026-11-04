@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALW0JKw5ct8OKw1tfZlqh44S/se2",
+  "snapshot_id": "AAAAAM8MGrUOf0tHVJ+xEsteQL1r8meW",
   "tracks": [
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Helvegen II",
+        "url": "https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "duration_ms": 403650,
+      "name": "Helvegen II",
+      "url": "https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC"
+    },
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
@@ -31,50 +47,18 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Helvegen II",
-        "url": "https://open.spotify.com/album/1O9IxsI7ucXMPkqSyLEMXu"
+        "name": "Der Schmetterling",
+        "url": "https://open.spotify.com/album/724BZ4C4wxc9WBt65I7Eo5"
       },
       "artists": [
         {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+          "name": "Corvus Corax",
+          "url": "https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z"
         }
       ],
-      "duration_ms": 403650,
-      "name": "Helvegen II",
-      "url": "https://open.spotify.com/track/77CxkNmZPE71BPeNtnhGhC"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "The Who By Numbers (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 336106,
-      "name": "However Much I Booze - Alternate Pete Vocal / Early Mix",
-      "url": "https://open.spotify.com/track/1F000xvLFmgCctqx3CSBpL"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "W\u00fczapiwken",
-        "url": "https://open.spotify.com/album/2iXfif0FilI6B8yNEvwCLB"
-      },
-      "artists": [
-        {
-          "name": "Mawiza",
-          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "W\u00fczapiwken",
-      "url": "https://open.spotify.com/track/64aDJ2GGAhmZS5jO36NnKs"
+      "duration_ms": 224000,
+      "name": "Corvus Corax - Der Schmetterling 24Bit",
+      "url": "https://open.spotify.com/track/2N6r8565SYV3WKXpLw85lV"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -99,38 +83,18 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Der Schmetterling",
-        "url": "https://open.spotify.com/album/724BZ4C4wxc9WBt65I7Eo5"
+        "name": "W\u00fczapiwken",
+        "url": "https://open.spotify.com/album/2iXfif0FilI6B8yNEvwCLB"
       },
       "artists": [
         {
-          "name": "Corvus Corax",
-          "url": "https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z"
+          "name": "Mawiza",
+          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Corvus Corax - Der Schmetterling 24Bit",
-      "url": "https://open.spotify.com/track/2N6r8565SYV3WKXpLw85lV"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Mi\u00f0",
-        "url": "https://open.spotify.com/album/4YMrTpx1I30qGlSsRzzwMm"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        },
-        {
-          "name": "Johan Sara Jr.",
-          "url": "https://open.spotify.com/artist/2P466JXaRfp8M9fX2eVhwR"
-        }
-      ],
-      "duration_ms": 302306,
-      "name": "I Am Ice",
-      "url": "https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ"
+      "duration_ms": 225153,
+      "name": "W\u00fczapiwken",
+      "url": "https://open.spotify.com/track/64aDJ2GGAhmZS5jO36NnKs"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -151,6 +115,22 @@
       "duration_ms": 162302,
       "name": "Coming For You - Hometown Remix",
       "url": "https://open.spotify.com/track/1W7CnNSMlOTGQezT8NlgUl"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "The Who By Numbers (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 336106,
+      "name": "However Much I Booze - Alternate Pete Vocal / Early Mix",
+      "url": "https://open.spotify.com/track/1F000xvLFmgCctqx3CSBpL"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -187,6 +167,26 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
+        "name": "Mi\u00f0",
+        "url": "https://open.spotify.com/album/4YMrTpx1I30qGlSsRzzwMm"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        },
+        {
+          "name": "Johan Sara Jr.",
+          "url": "https://open.spotify.com/artist/2P466JXaRfp8M9fX2eVhwR"
+        }
+      ],
+      "duration_ms": 302306,
+      "name": "I Am Ice",
+      "url": "https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
         "name": "The Iron Rose",
         "url": "https://open.spotify.com/album/5br0WYHB0AJdj9BRWgRaaI"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 319960,
       "name": "The Iron Rose",
       "url": "https://open.spotify.com/track/4EL8aZH11TwZf6VVU6gSd3"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Won't Get Fooled Again",
+        "url": "https://open.spotify.com/album/5BgESrGKMtGQTsOqvTalSN"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 388444,
+      "name": "Won't Get Fooled Again",
+      "url": "https://open.spotify.com/track/1kMZWyzJNDQ8gjJ8C8OAyV"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -223,22 +239,6 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Won't Get Fooled Again",
-        "url": "https://open.spotify.com/album/5BgESrGKMtGQTsOqvTalSN"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 388444,
-      "name": "Won't Get Fooled Again",
-      "url": "https://open.spotify.com/track/1kMZWyzJNDQ8gjJ8C8OAyV"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
         "name": "Who Are We Talking To? (Dark-Side Mix)",
         "url": "https://open.spotify.com/album/1KJ8n4dVHsQEZyvb1zxvbk"
       },
@@ -251,6 +251,26 @@
       "duration_ms": 338072,
       "name": "Who Are We Talking To? - Dark-Side Mix",
       "url": "https://open.spotify.com/track/5FN1BugFvy0yMAlaHDm5uB"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "A Selection: Kovacevich plays Mozart, Beethoven & Chopin",
+        "url": "https://open.spotify.com/album/39nQQxYqTWjpuA4769LdhT"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Nocturne No. 18 in E, Op. 62 No. 2",
+      "url": "https://open.spotify.com/track/4feyXGNvCHbo0n2D01h9C2"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -292,85 +312,9 @@
           "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 811000,
-      "name": "Piano Concerto No. 21 in C, K.467: 1. Allegro maestoso",
-      "url": "https://open.spotify.com/track/6ayq0YYCk9D9gN77YS9n6q"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/4H7BAnbN3vCtzWIgNyJXbi"
-      },
-      "artists": [
-        {
-          "name": "Lita Ford",
-          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
-        }
-      ],
-      "duration_ms": 276015,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/7Iwoiaro59GdgnGwxFaVcc"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/0wxid34yC8qps3VHHuOgpj"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Mc Kno",
-          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
-        },
-        {
-          "name": "Gloria Allel",
-          "url": "https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX"
-        }
-      ],
-      "duration_ms": 141840,
-      "name": "Catarsis",
-      "url": "https://open.spotify.com/track/7MD0SEOm2ecAxP1WFRoEco"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "A Classical October: Bach, Chopin & More",
-        "url": "https://open.spotify.com/album/4IOiOqNHxNjXTK1t2lTktD"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Alicia de Larrocha",
-          "url": "https://open.spotify.com/artist/08yT4NXiwN4HvaayEo72sm"
-        }
-      ],
-      "duration_ms": 288573,
-      "name": "Berceuse in D Flat Major, Op. 57",
-      "url": "https://open.spotify.com/track/0DL8Iin76V7wiiL7joLBx1"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Time Lab",
-        "url": "https://open.spotify.com/album/5A9rMiLzm47h4nZmcwoA0c"
-      },
-      "artists": [
-        {
-          "name": "Yello",
-          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
-        }
-      ],
-      "duration_ms": 191835,
-      "name": "Midnight Traffic",
-      "url": "https://open.spotify.com/track/2PJW5n8EB96LVq4VoR9Z2z"
+      "duration_ms": 468000,
+      "name": "Piano Concerto No. 23 in A Major, K. 488: III. Allegro assai",
+      "url": "https://open.spotify.com/track/3Kt9CbEjesZT5ZihPeMd30"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -403,6 +347,22 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/4H7BAnbN3vCtzWIgNyJXbi"
+      },
+      "artists": [
+        {
+          "name": "Lita Ford",
+          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
+        }
+      ],
+      "duration_ms": 276015,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/7Iwoiaro59GdgnGwxFaVcc"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
         "name": "Maxi Kaputt",
         "url": "https://open.spotify.com/album/71OsPVP0dUjuQ5GWsGp6FQ"
       },
@@ -416,33 +376,53 @@
           "url": "https://open.spotify.com/artist/23nHfPBinQagZQCUXaMfnP"
         },
         {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+          "name": "Jenry Cancura",
+          "url": "https://open.spotify.com/artist/5AHV4cpjvzdCdzewiQ8MNl"
         }
       ],
-      "duration_ms": 180870,
-      "name": "Affentheater",
-      "url": "https://open.spotify.com/track/0tPZCUono3WrhYZmyGp6Wg"
+      "duration_ms": 189817,
+      "name": "Siempre los Mismos",
+      "url": "https://open.spotify.com/track/4yQZt6YGpxZSSeKHSzFHKI"
     },
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "\"The Fading Afternoon: Classical Works\"",
-        "url": "https://open.spotify.com/album/5hAlQctv3oGxHpY0mKvK0I"
+        "name": "Time Lab",
+        "url": "https://open.spotify.com/album/5A9rMiLzm47h4nZmcwoA0c"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Angela Brownridge",
-          "url": "https://open.spotify.com/artist/7suBrtDHxXAC0bJ0TIiL4S"
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
         }
       ],
-      "duration_ms": 90845,
-      "name": "18 Pieces, Op. 72: XVII. Pass\u00e9 lointain - Excerpt",
-      "url": "https://open.spotify.com/track/07PRfuvAr1TyQEhKGnl2qT"
+      "duration_ms": 191835,
+      "name": "Midnight Traffic",
+      "url": "https://open.spotify.com/track/2PJW5n8EB96LVq4VoR9Z2z"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/0wxid34yC8qps3VHHuOgpj"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "Gloria Allel",
+          "url": "https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX"
+        }
+      ],
+      "duration_ms": 141840,
+      "name": "Catarsis",
+      "url": "https://open.spotify.com/track/7MD0SEOm2ecAxP1WFRoEco"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -459,6 +439,22 @@
       "duration_ms": 226133,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/3KufRwzBWm08EdVccZAah2"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Al Otro Lado",
+        "url": "https://open.spotify.com/album/5eSbxHjfAHiYunKDCH8DQX"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "Al Otro Lado",
+      "url": "https://open.spotify.com/track/5GZjA0pqnNSxnqNTzM7D59"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -515,34 +511,18 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Al Otro Lado",
-        "url": "https://open.spotify.com/album/5eSbxHjfAHiYunKDCH8DQX"
+        "name": "La vanguardia es as\u00ed",
+        "url": "https://open.spotify.com/album/5muUpZkDLQTu5dWdOGFsyK"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 210920,
-      "name": "Al Otro Lado",
-      "url": "https://open.spotify.com/track/5GZjA0pqnNSxnqNTzM7D59"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Back To Black (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "You're Wondering Now",
-      "url": "https://open.spotify.com/track/32hc4EBnQCe9KxrlAELQog"
+      "duration_ms": 212302,
+      "name": "Los dinosaurios",
+      "url": "https://open.spotify.com/track/4QkfesUSZqpsnjXOL6SZN7"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -567,50 +547,18 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "La vanguardia es as\u00ed",
-        "url": "https://open.spotify.com/album/5muUpZkDLQTu5dWdOGFsyK"
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 212302,
-      "name": "Los dinosaurios",
-      "url": "https://open.spotify.com/track/4QkfesUSZqpsnjXOL6SZN7"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "A man from the future",
-        "url": "https://open.spotify.com/album/1oooasjRIwxQRUUb0xNiN1"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 366108,
-      "name": "He dreamed of machines",
-      "url": "https://open.spotify.com/track/0F4M2od11z4xwxp2oDHfNY"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Netherworlds",
-        "url": "https://open.spotify.com/album/4951xpcIwMAPnhBzCY47dn"
-      },
-      "artists": [
-        {
-          "name": "Insomnium",
-          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
-        }
-      ],
-      "duration_ms": 342600,
-      "name": "Ethereal Sleep",
-      "url": "https://open.spotify.com/track/2EJa8t1E8fx0p1vrDLJDDA"
+      "duration_ms": 228693,
+      "name": "Cupid - Deluxe Edition Version",
+      "url": "https://open.spotify.com/track/0E16zErisDfgtFLvzlQfTq"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -639,6 +587,58 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
+        "name": "\u042d\u0442\u043e \u041e\u043d",
+        "url": "https://open.spotify.com/album/0vv3hNvTA0Tt78iXyznj2d"
+      },
+      "artists": [
+        {
+          "name": "Otto Dix",
+          "url": "https://open.spotify.com/artist/4xYV3eueFMTN60gezE972y"
+        }
+      ],
+      "duration_ms": 300020,
+      "name": "\u042d\u0442\u043e \u041e\u043d",
+      "url": "https://open.spotify.com/track/6YRmFEqvQT2XWnXzJIajR6"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Netherworlds",
+        "url": "https://open.spotify.com/album/4951xpcIwMAPnhBzCY47dn"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        }
+      ],
+      "duration_ms": 302293,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0Qh4PraEit9OIQunsKU6Rh"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Fragile XX / I Wish You Were Dead (SWARM Remix)",
+        "url": "https://open.spotify.com/album/5DIXUsYSr3WKgIrPmX3Cv6"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "SWARM",
+          "url": "https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3"
+        }
+      ],
+      "duration_ms": 234949,
+      "name": "I Wish You Were Dead - SWARM Remix",
+      "url": "https://open.spotify.com/track/4vh7wLq0v5WJX6gfGAaNv0"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
         "name": "PITCOIN",
         "url": "https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM"
       },
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
+        "name": "der Dunkelheit / my Vertigo",
+        "url": "https://open.spotify.com/album/2CgHJujjiMsiT3hPxFS1Jf"
+      },
+      "artists": [
+        {
+          "name": "Diary Of Dreams",
+          "url": "https://open.spotify.com/artist/1tg5jMp8FFjVqjgoxuEbSR"
+        }
+      ],
+      "duration_ms": 241613,
+      "name": "my Vertigo",
+      "url": "https://open.spotify.com/track/1EZ4YWomZB5o2YHpbyI4Sd"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
         "name": "Without Music the World Dies",
         "url": "https://open.spotify.com/album/6S1k318fN9HWqoAADpkcF9"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "\u042d\u0442\u043e \u041e\u043d",
-        "url": "https://open.spotify.com/album/0vv3hNvTA0Tt78iXyznj2d"
+        "name": "A man from the future",
+        "url": "https://open.spotify.com/album/1oooasjRIwxQRUUb0xNiN1"
       },
       "artists": [
         {
-          "name": "Otto Dix",
-          "url": "https://open.spotify.com/artist/4xYV3eueFMTN60gezE972y"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 300020,
-      "name": "\u042d\u0442\u043e \u041e\u043d",
-      "url": "https://open.spotify.com/track/6YRmFEqvQT2XWnXzJIajR6"
+      "duration_ms": 428570,
+      "name": "A man from the future",
+      "url": "https://open.spotify.com/track/5zUdFy3giiWAj1KaO4ztP8"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -723,22 +739,6 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Hyper Normal",
-        "url": "https://open.spotify.com/album/06MIfrdR7H3GCQeC7jP2VR"
-      },
-      "artists": [
-        {
-          "name": "Liminal",
-          "url": "https://open.spotify.com/artist/62ZWJPTjYmC76ncPQwHiDj"
-        }
-      ],
-      "duration_ms": 521000,
-      "name": "Hyper Normal",
-      "url": "https://open.spotify.com/track/3krtqK5mZ7IZLm54KoLkL9"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
         "name": "Christmas By The Beach",
         "url": "https://open.spotify.com/album/54Bx9atIEJ3dV1ABowvpFR"
       },
@@ -764,65 +764,9 @@
           "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 160750,
-      "name": "In Hiding - 2026 Mix",
-      "url": "https://open.spotify.com/track/0c9tEz2ANkScVwBET3aFRI"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Accident of Birth (2026 Remix)",
-        "url": "https://open.spotify.com/album/075cCgoJVxp8ZHxLODREHa"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        },
-        {
-          "name": "Brendan Duffey",
-          "url": "https://open.spotify.com/artist/2stIZek6erG1Ds8O1bf2zV"
-        }
-      ],
-      "duration_ms": 238984,
-      "name": "Road to Hell - 2026 Remix",
-      "url": "https://open.spotify.com/track/111STNmDdcWciVQl22uSgn"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "der Dunkelheit / my Vertigo",
-        "url": "https://open.spotify.com/album/2CgHJujjiMsiT3hPxFS1Jf"
-      },
-      "artists": [
-        {
-          "name": "Diary Of Dreams",
-          "url": "https://open.spotify.com/artist/1tg5jMp8FFjVqjgoxuEbSR"
-        }
-      ],
-      "duration_ms": 241613,
-      "name": "my Vertigo",
-      "url": "https://open.spotify.com/track/1EZ4YWomZB5o2YHpbyI4Sd"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Fragile XX / I Wish You Were Dead (SWARM Remix)",
-        "url": "https://open.spotify.com/album/5DIXUsYSr3WKgIrPmX3Cv6"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        },
-        {
-          "name": "SWARM",
-          "url": "https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3"
-        }
-      ],
-      "duration_ms": 234949,
-      "name": "I Wish You Were Dead - SWARM Remix",
-      "url": "https://open.spotify.com/track/4vh7wLq0v5WJX6gfGAaNv0"
+      "duration_ms": 208833,
+      "name": "Fireside Song - 2026 Mix",
+      "url": "https://open.spotify.com/track/6KstNXlgE2a9PFoU18bt9H"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -843,18 +787,38 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Licking Love From A Knife",
-        "url": "https://open.spotify.com/album/7kaW8I3bWn0P0qGiwXPfMg"
+        "name": "Hyper Normal",
+        "url": "https://open.spotify.com/album/06MIfrdR7H3GCQeC7jP2VR"
       },
       "artists": [
         {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+          "name": "Liminal",
+          "url": "https://open.spotify.com/artist/62ZWJPTjYmC76ncPQwHiDj"
         }
       ],
-      "duration_ms": 462093,
-      "name": "Licking Love From A Knife",
-      "url": "https://open.spotify.com/track/7sucuTPOCKPKYDNIz66IDt"
+      "duration_ms": 521000,
+      "name": "Hyper Normal",
+      "url": "https://open.spotify.com/track/3krtqK5mZ7IZLm54KoLkL9"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Accident of Birth (2026 Remix)",
+        "url": "https://open.spotify.com/album/075cCgoJVxp8ZHxLODREHa"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        },
+        {
+          "name": "Brendan Duffey",
+          "url": "https://open.spotify.com/artist/2stIZek6erG1Ds8O1bf2zV"
+        }
+      ],
+      "duration_ms": 319261,
+      "name": "Man of Sorrows - 2026 Remix",
+      "url": "https://open.spotify.com/track/5jHjcPaGU4J59vA0ETWLPB"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -883,66 +847,6 @@
       "duration_ms": 828746,
       "name": "Urworte: V. Elpis: Hoffnung",
       "url": "https://open.spotify.com/track/1INTRuFKNPEOr8ay2vpfY8"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Raise Your Voices (The Orchestral Music Of Secret Garden)",
-        "url": "https://open.spotify.com/album/1kil0drR1vVoL1EWhz6w0f"
-      },
-      "artists": [
-        {
-          "name": "Secret Garden",
-          "url": "https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Holst Singers",
-          "url": "https://open.spotify.com/artist/3NTZfjAhbZdPxNMTpAPd8h"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Raise Your Voices - The Orchestral Music Of Secret Garden",
-      "url": "https://open.spotify.com/track/0FgaoQofkU65stBcyGmcKo"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "kinsei",
-        "url": "https://open.spotify.com/album/0k5wHeZkhNraHUy7CfQ8Jj"
-      },
-      "artists": [
-        {
-          "name": "GotoMariko acoustic violence POP",
-          "url": "https://open.spotify.com/artist/5Hm7GCdRmLkQIGUjXDjHrK"
-        }
-      ],
-      "duration_ms": 158177,
-      "name": "kinsei",
-      "url": "https://open.spotify.com/track/4G03OJA49EIFEFL9du2h0f"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "MALAGRADECIDA",
-        "url": "https://open.spotify.com/album/6adzrVhi1XiEyoHwU7Arje"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 178657,
-      "name": "Alguien como YO",
-      "url": "https://open.spotify.com/track/4qhIBH6jUbQi7yuudB7yjj"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -987,18 +891,110 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Axis Mundi (Redux)",
-        "url": "https://open.spotify.com/album/5gno8neWWHNSHxRxcSu137"
+        "name": "Raise Your Voices (The Orchestral Music Of Secret Garden)",
+        "url": "https://open.spotify.com/album/1kil0drR1vVoL1EWhz6w0f"
       },
       "artists": [
         {
-          "name": "Panzerfaust",
-          "url": "https://open.spotify.com/artist/39THyu7mxjdqTKk4zHGjrb"
+          "name": "Secret Garden",
+          "url": "https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Holst Singers",
+          "url": "https://open.spotify.com/artist/3NTZfjAhbZdPxNMTpAPd8h"
         }
       ],
-      "duration_ms": 242574,
-      "name": "Axis Mundi - Redux",
-      "url": "https://open.spotify.com/track/0sJK4Eb3Z5BmgrQnkv5fr7"
+      "duration_ms": 268973,
+      "name": "Raise Your Voices - The Orchestral Music Of Secret Garden",
+      "url": "https://open.spotify.com/track/0FgaoQofkU65stBcyGmcKo"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "SPIN (from \"Jojo's Bizarre Adventure: Steel Ball Run\") [Spanish Version]",
+        "url": "https://open.spotify.com/album/0FleXqdqHFL4L1SPYwbSzc"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        }
+      ],
+      "duration_ms": 300439,
+      "name": "SPIN (from \"Jojo's Bizarre Adventure: Steel Ball Run\") - Spanish Version",
+      "url": "https://open.spotify.com/track/3kMWARv2G9FCFnrH76Hzu7"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "MALAGRADECIDA",
+        "url": "https://open.spotify.com/album/6adzrVhi1XiEyoHwU7Arje"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 178657,
+      "name": "Alguien como YO",
+      "url": "https://open.spotify.com/track/4qhIBH6jUbQi7yuudB7yjj"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/3EB8m11r5Rls7NtOU7mkx5"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226458,
+      "name": "Patient Zero - Piano Version",
+      "url": "https://open.spotify.com/track/45TWWbHDrLBa4Rn5NjbUvx"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Live By The Wave Die By The Wave",
+        "url": "https://open.spotify.com/album/1564msuNq50g5BTUjSRL97"
+      },
+      "artists": [
+        {
+          "name": "Nico.X3",
+          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
+        }
+      ],
+      "duration_ms": 94557,
+      "name": "Live By The Wave Die By The Wave",
+      "url": "https://open.spotify.com/track/51sqtM4IiTdKO69dEvz7Vx"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "WE ARE ALL DEMONS",
+        "url": "https://open.spotify.com/album/3AO21Ik9cPZmbX8hjrqIUl"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 141517,
+      "name": "WE ARE ALL DEMONS",
+      "url": "https://open.spotify.com/track/5S8j2KApbuZwpve3DjEF54"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -1015,6 +1011,70 @@
       "duration_ms": 431693,
       "name": "Prince And The Band - Vault Raw 2",
       "url": "https://open.spotify.com/track/5rk5bal0kAiaoJUt5vfnIe"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Peque\u00f1os grandes amigos",
+        "url": "https://open.spotify.com/album/1uUcYYKBK6WadY6RuCiQ1N"
+      },
+      "artists": [
+        {
+          "name": "Cuenta Cuentos",
+          "url": "https://open.spotify.com/artist/1uDmkCfse39B4r35j5hvqc"
+        }
+      ],
+      "duration_ms": 180951,
+      "name": "La Gallinita Roja",
+      "url": "https://open.spotify.com/track/6oMf88Uq4uKnyYFqt6P251"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Licking Love From A Knife",
+        "url": "https://open.spotify.com/album/7kaW8I3bWn0P0qGiwXPfMg"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 462093,
+      "name": "Licking Love From A Knife",
+      "url": "https://open.spotify.com/track/7sucuTPOCKPKYDNIz66IDt"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Christmas At The Jukebox",
+        "url": "https://open.spotify.com/album/4xEOuQOvITykaXlt1PvHqP"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "Santa Claus Is Coming To Town - Single Version",
+      "url": "https://open.spotify.com/track/1nQuQg7mk8s6px0W7ZWIgE"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Evil Mind",
+        "url": "https://open.spotify.com/album/54RBqarkzHgN8cnSPZDVr4"
+      },
+      "artists": [
+        {
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
+        }
+      ],
+      "duration_ms": 217593,
+      "name": "Evil Mind",
+      "url": "https://open.spotify.com/track/4xZpRnj7FUJWOL2MYZcP26"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -1063,134 +1123,18 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Evil Mind",
-        "url": "https://open.spotify.com/album/54RBqarkzHgN8cnSPZDVr4"
+        "name": "kinsei",
+        "url": "https://open.spotify.com/album/0k5wHeZkhNraHUy7CfQ8Jj"
       },
       "artists": [
         {
-          "name": "Hopes Die Last",
-          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
+          "name": "GotoMariko acoustic violence POP",
+          "url": "https://open.spotify.com/artist/5Hm7GCdRmLkQIGUjXDjHrK"
         }
       ],
-      "duration_ms": 217593,
-      "name": "Evil Mind",
-      "url": "https://open.spotify.com/track/4xZpRnj7FUJWOL2MYZcP26"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Christmas At The Jukebox",
-        "url": "https://open.spotify.com/album/4xEOuQOvITykaXlt1PvHqP"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "Santa Claus Is Coming To Town - Single Version",
-      "url": "https://open.spotify.com/track/1nQuQg7mk8s6px0W7ZWIgE"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "WE ARE ALL DEMONS",
-        "url": "https://open.spotify.com/album/3AO21Ik9cPZmbX8hjrqIUl"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 141517,
-      "name": "WE ARE ALL DEMONS",
-      "url": "https://open.spotify.com/track/5S8j2KApbuZwpve3DjEF54"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Patient Zero",
-        "url": "https://open.spotify.com/album/3EB8m11r5Rls7NtOU7mkx5"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226458,
-      "name": "Patient Zero - Piano Version",
-      "url": "https://open.spotify.com/track/45TWWbHDrLBa4Rn5NjbUvx"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Live By The Wave Die By The Wave",
-        "url": "https://open.spotify.com/album/1564msuNq50g5BTUjSRL97"
-      },
-      "artists": [
-        {
-          "name": "Nico.X3",
-          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
-        }
-      ],
-      "duration_ms": 94557,
-      "name": "Live By The Wave Die By The Wave",
-      "url": "https://open.spotify.com/track/51sqtM4IiTdKO69dEvz7Vx"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "SPIN (from \"Jojo's Bizarre Adventure: Steel Ball Run\") [Spanish Version]",
-        "url": "https://open.spotify.com/album/0FleXqdqHFL4L1SPYwbSzc"
-      },
-      "artists": [
-        {
-          "name": "Iris ~Pamela Calvo~",
-          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
-        }
-      ],
-      "duration_ms": 300439,
-      "name": "SPIN (from \"Jojo's Bizarre Adventure: Steel Ball Run\") - Spanish Version",
-      "url": "https://open.spotify.com/track/3kMWARv2G9FCFnrH76Hzu7"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Fight For Love",
-        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Kaitlin Aragon",
-          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "Fight For Love",
-      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Peque\u00f1os grandes amigos",
-        "url": "https://open.spotify.com/album/1uUcYYKBK6WadY6RuCiQ1N"
-      },
-      "artists": [
-        {
-          "name": "Cuenta Cuentos",
-          "url": "https://open.spotify.com/artist/1uDmkCfse39B4r35j5hvqc"
-        }
-      ],
-      "duration_ms": 180951,
-      "name": "La Gallinita Roja",
-      "url": "https://open.spotify.com/track/6oMf88Uq4uKnyYFqt6P251"
+      "duration_ms": 158177,
+      "name": "kinsei",
+      "url": "https://open.spotify.com/track/4G03OJA49EIFEFL9du2h0f"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -1243,6 +1187,42 @@
       "duration_ms": 185809,
       "name": "where did you go? \u25cb",
       "url": "https://open.spotify.com/track/0wJEyazi5l1hKV2UeBj4i9"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Axis Mundi (Redux)",
+        "url": "https://open.spotify.com/album/5gno8neWWHNSHxRxcSu137"
+      },
+      "artists": [
+        {
+          "name": "Panzerfaust",
+          "url": "https://open.spotify.com/artist/39THyu7mxjdqTKk4zHGjrb"
+        }
+      ],
+      "duration_ms": 242574,
+      "name": "Axis Mundi - Redux",
+      "url": "https://open.spotify.com/track/0sJK4Eb3Z5BmgrQnkv5fr7"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

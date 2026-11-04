@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-314 songs - 19 hr 8 min
+315 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [I'm Waiting](https://open.spotify.com/track/4ovDtiwSEnTc83DCb2BZJR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:08 | 2026-07-14 | 2026-07-22 |
 | [Idiot Wind](https://open.spotify.com/track/0sp66y8IHtJUzPfhUr2nZO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 8:17 | 2023-02-15 | 2023-04-02 |
 | [Idiots Rule the World](https://open.spotify.com/track/1I182i2JPdMtJ5SwUuQafo) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh) | 3:36 | 2026-07-15 | 2026-07-22 |
-| [Idiots Rule the World](https://open.spotify.com/track/5C4SSUPfOnRYda4FL0Yjqr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:36 | 2026-09-27 |  |
+| [Idiots Rule the World](https://open.spotify.com/track/5C4SSUPfOnRYda4FL0Yjqr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs) | 3:36 | 2026-09-27 | 2026-11-04 |
 | [If You See Her, Say Hello](https://open.spotify.com/track/5H8zlszpn4kQ4Gcsg8A8RE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 4:24 | 2023-02-16 | 2023-03-27 |
 | [In It For The Pleasure](https://open.spotify.com/track/7ef2egpnEu1ptiuASIHOwS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 4:20 | 2022-01-15 | 2022-03-30 |
 | [In My Time of Need](https://open.spotify.com/track/0APv17oLwplLLc376ipFH8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker \(25th Anniversary Edition\)](https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U) | 4:27 | 2025-09-09 | 2025-12-05 |
@@ -185,9 +185,10 @@
 | [Moon River \- Live from Newcastle, UK\. 2023](https://open.spotify.com/track/4zkZuF7ObN0XHH0hAeaxpe) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Tracks Of My Tears \(Live from Newcastle, UK\. 2023\)](https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov) | 3:52 | 2024-08-15 | 2024-09-21 |
 | [Moving Target](https://open.spotify.com/track/3HwLobYrehYJZBuEThdCYR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:41 | 2022-04-06 | 2022-10-09 |
 | [My Heaven](https://open.spotify.com/track/4PgHvvPObeSsrEOPYHNzLf) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:21 | 2022-05-21 | 2022-08-26 |
-| [My Winding Wheel](https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:12 | 2022-01-11 |  |
+| [My Winding Wheel](https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:12 | 2022-01-11 | 2026-11-04 |
+| [My Winding Wheel](https://open.spotify.com/track/4A2nfuH8bevsmCdG5lyAyl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/1LNNDu3aW8rCo64UqbQIRJ) | 3:12 | 2026-11-04 |  |
 | [My Wrecking Ball](https://open.spotify.com/track/03gi6UGds8A5vArAoOZ579) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/69K1Pef7hoy91Q81F6WPey) | 3:08 | 2024-09-25 | 2024-10-23 |
-| [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 | 2022-01-12 | 2026-05-16 |
+| [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 | 2022-01-12 |  |
 | [Nebraska](https://open.spotify.com/track/5qfZWhHJRkXfFdAO3KRvvH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 3:31 | 2023-01-08 | 2023-06-13 |
 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 | 2024-01-03 | 2024-09-27 |
 | [New York, New York](https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:46 | 2022-01-11 |  |

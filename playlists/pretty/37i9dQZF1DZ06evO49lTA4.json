@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 954245,
+  "num_followers": 954293,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACY2acQbqkQ4szD+1iqwCpY",
+  "snapshot_id": "auaBAAAAAADA7EETecDI3q4EzkscUTxY",
   "tracks": [
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 195093,
-      "name": "Lovin' On You",
-      "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
+      "duration_ms": 225253,
+      "name": "Even Though I'm Leaving",
+      "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 225253,
-      "name": "Even Though I'm Leaving",
-      "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
+      "duration_ms": 195093,
+      "name": "Lovin' On You",
+      "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Pray Hard (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 191053,
       "name": "Brand New Man - with Luke Combs",
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Pray Hard (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
     },
     {
       "added_at": null,

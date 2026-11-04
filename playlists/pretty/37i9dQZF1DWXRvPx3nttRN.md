@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,996 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,021 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 54 | [All My Broken Pieces](https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [All My Broken Pieces](https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif) | 4:02 |
 | 55 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 | 56 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 |
-| 57 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 |
-| 58 | [Just Let It Go](https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Just Let It Go](https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0) | 3:29 |
+| 57 | [Just Let It Go](https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Just Let It Go](https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0) | 3:29 |
+| 58 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 |
 | 59 | [Hotel Walls \- Acoustic Version](https://open.spotify.com/track/5pW8171RuTAYU9hAN54QpM) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Hotel Walls \(Acoustic Version\)](https://open.spotify.com/album/6a7fNHZ8qbkAvmoOEhpIuC) | 3:27 |
 | 60 | [Under The Sun \- Acoustic](https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ) | 3:10 |
 | 61 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 121 | [Recognise \- Acoustic Version](https://open.spotify.com/track/3InsMHQ7uECgOSGAe5ycXq) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Acoustic Version\)](https://open.spotify.com/album/5gdWwNy11VATD0CbTcRVjK) | 2:49 |
 | 122 | [Turn Out the Lights](https://open.spotify.com/track/3JFeaupbz1zMukrzCTURyB) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/0T5oDfLwS6oWPTrzVRmOFB) | 3:23 |
 
-Snapshot ID: `AAAAADu+WcGdjbkDPbbaoSsCZzRr7ndg`
+Snapshot ID: `AAAAAJEiXSHyWXUef5xQNixRFCrVk1XL`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-372 songs - 19 hr 6 min
+373 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 | 2024-06-07 | 2025-07-21 |
 | [A LOT](https://open.spotify.com/track/3QTlRL8OxWxeXd9Go9OMxh) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [SALT + LIGHT](https://open.spotify.com/album/2BctJ00mFldhrsOHMoz1h3) | 3:01 | 2025-07-20 |  |
 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 | 2024-06-07 |  |
-| [Ain't That What You Do](https://open.spotify.com/track/51OeNHCbd4CKd0UqUT2MsI) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/0pnaRFsAq2j8VsDtOV3Xsp) | 2:30 | 2025-05-22 |  |
+| [Ain't That What You Do](https://open.spotify.com/track/51OeNHCbd4CKd0UqUT2MsI) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/0pnaRFsAq2j8VsDtOV3Xsp) | 2:30 | 2025-05-22 | 2026-11-04 |
+| [Ain't That What You Do](https://open.spotify.com/track/62NEgS3WtKbbyHdGt4JjWz) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/3lP9aSXPBGwlfYk6lt2xht) | 2:30 | 2026-11-03 |  |
 | [All Hours](https://open.spotify.com/track/01opyHvH01jYVd8zWeQSgQ) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [All Hours](https://open.spotify.com/album/74ce7TvmnTieNsiQyZIHv5) | 3:01 | 2024-06-07 |  |
 | [All My Life](https://open.spotify.com/track/0Hb0Z2YDsu8WKZlj8jSfMw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:56 | 2025-06-14 |  |
 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 | 2024-06-07 |  |

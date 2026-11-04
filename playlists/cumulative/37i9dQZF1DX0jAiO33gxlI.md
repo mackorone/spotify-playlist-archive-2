@@ -2,7 +2,7 @@
 
 ### [Presença Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX0jAiO33gxlI)
 
-> Os lançamentos e melhores sons do rap nacional\. Foto: Sant
+> Os lançamentos e melhores sons do rap nacional\. Foto: Sain
 
 1,686 songs - 3 day 15 hr 16 min
 

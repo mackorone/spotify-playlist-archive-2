@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dominic Fike, BigXthaPlug, Gracie Abrams,  OMAH LAY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,652,751 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,652,374 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [How Easy](https://open.spotify.com/track/1FJWx4rsZFMRglAaEuIvCk) | [Thomas Edwards](https://open.spotify.com/artist/72loN3jtnyiDqdgzdaspRc), [Makayla Lynn](https://open.spotify.com/artist/4soJcTirhX1P7yS8HdtJaI) | [High Times](https://open.spotify.com/album/1rMPpT8ewezTrnAL6usP3G) | 3:51 |
 | 100 | [Eyes Wide Shut](https://open.spotify.com/track/4EMQgiOJcduxSGqjwbDorP) | [Rev3rent](https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD) | [She Let The World Run Rampant](https://open.spotify.com/album/6GJl7skIeGqtZZqqQPglHS) | 2:31 |
 
-Snapshot ID: `AAAAADwTcUdSyueo0Ss182jPaPk+YmJc`
+Snapshot ID: `AAAAAKtWjpYw34jEayWuVhqvtFcoA1H1`

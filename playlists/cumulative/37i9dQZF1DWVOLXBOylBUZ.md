@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de La Cruz.
 
-1,499 songs - 3 day 5 hr 19 min
+1,500 songs - 3 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [63](https://open.spotify.com/track/4F8jNgbjriwcgeUOGorXWT) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [63](https://open.spotify.com/album/0pTcBM1tSspEQmylKHNCeI) | 2:44 | 2022-09-09 | 2023-01-21 |
 | [66 am](https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG) | [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [66 am](https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX) | 4:00 | 2026-04-10 |  |
 | [7 Lágrimas \- Remix](https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [7 Lágrimas \(Remix\)](https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl) | 3:22 | 2022-06-30 | 2023-11-25 |
+| [8 preguntas](https://open.spotify.com/track/6fRl2W57WGHbg5xUbJOy7G) | [Dani Barranco](https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ESO NO ES DE ROCKSTAR](https://open.spotify.com/album/2vGayndoqRxeKfOyzL4obx) | 2:56 | 2026-11-03 |  |
 | [96 AL REVES](https://open.spotify.com/track/49xk5mobx2iCwJMjOKrxCu) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [ADIOS](https://open.spotify.com/album/28TpiwghzeUEx0HMP2Giui) | 2:43 | 2026-04-03 | 2026-05-09 |
 | [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2023-05-05 | 2023-06-17 |
 | [A Las 12](https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [A Las 12](https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f) | 3:08 | 2024-06-21 | 2024-12-07 |
@@ -875,7 +876,7 @@
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-22 | 2024-01-20 |
 | [MPB: CONTIGO \- SAMAI, MAISAK](https://open.spotify.com/track/49R0wmR7b7stdKyi2xPgIq) | [SAMAI](https://open.spotify.com/artist/6dmCCGyGDIeqaqVlQMPxbE), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [MPB: CONTIGO \- SAMAI, MAISAK](https://open.spotify.com/album/5OT7DHvWX4XnnWGgKjmIQs) | 2:40 | 2026-02-28 | 2026-03-19 |
 | [MR\. MOONDIAL](https://open.spotify.com/track/67LKV40NfSSGIJnm0xz6fi) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 2:45 | 2024-11-22 | 2025-10-04 |
-| [Mucha Leche En Tu Cumpleaño / Tetas Tetas](https://open.spotify.com/track/1R6x5WechTOVpRlaLPCr71) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Mucha Leche En Tu Cumpleaño / Tetas Tetas](https://open.spotify.com/album/57lGy8zKbBceh3qJTVpAFK) | 2:14 | 2026-10-09 |  |
+| [Mucha Leche En Tu Cumpleaño / Tetas Tetas](https://open.spotify.com/track/1R6x5WechTOVpRlaLPCr71) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Mucha Leche En Tu Cumpleaño / Tetas Tetas](https://open.spotify.com/album/57lGy8zKbBceh3qJTVpAFK) | 2:14 | 2026-10-09 | 2026-11-04 |
 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 | 2022-08-19 | 2022-10-22 |
 | [Musika Bellakona](https://open.spotify.com/track/0xzmquQRefAWG6u7bHaKf8) | [Daniel Martinez](https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6), [Brand Randall](https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL) | [Musika Bellakona](https://open.spotify.com/album/13I6eZ9URkIFIkVyPp1NzN) | 2:53 | 2024-09-13 | 2024-10-12 |
 | [Muy Feliz](https://open.spotify.com/track/6q4yEf6ZZzYls2e4rM6fnK) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Muy Feliz](https://open.spotify.com/album/3VSXYMgkFMEVABTBmR0h8R) | 3:03 | 2022-01-07 | 2022-02-19 |

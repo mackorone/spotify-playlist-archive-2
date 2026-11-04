@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: kaogaii\(가오가이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-858 songs - 1 day 21 hr 38 min
+859 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) | 3:35 | 2022-04-01 | 2026-10-06 |
 | [DAY OFF](https://open.spotify.com/track/0dbwg8PpOML96BwB7VjM7W) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [DAY OFF](https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd) | 3:03 | 2023-09-20 | 2023-11-22 |
 | [Day or Night](https://open.spotify.com/track/1xp8Dh7UcXKJqUEoumnIB4) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [COMFY](https://open.spotify.com/album/0W4CJSly8XGaY4Bqlzudcf) | 3:34 | 2022-04-01 | 2022-07-02 |
+| [Day, One day](https://open.spotify.com/track/3r5ClfPZ6L70aI3l4HLCZr) | [Meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Day, One day](https://open.spotify.com/album/7Ju0QIKUdgrWIcZsgqdSej) | 2:57 | 2026-11-03 |  |
 | [DayDream](https://open.spotify.com/track/11lHFLhHJfEAJbUvPH6URk) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [DayDream](https://open.spotify.com/album/68ST80GRugLTAd73obnILf) | 3:01 | 2025-02-20 | 2025-03-20 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-24 | 2024-04-19 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-01 | 2026-05-08 |
@@ -542,7 +543,7 @@
 | [OKAY \(Feat\. Swings\)](https://open.spotify.com/track/4azqExDJLlQBhiSTuGi4yC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:40 | 2022-04-21 | 2022-07-15 |
 | [On The Rocks \(Feat\. h3hyeon, BE′O\)](https://open.spotify.com/track/0jIU2p3kJTeLa2figH0KBj) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [TOTO](https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK) | 2:33 | 2024-04-05 | 2024-06-17 |
 | [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 | 2023-08-16 |  |
-| [On the Weekend](https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [SOUL BABY](https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr) | 2:31 | 2026-08-07 |  |
+| [On the Weekend](https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [SOUL BABY](https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr) | 2:31 | 2026-08-07 | 2026-11-04 |
 | [One & Only](https://open.spotify.com/track/0kwttQkLxci6m9SU7XelgM) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Delphinium](https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T) | 2:42 | 2024-08-01 | 2024-09-04 |
 | [one \(feat\. Paul Blanco, Kim Seungmin\)](https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [김승민](https://open.spotify.com/artist/1h8ZqUlVEXd1qvOjXVuFg2) | [one & ashes](https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of) | 3:16 | 2022-07-14 | 2022-07-24 |
 | [one dead one alive](https://open.spotify.com/track/6yCJHQUD8nl5lxyEZkPaVo) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Voice tool tip.txt 2](https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd) | 2:42 | 2025-04-30 | 2025-06-07 |

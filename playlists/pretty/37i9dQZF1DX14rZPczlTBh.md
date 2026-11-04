@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,483 likes - 50 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,500 likes - 50 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Itlu Kanmani Announcement Theme](https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Itlu Kanmani Announcement Theme](https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn) | 1:03 |
 | 50 | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/track/1oN3V3I3ZDcae7JKXP4a62) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql) | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/album/7h83VMmJo7RxwJNmDMckbN) | 1:04 |
 
-Snapshot ID: `AAAAAAkglN/9vHwsyRT6g1aZQxKzKs2H`
+Snapshot ID: `AAAAAAVeU4kCGW8N/iW017XZ8XBABVDf`

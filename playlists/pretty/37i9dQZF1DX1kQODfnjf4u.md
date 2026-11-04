@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover:  Annet X & Sara Rikas
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,434 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,436 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
 | 50 | [Limbo](https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Dusan Vlk](https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Rockstar Lifestyle \(EUP SUMMER SEASON \- 1st DROP\)](https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE) | 3:18 |
 
-Snapshot ID: `AAAAAG37J053+Ws3jd/tSDExlMq69Og4`
+Snapshot ID: `AAAAAKiSB27NGiX4xIjyrnws+ow5gUA+`

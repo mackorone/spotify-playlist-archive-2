@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 50874,
+  "num_followers": 50876,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwEVxc5gMAa95Q1yVdQRq2DZAys",
+  "snapshot_id": "AAAAAC+0Zt42nRcqen2B0QM5pIqTqp0Q",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Brick House",
-      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Brown Sugar",
@@ -651,6 +635,22 @@
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Brick House",
+      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "The Gap Band IV",
@@ -703,6 +687,22 @@
       "duration_ms": 198800,
       "name": "Outstanding",
       "url": "https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2023-06-16 17:58:31",

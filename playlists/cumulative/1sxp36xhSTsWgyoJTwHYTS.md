@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-260 songs - 13 hr 56 min
+261 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Prison Dorée](https://open.spotify.com/track/0HGqrl9B72fqjze4ucNw5U) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [PRISME](https://open.spotify.com/album/5m7lVkuOXDH1qwp4MqAIgq) | 3:25 | 2023-09-23 |  |
 | [Promis demain j'arrête de t'aimer](https://open.spotify.com/track/0pnU1QRQtQSL2NJ8apyJja) | [Timothée Path](https://open.spotify.com/artist/4vrkiF6AnuMfylBSk5UIQJ) | [Promis demain j'arrête de t'aimer](https://open.spotify.com/album/69pSPboNFeKjSnEhRi3g3c) | 3:38 | 2023-12-05 |  |
 | [Proximous](https://open.spotify.com/track/0FkVZtOVNVD0rgDX0ktLxq) | [Jaythelostking](https://open.spotify.com/artist/2gOLOXhUsESg792W0XuiCE) | [Proximous](https://open.spotify.com/album/3C1n6oeT5HHFRcOr7SRNvb) | 3:26 | 2025-04-08 |  |
+| [Quand la vie est vide](https://open.spotify.com/track/3GIdXR8xerdTn33599qIgr) | [Djeïkeï](https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q) | [Quand la vie est vide](https://open.spotify.com/album/6N852oP7zIvARE3y4tJrAc) | 4:09 | 2026-11-03 |  |
 | [Que je t'aime](https://open.spotify.com/track/6p6WcCXM8wKLcS9540C4wZ) | [Chach](https://open.spotify.com/artist/5Vkbahyg8JFtrB4siP5bqx), [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Que je t'aime](https://open.spotify.com/album/0mtw01T6Ej87tx9U8TZfhw) | 3:54 | 2024-11-27 |  |
 | [QUI NOUS A PRIS LE FUTUR?](https://open.spotify.com/track/3DFVhUFnJA9c1ECihPRmIg) | [Pryeur](https://open.spotify.com/artist/1fN6shtwQwczw6U30IeJtR), [Veiga000](https://open.spotify.com/artist/1mbSvcnVbN4iVwLEaTnJQd) | [LONG SHOT](https://open.spotify.com/album/7pUqs2nrQyfU4dfFiZ7epC) | 2:43 | 2025-05-06 |  |
 | [Rambo](https://open.spotify.com/track/4mh0pQnld6sLE64HMbwdph) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Rambo](https://open.spotify.com/album/2w7yPIZtz78UNCAuj05PCz) | 2:06 | 2023-12-05 |  |

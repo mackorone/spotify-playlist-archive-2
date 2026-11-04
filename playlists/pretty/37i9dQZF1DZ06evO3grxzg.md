@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,288 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,279 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 46 | [Ilarie](https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:49 |
 | 47 | [No Es Cierto](https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [No Es Cierto](https://open.spotify.com/album/6EQfZS6wgjOXRCWYn0oJmg) | 3:45 |
 
-Snapshot ID: `auUvgAAAAABWIx7J6dT9u/hTc+P8A0X9`
+Snapshot ID: `auaBAAAAAADIB5uB+6xo6803w9btYsLH`

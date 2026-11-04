@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Spiffy
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,865 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,924 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 48 | [Free Soul](https://open.spotify.com/track/3TDCfYPfyN3VGTPt3K5fAQ) | [Anuj B](https://open.spotify.com/artist/7f5V2XifD0Mz6sGYuXrtCp) | [Free Soul](https://open.spotify.com/album/1WIEbTJuFPh0c419VGR7TT) | 3:12 |
 | 49 | [MIRZA](https://open.spotify.com/track/7GnZyJgTRax5utePn6odNT) | [Viepsa Arora](https://open.spotify.com/artist/5OniBRRrk1TywcHKKOHNCW), [Skopos](https://open.spotify.com/artist/2WVomrLR3V3nBVpiPsGjZz) | [MIRZA](https://open.spotify.com/album/4s1SJw56NM11SSsk75LAZb) | 3:30 |
 
-Snapshot ID: `AAAAAKCjmLiQ7Rwiej6Y8E5QUh4HOONp`
+Snapshot ID: `AAAAAHyb3TauoZ/bJ3j77HKPQLe/TGMK`

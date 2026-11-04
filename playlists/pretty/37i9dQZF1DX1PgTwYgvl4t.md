@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,827 likes - 100 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,926 likes - 100 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Nwaturu Chukwu](https://open.spotify.com/track/0gLmHxgE408gBRoNZVn7Bw) | [Cheemah](https://open.spotify.com/artist/6vHRbHLaqOoAfLHEB7yF0r) | [Nwaturu Chukwu](https://open.spotify.com/album/6mGa3maxydY3tqX0YeHSOA) | 2:15 |
 | 100 | [all about Jesus \- Live at De Stanley Brothers Campus Tour](https://open.spotify.com/track/70svxuF3BxKmC3H4tam3Bk) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [all about Jesus \(Live at De Stanley Brothers Campus Tour\)](https://open.spotify.com/album/2TmiSfa80NzLK7j7EdGOZE) | 7:45 |
 
-Snapshot ID: `AAAAAONOdJoYYRKZWfj/ey08d9sjNm2V`
+Snapshot ID: `AAAAAMrfZDLPSohQ4XZTU6EGBH7cpV8C`

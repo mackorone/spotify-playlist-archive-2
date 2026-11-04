@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1816332,
+  "num_followers": 1816422,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkDnI+TSGO+3cTbploWo6srQZ78",
+  "snapshot_id": "AAAAAOBAkgz6AXTHxVZ4UTBeMMf8QjTs",
   "tracks": [
     {
       "added_at": "2024-07-12 15:40:20",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+      },
+      "artists": [
+        {
+          "name": "Kim Leoni",
+          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "75, Brazil Street",
         "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 187402,
       "name": "75, Brazil Street (Radio Mix)",
       "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
-      },
-      "artists": [
-        {
-          "name": "Kim Leoni",
-          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bellatrax",
+          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
+        },
+        {
+          "name": "Sophia May",
+          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
+      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bellatrax",
-          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
-        },
-        {
-          "name": "Sophia May",
-          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
-      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
     },
     {
       "added_at": "2024-07-12 15:40:20",

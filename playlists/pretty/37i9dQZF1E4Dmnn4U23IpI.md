@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With The Bad Dreamers, Gunship, Siamese Youth and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,869 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,878 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [The Danger](https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [Kristine](https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj) | 3:40 |
 | 50 | [Let It Rain](https://open.spotify.com/track/4ri4TItzssxHI942diybIg) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [FATHERDUDE](https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z) | [Seulement L'amour](https://open.spotify.com/album/4iazGUmWUolXNizuTWPLOg) | 4:43 |
 
-Snapshot ID: `AAAAAF6U+HK7jC+zHa+s2SpMUIUsA1NM`
+Snapshot ID: `AAAAABLAe4F1h10CF3z+tipuVXyl9ojF`

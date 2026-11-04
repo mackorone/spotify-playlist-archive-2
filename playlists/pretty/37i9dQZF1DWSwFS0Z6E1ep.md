@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,145 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,171 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,10 +111,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 101 | [Slow Down](https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT) | [Jack Earls](https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY), [The Jimbos](https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F) | [Slow Down / A Fool for Loving You](https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx) | 2:17 |
 | 102 | [Bring Your Love Back Home](https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV) | [Eddie Snow](https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt) | [Ain't That Right / Bring Your Love Back Home](https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7) | 3:14 |
 | 103 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
-| 104 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 |
-| 105 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
-| 106 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
-| 107 | [Good Lovin'](https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d) | [Dickey Lee](https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq), [The Collegiates](https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On) | [Memories Never Grow Old / Good Lovin'](https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac) | 2:52 |
+| 104 | [Good Lovin'](https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d) | [Dickey Lee](https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq), [The Collegiates](https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On) | [Memories Never Grow Old / Good Lovin'](https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac) | 2:52 |
+| 105 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 |
+| 106 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
+| 107 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
 | 108 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
 | 109 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
 | 110 | [I've Got The World On A String](https://open.spotify.com/track/4tsUpfcr6bSM4PIIFQGkQF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/0Cx7IYEdG2T70z9xFknhDT) | 2:09 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 134 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:01 |
 | 135 | [Keep A Knockin](https://open.spotify.com/track/5n5h1rwx8arEaRureuyNeS) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7jstlbnGMRZ2esWVqVGfoH) | 2:17 |
 
-Snapshot ID: `AAAAAM0Msjyf1+0rgzJ2maidhZvzSYoE`
+Snapshot ID: `AAAAAKxvAKAq7o56W6sOr4v3y5m55Zwm`

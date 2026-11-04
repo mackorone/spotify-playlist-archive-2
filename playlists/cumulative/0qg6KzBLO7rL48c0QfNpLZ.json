@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/1FAMDkJrapWKjFcvObZMDC"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Dialect",
+          "url": "https://open.spotify.com/artist/6ifL03uYcHFK5wnXxjRhbp"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354857,
+      "name": "19",
+      "url": "https://open.spotify.com/track/30lbty1TQ5Nvo3MvUyOaD6"
+    },
+    {
+      "album": {
         "name": "1985",
         "url": "https://open.spotify.com/album/2wO9GAhAAjL8I5kigRwzwR"
       },
@@ -1403,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Poets and Spirits",
+        "url": "https://open.spotify.com/album/6hQtD0PEwI2q7cNXl7WV0V"
+      },
+      "artists": [
+        {
+          "name": "Eskerod",
+          "url": "https://open.spotify.com/artist/6jquWhXFEKwO9JToPWoFrf"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308210,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/6hjhixt26mnixNP0gc3vq9"
+    },
+    {
+      "album": {
         "name": "American Girls",
         "url": "https://open.spotify.com/album/1YhtXfILnx5ctbtA9xoWIH"
       },
@@ -2028,6 +2064,24 @@
       "duration_ms": 162545,
       "name": "Asanagi",
       "url": "https://open.spotify.com/track/6N6bBuCSanntIv7oAob5F5"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0yvRlebtH7jitgNoY0TZej"
+      },
+      "artists": [
+        {
+          "name": "Katalysst",
+          "url": "https://open.spotify.com/artist/3N84pRcRNSzSDEY6FkQCD2"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357918,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/5kSizmmzpARwbqcwbIxuFi"
     },
     {
       "album": {
@@ -5358,6 +5412,24 @@
       "duration_ms": 196198,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
+    },
+    {
+      "album": {
+        "name": "Follow the Truth",
+        "url": "https://open.spotify.com/album/2Fn1BaVg3YKXdDXRd9WJ4W"
+      },
+      "artists": [
+        {
+          "name": "B'ee",
+          "url": "https://open.spotify.com/artist/5c2diSzETHEaWfFDCWMtes"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Catch Me If I Fall",
+      "url": "https://open.spotify.com/track/3QvDI564fkcbRMA4MTAhg4"
     },
     {
       "album": {
@@ -20252,7 +20324,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 150000,
       "name": "Lola Ya",
       "url": "https://open.spotify.com/track/1pLaKXDFHlaWnUkpSFNGx7"
@@ -22227,6 +22299,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/32uqK1RHxchF3a3zCdVBDR"
+      },
+      "artists": [
+        {
+          "name": "Nick Schippers",
+          "url": "https://open.spotify.com/artist/6iJRdqK3utoSBdojm0N9nR"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224214,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3PelSS3Z5sj69ornQbJpcj"
+    },
+    {
+      "album": {
         "name": "Microdose",
         "url": "https://open.spotify.com/album/6UOweCjSXIk37GHN7Wml9t"
       },
@@ -22238,7 +22328,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 125222,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/6xhEf3TRBA7r2bDkvO2GYc"
@@ -22358,7 +22448,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 155098,
       "name": "Mind",
       "url": "https://open.spotify.com/track/4Elv1QEupG92azr63ruTvJ"
@@ -23090,6 +23180,24 @@
       "duration_ms": 184005,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS"
+    },
+    {
+      "album": {
+        "name": "MOSS & MOON",
+        "url": "https://open.spotify.com/album/0ZdZyJkvP9qQmgvbm7wGhy"
+      },
+      "artists": [
+        {
+          "name": "NOVIIR",
+          "url": "https://open.spotify.com/artist/6OXZkuweE13fNWrXSIyLtB"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149880,
+      "name": "MOSS & MOON",
+      "url": "https://open.spotify.com/track/5cHXLUuGrgreiikeWpNmq7"
     },
     {
       "album": {
@@ -24726,7 +24834,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 131796,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/5zNQIsnVgUioar3YtZREbp"
@@ -29194,7 +29302,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 154918,
       "name": "Sawa Le",
       "url": "https://open.spotify.com/track/7qmlTNZAt0lhuZl5Oc7Sh8"
@@ -31658,7 +31766,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 132478,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/4WpPZr2cDGR9erMHwx1BH2"
@@ -33765,6 +33873,24 @@
     },
     {
       "album": {
+        "name": "That Moment",
+        "url": "https://open.spotify.com/album/5ozigegAoCE9pxZg42mDwK"
+      },
+      "artists": [
+        {
+          "name": "Jen1e",
+          "url": "https://open.spotify.com/artist/4jXMfovZuBYUpfosLOayh6"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292249,
+      "name": "That Moment",
+      "url": "https://open.spotify.com/track/4AxeIJlGMGIonVH0eR6TVA"
+    },
+    {
+      "album": {
         "name": "That's Alright",
         "url": "https://open.spotify.com/album/7FQLhtk1gzUXkUb1ThPw5e"
       },
@@ -34316,6 +34442,24 @@
       "duration_ms": 132000,
       "name": "The Time Is Now",
       "url": "https://open.spotify.com/track/7CImbCFyj3mMlwXxXxd8wB"
+    },
+    {
+      "album": {
+        "name": "The True Beauty Which Lays Within.",
+        "url": "https://open.spotify.com/album/2ga53nmViV7wdLGbB4WJph"
+      },
+      "artists": [
+        {
+          "name": "Artie Fishally",
+          "url": "https://open.spotify.com/artist/6CKZ2MkVm0vvQ6gNkd5IBg"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224496,
+      "name": "The True Beauty Which Lays Within.",
+      "url": "https://open.spotify.com/track/3dlkurN7GaBeSDcH1UjSHV"
     },
     {
       "album": {
@@ -37776,6 +37920,36 @@
       "duration_ms": 151475,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/0iLFKCWNxgjMHqeJbmePa7"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/00S87CLNc0BbLCXy5dfvSg"
+      },
+      "artists": [
+        {
+          "name": "Nick Giardino",
+          "url": "https://open.spotify.com/artist/3jZXVplmPltILjo5SyBvaD"
+        },
+        {
+          "name": "JPT3R",
+          "url": "https://open.spotify.com/artist/4Pbc09g4SkxCjZyKizueZO"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        },
+        {
+          "name": "Afro Queen",
+          "url": "https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/1Yr3jTMQZpu24MYKPSouT9"
     },
     {
       "album": {

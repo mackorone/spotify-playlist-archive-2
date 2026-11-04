@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Condeiul cu cerneala neagra",
+        "url": "https://open.spotify.com/album/5FVuU9Rb9L9WcaWlMoP4Qx"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157834,
+      "name": "Condeiul cu cerneala neagra",
+      "url": "https://open.spotify.com/track/7sUlVzWMLN7tvfVu3EDHjm"
+    },
+    {
+      "album": {
         "name": "CONTACT FATAL 3",
         "url": "https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr"
       },
@@ -1820,6 +1838,32 @@
       "duration_ms": 179200,
       "name": "COSTA",
       "url": "https://open.spotify.com/track/0X3m5JIdxBaVTMnSz34pOR"
+    },
+    {
+      "album": {
+        "name": "Luh Leakyz Vol. 1",
+        "url": "https://open.spotify.com/album/2AyMtdDF0mmc6bI4ljSIaN"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lyfestyle Corporation",
+          "url": "https://open.spotify.com/artist/4JhGsYkvtktTVaOtVDeN3S"
+        },
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154998,
+      "name": "Countup",
+      "url": "https://open.spotify.com/track/0Avd3IwLnCDp3HErwUIsjA"
     },
     {
       "album": {
@@ -2184,6 +2228,28 @@
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
+    },
+    {
+      "album": {
+        "name": "Art\u0103, sunet, poezie",
+        "url": "https://open.spotify.com/album/5WiXpyblGndfroy4UAkqeT"
+      },
+      "artists": [
+        {
+          "name": "Vlad Musta",
+          "url": "https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "De dor",
+      "url": "https://open.spotify.com/track/4EGRn08pP3tFFUV3NClsM7"
     },
     {
       "album": {
@@ -2908,7 +2974,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 133886,
       "name": "Gangsta Luv",
       "url": "https://open.spotify.com/track/3aMVeiJKtSSwhYwafOSZnM"
@@ -4448,7 +4514,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 200471,
       "name": "Mesterul Manele",
       "url": "https://open.spotify.com/track/04XSd1K9IUneZBRDQXIUac"
@@ -7188,7 +7254,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 137431,
       "name": "UP",
       "url": "https://open.spotify.com/track/6JrqrPXatWyG1Ra1dFE8LE"

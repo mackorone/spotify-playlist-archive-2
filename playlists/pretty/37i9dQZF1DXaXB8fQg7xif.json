@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
-  "num_followers": 9242004,
+  "num_followers": 9241817,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK1vGOHGrkeYEMx8ka7ic3KDhj92",
+  "snapshot_id": "AAAAAJFipZ0zhJbNJgaBVc+HBPDk6Wur",
   "tracks": [
     {
       "added_at": "2026-10-30 04:01:44",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 136406,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
+    },
+    {
+      "added_at": "2026-10-30 04:01:44",
+      "album": {
         "name": "Can't Decide",
         "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 175384,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
-    },
-    {
-      "added_at": "2026-10-30 04:01:44",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 136406,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
       "added_at": "2026-10-30 04:01:44",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2026-10-30 04:01:44",
-      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
+    },
+    {
+      "added_at": "2026-10-30 04:01:44",
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "added_at": "2026-10-30 04:01:44",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        }
+      ],
+      "duration_ms": 159120,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
+    },
+    {
+      "added_at": "2026-10-30 04:01:44",
+      "album": {
         "name": "MYSTERY OF RAW",
         "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 228923,
       "name": "MYSTERY OF RAW",
       "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
-    },
-    {
-      "added_at": "2026-10-30 04:01:44",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        }
-      ],
-      "duration_ms": 159120,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
     },
     {
       "added_at": "2026-10-30 04:01:44",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
-    },
-    {
-      "added_at": "2026-10-30 04:01:44",
-      "album": {
         "name": "Cash Out",
         "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 182225,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
+    },
+    {
+      "added_at": "2026-10-30 04:01:44",
+      "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2026-10-30 04:01:44",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
-        "name": "Get Up And Dance",
-        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
+        "name": "I Know You Want To",
+        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 155081,
-      "name": "Get Up And Dance",
-      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
+      "duration_ms": 193488,
+      "name": "I Know You Want To",
+      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
     },
     {
       "added_at": "2026-10-30 04:01:44",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
-        "name": "I Know You Want To",
-        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
+        "name": "Get Up And Dance",
+        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 193488,
-      "name": "I Know You Want To",
-      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
+      "duration_ms": 155081,
+      "name": "Get Up And Dance",
+      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
     },
     {
       "added_at": "2026-10-30 04:01:44",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
+        "name": "BATTERY OPERATED",
+        "url": "https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v"
+      },
+      "artists": [
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "duration_ms": 127994,
+      "name": "BATTERY OPERATED",
+      "url": "https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9"
+    },
+    {
+      "added_at": "2026-10-30 04:01:44",
+      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
-    },
-    {
-      "added_at": "2026-10-30 04:01:44",
-      "album": {
-        "name": "BATTERY OPERATED",
-        "url": "https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v"
-      },
-      "artists": [
-        {
-          "name": "Tigerblind",
-          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
-        }
-      ],
-      "duration_ms": 127994,
-      "name": "BATTERY OPERATED",
-      "url": "https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9"
     },
     {
       "added_at": "2026-10-30 04:01:44",
@@ -3059,18 +3059,18 @@
     {
       "added_at": "2026-10-30 04:01:44",
       "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
+        "name": "Ain't No Party",
+        "url": "https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
         }
       ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
+      "duration_ms": 185769,
+      "name": "Ain't No Party",
+      "url": "https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab"
     }
   ],
   "unique_name": "Dance Party",

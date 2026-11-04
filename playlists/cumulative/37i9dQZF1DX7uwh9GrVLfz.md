@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: All I Clacks
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: grating hunny
 
-922 songs - 2 day 0 hr 37 min
+924 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 | 2025-05-25 |
 | [1986](https://open.spotify.com/track/5d0XlR9EKCpbQHX8g0JbQh) | [DOTSUITARUNEN](https://open.spotify.com/artist/3AVCjqVpripxn9rQ1sC7Vb) | [1986](https://open.spotify.com/album/61uS7DM6h3la9sI1iTuuwS) | 5:56 | 2022-05-19 | 2022-07-27 |
 | [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 | 2023-01-11 |
-| [21](https://open.spotify.com/track/2qnxyCb1YrprTYs5wEqSgG) | [Recca](https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501) | [Emotional Words](https://open.spotify.com/album/5Cf8sj86NH7OCZVZVBxfjV) | 2:29 | 2026-05-26 |  |
+| [21](https://open.spotify.com/track/2qnxyCb1YrprTYs5wEqSgG) | [Recca](https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501) | [Emotional Words](https://open.spotify.com/album/5Cf8sj86NH7OCZVZVBxfjV) | 2:29 | 2026-05-26 | 2026-11-04 |
 | [22](https://open.spotify.com/track/54v2yRvHP4rdKNZLtyBbbQ) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:22 | 2024-03-07 | 2025-01-08 |
 | [262](https://open.spotify.com/track/0BS35g5cQj8eweznR29blw) | [matsuri](https://open.spotify.com/artist/2uiEH6IIPxjVLp4VJUr0iV) | [Confession](https://open.spotify.com/album/2xa9dMz7X1q3jonUFjGEFP) | 3:45 | 2023-08-24 | 2023-10-04 |
 | [2時間なんもしなかった](https://open.spotify.com/track/08u7tWny37haGGVHQBWF7z) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [2時間なんもしなかった](https://open.spotify.com/album/68Nvqg30WnytdBgACaK9o3) | 1:24 | 2023-07-20 | 2023-08-02 |
@@ -611,6 +611,7 @@
 | [Tropical Days](https://open.spotify.com/track/3wIQFCAQ3oWx8ggPBGlvi4) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [HYPE](https://open.spotify.com/album/3OP8h5RjyE4v2hazWAmaLa) | 3:05 | 2022-05-24 | 2022-07-18 |
 | [Tsunagari SUNSET](https://open.spotify.com/track/0T6XPgGcNJ6WwTnX7k70t9) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:51 | 2023-02-21 | 2023-04-19 |
 | [turning point](https://open.spotify.com/track/3zSBhkgMc4H4wFvEKRb2AW) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [clockwork](https://open.spotify.com/album/7Avr8T0Wu5GFpTVgb0AgHd) | 3:36 | 2022-05-17 | 2022-07-14 |
+| [Twilight](https://open.spotify.com/track/3VVt0XtyZAYmdL8m8hv5P9) | [Recca](https://open.spotify.com/artist/0qLUMuVVobqGNCZSys4501) | [with unchanged voices](https://open.spotify.com/album/3xMHka2IvtM48TCbt779Tk) | 3:10 | 2026-11-03 |  |
 | [UMA WITH A MISSION](https://open.spotify.com/track/76Kpt955dzeNTVpyIveNBO) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [UMA WITH A MISSION](https://open.spotify.com/album/3uWTEqofNs8cZ04WqdyQUF) | 3:34 | 2023-02-24 | 2023-03-01 |
 | [UMA WITH A MISSION](https://open.spotify.com/track/1IMy3xrUnqsz9pfCKj5Px6) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [UMA WITH A MISSION](https://open.spotify.com/album/6HWEdPypaMBYFSPF5fBs94) | 3:34 | 2024-10-15 | 2024-11-02 |
 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 | 2025-10-14 |  |
@@ -680,6 +681,7 @@
 | [お前の話は聞いていない](https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [お前の話は聞いていない](https://open.spotify.com/album/1f2hVzPb2h5NfkvGXY9DHR) | 3:34 | 2023-06-08 | 2023-07-28 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-02-14 | 2023-07-12 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
+| [けものがれ](https://open.spotify.com/track/15D36BysBRqsA8qGLvBnZA) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [けものがれ](https://open.spotify.com/album/0cGuCTYVYq6r7O3rtKK1wj) | 3:50 | 2026-11-03 |  |
 | [こいのうた](https://open.spotify.com/track/2KPBIjQLE3tOGYQi6dyJEk) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 5:56 | 2022-05-19 | 2023-11-07 |
 | [ここにいた才能](https://open.spotify.com/track/4GBBbMpBEz4isZYAvJk3Qr) | [ルサンチマン](https://open.spotify.com/artist/5LvaknCVL7R16LCiSktKEm) | [ここにいた才能](https://open.spotify.com/album/0kPcDIfAmEr9FNhCfuketW) | 2:15 | 2024-03-12 | 2024-05-01 |
 | [このまま僕らが大人になっても](https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [大都会に告ぐ](https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0) | 1:28 | 2024-01-16 | 2025-10-15 |
@@ -759,7 +761,7 @@
 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 | 2022-07-12 |  |
 | [ハレルヤ](https://open.spotify.com/track/6g66QtDXdhf2QudckRtHoc) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [ハレルヤ](https://open.spotify.com/album/4f6WQyEKjZvScNnSzvWNTM) | 4:05 | 2022-05-12 | 2024-10-09 |
 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2022-07-21 | 2024-04-19 |
-| [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 | 2022-05-12 |  |
+| [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 | 2022-05-12 | 2026-11-04 |
 | [バイバイ、僕の恋人。](https://open.spotify.com/track/4i8d4saakaXrCEOrX0tFiM) | [The コットンクラブ](https://open.spotify.com/artist/4oBFYe6sg5cUiw70Weu1l6) | [バイバイ、僕の恋人。](https://open.spotify.com/album/2UmsrxD48XfQTeBHYOqwu9) | 2:48 | 2022-08-18 | 2022-09-07 |
 | [バトルカメ](https://open.spotify.com/track/3VUs83asTlXKRp8Q1T1bmi) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [バトルカメ](https://open.spotify.com/album/2hpvAXCw3KkAk16HvjMnOZ) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [パンクロックが鳴る夜に](https://open.spotify.com/track/6Ej9KwxT2SidCUHm8vBic7) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [陽はまた昇る](https://open.spotify.com/album/2tLjocfsUK0d21YTfRnwgT) | 3:28 | 2022-06-28 | 2022-07-18 |

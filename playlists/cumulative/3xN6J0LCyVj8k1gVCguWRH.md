@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,689 songs - 15 day 14 hr 27 min
+6,691 songs - 15 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1958,6 +1958,7 @@
 | [Feelings](https://open.spotify.com/track/3cIh8UFyMatsWWpe0j9eHS) | [Super Carrera](https://open.spotify.com/artist/1Xy1925qDbe9fbfVc9cn0j), [Aenu.Lög](https://open.spotify.com/artist/5LU4uXMoo3sadh72aHeJQO) | [Feelings](https://open.spotify.com/album/0ZbWNITGJdmtaQHTFSV0nl) | 2:19 | 2026-09-24 | 2026-10-25 |
 | [Feels](https://open.spotify.com/track/3dcO2ig3Y9nwUgJ4vkT64O) | [DOULINE](https://open.spotify.com/artist/2rDH58DQUSq9emkijwyaNP) | [Feels](https://open.spotify.com/album/7svqowyDFkB4VdL0hF8JdD) | 3:06 | 2022-05-13 | 2022-05-30 |
 | [Feels Like](https://open.spotify.com/track/24Ocvau6Grw8PuMNF7sYRs) | [NORA](https://open.spotify.com/artist/1iWuFQRnNn5tGXpADvlJ4T) | [Feels Like](https://open.spotify.com/album/11zIONkstbfuL2PNQkfjEJ) | 2:28 | 2022-08-26 | 2022-09-11 |
+| [Feels Like](https://open.spotify.com/track/3SQcJylykG5wDqLL7TfD4r) | [STOW](https://open.spotify.com/artist/3MOHWFXUVdM0hrHdZrQrhv) | [Feels Like](https://open.spotify.com/album/6LviXDKmL2X5aKYvadsol6) | 2:53 | 2026-11-03 |  |
 | [Feels Like Summer](https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Feels Like Summer](https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k) | 3:07 | 2026-06-06 | 2026-07-11 |
 | [Feels So Good](https://open.spotify.com/track/3M9iXTsLrNf0eYEVyJDr7k) | [Rachel Huggins](https://open.spotify.com/artist/7zrvyajXkaIpiSK5KfyoAO) | [KEEP DREAMING](https://open.spotify.com/album/6Zx9n9TbW981AHHV5AU3K3) | 3:40 | 2022-03-23 | 2022-04-09 |
 | [Feels So Good](https://open.spotify.com/track/1X0GH4jrFy1tDUcMXMfhLP) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Feels So Good](https://open.spotify.com/album/653ugBySrH6gPqqAu9tIK0) | 3:15 | 2023-01-14 | 2023-02-12 |
@@ -4493,7 +4494,7 @@
 | [Pluto](https://open.spotify.com/track/6qqgC2Fxb6bcNAApAIfm3Z) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Pluto](https://open.spotify.com/album/5d0La3iOmeP9Ydzv07bHXK) | 4:04 | 2024-04-29 | 2024-05-14 |
 | [pocket poetry](https://open.spotify.com/track/5ElGvWkvJHUhytDVoO3Kpo) | [Sara Diana](https://open.spotify.com/artist/5ChJvrPvd0oJoxv67xlT2v) | [pocket poetry](https://open.spotify.com/album/0Px8APmWuJTVAlkitiujz9) | 3:45 | 2025-02-26 | 2026-02-03 |
 | [Pockets](https://open.spotify.com/track/3Yv7QqUbx0HGHG96XLyjrB) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [Pockets](https://open.spotify.com/album/6BSijZmwqwFlebR5gP8ZTo) | 3:06 | 2023-08-18 | 2023-09-26 |
-| [poco a poco \(martes\)](https://open.spotify.com/track/0gwwUAP8ZtDGUC2KD6Cap1) | [mynameisfide](https://open.spotify.com/artist/0iDEef1IW8GY5CjkrZxQXp) | [poco a poco \(martes\)](https://open.spotify.com/album/0OvEI6txfInZdXLrhmOI6L) | 2:15 | 2026-07-03 | 2026-09-02 |
+| [poco a poco \(martes\)](https://open.spotify.com/track/0gwwUAP8ZtDGUC2KD6Cap1) | [mynameisfide](https://open.spotify.com/artist/0iDEef1IW8GY5CjkrZxQXp) | [poco a poco \(martes\)](https://open.spotify.com/album/0OvEI6txfInZdXLrhmOI6L) | 2:15 | 2026-07-03 |  |
 | [Polaroid](https://open.spotify.com/track/50PYJjXq4OHDPdq6u9MCJ5) | [Era 51](https://open.spotify.com/artist/3vxacLf1tP9PILySz0wgY0) | [Polaroid](https://open.spotify.com/album/3CbXyuDvTOfGfjbOavEq5T) | 2:32 | 2026-09-26 | 2026-10-08 |
 | [Polaroid Thoughts](https://open.spotify.com/track/1Amjg3vMoXdTt7akhjJ0yN) | [Nosa](https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO) | [Polaroid Thoughts](https://open.spotify.com/album/3iPud34mLO87HLt8jLhZMB) | 2:39 | 2024-11-15 | 2024-11-27 |
 | [Polaroids](https://open.spotify.com/track/0GHOuQ5U6Cxp40TcE7zEi0) | [Jason Wade](https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE) | [Polaroids](https://open.spotify.com/album/5jRDnBbT03Ah34nQm1iGLR) | 4:35 | 2021-12-04 | 2021-12-20 |
@@ -5200,6 +5201,7 @@
 | [Soldiers](https://open.spotify.com/track/2TdZHEfYEp0hPHCiXuoyVA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Soldiers](https://open.spotify.com/album/6sML4lbkhjYHsEae5LCVt4) | 3:23 | 2025-08-15 | 2025-09-22 |
 | [SOLILOQUY](https://open.spotify.com/track/4oRJhSxFWhlH7mhWj0r1cE) | [MERCYN](https://open.spotify.com/artist/6Gq7ay7vlHCNQ5vWdIiOTJ) | [SOLILOQUY](https://open.spotify.com/album/69PpA61eCPg8d18N8y1fL8) | 3:05 | 2026-05-02 | 2026-05-14 |
 | [Solitude Burns](https://open.spotify.com/track/1FQWkhlvCcjPsaqpMU9Yfn) | [The Strange Seeds](https://open.spotify.com/artist/3gwMCAZVLTLsYL2SFOXMYR) | [Solitude Burns](https://open.spotify.com/album/55ReHPAjW2g0qjfpBGNwvk) | 5:48 | 2024-01-31 | 2024-02-08 |
+| [Solo G](https://open.spotify.com/track/1VqSB4T7dtBn107WbzkA24) | [Porsha Faye](https://open.spotify.com/artist/5cI1FAmU8q34IeixGe40l8) | [Solo G](https://open.spotify.com/album/10RdyvNswvIFQdaLZPjexn) | 3:14 | 2026-11-03 |  |
 | [Solo por Necesidad](https://open.spotify.com/track/3PberEargUf8d607ITEQRS) | [Diocelina Peralta](https://open.spotify.com/artist/0Tf9GlVMnkWTybJlaprIhi) | [Massage](https://open.spotify.com/album/6PfUWj6eRsLUADUlYbZmPK) | 4:25 | 2024-03-13 | 2024-03-22 |
 | [Solomon Sang](https://open.spotify.com/track/791eQ4TI42crcH5DKIz7uA) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [New Moon Daughter](https://open.spotify.com/album/7jV22JIrWgtCKCX34cJrzA) | 5:56 | 2020-08-20 | 2023-08-28 |
 | [Solsticio](https://open.spotify.com/track/29Q552BxMc52LxxFhWm25E) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Solsticio](https://open.spotify.com/album/7dz02tZraKvPPuDmm4znHL) | 3:57 | 2023-06-24 | 2023-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: Mirrr
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,778 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,795 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [กอดไม่ได้](https://open.spotify.com/track/6OtTqu9t1RitlU1RjUfEXe) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [2014 Extended Play](https://open.spotify.com/album/2dvvwF73RgmullSUmkKhEk) | 4:46 |
 | 75 | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ), [KHEM FREEHAND](https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN) | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI) | 4:08 |
 
-Snapshot ID: `AAAAAOa+cXXyDDQ/erC803iCQolUXKNZ`
+Snapshot ID: `AAAAAKpnsQlqf3CWJSNQwSyNubmQ1hLt`

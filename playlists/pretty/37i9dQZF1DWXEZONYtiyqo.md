@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Andia
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,327 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,333 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Bastionul Fericirii](https://open.spotify.com/track/6jg9LBPwmtVNXLlqHozweF) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Bastionul Fericirii](https://open.spotify.com/album/7p2FEhYZBk8MuxYM60sqPS) | 3:02 |
 | 50 | [Full Option](https://open.spotify.com/track/6vnbabsIQOkwp12neqpUoG) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Full Option](https://open.spotify.com/album/72dDD3JTVcIBgj3EPZrVyn) | 2:46 |
 
-Snapshot ID: `AAAAAG9WFUJKZnVKVkNtHQjw3et+XJgM`
+Snapshot ID: `AAAAAJ+50xo5FmLx7YxaXxj5XgiOxcYx`

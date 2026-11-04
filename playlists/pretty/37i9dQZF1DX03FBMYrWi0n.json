@@ -1,12 +1,12 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: comment debord",
-  "num_followers": 10324,
+  "num_followers": 10326,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEE8NwFB+NVjAu41INa2RZpe25F",
+  "snapshot_id": "AAAAAK7f0Ce7Y7hLVnPuDrhrePTs8HZz",
   "tracks": [
     {
       "added_at": "2026-10-30 04:02:45",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "higher! higher! (for Paul)",
-        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
+        "name": "Tigre et diesel",
+        "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
       },
       "artists": [
         {
-          "name": "nowhere else to be",
-          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
         }
       ],
-      "duration_ms": 168110,
-      "name": "higher! higher! (for Paul)",
-      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
+      "duration_ms": 191213,
+      "name": "Piste 1",
+      "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "Tigre et diesel",
-        "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "Piste 1",
-      "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
-    },
-    {
-      "added_at": "2026-10-30 04:02:45",
-      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 254053,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
+    },
+    {
+      "added_at": "2026-10-30 04:02:45",
+      "album": {
+        "name": "higher! higher! (for Paul)",
+        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
+      },
+      "artists": [
+        {
+          "name": "nowhere else to be",
+          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
+        }
+      ],
+      "duration_ms": 168110,
+      "name": "higher! higher! (for Paul)",
+      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "Attendre - mstr 01",
-        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
+        "name": "The Fragile Beauty (Of New Morning Hopes)",
+        "url": "https://open.spotify.com/album/56ooh2IxvuvMA9xKg04OLg"
       },
       "artists": [
         {
-          "name": "Jimmy Hunt",
-          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+          "name": "Alex Henry Foster",
+          "url": "https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY"
         }
       ],
-      "duration_ms": 357013,
-      "name": "Attendre - mstr 01",
-      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
+      "duration_ms": 402645,
+      "name": "Blue as the Rain",
+      "url": "https://open.spotify.com/track/6ie8KdzMFEZxKUpDmD2pSD"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "The Fragile Beauty (Of New Morning Hopes)",
-        "url": "https://open.spotify.com/album/56ooh2IxvuvMA9xKg04OLg"
+        "name": "Attendre - mstr 01",
+        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
       },
       "artists": [
         {
-          "name": "Alex Henry Foster",
-          "url": "https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY"
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
         }
       ],
-      "duration_ms": 402645,
-      "name": "Blue as the Rain",
-      "url": "https://open.spotify.com/track/6ie8KdzMFEZxKUpDmD2pSD"
+      "duration_ms": 357013,
+      "name": "Attendre - mstr 01",
+      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "Tastes like Filth",
-        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
+        "name": "Machine Machine",
+        "url": "https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ"
       },
       "artists": [
         {
-          "name": "Beautiful Hotnes",
-          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
+          "name": "Brothel in Belize",
+          "url": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
         }
       ],
-      "duration_ms": 139570,
-      "name": "Dah Bahs",
-      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
+      "duration_ms": 160000,
+      "name": "Machine Machine",
+      "url": "https://open.spotify.com/track/6vSnDfzyexTHZskj0hYJbV"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "Machine Machine",
-        "url": "https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ"
+        "name": "Tastes like Filth",
+        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
       },
       "artists": [
         {
-          "name": "Brothel in Belize",
-          "url": "https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH"
+          "name": "Beautiful Hotnes",
+          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Machine Machine",
-      "url": "https://open.spotify.com/track/6vSnDfzyexTHZskj0hYJbV"
+      "duration_ms": 139570,
+      "name": "Dah Bahs",
+      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "SANS TOi",
-        "url": "https://open.spotify.com/album/2jeZaqhXELmmWfFx0TFOfY"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebm",
-          "url": "https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w"
-        }
-      ],
-      "duration_ms": 203005,
-      "name": "SANS TOi",
-      "url": "https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7"
-    },
-    {
-      "added_at": "2026-10-30 04:02:45",
-      "album": {
         "name": "WORST PARTY EVER",
         "url": "https://open.spotify.com/album/53MZyV26JLbusVBWkzTkbJ"
       },
@@ -1131,22 +1115,18 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
+        "name": "SANS TOi",
+        "url": "https://open.spotify.com/album/2jeZaqhXELmmWfFx0TFOfY"
       },
       "artists": [
         {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        },
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+          "name": "No\u00ebm",
+          "url": "https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w"
         }
       ],
-      "duration_ms": 238983,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+      "duration_ms": 203005,
+      "name": "SANS TOi",
+      "url": "https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -1167,18 +1147,22 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "J'aime le stress",
-        "url": "https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
       },
       "artists": [
         {
-          "name": "Nectar Palace",
-          "url": "https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT"
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        },
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
         }
       ],
-      "duration_ms": 171816,
-      "name": "J'aime le stress",
-      "url": "https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4"
+      "duration_ms": 238983,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -1211,6 +1195,22 @@
       "duration_ms": 229355,
       "name": "AVALANCHE",
       "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
+    },
+    {
+      "added_at": "2026-10-30 04:02:45",
+      "album": {
+        "name": "J'aime le stress",
+        "url": "https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ"
+      },
+      "artists": [
+        {
+          "name": "Nectar Palace",
+          "url": "https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT"
+        }
+      ],
+      "duration_ms": 171816,
+      "name": "J'aime le stress",
+      "url": "https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "Good Sport",
-        "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
-      },
-      "artists": [
-        {
-          "name": "Aidan Rex",
-          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Good Sport",
-      "url": "https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE"
-    },
-    {
-      "added_at": "2026-10-30 04:02:45",
-      "album": {
         "name": "Amaro",
         "url": "https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 169431,
       "name": "So Smart",
       "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
+    },
+    {
+      "added_at": "2026-10-30 04:02:45",
+      "album": {
+        "name": "Good Sport",
+        "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
+      },
+      "artists": [
+        {
+          "name": "Aidan Rex",
+          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Good Sport",
+      "url": "https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE"
     },
     {
       "added_at": "2026-10-30 04:02:45",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-10-30 04:02:45",
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/35dIBCuPTe5tHzE03MVPTn"
       },
       "artists": [
         {
-          "name": "Joseph Lorange",
-          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
         }
       ],
-      "duration_ms": 118309,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
+      "duration_ms": 220493,
+      "name": "Rotten",
+      "url": "https://open.spotify.com/track/0typVO5PXN4GAgmTx5mHip"
     }
   ],
   "unique_name": "ALT_QC",

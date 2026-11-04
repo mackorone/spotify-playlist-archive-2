@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,084 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,087 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 44 | [Goodbye Forever](https://open.spotify.com/track/4AiP0RkzF5emyMXKAmf7gK) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Goodbye Forever](https://open.spotify.com/album/2fRizoEa3SWMBxQptkjTcb) | 4:04 |
 | 45 | [WHAAT](https://open.spotify.com/track/01b5R3pLGj6n3tI54zEx9u) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [WHAAT](https://open.spotify.com/album/6vgN6Hy73pmlytBdaMYYZu) | 3:04 |
 | 46 | [Hysteria](https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Hysteria](https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY) | 2:48 |
-| 47 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
+| 47 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 | 48 | [KOYSAR](https://open.spotify.com/track/6Xe1HtLCdWp3Citi2UKVRd) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [KOYSAR](https://open.spotify.com/album/4Sd40mLP119PKaSJrbKUEy) | 3:17 |
 | 49 | [Somewhere I'd Like To Go](https://open.spotify.com/track/6SFfL6dV0wAdrJJe1TxwWR) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Keep Out Of The Storm \(Deluxe\)](https://open.spotify.com/album/17Y48BMWSDMyKj5j89jqxE) | 4:40 |
 | 50 | [choke](https://open.spotify.com/track/0BRC0VOO0zkGtxDSwgBOYu) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [choke](https://open.spotify.com/album/0xZVTOeGKxE2I0oxJMN6Ec) | 2:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 149 | [Faulty](https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [GET MEAN](https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz) | 3:19 |
 | 150 | [Dance Away](https://open.spotify.com/track/0t0bHrtoKf05PV83yV2snt) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [If You Insist](https://open.spotify.com/album/5xp06ZJYq9kIiZEEIcmW1B) | 3:34 |
 
-Snapshot ID: `AAAAANaFqviY4lbWcpVTHxTV5EP9UxL/`
+Snapshot ID: `AAAAAEPd0gnKSaeCkfhCMLispDPszFq/`

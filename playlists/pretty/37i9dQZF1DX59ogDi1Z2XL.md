@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Smiley & Casper TNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,173 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,201 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Fall 2012 Couture](https://open.spotify.com/track/5vwX3GQiBGeGbaTlncsLZj) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [Forager](https://open.spotify.com/album/2G08OByhcHHm1JUPFharAH) | 3:08 |
 | 100 | [BUNCH](https://open.spotify.com/track/6D4rLpNNJzFz8dJGoOfT3J) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [BUNCH](https://open.spotify.com/album/6cEWImUEBWGLyhneQAtkwP) | 2:05 |
 
-Snapshot ID: `AAAAAL7YHB1aRI6YM5Y1PpP5bmFbzCRm`
+Snapshot ID: `AAAAAHAu970/trIkkiq3cm9p5lFV5DF1`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPStiOwYjWME9dk7DvDFCI5e27my",
+  "snapshot_id": "AAAAAB2Q6+//7Wb9Hh8PRVMRXa6xMPfL",
   "tracks": [
     {
       "added_at": "2026-09-18 06:00:16",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Would You Hold My Hand?",
-        "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
-      },
-      "artists": [
-        {
-          "name": "E.ul",
-          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
-        }
-      ],
-      "duration_ms": 166994,
-      "name": "Would You Hold My Hand?",
-      "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 257666,
       "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Would You Hold My Hand?",
+        "url": "https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd"
+      },
+      "artists": [
+        {
+          "name": "E.ul",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+        }
+      ],
+      "duration_ms": 166994,
+      "name": "Would You Hold My Hand?",
+      "url": "https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -851,22 +851,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
       },
       "artists": [
         {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+          "name": "Wine Loop",
+          "url": "https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj"
         }
       ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+      "duration_ms": 202546,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
     }
   ],
   "unique_name": "\uc378 !",

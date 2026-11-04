@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 172000,
       "name": "AGAINST ALL",
       "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
@@ -4876,7 +4876,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 223906,
       "name": "Aniko Se Mena",
       "url": "https://open.spotify.com/track/2LC4MTEaG75Gz4HDT568C2"
@@ -13250,7 +13250,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 193846,
       "name": "Creta",
       "url": "https://open.spotify.com/track/4RneiUNonURNBoT5IKC4ku"
@@ -18506,7 +18506,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 269768,
       "name": "Ena Thavma",
       "url": "https://open.spotify.com/track/4oMBRSkdtjd5lZHi4zYvkp"
@@ -24936,6 +24936,28 @@
       "duration_ms": 112040,
       "name": "Goulia Goulia",
       "url": "https://open.spotify.com/track/3TLb9cVNMFPMIZ7QvzPVQJ"
+    },
+    {
+      "album": {
+        "name": "GOURI",
+        "url": "https://open.spotify.com/album/2cprn8WOgZV7GlAR8xrmzV"
+      },
+      "artists": [
+        {
+          "name": "Silly Slime",
+          "url": "https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl"
+        },
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115400,
+      "name": "GOURI",
+      "url": "https://open.spotify.com/track/4tbwYf1pYmFPMuNnWu6C2k"
     },
     {
       "album": {
@@ -33638,7 +33660,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 213120,
       "name": "LETE LETE",
       "url": "https://open.spotify.com/track/6wNjJ10ZAdbyp5LzhOPsEh"
@@ -54198,7 +54220,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 260209,
       "name": "Sinthikes",
       "url": "https://open.spotify.com/track/3aMmyk82Hs36APmNoEM0ZJ"
@@ -65106,6 +65128,24 @@
       "duration_ms": 162461,
       "name": "XANA",
       "url": "https://open.spotify.com/track/0OrGmYDi04CEeIgPk6NwsV"
+    },
+    {
+      "album": {
+        "name": "De Me Stamatises",
+        "url": "https://open.spotify.com/album/3oGsdO6raXRBzZbqqn0q2E"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Xano Esena",
+      "url": "https://open.spotify.com/track/46eWx2ceoxFHefJYbKHLxM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11492,
+  "num_followers": 11496,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACul8hJNqRg4VsrHHmIQgnu",
+  "snapshot_id": "auaBAAAAAACXcDVYPBByWVtQy9a87O7r",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whatever's Clever!",
-        "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 135503,
-      "name": "New Jersey (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/0O3OEz6OsTE4tKVhWKpCks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 245120,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whatever's Clever!",
+        "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 135503,
+      "name": "New Jersey (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/0O3OEz6OsTE4tKVhWKpCks"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry about it! (feat. Ravyn Lenae)",
-        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 171507,
-      "name": "Cry about it! (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -399,22 +379,6 @@
       "duration_ms": 193760,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Sew Me Back Together",
-      "url": "https://open.spotify.com/track/3GXhjB9dxqEwYqBH9GnDOp"
     },
     {
       "added_at": null,
@@ -435,6 +399,42 @@
       "duration_ms": 224933,
       "name": "Where I'm From (feat. Mereba)",
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Sew Me Back Together",
+      "url": "https://open.spotify.com/track/3GXhjB9dxqEwYqBH9GnDOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Moonlight EP",
+        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 216762,
+      "name": "Last Breath - EP Version",
+      "url": "https://open.spotify.com/track/4BffvSUwamMxFtFCVdLJj3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Room 25",
         "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 163616,
       "name": "Montego Bae",
       "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Moonlight EP",
-        "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 216762,
-      "name": "Last Breath - EP Version",
-      "url": "https://open.spotify.com/track/4BffvSUwamMxFtFCVdLJj3"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 88006,
+  "num_followers": 88083,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+        "name": "Slow Dancing In A Burning Room (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
         }
       ],
-      "duration_ms": 243033,
-      "name": "I Just Need You",
-      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
+      "duration_ms": 222998,
+      "name": "Slow Dancing In A Burning Room - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
     },
     {
       "added_at": null,
@@ -355,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Dancing In A Burning Room (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad"
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
         }
       ],
-      "duration_ms": 222998,
-      "name": "Slow Dancing In A Burning Room - Spotify Singles",
-      "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
+      "duration_ms": 243033,
+      "name": "I Just Need You",
+      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
     },
     {
       "added_at": null,

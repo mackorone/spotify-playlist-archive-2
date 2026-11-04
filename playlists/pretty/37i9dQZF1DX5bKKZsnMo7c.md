@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Dramatic, theatrical pop: Mollie Elizabeth it's your moment!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,907 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,911 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 74 | [Stalker's Tango](https://open.spotify.com/track/51HiWFC8v4oJNClRYbzpGl) | [Autoheart](https://open.spotify.com/artist/5Lm1CMoa8VOCBCLZesAcvc) | [Lent](https://open.spotify.com/album/4v1R6oYeyeIDjDNBiQGo9Q) | 2:55 |
 | 75 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
 
-Snapshot ID: `AAAAAEd3JPZw13Dsr9VuNQtpVkC/iBiZ`
+Snapshot ID: `AAAAADU3P7DqcL+KM5WNnFAG0/9+FxVY`

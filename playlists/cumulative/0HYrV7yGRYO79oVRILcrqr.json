@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/2uAIgvSpuJ7GLiGYGO4rVO"
+      },
+      "artists": [
+        {
+          "name": "Shadowcast",
+          "url": "https://open.spotify.com/artist/5FxRl4JNEu1Xa7BQ5b1Lza"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273528,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/4B5EPbvObQFIfFlww8RYFF"
+    },
+    {
+      "album": {
         "name": "Bad Omens",
         "url": "https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD"
       },
@@ -5529,6 +5547,28 @@
     },
     {
       "album": {
+        "name": "He's My Best Friend",
+        "url": "https://open.spotify.com/album/3uKnZLigSGqoGYtoVBsSiz"
+      },
+      "artists": [
+        {
+          "name": "Benj Clarke",
+          "url": "https://open.spotify.com/artist/1dQvzl3MgJ9iok8Erpg5dn"
+        },
+        {
+          "name": "Bill Brandenburgh",
+          "url": "https://open.spotify.com/artist/32skbbFJEqpuO0Fe6x2H2x"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255407,
+      "name": "He's My Best Friend",
+      "url": "https://open.spotify.com/track/5b3aXT4oMVQqwmR4x9bmuS"
+    },
+    {
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/4JWS6dUdADr2OTwQucLVh6"
       },
@@ -9436,6 +9476,24 @@
       "duration_ms": 171388,
       "name": "N\u00e3o Venha Sem Avisar",
       "url": "https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/0RW5aKam3r8yxlj8s5w8zr"
+      },
+      "artists": [
+        {
+          "name": "Leela Misel",
+          "url": "https://open.spotify.com/artist/1zQTvWsb6vuMGVoAlhXvJ1"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222717,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/5wj9CKSCA03adRI9tM2j1x"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Perreando toda la noche con Ryan Castro.",
-  "num_followers": 752062,
+  "num_followers": 752051,
   "original_name": "Perreo City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMjVlZF1A87/eWke+2E5pUzrn9Ha",
+  "snapshot_id": "AAAAAO3s5bZi1DYcfyOC5+hBn4r/sE2M",
   "tracks": [
     {
       "added_at": "2026-10-30 04:59:34",
@@ -43,6 +43,66 @@
       "duration_ms": 218372,
       "name": "PaToLasGyales",
       "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
+    },
+    {
+      "added_at": "2026-11-03 18:30:36",
+      "album": {
+        "name": "ESO NO ES DE ROCKSTAR",
+        "url": "https://open.spotify.com/album/2vGayndoqRxeKfOyzL4obx"
+      },
+      "artists": [
+        {
+          "name": "Dani Barranco",
+          "url": "https://open.spotify.com/artist/39iUw6py1oGdVZ8TMWepc6"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 209791,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/6KIUvMGrTFGL00ijV7QkZ6"
+    },
+    {
+      "added_at": "2026-10-30 04:59:34",
+      "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SE VA",
+      "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
+    },
+    {
+      "added_at": "2026-07-10 06:00:53",
+      "album": {
+        "name": "Loco X Volver",
+        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        }
+      ],
+      "duration_ms": 180050,
+      "name": "De buena que s\u00ed (feat. Luny Tunes)",
+      "url": "https://open.spotify.com/track/7lhXlBVugxlamnCmWR8uW1"
     },
     {
       "added_at": "2026-07-10 06:00:53",
@@ -89,44 +149,36 @@
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
     },
     {
-      "added_at": "2026-10-30 04:59:34",
+      "added_at": "2026-11-03 18:30:36",
       "album": {
-        "name": "LA POSTAL",
-        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+        "name": "PARADIXE (REMIX)",
+        "url": "https://open.spotify.com/album/7bDd1p7E9lfMcU6RR1ZsPR"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
         },
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 160000,
-      "name": "SE VA",
-      "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
-    },
-    {
-      "added_at": "2026-07-10 06:00:53",
-      "album": {
-        "name": "Loco X Volver",
-        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
-        }
-      ],
-      "duration_ms": 180050,
-      "name": "De buena que s\u00ed (feat. Luny Tunes)",
-      "url": "https://open.spotify.com/track/7lhXlBVugxlamnCmWR8uW1"
+      "duration_ms": 260268,
+      "name": "PARADIXE - REMIX",
+      "url": "https://open.spotify.com/track/7yttWsYHTlqBKNNLbaH9rA"
     },
     {
       "added_at": "2026-07-10 06:00:53",
@@ -247,7 +299,7 @@
     {
       "added_at": "2026-07-10 06:00:53",
       "album": {
-        "name": "LA OBSESION, VOL. 1",
+        "name": "LA OBSESI\u00d3N",
         "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
       },
       "artists": [
@@ -631,30 +683,6 @@
       "duration_ms": 139200,
       "name": "BYONCE",
       "url": "https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ"
-    },
-    {
-      "added_at": "2026-07-10 06:00:53",
-      "album": {
-        "name": "Flashbacks | CROSSOVER #9",
-        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 182871,
-      "name": "Flashbacks | CROSSOVER #9",
-      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
     },
     {
       "added_at": "2026-07-10 06:00:53",
@@ -1735,30 +1763,6 @@
       "duration_ms": 143571,
       "name": "Favorita del Ghetto | CROSSOVER #12",
       "url": "https://open.spotify.com/track/3y3ylOBgmuM19xR177J0eb"
-    },
-    {
-      "added_at": "2026-07-10 06:00:53",
-      "album": {
-        "name": "ula u",
-        "url": "https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV"
-      },
-      "artists": [
-        {
-          "name": "RIVVAA",
-          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
-        },
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        },
-        {
-          "name": "QueHicisteBella",
-          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "ula u",
-      "url": "https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI"
     },
     {
       "added_at": "2026-07-10 06:00:53",

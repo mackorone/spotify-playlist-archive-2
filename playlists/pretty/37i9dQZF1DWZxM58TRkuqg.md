@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: GANGGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,565 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,558 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 99 | [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 |
 | 100 | [Dunia Imajiner](https://open.spotify.com/track/3UV9yO6XiZTOvc7uie3iAv) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Dunia dan Seisinya](https://open.spotify.com/album/6trwcUAKmtcddQWTxCBA1D) | 2:52 |
 
-Snapshot ID: `AAAAAGvXZXzGf7Xh42pgKYMqaAA9POhM`
+Snapshot ID: `AAAAACXkwpuwf9L4xyrulBH9VQ2XedEd`

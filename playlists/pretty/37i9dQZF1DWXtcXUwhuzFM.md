@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Sara Bee, louna0nline, Blind Channel..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,048 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,039 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 99 | [Gimme Dat](https://open.spotify.com/track/3xX7ay4XLGuJ5DNB67qpU1) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Gimme Dat](https://open.spotify.com/album/11lrFLFcMimfwJJoaAaNpg) | 3:15 |
 | 100 | [Voodoo](https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Voodoo](https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i) | 3:42 |
 
-Snapshot ID: `AAAAAMSoNHGBD6fBuOSd3XAf/eOucAxC`
+Snapshot ID: `AAAAAOjoWLKz0WZvzlKhCVORP7k9a7jv`

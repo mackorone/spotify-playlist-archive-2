@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Like Roses
 
-658 songs - 1 day 9 hr 13 min
+659 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 | 2024-05-10 | 2025-05-14 |
 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 | 2024-02-05 | 2024-02-24 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-14 | 2024-11-19 |
+| [And Still the Mick Foley of Pop Punk](https://open.spotify.com/track/2CcYws7objfy7y0Q8zJyTY) | [Forever Came Calling](https://open.spotify.com/artist/3LqgxOMfONGBf034jekl9H) | [And Still the Mick Foley of Pop Punk](https://open.spotify.com/album/4YSmANLNasWsKY1S50fBfS) | 3:00 | 2026-10-23 |  |
 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 | 2023-08-10 | 2024-02-06 |
 | [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/track/7hz9VTMSxCCEOhC9b28vf9) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Another Round of Radical 'Ritas, Please \(feat\. Tades Sanville // Hot Mulligan\)](https://open.spotify.com/album/41iiQ1tyESP2mxyNrtdjK2) | 3:42 | 2026-06-05 |  |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-19 | 2026-07-18 |
@@ -240,7 +241,7 @@
 | [Go For Broke](https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Go For Broke](https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7) | 2:50 | 2026-02-20 |  |
 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 | 2023-05-18 | 2026-06-06 |
 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 | 2024-07-18 | 2024-08-06 |
-| [Gone](https://open.spotify.com/track/23HKdRHL7scRmncCyzrUSw) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Gone](https://open.spotify.com/album/7m2IJzqPeQui16xleWRW0R) | 2:18 | 2026-10-23 |  |
+| [Gone](https://open.spotify.com/track/23HKdRHL7scRmncCyzrUSw) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Gone](https://open.spotify.com/album/7m2IJzqPeQui16xleWRW0R) | 2:18 | 2026-10-23 | 2026-11-04 |
 | [Gonna Get Better](https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Gonna Get Better](https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN) | 3:15 | 2023-10-19 | 2024-06-17 |
 | [gonna make sure](https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [gonna make sure](https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9) | 3:17 | 2023-06-20 | 2024-06-30 |
 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-07-06 | 2023-09-15 |

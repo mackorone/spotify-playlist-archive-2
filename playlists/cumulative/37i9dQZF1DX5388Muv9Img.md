@@ -2,7 +2,7 @@
 
 ### [Deepavali Dhamaka](https://open.spotify.com/playlist/37i9dQZF1DX5388Muv9Img)
 
-> Let the celebrations begin!!
+> Ika party modaledadama!
 
 93 songs - 5 hr 50 min
 

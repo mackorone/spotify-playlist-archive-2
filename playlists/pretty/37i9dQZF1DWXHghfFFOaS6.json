@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 394869,
+  "num_followers": 394921,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKN15WrkH/f46ugSrx2de5zZR02+",
+  "snapshot_id": "AAAAACi5uMio2JYrqB7k+Z2BWLOOcev+",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
-      },
-      "artists": [
-        {
-          "name": "The Blackbyrds",
-          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
-        }
-      ],
-      "duration_ms": 352400,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Blowout Comb",
         "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Love Approach (Bonus Track)",
-        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
       },
       "artists": [
         {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
         }
       ],
-      "duration_ms": 282080,
-      "name": "Funkin' for Jamaica",
-      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+      "duration_ms": 352400,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -299,6 +283,22 @@
       "duration_ms": 208866,
       "name": "I Juswanna Chill",
       "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Love Approach (Bonus Track)",
+        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 282080,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
       "added_at": "2024-03-26 13:55:21",
       "album": {
         "name": "Sleazeball",
@@ -587,18 +603,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+        "name": "Cookie Dough",
+        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
       },
       "artists": [
         {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+          "name": "Wildcookie",
+          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+      "duration_ms": 175586,
+      "name": "Serious Drug",
+      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -615,22 +631,6 @@
       "duration_ms": 247893,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Cookie Dough",
-        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
-      },
-      "artists": [
-        {
-          "name": "Wildcookie",
-          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Serious Drug",
-      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -769,26 +769,6 @@
       "url": "https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG"
     },
     {
-      "added_at": "2026-10-02 04:00:35",
-      "album": {
-        "name": "Snap, Crackle & Bop!",
-        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
-      },
-      "artists": [
-        {
-          "name": "Us3",
-          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
-        },
-        {
-          "name": "Akil Dasan",
-          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
-        }
-      ],
-      "duration_ms": 278752,
-      "name": "We Like That",
-      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Best by Far",
@@ -811,6 +791,26 @@
       "duration_ms": 252933,
       "name": "Be Thankful",
       "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
+    },
+    {
+      "added_at": "2026-10-02 04:00:35",
+      "album": {
+        "name": "Snap, Crackle & Bop!",
+        "url": "https://open.spotify.com/album/2gXL9kq6ifBTe28DoSM5f4"
+      },
+      "artists": [
+        {
+          "name": "Us3",
+          "url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+        },
+        {
+          "name": "Akil Dasan",
+          "url": "https://open.spotify.com/artist/7gLvXbtTIJRXCpDQcmCRmf"
+        }
+      ],
+      "duration_ms": 278752,
+      "name": "We Like That",
+      "url": "https://open.spotify.com/track/1KxgcgvqnNoiSynkbPmJwS"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
-    },
-    {
       "added_at": "2026-07-03 04:00:31",
       "album": {
         "name": "Acid Jazz Revenge",
@@ -1023,6 +1007,22 @@
       "duration_ms": 271810,
       "name": "Let the Music Find You",
       "url": "https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Whole Thing",
-        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
-      },
-      "artists": [
-        {
-          "name": "The Whole Thing",
-          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Peer Pressure",
-      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The Acid Jazz Collection: Jazz",
         "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 244080,
       "name": "Mr. Jeckle",
       "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Whole Thing",
+        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
+      },
+      "artists": [
+        {
+          "name": "The Whole Thing",
+          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Peer Pressure",
+      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
     },
     {
       "added_at": "2024-03-26 13:55:21",

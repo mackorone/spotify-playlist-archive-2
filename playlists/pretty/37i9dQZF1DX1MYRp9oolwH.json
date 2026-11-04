@@ -1,37 +1,13 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
-  "num_followers": 172438,
+  "description": "Bringing out the best of latest love tracks\nCover : Alias Rukmini",
+  "num_followers": 172446,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGr2bKC65EW3UlRphBH8XMWz2Kx4",
+  "snapshot_id": "AAAAAKLqW8dAyXMZljgPLimh8OMvTGAG",
   "tracks": [
-    {
-      "added_at": "2026-10-08 12:34:35",
-      "album": {
-        "name": "Yellow Chunni (From \"Itllu Arjuna\")",
-        "url": "https://open.spotify.com/album/2SBZSmQ39wh6T6F2WleSzR"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Sreejo",
-          "url": "https://open.spotify.com/artist/0h6zdOSfThWV5s4fx44Hoc"
-        }
-      ],
-      "duration_ms": 211016,
-      "name": "Yellow Chunni (From \"Itllu Arjuna\")",
-      "url": "https://open.spotify.com/track/4DTpJMZmQwdMx3ujuUKjgK"
-    },
     {
       "added_at": "2026-11-02 03:30:36",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 227569,
       "name": "Ruku Ruku Rukmini (From \"Alias Rukmini\")",
       "url": "https://open.spotify.com/track/1I1MMjsWoJG82rwvy9RbZr"
+    },
+    {
+      "added_at": "2026-10-08 12:34:35",
+      "album": {
+        "name": "Yellow Chunni (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/2SBZSmQ39wh6T6F2WleSzR"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Sreejo",
+          "url": "https://open.spotify.com/artist/0h6zdOSfThWV5s4fx44Hoc"
+        }
+      ],
+      "duration_ms": 211016,
+      "name": "Yellow Chunni (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/4DTpJMZmQwdMx3ujuUKjgK"
     },
     {
       "added_at": "2026-11-02 03:30:36",

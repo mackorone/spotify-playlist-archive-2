@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: IVE\)
+> The new & hottest K\-Pop is here! \(Cover: RESCENE\)
 
-954 songs - 2 day 1 hr 4 min
+955 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,7 +713,7 @@
 | [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-08 | 2025-03-20 |
 | [seesaw \(Feat\. IU\)](https://open.spotify.com/track/3lTdjfpGVeYLeHfrczXw1a) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [seesaw \(Feat\. IU\)](https://open.spotify.com/album/6KbCtAZeKS65sKR6ElxnRs) | 3:01 | 2026-10-22 |  |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-02 | 2023-04-22 |
-| [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 | 2026-08-13 |  |
+| [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 | 2026-08-13 | 2026-11-04 |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 | 2023-07-08 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-14 | 2023-10-21 |
 | [Sexy In The Air](https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [ETERNAL](https://open.spotify.com/album/13M8K1l146FLdFoObJIVj9) | 3:14 | 2024-08-19 | 2024-09-21 |
@@ -926,6 +926,7 @@
 | [Winter Sleep](https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Pieces](https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ) | 4:22 | 2021-12-29 | 2022-01-27 |
 | [Wish You Hell](https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 2:50 | 2024-04-18 | 2024-05-25 |
 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 | 2024-03-12 | 2024-04-19 |
+| [With](https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [PULSE](https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI) | 3:11 | 2026-11-03 |  |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-11 | 2022-08-25 |
 | [WooAh HIP](https://open.spotify.com/track/4DKDfm5OLW1dIOEAH76Zmg) | [MAMADOL](https://open.spotify.com/artist/4RYQvLQe6W9FuaLp3x8hob) | [MAMA THE IDOL](https://open.spotify.com/album/5vcF3WhSZFnDO6oL1A4VNR) | 3:10 | 2022-01-31 | 2022-03-22 |
 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 | 2024-05-31 | 2024-12-07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 210293,
+  "num_followers": 210314,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAAAp5lLOXSo3EeDToRRRqDDk",
+  "snapshot_id": "auaBAAAAAADyJ8tMxCcONX6tRs8+USJ6",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Eric Nally",
-          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
-      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Belong In This Club",
         "url": "https://open.spotify.com/album/3pEIf94XjPRgUDyIKOmIBE"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 222620,
       "name": "I Don't Belong In This Club",
       "url": "https://open.spotify.com/track/4Yo1ZTT9D7gUqyzgpVKkhQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Eric Nally",
+          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
+      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
     },
     {
       "added_at": null,

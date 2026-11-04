@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1479902,
+  "num_followers": 1479884,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF3PCy4K/XM3G+gINV100oBUM67I",
+  "snapshot_id": "AAAAAIHPQOQC3YsevPMbdoPkPbeE5Gui",
   "tracks": [
     {
       "added_at": "2026-09-08 16:34:10",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Going Shopping",
-        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 261747,
-      "name": "Going Shopping",
-      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Vampire Bat",
         "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 206652,
       "name": "Vampire Bat",
       "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -847,26 +847,18 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Backseat Drivin'",
-        "url": "https://open.spotify.com/album/4lVPQp1OOjw0OxYKHZC2eO"
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 227456,
-      "name": "Backseat Drivin'",
-      "url": "https://open.spotify.com/track/6v65wlluPMQEiWXFeRf06r"
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -883,22 +875,6 @@
       "duration_ms": 189099,
       "name": "See You In The Afterlife",
       "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -931,6 +907,30 @@
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Backseat Drivin'",
+        "url": "https://open.spotify.com/album/4lVPQp1OOjw0OxYKHZC2eO"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 227456,
+      "name": "Backseat Drivin'",
+      "url": "https://open.spotify.com/track/6v65wlluPMQEiWXFeRf06r"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/3QIcezZQJD2Vkb0SkhnQyp"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
         "name": "Fauxllennium",
         "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 246613,
       "name": "Yesterday's World",
       "url": "https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
-        "name": "Written into Changes",
-        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/3QIcezZQJD2Vkb0SkhnQyp"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 157027,
       "name": "Another World",
       "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
+        "name": "Singin\u2019 to an Empty Chair",
+        "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
-        "name": "Singin\u2019 to an Empty Chair",
-        "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
     },
     {
       "added_at": "2026-09-08 16:34:10",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2026-09-08 16:34:10",
       "album": {
+        "name": "Terrestrials",
+        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Terrestrials",
+      "url": "https://open.spotify.com/track/2zNYy4o5FNpOw8inCLlE3s"
+    },
+    {
+      "added_at": "2026-09-08 16:34:10",
+      "album": {
         "name": "junebug!",
         "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
       },
@@ -2075,26 +2091,6 @@
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2026-09-08 16:34:10",
-      "album": {
-        "name": "TANGK",
-        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        },
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/4DFNObEEasMJXtgC36kA15"
     }
   ],
   "unique_name": "it's alt good",

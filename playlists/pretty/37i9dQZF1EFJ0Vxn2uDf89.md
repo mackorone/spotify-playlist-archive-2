@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 190 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 190 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 45 | [Hurts Like You](https://open.spotify.com/track/4IyUVGOKNmraQIymwHzm8m) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:15 |
 | 46 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 2:43 |
 | 47 | [bon iver](https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:16 |
-| 48 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
-| 49 | [Time Goes On](https://open.spotify.com/track/6tZ6fU4h937KsFoKWe7KJh) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 2:55 |
+| 48 | [Time Goes On](https://open.spotify.com/track/6tZ6fU4h937KsFoKWe7KJh) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 2:55 |
+| 49 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
 | 50 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
 | 51 | [I Need You Most Of All](https://open.spotify.com/track/7HdJcAmhgUSqCb6W2UQaZE) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:10 |
 | 52 | [Cold Blood \(feat\. Jeffrey James\)](https://open.spotify.com/track/5xpScO7frkFncHij08H2C8) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Cold Blood \(feat\. Jeffrey James\)](https://open.spotify.com/album/6ylm8nCNFiat67jTtsXIoe) | 3:14 |
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 108 | [I Did This To Me](https://open.spotify.com/track/0IM9Wi3nP3iHOXko69vnKg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 3:32 |
 | 109 | [Split Personality Blues](https://open.spotify.com/track/4nI1De11kRgTRO0GGsnrVe) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [A Quiet and Harmless Living](https://open.spotify.com/album/5egJ5566L6RrYEsz1JOYvd) | 3:55 |
 | 110 | [Me Around You](https://open.spotify.com/track/1wWPKL5IyhsjaCQ2KMjD4z) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 1\)](https://open.spotify.com/album/2wVrxbonp8UA9ebuMREm4q) | 3:53 |
-| 111 | [Head To Head](https://open.spotify.com/track/6RVYfaLq4SmoNONX5irBw1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Ivory](https://open.spotify.com/album/0hdZJH49Zo6sQzdhN0Y5dQ) | 2:58 |
-| 112 | [Meet You There](https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:31 |
-| 113 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 |
-| 114 | [I'll Lock Up](https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:11 |
+| 111 | [Meet You There](https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:31 |
+| 112 | [Head To Head](https://open.spotify.com/track/6RVYfaLq4SmoNONX5irBw1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Ivory](https://open.spotify.com/album/0hdZJH49Zo6sQzdhN0Y5dQ) | 2:58 |
+| 113 | [I'll Lock Up](https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:11 |
+| 114 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 |
 | 115 | [222](https://open.spotify.com/track/2n8sQRvylAvSM4bjE6yyw0) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:05 |
 | 116 | [When I Was](https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:55 |
 | 117 | [Be My Yoko](https://open.spotify.com/track/2VxJ6xBdt83j9vSbMaZiKl) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Grizfolk](https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R) | 3:10 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 140 | [Stick Around](https://open.spotify.com/track/7yG3zseFtpi7N8Y4rvgmzN) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:23 |
 | 141 | [MY MIRROR](https://open.spotify.com/track/3kwPnf0durIUtZ6Eks61SX) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [TZIA](https://open.spotify.com/album/7pEGbqxLbAXuDZRxIro0td) | 4:24 |
 | 142 | [Rainbow](https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [four](https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP) | 3:44 |
-| 143 | [Stronger](https://open.spotify.com/track/6VBQlVhU5F5vGNRq5HWmzB) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Stronger](https://open.spotify.com/album/6eOQFV5Ahht3zbFARQbXA9) | 4:06 |
-| 144 | [Ronnie Ray](https://open.spotify.com/track/4tpHsSfDNbNnIjpCM0rwQd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:44 |
+| 143 | [Ronnie Ray](https://open.spotify.com/track/4tpHsSfDNbNnIjpCM0rwQd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:44 |
+| 144 | [Stronger](https://open.spotify.com/track/6VBQlVhU5F5vGNRq5HWmzB) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Stronger](https://open.spotify.com/album/6eOQFV5Ahht3zbFARQbXA9) | 4:06 |
 | 145 | [Growing Song](https://open.spotify.com/track/1b3qzPiOsoGOJvNRSLWJ6u) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:27 |
 | 146 | [The Middle of Nowhere](https://open.spotify.com/track/6j9cbCHQgQeQMlSngzaggO) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [The Middle of Nowhere](https://open.spotify.com/album/0C1xbHunjBjfnBZIo9N54b) | 2:48 |
 | 147 | [Sensation](https://open.spotify.com/track/4tTPpyrQ0YZBOHrqPF0Vf2) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Bleed Gold, Piss Excellence](https://open.spotify.com/album/6Ax5fLV2mChF9oskFtg8Y2) | 3:23 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 190 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `AcgoVAAAAACxGUR88vqO+nRBWErca4Tv`
+Snapshot ID: `AcgtuAAAAAAcF9Hxp9sPZ6NM4HE7lWwh`

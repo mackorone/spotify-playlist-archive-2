@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: YungKapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,725 likes - 63 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,720 likes - 63 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 62 | [APROVEITAR](https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [APROVEITAR](https://open.spotify.com/album/0tyHixYvJo5yJehmmrXLRn) | 2:36 |
 | 63 | [OSAMA](https://open.spotify.com/track/639SRnDIZghe7ayN40SFt3) | [DON LEON](https://open.spotify.com/artist/2LQRI30FJnLa5j9wApZ4JY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [OSAMA](https://open.spotify.com/album/7Cd5zTN0Lgw6KoMd2BV13U) | 2:28 |
 
-Snapshot ID: `AAAAAHNdWruoWMqMiLDNanqYGv/FozDx`
+Snapshot ID: `AAAAAI0SaWj/BhzadjW+ps0mi3tS8uUJ`

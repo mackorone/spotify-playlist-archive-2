@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-9,841 songs - 22 day 18 hr 7 min
+9,842 songs - 22 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7579,6 +7579,7 @@
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-11 | 2024-10-19 |
 | [Sexy Ladies \(feat\. UCB\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB](https://open.spotify.com/artist/65mylvvz3Onn8ZsFQoitfv) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 | 2026-06-04 | 2026-06-12 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-23 | 2024-06-12 |
+| [SexyHOT](https://open.spotify.com/track/28I9DF0YnYCiVdyxIEQbFF) | [FUTURACHICAPOP](https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ), [Juan Anselmo](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W) | [SexyHOT](https://open.spotify.com/album/1Rbu1T8TTJJnyZ75RNzzkd) | 4:18 | 2026-11-03 |  |
 | [SEÑAL](https://open.spotify.com/track/1DE1jMSSQcIzDQgFcJnKAI) | [CRISTALINO](https://open.spotify.com/artist/3MNLGEDFGdv7WYDy2YbCtZ), [Jaime Beltrán](https://open.spotify.com/artist/65N5bB3AeOdqACl8wHepaA) | [Destello, señal, hilo y alba](https://open.spotify.com/album/5TvLGH3WC2txxLpx4UqsZm) | 4:07 | 2026-05-29 | 2026-06-06 |
 | [Señorita](https://open.spotify.com/track/07iT27MVMrGC1eK4U3zbrB) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Señorita](https://open.spotify.com/album/62NbBxeE0ZcrV6nvirXORf) | 2:38 | 2025-01-17 | 2025-01-25 |
 | [SF & GG](https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 1:40 | 2025-12-12 | 2025-12-20 |
@@ -9271,7 +9272,7 @@
 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-26 | 2026-07-04 |
 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 | 2024-11-22 | 2024-11-30 |
 | [viscus](https://open.spotify.com/track/6T3sDq6ZvxJFZy09GDJv3K) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus](https://open.spotify.com/album/4FdVScI1rbjtt8GDD5H59t) | 3:40 | 2025-10-09 | 2025-10-18 |
-| [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 | 2026-10-30 |  |
+| [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 | 2026-10-30 |  |
 | [VISIÓN](https://open.spotify.com/track/1fpSQBcvOVjcRuBfaE1ayI) | [Ali Abellán](https://open.spotify.com/artist/0a18ktjMgJiky88B6D4ToL), [La Blame](https://open.spotify.com/artist/5jN5UB01D70fpvUCss3vFA), [OZE](https://open.spotify.com/artist/12fwPYPGafhIK1S2S1fkeC) | [VISIÓN](https://open.spotify.com/album/3u9hfjCANYYex2SVXazjLY) | 2:04 | 2026-08-21 | 2026-08-28 |
 | [VISTO](https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [VISTO](https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR) | 2:43 | 2024-06-07 | 2024-06-15 |
 | [Vita da adulti](https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Vita da adulti](https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia) | 3:33 | 2026-10-16 | 2026-10-24 |

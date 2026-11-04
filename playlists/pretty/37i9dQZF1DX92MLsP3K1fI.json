@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! A.B Quintanilla III y Majo Aguilar en portada \u2728",
-  "num_followers": 96703,
+  "num_followers": 96717,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMjhyy4EgQ3d5afdxwplk1F+TZeu",
+  "snapshot_id": "AAAAANLG+FbuSXHIt6rQvgyncVd0gRbL",
   "tracks": [
     {
       "added_at": "2026-10-23 06:00:33",
@@ -71,18 +71,18 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
+        "name": "Bonito Bonito",
+        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
       },
       "artists": [
         {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 133746,
-      "name": "VELOCIDADE",
-      "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
+      "duration_ms": 206500,
+      "name": "Bonito Bonito",
+      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -103,18 +103,18 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "Bonito Bonito",
-        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Bonito Bonito",
-      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
+      "duration_ms": 133746,
+      "name": "VELOCIDADE",
+      "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 139400,
-      "name": "MHM",
-      "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
         "name": "Ooh Laka Laka La",
         "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 134797,
       "name": "Ooh Laka Laka La",
       "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "MHM",
+      "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "KAWASAKI",
-        "url": "https://open.spotify.com/album/5AsNKgoGpbkOGSJyLjY4mM"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "KAWASAKI",
-      "url": "https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
         "name": "Antes Que Te Cases",
         "url": "https://open.spotify.com/album/2mVRI81ml1lRbhXN6osYcD"
       },
@@ -295,6 +279,38 @@
       "duration_ms": 203486,
       "name": "Antes Que Te Cases",
       "url": "https://open.spotify.com/track/4m4YeA7v8mfK5EZbQBYJFj"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
+        "name": "KAWASAKI",
+        "url": "https://open.spotify.com/album/5AsNKgoGpbkOGSJyLjY4mM"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
+        "name": "pido X ti",
+        "url": "https://open.spotify.com/album/1l9j7o5Nw0SGLEXnOljOTO"
+      },
+      "artists": [
+        {
+          "name": "Zhamira ",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "pido X ti",
+      "url": "https://open.spotify.com/track/1FuxCZaIJJgkvrXpK6pLRC"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -327,22 +343,6 @@
       "duration_ms": 144000,
       "name": "S\u00e1lvame Otra Vez",
       "url": "https://open.spotify.com/track/6WUxiNHMldVSzFhbTZRruA"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
-        "name": "pido X ti",
-        "url": "https://open.spotify.com/album/1l9j7o5Nw0SGLEXnOljOTO"
-      },
-      "artists": [
-        {
-          "name": "Zhamira ",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "pido X ti",
-      "url": "https://open.spotify.com/track/1FuxCZaIJJgkvrXpK6pLRC"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
+        "name": "la del proceso",
+        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "la del proceso",
+      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 157979,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
-        "name": "la del proceso",
-        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "la del proceso",
-      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -1263,30 +1263,22 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "Motherflowers (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0"
+        "name": "Las Cosas Que Solo Se Hacen En La Noche",
+        "url": "https://open.spotify.com/album/0bThS1beZOzlV7HrfrmL4C"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 276150,
-      "name": "PA'LL\u00c1 YA YO VOY - Spotify Sessions",
-      "url": "https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe"
+      "duration_ms": 181036,
+      "name": "Tulum Sin Ti",
+      "url": "https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW"
     }
   ],
   "unique_name": "Oye Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Maciej Skiba
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,360 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,361 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Zapętlone](https://open.spotify.com/track/4eFwoge3WON61Vls56RKyL) | [Hania Kuzimowicz](https://open.spotify.com/artist/2z0LDef08JN0VpXdzrZIvJ) | [Zapętlone](https://open.spotify.com/album/5nxk61AoLtwhrBqspxGyqF) | 2:29 |
 | 60 | [Komary i motyle](https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Piosenki o miłości: nieopowiedziane historie](https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3) | 2:39 |
 
-Snapshot ID: `AAAAAF5eh+pVImM07QIFikuhg7gqh9B9`
+Snapshot ID: `AAAAAEG/J0wgEiwBR5U99G9ipryPu/zt`

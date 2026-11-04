@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,664 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,633 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [What If I Told You](https://open.spotify.com/track/1Prjbm3rLgAsp10cI0RVia) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [What If I Told You](https://open.spotify.com/album/0s5dJYJD3Ya9i2bhqvslOl) | 2:54 |
 | 40 | [Outlaw Song](https://open.spotify.com/track/5YGiv0xg1JqwTNjQbXA5RC) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Follow The Sound](https://open.spotify.com/album/5Ob9mHIKYP8qyZnMMtJvjQ) | 3:37 |
 
-Snapshot ID: `AAAAAN+a/NjxQ5fTQuydHLcZM6CENSI8`
+Snapshot ID: `AAAAAL4BADk6+z3qjefyOYgbWmQZ0u7/`

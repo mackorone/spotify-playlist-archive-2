@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-921 songs - 1 day 21 hr 48 min
+922 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Unbreakable](https://open.spotify.com/track/7ImmvnWXfjXGPecqo9eUVt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Unbreakable](https://open.spotify.com/album/50PnhUD4Z1qTrgDLOgfcXV) | 3:16 | 2024-01-12 | 2024-11-20 |
 | [Uncharted](https://open.spotify.com/track/13ykMF0rtvembnRG7bjtYN) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Uncharted](https://open.spotify.com/album/2sRxVVqFRtvKTvtYF2iD7Q) | 3:06 | 2025-09-11 |  |
 | [Underrated](https://open.spotify.com/track/0xABj8GJud97r7AXJSlpMg) | [Zushi&Vanko](https://open.spotify.com/artist/298Tr9fKPXEbDuEB4Bugmx), [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Underrated](https://open.spotify.com/album/3t5D4dnXjMZY8PZsbO8xz8) | 3:41 | 2024-09-03 |  |
+| [underskin](https://open.spotify.com/track/65kKPiP6XmjkvHTUm8jGB4) | [WHVTHEDUCK](https://open.spotify.com/artist/1NnAXToM4FW883eTFGbHqy) | [underskin](https://open.spotify.com/album/3eLaNz2IgwtjHcjjlaY8Me) | 3:25 | 2026-11-03 |  |
 | [Unforgivable](https://open.spotify.com/track/4zuZkPo9wVNTmuSWj5DaZk) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Unforgivable](https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs) | 3:00 | 2022-09-30 | 2023-04-28 |
 | [Unstoppable](https://open.spotify.com/track/6hzOIrpitaEFkPqlSHHpap) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Unstoppable](https://open.spotify.com/album/1HjcUXi7TgTqJw6fHtGwMm) | 2:50 | 2023-01-06 | 2023-04-28 |
 | [used2be](https://open.spotify.com/track/2kc3SH7Bys3KbGXzuq11xf) | [noaa!](https://open.spotify.com/artist/2wsxJN6r2WeTwSpDqeH4ag), [fyl](https://open.spotify.com/artist/40VJ0ejUdeu8sKeW6cR38T) | [used2be](https://open.spotify.com/album/3WVH2DjJLcAZByviiG6KMX) | 2:22 | 2026-02-24 |  |

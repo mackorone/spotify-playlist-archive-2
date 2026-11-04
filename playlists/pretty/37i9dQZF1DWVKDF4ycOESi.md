@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Kid Yugi, Lucio Corsi, Alfa, Gracie Abrams, Francesca Michielin e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,364 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,355 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 84 | [SOLO \(con i mostri\)](https://open.spotify.com/track/7EZHWTB0SzNqVPMdwW1WxA) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm) | [HORROR VITA](https://open.spotify.com/album/0sGUpEqcChROXrEvWXE9hV) | 3:04 |
 | 85 | [CADERE in 2 è MEGLIO](https://open.spotify.com/track/2ZqRqfyRT6KUuHcfTVTIQ3) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k) | [VEMOD2021](https://open.spotify.com/album/4Cr6qTjiNHfbKWMVDharzy) | 2:46 |
 
-Snapshot ID: `AAAAAPLli15A/6gvKZFrm97K0DNf+iZF`
+Snapshot ID: `AAAAADDpZ5fIgqZlRsTJZ9B+S0SUKktg`

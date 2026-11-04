@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > All hail Halloween’s newly anointed queen: the Obsession star’s surprising, spot\-on soundtrack for your spookiest night yet\. By Inde Navarrette\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,564 likes - 37 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,930 likes - 37 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 36 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 |
 | 37 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 |
 
-Snapshot ID: `AAAAACJ6WkPQve8AvM5O/wQkO1ZPqaYF`
+Snapshot ID: `AAAAAEaH+sdWTdSL1hPuvOHQFLtau10q`

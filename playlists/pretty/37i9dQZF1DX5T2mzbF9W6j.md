@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,047 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,046 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 30 | [Naturalny high](https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:31 |
 | 31 | [Będzie Było](https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK) | [Michał Wiśniewski](https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg), [Mandaryna](https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh) | [Będzie Było](https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782) | 2:28 |
 | 32 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
-| 33 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
-| 34 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
+| 33 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
+| 34 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
 | 35 | [aż nie chce się wracać](https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [aż nie chce się wracać](https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW) | 2:14 |
 | 36 | [27 \(Do gwiazd!\)](https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [27 \(Do gwiazd!\)](https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP) | 3:12 |
 | 37 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 59 | [Terapia dla par](https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Terapia dla par](https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De) | 4:01 |
 | 60 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
 
-Snapshot ID: `AAAAALFJgo6RulX7mmFqlqIhKYV5o8N4`
+Snapshot ID: `AAAAAFpRuT7ulCA3XBzHk/ClL/becyeN`

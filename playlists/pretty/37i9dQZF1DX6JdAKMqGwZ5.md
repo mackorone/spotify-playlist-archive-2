@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Korashe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,106 likes - 119 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,090 likes - 119 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 118 | [flores](https://open.spotify.com/track/4iyFSLbG83uQk3R3VFjzrj) | [natxo](https://open.spotify.com/artist/6P7AHRoOhZJBgVjOuPL64R), [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [flores](https://open.spotify.com/album/6jEDnIHxmmMODa1pkXmlNd) | 2:57 |
 | 119 | [TIPOS DUROS](https://open.spotify.com/track/6O5EF55NTj7Pf8dkTvs9GL) | [RATA](https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR) | [TIPOS DUROS](https://open.spotify.com/album/5kUpKxg9udGOi8sliS9z4m) | 3:39 |
 
-Snapshot ID: `AAAAANQV9tJTAWiBsRiKXivg5fcHmWaT`
+Snapshot ID: `AAAAAIRSvRDo056wMFeCMQVe1xY9bh8z`

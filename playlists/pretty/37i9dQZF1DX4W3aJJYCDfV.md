@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Gracie Abrams, Dominic Fike, Skye Newman, MK and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,147 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,042 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Do You Know Me](https://open.spotify.com/track/5XspTgdG4XVtMQuhrcWs2P) | [NECKBREAKERS](https://open.spotify.com/artist/1kjfLF0nj4tofaBOpjoHO2) | [Good Grace In Carnage](https://open.spotify.com/album/5FspJY5Hv7Rp0jmdPIAnPs) | 4:12 |
 | 100 | [Gauzy](https://open.spotify.com/track/3MtUIbDLylrLtfWyAZJQ6t) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Gauzy](https://open.spotify.com/album/1TN0wwvO5zwNTgPrO2uFg4) | 3:14 |
 
-Snapshot ID: `AAAAAGCJ2YNmc+JZUo9WG5l7Jxbxy0PR`
+Snapshot ID: `AAAAAFxQbg3SOxTUWpRDcqhXbghVDYSR`

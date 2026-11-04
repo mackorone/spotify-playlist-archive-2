@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,701 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,755 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 13 | [Love In The Echoes](https://open.spotify.com/track/15tAukYSD2hJxY9Zb4nDly) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Compass](https://open.spotify.com/album/5gZznQMJ77Me2zQATkVOW4) | 3:10 |
 | 14 | [DONA](https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [NEWORLD II](https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK) | 2:49 |
 | 15 | [Further](https://open.spotify.com/track/0AeuRQtq6TtNNq7xxPJfEf) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreams At Dusk Part II](https://open.spotify.com/album/5dKEW9jX244nNWJ6T5vKTT) | 4:01 |
-| 16 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 |
+| 16 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 |
 | 17 | [Bindweed](https://open.spotify.com/track/2nBWNhMPq8yUXMePsq25Ki) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Bindweed](https://open.spotify.com/album/3dS6YTQ6MX7QvmMPRaHFxb) | 3:42 |
 | 18 | [Magnolia \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/2WIEmCXSwXBWDafftNt18S) | [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Magnolia \(Jody Wisternoff & James Grant Remix\)](https://open.spotify.com/album/41Vz5A8NWpDeXF3xiHirWt) | 3:52 |
-| 19 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 |
+| 19 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 |
 | 20 | [The One](https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The One](https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s) | 3:54 |
 | 21 | [Is It Over Now?](https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Is It Over Now?](https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv) | 3:39 |
 | 22 | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/track/6hksu9xYt7dZfaiXx7SCom) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Nina Arya](https://open.spotify.com/artist/0bK45cARlz6LOWWYFNrqE7) | [Falling \(feat\. Nina Arya\)](https://open.spotify.com/album/5K5Dwgjsl9mshpYbEUZJlc) | 3:26 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 38 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 |
 | 39 | [Major Drop](https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Major Drop](https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk) | 3:10 |
 | 40 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
-| 41 | [Spacer](https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Michael Anthony](https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2) | [Spacer](https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK) | 3:04 |
-| 42 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 41 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 42 | [Spacer](https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Michael Anthony](https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2) | [Spacer](https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK) | 3:04 |
 | 43 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 |
 | 44 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 45 | [Just Can't Stop](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB), [flyckt](https://open.spotify.com/artist/7gqK3L4rJ38jXJTuaymRs9) | [Just Can't Stop](https://open.spotify.com/album/4g6vXqmOf7qusOBDp5nWWJ) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [When I Look In Your Eyes](https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj) | [When I Look In Your Eyes](https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj) | 3:33 |
 | 60 | [Burn For You](https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Burn For You](https://open.spotify.com/album/48ydweaf3dibsmtvnscQFj) | 2:41 |
 
-Snapshot ID: `AAAAAB9oH6jdJsQbtqZ6QllFChgDoK0K`
+Snapshot ID: `AAAAAEttnk0F5qbuYXUuIXlp+4VOZZr/`

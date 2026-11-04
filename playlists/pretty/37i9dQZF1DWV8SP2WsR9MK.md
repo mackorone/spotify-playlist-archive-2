@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,414 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,454 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 42 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
 | 43 | [Idle Moments](https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [The Best Of Grant Green](https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7) | 14:57 |
 | 44 | [All Across The City](https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Intermodulation](https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS) | 4:50 |
-| 45 | [Nimbus](https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Solstice](https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0) | 6:25 |
-| 46 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
-| 47 | [Canto De Ossanha](https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy) | [One](https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD) | 5:11 |
+| 45 | [Canto De Ossanha](https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy) | [One](https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD) | 5:11 |
+| 46 | [Nimbus](https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Solstice](https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0) | 6:25 |
+| 47 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
 | 48 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 |
 | 49 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
-| 50 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 |
-| 51 | [Four On Six](https://open.spotify.com/track/2Mq2Fzc9HBgvsijVFdSXUl) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 6:14 |
+| 50 | [Four On Six](https://open.spotify.com/track/2Mq2Fzc9HBgvsijVFdSXUl) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 6:14 |
+| 51 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 |
 | 52 | [I Never Knew](https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 7:02 |
 | 53 | [The Nearness Of You \- Instrumental](https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr) | [George Van Eps](https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps), [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR) | [Hand\-Crafted Swing](https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ) | 6:10 |
 | 54 | [Giant Steps](https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 |
 | 100 | [Solar](https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Question and Answer](https://open.spotify.com/album/1kM7n3aiIKwS4FZqWLLdLv) | 8:25 |
 
-Snapshot ID: `AAAAADin2NTsMO6AjwBTF2Agdlp7P0OO`
+Snapshot ID: `AAAAAPmNjksi18YB8R0Z6BkblTaAPWgE`

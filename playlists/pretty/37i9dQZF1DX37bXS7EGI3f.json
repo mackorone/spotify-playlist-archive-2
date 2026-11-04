@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 825413,
+  "num_followers": 825433,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJieMLanKNeYK0q+Q6ehM+9Ki/lU",
+  "snapshot_id": "AAAAAFjG5FgA3FLDiPfc+9+4qLI5VF8p",
   "tracks": [
     {
       "added_at": "2026-09-22 01:57:25",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Liars Linger",
-        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 367063,
-      "name": "Liars Linger",
-      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/064UVjs0ry86dP8JLssD45"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 316306,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Liars Linger",
+        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 367063,
+      "name": "Liars Linger",
+      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Tower: Lean Into Fear",
-        "url": "https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v"
-      },
-      "artists": [
-        {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
-        }
-      ],
-      "duration_ms": 201608,
-      "name": "The Tower: Lean Into Fear",
-      "url": "https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Light And Shadow",
         "url": "https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 258146,
       "name": "Light And Shadow",
       "url": "https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "The Tower: Lean Into Fear",
+        "url": "https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v"
+      },
+      "artists": [
+        {
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+        }
+      ],
+      "duration_ms": 201608,
+      "name": "The Tower: Lean Into Fear",
+      "url": "https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
-      },
-      "artists": [
-        {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
+        "name": "The Legend Of Achilles",
+        "url": "https://open.spotify.com/album/7mKISLZO6I96vXlTSL2Mnw"
+      },
+      "artists": [
+        {
+          "name": "Firewind",
+          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "The Legend Of Achilles",
+      "url": "https://open.spotify.com/track/3EshPU6k9poWWUY38XKfEx"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
         "name": "East of the Sun",
         "url": "https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Legend Of Achilles",
-        "url": "https://open.spotify.com/album/7mKISLZO6I96vXlTSL2Mnw"
+        "name": "Hear My Voice",
+        "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
       },
       "artists": [
         {
-          "name": "Firewind",
-          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
+          "name": "Alterium",
+          "url": "https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV"
         }
       ],
-      "duration_ms": 267813,
-      "name": "The Legend Of Achilles",
-      "url": "https://open.spotify.com/track/3EshPU6k9poWWUY38XKfEx"
+      "duration_ms": 198997,
+      "name": "Hear My Voice",
+      "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1211,22 +1227,6 @@
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
-        "name": "Hear My Voice",
-        "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
-      },
-      "artists": [
-        {
-          "name": "Alterium",
-          "url": "https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV"
-        }
-      ],
-      "duration_ms": 198997,
-      "name": "Hear My Voice",
-      "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "The Metal Elite",
-        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "The Metal Elite",
-      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Kings of Ragnar\u00f6k",
         "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 234775,
       "name": "Dance with the Devil",
       "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "The Metal Elite",
+        "url": "https://open.spotify.com/album/6rpnp1mt0hWUhQqGA56ihS"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "The Metal Elite",
+      "url": "https://open.spotify.com/track/47MyaRcg8DtZJiE4EdBDHJ"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "In The Eyes Of The Enemy",
-        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
-      },
-      "artists": [
-        {
-          "name": "Grailknights",
-          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
-        },
-        {
-          "name": "Chiara Tricarico",
-          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "In The Eyes Of The Enemy",
-      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Take My Hand (Bonus Track)",
         "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "In The Eyes Of The Enemy",
+        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
+      },
+      "artists": [
+        {
+          "name": "Grailknights",
+          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
+        },
+        {
+          "name": "Chiara Tricarico",
+          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "In The Eyes Of The Enemy",
+      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Stories to Forget",
         "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 281187,
       "name": "A Lesser King",
       "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-09-22 01:57:25",

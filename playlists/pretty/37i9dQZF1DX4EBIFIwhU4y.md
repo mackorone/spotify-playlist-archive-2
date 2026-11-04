@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EBIFIwhU4y.md) - [plain]
 | 8 | [Autumn Leaves](https://open.spotify.com/track/158kubraiqKrcYpRsDHrBU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 4:27 |
 | 9 | [Hold Me Tight](https://open.spotify.com/track/2SKBwYW23iHoB7CrYSeyC9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.1](https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X) | 4:34 |
 | 10 | [Let Me Know](https://open.spotify.com/track/2uqzfXB7NlBnhQd04W7HaH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:14 |
-| 11 | [House of Cards \(Full Length Edition\)](https://open.spotify.com/track/6S2gYweMmT6xygVh5q3QLa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:46 |
+| 11 | [House of Cards \- Full Length Edition](https://open.spotify.com/track/6S2gYweMmT6xygVh5q3QLa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:46 |
 | 12 | [Black Swan](https://open.spotify.com/track/6wH3AP7b01vpzKYRJhreMy) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Black Swan](https://open.spotify.com/album/1HUAObi1fh9b214MZr5gFq) | 3:18 |
 | 13 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
 | 14 | [Dis\-ease](https://open.spotify.com/track/0hxeouHqP3qzpTHerA7ha2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:59 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EBIFIwhU4y.md) - [plain]
 | 19 | [Save Me](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:16 |
 | 20 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 |
 
-Snapshot ID: `AAAAAAh8IvuJEp4SG+UkvzAgILXGIrhL`
+Snapshot ID: `AAAAAJkviIfZ3bFHax2myaLlyQJduyLQ`

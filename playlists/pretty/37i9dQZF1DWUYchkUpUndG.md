@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Anendlessocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,030 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,043 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [GOD NO BE MAN](https://open.spotify.com/track/0LpqmOrHwquUYW2I3iE3EI) | [Chrisolo Edukeyz](https://open.spotify.com/artist/4OLHnwqc2PLCKz6KD0AHWA) | [GOD NO BE MAN](https://open.spotify.com/album/71o0dkc9IAFgKhZXTHsHE6) | 4:16 |
 | 100 | [You Are My Joy \- Live at Acorn Guest Farm / 2026](https://open.spotify.com/track/2IgYAnvVYbtXVtp49iTcqs) | [Worship Awake](https://open.spotify.com/artist/2fjv7TRV2V0gJjbdi5kRhV), [Marissa Verheij](https://open.spotify.com/artist/3z90wMw1VNG1zqJ77L8Z9S), [Manelisi Mdaka](https://open.spotify.com/artist/5TjnhDcm3XCZJRGPVo96gk) | [You Are My Joy \(Live At Acorn Guest Farm / 2026\)](https://open.spotify.com/album/6FNMqEWm0E7baJy7G3aMQ2) | 4:23 |
 
-Snapshot ID: `AAAAACzs8uQsTWWA0Ejufd74RPY3qqit`
+Snapshot ID: `AAAAAFx1cr6dSCZLMeu+z+jXXDUJnZUX`

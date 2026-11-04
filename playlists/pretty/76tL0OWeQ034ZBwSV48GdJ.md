@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 247 songs - 23 hr 2 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 249 songs - 23 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,5 +255,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 245 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 |
 | 246 | [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 |
 | 247 | [Love It](https://open.spotify.com/track/3zbkAAldw4iljC3ABcgRqu) | [Flour](https://open.spotify.com/artist/6QamwoCsmA2yAPC0x9w510) | [Love It](https://open.spotify.com/album/67tMzISHOOlSJOn9HWRLI0) | 5:28 |
+| 248 | [The Flow](https://open.spotify.com/track/5NLBOLqtHeOoCgtHNo8eN7) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [The Flow](https://open.spotify.com/album/2My75Iq0sI5UNJD2tVCAAi) | 3:40 |
+| 249 | [Lifetime](https://open.spotify.com/track/5GxetRorkvVDqah2jGNjwT) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ), [Mauro Somm](https://open.spotify.com/artist/3jGc6igIVzjC0ElXKbsfHd) | [Go Wild](https://open.spotify.com/album/0UYwmKC16Zl74hASov2dk6) | 3:50 |
 
-Snapshot ID: `AAABSqr6gxSFC+TzSlIdq461Q6n8uaJN`
+Snapshot ID: `AAABTIVjG2Irlsorx41I8FOWzialPFYv`

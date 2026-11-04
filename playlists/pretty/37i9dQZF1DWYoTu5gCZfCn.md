@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,599 likes - 118 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,644 likes - 118 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 | 78 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 |
 | 79 | [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 |
 | 80 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 |
-| 81 | [Sailing \- 2019 Remaster](https://open.spotify.com/track/6YIeSw2cTNQRWbuxWvRPsW) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/4unLP4n9N8NB71dvSuI5Mt) | 4:16 |
+| 81 | [Sailing \- 2019 Remaster](https://open.spotify.com/track/3TQxruUMwpvoqe3Q0T7LnT) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/1f0yjn99Hownkom1KQ6e6Y) | 4:16 |
 | 82 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
 | 83 | [Bailazo](https://open.spotify.com/track/5Ha0N3HPC6CcziS8wfRUnP) | [Bang Data](https://open.spotify.com/artist/1z0s3ikCPDZcV6ppW7ER6b) | [Mucho Poco](https://open.spotify.com/album/5pChmvhk2CTx3BmKfx7wkW) | 3:30 |
 | 84 | [Neon & Off](https://open.spotify.com/track/2btwLUidUoOusavbTdcs0s) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/0HVOnM5SIfxb4ph3Syagha) | 3:51 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 | 102 | [Wrecked](https://open.spotify.com/track/79QYGruWwuNp5EZ7ZCo7iJ) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 4:59 |
 | 103 | [Empty As A Drum](https://open.spotify.com/track/2KfEpp0z0v9lDs04ZfQlBA) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 3:29 |
 | 104 | [1,000 Miles](https://open.spotify.com/track/7M5nhzGuEj5qJN0rlTApYG) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [1,000 Miles](https://open.spotify.com/album/0YQwNHKzCenO4sMdRZ7Qgi) | 3:38 |
-| 105 | [Lord Bury Me in Texas](https://open.spotify.com/track/1bAErQu2zV3d9OnK3TvaPM) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Lord Bury Me in Texas](https://open.spotify.com/album/5LrkuN1fZs6YlSjpN6rsQL) | 3:49 |
-| 106 | [Turn Up the Bottle](https://open.spotify.com/track/7q04zcafpVX4HMJ5VMmito) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan and the 78's](https://open.spotify.com/album/6lDvd1tBy5bIYSYZCBJCeT) | 3:43 |
+| 105 | [Lord Bury Me In Texas](https://open.spotify.com/track/3CD7XIqytaQJgaLtt6xwOe) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Lord Bury Me In Texas](https://open.spotify.com/album/1XS1br0MnEWSPoufPujJkV) | 3:49 |
+| 106 | [Turn Up the Bottle](https://open.spotify.com/track/3N0vobsDLyG3QOyoFnOJ7L) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan and the 78's](https://open.spotify.com/album/39ZqxSOaYkHMlKaTW2iQxs) | 3:43 |
 | 107 | [Hunt You Down](https://open.spotify.com/track/6ks9ln2vMb5XIO3e4ncoRh) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N) | 3:24 |
 | 108 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
 | 109 | [The Rut](https://open.spotify.com/track/3qdbDVZ7xsdvq4ouPtoGr4) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 4:33 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 | 117 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 |
 | 118 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 |
 
-Snapshot ID: `AAAAAGMT8SVWNPaQ1Ru5XtKVZOTQkKuo`
+Snapshot ID: `AAAAAD0vhIHAlHt+AEHyruM/2x5D+ls1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,405 likes - 79 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,410 likes - 79 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 14 | [zanim spadnie deszcz](https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 3:08 |
 | 15 | [Dość](https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Dość](https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu) | 2:14 |
 | 16 | [Nie mówię tak, nie mówię nie](https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs), [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Tak jak tutaj stoję](https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y) | 2:39 |
-| 17 | [Sexy doll](https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Obywatelka K.L.](https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g) | 4:05 |
-| 18 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
+| 17 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
+| 18 | [Sexy doll](https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Obywatelka K.L.](https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g) | 4:05 |
 | 19 | [Niech żyje bal](https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Niech żyje bal](https://open.spotify.com/album/3dqGcvAwa84vGvmnersJxN) | 3:58 |
 | 20 | [sam na świecie](https://open.spotify.com/track/21ls6f3Hx3C60odiucKf5E) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 3:09 |
 | 21 | [Eviva l’arte! \(K\. Przerwa\-Tetmajer\)](https://open.spotify.com/track/6D3MtWx5wh0Wvfm155buXg) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Eviva l’arte! \(K\. Przerwa\-Tetmajer\)](https://open.spotify.com/album/4G4JZ2gXAuR5EpmFZtOVQT) | 3:34 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 25 | [Himalaje](https://open.spotify.com/track/3VVkjA4KTxFjCTr7PyaY5C) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Harmonia](https://open.spotify.com/album/42CNwNbrwex67xNAmR3yWV) | 3:27 |
 | 26 | [Motyle](https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [45](https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq) | 3:22 |
 | 27 | [MOJA WINA](https://open.spotify.com/track/117KifGYCTOCz3lFev5urW) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MOJA WINA](https://open.spotify.com/album/7sVLTQs9bdJEurrnUKYjvY) | 2:48 |
-| 28 | [Niemoc](https://open.spotify.com/track/1KMrGfMA3vxGaI2UUKjBbl) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [25](https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW) | 3:52 |
-| 29 | [Na drodze do wspomnień](https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:29 |
+| 28 | [Na drodze do wspomnień](https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:29 |
+| 29 | [Niemoc](https://open.spotify.com/track/1KMrGfMA3vxGaI2UUKjBbl) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [25](https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW) | 3:52 |
 | 30 | [Dni, które przed nami](https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M) | [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Tak młodo się nie spotkamy](https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm) | 6:17 |
 | 31 | [SAM](https://open.spotify.com/track/59QcLK3VRrBSUcEhpICVHQ) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [404](https://open.spotify.com/album/1QGA9rHIYcH3Da9bIsSxSc) | 3:17 |
 | 32 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [Dawno I Nieprawda](https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY) | [Karolina Błachnia](https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX) | [Wschód](https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92) | 7:50 |
 | 79 | [Etiuda f\-moll z Trois Nouvelles Études nr 1 Dbop\. 36A](https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK) | [LIS](https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Fryderyk LIS](https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71) | 4:11 |
 
-Snapshot ID: `AAAAAAzY2L6gPrIUQEGdRg64FdD+GxpO`
+Snapshot ID: `AAAAAPfr+zFGOTc6SWGdywlopkMx+W7f`

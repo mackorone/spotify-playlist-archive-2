@@ -4,7 +4,7 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-235 songs - 12 hr 30 min
+236 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 | 2023-07-07 | 2024-09-08 |
 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 | 2023-12-08 | 2024-10-16 |
 | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/track/0yWEVGMfGyRB5pMaX58mxA) | [Alejandro](https://open.spotify.com/artist/4VCCzXIV0wB8YFq0X71YW7) | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/album/1E60O2evMgJowlnL1Yvc0i) | 3:50 | 2025-02-16 | 2026-09-02 |
-| [B9it Tabe3 Galbi](https://open.spotify.com/track/4Rkt46PBhT2fRQ1KnY2tlH) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [B9it Tabe3 Galbi](https://open.spotify.com/album/57SfJVPDJsDvBBJKSe3EEK) | 3:29 | 2026-02-10 |  |
+| [B9it Tabe3 Galbi](https://open.spotify.com/track/4Rkt46PBhT2fRQ1KnY2tlH) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [B9it Tabe3 Galbi](https://open.spotify.com/album/57SfJVPDJsDvBBJKSe3EEK) | 3:29 | 2026-02-10 | 2026-11-04 |
 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 | 2023-11-17 | 2024-07-24 |
 | [BACHA](https://open.spotify.com/track/52S3EFw5e1CzZUc9nUpoSU) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BACHA](https://open.spotify.com/album/2kqUCO8m8rcRlfJBUi0Eqg) | 3:00 | 2024-04-12 | 2024-05-17 |
 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 | 2024-07-25 | 2026-08-07 |
@@ -55,6 +55,7 @@
 | [Bla Bla](https://open.spotify.com/track/0Akq9wCVJUY8RCtQyHeTnP) | [RAYS](https://open.spotify.com/artist/71S3b5lQHZQgtsQHGyoj52) | [Bla Bla](https://open.spotify.com/album/4sLhWrsPAoHfVDirPN5UMj) | 3:18 | 2024-01-03 | 2024-02-06 |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-07-09 | 2026-04-10 |
 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 | 2024-09-07 | 2026-09-02 |
+| [C'est Pas Facile](https://open.spotify.com/track/5UtkkA4Rw0CWHeyqFn0Bzq) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [C'est Pas Facile](https://open.spotify.com/album/1NOlrWyYjYNKK2H42R8DsW) | 3:27 | 2026-11-03 |  |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-17 | 2025-08-08 |
 | [CABARET](https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CABARET](https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P) | 3:16 | 2024-09-11 | 2026-06-12 |
 | [Calma](https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Calma](https://open.spotify.com/album/71QAMPU0A2r9fVPFIXBjbu) | 4:14 | 2023-07-07 | 2024-02-25 |

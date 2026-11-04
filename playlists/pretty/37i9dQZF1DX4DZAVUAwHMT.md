@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: PISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454,073 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,453,966 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Powerlines](https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:58 |
 | 80 | [Private Lives](https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Private Lives](https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq) | 3:05 |
 
-Snapshot ID: `AAAAAG4gQOBsvxZZkf8Z//ds2sornbAW`
+Snapshot ID: `AAAAAKQUQ2XKS1WuLHi4F3VC2mw7y3Oj`

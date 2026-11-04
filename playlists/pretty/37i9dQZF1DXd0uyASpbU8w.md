@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from TEEKS, Xduppy, Gracie Abrahams, Mr Thela and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,031 likes - 72 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,051 likes - 72 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 71 | [Ngizofika](https://open.spotify.com/track/2mjtffIDoAPYnKuF3cOQ9c) | [Slidoo Man](https://open.spotify.com/artist/432Q2ltFbOkFFBdAOxEdjD), [Lington](https://open.spotify.com/artist/1px0sAtPicYWJbMN3yoa94) | [Malume](https://open.spotify.com/album/5VvLUtQSCMPBnKsuDCP0ku) | 7:00 |
 | 72 | [Emakhaya](https://open.spotify.com/track/359WaWQMFMngRfqjh8KvI6) | [Mido Mi](https://open.spotify.com/artist/4bAnlnulS6qDUmY1NtGEbt), [Lungile Womhlaba](https://open.spotify.com/artist/5IF3BAbC92TVTT5UZN9qyY) | [Losing to Myself](https://open.spotify.com/album/4fhHBm01PMZZadYsSoIDEA) | 6:46 |
 
-Snapshot ID: `AAAAAAw5aXGKgM6FlNQBoPsc0pIIAoi4`
+Snapshot ID: `AAAAALD72ffwPcovadoomBxdEQXNW3PA`

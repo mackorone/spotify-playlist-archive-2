@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 773327,
+  "num_followers": 773332,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXInDL2NkuK7qdTtpQPCVISjPfA",
+  "snapshot_id": "AAAAAMpsEPcf213XIAskM2UdtK9mVe93",
   "tracks": [
     {
       "added_at": "2026-10-23 07:40:39",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
+        "name": "All of the Lights",
+        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "All of the Lights",
+      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
         "name": "tell you straight (Speed Garage)",
         "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 207223,
       "name": "A New Day (feat. Celine Dion)",
       "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
-        "name": "All of the Lights",
-        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
-      },
-      "artists": [
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "All of the Lights",
-      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
+        "name": "I Don't Even Like You",
+        "url": "https://open.spotify.com/album/3Id0Bgp0diil4h4ri2DtB1"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 126240,
+      "name": "I Don't Even Like You",
+      "url": "https://open.spotify.com/track/0nPRRrlZk8rZsnTb5AsMW9"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
-        "name": "call me back",
-        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
-      },
-      "artists": [
-        {
-          "name": "Ordinary Kid",
-          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
-        }
-      ],
-      "duration_ms": 114906,
-      "name": "call me back",
-      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -1023,30 +1023,18 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "2 Times",
-        "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
+        "name": "call me back",
+        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
-        },
-        {
-          "name": "Sound Of Legend",
-          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+          "name": "Ordinary Kid",
+          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
         }
       ],
-      "duration_ms": 131200,
-      "name": "2 Times",
-      "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+      "duration_ms": 114906,
+      "name": "call me back",
+      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
     }
   ],
   "unique_name": "Fit Beats ",

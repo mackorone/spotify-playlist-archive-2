@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: PinocchioP",
+  "description": "Explore the current wave of VOCALOID culture. Cover: Giga",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 246000,
       "name": "NORMAL END",
       "url": "https://open.spotify.com/track/4mpEYGgoYYGqu1ZD0H5LYg"
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
@@ -5650,6 +5650,24 @@
       "duration_ms": 177485,
       "name": "\u306e\u3060",
       "url": "https://open.spotify.com/track/20wDwTj4l9Uq5e7mz7lb7z"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3074\u3089\u304d\u3061\u3085\u30fc",
+        "url": "https://open.spotify.com/album/1hu49P4mQXjnvsRf3TroZK"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168509,
+      "name": "\u306f\u3074\u3089\u304d\u3061\u3085\u30fc",
+      "url": "https://open.spotify.com/track/3woV99ZZQ3nzDoAdNy8zDL"
     },
     {
       "album": {
@@ -10027,6 +10045,32 @@
     },
     {
       "album": {
+        "name": "\u30df\u30e9\u30fc\u30df\u30e9\u30fc (feat. Hatsune Miku, Kasane Teto)",
+        "url": "https://open.spotify.com/album/31GEFEG85M9RivTN2kHPYw"
+      },
+      "artists": [
+        {
+          "name": "TAK",
+          "url": "https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kasane Teto",
+          "url": "https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216857,
+      "name": "\u30df\u30e9\u30fc\u30df\u30e9\u30fc (feat. Hatsune Miku, Kasane Teto)",
+      "url": "https://open.spotify.com/track/2vvsCpBeRoVMNOzsKU0PDL"
+    },
+    {
+      "album": {
         "name": "\u30df\u30eb\u30af\u30af\u30e9\u30a6\u30f3\u30fb\u30aa\u30f3\u30fb\u30bd\u30fc\u30cd\u30c1\u30ab",
         "url": "https://open.spotify.com/album/2ZOYB7FlGmoxNeGAq41iaS"
       },
@@ -10364,6 +10408,24 @@
       "duration_ms": 188245,
       "name": "\u30e9\u30b9\u30c8\u30ea\u30be\u30fc\u30c8",
       "url": "https://open.spotify.com/track/5HcOVExZgUjPubONiRs7JB"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6UR8hGlcw0laWiOLjeEhIS"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30b5\u30b5\u30ae",
+          "url": "https://open.spotify.com/artist/0XvUGAbKiJJTsPqxS7MGEi"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/6T8dKZPszI80dGPTbDevkZ"
     },
     {
       "album": {
@@ -12490,7 +12552,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 206481,
       "name": "\u604b",
       "url": "https://open.spotify.com/track/72obTVs06gGRgUlAWt0fnd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > just trying our best 📸 Henry Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,518,465 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518,260 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 99 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 |
 | 100 | [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 |
 
-Snapshot ID: `AAAAADI7pOIdtn4oETR/Ekdg8i4EXpGN`
+Snapshot ID: `AAAAAOKWM2XV4B+Fr7ez9GRezcxZzJN2`

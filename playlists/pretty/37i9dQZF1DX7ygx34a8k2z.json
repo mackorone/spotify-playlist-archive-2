@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 324859,
+  "num_followers": 324910,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBv+eg2yRASmHGUalljmMkA9PtL",
+  "snapshot_id": "AAAAAB6rfnFnq+2W4RAC+Mj/EtXcRAQP",
   "tracks": [
     {
       "added_at": "2025-01-15 04:11:50",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "Jeremy",
-      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 292800,
       "name": "I Wanna Be Adored - Remastered 2009",
       "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "Jeremy",
+      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Son Of Sam",
+      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 245626,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Son Of Sam",
-      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Ferment",
-        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
-      },
-      "artists": [
-        {
-          "name": "Catherine Wheel",
-          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
-        }
-      ],
-      "duration_ms": 438906,
-      "name": "Black Metallic",
-      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Return Of The Rentals",
         "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 212266,
       "name": "Friends of P.",
       "url": "https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Ferment",
+        "url": "https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb"
+      },
+      "artists": [
+        {
+          "name": "Catherine Wheel",
+          "url": "https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov"
+        }
+      ],
+      "duration_ms": 438906,
+      "name": "Black Metallic",
+      "url": "https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Enter Laughing",
-      "url": "https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Orange Rhyming Dictionary",
         "url": "https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 335933,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Enter Laughing",
+      "url": "https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A"
     },
     {
       "added_at": "2025-01-15 04:11:50",

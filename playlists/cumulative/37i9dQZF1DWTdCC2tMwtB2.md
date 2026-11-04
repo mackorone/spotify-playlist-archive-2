@@ -4,7 +4,7 @@
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-69 songs - 3 hr 55 min
+70 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cold Showers](https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Cold Showers](https://open.spotify.com/album/2vcu1JmTKHFZKL1CoHzaSH) | 4:17 | 2026-09-02 | 2026-11-01 |
 | [Desi Kalakaar](https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Desi Kalakaar](https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H) | 4:13 | 2025-10-14 |  |
 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 | 2025-10-14 |  |
+| [Dilruba Dilnasheen](https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Dilfek](https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf) | 2:53 | 2026-11-03 |  |
 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 | 2025-10-14 |  |
 | [Fursat](https://open.spotify.com/track/5BsCCxp6jEOyWdsI86PbrU) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Fursat](https://open.spotify.com/album/4hOuhOK9HajId8i4mty9x3) | 2:54 | 2026-08-25 |  |
 | [Gulabi Aankhen](https://open.spotify.com/track/1ccZZf0IQi5y0bHMl2aGDF) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC) | [Universally SANAM](https://open.spotify.com/album/0xPcW40GWPqYki4y2Vi2pL) | 3:17 | 2025-10-14 |  |
@@ -40,7 +41,7 @@
 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 | 2025-10-14 |  |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2025-10-14 |  |
 | [Kya Bataun Tujhe](https://open.spotify.com/track/7wg6IOI3dapIER6r1Sz5eS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:30 | 2026-03-30 | 2026-04-27 |
-| [Lahore](https://open.spotify.com/track/5aw6a4ZzgCe92pV6ODc8vC) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Lahore](https://open.spotify.com/album/6jIvjCJshM306VtQvNep4N) | 3:17 | 2025-10-14 |  |
+| [Lahore](https://open.spotify.com/track/5aw6a4ZzgCe92pV6ODc8vC) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Lahore](https://open.spotify.com/album/6jIvjCJshM306VtQvNep4N) | 3:17 | 2025-10-14 | 2026-11-04 |
 | [Lamberghini](https://open.spotify.com/track/0N8eNF7HSu4wlZFcmjLUxt) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Lamberghini](https://open.spotify.com/album/3KxKhd9pUigdnwWupNXGX2) | 3:36 | 2025-10-14 |  |
 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 | 2025-10-14 |  |
 | [Mafia](https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:22 | 2025-10-14 | 2025-11-12 |

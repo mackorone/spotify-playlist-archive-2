@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 25 | [Pleasant Valley Sunday](https://open.spotify.com/track/2yMqMxz19l3dpQirtIRdaz) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd.](https://open.spotify.com/album/3NauSOiaCDwAUJVswXCoLO) | 3:15 |
 | 26 | [It's Going To Take Some Time](https://open.spotify.com/track/17MRUI1nql2E1GJEltjoyx) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 2:56 |
 | 27 | [Way Over Yonder](https://open.spotify.com/track/64lav7jWJqd5P4oWm4Ova6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 4:45 |
-| 28 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 |
-| 29 | [Tapestry](https://open.spotify.com/track/4kCS2MgX5dQFyqHy21MzJG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:14 |
+| 28 | [Tapestry](https://open.spotify.com/track/4kCS2MgX5dQFyqHy21MzJG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:14 |
+| 29 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 |
 | 30 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
 | 31 | [As We Go Along](https://open.spotify.com/track/0n7K8jB7Lg4zCI4WBWxO0Q) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 3:52 |
 | 32 | [Some Kind of Wonderful](https://open.spotify.com/track/1UQST36ygsRXTB97OdbnlS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love \(Hollywood Edition\)](https://open.spotify.com/album/3y2IB0hPXgf2zfZFgeBhXM) | 3:04 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcgofAAAAAC6hYJMk+Q8/vcoS9MceC/o`
+Snapshot ID: `Acgt4AAAAADBMZ4TkuHehfY3t29KPhwu`

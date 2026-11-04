@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: mindfreakk! \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,167 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,172 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Forest](https://open.spotify.com/track/6Yk3Q1wWdPB5RJksJfPqpx) | [Roypim](https://open.spotify.com/artist/2eYm3DvV9tmZipL51cfnzb) | [Forest](https://open.spotify.com/album/1CoIsQRphg8FXUcVok0nrl) | 4:18 |
 | 100 | [Peppa’s summer](https://open.spotify.com/track/4F6aflDvbZOpUciaWrWAIo) | [Ân ngờ](https://open.spotify.com/artist/3Myoe574gxIKLU5bKqjkFk), [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [0 Ngờ](https://open.spotify.com/album/7zhnx9rH8ShNiNchhqTNI9) | 4:03 |
 
-Snapshot ID: `AAAAAD3Dwo43BBLvzZ8/DD6FHn5L6y3s`
+Snapshot ID: `AAAAANR4pukkS6uGYNDxoWZjywdQAwt3`

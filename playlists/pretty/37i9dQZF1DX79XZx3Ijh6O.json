@@ -1,13 +1,125 @@
 {
-  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Zlypni",
-  "num_followers": 4021,
+  "description": "\u041d\u0430\u0439\u043b\u0456\u043f\u0448\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432\u0456\u0434 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0430\u0440\u0442\u0438\u0441\u0442\u0456\u0432-\u043f\u043e\u0447\u0430\u0442\u043a\u0456\u0432\u0446\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041d\u0430\u0441\u0442\u044f \u0413\u043e\u043d\u0446\u0443\u043b",
+  "num_followers": 4030,
   "original_name": "Fresh Finds \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvmtWQVXSaMW0Fg8APKda2FQDxu",
+  "snapshot_id": "AAAAAOeRy2ghrxRG10wsVspXINZlzR7F",
   "tracks": [
+    {
+      "added_at": "2026-11-03 22:00:04",
+      "album": {
+        "name": "\u0437\u0430\u0431\u0443\u0434\u044c \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/5TuvEMVCuCPYBKtb7Zbp9M"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0430\u0441\u0442\u044f \u0413\u043e\u043d\u0446\u0443\u043b",
+          "url": "https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "\u0437\u0430\u0431\u0443\u0434\u044c \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/1DLUwhcs33cmflciStgU9d"
+    },
+    {
+      "added_at": "2026-11-03 22:00:04",
+      "album": {
+        "name": "\u043a\u0440\u0438\u0437\u0430",
+        "url": "https://open.spotify.com/album/0eNd7DCp6HtPYsorkblU96"
+      },
+      "artists": [
+        {
+          "name": "\u0441\u043b\u0456\u043f\u0442\u043e\u043a",
+          "url": "https://open.spotify.com/artist/56M3mfXvDAZ8eYzHfM6lu0"
+        }
+      ],
+      "duration_ms": 174051,
+      "name": "\u043a\u0440\u0438\u0437\u0430",
+      "url": "https://open.spotify.com/track/6zJlhHr1cHv5Yr3wgrLBW6"
+    },
+    {
+      "added_at": "2026-11-03 22:00:04",
+      "album": {
+        "name": "\u0442\u0432\u043e\u044f \u0456\u0434\u0435\u044f",
+        "url": "https://open.spotify.com/album/5UCFD7zBGMXfTBbylzPp1U"
+      },
+      "artists": [
+        {
+          "name": "Marbi",
+          "url": "https://open.spotify.com/artist/0EAg6iEtVRLV0H53UsZf1l"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "\u0442\u0432\u043e\u044f \u0456\u0434\u0435\u044f",
+      "url": "https://open.spotify.com/track/4t83o8mVGDTu04GfM8s6RO"
+    },
+    {
+      "added_at": "2026-11-03 22:00:04",
+      "album": {
+        "name": "\u041c\u043e\u043c\u0435\u043d\u0442\u0438",
+        "url": "https://open.spotify.com/album/1L3L1MytuJswnLryScBzVv"
+      },
+      "artists": [
+        {
+          "name": "mercurikill",
+          "url": "https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl"
+        }
+      ],
+      "duration_ms": 175725,
+      "name": "\u041c\u043e\u043c\u0435\u043d\u0442\u0438",
+      "url": "https://open.spotify.com/track/0kyoIoNlpLssTM0LjJpmGv"
+    },
+    {
+      "added_at": "2026-11-03 22:00:04",
+      "album": {
+        "name": "\u041a\u0430\u0440\u0442\u0438",
+        "url": "https://open.spotify.com/album/2hLpDF3TdIPxESPy3OG7ax"
+      },
+      "artists": [
+        {
+          "name": "ICEBRG",
+          "url": "https://open.spotify.com/artist/0qI9T61RPUVHu0jgSmr1pp"
+        }
+      ],
+      "duration_ms": 206207,
+      "name": "\u041a\u0430\u0440\u0442\u0438",
+      "url": "https://open.spotify.com/track/5L7iXk4ybOnGLN1FGdmmoM"
+    },
+    {
+      "added_at": "2026-11-03 22:00:04",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/7LtcNyyly8lRNUJXeLHoSi"
+      },
+      "artists": [
+        {
+          "name": "\u043d\u0430\u0441\u0442\u044f \u044e\u043d\u043a\u0430",
+          "url": "https://open.spotify.com/artist/6lCm4n49bVmR92SNf57F7i"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "\u041a\u0430\u0439",
+      "url": "https://open.spotify.com/track/0rPMsr7BERYrrIn5wCUGDD"
+    },
+    {
+      "added_at": "2026-11-03 22:00:04",
+      "album": {
+        "name": "\u0414\u0435 \u043d\u043e\u0432\u0456 \u0442\u0440\u0435\u043a\u0438?",
+        "url": "https://open.spotify.com/album/6QQbwspvOgSWhdH57mhvuc"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u0430\u0440\u043d\u0430\u043a",
+          "url": "https://open.spotify.com/artist/5aurgDurZeC9cPtQijsZNE"
+        }
+      ],
+      "duration_ms": 184711,
+      "name": "\u041d\u0435 \u043f\u043e \u043d\u0430\u043c",
+      "url": "https://open.spotify.com/track/4PSxOc5c7UCPVB9IDUFCtE"
+    },
     {
       "added_at": "2026-10-14 07:53:30",
       "album": {
@@ -551,38 +663,6 @@
     {
       "added_at": "2026-10-06 21:00:24",
       "album": {
-        "name": "\u0422\u0443\u043b\u044e",
-        "url": "https://open.spotify.com/album/302ay9CeQFfdpInlYC8zMc"
-      },
-      "artists": [
-        {
-          "name": "Guber",
-          "url": "https://open.spotify.com/artist/1ntmI6a5ucgT8nQfc7nByD"
-        }
-      ],
-      "duration_ms": 95263,
-      "name": "\u0422\u0443\u043b\u044e",
-      "url": "https://open.spotify.com/track/1YKOHjxPznHghGg3W7O4a4"
-    },
-    {
-      "added_at": "2026-10-06 21:00:24",
-      "album": {
-        "name": "\u043d\u0435 \u0432\u0430\u0431\u0438\u0442\u044c \u0434\u0438\u043c",
-        "url": "https://open.spotify.com/album/3A10kaFXUtdKkheHoyCJKg"
-      },
-      "artists": [
-        {
-          "name": "iseedragonfly",
-          "url": "https://open.spotify.com/artist/3HvR0f2a6IcwdP18JhSGBb"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "\u043d\u0435 \u0432\u0430\u0431\u0438\u0442\u044c \u0434\u0438\u043c",
-      "url": "https://open.spotify.com/track/0a7ygtfAWtdzLSsKHNpuv3"
-    },
-    {
-      "added_at": "2026-10-06 21:00:24",
-      "album": {
         "name": "\u0414\u0438\u043a\u0438\u0439 \u0417\u0430\u0445\u0456\u0434",
         "url": "https://open.spotify.com/album/0fHXGTC5IEluv4fEGo5cdG"
       },
@@ -615,22 +695,6 @@
     {
       "added_at": "2026-10-06 21:00:24",
       "album": {
-        "name": "\u0425\u0432\u0438\u043b\u0456",
-        "url": "https://open.spotify.com/album/7Hftm5ckmniZvrQGfqnp6b"
-      },
-      "artists": [
-        {
-          "name": "Woman Based Mechanics",
-          "url": "https://open.spotify.com/artist/0HAHqBJrbpBocXeVJ90NoO"
-        }
-      ],
-      "duration_ms": 181639,
-      "name": "\u0425\u0432\u0438\u043b\u0456",
-      "url": "https://open.spotify.com/track/1xR3GJBaTDBEjbPfP1GZKA"
-    },
-    {
-      "added_at": "2026-10-06 21:00:24",
-      "album": {
         "name": "\u0421\u0443\u043c\u043d\u0438\u0439 \u0424\u0430\u043d\u043a",
         "url": "https://open.spotify.com/album/5qYdUXkGkfmVrNqlpL27vM"
       },
@@ -647,22 +711,6 @@
       "duration_ms": 234272,
       "name": "\u0421\u0443\u043c\u043d\u0438\u0439 \u0424\u0430\u043d\u043a",
       "url": "https://open.spotify.com/track/5guxjbn4fBuYdIMee0HuL2"
-    },
-    {
-      "added_at": "2026-10-06 21:00:24",
-      "album": {
-        "name": "\u041d\u0435 \u043a\u043e\u0445\u0430\u043b\u0430",
-        "url": "https://open.spotify.com/album/5WxNjSrEgFfCK5VBQiF6HG"
-      },
-      "artists": [
-        {
-          "name": "Pugy",
-          "url": "https://open.spotify.com/artist/3wicRScu7lWeanecAjrXhp"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "\u041d\u0435 \u043a\u043e\u0445\u0430\u043b\u0430",
-      "url": "https://open.spotify.com/track/1TNGaGmIRCvGyPSprdVVil"
     },
     {
       "added_at": "2026-10-06 21:00:24",
@@ -731,22 +779,6 @@
     {
       "added_at": "2026-10-06 21:00:24",
       "album": {
-        "name": "\u0425\u0442\u043e \u044f?",
-        "url": "https://open.spotify.com/album/7w8luHMFCbnpxjdIPNiFjn"
-      },
-      "artists": [
-        {
-          "name": "Aniko",
-          "url": "https://open.spotify.com/artist/0LDUdOiMH09s4v6CyPoVpQ"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "\u0425\u0442\u043e \u044f?",
-      "url": "https://open.spotify.com/track/2yCp4wM4aPryDA8FqiW6MN"
-    },
-    {
-      "added_at": "2026-10-06 21:00:24",
-      "album": {
         "name": "\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c",
         "url": "https://open.spotify.com/album/4HE4dek1c3BNA6db8xp9ns"
       },
@@ -759,38 +791,6 @@
       "duration_ms": 231481,
       "name": "\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c",
       "url": "https://open.spotify.com/track/1GLqbQ3rQpQnqlQlvOhDTo"
-    },
-    {
-      "added_at": "2026-10-06 21:00:24",
-      "album": {
-        "name": "\u0420\u0430\u043d\u043e-\u0420\u0430\u043d\u043e",
-        "url": "https://open.spotify.com/album/5XO2TtrNeZSyF7vwCc3kTc"
-      },
-      "artists": [
-        {
-          "name": "Shepit",
-          "url": "https://open.spotify.com/artist/5qaJJWtasCLOzNI9GIswrZ"
-        }
-      ],
-      "duration_ms": 178248,
-      "name": "\u0420\u0430\u043d\u043e-\u0420\u0430\u043d\u043e",
-      "url": "https://open.spotify.com/track/6PZktOdFRLaEcuf3Nd0XEc"
-    },
-    {
-      "added_at": "2026-10-06 21:00:24",
-      "album": {
-        "name": "\u042f\u043a \u0437\u0430\u0432\u0436\u0434\u0438",
-        "url": "https://open.spotify.com/album/3eAJD2uBNEZ2Z868UbfZLb"
-      },
-      "artists": [
-        {
-          "name": "\u041f\u043e\u0442\u0456\u043a\u0448\u0430 \u0424\u043b\u044f\u0433\u0430",
-          "url": "https://open.spotify.com/artist/5o00M6Lgt3BMqA0Uh07Aty"
-        }
-      ],
-      "duration_ms": 185665,
-      "name": "\u042f\u043a \u0437\u0430\u0432\u0436\u0434\u0438",
-      "url": "https://open.spotify.com/track/4bNWMcXQoVq8AyAJbU8JWF"
     },
     {
       "added_at": "2026-10-06 21:00:24",

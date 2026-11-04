@@ -1,12 +1,12 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 87587,
+  "num_followers": 87639,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNSI2saLyBmSDfjU/tsPT5/MuJp",
+  "snapshot_id": "AAAAABp4fO0w7HOumGCLmiYFmaZ3wbNH",
   "tracks": [
     {
       "added_at": "2024-07-26 00:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Nekwa Mu",
-        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 162655,
-      "name": "Nekwa Mu",
-      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Chants of Ascension",
         "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 570070,
       "name": "Chants of Ascension",
       "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Nekwa Mu",
+        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 162655,
+      "name": "Nekwa Mu",
+      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
     },
     {
       "added_at": "2025-10-17 00:01:26",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Oji Oku Eri Ajah",
-        "url": "https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 675709,
-      "name": "Oji Oku Eri Ajah",
-      "url": "https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Withholding Nothing",
         "url": "https://open.spotify.com/album/79pY0CI3DHjpjrM330xPNH"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 325253,
       "name": "My Heart Sings",
       "url": "https://open.spotify.com/track/5splIOrU4UvxMrOYvMQGw0"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Oji Oku Eri Ajah",
+        "url": "https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 675709,
+      "name": "Oji Oku Eri Ajah",
+      "url": "https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
     },
     {
-      "added_at": "2026-09-25 00:01:15",
-      "album": {
-        "name": "FIRE",
-        "url": "https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4"
-      },
-      "artists": [
-        {
-          "name": "Sandra Boakye-Duah",
-          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
-        }
-      ],
-      "duration_ms": 553200,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ"
-    },
-    {
       "added_at": "2026-07-24 00:01:35",
       "album": {
         "name": "Prayer Chants",
@@ -1263,6 +1247,22 @@
       "duration_ms": 193142,
       "name": "Prayer Chants",
       "url": "https://open.spotify.com/track/2BOekYaGyejzLMcUvmCamp"
+    },
+    {
+      "added_at": "2026-09-25 00:01:15",
+      "album": {
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4"
+      },
+      "artists": [
+        {
+          "name": "Sandra Boakye-Duah",
+          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
+        }
+      ],
+      "duration_ms": 553200,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
     },
     {
+      "added_at": "2026-10-30 00:01:05",
+      "album": {
+        "name": "Worship Chants -Apostle Micheal Orokpo (Ale Ah Ah Eh)",
+        "url": "https://open.spotify.com/album/7f8gkasOlAoMu8dU8jZtZO"
+      },
+      "artists": [
+        {
+          "name": "Sheba osher",
+          "url": "https://open.spotify.com/artist/3KOz7JYrKqwlbXZeC7Rt92"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Worship Chants -Apostle Micheal Orokpo (Ale Ah Ah Eh)",
+      "url": "https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Midnight Cry, Vol. 5 (Time-Out Of Fellowship)",
@@ -1399,22 +1415,6 @@
       "duration_ms": 2830889,
       "name": "Midnight Cry, Vol. 5 (Time-Out Of Fellowship)",
       "url": "https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Strings of Glory (Prayer Chant)",
-        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "I'm Available (Prayer Chant)",
-      "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
     }
   ],
   "unique_name": "Worship Chants",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. GOLF, Metropolen, Peder Elias og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,774 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,770 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 100 | [Better The Devil](https://open.spotify.com/track/3W4zImas4jXwf3M0CVVB6V) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Better The Devil](https://open.spotify.com/album/4cEpmCAk0YC4TTXnx9ZQNu) | 3:13 |
 | 101 | [You Are What You Want](https://open.spotify.com/track/282G5ObH4Vfbi2LBRmsUvz) | [CLENITE](https://open.spotify.com/artist/5fBUkkX9ffSVPSZQMVr6VY) | [You Are What You Want](https://open.spotify.com/album/6PThHlz34gCIAV8mpFlX6Q) | 3:40 |
 
-Snapshot ID: `AAAAABEp4NjI9LcO4wEJsybc4JvLPy/i`
+Snapshot ID: `AAAAAC1rCCTWzwTAlhM26cTwGBr2joex`

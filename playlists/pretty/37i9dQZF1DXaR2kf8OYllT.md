@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2kf8OYllT.md) - [plain]
 
 > Enjoy the concert LIVE SET including the voices of BTS members on stage! \(BTS 멤버들의 무대의 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,404 likes - 31 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,428 likes - 31 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2kf8OYllT.md) - [plain]
 | 7 | [Opening Comment](https://open.spotify.com/track/6oGus6uX0AD2Vj6sZPDZoz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 3:00 |
 | 8 | [Save Me](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:16 |
 | 9 | [00:00 \(Zero O’Clock\)](https://open.spotify.com/track/6fqaMyg066xlukvUJWdM2T) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:10 |
-| 10 | [Butterfly \(Prologue Mix\)](https://open.spotify.com/track/0XwvxY5yMRI7vh55eBRe3B) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 4:55 |
+| 10 | [Butterfly \- Prologue Mix](https://open.spotify.com/track/0XwvxY5yMRI7vh55eBRe3B) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 4:55 |
 | 11 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 |
 | 12 | [BTS Cypher Pt.3: Killer](https://open.spotify.com/track/5OlieB5VdsOMuBuCtllXGW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Supreme Boi](https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:27 |
 | 13 | [Dynamite](https://open.spotify.com/track/72IwoG8tqvIWV10IHjpNNA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:19 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2kf8OYllT.md) - [plain]
 | 30 | [Finale Comment](https://open.spotify.com/track/4UWbsrCitWKVn1idlAg04z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 0:45 |
 | 31 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
 
-Snapshot ID: `AAAAABgneeKYuNB5vydzE9RWWMKMXLU+`
+Snapshot ID: `AAAAAE5zMlARt6NpNf7sGSKwzf5GBbKl`

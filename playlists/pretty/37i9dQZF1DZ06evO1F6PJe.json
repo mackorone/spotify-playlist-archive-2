@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 111189,
+  "num_followers": 111199,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAABtijMHemubP7ZNGvUTAwAg",
+  "snapshot_id": "auaBAAAAAABsB+qZs9hzg3JG7uRTVGd7",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 347360,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2knqdlYKjS0J27lYyyRllU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": null,
@@ -83,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv"
       },
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Driving Towards The Daylight",
         "url": "https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 289453,
       "name": "Driving Towards the Daylight",
       "url": "https://open.spotify.com/track/4i8D5dh2n2B1mUWgQSC5ZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 273040,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3"
     },
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262869,
+      "name": "Broken & Blue",
+      "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different Shades of Blue",
         "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
@@ -307,22 +327,6 @@
       "duration_ms": 279226,
       "name": "Different Shades of Blue",
       "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 518533,
-      "name": "No Good Place For The Lonely",
-      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
     },
     {
       "added_at": null,
@@ -343,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 262869,
-      "name": "Broken & Blue",
-      "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
+      "duration_ms": 518533,
+      "name": "No Good Place For The Lonely",
+      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
     },
     {
       "added_at": null,
@@ -411,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 305706,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tales Of Time (Live)",
         "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 343906,
       "name": "Mountain Climbing",
       "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 305706,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 333333,
       "name": "What I've Known For A Very Long Time",
       "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Of Rory Live From Cork",
-        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 478120,
-      "name": "A Million Miles Away (Live)",
-      "url": "https://open.spotify.com/track/0bJD6MRz7YPvVUsXv8kMQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 243733,
       "name": "The Valley Runs Low",
       "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 478120,
+      "name": "A Million Miles Away (Live)",
+      "url": "https://open.spotify.com/track/0bJD6MRz7YPvVUsXv8kMQP"
     },
     {
       "added_at": null,

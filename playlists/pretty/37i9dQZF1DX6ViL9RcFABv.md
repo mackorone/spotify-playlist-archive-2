@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Gama WNTD
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,581 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,583 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Deixa Doer](https://open.spotify.com/track/4ba1ODbItagL18R4D6Ozk6) | [M1ke](https://open.spotify.com/artist/3tQ4msrV9tC9rzrAUK3mdv), [Beatriz Felício](https://open.spotify.com/artist/6nZmaIuTbjARpkPABXWu8T), [LilBoy Bruce](https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn) | [Deixa Doer](https://open.spotify.com/album/58EHe5gxvijrBVl1CsTcTi) | 3:14 |
 | 70 | [tenho saudades de casa](https://open.spotify.com/track/6jEiqzJHHz7TpooAPr6bFg) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [tenho saudades de casa](https://open.spotify.com/album/6YUOHV3URPQPfUMFI68t3d) | 3:08 |
 
-Snapshot ID: `AAAAABW+fPXxgGv2yYAogZhgvTg9RuCc`
+Snapshot ID: `AAAAAJJQlVnBoIcTFRcBNfmkMI/u7Yzt`

@@ -1,12 +1,12 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 131852,
+  "num_followers": 131878,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEu7sRfHVwwyA3IERhW0Ei26Hibl",
+  "snapshot_id": "AAAAAO2GxFM/E1RHYKgV0kdBdIsuluFw",
   "tracks": [
     {
       "added_at": "2026-04-26 03:10:51",
@@ -291,8 +291,8 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Pacas De A Kilo",
-      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
+      "duration_ms": 193106,
+      "name": "Pedro Y Pablo",
+      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -371,8 +371,8 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Jaula De Oro",
-        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Pedro Y Pablo",
-      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
+      "duration_ms": 214000,
+      "name": "Pacas De A Kilo",
+      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Arturo Garza Trevino",
+      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "Arturo Garza Trevino",
-      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
-        "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Clave Privada",
-      "url": "https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
+        "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Clave Privada",
+      "url": "https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
-        "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 146213,
-      "name": "Luis Pulido",
-      "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Corridos Y Tragedias De La Frontera",
         "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 221719,
       "name": "Corrido de Macario Leyva",
       "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
+        "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 146213,
+      "name": "Luis Pulido",
+      "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
     },
     {
       "added_at": "2026-04-26 03:10:51",

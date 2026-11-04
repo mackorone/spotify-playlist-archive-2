@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Malcolm Rue",
-  "num_followers": 63722,
+  "num_followers": 63749,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaT6v8prHBJYQcoLrRuOt9aZ6eJ",
+  "snapshot_id": "AAAAAJO+zjHGzJBMM9z9NxW0JGafP7N+",
   "tracks": [
     {
       "added_at": "2024-12-06 00:01:00",
@@ -489,26 +489,6 @@
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 305674,
-      "name": "This Is The Gospel",
-      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
-    },
-    {
       "added_at": "2024-04-26 00:01:00",
       "album": {
         "name": "The Great Commission",
@@ -527,6 +507,26 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -777,24 +777,20 @@
       "url": "https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "GOD IS GOOD",
-        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
         }
       ],
-      "duration_ms": 207529,
-      "name": "GOD IS GOOD",
-      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -837,20 +833,24 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+        "name": "GOD IS GOOD",
+        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     },
     {
       "added_at": "2023-12-15 00:01:00",

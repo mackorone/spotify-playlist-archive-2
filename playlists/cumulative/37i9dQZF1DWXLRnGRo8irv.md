@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: g0nny\)
+> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: RESCENE\)
 
-1,456 songs - 3 day 9 hr 36 min
+1,458 songs - 3 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,7 @@
 | [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-31 | 2023-03-01 |
 | [Hoppin'](https://open.spotify.com/track/3BeeXXeGf3eUSKbUofxHsY) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [17.7](https://open.spotify.com/album/2RBkLbawM5Zs0hKZLBhSsH) | 2:27 | 2026-07-01 |  |
 | [HOT](https://open.spotify.com/track/24Y63uAvj6Oc9jGuTlhlgf) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT \(English ver.\) \(feat\. JADE\)](https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT) | 2:23 | 2025-12-03 | 2026-01-20 |
-| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 |  |
+| [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 | 2025-03-14 | 2026-11-04 |
 | [How about this](https://open.spotify.com/track/12enWdgYRvDXGQNQUiEKdo) | [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [How](https://open.spotify.com/album/104EC1EJOCEAEl7CA1epEz) | 2:21 | 2025-03-04 | 2025-05-13 |
 | [How long will it take to forget you?](https://open.spotify.com/track/602oKSLMH6egWsrt2JgjqA) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [How long will it take to forget you?](https://open.spotify.com/album/6WbjW3cKf5HgCx9F0AbCBf) | 3:42 | 2022-09-06 | 2022-10-05 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-04 | 2025-02-05 |
@@ -626,6 +626,7 @@
 | [Infinity](https://open.spotify.com/track/65yq7FjYHIWpK2MkV5LHBG) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Infinity](https://open.spotify.com/album/7491byT28suOc7sUZmpuw4) | 3:06 | 2022-05-04 | 2022-06-01 |
 | [Infodemics \(with Ilwoo Lee from JAMBINAI\)](https://open.spotify.com/track/38X1wZZV5ibTj0R0TPGPSO) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Infodemics \(with Ilwoo Lee from JAMBINAI\)](https://open.spotify.com/album/58g5NpaZbR7strllgzVJ1d) | 6:07 | 2023-06-06 | 2023-07-05 |
 | [Ing..](https://open.spotify.com/track/7DDHo1xE4G8WZlHepTCwje) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/0l2EK3FdDY9MVRD3tckhDC) | 4:00 | 2022-10-04 | 2023-11-30 |
+| [Inside Out](https://open.spotify.com/track/6t45ZC1w8QADl5HpeyJ3Rr) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [PULSE](https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI) | 3:31 | 2026-11-04 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-03-07 | 2022-04-06 |
 | [IRL](https://open.spotify.com/track/7f9eZIAVx22NrKZIUsE03L) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:18 | 2025-05-12 | 2025-09-03 |
 | [Ironic](https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Ironic](https://open.spotify.com/album/222uC5p2bcGmcTh8at8Iv5) | 2:30 | 2025-05-12 | 2025-06-04 |
@@ -1289,7 +1290,7 @@
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-04 | 2022-06-01 |
 | [UFO \(ATTENT!ON\)](https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [&Our Vibe](https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF) | 2:39 | 2026-05-06 | 2026-07-01 |
 | [Unbearable Pain](https://open.spotify.com/track/41LundrJaKNT2kLlfG1ufe) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Unbearable Pain](https://open.spotify.com/album/0nBw2E2j7OlAXHh1959DW8) | 4:03 | 2022-10-04 | 2022-11-11 |
-| [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 | 2026-04-29 |  |
+| [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 | 2026-04-29 | 2026-11-04 |
 | [Unexpected Business Season 3: Polaroid \(Original Television Soundtrack\)](https://open.spotify.com/track/1Vdf2GO5a2hbg3Vvt0icTM) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Unexpected Business Season 3: Polaroid \(Original Television Soundtrack\)](https://open.spotify.com/album/7zjoKTgHaK2OBBM4J6nrlW) | 3:43 | 2024-02-06 | 2024-04-03 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-02 | 2023-06-07 |
 | [UNNATURAL](https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:04 | 2022-05-04 | 2022-06-01 |
@@ -1367,6 +1368,7 @@
 | [Wish](https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:32 | 2025-03-04 | 2025-05-13 |
 | [Wish \(feat\. Shin Hyun Woo\)](https://open.spotify.com/track/7yeEqG6DthgCZ9soKrCKov) | [Shin Ji Hyun](https://open.spotify.com/artist/68Dr23nWlJ4CxITZacuJQt), [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Wish](https://open.spotify.com/album/1H8gL3A21CRm17IuyAErKN) | 3:38 | 2023-10-04 | 2023-11-30 |
 | [WITCH \(Feat\. Jay Park, So!YoON!\) \(Prod\. by Slom\)](https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 4:02 | 2023-01-03 | 2023-02-01 |
+| [With](https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [PULSE](https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI) | 3:11 | 2026-11-04 |  |
 | [With this song](https://open.spotify.com/track/5Ea2nMOE7vTIj7x4xlvOyl) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [With this song](https://open.spotify.com/album/0TKfPDP4Jf6W6iP0bxNhmZ) | 3:55 | 2023-01-31 | 2023-03-01 |
 | [with you](https://open.spotify.com/track/6K8TFavarQRay2w70lPuVg) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [with you](https://open.spotify.com/album/5mD1tkqkQTksb36na1ifOj) | 3:13 | 2021-12-08 | 2022-01-05 |
 | [With You](https://open.spotify.com/track/7GdKSviRDnbqEOUH3eEkC5) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [someone's playlist \#12](https://open.spotify.com/album/1JfMkM9tLLEVaemktjOcR3) | 2:49 | 2023-04-04 | 2024-02-07 |

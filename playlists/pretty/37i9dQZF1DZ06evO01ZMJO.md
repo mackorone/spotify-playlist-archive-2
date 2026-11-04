@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,854 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,859 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 17 | [Kali \- Outsiders Remix](https://open.spotify.com/track/4MK2iIz8chhPMWORvUfzzF) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali \(Outsiders Remix\)](https://open.spotify.com/album/7B4JAdcj0x4RxJyGdY9pUp) | 4:09 |
 | 18 | [1 Team](https://open.spotify.com/track/2mao0X8xezsrM0oCmm9T9f) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [1 Team](https://open.spotify.com/album/2Kky2Fv8uR0FzaI3rcOwKk) | 3:18 |
 | 19 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
-| 20 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
-| 21 | [Flitsmeister](https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Jebroer 4 Life](https://open.spotify.com/album/5cC4L5QILXWUZchaMDSWE9) | 2:16 |
+| 20 | [Flitsmeister](https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Jebroer 4 Life](https://open.spotify.com/album/5cC4L5QILXWUZchaMDSWE9) | 2:16 |
+| 21 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
 | 22 | [Het Zwarte Schaap \(feat\. De Kraaien\)](https://open.spotify.com/track/3vkadfj0xElWQs4nw6eQKC) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [The Darkraver](https://open.spotify.com/artist/60TVEmoDz6TGnmT1LL7hNw), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Het Zwarte Schaap \(feat\. De Kraaien\)](https://open.spotify.com/album/0YYEQHcohTupHQfHjU4DjI) | 3:04 |
 | 23 | [Popcorn](https://open.spotify.com/track/2WEAjQeoTRm7T3leqV2YfQ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Anita Doth](https://open.spotify.com/artist/7xhR4wM8X8SeGTKKPujotA) | [Popcorn](https://open.spotify.com/album/2pM2KhElow7DCyDuf1vZ4O) | 3:16 |
 | 24 | [Rebels In The Frontline](https://open.spotify.com/track/1HoYx9NlpBP0TNuYu05Yik) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Rebels In The Frontline](https://open.spotify.com/album/1qA89hPlhB7I9rVtKIxXtA) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Magnifico \- Jump Remix](https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Magnifico \(Jump Remix\)](https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh) | 2:39 |
 | 50 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 
-Snapshot ID: `auUvgAAAAABYCnaj3o7VocyCOtbHrvcv`
+Snapshot ID: `auaBAAAAAACtsE6vFIBo/BDRDl73FuG+`

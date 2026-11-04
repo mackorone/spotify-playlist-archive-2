@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: IVE
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: RESCENE
 
-1,856 songs - 4 day 1 hr 25 min
+1,858 songs - 4 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,7 +1033,7 @@
 | [My My](https://open.spotify.com/track/6GAkM249WkoA8d0kJArZAp) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [My My](https://open.spotify.com/album/5pwj7F9Rmmc47XDMduN3jJ) | 3:28 | 2021-12-23 | 2022-01-28 |
 | [My Name is Malguem](https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [2nd Mini Album 'Algorithm's Blossom'](https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT) | 3:08 | 2024-09-24 | 2025-05-16 |
 | [My Tune](https://open.spotify.com/track/6jgyxezZnjJP2PJxQYOw3K) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [My Tune](https://open.spotify.com/album/4Us6JxGrDcZtIwiF5kqAY7) | 3:19 | 2024-06-06 | 2024-07-03 |
-| [My Voice](https://open.spotify.com/track/3DIZWWeULKD6N4S4Q9CtFS) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [My Voice](https://open.spotify.com/album/6x1DMiKyGLxMtFjLmh6T2D) | 3:15 | 2026-10-13 |  |
+| [My Voice](https://open.spotify.com/track/3DIZWWeULKD6N4S4Q9CtFS) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [My Voice](https://open.spotify.com/album/6x1DMiKyGLxMtFjLmh6T2D) | 3:15 | 2026-10-13 | 2026-11-04 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-15 | 2024-09-25 |
 | [N.Y.C.T](https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [N.Y.C.T \- NCT LAB](https://open.spotify.com/album/5pa2JvvpufiC2IlKUgbjZQ) | 3:56 | 2023-09-07 | 2023-10-13 |
 | [NA](https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY) | 2:43 | 2024-09-25 | 2025-01-18 |
@@ -1055,7 +1055,7 @@
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-06 | 2024-10-11 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-23 | 2024-02-14 |
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-07-31 | 2023-08-19 |
-| [New Look](https://open.spotify.com/track/6vtBsAv6slegvZ2lleiu5L) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [New Look](https://open.spotify.com/album/7l0i6g7surErfbkaCFk5vj) | 3:06 | 2026-09-22 |  |
+| [New Look](https://open.spotify.com/track/6vtBsAv6slegvZ2lleiu5L) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [New Look](https://open.spotify.com/album/7l0i6g7surErfbkaCFk5vj) | 3:06 | 2026-09-22 | 2026-11-04 |
 | [NEW LOOK](https://open.spotify.com/track/2dcUJfnd2BAKS7jUSdlmmO) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 3:16 | 2025-03-06 | 2025-04-30 |
 | [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 | 2024-10-11 | 2024-10-28 |
 | [NEW ROAD](https://open.spotify.com/track/6SV2IgRFdjK4I2BLT8dOkt) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Let's Standing Show](https://open.spotify.com/album/0v4hD3V0e9f9maj8EIlecH) | 3:28 | 2024-01-16 | 2024-02-21 |
@@ -1189,7 +1189,7 @@
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2022-11-15 | 2023-02-15 |
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-10-31 | 2025-02-07 |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 | 2023-01-18 |
-| [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-07 |  |
+| [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-07 | 2026-11-04 |
 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-09-24 | 2025-10-21 |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-02 | 2025-05-07 |
 | [PRIMROSE](https://open.spotify.com/track/75uoSZNM8jX7p1Uyj4m3zT) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [RED MOON](https://open.spotify.com/album/44bwRjSjY6otPdQDMNWTey) | 3:38 | 2023-01-12 | 2023-03-08 |
@@ -1601,6 +1601,7 @@
 | [Too Bad](https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [GOOD GIRL BUT NOT FOR YOU](https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu) | 2:49 | 2026-03-31 | 2026-09-30 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-19 | 2023-12-06 |
 | [TOP IT ALL](https://open.spotify.com/track/3NgUFQiasVnIDoZsRfsCuK) | [ELSEE](https://open.spotify.com/artist/3kQo2hxY8DMmIQro6Beqlp) | [TOP IT ALL](https://open.spotify.com/album/21gho4vpEe5FHsjtv8ScMl) | 3:09 | 2025-04-22 | 2025-09-16 |
+| [Top To Toe](https://open.spotify.com/track/1uXHgZzqwJ5uwX7554ofNI) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [COMING SOON](https://open.spotify.com/album/7KvdGIrdl0AU8dpnjvetgW) | 2:24 | 2026-11-03 |  |
 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 | 2025-08-10 | 2025-09-01 |
 | [TORNADO](https://open.spotify.com/track/6X0HaPlb8AscV8YU7beQzT) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [TORNADO / No Drip](https://open.spotify.com/album/5N4ANp1ZcyZoHSQcLpdWKn) | 3:13 | 2025-05-05 | 2025-07-16 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-25 | 2025-04-07 |
@@ -1755,6 +1756,7 @@
 | [Wish you were here](https://open.spotify.com/track/4PGPcB5El4Q70XNUey3Mci) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [ただいま](https://open.spotify.com/album/7w9hyDGuwiO16unGXChcfU) | 3:20 | 2024-03-12 | 2024-03-27 |
 | [Wishful Winter](https://open.spotify.com/track/3hCg0ihZAaSEVquRz9MKAs) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:08 | 2024-11-26 | 2025-01-24 |
 | [WITCH](https://open.spotify.com/track/336bNqFkCC2owApr6l7osT) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : WATCH OUT](https://open.spotify.com/album/5i39B9fUkXSofBtiWABi93) | 3:15 | 2024-09-06 | 2024-12-20 |
+| [With](https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [PULSE](https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI) | 3:11 | 2026-11-03 |  |
 | [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-10-12 | 2023-10-18 |
 | [With You](https://open.spotify.com/track/0O53SxVLSJ7v2xWOwZiS9w) | [B/ue](https://open.spotify.com/artist/6Hcc2Fny1noBc4YGVMQTze) | [With You](https://open.spotify.com/album/2Nw4hG9JHeAaj8AkFSBPYG) | 3:15 | 2021-12-23 | 2022-01-22 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-02 | 2022-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,513 likes - 101 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,490 likes - 101 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 100 | [blueprints](https://open.spotify.com/track/2IcdRdXh3E7E50rehZmAP5) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [blueprints](https://open.spotify.com/album/4hmI2HMwNymNWg7wUAlaUx) | 3:48 |
 | 101 | [Geordie](https://open.spotify.com/track/1J4Rg2p05zFyUvNR0REj2W) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Geordie](https://open.spotify.com/album/5lwsHJ7mvLXXUix0yG0hKm) | 4:01 |
 
-Snapshot ID: `AAAAAImsuFQTjkyJ1gcG/Kl5tWFmu6Yw`
+Snapshot ID: `AAAAAJaqdESoSBmqJMvFJYmUMEZPrG9q`

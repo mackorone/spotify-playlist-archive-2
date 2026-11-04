@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,458 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,463 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 20 | [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 |
 | 21 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
 | 22 | [The Eye](https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:31 |
-| 23 | [Help Me Make It Through the Night](https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:08 |
-| 24 | [The Garden \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/57mPJPpQCVS7bisURsmrJZ) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:42 |
+| 23 | [The Garden \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/57mPJPpQCVS7bisURsmrJZ) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:42 |
+| 24 | [Help Me Make It Through the Night](https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:08 |
 | 25 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 |
 | 26 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 27 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 47 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 48 | [Orphan Girl](https://open.spotify.com/track/28RSIjTle8Rru7vnZxTPQr) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/4naSRPW5EBkUY7d0JxPgP5) | 3:57 |
 | 49 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 |
-| 50 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
-| 51 | [Hands of Time](https://open.spotify.com/track/46kDii7UJSHtXvEXjexFq1) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 6:09 |
-| 52 | [Days Of You](https://open.spotify.com/track/56FfcCAWjPgyZeTX66NElO) | [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30) | [Days Of You](https://open.spotify.com/album/62qmLB2dXwppJXzYh8Fm0f) | 3:47 |
+| 50 | [Days Of You](https://open.spotify.com/track/56FfcCAWjPgyZeTX66NElO) | [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30) | [Days Of You](https://open.spotify.com/album/62qmLB2dXwppJXzYh8Fm0f) | 3:47 |
+| 51 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
+| 52 | [Hands of Time](https://open.spotify.com/track/46kDii7UJSHtXvEXjexFq1) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 6:09 |
 | 53 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 |
 | 54 | [Undo](https://open.spotify.com/track/56g0RZZnk3NRAOxhELYdHj) | [RYMAN](https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj) | [Undo](https://open.spotify.com/album/5REc8JIZ9W788zAhBZHWIj) | 4:01 |
 | 55 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 99 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 |
 | 100 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 |
 
-Snapshot ID: `AAAAAAaNiKPasWEms9gP8Bf/jD1tKChQ`
+Snapshot ID: `AAAAAE3nq6pPSM1Jgl0A5MfQ4ZIIZNy9`

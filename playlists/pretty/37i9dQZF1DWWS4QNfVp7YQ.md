@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,770 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,788 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 6 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 |
 | 7 | [Baila Conmigo \(feat\. Kelly Ruiz\) \- Alan Rosales & TBX Remix](https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [TBX](https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\) \[Alan Rosales & TBX Remix\]](https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ) | 2:22 |
 | 8 | [Celosa Trompetosa](https://open.spotify.com/track/6XoWjNfsekXoMWumZPLFc9) | [Dj Renzo Mix](https://open.spotify.com/artist/2a7dMZX6NbyOW70t0bp38A) | [Celosa Trompetosa](https://open.spotify.com/album/7rjys36Oqufe4z0OCYeIks) | 2:20 |
-| 9 | [Meneando Cadera](https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Meneando Cadera](https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS) | 2:11 |
+| 9 | [Vivir la Vida](https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn) | [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr) | [Vivir la Vida](https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME) | 1:54 |
 | 10 | [Albaricoque](https://open.spotify.com/track/03A3AxBaHQuDAGnpzVuzB8) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Albaricoque](https://open.spotify.com/album/7oCSkCrfXicf6yIF5M6Psi) | 3:30 |
 | 11 | [L0JI](https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [L0JI](https://open.spotify.com/album/7uHP8GP7cWkmour80PaxiG) | 3:00 |
 | 12 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
 | 13 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 |
-| 14 | [Vivir la Vida](https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn) | [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr) | [Vivir la Vida](https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME) | 1:54 |
+| 14 | [Meneando Cadera](https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Meneando Cadera](https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS) | 2:11 |
 | 15 | [Tas pedita bb?](https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Tas pedita bb?](https://open.spotify.com/album/3NQgFbC1GTt3rZ2A0vzpvv) | 2:11 |
 | 16 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
 | 17 | [Baila Tribal](https://open.spotify.com/track/2MGSQFNoGCmkX4eduyeZUv) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Huapango Tribal](https://open.spotify.com/album/2mIbKhtHembnY7MpRyewj4) | 3:19 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 34 | [Dawn](https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE) | [HAMAL](https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1) | [Dawn](https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6) | 3:29 |
 | 35 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 36 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
-| 37 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
-| 38 | [Teneloa Kuikayotl](https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1), [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Teneloa Kuikayotl](https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W) | 2:54 |
+| 37 | [Teneloa Kuikayotl](https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1), [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Teneloa Kuikayotl](https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W) | 2:54 |
+| 38 | [El Tabano](https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb) | [Mickey Vivas](https://open.spotify.com/artist/3oZeAYYFdBFuY5b1RfOFua) | [El Tabano](https://open.spotify.com/album/4lNbOrWYsNOmReEYUSSwnf) | 2:22 |
 | 39 | [World 2014 \- Original Mix](https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A) | [DJ Giovanni Rios](https://open.spotify.com/artist/76Did245rD3G41QKmgu3Cx) | [Tribal Evolution](https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b) | 2:38 |
 | 40 | [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 |
 | 41 | [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 |
 | 50 | [BATEA](https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [BATEA](https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp) | 2:23 |
 
-Snapshot ID: `AAAAALMZlj1kxuZumoJ3daUVrS0IY9tb`
+Snapshot ID: `AAAAANvOVgH5LsxMGWkMM5zUa4+F8Wji`

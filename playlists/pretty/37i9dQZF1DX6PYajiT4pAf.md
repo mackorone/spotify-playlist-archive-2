@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Metrika, Álvaro de Luna, Love of Lesbian, Belén Aguilera, Samuraï con Juanes  y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,782 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,775 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 58 | [Rabia](https://open.spotify.com/track/7MkWXRnwhkhm3wJDckVOeC) | [Pequeño Rodriguez](https://open.spotify.com/artist/4y8yLaS3zSW2GV4czwJ732), [NUDO MUSIC](https://open.spotify.com/artist/7H1afegFVahcLs2ouFN13E) | [Dolor, Tristeza y Rabia](https://open.spotify.com/album/5cNmIQNE1LPpin81s2XGkm) | 2:11 |
 | 59 | [La torre](https://open.spotify.com/track/5L9BcNEh6oFQpW90gUOHhv) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [Los espíritus](https://open.spotify.com/album/6D78CQNsi7Xi7uoFdoWV25) | 1:42 |
 
-Snapshot ID: `AAAAANH4/qKF+O6hzH4IPNlTFMngsWif`
+Snapshot ID: `AAAAAOhk5+eu7psOc8DH+fw5VVr5lUw8`

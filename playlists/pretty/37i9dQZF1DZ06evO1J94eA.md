@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,662 likes - 50 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,670 likes - 50 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 49 | [Sister Moon \(feat\. Sting\)](https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 6:54 |
 | 50 | [Actual Proof](https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 9:41 |
 
-Snapshot ID: `auUvgAAAAAAmp1GwhZhVi6YUsAGKEVh9`
+Snapshot ID: `auaBAAAAAAC0mUEPJi1m5fO3vY7kFaDq`

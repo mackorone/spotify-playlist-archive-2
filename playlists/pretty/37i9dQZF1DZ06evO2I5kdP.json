@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAAC14PHKszjVJMPKre0jVIAF",
+  "snapshot_id": "auaBAAAAAAD0EIabTOO9dCATZsRWkNmu",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reflections Vol. 3: Water Poems",
+        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Shines for Eternity",
+      "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Death, Reverb and Decay",
         "url": "https://open.spotify.com/album/2M1uZvWZxhHv5fqLd15JRj"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 444000,
       "name": "Death, Reverb and Decay",
       "url": "https://open.spotify.com/track/3BZJ6Uqy7z1s2izOjUs2ci"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reflections Vol. 3: Water Poems",
-        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Shines for Eternity",
-      "url": "https://open.spotify.com/track/17wS3gFjBUZpncmlh7ANlW"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reflections Vol. 3: Water Poems",
+        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "A Secret",
+      "url": "https://open.spotify.com/track/1W36R0sUe6XOjOnpmMDRsc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Christina Vantzou, Michael Harrison and John Also Bennett",
         "url": "https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 253533,
       "name": "Harp of Yaman",
       "url": "https://open.spotify.com/track/36VdNFNWrX6NjwvyO86qeN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reflections Vol. 3: Water Poems",
-        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "A Secret",
-      "url": "https://open.spotify.com/track/1W36R0sUe6XOjOnpmMDRsc"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+        "name": "No. 2",
+        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 413659,
-      "name": "Stereoscope",
-      "url": "https://open.spotify.com/track/1ifIv7jR7u3K3uFGDerZ2O"
+      "duration_ms": 110360,
+      "name": "Arp",
+      "url": "https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC"
     },
     {
       "added_at": null,
@@ -643,6 +643,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 413659,
+      "name": "Stereoscope",
+      "url": "https://open.spotify.com/track/1ifIv7jR7u3K3uFGDerZ2O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Multi Natural",
+        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 99561,
+      "name": "Wild Beast Research",
+      "url": "https://open.spotify.com/track/2K9DjzPT0XgqMtX7jaywge"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 2",
         "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
       },
@@ -652,9 +684,33 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 283586,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/7GI3EonVrUfvUJ5fQ3sWB5"
+      "duration_ms": 118280,
+      "name": "Vostok",
+      "url": "https://open.spotify.com/track/3iaMERxETB328X4iiCYMJj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Christina Vantzou, Michael Harrison and John Also Bennett",
+        "url": "https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Michael Harrison",
+          "url": "https://open.spotify.com/artist/09b9oXw3X9LhhKA8GJsMDT"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 205404,
+      "name": "Open Delay 2",
+      "url": "https://open.spotify.com/track/6VL7F18Tmg2VNPXFnjpGf6"
     },
     {
       "added_at": null,
@@ -675,8 +731,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Multi Natural",
-        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "El Muelle",
+      "url": "https://open.spotify.com/track/53GPaQrSsCOGLmm2bBt638"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
       "artists": [
         {
@@ -684,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 99561,
-      "name": "Wild Beast Research",
-      "url": "https://open.spotify.com/track/2K9DjzPT0XgqMtX7jaywge"
+      "duration_ms": 98106,
+      "name": "Percussion in Nonspace",
+      "url": "https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx"
     },
     {
       "added_at": null,
@@ -711,22 +787,6 @@
       "duration_ms": 369905,
       "name": "Joanna",
       "url": "https://open.spotify.com/track/6qlvxStk8h2ugHOQqVZQcX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 2",
-        "url": "https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 110360,
-      "name": "Arp",
-      "url": "https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC"
     },
     {
       "added_at": null,
@@ -760,9 +820,29 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 178000,
-      "name": "El Muelle",
-      "url": "https://open.spotify.com/track/53GPaQrSsCOGLmm2bBt638"
+      "duration_ms": 68624,
+      "name": "Messengers of the Rains",
+      "url": "https://open.spotify.com/track/7nuyqnbGWKvtRxYLQZin5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 5",
+        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Margaret Hermant",
+          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
+        }
+      ],
+      "duration_ms": 49048,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/7kGta0wRyFY4RuHaFVaSLu"
     },
     {
       "added_at": null,
@@ -791,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 98106,
-      "name": "Percussion in Nonspace",
-      "url": "https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No. 3",
         "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
       },
@@ -819,86 +883,6 @@
       "duration_ms": 304883,
       "name": "Moon Drone",
       "url": "https://open.spotify.com/track/4Qn5EO49XCHZqIcWwvcM5v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        }
-      ],
-      "duration_ms": 68624,
-      "name": "Messengers of the Rains",
-      "url": "https://open.spotify.com/track/7nuyqnbGWKvtRxYLQZin5z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christina Vantzou, Michael Harrison and John Also Bennett",
-        "url": "https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Michael Harrison",
-          "url": "https://open.spotify.com/artist/09b9oXw3X9LhhKA8GJsMDT"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        }
-      ],
-      "duration_ms": 205404,
-      "name": "Open Delay 2",
-      "url": "https://open.spotify.com/track/6VL7F18Tmg2VNPXFnjpGf6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 5",
-        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Margaret Hermant",
-          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
-        }
-      ],
-      "duration_ms": 49048,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/7kGta0wRyFY4RuHaFVaSLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 3",
-        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 324556,
-      "name": "Entanglement",
-      "url": "https://open.spotify.com/track/2jxF9uzSFsB74WPBTZI2Fp"
     },
     {
       "added_at": null,
@@ -919,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Multi Natural",
-        "url": "https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh"
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
       },
       "artists": [
         {
@@ -928,9 +912,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Snow White",
-      "url": "https://open.spotify.com/track/14RJkqBkYRAvap3W20hMcj"
+      "duration_ms": 324556,
+      "name": "Entanglement",
+      "url": "https://open.spotify.com/track/2jxF9uzSFsB74WPBTZI2Fp"
     }
   ],
   "unique_name": "This Is Christina Vantzou",

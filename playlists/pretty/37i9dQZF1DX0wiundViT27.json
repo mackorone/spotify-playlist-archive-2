@@ -1,12 +1,12 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 606270,
+  "num_followers": 606239,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUTTKe33hOSdCwZ5hsl/fAbYf/e",
+  "snapshot_id": "AAAAAMgRh61LCcv063cqId4NjLnANAme",
   "tracks": [
     {
       "added_at": "2025-03-14 19:47:40",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 198546,
       "name": "Let The Bad Times Roll",
       "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Sex Party",
         "url": "https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 167225,
       "name": "Sex Party",
       "url": "https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Welcome To My House",
-        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 190611,
-      "name": "By The Time You're Reading This",
-      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Man Made of Meat",
         "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 189947,
       "name": "Man Made of Meat",
       "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Welcome To My House",
+        "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 190611,
+      "name": "By The Time You're Reading This",
+      "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "waste",
-        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
-      },
-      "artists": [
-        {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
-        }
-      ],
-      "duration_ms": 231911,
-      "name": "waste",
-      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "hotline",
         "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "waste",
+        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "waste",
+      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "INSIDE",
-        "url": "https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8"
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
       "artists": [
         {
-          "name": "WesGhost",
-          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 154025,
-      "name": "INSIDE",
-      "url": "https://open.spotify.com/track/6CCuNaertE0MJJHRmfjn0T"
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     }
   ],
   "unique_name": "Rock Me Up",

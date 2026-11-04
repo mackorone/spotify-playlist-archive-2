@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,733 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,754 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 46 | [wedidit \(with Playboi Carti\)](https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 3:42 |
 | 47 | [Beef](https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH) | [Ethereal](https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Beef](https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR) | 3:33 |
 | 48 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
-| 49 | [Uh Uh \- feat\. Playboi Carti](https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Mansion Musick](https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4) | 2:46 |
-| 50 | [Pump Fake](https://open.spotify.com/track/2yEUn83xO0zakwRnlIf6q9) | [Ethereal](https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Pump Fake](https://open.spotify.com/album/2nVIxZAt0Ir9KWJXezgbVI) | 4:40 |
+| 49 | [Pump Fake](https://open.spotify.com/track/2yEUn83xO0zakwRnlIf6q9) | [Ethereal](https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Pump Fake](https://open.spotify.com/album/2nVIxZAt0Ir9KWJXezgbVI) | 4:40 |
+| 50 | [Uh Uh \- feat\. Playboi Carti](https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Mansion Musick](https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4) | 2:46 |
 
-Snapshot ID: `auUvgAAAAAA//dVoE/2LM8x1tvRUXvUo`
+Snapshot ID: `auaBAAAAAADp98zySs5WD7ojZfsCbPOF`

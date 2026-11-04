@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Cover: Jon Pardi",
-  "num_followers": 2186726,
+  "num_followers": 2186569,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwEb40aIcA9qoVNpEV2GBB3uFt6",
+  "snapshot_id": "AAAAAGQ6VXFHLdfOpbhtKABKVXlSgShA",
   "tracks": [
     {
       "added_at": "2026-05-01 04:02:16",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 199413,
-      "name": "Ain't Nothing 'Bout You",
-      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     }
   ],
   "unique_name": "Country Gold",

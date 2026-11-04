@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,667 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,667 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 38 | [Beauty Turns Men to Beasts](https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:06 |
 | 39 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 |
 | 40 | [All Life Began in the Deep Blue Sea](https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:19 |
-| 41 | [We Must Rewild The World](https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:19 |
+| 41 | [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 |
 | 42 | [I Should Tell You My Story Myself](https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:44 |
-| 43 | [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 |
+| 43 | [We Must Rewild The World](https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:19 |
 | 44 | [Flook](https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 3:32 |
-| 45 | [Eternal Energies Of Nature](https://open.spotify.com/track/1UCmBSiJpN1keDLfWQXP0R) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:01 |
-| 46 | [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 |
-| 47 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
-| 48 | [Our Eternal Sky](https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 4:41 |
-| 49 | [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 |
-| 50 | [Out of the Emptiness](https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 5:13 |
+| 45 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
+| 46 | [Our Eternal Sky](https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Eternal Sky](https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697) | 4:41 |
+| 47 | [Eternal Energies Of Nature](https://open.spotify.com/track/1UCmBSiJpN1keDLfWQXP0R) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:01 |
+| 48 | [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 |
+| 49 | [The Shallow Seas](https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 1:51 |
+| 50 | [You Wanted a Drumstick](https://open.spotify.com/track/3M7sdV1gpPnProV5YYZGYD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:35 |
 
-Snapshot ID: `auUvgAAAAAAbEJobuxn9wbd1lHyD8vz4`
+Snapshot ID: `auaBAAAAAAC9pB4wF+xm3RbvG3bgv5I2`

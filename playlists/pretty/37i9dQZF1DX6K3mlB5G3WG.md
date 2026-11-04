@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Lucio Corsi in versione Napoleone in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,319 likes - 105 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,317 likes - 105 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 95 | [dalla testa ai piedi](https://open.spotify.com/track/1nyRq0UoHJCApQQWncXVAy) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [dalla testa ai piedi](https://open.spotify.com/album/5L8KpSdAj3vbsQdojLt7Wq) | 3:20 |
 | 96 | [Parlame D’Ammore](https://open.spotify.com/track/7EW4OysJVeJqF999PW0s1g) | [MONET](https://open.spotify.com/artist/4lA15DbyyCQ6RzappQIUyL), [Greg Rega](https://open.spotify.com/artist/6RdgqQCHmW1GUqcECiypOH) | [Parlame D’Ammore](https://open.spotify.com/album/5sNNsDSmpaapdZtj3XJaXU) | 2:25 |
 | 97 | [The Greatest Show On Earth](https://open.spotify.com/track/77uz0Ooi3ERr1WMOnaBYPb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Carnaval De Luz](https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0) | 5:34 |
-| 98 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
+| 98 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 | 99 | [uno+1](https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/32MsSrsPuTTYwJz5fZcu6e) | 2:50 |
 | 100 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 |
 | 101 | [Promise You](https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Everything, Briefly](https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf) | 2:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 104 | [Generazione](https://open.spotify.com/track/1dmuq3HyDqxuROPUM2WZvZ) | [Mauro Repetto](https://open.spotify.com/artist/5B1i0nAYVcJ4eVeySmBqr2) | [Generazione](https://open.spotify.com/album/73sSxoC5zxA9g3phVO1Zg9) | 3:07 |
 | 105 | [Day By Day](https://open.spotify.com/track/7FXMKKHbjQoOcLc2QmXRUC) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Day By Day](https://open.spotify.com/album/1t7L9QO0bPI5DzVVKl3Tfx) | 2:07 |
 
-Snapshot ID: `AAAAAIXgXveBwtuZspjnfpbtF1rPBGM5`
+Snapshot ID: `AAAAALMwSuO4V43uOJYh3yMMwIAVdhZx`

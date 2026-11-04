@@ -1,12 +1,12 @@
 {
   "description": "bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer ",
-  "num_followers": 24804,
+  "num_followers": 24807,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN38Jv6JzsLYb1Y9UsXkh+CZR79h",
+  "snapshot_id": "AAAAAI7Q5zQ/HuU2LplKd3kLAqs/MM+a",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:13",
@@ -187,7 +187,7 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "LA OBSESION, VOL. 1",
+        "name": "LA OBSESI\u00d3N",
         "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
       },
       "artists": [
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "ITALO MIXTAPE VOL. 3",
         "url": "https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 167462,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "betty boop",
-        "url": "https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt"
-      },
-      "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "Lidanza",
-          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "betty boop",
-      "url": "https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "ROKALETA!",
         "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 168058,
       "name": "ROKALETA!",
       "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "betty boop",
+        "url": "https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "Lidanza",
+          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "betty boop",
+      "url": "https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL"
     },
     {
       "added_at": "2026-09-11 06:00:13",

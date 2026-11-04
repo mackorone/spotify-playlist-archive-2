@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: KUKO",
-  "num_followers": 88598,
+  "num_followers": 88601,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANT7WEAAW/hlPBfG3VS/Vuo1nkE1",
+  "snapshot_id": "AAAAAC4naseTgqIBuqZxOFo/n3VpPYBO",
   "tracks": [
     {
       "added_at": "2026-10-16 13:00:06",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-10-16 13:00:06",
       "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 162911,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
+    },
+    {
+      "added_at": "2026-10-16 13:00:06",
+      "album": {
         "name": "INTELIGENCIA ARTESANAL",
         "url": "https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 184300,
       "name": "Perderte",
       "url": "https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij"
-    },
-    {
-      "added_at": "2026-10-16 13:00:06",
-      "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 162911,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
     },
     {
       "added_at": "2026-10-16 13:00:06",

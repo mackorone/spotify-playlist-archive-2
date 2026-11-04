@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: White 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,852 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,812 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [NAJWIĘKSZA RANA](https://open.spotify.com/track/6WzpBUrOVOvq6UtbcTTqCA) | [spazma](https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [NAJWIĘKSZA RANA](https://open.spotify.com/album/38trbeSdqzwOzZN5cFCRel) | 1:55 |
 | 50 | [Bandyckie Marki](https://open.spotify.com/track/1ytYGO3zVqYQiStIfeZyff) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [Bandyckie Marki](https://open.spotify.com/album/2eHKWNOHdHUYqgaynygj79) | 1:57 |
 
-Snapshot ID: `AAAAAAMKfYse6+tvjCn7JGRZ0xwv/w1S`
+Snapshot ID: `AAAAAHWz/U0MyTgu13HjzClLFu8CepH2`

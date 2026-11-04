@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,766 songs - 6 day 17 hr 12 min
+2,768 songs - 6 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Believe](https://open.spotify.com/track/2qfdber3ZLz2p522sTYxWM) | [Dubcitium](https://open.spotify.com/artist/3vb7BXwVSGwsLCmNnqL4AV) | [Drifter's Mind EP](https://open.spotify.com/album/58wdujL0AZOYkc0723H5Kc) | 4:43 | 2024-06-30 |  |
 | [Bem Aqui](https://open.spotify.com/track/58cEG9zXBPnEy7foqoer2I) | [Gabriel Cruz](https://open.spotify.com/artist/4ZBZ58sfWD2sYhVM1aiBKS) | [Bem Aqui](https://open.spotify.com/album/6bvmVgRYu7lAw0sNXlPIYi) | 3:53 | 2025-09-07 |  |
 | [Bending Hectic](https://open.spotify.com/track/1xnVnK5ZHZaGEZ166eFpNJ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 8:03 | 2026-10-02 |  |
+| [Beretta](https://open.spotify.com/track/0VFaEqa7TNduAhmdb2fZms) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beretta](https://open.spotify.com/album/111P7r9dUv2YyFtbvjr9Xp) | 1:55 | 2026-11-03 |  |
 | [Berimbau \(Rough Edit\)](https://open.spotify.com/track/062nEG1FnzuWrIUnThmBYr) | [DJ Fleg](https://open.spotify.com/artist/1Z7hBUE3rZfN5yjsEJRjBD) | [Berimbau \(Rough Edit\)](https://open.spotify.com/album/1i8S2umQVyQDGd2GBV7N23) | 2:06 | 2026-02-07 |  |
 | [Berlin Nights](https://open.spotify.com/track/0BPqgw7zdhIrZ09wlmLH3Q) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Berlin Nights](https://open.spotify.com/album/12xsiBP8dARKCNYqlA88f8) | 2:15 | 2024-07-08 |  |
 | [Bermimpi](https://open.spotify.com/track/0jqb9Ob2VNIPDUYzznVMsp) | [Veyn Arcanstin](https://open.spotify.com/artist/5jq2KvNMvKM3T3oOEMlzkl), [Nariya Blanche](https://open.spotify.com/artist/2Nb59R0W7uEStoWIe4mpsp), [Gigih Prayogo](https://open.spotify.com/artist/1Ayg3QEQWS3EfokPaCqccr) | [Bermimpi](https://open.spotify.com/album/7MxXY4vwu1EdoUiQRQ5Qpr) | 5:20 | 2026-04-30 |  |
@@ -276,7 +277,7 @@
 | [Bhangra Electronica](https://open.spotify.com/track/6eNmWed8ilS2dHsebVs6Bu) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Bhangra Electronica](https://open.spotify.com/album/1MDLjvDNcXlN8lqpxsYngE) | 1:52 | 2024-07-08 |  |
 | [BiancaNeve](https://open.spotify.com/track/5zSEnLifEgh7EGSmO7u5N8) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [BiancaNeve](https://open.spotify.com/album/6l9kUhEfasQTUkbCJuvhN1) | 5:04 | 2024-08-29 |  |
 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-08-24 |  |
-| [Birds](https://open.spotify.com/track/3nwAZ07oD3Qb25IcrPzvBj) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:01 | 2025-09-01 |  |
+| [Birds](https://open.spotify.com/track/3nwAZ07oD3Qb25IcrPzvBj) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:01 | 2025-09-01 | 2026-11-04 |
 | [Black and White Games](https://open.spotify.com/track/1m3UmyeZQ36ByxEXSnx9qy) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Black and White Games](https://open.spotify.com/album/1uyHVPaeSoXMKtg0fr5JQ4) | 3:04 | 2023-07-16 |  |
 | [Black Car](https://open.spotify.com/track/01nAFCJt800IIkmGwuWiWR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:11 | 2024-03-04 |  |
 | [Black Desert](https://open.spotify.com/track/0grxHZOSnWZkytzysf8aG9) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [MyDubz](https://open.spotify.com/artist/6EZFuMMFqQek31CPHhEhbY) | [Black Desert](https://open.spotify.com/album/6MdkDkJHh6xsSHIg1Ksi0M) | 3:41 | 2025-10-03 |  |
@@ -924,6 +925,7 @@
 | [Goo Goo Gaga](https://open.spotify.com/track/0am0vWs8IH4VqFZy2s4Pfs) | [Benjamin Templar](https://open.spotify.com/artist/3rmgpHJQDffxXIboT46It7) | [Goo Goo Gaga](https://open.spotify.com/album/2e0uwXwZAXZQOFOTTxZJTW) | 1:37 | 2026-05-22 |  |
 | [Good Enough](https://open.spotify.com/track/0fLDtQvw5BhgwmPe2zgOEQ) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Good Enough](https://open.spotify.com/album/1eeJcMYNLBl514AF2KM5ED) | 2:45 | 2025-06-09 |  |
 | [Goodbye](https://open.spotify.com/track/4drwARutqBFfGSHWDorifH) | [Andrew Whistler](https://open.spotify.com/artist/1wyuerQdwzNyYFMp8tyDc9) | [Goodbye](https://open.spotify.com/album/5gd6OT2GQ53tiJ8Ee9U5k8) | 3:35 | 2026-08-24 |  |
+| [Goodbye](https://open.spotify.com/track/1WwK7SV3v8QZ8ti3dYiYjW) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Goodbye](https://open.spotify.com/album/6r60MTn1LtpisoBKpJ6UkO) | 2:19 | 2026-11-03 |  |
 | [Goodbye](https://open.spotify.com/track/2VmozdG04Rzg1nwsJwOi10) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Goodbye](https://open.spotify.com/album/11VEbc2aRfahpmOloNyRjX) | 2:19 | 2026-02-05 |  |
 | [Goodbye Love](https://open.spotify.com/track/5iSPBKBJhRbhm4mvCvcGIT) | [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Borrowed Trouble](https://open.spotify.com/album/3ZniMuIdI6cbuSFJyC4jHe) | 3:43 | 2025-07-02 |  |
 | [Goodbyes](https://open.spotify.com/track/2DIm16Db0DLjItmIBQgyIK) | [Random Anthem](https://open.spotify.com/artist/4OpTBujVkFk2UHjNz63Ou1) | [Goodbyes](https://open.spotify.com/album/57L4nw8EjLLRdFQZgzts8I) | 4:19 | 2026-08-19 |  |
@@ -1333,7 +1335,7 @@
 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 | 2025-12-12 |  |
 | [Legal \- Professor Skank Remix](https://open.spotify.com/track/1xNI4yxzus7PVTJbauA8tA) | [Mr Zebre](https://open.spotify.com/artist/3y7HySXXsJL04wmIQfrEPD), [Rebel\-I](https://open.spotify.com/artist/5sk0yYZNTRXG1Ph14bpSVu) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:52 | 2024-03-23 |  |
 | [Leggera](https://open.spotify.com/track/1DBVYfntIhxnP3Id67tw62) | [SAM D](https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr) | [Leggera](https://open.spotify.com/album/6830m8vrvafqg1U3wi1ktW) | 2:47 | 2026-06-30 |  |
-| [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [Lemon](https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX) | 3:03 | 2025-07-23 |  |
+| [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [Lemon](https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX) | 3:03 | 2025-07-23 | 2026-11-04 |
 | [Lerángatom](https://open.spotify.com/track/74tCgVZubxx6IhyqzbiHEV) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Lerángatom](https://open.spotify.com/album/5VRS1aoC0tqBNxJl5StxxC) | 4:15 | 2026-03-12 |  |
 | [Lest I Go Astray](https://open.spotify.com/track/1VnGMx6nCM3sDpxLMVTYIq) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:30 | 2024-03-25 |  |
 | [Let It Fall](https://open.spotify.com/track/45XRnGazqr7ZCtvsX5katg) | [Monsterito](https://open.spotify.com/artist/6jdAXbO9amhiBXY265he2V) | [Let It Fall](https://open.spotify.com/album/6HT7rnTEJ83jR7dMxu2bQs) | 3:48 | 2025-06-22 |  |
@@ -1650,7 +1652,7 @@
 | [Nieład](https://open.spotify.com/track/783FpVzfgZ7odINgFMNTS3) | [Sierpu](https://open.spotify.com/artist/3KMXxgdgbehB8ELRqunraF) | [Nieład](https://open.spotify.com/album/2Dugjb0uZBqmWrgbQHrBGf) | 2:45 | 2026-06-25 |  |
 | [Night Crane](https://open.spotify.com/track/4FD48eynO8XoG9Zn6nVzQr) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:19 | 2026-07-15 |  |
 | [Night in Blue](https://open.spotify.com/track/3Oz0sNwPoqSdWnnpehCT7T) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Night in Blue](https://open.spotify.com/album/4MzNvJ1ZT60rEzgk7d6TLY) | 2:47 | 2022-10-24 |  |
-| [Night Shift](https://open.spotify.com/track/0UUfMuJyyosW5EQNtYPVWz) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Night Shift](https://open.spotify.com/album/6QJICO8aIvLQWjfa58PlpN) | 2:12 | 2025-09-15 |  |
+| [Night Shift](https://open.spotify.com/track/0UUfMuJyyosW5EQNtYPVWz) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Night Shift](https://open.spotify.com/album/6QJICO8aIvLQWjfa58PlpN) | 2:12 | 2025-09-15 | 2026-11-04 |
 | [Night Spiral](https://open.spotify.com/track/04R6sCNhelPB7fjEviIWMi) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:50 | 2026-05-20 |  |
 | [Night Spiral](https://open.spotify.com/track/2oXsJlp3ty1HXl3hX3oecT) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Night Spiral](https://open.spotify.com/album/1nDDkjeD8ir66Ye4J0lSP9) | 2:50 | 2026-02-20 |  |
 | [Night Spiral](https://open.spotify.com/track/5RFUOzCL5emkf3sunN7EJ5) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/5V5cUUspJURphxsqS39T0d) | 2:50 | 2026-10-28 |  |
@@ -2185,7 +2187,7 @@
 | [Space X](https://open.spotify.com/track/387FtDh7ZIbIwgXBfdfPmY) | [Cinco Dois Zero](https://open.spotify.com/artist/44HTfgo1d0O6reBV1z8YVO), [Nabala](https://open.spotify.com/artist/0PzBs4y6dIkzxs8cJczopM), [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp), [Liu Danger](https://open.spotify.com/artist/0LQetgRtKnELT97tMBN7Hb), [Yan Nader](https://open.spotify.com/artist/0eDUVIpntIqofaWpnCFKUw) | [Space X](https://open.spotify.com/album/7ICLez2eWGoMPp7zPS0AV6) | 2:12 | 2026-10-01 |  |
 | [Spark](https://open.spotify.com/track/1ZlPAx2KLngbbtM4zozoDV) | [View Into](https://open.spotify.com/artist/0knJzCXevzATs6yEPaY57P) | [Spark](https://open.spotify.com/album/4sjOtEXPGOm9shZRyIRgFl) | 3:36 | 2025-10-03 | 2026-08-27 |
 | [Sparkle's Silly Spire](https://open.spotify.com/track/6IRxLQuWotxsfNgT7N3DlU) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 3:41 | 2026-01-09 |  |
-| [Spatial \(Sped\-Up\)](https://open.spotify.com/track/07T5JPdHkKfZwLSWe2RYMh) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial \(Sped\-Up\)](https://open.spotify.com/album/3lvS4ndM1mNnIz27edwC6K) | 1:52 | 2025-09-11 |  |
+| [Spatial \(Sped\-Up\)](https://open.spotify.com/track/07T5JPdHkKfZwLSWe2RYMh) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial \(Sped\-Up\)](https://open.spotify.com/album/3lvS4ndM1mNnIz27edwC6K) | 1:52 | 2025-09-11 | 2026-11-04 |
 | [Spiagge Da Ricordare](https://open.spotify.com/track/57uLIl5NnkVcxIbNk6vrsI) | [SerJo](https://open.spotify.com/artist/2g8FSG3mP5OQIL9kJ4qe48) | [Spiagge Da Ricordare](https://open.spotify.com/album/7aMz8XWo7o3nbZSUWxPOWg) | 2:59 | 2024-07-28 |  |
 | [Spiagge Da Ricordare](https://open.spotify.com/track/7rrd9fLMzCRaa1lBQzyleO) | [SerJo](https://open.spotify.com/artist/2g8FSG3mP5OQIL9kJ4qe48) | [Spiagge Da Ricordare](https://open.spotify.com/album/1Gf1MwCAORghbfN0lNw2ts) | 2:59 | 2024-06-13 |  |
 | [Spiagge di sera](https://open.spotify.com/track/6haNxnzWguHh9GTUEdxGpd) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Spiagge di sera](https://open.spotify.com/album/6HYwlCAWsWl2T1tglIkc13) | 2:36 | 2024-06-05 |  |

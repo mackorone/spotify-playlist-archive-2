@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 790444,
+  "num_followers": 790467,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACG1ejC9J7zXpa1HFe6P5bBMFhR/",
+  "snapshot_id": "AAAAADCftXzva2hDRdaiCjnOixL8cwGB",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:36",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
+        "name": "Just Be Good To Me",
+        "url": "https://open.spotify.com/album/3iWzrqktRWTbz4XlYlvPjw"
+      },
+      "artists": [
+        {
+          "name": "Baccus",
+          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Just Be Good To Me",
+      "url": "https://open.spotify.com/track/5mdFJPMK2JoLCnTtdCbF9c"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "Just Be Good To Me",
-        "url": "https://open.spotify.com/album/3iWzrqktRWTbz4XlYlvPjw"
-      },
-      "artists": [
-        {
-          "name": "Baccus",
-          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Just Be Good To Me",
-      "url": "https://open.spotify.com/track/5mdFJPMK2JoLCnTtdCbF9c"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
-        "name": "The Night Trip",
-        "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
-      },
-      "artists": [
-        {
-          "name": "Supernova",
-          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
-        }
-      ],
-      "duration_ms": 206207,
-      "name": "Velvet Avenue",
-      "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 284886,
       "name": "Fresh - House of Prayers Poolside Edit",
       "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
+        "name": "The Night Trip",
+        "url": "https://open.spotify.com/album/3VZvOCAB238uicvonx2U95"
+      },
+      "artists": [
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG"
+        }
+      ],
+      "duration_ms": 206207,
+      "name": "Velvet Avenue",
+      "url": "https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "Pull Together",
-        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Pull Together",
-      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 166875,
       "name": "Promises",
       "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
+        "name": "Pull Together",
+        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Pull Together",
+      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 204366,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 226929,
       "name": "So High",
       "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 204366,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -1727,6 +1727,30 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m"
+      },
+      "artists": [
+        {
+          "name": "Tasty Or Not",
+          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
+        },
+        {
+          "name": "Cees",
+          "url": "https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg"
+        },
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
       },
@@ -1743,6 +1767,22 @@
       "duration_ms": 230942,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
+        "name": "Wait a Minute",
+        "url": "https://open.spotify.com/album/0VkQiKfl4oNxTKyg0KZv84"
+      },
+      "artists": [
+        {
+          "name": "Boy Amor",
+          "url": "https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E"
+        }
+      ],
+      "duration_ms": 191831,
+      "name": "Wait a Minute",
+      "url": "https://open.spotify.com/track/51lcxxsEMecGzj3aCT0LX8"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -1791,46 +1831,6 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m"
-      },
-      "artists": [
-        {
-          "name": "Tasty Or Not",
-          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
-        },
-        {
-          "name": "Cees",
-          "url": "https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg"
-        },
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
-        "name": "Wait a Minute",
-        "url": "https://open.spotify.com/album/0VkQiKfl4oNxTKyg0KZv84"
-      },
-      "artists": [
-        {
-          "name": "Boy Amor",
-          "url": "https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E"
-        }
-      ],
-      "duration_ms": 191831,
-      "name": "Wait a Minute",
-      "url": "https://open.spotify.com/track/51lcxxsEMecGzj3aCT0LX8"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "Simmer",
-        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -2063,6 +2047,26 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
+        "name": "SUBURBIA (after dark)",
+        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "california",
+      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
         "name": "If You Need Me",
         "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
       },
@@ -2087,22 +2091,18 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "SUBURBIA (after dark)",
-        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+        "name": "Simmer",
+        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
         }
       ],
-      "duration_ms": 208200,
-      "name": "california",
-      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+      "duration_ms": 157906,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -2167,26 +2167,18 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
+        "name": "summer in the city",
+        "url": "https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        },
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
         }
       ],
-      "duration_ms": 230064,
-      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+      "duration_ms": 174197,
+      "name": "summer in the city",
+      "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -2211,18 +2203,26 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "summer in the city",
-        "url": "https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr"
+        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
       "artists": [
         {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         }
       ],
-      "duration_ms": 174197,
-      "name": "summer in the city",
-      "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
+      "duration_ms": 230064,
+      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
     },
     {
       "added_at": "2026-10-16 04:01:36",
@@ -2283,30 +2283,6 @@
     {
       "added_at": "2026-10-16 04:01:36",
       "album": {
-        "name": "Sing It Back (feat. Dana Williams)",
-        "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Sing It Back (feat. Dana Williams)",
-      "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
-    },
-    {
-      "added_at": "2026-10-16 04:01:36",
-      "album": {
         "name": "Turn Up The Love (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1"
       },
@@ -2327,6 +2303,30 @@
       "duration_ms": 225083,
       "name": "Turn Up The Love - Roosevelt Remix",
       "url": "https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI"
+    },
+    {
+      "added_at": "2026-10-16 04:01:36",
+      "album": {
+        "name": "Sing It Back (feat. Dana Williams)",
+        "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Sing It Back (feat. Dana Williams)",
+      "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
     },
     {
       "added_at": "2026-10-16 04:01:36",

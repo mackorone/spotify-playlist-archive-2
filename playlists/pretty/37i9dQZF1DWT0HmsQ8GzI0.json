@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 17124,
+  "num_followers": 17128,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEqbEYnhZl2vc/Ou+yx0rfgtyBPb",
+  "snapshot_id": "AAAAAFsRiRVG0qt8jFEp9LtSHvMK4qfO",
   "tracks": [
     {
       "added_at": "2026-09-18 15:19:05",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "\u00c9rkez\u0151s Indul\u00f3",
-        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+        "name": "\u00daszunk az \u00e1rral",
+        "url": "https://open.spotify.com/album/1EtIyDqDAdNQc7LbZmGrku"
       },
       "artists": [
         {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 247246,
-      "name": "\u00c9rkez\u0151s Indul\u00f3",
-      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
+      "duration_ms": 169500,
+      "name": "\u00daszunk az \u00e1rral",
+      "url": "https://open.spotify.com/track/6nHlJ0Iq3lGzggoQ3v1OHj"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "\u00daszunk az \u00e1rral",
-        "url": "https://open.spotify.com/album/1EtIyDqDAdNQc7LbZmGrku"
+        "name": "\u00c9rkez\u0151s Indul\u00f3",
+        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
       },
       "artists": [
         {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
         }
       ],
-      "duration_ms": 169500,
-      "name": "\u00daszunk az \u00e1rral",
-      "url": "https://open.spotify.com/track/6nHlJ0Iq3lGzggoQ3v1OHj"
+      "duration_ms": 247246,
+      "name": "\u00c9rkez\u0151s Indul\u00f3",
+      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "LAKKATLAN SZEEGET",
-        "url": "https://open.spotify.com/album/5AtXdTEllUA0nbKhC1iyQI"
-      },
-      "artists": [
-        {
-          "name": "cibi",
-          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
-        },
-        {
-          "name": "ROSE MAY",
-          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "DONEKIRK",
-      "url": "https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Az a szerelem",
         "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 174529,
       "name": "Sehovaval\u00f3",
       "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "LAKKATLAN SZEEGET",
+        "url": "https://open.spotify.com/album/5AtXdTEllUA0nbKhC1iyQI"
+      },
+      "artists": [
+        {
+          "name": "cibi",
+          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
+        },
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "DONEKIRK",
+      "url": "https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 205688,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "Jazzbois Around The World",
         "url": "https://open.spotify.com/album/0NckwWyCO69wyU3JM7v3PN"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 152984,
       "name": "Escondites",
       "url": "https://open.spotify.com/track/3eaTbDqn8wAbKvhbK2j0Nd"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 205688,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "buligyilkos",
+        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 178838,
+      "name": "buligyilkos",
+      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "Vadnyugati",
         "url": "https://open.spotify.com/album/2HOkcyEGG8wrf8bGrLdj1O"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "buligyilkos",
-        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
+        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 178838,
-      "name": "buligyilkos",
-      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
+      "duration_ms": 259624,
+      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1143,22 +1159,6 @@
       "duration_ms": 201000,
       "name": "z\u00fagj sz\u00e9l",
       "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 259624,
-      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
     },
     {
       "added_at": "2026-09-18 15:19:05",

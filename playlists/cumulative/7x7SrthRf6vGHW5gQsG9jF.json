@@ -17447,6 +17447,24 @@
     },
     {
       "album": {
+        "name": "\u53cb\u9054\u304c\u3044\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq"
+      },
+      "artists": [
+        {
+          "name": "Trooper Salute",
+          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390101,
+      "name": "\u7d76\u7e01",
+      "url": "https://open.spotify.com/track/4hTJX80GPyvoWHf720OegJ"
+    },
+    {
+      "album": {
         "name": "\u7dba\u9e97\u306a\u4e09\u89d2\u3001\u671d\u65e5\u306b\u3093\u3052\u3093",
         "url": "https://open.spotify.com/album/2IJowY1E7q1WzIsRTmshja"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 499160,
+  "num_followers": 499153,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHppDEqVrGeuvWfXHoC6Yg3rFsI",
+  "snapshot_id": "AAAAAPmXuI6TzKBU8zw9Yn4kqOhE7pWo",
   "tracks": [
     {
       "added_at": "2026-10-22 22:00:27",
@@ -132,7 +132,7 @@
       },
       "artists": [
         {
-          "name": "F\u00e4aschtb\u00e4nkler",
+          "name": "F\u00e4aschtB\u00e4nkler",
           "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
         }
       ],
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-10-22 22:00:27",
       "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2026-10-22 22:00:27",
+      "album": {
         "name": "Sie ist 18",
         "url": "https://open.spotify.com/album/13TwPT83BSHLP4DuxeX1KP"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2026-10-22 22:00:27",
       "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+        "name": "Gute Laune",
+        "url": "https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj"
       },
       "artists": [
         {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
         }
       ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+      "duration_ms": 175790,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f"
     },
     {
       "added_at": "2026-10-22 22:00:27",
@@ -479,22 +495,6 @@
     {
       "added_at": "2026-10-22 22:00:27",
       "album": {
-        "name": "Gute Laune",
-        "url": "https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj"
-      },
-      "artists": [
-        {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
-        }
-      ],
-      "duration_ms": 175790,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f"
-    },
-    {
-      "added_at": "2026-10-22 22:00:27",
-      "album": {
         "name": "Dachdecker",
         "url": "https://open.spotify.com/album/6txza9JeDWBc1MhyXu5vRi"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 201103,
       "name": "Dachdecker",
       "url": "https://open.spotify.com/track/3cfI9iCdGgHTCxiZa6Q9AC"
+    },
+    {
+      "added_at": "2026-10-22 22:00:27",
+      "album": {
+        "name": "Es ist Zeit",
+        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Tirol",
+      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
     },
     {
       "added_at": "2026-10-22 22:00:27",
@@ -527,22 +543,6 @@
       "duration_ms": 205842,
       "name": "Handwerker",
       "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
-    },
-    {
-      "added_at": "2026-10-22 22:00:27",
-      "album": {
-        "name": "Es ist Zeit",
-        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Tirol",
-      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
     },
     {
       "added_at": "2026-10-22 22:00:27",
@@ -867,22 +867,18 @@
     {
       "added_at": "2026-10-22 22:00:27",
       "album": {
-        "name": "Gianna",
-        "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
+        "name": "Dieter (Der LKW Song)",
+        "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
       },
       "artists": [
         {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        },
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+          "name": "Malle Anja",
+          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
         }
       ],
-      "duration_ms": 155215,
-      "name": "Gianna",
-      "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
+      "duration_ms": 190849,
+      "name": "Dieter (Der LKW Song)",
+      "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
     },
     {
       "added_at": "2026-10-22 22:00:27",
@@ -903,18 +899,22 @@
     {
       "added_at": "2026-10-22 22:00:27",
       "album": {
-        "name": "Dieter (Der LKW Song)",
-        "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
+        "name": "Gianna",
+        "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
       },
       "artists": [
         {
-          "name": "Malle Anja",
-          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        },
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
         }
       ],
-      "duration_ms": 190849,
-      "name": "Dieter (Der LKW Song)",
-      "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
+      "duration_ms": 155215,
+      "name": "Gianna",
+      "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
     },
     {
       "added_at": "2026-10-22 22:00:27",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2026-10-22 22:00:27",
       "album": {
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2026-10-22 22:00:27",
+      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -1247,30 +1271,6 @@
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
-    },
-    {
-      "added_at": "2026-10-22 22:00:27",
-      "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     },
     {
       "added_at": "2026-10-22 22:00:27",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-10-22 22:00:27",
       "album": {
+        "name": "Karnevalsmaus",
+        "url": "https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K"
+      },
+      "artists": [
+        {
+          "name": "Druckluft",
+          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
+        }
+      ],
+      "duration_ms": 193884,
+      "name": "Karnevalsmaus",
+      "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
+    },
+    {
+      "added_at": "2026-10-22 22:00:27",
+      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 216286,
       "name": "Wir eskalieren",
       "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
-    },
-    {
-      "added_at": "2026-10-22 22:00:27",
-      "album": {
-        "name": "Karnevalsmaus",
-        "url": "https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K"
-      },
-      "artists": [
-        {
-          "name": "Druckluft",
-          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
-        }
-      ],
-      "duration_ms": 193884,
-      "name": "Karnevalsmaus",
-      "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
     },
     {
       "added_at": "2026-10-22 22:00:27",

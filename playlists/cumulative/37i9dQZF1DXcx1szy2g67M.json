@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 185031,
       "name": "A Higher Love",
       "url": "https://open.spotify.com/track/1H7rWyKOKEWlF7C6QP4RKs"
@@ -5921,7 +5921,7 @@
     },
     {
       "album": {
-        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
       },
       "artists": [
@@ -5950,7 +5950,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224877,
-      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
@@ -9512,6 +9512,24 @@
       "duration_ms": 191357,
       "name": "Kom Je Me Halen",
       "url": "https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3"
+    },
+    {
+      "album": {
+        "name": "Kom Naar Huis",
+        "url": "https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl"
+      },
+      "artists": [
+        {
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "Kom Naar Huis",
+      "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
     },
     {
       "album": {
@@ -14596,7 +14614,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 149743,
       "name": "Rozen & Blaadjes",
       "url": "https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR"
@@ -19244,6 +19262,28 @@
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "album": {
+        "name": "What If I Told You",
+        "url": "https://open.spotify.com/album/2VeXDmD0M2LImNl3t3LwwA"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174407,
+      "name": "What If I Told You",
+      "url": "https://open.spotify.com/track/1vyW6Xjn8fWDJaMSKGIX7U"
     },
     {
       "album": {

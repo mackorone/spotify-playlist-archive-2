@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153620,
+  "num_followers": 153621,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI9OmFXwHZ9V41PShbW33SCEm/If",
+  "snapshot_id": "AAAAAKlD+mEmaUcrC7Jeb6MFF4BxtAXv",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:07",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "I'm Coming Home (Big Gulps)",
-        "url": "https://open.spotify.com/album/3UypOMMWtWmkozVQ27deln"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 160271,
-      "name": "I'm Coming Home (Big Gulps)",
-      "url": "https://open.spotify.com/track/5gicnqs115n4zT8VX4weqd"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "SIDEQUEST",
         "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 178600,
       "name": "enough",
       "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "I'm Coming Home (Big Gulps)",
+        "url": "https://open.spotify.com/album/3UypOMMWtWmkozVQ27deln"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 160271,
+      "name": "I'm Coming Home (Big Gulps)",
+      "url": "https://open.spotify.com/track/5gicnqs115n4zT8VX4weqd"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Dislocate",
-        "url": "https://open.spotify.com/album/3Zneuvz5t1O7cZ0NuTCIfd"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Dislocate",
-      "url": "https://open.spotify.com/track/4KKh6w0WLsV5wO87gQJMF4"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Bender (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/5vKJnMy2A7hDkbWffp5vek"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 170551,
       "name": "Bender (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/78APbsosmvDYIwZHjzC5ZE"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Dislocate",
+        "url": "https://open.spotify.com/album/3Zneuvz5t1O7cZ0NuTCIfd"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Dislocate",
+      "url": "https://open.spotify.com/track/4KKh6w0WLsV5wO87gQJMF4"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Silverline",
-        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Silverline",
-      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
+        "name": "Silverline",
+        "url": "https://open.spotify.com/album/0OmWHv7RbUlhFD1xJdxkEF"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 175037,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
+      "duration_ms": 180500,
+      "name": "Silverline",
+      "url": "https://open.spotify.com/track/5GhtKpX3Qbm9uo6kPMrdp9"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -639,6 +623,22 @@
       "duration_ms": 187596,
       "name": "spite",
       "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 175037,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Ugly and Rotten",
+        "url": "https://open.spotify.com/album/3yzjllwbnDV0UYkSN1lotP"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 169953,
+      "name": "Ugly and Rotten",
+      "url": "https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Ugly and Rotten",
-        "url": "https://open.spotify.com/album/3yzjllwbnDV0UYkSN1lotP"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
       },
       "artists": [
         {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 169953,
-      "name": "Ugly and Rotten",
-      "url": "https://open.spotify.com/track/5hzzV3Obinhe4peRvsiW75"
+      "duration_ms": 204613,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "NEXT2U",
-        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+        "name": "Yours (feat. Bea Miller)",
+        "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 196508,
-      "name": "NEXT2U",
-      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
+      "duration_ms": 177188,
+      "name": "Yours (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -859,22 +863,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Yours (feat. Bea Miller)",
-        "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 177188,
-      "name": "Yours (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Goals",
+        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Afterthought",
         "url": "https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
       },
       "artists": [
         {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1531,22 +1547,6 @@
       "duration_ms": 171294,
       "name": "Hell With Me (feat. Steve Aoki)",
       "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Rock A Bye Baby",
-        "url": "https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 170579,
-      "name": "Rock A Bye Baby",
-      "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF"
       },
@@ -1895,6 +1879,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Rock A Bye Baby",
+        "url": "https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Rock A Bye Baby",
+      "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -1907,22 +1907,6 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Holy Roller",
-        "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
-      },
-      "artists": [
-        {
-          "name": "The Format",
-          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
-        }
-      ],
-      "duration_ms": 235532,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1943,6 +1927,22 @@
       "duration_ms": 158423,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Holy Roller",
+        "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
+      },
+      "artists": [
+        {
+          "name": "The Format",
+          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
+        }
+      ],
+      "duration_ms": 235532,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Something of Wonder",
+        "url": "https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV"
+      },
+      "artists": [
+        {
+          "name": "World's First Cinema",
+          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
+        }
+      ],
+      "duration_ms": 183617,
+      "name": "Hold My Own",
+      "url": "https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -2047,22 +2063,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Something of Wonder",
-        "url": "https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV"
-      },
-      "artists": [
-        {
-          "name": "World's First Cinema",
-          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
-        }
-      ],
-      "duration_ms": 183617,
-      "name": "Hold My Own",
-      "url": "https://open.spotify.com/track/6PMgYr9zbgKvtOOimQswIA"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
       },
@@ -2075,22 +2075,6 @@
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2111,6 +2095,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Wisconsin",
         "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
       },
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Both Ways",
         "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 186779,
       "name": "Both Ways",
       "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Say That You Love Me",
-        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
-      },
-      "artists": [
-        {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
-        }
-      ],
-      "duration_ms": 142596,
-      "name": "Young Broke",
-      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
       },
@@ -2255,18 +2239,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "love that kills",
-        "url": "https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl"
+        "name": "Say That You Love Me",
+        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
       },
       "artists": [
         {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
         }
       ],
-      "duration_ms": 184655,
-      "name": "love that kills",
-      "url": "https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU"
+      "duration_ms": 142596,
+      "name": "Young Broke",
+      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2291,18 +2275,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Red Lights / Ireland",
-        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
+        "name": "love that kills",
+        "url": "https://open.spotify.com/album/5oAVVi8uyllcpSr5N9bwDl"
       },
       "artists": [
         {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+      "duration_ms": 184655,
+      "name": "love that kills",
+      "url": "https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2319,6 +2303,22 @@
       "duration_ms": 181393,
       "name": "Daughter of the Night",
       "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Red Lights / Ireland",
+        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
-      },
-      "artists": [
-        {
-          "name": "The Foxies",
-          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
-        }
-      ],
-      "duration_ms": 224504,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Death Grip",
         "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 191292,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XYjrMXWhRDJWLuM6PaUfr"
+      },
+      "artists": [
+        {
+          "name": "The Foxies",
+          "url": "https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd"
+        }
+      ],
+      "duration_ms": 224504,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/0KD0CHXVBHf7vxXIRxKmJn"
     },
     {
       "added_at": "2026-09-25 04:03:07",

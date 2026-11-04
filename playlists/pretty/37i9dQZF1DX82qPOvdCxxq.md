@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Leslie Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,680 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,707 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [Younger Days](https://open.spotify.com/track/5cxYW5l0N2Zw5V6ha1ME4j) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj), [Reagan James Broome](https://open.spotify.com/artist/7kkQ22G3EbGp4814OpVEyx) | [Younger Days](https://open.spotify.com/album/6TpOtiUS1oU0mnQWQ4HQwC) | 3:18 |
 | 75 | [SHOUT TO THE MOON](https://open.spotify.com/track/7MAXikDmj42EcL3HSak5Ki) | [Myles Maestro](https://open.spotify.com/artist/5u2fFFwd5O5KivnDHrYWg3) | [SHOUT TO THE MOON](https://open.spotify.com/album/6ON7L1dBSF1hpczomYymSz) | 3:38 |
 
-Snapshot ID: `AAAAAPDE7BmHCdg0SYnQwAqyJgt5iPEa`
+Snapshot ID: `AAAAAD7s1InNHqz8Jbqw2hOjRK8ldyFF`

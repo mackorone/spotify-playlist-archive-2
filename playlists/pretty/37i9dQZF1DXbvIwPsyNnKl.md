@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: SCOOP DOGG
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,332 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,527 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [2RARE \(feat\. Rjay Ty\)](https://open.spotify.com/track/3qx8Em06TXzybe6uXYGlIc) | [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [2RARE \(feat\. Rjay Ty\)](https://open.spotify.com/album/1yxMYncEzuI97jWp30tKZh) | 3:44 |
 | 50 | [Millionz](https://open.spotify.com/track/35nnC1CkiFCnfhCuEIfJQx) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Millionz](https://open.spotify.com/album/1i6350vDfRmlOozvH0OZQr) | 3:02 |
 
-Snapshot ID: `AAAAAD4qkaOc9imCifpLJy899eRnQms8`
+Snapshot ID: `AAAAAJdsEj7qIyxfErSFZJdYVPm7Q5sL`

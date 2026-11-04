@@ -1,12 +1,12 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 31935,
+  "num_followers": 31990,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPR6pU4DwD2v0SXoyaTQ0lmQzmWO",
+  "snapshot_id": "AAAAABnIMwN5f9Jnia0lu0LiUrCp51Da",
   "tracks": [
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "You Bad (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "B.O.A.T.S",
         "url": "https://open.spotify.com/album/4t9ZrRyO7t5Mh357L14CJh"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 339823,
       "name": "Beyonc\u00e9 Baby",
       "url": "https://open.spotify.com/track/1pTzmXKH3AgzFH8ehiOUQr"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Mushin 2 Mo' Hits",
-        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "You Bad (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
     },
     {
       "added_at": "2026-06-30 14:51:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,785 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,812 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 79 | [What's Love Got to Do with It](https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:46 |
 | 80 | [Pearl's A Singer](https://open.spotify.com/track/6abvu3x6fUlOniPRF8WCII) | [Elkie Brooks](https://open.spotify.com/artist/4Xn6fPXDrarY8LxXWqlE2M) | [Two Days Away](https://open.spotify.com/album/0Kl3JrLb3PocSPu4jdGuRa) | 3:38 |
 
-Snapshot ID: `AAAAANEuVRAS47dxITORKm/j6AAqWa26`
+Snapshot ID: `AAAAAF+xMHcwVDQM1yt6TqyPQ0q9CyVq`

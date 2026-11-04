@@ -71,6 +71,32 @@
     },
     {
       "album": {
+        "name": "7 Miles High (Remixes)",
+        "url": "https://open.spotify.com/album/7GWVbCdjUvFsEuih2rAmdF"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        },
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176619,
+      "name": "7 Miles High - Alex Adair Remix",
+      "url": "https://open.spotify.com/track/6Ebc4VvnhTT0ybFavZrhs0"
+    },
+    {
+      "album": {
         "name": "Error5 EP",
         "url": "https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2"
       },

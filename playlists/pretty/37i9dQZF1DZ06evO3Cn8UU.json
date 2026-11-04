@@ -1,6 +1,6 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 39710,
+  "num_followers": 39715,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephanie",
-        "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 283720,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 199480,
       "name": "Where Are All My Friends (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1h6KiZutaBzWoWvMXB8sg0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 283720,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
     },
     {
       "added_at": null,

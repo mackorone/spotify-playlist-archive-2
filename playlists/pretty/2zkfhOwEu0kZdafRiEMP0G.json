@@ -6,7 +6,7 @@
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAHO+d3XIFwxfsg90uCgdYXAioo6e34",
+  "snapshot_id": "AAAHPMRULbs3vgSZb+/8BQ/ghw0VqU/C",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -1163,6 +1163,30 @@
       "duration_ms": 269861,
       "name": "Deep",
       "url": "https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5"
+    },
+    {
+      "added_at": "2026-11-04 03:00:55",
+      "album": {
+        "name": "RENT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lohr",
+          "url": "https://open.spotify.com/artist/7kpYFxC5CpMUjfXtOGOrvR"
+        },
+        {
+          "name": "Wayne Wilcox",
+          "url": "https://open.spotify.com/artist/76Yo2sJEDEDN98LZddkGC1"
+        },
+        {
+          "name": "Cast of the Motion Picture RENT",
+          "url": "https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Will I",
+      "url": "https://open.spotify.com/track/0OuPMjmicFfmnB3SFFqdgQ"
     }
   ],
   "unique_name": "idek man",

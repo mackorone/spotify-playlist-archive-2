@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ADOY\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,837 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,816 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Lay Down On The Grass](https://open.spotify.com/track/1cJVKdpYK4NC1CTS8orbku) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Lay Down On The Grass](https://open.spotify.com/album/1zHEeHFycWb8DjP2eS9xIf) | 3:40 |
 | 50 | [Asymmetry Complex](https://open.spotify.com/track/60FUJwYyVrX9l8F3xrSHuB) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Asymmetry Complex](https://open.spotify.com/album/5UjkgZ3cwvq5Ly1wgs3DVP) | 2:12 |
 
-Snapshot ID: `AAAAAJeSG+Dg8mOIxYANLu7pbHsNPkHs`
+Snapshot ID: `AAAAAMV63W9UKLKiIQatyHH6bq9rgYMG`

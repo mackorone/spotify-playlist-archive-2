@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 276112,
+  "num_followers": 276124,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANrHKURAgfMJu7j5jnN5OfDJpp/l",
+  "snapshot_id": "AAAAACqUfrzb9dDPEC74E1j1KIgeBpFK",
   "tracks": [
     {
       "added_at": "2024-08-23 04:59:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Los Pobres Tambien LLoran",
-      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Tonto Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 284706,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Los Pobres Tambien LLoran",
+      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Vine a Decirte Adios",
-        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "Vine A Decirte Adios",
-      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Antes de Ti",
         "url": "https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 207187,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Vine a Decirte Adios",
+        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 277453,
+      "name": "Vine A Decirte Adios",
+      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
     },
     {
       "added_at": "2024-08-23 04:59:00",

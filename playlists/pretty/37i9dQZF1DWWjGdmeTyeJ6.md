@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\.  Featuring Midrfit\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,933 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,801 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [old days.](https://open.spotify.com/track/1tWHKQ4WZMn2nwWX05MIyM) | [tabü](https://open.spotify.com/artist/1vGMG20PythFPSm6K1aryq) | [old days.](https://open.spotify.com/album/1fO2yjSRwyBTnaIgmVHFVh) | 1:46 |
 | 100 | [MONDAY TO SUNDAY](https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [MONDAY TO SUNDAY](https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu) | 3:07 |
 
-Snapshot ID: `AAAAANURdcSTbwQfjHIXxCgk9dySM92O`
+Snapshot ID: `AAAAAFYX13gZK3dcjPCu0qj2FqeYI+sg`

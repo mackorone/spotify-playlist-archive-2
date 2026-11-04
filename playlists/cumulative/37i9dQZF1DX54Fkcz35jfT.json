@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: MAN WITH A MISSION",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: ONE OK ROCK",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Unreleased Collection - Japan Exclusive",
+        "url": "https://open.spotify.com/album/4e6mApFhKsMODo9xT95sMY"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217527,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3xXoUdsKqust8edzZFQxAD"
+    },
+    {
+      "album": {
         "name": "Find the Color",
         "url": "https://open.spotify.com/album/3dkrBUezNTBmQqvtQjqW3i"
       },
@@ -2240,10 +2258,28 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 233122,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb"
+    },
+    {
+      "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/19fOeNIS4WzLdMfl1ngb7N"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234766,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/3PkVsdTPpvE1E9YpyNKybm"
     },
     {
       "album": {
@@ -3892,7 +3928,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 220826,
       "name": "Liberator",
       "url": "https://open.spotify.com/track/2dXc1QR4mD7jahydVs2CBc"
@@ -5756,7 +5792,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 226272,
       "name": "RE:PLAY",
       "url": "https://open.spotify.com/track/3eLFfCz26lmzVTGUUtHWfB"
@@ -6182,7 +6218,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
@@ -6714,6 +6750,24 @@
       "duration_ms": 229105,
       "name": "Spicy Queen",
       "url": "https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn"
+    },
+    {
+      "album": {
+        "name": "SPIN",
+        "url": "https://open.spotify.com/album/0O2KymxU4WJLifb6fJK7Xd"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "SPIN",
+      "url": "https://open.spotify.com/track/1JiI5Qkmvc2UZ5WJy7dYTM"
     },
     {
       "album": {
@@ -7368,7 +7422,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 285700,
       "name": "THE LAST ROCKSTARS - PARIS MIX",
       "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
@@ -8382,6 +8436,24 @@
       "duration_ms": 241000,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/1oe5T289Oiv3s6a2QAxAyr"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30b7\u30c7\u30de\u30c8\u30a4",
+        "url": "https://open.spotify.com/album/10IYBJneL1Ke2F4LhO68tS"
+      },
+      "artists": [
+        {
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335960,
+      "name": "\u30a2\u30b7\u30c7\u30de\u30c8\u30a4",
+      "url": "https://open.spotify.com/track/7bJvn5SFOWN17OnAjczSsW"
     },
     {
       "album": {
@@ -9714,6 +9786,24 @@
       "duration_ms": 190093,
       "name": "\u8703\u6c17\u697c",
       "url": "https://open.spotify.com/track/2K2fKGu0wJuByM2dTBTUsr"
+    },
+    {
+      "album": {
+        "name": "ANN",
+        "url": "https://open.spotify.com/album/0Bp89zzmedU8dAxiuMoyDT"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u3068\u79c1",
+          "url": "https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "\u8ca0\u3051\u72ac\u304b\u3089\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/40AyoJntGdArFrZ6ClQQV8"
     },
     {
       "album": {

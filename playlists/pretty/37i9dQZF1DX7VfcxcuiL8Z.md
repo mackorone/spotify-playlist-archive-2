@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Radio Free Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,311 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,303 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Good Fortune](https://open.spotify.com/track/1wlzx2qdBH3SESjGCmScVE) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Good Fortune](https://open.spotify.com/album/2NSRxoaGY9dxPJ0f3Rpelk) | 3:07 |
 | 80 | [Overshare](https://open.spotify.com/track/6FTKVNwnul5ErRl7rPe1uA) | [Charlie Gradon](https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU) | [Pain Game](https://open.spotify.com/album/7qxanlBWu5rXzsPx64zALX) | 3:31 |
 
-Snapshot ID: `AAAAAOa0Uh0Cje+z1wLOM+9AN5wuuTN3`
+Snapshot ID: `AAAAACL03bpMUWOV8qA3VNgxrZKDm/gg`

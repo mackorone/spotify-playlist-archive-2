@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 743328,
+  "num_followers": 743358,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFUtD4RyTgtucpgbAfvBNmxySVqb",
+  "snapshot_id": "AAAAALoMm/yFTIMNo+7E0BrH+92aWkNO",
   "tracks": [
     {
       "added_at": "2026-10-20 15:00:30",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
-        "name": "Red Swan",
-        "url": "https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL"
-      },
-      "artists": [
-        {
-          "name": "YOSHIKI",
-          "url": "https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm"
-        },
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "Red Swan",
-      "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX"
-    },
-    {
-      "added_at": "2026-10-20 15:00:30",
-      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 219733,
       "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
       "url": "https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R"
+    },
+    {
+      "added_at": "2026-10-20 15:00:30",
+      "album": {
+        "name": "Red Swan",
+        "url": "https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL"
+      },
+      "artists": [
+        {
+          "name": "YOSHIKI",
+          "url": "https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "Red Swan",
+      "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX"
     },
     {
       "added_at": "2026-10-20 15:00:30",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
-        "name": "\u6ab8\u6aac",
-        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
       },
       "artists": [
         {
-          "name": "BURNOUT SYNDROMES",
-          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
         }
       ],
-      "duration_ms": 244493,
-      "name": "FLY HIGH!!",
-      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
+      "duration_ms": 196946,
+      "name": "Black Catcher",
+      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
     },
     {
       "added_at": "2026-10-20 15:00:30",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
+        "name": "\u6ab8\u6aac",
+        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
       },
       "artists": [
         {
-          "name": "VK Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Black Catcher",
-      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
+      "duration_ms": 244493,
+      "name": "FLY HIGH!!",
+      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
     },
     {
       "added_at": "2026-10-20 15:00:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
-        "name": "TACTIC",
-        "url": "https://open.spotify.com/album/3BsfhYaVDDmUBwYLFv4Hfr"
-      },
-      "artists": [
-        {
-          "name": "Daoko",
-          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
-        }
-      ],
-      "duration_ms": 194137,
-      "name": "TACTIC",
-      "url": "https://open.spotify.com/track/2afdDEOkeioSUIwIpx2MPv"
-    },
-    {
-      "added_at": "2026-10-20 15:00:30",
-      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 172291,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K"
+    },
+    {
+      "added_at": "2026-10-20 15:00:30",
+      "album": {
+        "name": "TACTIC",
+        "url": "https://open.spotify.com/album/3BsfhYaVDDmUBwYLFv4Hfr"
+      },
+      "artists": [
+        {
+          "name": "Daoko",
+          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+        }
+      ],
+      "duration_ms": 194137,
+      "name": "TACTIC",
+      "url": "https://open.spotify.com/track/2afdDEOkeioSUIwIpx2MPv"
     },
     {
       "added_at": "2026-10-20 15:00:30",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
+        "name": "\u7d76\u5bfe\u96f6\u5ea6",
+        "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 198483,
+      "name": "\u7d76\u5bfe\u96f6\u5ea6",
+      "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
+    },
+    {
+      "added_at": "2026-10-20 15:00:30",
+      "album": {
         "name": "\u6253\u4e0a\u82b1\u706b",
         "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 289334,
       "name": "\u6253\u4e0a\u82b1\u706b",
       "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
-    },
-    {
-      "added_at": "2026-10-20 15:00:30",
-      "album": {
-        "name": "\u7d76\u5bfe\u96f6\u5ea6",
-        "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 198483,
-      "name": "\u7d76\u5bfe\u96f6\u5ea6",
-      "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
     },
     {
       "added_at": "2026-10-20 15:00:30",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
+        "name": "\u518d\u4f1a",
+        "url": "https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "\u518d\u4f1a",
+      "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
+    },
+    {
+      "added_at": "2026-10-20 15:00:30",
+      "album": {
         "name": "spiral",
         "url": "https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 204833,
       "name": "\u706b\u7a2e",
       "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
-    },
-    {
-      "added_at": "2026-10-20 15:00:30",
-      "album": {
-        "name": "\u518d\u4f1a",
-        "url": "https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "\u518d\u4f1a",
-      "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
     },
     {
       "added_at": "2026-10-20 15:00:30",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
+        "name": "\u88f8\u306e\u52c7\u8005",
+        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "\u88f8\u306e\u52c7\u8005",
+      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
+    },
+    {
+      "added_at": "2026-10-20 15:00:30",
+      "album": {
         "name": "\u559c\u5287",
         "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2026-10-20 15:00:30",
       "album": {
-        "name": "\u88f8\u306e\u52c7\u8005",
-        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "\u88f8\u306e\u52c7\u8005",
-      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
-    },
-    {
-      "added_at": "2026-10-20 15:00:30",
-      "album": {
         "name": "\u541b\u306e\u540d\u306f\u3002",
         "url": "https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl"
       },
@@ -1615,38 +1615,6 @@
       "duration_ms": 285880,
       "name": "\u524d\u524d\u524d\u4e16 - movie ver.",
       "url": "https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe"
-    },
-    {
-      "added_at": "2026-10-20 15:00:30",
-      "album": {
-        "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
-        "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 383361,
-      "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
-      "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
-    },
-    {
-      "added_at": "2026-10-20 15:00:30",
-      "album": {
-        "name": "ATTITUDE",
-        "url": "https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "ATTITUDE",
-      "url": "https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs"
     },
     {
       "added_at": "2026-10-20 15:00:30",
@@ -1679,6 +1647,38 @@
       "duration_ms": 200997,
       "name": "CHAINSAW BLOOD",
       "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
+    },
+    {
+      "added_at": "2026-10-20 15:00:30",
+      "album": {
+        "name": "ATTITUDE",
+        "url": "https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs"
+    },
+    {
+      "added_at": "2026-10-20 15:00:30",
+      "album": {
+        "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+        "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 383361,
+      "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+      "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
     }
   ],
   "unique_name": "Anime On Replay",

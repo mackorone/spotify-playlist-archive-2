@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21909,
+  "num_followers": 21911,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHORd4AV7GHUcQutin0yT4xbtb2F",
+  "snapshot_id": "AAAAACkAmOeNGZiRbNEt0UBqFL8aYyQT",
   "tracks": [
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 98152,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 98152,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "LAW (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "K-FLIP",
         "url": "https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 189016,
       "name": "PUBLIC ENEMY (Feat. Roh Yun Ha, Wuuslime)",
       "url": "https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "LAW (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -2047,18 +2047,38 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "CTRL + ALT + DEL",
-        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
+        "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
+        "url": "https://open.spotify.com/album/55znXAoQQTnD48knM4A5BU"
       },
       "artists": [
         {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        },
+        {
+          "name": "Iyaan",
+          "url": "https://open.spotify.com/artist/01XMTLO2jCbABW5w0Cvp7d"
+        },
+        {
+          "name": "Jeffrey White",
+          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
         }
       ],
-      "duration_ms": 153166,
-      "name": "CTRL + ALT + DEL",
-      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
+      "duration_ms": 243000,
+      "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
+      "url": "https://open.spotify.com/track/6TUuxnabfrlNbFi0FJSz5G"
     }
   ],
   "unique_name": "3\ub300 1000",

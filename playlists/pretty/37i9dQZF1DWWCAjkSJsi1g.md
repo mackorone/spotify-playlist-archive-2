@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,814 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,805 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Bump, Bump, Bump \(feat\. P\. Diddy\)](https://open.spotify.com/track/5tKbrFMvQJlG1reK5aDmkc) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Playlist: The Very Best Of Omarion](https://open.spotify.com/album/2fWjB2sGEPtte5tWTQlU4v) | 4:39 |
 | 100 | [All I Want](https://open.spotify.com/track/40FFyvBiecWpeKjXHgCRsr) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Lickin' On Both Sides](https://open.spotify.com/album/5TMQsvBUkHGxOEnPEVPrj3) | 3:29 |
 
-Snapshot ID: `AAAAAOszYjbPyfpTHOcyST8+a83GLvyV`
+Snapshot ID: `AAAAAG8jMiwc4sTiPDx0++ms/2BYsKA+`

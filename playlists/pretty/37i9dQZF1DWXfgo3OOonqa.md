@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,703 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,674 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Lebi](https://open.spotify.com/track/0nfryGPAShDVTwAE2sSgrQ) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [Lebi](https://open.spotify.com/album/7JQ3FboHgdO9TKEB3xZnLg) | 2:25 |
 | 100 | [ROBIN HOOD](https://open.spotify.com/track/6Ft3SAvmGhsyTA7M0vAcG9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ROBIN HOOD](https://open.spotify.com/album/3m9aDT63ak9jHsfdKOcz6z) | 2:15 |
 
-Snapshot ID: `AAAAAEjAxINOkQFBlJUCQkf44TKCRZTz`
+Snapshot ID: `AAAAAK2TCWDAE3sk4A8MZoFcrDYf5QqI`

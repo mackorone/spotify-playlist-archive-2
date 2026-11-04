@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 680551,
+  "num_followers": 680545,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACw9v4V2Id20qN76ZRuu+0bDa2D5",
+  "snapshot_id": "AAAAAOa6Sos7+PMTb2vJyMG6LhJ0SBT/",
   "tracks": [
     {
       "added_at": "2024-11-12 16:18:09",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Three Dollar Bill, Y'all $",
         "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 146480,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
+        "name": "A Deeper Cut",
+        "url": "https://open.spotify.com/album/5o2w2s9mv7kEX4514F3m1o"
+      },
+      "artists": [
+        {
+          "name": "The Temperance Movement",
+          "url": "https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "Caught in the Middle",
+      "url": "https://open.spotify.com/track/5sdighSadfa2o9eqtMqGkC"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
-        "name": "A Deeper Cut",
-        "url": "https://open.spotify.com/album/5o2w2s9mv7kEX4514F3m1o"
-      },
-      "artists": [
-        {
-          "name": "The Temperance Movement",
-          "url": "https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "Caught in the Middle",
-      "url": "https://open.spotify.com/track/5sdighSadfa2o9eqtMqGkC"
     },
     {
       "added_at": "2024-11-12 16:18:09",

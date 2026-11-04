@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Fl\u00e9au Dicaprio, Lary Kidd",
-  "num_followers": 89606,
+  "num_followers": 89604,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhjP8dWQfR59DMiaPvLPdtbZDsX",
+  "snapshot_id": "AAAAANqzrNpw/FU4XcKWVp35b9eAeu4m",
   "tracks": [
     {
       "added_at": "2026-10-30 04:02:44",
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
-        "name": "Douze sur douze",
-        "url": "https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR"
+        "name": "FREE MOI",
+        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
       },
       "artists": [
         {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        },
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
         }
       ],
-      "duration_ms": 140268,
-      "name": "Signe (avec Statzz)",
-      "url": "https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3"
+      "duration_ms": 158048,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
     },
     {
       "added_at": "2026-10-30 04:02:44",
@@ -543,18 +539,22 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
-        "name": "FREE MOI",
-        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
+        "name": "Douze sur douze",
+        "url": "https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
         }
       ],
-      "duration_ms": 158048,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
+      "duration_ms": 140268,
+      "name": "Signe (avec Statzz)",
+      "url": "https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3"
     },
     {
       "added_at": "2026-10-30 04:02:44",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
+        "name": "GAMAN",
+        "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 152627,
+      "name": "Shot Kalla",
+      "url": "https://open.spotify.com/track/4hIZZSZx5PJQsiIUjhNTPR"
+    },
+    {
+      "added_at": "2026-10-30 04:02:44",
+      "album": {
         "name": "Buzz\u00e9 Pack",
         "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 193166,
       "name": "Buzz\u00e9 - Hip-Hop",
       "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
-    },
-    {
-      "added_at": "2026-10-30 04:02:44",
-      "album": {
-        "name": "GAMAN",
-        "url": "https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 152627,
-      "name": "Shot Kalla",
-      "url": "https://open.spotify.com/track/4hIZZSZx5PJQsiIUjhNTPR"
     },
     {
       "added_at": "2026-10-30 04:02:44",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
-        "name": "Kess tu connais?",
-        "url": "https://open.spotify.com/album/087lSpOwE9O7aF7F1JUILs"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 140963,
-      "name": "Kess tu connais?",
-      "url": "https://open.spotify.com/track/6uJhWxmB5Xsvtk8KQq2Rdv"
-    },
-    {
-      "added_at": "2026-10-30 04:02:44",
-      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
+        "name": "Kess tu connais?",
+        "url": "https://open.spotify.com/album/087lSpOwE9O7aF7F1JUILs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 140963,
+      "name": "Kess tu connais?",
+      "url": "https://open.spotify.com/track/6uJhWxmB5Xsvtk8KQq2Rdv"
+    },
+    {
+      "added_at": "2026-10-30 04:02:44",
+      "album": {
         "name": "Radeau Capharna\u00fcm",
         "url": "https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf"
       },
@@ -1155,38 +1155,6 @@
       "duration_ms": 175076,
       "name": "TOUT VA TROP VITE",
       "url": "https://open.spotify.com/track/0NNxX6ZYEhpxGs0QwtyOB2"
-    },
-    {
-      "added_at": "2026-10-30 04:02:44",
-      "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
-    },
-    {
-      "added_at": "2026-10-30 04:02:44",
-      "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
     },
     {
       "added_at": "2026-10-30 04:02:44",
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+    },
+    {
+      "added_at": "2026-10-30 04:02:44",
+      "album": {
         "name": "AUCUN MENSONGE",
         "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 168166,
       "name": "TOUT CE QU'ON FAIT",
       "url": "https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V"
+    },
+    {
+      "added_at": "2026-10-30 04:02:44",
+      "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
     },
     {
       "added_at": "2026-10-30 04:02:44",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
-        "name": "Parfait pays",
-        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
+        "name": "\u00c0 la prochaine fois",
+        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
       },
       "artists": [
         {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
-        },
-        {
           "name": "kinji00",
           "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        },
+        {
+          "name": "lb66",
+          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
         }
       ],
-      "duration_ms": 139997,
-      "name": "Parfait pays",
-      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
+      "duration_ms": 150589,
+      "name": "Cayo Perico",
+      "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
     },
     {
       "added_at": "2026-10-30 04:02:44",
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2026-10-30 04:02:44",
       "album": {
-        "name": "\u00c0 la prochaine fois",
-        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
+        "name": "Parfait pays",
+        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
       },
       "artists": [
         {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
         },
         {
-          "name": "lb66",
-          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
         }
       ],
-      "duration_ms": 150589,
-      "name": "Cayo Perico",
-      "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
+      "duration_ms": 139997,
+      "name": "Parfait pays",
+      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
     },
     {
       "added_at": "2026-10-30 04:02:44",

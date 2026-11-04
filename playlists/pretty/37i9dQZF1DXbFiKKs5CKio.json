@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73617,
+  "num_followers": 73630,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMpmcIOZLb+SUOU2F2+b4jJtjum",
+  "snapshot_id": "AAAAAOdm8tbdeevWIQ2Zy25xtXBXjvVl",
   "tracks": [
     {
       "added_at": "2026-09-18 03:03:04",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
+        "name": "Esse \u00c9 Meu Mundo Deluxe (DELUXE)",
+        "url": "https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87"
+    },
+    {
+      "added_at": "2026-09-18 03:03:04",
+      "album": {
         "name": "LAR",
         "url": "https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 172653,
       "name": "Tudo o Que Sou",
       "url": "https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0"
-    },
-    {
-      "added_at": "2026-09-18 03:03:04",
-      "album": {
-        "name": "Esse \u00c9 Meu Mundo Deluxe (DELUXE)",
-        "url": "https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87"
     },
     {
       "added_at": "2026-09-18 03:03:04",

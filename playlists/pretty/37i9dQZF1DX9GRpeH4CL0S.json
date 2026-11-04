@@ -1,12 +1,12 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 845306,
+  "num_followers": 845360,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALd750+uykXH7e1XI5A72GvQxwjO",
+  "snapshot_id": "AAAAAGJ9kwgjjBkvHvJSbxB63iXFiP1i",
   "tracks": [
     {
       "added_at": "2026-02-13 03:17:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 269306,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 258826,
       "name": "Say It Ain't So - Original Mix",
       "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 186813,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "This Is War (Deluxe)",
-        "url": "https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 326983,
-      "name": "This Is War",
-      "url": "https://open.spotify.com/track/01v7kv0RTVaX4Vs8GcOGOP"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Hold My Home",
         "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "This Is War (Deluxe)",
+        "url": "https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 326983,
+      "name": "This Is War",
+      "url": "https://open.spotify.com/track/01v7kv0RTVaX4Vs8GcOGOP"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 179653,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2775,18 +2775,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Swoon",
-        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
       },
       "artists": [
         {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 343906,
-      "name": "Panic Switch",
-      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
+      "duration_ms": 200400,
+      "name": "Banquet",
+      "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2807,34 +2807,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
+        "name": "Swoon",
+        "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
       },
       "artists": [
         {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Banquet",
-      "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+      "duration_ms": 343906,
+      "name": "Panic Switch",
+      "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2851,6 +2835,22 @@
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2935,6 +2935,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Icky Thump",
+      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
       },
@@ -2951,18 +2967,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 254533,
-      "name": "Icky Thump",
-      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2995,22 +3011,6 @@
       "duration_ms": 194520,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3095,6 +3095,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped up Kicks",
+      "url": "https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/6YXmQrXOjJoMheJ2IA5NqK"
       },
@@ -3127,38 +3143,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Pumped up Kicks",
-      "url": "https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
       },
@@ -3171,6 +3155,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
     },
     {
       "added_at": "2026-02-13 03:17:49",

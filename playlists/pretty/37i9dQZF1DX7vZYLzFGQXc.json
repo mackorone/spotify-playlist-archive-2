@@ -1,13 +1,77 @@
 {
-  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Dabda) (Meet the emerging talents of Korea!) ",
-  "num_followers": 63788,
+  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Munan) (Meet the emerging talents of Korea!) ",
+  "num_followers": 63786,
   "original_name": "Fresh Finds Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvlsEKJerwgo57L4CTDO/FgsHfl",
+  "snapshot_id": "AAAAAFwSpbI8GEwM9b7gcBKpxLHevy+U",
   "tracks": [
+    {
+      "added_at": "2026-11-03 15:00:45",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/4gBn6ZTPjExLcwVwbm9tbs"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "duration_ms": 209916,
+      "name": "23",
+      "url": "https://open.spotify.com/track/3ST1e6Qzh9VeWOPSOTHSuq"
+    },
+    {
+      "added_at": "2026-11-03 15:00:45",
+      "album": {
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/5hUG4NaCUCVsS7AQtbTydi"
+      },
+      "artists": [
+        {
+          "name": "Wack",
+          "url": "https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr"
+        }
+      ],
+      "duration_ms": 213312,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/6duJ6byY1PHElRrKRnBOZO"
+    },
+    {
+      "added_at": "2026-11-03 15:00:45",
+      "album": {
+        "name": "RE-ROAD RE-ROAD",
+        "url": "https://open.spotify.com/album/3zq6jtXKwb4QjcNKHyfTVX"
+      },
+      "artists": [
+        {
+          "name": "saeneok",
+          "url": "https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL"
+        }
+      ],
+      "duration_ms": 227976,
+      "name": "RE-ROAD RE-ROAD",
+      "url": "https://open.spotify.com/track/17oHgDBFdkG01cbjztfh5k"
+    },
+    {
+      "added_at": "2026-11-03 15:00:45",
+      "album": {
+        "name": "gone!!!",
+        "url": "https://open.spotify.com/album/1bu9r3oeyDaTIXxN07dOiD"
+      },
+      "artists": [
+        {
+          "name": "justinforthis",
+          "url": "https://open.spotify.com/artist/1MZvn2OoRX4PO4KA85NwdD"
+        }
+      ],
+      "duration_ms": 132028,
+      "name": "gone!!!",
+      "url": "https://open.spotify.com/track/1GpN5sqH5m89BsMegz5kb1"
+    },
     {
       "added_at": "2026-10-01 04:35:12",
       "album": {

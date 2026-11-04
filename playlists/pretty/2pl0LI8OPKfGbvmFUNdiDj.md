@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,298 likes - 53 songs - 2 hr 51 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,323 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 51 | [Don't You Know](https://open.spotify.com/track/2w1ckhP6QAycj3Wappvc63) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML), [Jaibi](https://open.spotify.com/artist/6pLzTI6en7XQSm2HGd41VB) | [Don't You Know](https://open.spotify.com/album/3diFUKB3tgMbCgifCVOJRZ) | 3:01 |
 | 52 | [Insolvent Love](https://open.spotify.com/track/5TMBHV3UPXiuaSA1oy2vxz) | [BONAHORA](https://open.spotify.com/artist/7iPRlF2QA4RRVLYWSArhbu), [Melisa Chao](https://open.spotify.com/artist/4l8Lziz8oaVTHc1v08gsTK) | [Insolvent Love](https://open.spotify.com/album/0OkCXDp010u6owuApBMxOt) | 4:04 |
 | 53 | [No Room For Mistakes](https://open.spotify.com/track/24Flmni6C0usFionuuAWA9) | [Cosmic Revival](https://open.spotify.com/artist/7tEfnUn9b37STFIIEBkogv) | [No Room For Mistakes](https://open.spotify.com/album/5HvHXK8emGWuET339Quh5Y) | 3:05 |
+| 54 | [I Can See You In The Stars](https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [I Can See You In The Stars](https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy) | 4:01 |
+| 55 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
 
-Snapshot ID: `AAAEmRX13hXK2JMnMchT5M6N7KzMM4oq`
+Snapshot ID: `AAAEm46UsnQh0WypyADYujKcwqaIC3m1`

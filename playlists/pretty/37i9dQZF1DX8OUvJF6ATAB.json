@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 228619,
+  "num_followers": 228635,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABSle42W5PI3Cb+xjUdXacg/M0cR",
+  "snapshot_id": "AAAAAHRBOzsts59M5FqvO0EEtZnfsOzt",
   "tracks": [
     {
       "added_at": "2025-01-17 05:01:06",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+      },
+      "artists": [
+        {
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Land III",
         "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Das Unheimliche",
-        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Das Unheimliche",
-      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Goatherder",
         "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
       },
@@ -955,34 +955,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+        "name": "Das Unheimliche",
+        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
       },
       "artists": [
         {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Picnic",
-        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
-      },
-      "artists": [
-        {
-          "name": "Picnic",
-          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
-        }
-      ],
-      "duration_ms": 436796,
-      "name": "Plush Hooves",
-      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
+      "duration_ms": 390000,
+      "name": "Das Unheimliche",
+      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -999,6 +983,22 @@
       "duration_ms": 386000,
       "name": "Labyrinth (Exit)",
       "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+      },
+      "artists": [
+        {
+          "name": "Picnic",
+          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+        }
+      ],
+      "duration_ms": 436796,
+      "name": "Plush Hooves",
+      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "i85mixx21-22",
         "url": "https://open.spotify.com/album/1JS4U4rA6FbkRwZRRVL7TJ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 331704,
       "name": "i85mixxinstrumental",
       "url": "https://open.spotify.com/track/1qCamZHhEUQ82dONdaCVPS"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "A Biochemical Cascade",
-        "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
-      },
-      "artists": [
-        {
-          "name": "Yann Novak",
-          "url": "https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w"
-        }
-      ],
-      "duration_ms": 514000,
-      "name": "A Biochemical Cascade",
-      "url": "https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "A Biochemical Cascade",
+        "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
+      },
+      "artists": [
+        {
+          "name": "Yann Novak",
+          "url": "https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w"
+        }
+      ],
+      "duration_ms": 514000,
+      "name": "A Biochemical Cascade",
+      "url": "https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "Bergsbotn I",
+      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Return Forever",
         "url": "https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 435004,
       "name": "Stargazers",
       "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "The Senja Recordings",
-        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 292480,
-      "name": "Bergsbotn I",
-      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Haust",
-        "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
-        }
-      ],
-      "duration_ms": 301007,
-      "name": "Haust",
-      "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 199148,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Haust",
+        "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
+        }
+      ],
+      "duration_ms": 301007,
+      "name": "Haust",
+      "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Amplitudes",
-        "url": "https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk"
-      },
-      "artists": [
-        {
-          "name": "Tapes and Topographies",
-          "url": "https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43"
-        }
-      ],
-      "duration_ms": 328083,
-      "name": "Everyone is Far Away",
-      "url": "https://open.spotify.com/track/4fmMywOoOP53r34yowvadz"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Overlay (KMRU Remix)",
         "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Amplitudes",
+        "url": "https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk"
+      },
+      "artists": [
+        {
+          "name": "Tapes and Topographies",
+          "url": "https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43"
+        }
+      ],
+      "duration_ms": 328083,
+      "name": "Everyone is Far Away",
+      "url": "https://open.spotify.com/track/4fmMywOoOP53r34yowvadz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Forget The Curse",
         "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
       },
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Spheres (Original Score)",
-        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
+        "name": "Funny Morning",
+        "url": "https://open.spotify.com/album/33QUh3g9UqsgAuQ4NFrrAJ"
       },
       "artists": [
         {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+          "name": "Yuuki Matthews",
+          "url": "https://open.spotify.com/artist/3ZvTKmYi30W43Fv6GhMsgU"
         }
       ],
-      "duration_ms": 223898,
-      "name": "Accretion Disk",
-      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
+      "duration_ms": 1177077,
+      "name": "Chrysanthemum (Slow)",
+      "url": "https://open.spotify.com/track/0p3YM9SmRloxrNHmzaK4J0"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Funny Morning",
-        "url": "https://open.spotify.com/album/33QUh3g9UqsgAuQ4NFrrAJ"
+        "name": "Spheres (Original Score)",
+        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
       },
       "artists": [
         {
-          "name": "Yuuki Matthews",
-          "url": "https://open.spotify.com/artist/3ZvTKmYi30W43Fv6GhMsgU"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 1177077,
-      "name": "Chrysanthemum (Slow)",
-      "url": "https://open.spotify.com/track/0p3YM9SmRloxrNHmzaK4J0"
+      "duration_ms": 223898,
+      "name": "Accretion Disk",
+      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1615,6 +1615,30 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "A Pale Shelter",
+        "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        },
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        },
+        {
+          "name": "Ossa",
+          "url": "https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc"
+        }
+      ],
+      "duration_ms": 344026,
+      "name": "Mourning Shadows We Perish",
+      "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Birthmark",
         "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
       },
@@ -1647,42 +1671,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "A Pale Shelter",
-        "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
+        "name": "Soundtracks: Capri-Revolution",
+        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
       },
       "artists": [
         {
-          "name": "zak\u00e8",
-          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
-        },
-        {
-          "name": "City of Dawn",
-          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
-        },
-        {
-          "name": "Ossa",
-          "url": "https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc"
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
         }
       ],
-      "duration_ms": 344026,
-      "name": "Mourning Shadows We Perish",
-      "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Lost in Elastic Time",
-        "url": "https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh"
-      },
-      "artists": [
-        {
-          "name": "Microhm",
-          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
-        }
-      ],
-      "duration_ms": 638192,
-      "name": "Emerging from the Depths",
-      "url": "https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN"
+      "duration_ms": 195317,
+      "name": "Licidana",
+      "url": "https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii"
     }
   ],
   "unique_name": "Exospheres",

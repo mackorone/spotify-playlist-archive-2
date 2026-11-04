@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van HIGH SOCIETY & OYSTER \(Spotify RADAR\-artiest\); 3robi, Mensa & Henkie T; Idaly, Adje & CHO en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,024 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,966 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 7 | [Soldaten](https://open.spotify.com/track/3hzsluxtiTvqyx7qFJmc5Q) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DFYNE](https://open.spotify.com/artist/6dpOGnRCKWUjqUhOTEPxm2), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Soldaten](https://open.spotify.com/album/7zXiNWkMq10fOHzj7KgKEc) | 2:21 |
 | 8 | [Purosangue](https://open.spotify.com/track/4EeJ05gxLu2p7EoRtyGqBY) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Bigbelly](https://open.spotify.com/artist/4JTFTkrF0NIFkFhYambgZR) | [Purosangue](https://open.spotify.com/album/2kR9bYxRk5TfaBeBTrnNBx) | 2:37 |
 | 9 | [REAL W£T](https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk), [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [REAL W£T](https://open.spotify.com/album/35dD6e2QnVR4JEZXvdZeQs) | 2:19 |
-| 10 | [TF3](https://open.spotify.com/track/2G2gYyRTNzAW5X7BBlx5Vf) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 4:05 |
+| 10 | [TF3](https://open.spotify.com/track/7kPCKywdvgopywtcmUKbJ6) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [DOMUS](https://open.spotify.com/album/69tRf27Cjspimzp6d1ij15) | 4:36 |
 | 11 | [Spaarpot](https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Qlassiek](https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt) | 2:13 |
 | 12 | [Safi](https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Safi](https://open.spotify.com/album/0Sg8Q8EKjRcD9uXPIL70yK) | 3:24 |
 | 13 | [KTM](https://open.spotify.com/track/3qbfFVsA8M8v3KiMRBxeHY) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [KTM](https://open.spotify.com/album/0vj1rWe8o5Q4ACBaQXzi3u) | 2:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 69 | [Zet Het](https://open.spotify.com/track/7scwK2eRedF2TFHkxastTx) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Zet Het](https://open.spotify.com/album/5W5U9O7xvg8ot6O5msC231) | 2:06 |
 | 70 | [Droom Soms](https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:57 |
 
-Snapshot ID: `AAAAAEVSk4G2KbA2KCjO3tDl/+OR/B4K`
+Snapshot ID: `AAAAAJRRs8MdwNwxtbY0aZWk6r7h9yXy`

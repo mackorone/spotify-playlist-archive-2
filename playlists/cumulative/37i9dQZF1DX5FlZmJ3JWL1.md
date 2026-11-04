@@ -4,12 +4,12 @@
 
 > Let's go! 💪
 
-183 songs - 8 hr 18 min
+184 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 | 2023-09-01 | 2023-10-07 |
-| [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-10-24 |  |
+| [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-10-24 | 2026-11-04 |
 | [A Love Confessed](https://open.spotify.com/track/5eRDeqewn5no4JaPiCwW2l) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [A Love Confessed](https://open.spotify.com/album/2rzgkzqBPaVf9ResZ329K1) | 3:56 | 2025-11-20 | 2025-12-31 |
 | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-08-04 |  |
 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 | 2024-02-08 | 2025-01-07 |
@@ -82,6 +82,7 @@
 | [Hollow \(feat\. Bonn\)](https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hollow \(feat\. Bonn\)](https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL) | 3:20 | 2024-09-16 |  |
 | [Holy Atlantis](https://open.spotify.com/track/7u2FjJcKrJOcfiR10vnxSn) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Netherworld](https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF) | [Holy Atlantis](https://open.spotify.com/album/6FbfMrCx8r37hzH0HbdFLZ) | 1:56 | 2025-11-07 | 2026-06-10 |
 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 | 2023-10-13 | 2024-04-19 |
+| [I Don't Even Like You](https://open.spotify.com/track/0nPRRrlZk8rZsnTb5AsMW9) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [I Don't Even Like You](https://open.spotify.com/album/3Id0Bgp0diil4h4ri2DtB1) | 2:06 | 2026-10-23 |  |
 | [I Like](https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [I Like](https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W) | 3:15 | 2026-06-09 | 2026-08-05 |
 | [I Like To Move It](https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [I Like To Move It](https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV) | 2:18 | 2023-09-01 | 2024-10-25 |
 | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg) | 2:23 | 2026-05-12 | 2026-07-02 |

@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 437760,
+  "num_followers": 437792,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXUZ+Sz+5gxqipDMhXRRs8lGPMe",
+  "snapshot_id": "AAAAACSrNrCSIJfwGjRkwqB034c3wpjX",
   "tracks": [
     {
       "added_at": "2026-09-25 16:48:56",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/1M4sZ2DgrWANBRMBlPvnr0"
     },
     {
+      "added_at": "2026-10-07 04:00:11",
+      "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 199555,
+      "name": "Dead Company",
+      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
+    },
+    {
       "added_at": "2026-09-25 16:48:56",
       "album": {
         "name": "STORM",
@@ -291,22 +307,6 @@
       "duration_ms": 209436,
       "name": "STORM I",
       "url": "https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB"
-    },
-    {
-      "added_at": "2026-10-07 04:00:11",
-      "album": {
-        "name": "Dead Company",
-        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 199555,
-      "name": "Dead Company",
-      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Feel So Good Around U",
+        "url": "https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 272492,
+      "name": "Feel So Good Around U",
+      "url": "https://open.spotify.com/track/7arXWdNWVrppJH0w9hgGKf"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/39ZEVXaHtMaTuxWOUJXbiH"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 99850,
       "name": "APRENDER A AMAR",
       "url": "https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Feel So Good Around U",
-        "url": "https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh"
-      },
-      "artists": [
-        {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 272492,
-      "name": "Feel So Good Around U",
-      "url": "https://open.spotify.com/track/7arXWdNWVrppJH0w9hgGKf"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp"
-      },
-      "artists": [
-        {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Platinum",
-      "url": "https://open.spotify.com/track/7ErBuIxiS0pW775JYs8kFA"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 248709,
       "name": "Achtung! Optimism",
       "url": "https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Platinum",
+      "url": "https://open.spotify.com/track/7ErBuIxiS0pW775JYs8kFA"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Tractor Beam",
-      "url": "https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Crystalpunk",
         "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 217509,
       "name": "Can't Feel It",
       "url": "https://open.spotify.com/track/4moWJefMHCuUPCpwKAqI7A"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 214381,
+      "name": "Tractor Beam",
+      "url": "https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Joga Bonito",
+        "url": "https://open.spotify.com/album/39i5d3bQBuVnOd2kTwflPw"
+      },
+      "artists": [
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 124372,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/2UHYoi6pW9N29YGXwWjhCb"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "WAY UP",
         "url": "https://open.spotify.com/album/47FynGHTV7VUYqAGfnZm9q"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 141217,
       "name": "WAY UP",
       "url": "https://open.spotify.com/track/3nbk007nugb1fDPq4TAvst"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Joga Bonito",
-        "url": "https://open.spotify.com/album/39i5d3bQBuVnOd2kTwflPw"
-      },
-      "artists": [
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 124372,
-      "name": "Joga Bonito",
-      "url": "https://open.spotify.com/track/2UHYoi6pW9N29YGXwWjhCb"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Look Into My Eyes",
-        "url": "https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Look Into My Eyes",
-      "url": "https://open.spotify.com/track/5ecgJKrVy6Kl7tcjo6QJg2"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Venus & Blue - RMX",
         "url": "https://open.spotify.com/album/12C8BSEBff8Ksh0GNlyrL6"
       },
@@ -1459,18 +1439,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Heaven 2",
-        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp"
       },
       "artists": [
         {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 209533,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
+      "duration_ms": 183333,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/5ecgJKrVy6Kl7tcjo6QJg2"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "D\u00cdA 3",
-        "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
+        "name": "Heaven 2",
+        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
       },
       "artists": [
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
         }
       ],
-      "duration_ms": 230496,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/2yjtd82H0rbUZ7E8ho4A85"
+      "duration_ms": 209533,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1523,6 +1507,22 @@
       "duration_ms": 141546,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/0iSLB5okQOzIwzx9vJiDdT"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "D\u00cdA 3",
+        "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 230496,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2yjtd82H0rbUZ7E8ho4A85"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "The Runner",
+        "url": "https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh"
+      },
+      "artists": [
+        {
+          "name": "Carli",
+          "url": "https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "APUESTA AL NEGRO",
         "url": "https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 149677,
       "name": "POR ESTAS CALLES",
       "url": "https://open.spotify.com/track/41mPzEjgJiP3wifIO6H1tL"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "The Runner",
-        "url": "https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh"
-      },
-      "artists": [
-        {
-          "name": "Carli",
-          "url": "https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn"
     },
     {
       "added_at": "2026-09-25 16:48:56",

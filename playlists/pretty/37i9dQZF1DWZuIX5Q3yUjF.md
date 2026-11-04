@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Ama Dee in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,035 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,038 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 99 | [1 senso mio](https://open.spotify.com/track/0x2olj4DYz8BcnWYqkcpm9) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C) | [1 senso mio](https://open.spotify.com/album/12S760HCPuVrW8DZDdmDOV) | 3:06 |
 | 100 | [Lupo Volkswagen](https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 3:05 |
 
-Snapshot ID: `AAAAAEbP4oFWPD+RoZshepzD5K/Yct8f`
+Snapshot ID: `AAAAAGOtzYkrRdJgMAVKzP1PNc0YGJlT`

@@ -1,12 +1,12 @@
 {
   "description": "Neue Musik von AYLIVA, Ikkimel, ZAH1DE, Nico Santos, Gracie Abrams, Gunna & vielen mehr!",
-  "num_followers": 937817,
+  "num_followers": 937762,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABS1zPEfA6izbuUohAcw4fLS+pxi",
+  "snapshot_id": "AAAAAAiMBXwOisqhfHL/v/NPUYzfQUXz",
   "tracks": [
     {
       "added_at": "2026-10-29 23:00:42",
@@ -1326,6 +1326,10 @@
         {
           "name": "J\u00d8RD",
           "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Jasper Erkens",
+          "url": "https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ"
         }
       ],
       "duration_ms": 241594,

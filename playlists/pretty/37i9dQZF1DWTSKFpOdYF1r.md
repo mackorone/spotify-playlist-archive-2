@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,106,291 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,106,434 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [When It's Over](https://open.spotify.com/track/59RkLuqY3LSqK3rJGds6cP) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Youth of America](https://open.spotify.com/album/4rIPnx6cXrmLeDVkzT5poN) | 6:34 |
 | 80 | [The King of Rock 'N' Roll](https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [A Life Of Surprises: The Best Of Prefab Sprout](https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq) | 4:23 |
 
-Snapshot ID: `AAAAALFz/O7iNj6JpPWOPCsoJlOh7mi1`
+Snapshot ID: `AAAAAJoiKqpvqZnCodq6z6id420oLO5Q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,330 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,327 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [February Love \(feat\. Chris Brown\)](https://open.spotify.com/track/6pAaeIH6FuqdiweIogafXT) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:37 |
 | 50 | [GAVE U RACKS](https://open.spotify.com/track/4vyJJrWfIrIy7VCFceAML4) | [$TARFACE](https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [GAVE U RACKS](https://open.spotify.com/album/4SLvX8SIf7hkx5kYAj8Ph0) | 3:19 |
 
-Snapshot ID: `auUvgAAAAADKgxx/KOpU5NN4pCTmISdA`
+Snapshot ID: `auaBAAAAAAD2P+53dqLTkrTx930+JHi6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,055,072 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,054,913 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Amnésia \- Ao Vivo](https://open.spotify.com/track/1DYbj7SoFq9VKe83d1JIZt) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Impulso \(Ao Vivo\)](https://open.spotify.com/album/7HIETAJyLMywY7JBGnlTYS) | 2:46 |
 | 50 | [Todo Mundo Menos Eu \- Ao Vivo](https://open.spotify.com/track/7CIx2glE3HjBtXRrZzfowf) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Todo Mundo Menos Eu \(Ao Vivo\)](https://open.spotify.com/album/50swQR5HVBhgawCQSyUSrK) | 2:06 |
 
-Snapshot ID: `AAAAALCn3sTPVIZXlKKyBMiSW3y1Xd+3`
+Snapshot ID: `AAAAAE6wFTk7Txs6erwXJLhTKOgnJ/jk`

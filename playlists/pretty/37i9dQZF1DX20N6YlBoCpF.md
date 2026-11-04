@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Die Heuwels Fantasties, Danny Smoke, ONS,  JACOBUS en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,911 likes - 79 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,914 likes - 79 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 78 | [Sonder Jou Is Sonde](https://open.spotify.com/track/7kuYKjFU4ClKn4EQ9Y8uQg) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Sonder Jou Is Sonde](https://open.spotify.com/album/3b5rhpvkAp2o3MBgk7bacR) | 2:32 |
 | 79 | [Elke Hond](https://open.spotify.com/track/0WUhFgI2gLLMx9WUpAKdia) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Elke Hond](https://open.spotify.com/album/51x6S9zPimujoEDgqqCxV7) | 3:02 |
 
-Snapshot ID: `AAAAACvrC5IjbfsueKPp4Nn9eiCm4Tzs`
+Snapshot ID: `AAAAAP5QFDnYSG6pt73WzvF9r/Ri/JuX`

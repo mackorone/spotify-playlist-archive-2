@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,007 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,227 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 199 | [Love of My Life](https://open.spotify.com/track/1okTdVJviY0tCQqMevNlrG) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Love of My Life](https://open.spotify.com/album/4FUeq1yUrVwEQYRB0vNcK5) | 2:36 |
 | 200 | [Paradise Runner](https://open.spotify.com/track/3L7TOZvbuTsxH5EM8LVHUZ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Paradise Runner](https://open.spotify.com/album/2llFvkt14pwvA4XzsSC9I5) | 4:36 |
 
-Snapshot ID: `AAAAAMq27opniVvJNroTVYzvTlqEN5D/`
+Snapshot ID: `AAAAAG7xH0HbTlhcb43AcHYPvhicB04H`

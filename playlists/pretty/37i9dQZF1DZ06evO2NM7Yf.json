@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAACjvFcQAWR/3nhpKsw3RLSW",
+  "snapshot_id": "auaBAAAAAADW5KgIAVd9pxg/QiMhCZDU",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 178743,
-      "name": "blasphemy!",
-      "url": "https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG"
+      "duration_ms": 181749,
+      "name": "emotional affair",
+      "url": "https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,
@@ -180,9 +180,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 181749,
-      "name": "emotional affair",
-      "url": "https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E"
+      "duration_ms": 178743,
+      "name": "blasphemy!",
+      "url": "https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 165250,
-      "name": "Why Do I Keep Playing It",
-      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cross My Heart I Hope U Die",
+        "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Why Do I Keep Playing It",
+      "url": "https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American in Paris",
         "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
       },
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
       "duration_ms": 185738,
       "name": "Who Not to Love",
       "url": "https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
     }
   ],
   "unique_name": "This Is Meg Smith",

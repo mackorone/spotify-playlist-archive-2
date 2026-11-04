@@ -1,12 +1,12 @@
 {
   "description": "Geolier nelle \ud83c\udfa7 di tutti, e in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
-  "num_followers": 1116272,
+  "num_followers": 1116181,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWDGE46Yq4f2nPxUUlcQF/s8fYC",
+  "snapshot_id": "AAAAAAlTG/znRfFwn8UJkuX5vxKdrAuY",
   "tracks": [
     {
       "added_at": "2026-10-15 22:02:53",
@@ -843,6 +843,58 @@
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
+        "name": "Vangelo",
+        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 177934,
+      "name": "Babyface",
+      "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 168342,
+      "name": "Giovani Re",
+      "url": "https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 165922,
+      "name": "DAVVERODAVVERO",
+      "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
         "name": "Cuore rotto",
         "url": "https://open.spotify.com/album/3IZTQfXDz7gAJtqB6UDKt9"
       },
@@ -975,58 +1027,6 @@
       "duration_ms": 122262,
       "name": "Giardinetti con le bo",
       "url": "https://open.spotify.com/track/0tD81gUwgSAL6drrP0ty3t"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "Vangelo",
-        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 177934,
-      "name": "Babyface",
-      "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 168342,
-      "name": "Giovani Re",
-      "url": "https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 165922,
-      "name": "DAVVERODAVVERO",
-      "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
     },
     {
       "added_at": "2026-10-15 22:02:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ CON THE ARTIST
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,569 likes - 95 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,557 likes - 95 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 94 | [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 |
 | 95 | [Who Am I](https://open.spotify.com/track/2CzBHpemQrtHCNfX10qwYy) | [Crimson99](https://open.spotify.com/artist/4MqxhJPhBtuNQU4fy4lkIT) | [Daredevil](https://open.spotify.com/album/76zNXO4xFXdDjxY9st9zBJ) | 5:27 |
 
-Snapshot ID: `AAAAAF2IonNZE+fAZMZZ8FO8r/eJ3HRJ`
+Snapshot ID: `AAAAAG9gHnOMVEPqM2EnwA0JCciVFm4m`

@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 568660,
+  "num_followers": 568707,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJash2HoEL1r3EM0/9ud4KnB5617",
+  "snapshot_id": "AAAAAOHmveuX212UXx0PbY4BcVYUbqoJ",
   "tracks": [
     {
       "added_at": "2026-09-17 12:03:43",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -203,18 +219,18 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+        "name": "The Sun Will Never Settle",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+      "duration_ms": 148000,
+      "name": "The Sun Will Never Settle",
+      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
     },
     {
       "added_at": "2026-09-23 12:57:27",
@@ -231,22 +247,6 @@
       "duration_ms": 178918,
       "name": "Apple Cider",
       "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "The Sun Will Never Settle",
-        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "The Sun Will Never Settle",
-      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 164181,
-      "name": "Tonnta",
-      "url": "https://open.spotify.com/track/3P9AM7Sm5DwwzGlTOwwCVl"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 164181,
+      "name": "Tonnta",
+      "url": "https://open.spotify.com/track/3P9AM7Sm5DwwzGlTOwwCVl"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 306880,
       "name": "Lord, Let That Tesla Crash",
       "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 241502,
       "name": "Writer",
       "url": "https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+        "name": "The Singer in My Band",
+        "url": "https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
         }
       ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/0lN4BWaZqamALbP1EX3pDi"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 279457,
       "name": "Above the Clouds of Pompeii",
       "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "The Singer in My Band",
-        "url": "https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 189148,
-      "name": "Billy Came Back",
-      "url": "https://open.spotify.com/track/0lN4BWaZqamALbP1EX3pDi"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Swan Upon Leda",
         "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
+      "duration_ms": 201992,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1427,6 +1411,22 @@
       "duration_ms": 203986,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "In My Gut",
+        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Triple Marathon",
-        "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 157223,
-      "name": "Triple Marathon",
-      "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "yeti",
         "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Triple Marathon",
+        "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 157223,
+      "name": "Triple Marathon",
+      "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "4th of july",
-        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "(I Wish I Was) Ennio Morricone",
         "url": "https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 175392,
       "name": "(I Wish I Was) Ennio Morricone",
       "url": "https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "4th of july",
+        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
     },
     {
       "added_at": "2026-09-17 12:03:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Sonu Nigam, Guru Randhawa, Hansika Pareeek and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,330 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,353 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Sochun Main](https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Sochun Main](https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz) | 3:12 |
 | 50 | [Jalwa E Jaanaan \- Maati S2](https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Shakeel Azmi](https://open.spotify.com/artist/3KxvVvRRJE9ZYb3HbOGJSl) | [Jalwa E Jaanaan \(Maati S2\)](https://open.spotify.com/album/1vtOYY3c8O3mTMzrkX88nd) | 4:12 |
 
-Snapshot ID: `AAAAABZKUKvAyQVxXkj7jiu2JrNvJTwX`
+Snapshot ID: `AAAAAOLSucbLpCPsoLZEm5UGaMdj7lOj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 
 > Get amped!  Listen to the official soundtrack for Tony Hawk’s Pro Skater 3+4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,144 likes - 59 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,170 likes - 59 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 6 | [yankee and the brave \(ep\. 4\)](https://open.spotify.com/track/6Ljp2oy8zR8EhutqBdLYnt) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [RTJ4](https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT) | 2:26 |
 | 7 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 |
 | 8 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
-| 9 | [Not The Same](https://open.spotify.com/track/59wSDDyIAZ4e6uIORtJIV2) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/2NjZszjxtQcU7ykKnA22Gh) | 3:08 |
-| 10 | [New Wage Slavery](https://open.spotify.com/track/59PwPmruaaxVNd33G7bwhN) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [New Wage Slavery](https://open.spotify.com/album/2BhLEmbnHIg388pK1l73J0) | 1:23 |
+| 9 | [Not the Same](https://open.spotify.com/track/5VkMNDd08pD6CRitTV4ioE) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [Jarchives \- 10 Years of Bodyjar](https://open.spotify.com/album/1oTPzoFkY5afPo2AhCZlGi) | 3:09 |
+| 10 | [New Wage Slavery](https://open.spotify.com/track/2rCYw9coYu7qW2nxkCAjry) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [New Wage Slavery](https://open.spotify.com/album/4MkkOhhs3hYW8JVQv3Pbdd) | 1:23 |
 | 11 | [HEAD](https://open.spotify.com/track/6BULZnYoUapTGJU0lAjjL8) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [HELLMODE](https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9) | 1:30 |
 | 12 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
 | 13 | [Outta Here](https://open.spotify.com/track/1yjRkRZ9N9blrca0f0UzeF) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:28 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 33 | [Black Sap Scriptures](https://open.spotify.com/track/34Ojtt6GH3lv84t7hgMhNk) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [Free To Eat](https://open.spotify.com/album/3SAnSHsPmN6Ot75eiF4noM) | 2:37 |
 | 34 | [She Goes to Finos](https://open.spotify.com/track/62YK30OBK4NXcpVYKFA1U0) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [A Far Out Disc \(Bonus Tracks Edition\)](https://open.spotify.com/album/3sog0wAw7RcnUh7oKQF6pb) | 3:37 |
 | 35 | [Duck Fat](https://open.spotify.com/track/4Hvq2vHAxGZGE3tHrvB3CW) | [Dwynell Roland](https://open.spotify.com/artist/1Hk2SN1UWBeajoJBNMCial), [P.O.S](https://open.spotify.com/artist/4sH7SLGP6BLOYDtcP6Lm47), [Yata](https://open.spotify.com/artist/58LowyC4KBs7KdRdBjgCHV) | [RELAY](https://open.spotify.com/album/5XX7y9iemiHsIejtihdMcz) | 2:42 |
-| 36 | [Alive](https://open.spotify.com/track/7Knd5wtJAmspzWBAZlYiJR) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z), [SHAVO](https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR) | [Seven Hours After Violet](https://open.spotify.com/album/1Ri2q1jMg2aN1vry9jvdLJ) | 3:09 |
+| 36 | [Alive](https://open.spotify.com/track/4xjIW6ZI4SL0DKya6P4ECA) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Alive](https://open.spotify.com/album/5Vk1XNAWSV7mWfTnSM6qlB) | 3:09 |
 | 37 | [2 Minutes to Midnight \(2015 Remaster\)](https://open.spotify.com/track/0mgwfP6fcg3t0PPVoKXrF8) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Powerslave \(2015 Remaster\)](https://open.spotify.com/album/0BAxqxhmEwrman5qLSB7An) | 6:03 |
 | 38 | [Siren Song](https://open.spotify.com/track/5NS740oCv7xncFqEtx0BU3) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Passion Depression](https://open.spotify.com/album/4XWlGGOueIdtMNVhUVjaHR) | 4:22 |
 | 39 | [Identity](https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:25 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 51 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
 | 52 | [In the City](https://open.spotify.com/track/2R2PDn38jJG0Oj35brA4es) | [Tony Hawk](https://open.spotify.com/artist/1XWGJNww9690UJ1GmXq4Sk), [Punk Rock Karaoke](https://open.spotify.com/artist/2AAW0UubUv6ZiTKCAP7x5N) | [In The City](https://open.spotify.com/album/00Kqo28njLLiNWOzWv2TMj) | 2:26 |
 | 53 | [BETTER OFF](https://open.spotify.com/track/3bmLQ2dntVPxWMipSZDOBy) | [Common Perry](https://open.spotify.com/artist/4XjJbzwCf6AOYhUsG15Z2G) | [BETTER OFF](https://open.spotify.com/album/6adJptcl08ngKGQ3YVZqO1) | 2:32 |
-| 54 | [East of the 405](https://open.spotify.com/track/04kp9WPZwHTE2ZjxcJJKOy) | [Strawberry Fuzz](https://open.spotify.com/artist/5xadFKKSMplAet2Es2y0i2) | [Strongs Dr.](https://open.spotify.com/album/00u5YhHQXwFvEr7er1Byqk) | 2:06 |
+| 54 | [East of the 405](https://open.spotify.com/track/3fGU4O0wjsLvVd2CZKZKWE) | [Strawberry Fuzz](https://open.spotify.com/artist/5xadFKKSMplAet2Es2y0i2) | [Strongs Dr.](https://open.spotify.com/album/1UOc2j96BYyNJuzdckufFh) | 2:06 |
 | 55 | [L.A.](https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt) | [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Murray's Revenge](https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq) | 2:49 |
 | 56 | [If You Must](https://open.spotify.com/track/5eV0XIpuWFS8H7OYDDxA4E) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Both Sides Of The Brain](https://open.spotify.com/album/6DHCRrWGl9f57G4JBu4AVv) | 3:45 |
 | 57 | [House of Suffering](https://open.spotify.com/track/0YvP6KJdsUpuQnHBExeyyV) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [I Against I](https://open.spotify.com/album/6xw5oNhHoLltpXCFONNnqs) | 2:29 |
 | 58 | [Roller](https://open.spotify.com/track/7bxXappWyav3ZDuSJ7Z1F7) | [The Saint Cecilia](https://open.spotify.com/artist/2e8gf6BOQ9GOm7nqsLoi3n) | [Roller](https://open.spotify.com/album/2UYpYOyTqFHDH38B9ZL6rb) | 3:35 |
 | 59 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 
-Snapshot ID: `AAAAAGnbCKC3B4FBnT+/YQ4YGGv4Z4BR`
+Snapshot ID: `AAAAAJUjc1si4UEv27WXxv9/FUCSg5hw`

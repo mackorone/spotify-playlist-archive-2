@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auUvgAAAAABu65GJyf7mm0zL6Wdnukph",
+  "snapshot_id": "auaBAAAAAADOArjjJPqdMqdEhiZvnoM8",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "duration_ms": 222357,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Holy Bassgod EP",
         "url": "https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 166263,
       "name": "Kawaii 808",
       "url": "https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 222357,
-      "name": "Foreign",
-      "url": "https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vaselina (feat. euro)",
-        "url": "https://open.spotify.com/album/61EHBfjPMbmnzgiolYJzZ6"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "euro",
-          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
-        }
-      ],
-      "duration_ms": 157498,
-      "name": "Vaselina (feat. euro)",
-      "url": "https://open.spotify.com/track/3Pwpl8jKwkliCAg7CNrb6O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be My Baby",
         "url": "https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 151020,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vaselina (feat. euro)",
+        "url": "https://open.spotify.com/album/61EHBfjPMbmnzgiolYJzZ6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "duration_ms": 157498,
+      "name": "Vaselina (feat. euro)",
+      "url": "https://open.spotify.com/track/3Pwpl8jKwkliCAg7CNrb6O"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO DIS?",
-        "url": "https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 124987,
-      "name": "WHO DIS?",
-      "url": "https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bassgod",
         "url": "https://open.spotify.com/album/4Yi5FlWp2CuxQsP0ORMlRg"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHO DIS?",
+        "url": "https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 124987,
+      "name": "WHO DIS?",
+      "url": "https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mardial & Friends",
         "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
       },
@@ -587,6 +587,38 @@
       "duration_ms": 185892,
       "name": "Digital Love",
       "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOOD GIRL",
+        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
     },
     {
       "added_at": null,
@@ -611,38 +643,6 @@
       "duration_ms": 281642,
       "name": "Don't Touch Me",
       "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOOD GIRL",
-        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "GOOD GIRL",
-      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Onto The Next",
-        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Onto The Next",
-      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "out of control (feat. Rayi Putra)",
-      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
       },
@@ -823,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "out of control (feat. Rayi Putra)",
+      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHACHU MEAN",
         "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
       },
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+        "name": "Lit in Shanghai",
+        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "PSY.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
         }
       ],
-      "duration_ms": 205943,
-      "name": "gippal",
-      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
+      "duration_ms": 179277,
+      "name": "Lit in Shanghai",
+      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
     },
     {
       "added_at": null,
@@ -887,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lit in Shanghai",
-        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "PSY.P",
-          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Lit in Shanghai",
-      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -930,15 +914,11 @@
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
         }
       ],
-      "duration_ms": 174767,
-      "name": "i make time (feat. Matter Mos)",
-      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
+      "duration_ms": 205943,
+      "name": "gippal",
+      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
     },
     {
       "added_at": null,
@@ -1043,6 +1023,26 @@
       "duration_ms": 169796,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        }
+      ],
+      "duration_ms": 174767,
+      "name": "i make time (feat. Matter Mos)",
+      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
     },
     {
       "added_at": null,

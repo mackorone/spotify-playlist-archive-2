@@ -3762,6 +3762,24 @@
     {
       "album": {
         "name": "The Sun",
+        "url": "https://open.spotify.com/album/1firK4Zf4pe0vHXjwL1QfE"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Nervous System",
+      "url": "https://open.spotify.com/track/4Ep8X2aGFC9kgBP3kfZsjK"
+    },
+    {
+      "album": {
+        "name": "The Sun",
         "url": "https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt"
       },
       "artists": [
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 157400,
       "name": "Nervous System",
       "url": "https://open.spotify.com/track/6L4gFqY2OumTh17xbnsUnu"

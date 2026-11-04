@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,306 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,301 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 49 | [Black Fingernails, Red Wine](https://open.spotify.com/track/0ujklxrVM2jwpLMgbTwTd1) | [Eskimo Joe](https://open.spotify.com/artist/3yW6jTzGjHUUkLvLkjLOVn) | [Black Fingernails, Red Wine](https://open.spotify.com/album/4PXy3cBCNeY0ZVKTOGi9Cw) | 4:09 |
 | 50 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 |
 
-Snapshot ID: `AAAAAP26oQjh6jd0iTPJzfyRZwkH2vCn`
+Snapshot ID: `AAAAAH91fzxohkr/tbWGoHtzmhIPMpV2`

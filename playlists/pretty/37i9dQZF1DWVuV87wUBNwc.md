@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > TeddyBear au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,358,639 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,358,395 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [DJ](https://open.spotify.com/track/0ZFNx84bKLoCb2jx8FN2Az) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [DJ](https://open.spotify.com/album/5TvxAsfOCZqJwcbeZ5HnOu) | 3:09 |
 | 50 | [La pétasse](https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:30 |
 
-Snapshot ID: `AAAAAFnr1gtKTU9epS+gwAgF4T8XLs8N`
+Snapshot ID: `AAAAAObIwMdcC/26LSbUYuCTg/pcFpfQ`

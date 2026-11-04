@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Baumgart
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,627 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,613 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Blue Nacht](https://open.spotify.com/track/4j5P5kT5bnfHgrpRhWoET7) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH), [IDENTIKID](https://open.spotify.com/artist/5AaMJccDl5UtgGN1ShG57z) | [Blue Nacht](https://open.spotify.com/album/2TfHrBQS1VmvgrEpeEAaYd) | 4:41 |
 | 75 | [oktober](https://open.spotify.com/track/2HJGbzD9NRvYV9Hs1qOs6a) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [oktober](https://open.spotify.com/album/6C230g1UOxyCivhVA8HMHU) | 2:47 |
 
-Snapshot ID: `AAAAABQ/lTqkX3/fwHa8ovpv0w1rNUj+`
+Snapshot ID: `AAAAAG1GFRC6R/4Pm3MBrfUv20leizNG`

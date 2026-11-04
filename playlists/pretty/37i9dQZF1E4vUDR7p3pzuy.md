@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With NUDNIK, DIE DIE BE, Rue Oberkampf and more
+> With NUDNIK, JUST LIZZY, DIE DIE BE and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 8 likes - 50 songs - 3 hr 11 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 | 49 | [Indigo](https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY) | [Black Marigold](https://open.spotify.com/artist/543j3BkV1DatQSzgiPlrBf) | [Indigo](https://open.spotify.com/album/3gfZQBRJWuL5e2n7nsNrx3) | 4:09 |
 | 50 | [Red Rock Sunshine](https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs) | [Syldag](https://open.spotify.com/artist/3U6zxCdhPyezUWZfFCY9Y0) | [Red Rock Sunshine](https://open.spotify.com/album/4AsUhbAZN883l921jLbhmI) | 4:18 |
 
-Snapshot ID: `AAAAAOU9hiJGDxmVYk35Ixe4yjN/9xlc`
+Snapshot ID: `AAAAAOg5TNOkz5YUBZxlpOOjZRfguEo/`

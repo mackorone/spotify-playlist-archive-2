@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Mr Thela
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,398 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,434 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 59 | [Mokone \(feat\. Dr Skaro & Dj Janisto\)](https://open.spotify.com/track/0QLZcbPrpRZh1QAAwNANYt) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Poobington](https://open.spotify.com/artist/1ue9oEVioYpBEUlvPHnas4), [Dr Skaro](https://open.spotify.com/artist/2xkslEBMPDYAZzT2Ws2pUz), [DJ Janisto](https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW) | [BIG 30](https://open.spotify.com/album/4UJzumndO8KpSdhsNJROCA) | 5:08 |
 | 60 | [AIBOO \(feat\. Thukuthela\)](https://open.spotify.com/track/6kLHqjWarT4VMxRFjWrEpe) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Da Lee LS](https://open.spotify.com/artist/0ZQmMzhIBnlt5OVEZ1Vdhj), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [AIBOO \(feat\. Thukuthela\)](https://open.spotify.com/album/2wcwX6B4KH6gotP7mrvs3a) | 5:33 |
 
-Snapshot ID: `AAAAAF/zaPuJAra620TUhZY3hpzSCBk5`
+Snapshot ID: `AAAAAC8bMGsOnfilieQiACDGHnvs7xii`

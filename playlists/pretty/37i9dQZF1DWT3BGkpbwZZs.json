@@ -1,13 +1,33 @@
 {
   "description": "These Games are going to be different. Noah Kahan's \"Draw You Out\" is here, the first song from The Hunger Games: Sunrise on the Reaping. In theaters soon.",
-  "num_followers": 182767,
+  "num_followers": 183236,
   "original_name": "The Hunger Games: Sunrise on the Reaping Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGZP0FBAaJi+UkCfT+Q9oqqoL2dP",
+  "snapshot_id": "AAAAAEDnr5lKk5JuST0tdgh/e8JjWs11",
   "tracks": [
+    {
+      "added_at": "2026-11-03 14:22:26",
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 335367,
+      "name": "Favor - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C"
+    },
     {
       "added_at": "2026-10-16 04:00:15",
       "album": {

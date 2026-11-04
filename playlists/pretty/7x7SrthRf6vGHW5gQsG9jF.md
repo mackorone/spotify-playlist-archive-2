@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > 
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 1 like - 852 songs - 2 day 7 hr 0 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 1 like - 853 songs - 2 day 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -860,5 +860,6 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 850 | [World's End](https://open.spotify.com/track/48TSMbk7XwAPbZyzhow2Vb) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [HIGH HEART](https://open.spotify.com/album/1yzzf8SV2nxVnhy3jYX93g) | 3:33 |
 | 851 | [Donut](https://open.spotify.com/track/5sm3W18LafD8LKsBZCE946) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [桜が咲く前に](https://open.spotify.com/album/27bjGMpmoHyg0bWJPjNKVE) | 6:35 |
 | 852 | [Dawn and Fireflies](https://open.spotify.com/track/3i1dqflrqcLVxZeWi7r0pm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 5:08 |
+| 853 | [絶縁](https://open.spotify.com/track/4hTJX80GPyvoWHf720OegJ) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [友達がいました](https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq) | 6:30 |
 
-Snapshot ID: `AAAGFj3lDzA0aQynqKFUsQz02GAi4nXc`
+Snapshot ID: `AAAGFyUX2P8jfqfGsmbqMyx99dEIrab1`

@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 263046,
+  "num_followers": 263054,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEMga574HgL33ubsovECyVgpW2eI",
+  "snapshot_id": "AAAAAHQQjx2Zk2lHco0lQdbum42Dlt8Z",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:04",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
+        "name": "Sexy Goodbye",
+        "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Sexy Goodbye",
+      "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
         "name": "Run Back To You",
         "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 188750,
       "name": "Run Back To You",
       "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "Sexy Goodbye",
-        "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Sexy Goodbye",
-      "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "Why Don't You Stay (WorldTour Ver.)",
         "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 199380,
       "name": "i hope my cat loves me",
       "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "Space Shuttle No.8",
         "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 204555,
       "name": "Almost over you",
       "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh"
+        "name": "Still Blue",
+        "url": "https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF"
       },
       "artists": [
         {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         }
       ],
-      "duration_ms": 189931,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG"
+      "duration_ms": 205560,
+      "name": "Do Me Right",
+      "url": "https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY"
     }
   ],
   "unique_name": "tapioca",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Fit For A King
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,562 likes - 219 songs - 14 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,656 likes - 219 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 218 | [I End](https://open.spotify.com/track/049vOoxJLxwu8HHhxPW4iD) | [God Alone](https://open.spotify.com/artist/0n21GeRyqvoD6q21UVtBHg), [Tayne](https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF) | [I End](https://open.spotify.com/album/4nDDnTTaN3hLzrw3vpmEgi) | 3:25 |
 | 219 | [Sweet Nō1 \- Live](https://open.spotify.com/track/1XZq2ElCbutssyl1cjNmRD) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Michio Kurihara](https://open.spotify.com/artist/15wfNVVSOT566eJUKq9QH4) | [Sweet Nō1](https://open.spotify.com/album/7zFdKlC37VIx1F5mukhUNY) | 5:54 |
 
-Snapshot ID: `AAAAAHrf5Se+Sf8IX/J3pEGn/jp3anqj`
+Snapshot ID: `AAAAAJKhnjWMYDXkGnnk4P65/1ld75q0`

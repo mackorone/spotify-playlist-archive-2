@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 283490,
       "name": "A Vachi B Pai",
       "url": "https://open.spotify.com/track/4HJYuPeFQscnDtT4tFFhEC"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 254876,
       "name": "Aha Allari",
       "url": "https://open.spotify.com/track/7EYbTTLNqfRKHoYY8jT9Sy"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 230976,
       "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 254399,
       "name": "Athiloka Sundari",
       "url": "https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv"
@@ -1254,6 +1254,32 @@
       "duration_ms": 163354,
       "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
       "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
+    },
+    {
+      "album": {
+        "name": "Bhaja Govindam (From \"Reality\")",
+        "url": "https://open.spotify.com/album/0rV7whKU9DJsKa0p6nfMYU"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        },
+        {
+          "name": "Sanare",
+          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172978,
+      "name": "Bhaja Govindam (From \"Reality\")",
+      "url": "https://open.spotify.com/track/5NfvFbrm8whp2386MmyYpK"
     },
     {
       "album": {
@@ -2406,6 +2432,24 @@
       "duration_ms": 224299,
       "name": "Daripontothundu",
       "url": "https://open.spotify.com/track/3ilUMXzt17n2l4SUAw3jPo"
+    },
+    {
+      "album": {
+        "name": "Daripontothundu",
+        "url": "https://open.spotify.com/album/158SMTJXbwDPYRKIAGWd9F"
+      },
+      "artists": [
+        {
+          "name": "Mamidi Mounika",
+          "url": "https://open.spotify.com/artist/3Ndbf8EbaxpIzFFEJ2eyBZ"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224351,
+      "name": "Daripontothundu",
+      "url": "https://open.spotify.com/track/3cqhSLSwLgHojdZqD8ZLne"
     },
     {
       "album": {
@@ -3598,7 +3642,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 256217,
       "name": "Gundu Sudhi",
       "url": "https://open.spotify.com/track/1O830N4qSvTEjDqDyvAuWQ"
@@ -4334,7 +4378,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 249169,
       "name": "Irumudi Kattu (From \"Irumudi\")",
       "url": "https://open.spotify.com/track/0d2LuBhacKiZZpBWZD6OD2"
@@ -4498,6 +4542,28 @@
       "duration_ms": 252074,
       "name": "Jigithara (From \"Chennai Love Story\")",
       "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
+    },
+    {
+      "album": {
+        "name": "Jim Jim Tara (From \"Parnashala\")",
+        "url": "https://open.spotify.com/album/1uZEwgQKdPteNOK9aHtH5c"
+      },
+      "artists": [
+        {
+          "name": "Vinay Sasidhar",
+          "url": "https://open.spotify.com/artist/0fqX1tl6Cu4BPK0oiY5IcB"
+        },
+        {
+          "name": "Gokula Lakshmi Devi",
+          "url": "https://open.spotify.com/artist/18C26zSSOv5hAHbWeX5TSn"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174771,
+      "name": "Jim Jim Tara (From \"Parnashala\")",
+      "url": "https://open.spotify.com/track/1kMM3S1fiekhwI0NnBuf5C"
     },
     {
       "album": {
@@ -5306,7 +5372,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 246909,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
@@ -9124,7 +9190,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 103668,
       "name": "Sammakka",
       "url": "https://open.spotify.com/track/0pK4CzGihaILc3kzVfqChx"
@@ -10456,6 +10522,32 @@
       "duration_ms": 245666,
       "name": "Veera Dheera",
       "url": "https://open.spotify.com/track/1oyA1gaiHOj7HtDWo35K25"
+    },
+    {
+      "album": {
+        "name": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
+        "url": "https://open.spotify.com/album/0kI1K8IHdTzxzXgbqAv5Oo"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236081,
+      "name": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu]",
+      "url": "https://open.spotify.com/track/49lNkTFmQPV69oiogQgGlI"
     },
     {
       "album": {

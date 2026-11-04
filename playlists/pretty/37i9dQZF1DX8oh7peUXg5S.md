@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,301 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,334 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 20 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
 | 21 | [Desbocada y contenida](https://open.spotify.com/track/6V7l0Jl6ILDsLbqs0UAc5T) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Desbocada y contenida](https://open.spotify.com/album/1dN6TAVgHJP5US3uidMFWQ) | 3:11 |
 | 22 | [19 Días y 500 Noches \- En Directo](https://open.spotify.com/track/1nc8BtidrX9dfRdoA1PArc) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Hola y Adiós \(En Directo\)](https://open.spotify.com/album/7KSJmW2DZSoCixtv3jqWom) | 5:16 |
-| 23 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
+| 23 | [¿Cómo se ama?](https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:38 |
 | 24 | [Quemas \- 2026](https://open.spotify.com/track/7EKWxJ86vKdOkU4fmJ3EQI) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Quemas \(2026\)](https://open.spotify.com/album/7wj7LIIkWYY5vtIMtLIZHw) | 2:47 |
-| 25 | [¿Cómo se ama?](https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:38 |
+| 25 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
 | 26 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
 | 27 | [La Flor de la Canela \(with Joaquín Sabina\)](https://open.spotify.com/track/7uWPGOYJ5VD9ygh33Eemex) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 28 | [TÚ Y YO](https://open.spotify.com/track/1KiuTIseJQUVj8QkhfcyqN) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz), [Mateo Latorre](https://open.spotify.com/artist/4uPTJCn39hxqi4LSXZCld5) | [TÚ Y YO](https://open.spotify.com/album/6TKP2GcRy5oHvwTz9JvDU9) | 3:01 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 55 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [¿Quién Puso Más?](https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G) | 3:05 |
 | 56 | [Toda una Vida](https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 1:55 |
 | 57 | [Santa Lucia](https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Canciones De Amor Para Tiempos Dificiles](https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR) | 3:45 |
-| 58 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
-| 59 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
+| 58 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
+| 59 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
 | 60 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 61 | [Slowly](https://open.spotify.com/track/2ZZvtilGKmGDAdz9IU1EG2) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 5:39 |
 | 62 | [Humo](https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [50 Palos](https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Mi voz](https://open.spotify.com/track/6A2aJPiCRaZ3AJKB89aTBn) | [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN) | [Mi voz](https://open.spotify.com/album/1AU9PfraT7PooMWZ6wc6NQ) | 4:56 |
 | 100 | [VA A LLOVER](https://open.spotify.com/track/3g08pD1TWXD6RRn05KfN9G) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [VA A LLOVER](https://open.spotify.com/album/57QQpSpVVs0awBTWMkwX5Y) | 3:55 |
 
-Snapshot ID: `AAAAAPU3Fl92fveYANmhKu6iiLgWYPiI`
+Snapshot ID: `AAAAAMlv1MdatD6iOklx6a9cyx8Cy4t8`

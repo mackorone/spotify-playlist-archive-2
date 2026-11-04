@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Louis Ottley",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Danny Griffiths",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -29178,7 +29178,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 175853,
       "name": "i keep falling in love",
       "url": "https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz"
@@ -35955,6 +35955,24 @@
     },
     {
       "album": {
+        "name": "Lightweight Champion",
+        "url": "https://open.spotify.com/album/4DMBw5kau1j7SFgeYFFAz5"
+      },
+      "artists": [
+        {
+          "name": "Danny Griffiths",
+          "url": "https://open.spotify.com/artist/1D7ogs6m8zs5JAY950koox"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "Lightweight Champion",
+      "url": "https://open.spotify.com/track/2V2gSjlWbCUbyK8ldJEgTM"
+    },
+    {
+      "album": {
         "name": "Deer In The Headlights",
         "url": "https://open.spotify.com/album/382WnZSUuDvsT2YhNWS3Ih"
       },
@@ -38815,6 +38833,24 @@
     },
     {
       "album": {
+        "name": "Man Bites Dog",
+        "url": "https://open.spotify.com/album/74YV4Pw3tHrCXZpyEbHc8l"
+      },
+      "artists": [
+        {
+          "name": "Big Red",
+          "url": "https://open.spotify.com/artist/6BEEGVEK6XIrmqi64E66vC"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235238,
+      "name": "Man Bites Dog",
+      "url": "https://open.spotify.com/track/0sesBsbyKGy0ZkuTFjgZAs"
+    },
+    {
+      "album": {
         "name": "MAN ENOUGH",
         "url": "https://open.spotify.com/album/3M8b9tg4umMQu3NxpbYlpQ"
       },
@@ -39598,7 +39634,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 227130,
       "name": "melancholy (chain)",
       "url": "https://open.spotify.com/track/5CAxWw8SslEPgfMWJdIOQb"
@@ -45540,6 +45576,24 @@
       "duration_ms": 212571,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4ovKWLYtCgL5CQQoi5qTrZ"
+    },
+    {
+      "album": {
+        "name": "Only Yours For The Moment",
+        "url": "https://open.spotify.com/album/2fT2MaN9lZJrtJ6KLfOtqL"
+      },
+      "artists": [
+        {
+          "name": "Amahla",
+          "url": "https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155646,
+      "name": "Only Yours For The Moment",
+      "url": "https://open.spotify.com/track/0ehykySALxYm3XYmN43ysj"
     },
     {
       "album": {
@@ -53999,6 +54053,28 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE WAY TO YOU",
+        "url": "https://open.spotify.com/album/6XBy2O9dRWKU8N7zyMhuf2"
+      },
+      "artists": [
+        {
+          "name": "Luke Champion",
+          "url": "https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186609,
+      "name": "SHOW ME THE WAY TO YOU",
+      "url": "https://open.spotify.com/track/58V6VHSUFjPMpowEbKaiVL"
+    },
+    {
+      "album": {
         "name": "Show Up",
         "url": "https://open.spotify.com/album/6lNSdFTw25ttL9uOwTk2zm"
       },
@@ -54208,7 +54284,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 144219,
       "name": "sideit",
       "url": "https://open.spotify.com/track/0z9St5nevsTxFsR5JEgMvL"
@@ -57548,7 +57624,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 193600,
       "name": "Stuck between",
       "url": "https://open.spotify.com/track/3WeP2oTlRLOgQOCI6iPPEo"
@@ -57588,6 +57664,24 @@
       "duration_ms": 221789,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/4v1WZvjAic2aDNDfTklLZ8"
+    },
+    {
+      "album": {
+        "name": "Stupid Boy",
+        "url": "https://open.spotify.com/album/4gbvK3aMdBM7UJFOBabnEP"
+      },
+      "artists": [
+        {
+          "name": "1000 Rabbits",
+          "url": "https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252779,
+      "name": "Stupid Boy",
+      "url": "https://open.spotify.com/track/0RfrWr1Ej0zVvJstp4MT68"
     },
     {
       "album": {
@@ -61670,7 +61764,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 169032,
       "name": "THIRSTY",
       "url": "https://open.spotify.com/track/4A7X9ernJjLXBobHsc6fAk"
@@ -63859,6 +63953,24 @@
     },
     {
       "album": {
+        "name": "BABY DON'T MOVE",
+        "url": "https://open.spotify.com/album/7nlr2Ln63ZUnX1Bc3zb1OR"
+      },
+      "artists": [
+        {
+          "name": "Leah Cleaver",
+          "url": "https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179029,
+      "name": "UMA",
+      "url": "https://open.spotify.com/track/0rLZWVzNqEot2fpyXID4vP"
+    },
+    {
+      "album": {
         "name": "UMBRELLA",
         "url": "https://open.spotify.com/album/6ZoWQMynomp38sseTQukzQ"
       },
@@ -64144,7 +64256,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-04",
       "duration_ms": 283500,
       "name": "Unquiet",
       "url": "https://open.spotify.com/track/15Uu1CX29BRj53cZAZWnm4"

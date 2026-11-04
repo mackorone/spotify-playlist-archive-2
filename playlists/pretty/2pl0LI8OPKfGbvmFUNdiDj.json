@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1298,
+  "num_followers": 1323,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEmRX13hXK2JMnMchT5M6N7KzMM4oq",
+  "snapshot_id": "AAAEm46UsnQh0WypyADYujKcwqaIC3m1",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -879,6 +879,38 @@
       "duration_ms": 185846,
       "name": "No Room For Mistakes",
       "url": "https://open.spotify.com/track/24Flmni6C0usFionuuAWA9"
+    },
+    {
+      "added_at": "2026-11-03 21:58:45",
+      "album": {
+        "name": "I Can See You In The Stars",
+        "url": "https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "I Can See You In The Stars",
+      "url": "https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w"
+    },
+    {
+      "added_at": "2026-11-03 22:37:29",
+      "album": {
+        "name": "Storm The Castle",
+        "url": "https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "Storm The Castle",
+      "url": "https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pushing pop forwards <3!! <br/>cover: girl group
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,256 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,229 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 99 | [DRIP](https://open.spotify.com/track/3tkNHEBilPeEv7n9nEN8Fc) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [DRIP](https://open.spotify.com/album/6X67XDQZ73sIVdZqXu84Jq) | 2:48 |
 | 100 | [Lost Signal](https://open.spotify.com/track/2I597clj5PJWixyMR47HRi) | [Internet Cafe](https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6) | [Lost Signal](https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ) | 2:33 |
 
-Snapshot ID: `AAAAAMN3HcZaUTp5q1jf9y8IBFR8pJkG`
+Snapshot ID: `AAAAADC8I4jZzdWinvHu7R1UfLGe4zGy`
