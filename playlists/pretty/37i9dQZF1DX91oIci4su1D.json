@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Giuseppe Ottaviani and Hypaton",
-  "num_followers": 893536,
+  "num_followers": 893496,
   "original_name": "trance mission",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,26 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
+        "name": "solo (KETTAMA remix)",
+        "url": "https://open.spotify.com/album/1P3t63miBEpa4OqlIipdSB"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         },
         {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
         }
       ],
-      "duration_ms": 184419,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
+      "duration_ms": 260571,
+      "name": "solo - KETTAMA remix",
+      "url": "https://open.spotify.com/track/2cmtyqW7yIflk6OEQDH2G6"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -611,26 +615,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "solo (KETTAMA remix)",
-        "url": "https://open.spotify.com/album/1P3t63miBEpa4OqlIipdSB"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 260571,
-      "name": "solo - KETTAMA remix",
-      "url": "https://open.spotify.com/track/2cmtyqW7yIflk6OEQDH2G6"
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -683,18 +679,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w"
       },
       "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
         {
           "name": "Funk Tribu",
           "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 226831,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+      "duration_ms": 184419,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Ride At Dawn",
-        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Zo\u00eb Johnston",
-          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
-        }
-      ],
-      "duration_ms": 173554,
-      "name": "Ride At Dawn",
-      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Memories Of Space",
         "url": "https://open.spotify.com/album/3A5u51agi4getEhGu96dac"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 234782,
       "name": "Memories Of Space",
       "url": "https://open.spotify.com/track/1hsTJPpq5wAEBDakGTQgk7"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Zo\u00eb Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
+        }
+      ],
+      "duration_ms": 173554,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Anjunabeats Volume 17",
-        "url": "https://open.spotify.com/album/3PsLUt8YlPMfNsD4ogK7r6"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 208062,
-      "name": "Feel The Vibe",
-      "url": "https://open.spotify.com/track/3C1brtEUZwjlQKLttdVTkS"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Oldskool",
         "url": "https://open.spotify.com/album/3jqkSYjOCDlNz4XEhYChOy"
       },
@@ -1471,26 +1455,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Under The Sky (Broken Tides)",
-        "url": "https://open.spotify.com/album/1YqxarREgAOA2blJaaIWMN"
+        "name": "Anjunabeats Volume 17",
+        "url": "https://open.spotify.com/album/3PsLUt8YlPMfNsD4ogK7r6"
       },
       "artists": [
         {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
-        },
-        {
-          "name": "Annabel",
-          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
-        },
-        {
-          "name": "dj try",
-          "url": "https://open.spotify.com/artist/7E5PgS3pelJYovRn4EQv3F"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Under The Sky (Broken Tides)",
-      "url": "https://open.spotify.com/track/6gj7oA7LjU9AGyoJ2rTLHg"
+      "duration_ms": 208062,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/3C1brtEUZwjlQKLttdVTkS"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1515,6 +1491,30 @@
       "duration_ms": 163467,
       "name": "Blade",
       "url": "https://open.spotify.com/track/7bTferX0fQLgLm7Sr85AIc"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "Under The Sky (Broken Tides)",
+        "url": "https://open.spotify.com/album/1YqxarREgAOA2blJaaIWMN"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        },
+        {
+          "name": "dj try",
+          "url": "https://open.spotify.com/artist/7E5PgS3pelJYovRn4EQv3F"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Under The Sky (Broken Tides)",
+      "url": "https://open.spotify.com/track/6gj7oA7LjU9AGyoJ2rTLHg"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Sort It Out",
-        "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Clouds",
-          "url": "https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim"
-        }
-      ],
-      "duration_ms": 271415,
-      "name": "Sort It Out",
-      "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Hold My Breath",
         "url": "https://open.spotify.com/album/70LQ9HF10LILutNmHe1TAQ"
       },
@@ -1707,22 +1687,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Bigger Than All Of Us (Club Mix)",
-        "url": "https://open.spotify.com/album/66SVqoxHHXUfLBoj5vCv9U"
+        "name": "Sort It Out",
+        "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         },
         {
-          "name": "Justine Suissa",
-          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+          "name": "Clouds",
+          "url": "https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim"
         }
       ],
-      "duration_ms": 228797,
-      "name": "Bigger Than All Of Us - Above & Beyond Club Mix",
-      "url": "https://open.spotify.com/track/3BvKrvifBeTAsKlQSTAOv1"
+      "duration_ms": 271415,
+      "name": "Sort It Out",
+      "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1743,6 +1723,26 @@
       "duration_ms": 246870,
       "name": "Have You Ever Loved (Ellie)",
       "url": "https://open.spotify.com/track/6LXP8uM57vLvhjiCDYvnys"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "Bigger Than All Of Us (Club Mix)",
+        "url": "https://open.spotify.com/album/66SVqoxHHXUfLBoj5vCv9U"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "duration_ms": 228797,
+      "name": "Bigger Than All Of Us - Above & Beyond Club Mix",
+      "url": "https://open.spotify.com/track/3BvKrvifBeTAsKlQSTAOv1"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1971,46 +1971,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "On The Beach",
-        "url": "https://open.spotify.com/album/5Gi45IDvGuifFsdLqavtHS"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Sacha Harland",
-          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
-        },
-        {
-          "name": "YORK",
-          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "On The Beach",
-      "url": "https://open.spotify.com/track/3P3Kae2WhHcoJK3cNl76R0"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "Second Tomorrow",
-        "url": "https://open.spotify.com/album/5VY64LUY1AiLsKNOXjilep"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        }
-      ],
-      "duration_ms": 261657,
-      "name": "Second Tomorrow",
-      "url": "https://open.spotify.com/track/0on3Jpax9ol60AcSLmEeBB"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Home Is Here",
         "url": "https://open.spotify.com/album/43NiR03DmdSqCUaEtw8zbj"
       },
@@ -2039,18 +1999,42 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
+        "name": "Second Tomorrow",
+        "url": "https://open.spotify.com/album/5VY64LUY1AiLsKNOXjilep"
       },
       "artists": [
         {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
         }
       ],
-      "duration_ms": 236996,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
+      "duration_ms": 261657,
+      "name": "Second Tomorrow",
+      "url": "https://open.spotify.com/track/0on3Jpax9ol60AcSLmEeBB"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/5Gi45IDvGuifFsdLqavtHS"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/3P3Kae2WhHcoJK3cNl76R0"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2067,6 +2051,22 @@
       "duration_ms": 178793,
       "name": "I Never Want This To End",
       "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        }
+      ],
+      "duration_ms": 236996,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Years On Years (Remixes)",
+        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 116411,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3sqeb5HKQUAjQf9hvv0Woy"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Papaye",
         "url": "https://open.spotify.com/album/3ItzPOTiOBnYfbqxisibyn"
       },
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Years On Years (Remixes)",
-        "url": "https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 116411,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/3sqeb5HKQUAjQf9hvv0Woy"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
       },
@@ -2375,6 +2375,26 @@
       "duration_ms": 210236,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "When I Found You",
+        "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "When I Found You",
+      "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2411,26 +2431,6 @@
       "duration_ms": 135121,
       "name": "Lizard",
       "url": "https://open.spotify.com/track/1Hwya4SBJolchteMgReeSF"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "When I Found You",
-        "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        },
-        {
-          "name": "Ciaran McAuley",
-          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "When I Found You",
-      "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
     },
     {
       "added_at": "2026-10-15 22:02:52",

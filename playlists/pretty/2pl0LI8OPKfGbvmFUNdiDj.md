@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,323 likes - 55 songs - 2 hr 59 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,325 likes - 57 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 53 | [No Room For Mistakes](https://open.spotify.com/track/24Flmni6C0usFionuuAWA9) | [Cosmic Revival](https://open.spotify.com/artist/7tEfnUn9b37STFIIEBkogv) | [No Room For Mistakes](https://open.spotify.com/album/5HvHXK8emGWuET339Quh5Y) | 3:05 |
 | 54 | [I Can See You In The Stars](https://open.spotify.com/track/3MfA1yDe4qSraFjCxqjK8w) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [I Can See You In The Stars](https://open.spotify.com/album/5KssY0jyP9TMCioLpRA7uy) | 4:01 |
 | 55 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
+| 56 | [Good but not Okay](https://open.spotify.com/track/6hlWLgVkAF5KZzEPs0L1TW) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [Good but not Okay](https://open.spotify.com/album/1VRcZudvyYyffx3Oy4RdPF) | 2:56 |
+| 57 | [Quien Eres Tu](https://open.spotify.com/track/7wLDuGIKohd5uL2XS6aElg) | [Rasir Srv](https://open.spotify.com/artist/7IRwEoQapVLubr4u4KW8g8), [Lui Santana](https://open.spotify.com/artist/34lCY8BwfxQNjwCk61O0S3) | [Kenopsia](https://open.spotify.com/album/6DwiVyuMjmYVilA52OqiBP) | 3:46 |
 
-Snapshot ID: `AAAEm46UsnQh0WypyADYujKcwqaIC3m1`
+Snapshot ID: `AAAEnU1a1xUzBtirxP1iAE1tcSq+fSbG`

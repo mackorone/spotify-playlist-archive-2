@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Gara Durán.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,181 likes - 44 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,182 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 33 | [Esto del Amor Nada](https://open.spotify.com/track/2BvsXvXXWMxnCYNG8CwgTP) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Esto del Amor Nada](https://open.spotify.com/album/4eTy6HIxG2V7hE70TgVjTh) | 3:08 |
 | 34 | [Los Llamados Pitagóricos](https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Los Llamados Pitagóricos](https://open.spotify.com/album/6FsxcuAF5nouopLZ5ZE6Kz) | 4:02 |
 | 35 | [EL TASER DE MAMÁ \- REMIX](https://open.spotify.com/track/2SINilxUbNWB55Tcl6UFK5) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [PICHI](https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1) | [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/album/4I7qJNZaCBSR6mGKU4HxD1) | 4:33 |
-| 36 | [Kryptonita](https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:44 |
+| 36 | [Robot](https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:45 |
 | 37 | [Cómo Pensarte Mal](https://open.spotify.com/track/5N8fN1KXVJ4py0xKeeKr0D) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 2:25 |
 | 38 | [La Ruleta](https://open.spotify.com/track/6Bmtn6pCBjK8jea8HoouQg) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [La Ruleta](https://open.spotify.com/album/1EOtjk5NtQAAFWayhbCB2a) | 3:44 |
 | 39 | [El Rey De Los Judíos \(Un Cosquilleo\)](https://open.spotify.com/track/0rpWNeRBXnHPIaHBplGJW3) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:04 |
 | 40 | [TÚ Y YO](https://open.spotify.com/track/28DaYAyVnQwCIszMqi5FCV) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [TÚ Y YO](https://open.spotify.com/album/0kh1590sccSWKaAD5KeQcm) | 3:20 |
-| 41 | [Robot](https://open.spotify.com/track/6PlRV8KcMYSuS4p3tkSlow) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:45 |
+| 41 | [Kryptonita](https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:44 |
 | 42 | [Abraxas!](https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Abraxas!](https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i) | 4:09 |
 | 43 | [Sea como Sea](https://open.spotify.com/track/0P4VuDVzqrZMXGpgl8T20C) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Sea como Sea](https://open.spotify.com/album/4XxPjsotbbdjY4T4iDG5pP) | 2:43 |
 | 44 | [CONEJITA PLAYBOY](https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:18 |

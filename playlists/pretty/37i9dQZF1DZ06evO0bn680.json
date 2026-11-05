@@ -1,12 +1,12 @@
 {
   "description": "This is John Rutter. The essential tracks, all in one playlist.",
-  "num_followers": 4932,
+  "num_followers": 4933,
   "original_name": "This Is John Rutter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAAD1uGw66y1WP0F7U8bHPCv6",
+  "snapshot_id": "aufSgAAAAAB8vQMUXaYaXaZ8VbxJ5ihL",
   "tracks": [
     {
       "added_at": null,
@@ -503,30 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Images of Christ",
-        "url": "https://open.spotify.com/album/0undQIywvAA5eUvFzdMoy3"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s Luis de Victoria",
-          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "duration_ms": 104120,
-      "name": "Jesu, Dulcis Memoria",
-      "url": "https://open.spotify.com/track/1Swo8nREx4yWbFU1XPmJc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faur\u00e9: Requiem & Other Sacred Music",
         "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
       },
@@ -555,6 +531,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Images of Christ",
+        "url": "https://open.spotify.com/album/0undQIywvAA5eUvFzdMoy3"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "duration_ms": 104120,
+      "name": "Jesu, Dulcis Memoria",
+      "url": "https://open.spotify.com/track/1Swo8nREx4yWbFU1XPmJc3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Thou My Vision: Sacred Music by John Rutter",
         "url": "https://open.spotify.com/album/5i0B9cZj9tnNkj9YDihBT8"
       },
@@ -575,34 +575,6 @@
       "duration_ms": 168040,
       "name": "All Things Bright and Beautiful",
       "url": "https://open.spotify.com/track/5sEUXzw2xA2RHPgcpADJV0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "John Rutter: Magnificat",
-        "url": "https://open.spotify.com/album/7n4GlBeOIwnneRCVYEvu64"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Patricia Forbes",
-          "url": "https://open.spotify.com/artist/5LopB2Pull3ZlzrVrKzzzS"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "Magnificat: VI. Esurientes",
-      "url": "https://open.spotify.com/track/0E1z9ZDznD1g75D47FVFE8"
     },
     {
       "added_at": null,
@@ -663,6 +635,34 @@
       "duration_ms": 214213,
       "name": "Requiem in D Minor, Op. 48: IV. Pie Jesu",
       "url": "https://open.spotify.com/track/5s5U9wkbRLgnsupyq3wFBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "John Rutter: Magnificat",
+        "url": "https://open.spotify.com/album/7n4GlBeOIwnneRCVYEvu64"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Patricia Forbes",
+          "url": "https://open.spotify.com/artist/5LopB2Pull3ZlzrVrKzzzS"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "Magnificat: VI. Esurientes",
+      "url": "https://open.spotify.com/track/0E1z9ZDznD1g75D47FVFE8"
     },
     {
       "added_at": null,
@@ -892,8 +892,8 @@
       },
       "artists": [
         {
-          "name": "Giovanni Pierluigi da Palestrina",
-          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
         },
         {
           "name": "The Cambridge Singers",
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 195293,
-      "name": "Sicut Cervus: I. Sicut cervus desiderat",
-      "url": "https://open.spotify.com/track/2vH3hHlksE5igsMzPtruCG"
+      "duration_ms": 198346,
+      "name": "O vos omnes, qui transitis per viam",
+      "url": "https://open.spotify.com/track/39fTWpfEWSD1ARo2sF4wAG"
     },
     {
       "added_at": null,
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         }
       ],
-      "duration_ms": 322733,
-      "name": "Magnificat: III. Quia fecit mihi magna",
-      "url": "https://open.spotify.com/track/5o94yXRb2Y4cdyucr8sy0f"
+      "duration_ms": 217000,
+      "name": "Magnificat: V. Fecit potentiam",
+      "url": "https://open.spotify.com/track/211DFGIf93xMzvIouu7Yym"
     },
     {
       "added_at": null,
@@ -1000,8 +1000,8 @@
       },
       "artists": [
         {
-          "name": "Tom\u00e1s Luis de Victoria",
-          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
         },
         {
           "name": "The Cambridge Singers",
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 198346,
-      "name": "O vos omnes, qui transitis per viam",
-      "url": "https://open.spotify.com/track/39fTWpfEWSD1ARo2sF4wAG"
+      "duration_ms": 195293,
+      "name": "Sicut Cervus: I. Sicut cervus desiderat",
+      "url": "https://open.spotify.com/track/2vH3hHlksE5igsMzPtruCG"
     },
     {
       "added_at": null,
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Magnificat: V. Fecit potentiam",
-      "url": "https://open.spotify.com/track/211DFGIf93xMzvIouu7Yym"
+      "duration_ms": 322733,
+      "name": "Magnificat: III. Quia fecit mihi magna",
+      "url": "https://open.spotify.com/track/5o94yXRb2Y4cdyucr8sy0f"
     },
     {
       "added_at": null,

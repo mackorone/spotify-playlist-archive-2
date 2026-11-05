@@ -2,7 +2,7 @@
 
 ### [EQUAL Benelux](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! November ambassador: <a href="spotify:artist:1ESdlHhFi2Ww9jt8qLOyYp">Elmer
+> Listen to women at full volume! November ambassador: <a href="spotify:artist:1ESdlHhFi2Ww9jt8qLOyYp">Elmer</a>
 
 3,803 songs - 8 day 7 hr 28 min
 

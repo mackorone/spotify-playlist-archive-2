@@ -1,12 +1,12 @@
 {
   "description": "This is Erykah Badu. The essential tracks, all in one playlist.",
-  "num_followers": 153205,
+  "num_followers": 153212,
   "original_name": "This Is Erykah Badu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAACSGTlI+JUng/20Oq27+uD1",
+  "snapshot_id": "aufSgAAAAACXfx0xX65pG6q7qN4rByYG",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 442506,
-      "name": "Echos",
-      "url": "https://open.spotify.com/track/3dcWjxOpSeOkaXt8bECN8i"
+      "duration_ms": 202678,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/0Qbn1nkJqAPSy0KXO5cGDO"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 202678,
-      "name": "Breezy",
-      "url": "https://open.spotify.com/track/0Qbn1nkJqAPSy0KXO5cGDO"
+      "duration_ms": 442506,
+      "name": "Echos",
+      "url": "https://open.spotify.com/track/3dcWjxOpSeOkaXt8bECN8i"
     },
     {
       "added_at": null,

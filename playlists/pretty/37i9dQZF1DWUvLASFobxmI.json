@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Equipo HC en portada.",
-  "num_followers": 532373,
+  "num_followers": 532378,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Cuando Se Haga De Noche",
-        "url": "https://open.spotify.com/album/1JBjepMflPft1aLR3dwWFN"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Cuando Se Haga De Noche",
-      "url": "https://open.spotify.com/track/2gBbXhcJKwji4r3aWTEksV"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Cuando Casi Te Olvidaba",
         "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 177750,
       "name": "Cuando Casi Te Olvidaba",
       "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Cuando Se Haga De Noche",
+        "url": "https://open.spotify.com/album/1JBjepMflPft1aLR3dwWFN"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Cuando Se Haga De Noche",
+      "url": "https://open.spotify.com/track/2gBbXhcJKwji4r3aWTEksV"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 166581,
-      "name": "Renacer",
-      "url": "https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "El Peor De Mis Fracasos",
         "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 219733,
       "name": "El Peor De Mis Fracasos",
       "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 166581,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Tras del Dolor",
-        "url": "https://open.spotify.com/album/3lITpzSz4nIoLvn5oK0wLQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hnos Rodriguez",
-          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
-        }
-      ],
-      "duration_ms": 254717,
-      "name": "Tras del Dolor",
-      "url": "https://open.spotify.com/track/5MhzgiRcnmK2ihDfJUx7IK"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Tu Culpa",
         "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
       },
@@ -747,22 +731,18 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Noche Perfecta",
-        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
+        "name": "Tras del Dolor",
+        "url": "https://open.spotify.com/album/3lITpzSz4nIoLvn5oK0wLQ"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
         }
       ],
-      "duration_ms": 204321,
-      "name": "Noche Perfecta",
-      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
+      "duration_ms": 254717,
+      "name": "Tras del Dolor",
+      "url": "https://open.spotify.com/track/5MhzgiRcnmK2ihDfJUx7IK"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -791,18 +771,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Y C\u00f3mo Es El",
-        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
+        "name": "Noche Perfecta",
+        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
       },
       "artists": [
         {
-          "name": "Grupo Exclusivo",
-          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 269072,
-      "name": "Y C\u00f3mo Es El",
-      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
+      "duration_ms": 204321,
+      "name": "Noche Perfecta",
+      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -823,6 +807,22 @@
       "duration_ms": 142586,
       "name": "Terco Y Que",
       "url": "https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Y C\u00f3mo Es El",
+        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        }
+      ],
+      "duration_ms": 269072,
+      "name": "Y C\u00f3mo Es El",
+      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Pluma Fina",
-        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 172705,
-      "name": "Pluma Fina",
-      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Canelovers 2.0",
         "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 138166,
       "name": "Como Te Va Mi Amor",
       "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Pluma Fina",
+        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 172705,
+      "name": "Pluma Fina",
+      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Anomalia",
-        "url": "https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Anomalia",
-      "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "FLOW ROCKSTAR",
         "url": "https://open.spotify.com/album/5yhV4kzTrPhJV4qV2UbOzr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 176610,
       "name": "FLOW ROCKSTAR",
       "url": "https://open.spotify.com/track/03iYAVW5ACzBlLp7TcuIdi"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Anomalia",
+        "url": "https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Anomalia",
+      "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Loco Jodido",
-        "url": "https://open.spotify.com/album/6CyVv4Gu9Y3ZXrpS6ldfD8"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "duration_ms": 188665,
-      "name": "Loco Jodido",
-      "url": "https://open.spotify.com/track/0Fkc7mopyiSWLMQSYOhDMy"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Arreando La Mula",
         "url": "https://open.spotify.com/album/2x26HGEeH9nmBf7LBKxYJb"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 142805,
       "name": "Arreando La Mula",
       "url": "https://open.spotify.com/track/2BN0gS4aqT6yFywU0kezjj"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Loco Jodido",
+        "url": "https://open.spotify.com/album/6CyVv4Gu9Y3ZXrpS6ldfD8"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "duration_ms": 188665,
+      "name": "Loco Jodido",
+      "url": "https://open.spotify.com/track/0Fkc7mopyiSWLMQSYOhDMy"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Entre Besos",
-        "url": "https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 187691,
-      "name": "Vibra Perfecta",
-      "url": "https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "No Te Da Verg\u00fcenza",
         "url": "https://open.spotify.com/album/53UsLp0OiG9YUnHYOfBJHm"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 184473,
       "name": "No Te Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/36rjhojiHUzrOCAk3A8Zbc"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Entre Besos",
+        "url": "https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 187691,
+      "name": "Vibra Perfecta",
+      "url": "https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ"
     },
     {
       "added_at": "2026-10-16 05:41:28",

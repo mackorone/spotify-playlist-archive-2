@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover:BABYMONSTER\)
+> Future K\-Pop hits! \(Cover: TWS\)
 
 1,825 songs - 4 day 1 hr 15 min
 

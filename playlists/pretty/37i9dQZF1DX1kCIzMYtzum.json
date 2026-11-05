@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99\ud83d\udc99 featuring Martin Garrix",
-  "num_followers": 567825,
+  "num_followers": 568000,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-10-30 04:00:48",
       "album": {
-        "name": "You And I, Me And You",
-        "url": "https://open.spotify.com/album/5cOvcRauWrEYwjrA8bg2WP"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "You And I, Me And You",
-      "url": "https://open.spotify.com/track/6jEuSifwkZehn7IvadDeOQ"
-    },
-    {
-      "added_at": "2026-10-30 04:00:48",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 160758,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
+    },
+    {
+      "added_at": "2026-10-30 04:00:48",
+      "album": {
+        "name": "You And I, Me And You",
+        "url": "https://open.spotify.com/album/5cOvcRauWrEYwjrA8bg2WP"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "You And I, Me And You",
+      "url": "https://open.spotify.com/track/6jEuSifwkZehn7IvadDeOQ"
     },
     {
       "added_at": "2026-10-30 04:00:48",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2026-10-30 04:00:48",
       "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 203307,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
-    },
-    {
-      "added_at": "2026-10-30 04:00:48",
-      "album": {
         "name": "Deep In Your Love",
         "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 199741,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3zlLhEnV9yMRRSE3bFS0Xe"
+    },
+    {
+      "added_at": "2026-10-30 04:00:48",
+      "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "added_at": "2026-10-30 04:00:48",
@@ -1783,8 +1783,8 @@
     {
       "added_at": "2026-10-30 04:00:48",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
+        "name": "Impacto (Makina)",
+        "url": "https://open.spotify.com/album/1DmANlD3RtA0ydHBUYoaDM"
       },
       "artists": [
         {
@@ -1792,13 +1792,17 @@
           "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+          "name": "Schak",
+          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
+        },
+        {
+          "name": "DJ Skryker",
+          "url": "https://open.spotify.com/artist/73umhFgTsf1Zuoc1KOS0cO"
         }
       ],
-      "duration_ms": 131207,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
+      "duration_ms": 120000,
+      "name": "Impacto (Makina)",
+      "url": "https://open.spotify.com/track/4OblbJyYJjD4NBiEwT3bkk"
     },
     {
       "added_at": "2026-10-30 04:00:48",
@@ -1891,8 +1895,8 @@
     {
       "added_at": "2026-10-30 04:00:48",
       "album": {
-        "name": "Impacto (Makina)",
-        "url": "https://open.spotify.com/album/1DmANlD3RtA0ydHBUYoaDM"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
       },
       "artists": [
         {
@@ -1900,17 +1904,13 @@
           "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Schak",
-          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
-        },
-        {
-          "name": "DJ Skryker",
-          "url": "https://open.spotify.com/artist/73umhFgTsf1Zuoc1KOS0cO"
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Impacto (Makina)",
-      "url": "https://open.spotify.com/track/4OblbJyYJjD4NBiEwT3bkk"
+      "duration_ms": 131207,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
     },
     {
       "added_at": "2026-10-30 04:00:48",

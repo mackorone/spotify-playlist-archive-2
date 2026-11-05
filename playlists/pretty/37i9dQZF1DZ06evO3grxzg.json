@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233279,
+  "num_followers": 233268,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAADIB5uB+6xo6803w9btYsLH",
+  "snapshot_id": "aufSgAAAAAD5Q7D7te9RLAFDN/1+Qz2U",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Me Enamoras",
-        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
-      },
-      "artists": [
-        {
-          "name": "Lalo Brito",
-          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 209824,
-      "name": "Mientras Me Enamoras",
-      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/05fpdfFa3XDb7gA5X822JO"
       },
@@ -383,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mientras Me Enamoras",
+        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
+      },
+      "artists": [
+        {
+          "name": "Lalo Brito",
+          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 209824,
+      "name": "Mientras Me Enamoras",
+      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
         "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Latino Hits 2024",
-        "url": "https://open.spotify.com/album/3DB9RMSI9mvwZ50yTMKdVT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum",
-      "url": "https://open.spotify.com/track/3TQzwGfw73310RvuqBLEYb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atrevete A So\u00f1ar (Original Sountrack)",
         "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 162440,
       "name": "Quiero Quedarme Aqui",
       "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Latino Hits 2024",
+        "url": "https://open.spotify.com/album/3DB9RMSI9mvwZ50yTMKdVT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "tqum",
+      "url": "https://open.spotify.com/track/3TQzwGfw73310RvuqBLEYb"
     },
     {
       "added_at": null,
@@ -767,34 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Divinas",
-          "url": "https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
-        },
-        {
-          "name": "Los Klasicos",
-          "url": "https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq"
-        },
-        {
-          "name": "Los Basikos",
-          "url": "https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2"
         }
       ],
-      "duration_ms": 312866,
-      "name": "A Coro - En Vivo",
-      "url": "https://open.spotify.com/track/4x79biRWWDHilrtzoI1Qsj"
+      "duration_ms": 190586,
+      "name": "Mar\u00eda Belem",
+      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
     },
     {
       "added_at": null,
@@ -847,6 +831,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Divinas",
+          "url": "https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        },
+        {
+          "name": "Los Klasicos",
+          "url": "https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq"
+        },
+        {
+          "name": "Los Basikos",
+          "url": "https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2"
+        }
+      ],
+      "duration_ms": 312866,
+      "name": "A Coro - En Vivo",
+      "url": "https://open.spotify.com/track/4x79biRWWDHilrtzoI1Qsj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop para los peques",
         "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
       },
@@ -856,25 +872,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Mar\u00eda Belem",
-      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIE7E",
-        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
+      "duration_ms": 229666,
+      "name": "Ilarie",
+      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
+        "name": "SIE7E",
+        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Ilarie",
-      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
+      "duration_ms": 182466,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Jovi Greene, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Aniston Pate, Artwork: Fanélie Muselier
 
-3,867 songs - 8 day 17 hr 44 min
+3,871 songs - 8 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Alright](https://open.spotify.com/track/5EHItlOyzoWN7hHZtgQYFj) | [Jackson Lee](https://open.spotify.com/artist/0sWtugKAIc2lpEePG7PUzK) | [Alright](https://open.spotify.com/album/4gRI03dkvcYmMXcvCoKpWs) | 3:33 | 2025-06-11 | 2025-09-18 |
 | [Always A Girl](https://open.spotify.com/track/4F8U3Cw66IbVQs4Y0MkTUo) | [Will Day](https://open.spotify.com/artist/6eUZAV9XRJh0Tzn7EGYJcw) | [Always A Girl](https://open.spotify.com/album/3KEV0EgwXWn3koQyFTMRh7) | 3:08 | 2023-01-25 | 2023-02-23 |
 | [Always Be Mine](https://open.spotify.com/track/7wHt2YAHvKN0dlE0xhQrTw) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Dreamer](https://open.spotify.com/album/2OxVm3bT3ESVdHAk71sycQ) | 3:03 | 2024-02-07 | 2024-03-28 |
-| [Always Colorado](https://open.spotify.com/track/0SmEU2ax9H0zuQFkrEUubU) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Always Colorado](https://open.spotify.com/album/6p1wftle6orAkCfnxQswtR) | 5:12 | 2026-09-16 |  |
+| [Always Colorado](https://open.spotify.com/track/0SmEU2ax9H0zuQFkrEUubU) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Always Colorado](https://open.spotify.com/album/6p1wftle6orAkCfnxQswtR) | 5:12 | 2026-09-16 | 2026-11-05 |
 | [Always Gonna Break My Heart](https://open.spotify.com/track/0assvfMBnNcD0fBgWi7gzE) | [Sinead Burgess](https://open.spotify.com/artist/5QsRg9VpETU5jyMR9yV4tJ) | [Always Gonna Break My Heart](https://open.spotify.com/album/4IGOc8Yv9uDwMu9cuFbB4Q) | 3:28 | 2024-03-13 | 2024-05-16 |
 | [Always Known](https://open.spotify.com/track/6a6N51A7NV4xHkUH6o6Val) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Always Known](https://open.spotify.com/album/1PhReRL1AHGgw3ANMHDK4B) | 2:39 | 2022-11-02 | 2023-01-20 |
 | [Always Never](https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Always Never](https://open.spotify.com/album/73jpbxXtDJj35UcwjctBdM) | 3:22 | 2023-03-22 | 2023-05-11 |
@@ -745,7 +745,7 @@
 | [Cut Myself Off](https://open.spotify.com/track/19GU9XHaVRunMfm9ZqOSpS) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Cut Myself Off](https://open.spotify.com/album/14I6ubYKauqbrlnppuUmZf) | 2:51 | 2022-03-23 | 2022-05-05 |
 | [Daisies](https://open.spotify.com/track/2ViAYebbWz4hZCxAEktBw5) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Daisies](https://open.spotify.com/album/5ShDo2xD6Qf057TCApyle6) | 2:32 | 2024-05-15 | 2024-07-04 |
 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 | 2026-05-27 | 2026-06-11 |
-| [Daisies From Dirt](https://open.spotify.com/track/2LwahuWcEHXxYeWQfGhpPv) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Daisies From Dirt](https://open.spotify.com/album/16H2GgbCykzHWTgsfohnPd) | 3:09 | 2026-08-26 |  |
+| [Daisies From Dirt](https://open.spotify.com/track/2LwahuWcEHXxYeWQfGhpPv) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Daisies From Dirt](https://open.spotify.com/album/16H2GgbCykzHWTgsfohnPd) | 3:09 | 2026-08-26 | 2026-11-05 |
 | [Daisy](https://open.spotify.com/track/7za9HMz5ZnzqUbbKnBPHzn) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Daisy](https://open.spotify.com/album/5jwVNPhSCpTYSVbX7f340d) | 4:18 | 2026-06-10 | 2026-08-20 |
 | [Damage](https://open.spotify.com/track/4itNm5VES3chJsckXwQuCI) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Damage](https://open.spotify.com/album/7KmUdR5K4xrlaXd4xltgau) | 3:16 | 2023-03-29 | 2023-04-20 |
 | [Damaged](https://open.spotify.com/track/6DBAe3qH1fvPo3tAnyoVIx) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [I Hope She Hears These](https://open.spotify.com/album/0itWFpjULmnQUTvN7ScOAh) | 3:30 | 2022-08-17 | 2023-01-12 |
@@ -1953,6 +1953,7 @@
 | [Let it Ride](https://open.spotify.com/track/2L5HXgrkbYd0DC9WfUeqJa) | [Kat Velasco](https://open.spotify.com/artist/6mH3jjOaHOIlxlloC2FjlC) | [Let it Ride](https://open.spotify.com/album/5Pz3pFzM1RjEXEXKmbnskn) | 2:59 | 2023-02-22 | 2023-03-30 |
 | [Let Me Go](https://open.spotify.com/track/6WE2cs0FgefYkmRPmfIXQt) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Let Me Go](https://open.spotify.com/album/2lb1qPF9p1chu2rrdn1rS4) | 3:30 | 2026-01-28 | 2026-03-12 |
 | [Let Me Love On You](https://open.spotify.com/track/3HgIqtmuGtzBI1pSYCitT5) | [Eli Cain](https://open.spotify.com/artist/4Xe6A9w57wCiWhEcEUOwli) | [Let Me Love On You](https://open.spotify.com/album/1ZsRIWggfpftFu2AfsQrJD) | 4:01 | 2025-01-15 | 2025-03-06 |
+| [Let Myself Go There](https://open.spotify.com/track/1gPIQKPHjCPGY3kReO2akr) | [Aniston Pate](https://open.spotify.com/artist/6qyJDLUmQQzIqPvNOv8UUq) | [Let Myself Go There](https://open.spotify.com/album/5V2R1bnOouM4ptzSBqbAw6) | 3:34 | 2026-11-04 |  |
 | [Let the Whiskey Do the Talking](https://open.spotify.com/track/6uIJftg3PeSu4hEwO3Kc5Y) | [Adam Warner](https://open.spotify.com/artist/7GeWZ4fFWxsApoLFcFC5zK) | [Let the Whiskey Do the Talking](https://open.spotify.com/album/3LaXsySSaqWZuVlurbQtfx) | 3:21 | 2025-06-18 | 2025-09-25 |
 | [Let Us Be](https://open.spotify.com/track/3LPjCrIvebzJEMu6hCJHH4) | [Sarah Beth Brewer](https://open.spotify.com/artist/4dMFrqTrPXSGw5Ttk4CvQM) | [Let Us Be](https://open.spotify.com/album/3Ykvj3REdbAks4Rfl3c6So) | 2:44 | 2024-09-06 | 2024-12-05 |
 | [Let You Down](https://open.spotify.com/track/44NyEz6Mmfg1uIKeNtEWLM) | [Faren Rachels](https://open.spotify.com/artist/2HweKwi0jfedpODDq7r2XN) | [Faren's Demo Jail](https://open.spotify.com/album/3tTM1puwIEDXb1OJFOumiZ) | 3:25 | 2024-03-20 | 2024-07-11 |
@@ -2226,6 +2227,7 @@
 | [Midnight In Milwaukee](https://open.spotify.com/track/4xRmsdxe9xyxOBoPPtcEa4) | [Nora Collins](https://open.spotify.com/artist/2VQCul6BaaFxpL6lkZUxUg) | [Midnight In Milwaukee](https://open.spotify.com/album/6JXNCuNmL2i8W0DcS1tHhT) | 3:31 | 2022-04-13 | 2022-05-26 |
 | [Midnight On A Map Dot](https://open.spotify.com/track/3QoAp1I1ISwXRe8NxRdBnw) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Midnight On A Map Dot](https://open.spotify.com/album/3WXWicIsTxzGytDUE4nEnT) | 2:37 | 2022-08-03 | 2022-09-15 |
 | [Might Be You](https://open.spotify.com/track/1BQ3KuQ4MfBSzWio5Q5JJJ) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Might Be You](https://open.spotify.com/album/5Z4qUTAsANnoIeDCM2c4zr) | 2:57 | 2023-02-08 | 2023-03-09 |
+| [Might've Been Me](https://open.spotify.com/track/3U6rGGVaS4CsDVxwElicxy) | [Brian Cole Kelly](https://open.spotify.com/artist/3LLyEUBwKQpyGG9Q7q5cwr) | [Might've Been Me](https://open.spotify.com/album/4X1DA3roEbhNCg2rMxyu6N) | 3:13 | 2026-11-04 |  |
 | [Mighta Met A Girl](https://open.spotify.com/track/0fxUny3hynUSDTloLen03Q) | [Pryor Baird](https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58) | [Mighta Met A Girl](https://open.spotify.com/album/1cmf5cC7O5LT9AGy9V29jd) | 2:38 | 2024-01-31 | 2024-03-28 |
 | [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 | 2022-07-20 | 2022-08-18 |
 | [Million Reasons](https://open.spotify.com/track/5VfPhNbng2QIXtVuBL3I4i) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [Million Reasons](https://open.spotify.com/album/7IlBenG3giox1eReKvsSF0) | 3:10 | 2022-06-29 | 2022-07-28 |
@@ -2735,7 +2737,7 @@
 | [Run](https://open.spotify.com/track/2L5PDiJ5rY42X4Nn3OGCfZ) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Run](https://open.spotify.com/album/2XCOacpeowwJBr7aaz7rZX) | 2:53 | 2025-01-29 | 2025-02-20 |
 | [Run](https://open.spotify.com/track/2OklPj4LFgnbEnF33eyml2) | [HALIE](https://open.spotify.com/artist/1u1Iv4ZAFm0Hm2fpII41s4) | [Run](https://open.spotify.com/album/3wQJGylABT5aao8yrbwgsT) | 3:18 | 2025-05-07 | 2025-09-04 |
 | [Run Away With You](https://open.spotify.com/track/6cSLSszDmQW5MeLW03UTUY) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Run Away With You](https://open.spotify.com/album/6LJ0y34cDfajVG12rpha6Z) | 2:45 | 2023-07-19 | 2024-01-11 |
-| [Run From It](https://open.spotify.com/track/6oAQq9hZMMHeHt12XhedMw) | [Hampton Hall](https://open.spotify.com/artist/7xjTw13OLHb0aLqqha5nfl) | [Run From It](https://open.spotify.com/album/0AXYM7418EeOt3VFEnylQf) | 3:15 | 2026-08-26 |  |
+| [Run From It](https://open.spotify.com/track/6oAQq9hZMMHeHt12XhedMw) | [Hampton Hall](https://open.spotify.com/artist/7xjTw13OLHb0aLqqha5nfl) | [Run From It](https://open.spotify.com/album/0AXYM7418EeOt3VFEnylQf) | 3:15 | 2026-08-26 | 2026-11-05 |
 | [Run From You](https://open.spotify.com/track/0MFkks40clRTBU42zqzUrq) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg) | [Run From You](https://open.spotify.com/album/4JvobFBALQHpzPXpoTfnfv) | 3:26 | 2025-11-13 | 2025-12-04 |
 | [Run Girl Run](https://open.spotify.com/track/3JdC1sHodJSQKB6CeIhTFr) | [Jess Antonette](https://open.spotify.com/artist/5TSuYlF2Nq7kAiSQ8Qe20G) | [Run Girl Run](https://open.spotify.com/album/3Qff5lmanAuoqWVx86RTuZ) | 2:42 | 2024-01-24 | 2024-02-29 |
 | [Run Out](https://open.spotify.com/track/4uzkxvMRxOYs6gkI7qbe8o) | [Buck Twenty](https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq) | [Run Out](https://open.spotify.com/album/0z4zdfSoUpR1bQGyLj1xDn) | 2:28 | 2023-10-18 | 2023-11-30 |
@@ -3030,6 +3032,7 @@
 | [Somewhere in Middle America](https://open.spotify.com/track/4qBsg15tarx6s5l4nG6lXq) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [Somewhere in Middle America](https://open.spotify.com/album/3dFecYLR08BLmbgSnGcWhZ) | 2:21 | 2022-02-09 | 2022-03-24 |
 | [Somewhere in Texas](https://open.spotify.com/track/3v1nstscrV7Fekj18K9QvH) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Somewhere in Texas](https://open.spotify.com/album/1ocrYCy5w5JMsJzQ9wGOiL) | 2:55 | 2025-01-15 | 2026-01-15 |
 | [Somewhere Sunny](https://open.spotify.com/track/15ExjnRcuE7ri0h2TmAWC2) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Somewhere Sunny](https://open.spotify.com/album/1jLCO0oew1aAFhOoVAysdz) | 3:15 | 2022-10-12 | 2022-12-01 |
+| [Somewhere with the Windows Down](https://open.spotify.com/track/6VwFjwV4UZ1jRjMg3rvYR2) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Somewhere with the Windows Down](https://open.spotify.com/album/0g3cmfrzB08nPlzrUSi1nP) | 4:07 | 2026-11-04 |  |
 | [Somewhere, Nowhere In Carolina](https://open.spotify.com/track/22z0zk7xsYEVToOEQDpbja) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [A Songwriter's Diary](https://open.spotify.com/album/2AZWN9xbNuGJp3bbwFBg9s) | 4:03 | 2024-11-06 | 2024-12-05 |
 | [Son of A](https://open.spotify.com/track/1FOwVLLOY7naEPelVEs0Kw) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Son of A](https://open.spotify.com/album/45VjuhEmUpltL9uV8IcnV6) | 2:41 | 2022-10-05 | 2022-12-01 |
 | [Son Stand Still](https://open.spotify.com/track/5vE7Ba1uzjBDZa9U8ExCHw) | [Alex Schofield](https://open.spotify.com/artist/42ojUyUpWBCKKeInUlTIZo) | [Son Stand Still](https://open.spotify.com/album/46PpO8CFMAZyRoDSOkRvRF) | 3:46 | 2022-06-08 | 2022-07-21 |
@@ -3457,7 +3460,7 @@
 | [Tulsa County Jail](https://open.spotify.com/track/6zg79P7CacwKjQBgCdFzTU) | [The Kruse Brothers](https://open.spotify.com/artist/3R58gxx259GoGeRrenhest) | [Heartbreak & Honky\-Tonk](https://open.spotify.com/album/2vkfZNm6KiKo5nWlaKJs0V) | 3:15 | 2026-01-28 | 2026-02-19 |
 | [Tumbleweed](https://open.spotify.com/track/0YkRXriKJQYXwTB6VGWBrU) | [Lance and Lea](https://open.spotify.com/artist/1UpiFVAkmJzipkPs8OOKHw) | [Tumbleweed](https://open.spotify.com/album/54aNBrWBlPbq3dWvDWntBA) | 2:58 | 2022-09-23 | 2022-12-01 |
 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-08-30 | 2024-01-11 |
-| [Turn On the Radio](https://open.spotify.com/track/6QOSSb1p7YnsDigM3dfg4T) | [KC Bruner](https://open.spotify.com/artist/6Hn5B6LUK3ITIJPfLBxvOg) | [Turn On the Radio](https://open.spotify.com/album/3UYZve02kCD2Az7PXsRe2A) | 3:19 | 2026-09-23 |  |
+| [Turn On the Radio](https://open.spotify.com/track/6QOSSb1p7YnsDigM3dfg4T) | [KC Bruner](https://open.spotify.com/artist/6Hn5B6LUK3ITIJPfLBxvOg) | [Turn On the Radio](https://open.spotify.com/album/3UYZve02kCD2Az7PXsRe2A) | 3:19 | 2026-09-23 | 2026-11-05 |
 | [Turn on Your Light](https://open.spotify.com/track/2Sd5Jh6zENrY4SLx2ZMdkv) | [Kate Cameron](https://open.spotify.com/artist/788oTi6YK2sbYWPFJSOKEo) | [Turn on Your Light](https://open.spotify.com/album/6QE7Wb5uh3F5Rhu5p7O0r9) | 3:02 | 2022-04-13 | 2022-05-26 |
 | [Turn This Love Around](https://open.spotify.com/track/4js6PdeNm5ZfPAaNZQyoKc) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Turn This Love Around](https://open.spotify.com/album/3OIPwE5oo0uhIAVyk4ShQX) | 2:53 | 2026-05-06 | 2026-07-31 |
 | [Turning You Into Her](https://open.spotify.com/track/16iAqasOUF9JZa8WnxXacI) | [Dawson Anderson](https://open.spotify.com/artist/6z1wQeRT32RJucR7LoCNVW) | [Turning You Into Her](https://open.spotify.com/album/1A4bbuJHZklERdNeLLBKPI) | 3:12 | 2025-09-17 | 2025-12-04 |
@@ -3874,6 +3877,7 @@
 | [Yours for the Breaking](https://open.spotify.com/track/3GUu6knJJbPb9sJvwwbo2X) | [Dawson Anderson](https://open.spotify.com/artist/6z1wQeRT32RJucR7LoCNVW) | [Yours for the Breaking](https://open.spotify.com/album/73N6FHX2GEYR24XSynHJfo) | 3:07 | 2024-10-23 | 2024-12-05 |
 | [Yours Truly](https://open.spotify.com/track/0QsFO7oKijgRsUxxed0YBo) | [Trae Taylor](https://open.spotify.com/artist/2pT7KoajeJudQMhB5rNGl4) | [Yours Truly](https://open.spotify.com/album/2Bl5AaN9W965u8KeaSDpoW) | 2:39 | 2025-06-04 | 2025-09-11 |
 | [Youth](https://open.spotify.com/track/4F3o1NgUyyVIMyc9jRmYyK) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Youth](https://open.spotify.com/album/5nMzr2speC3Wj7dlk718M6) | 3:16 | 2024-10-09 | 2024-12-05 |
+| [You’re Making Me Nervous](https://open.spotify.com/track/4cd0d3vYnlzUdYSK73etBM) | [KC Bruner](https://open.spotify.com/artist/6Hn5B6LUK3ITIJPfLBxvOg) | [You’re Making Me Nervous](https://open.spotify.com/album/0P1qVvSQQNLHVru4TrH578) | 3:25 | 2026-11-04 |  |
 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 | 2021-12-01 | 2022-01-13 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

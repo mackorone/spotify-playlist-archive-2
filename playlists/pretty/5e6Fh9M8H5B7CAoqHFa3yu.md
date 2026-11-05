@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,826 songs - 6 day 20 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,829 songs - 6 day 20 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2834,5 +2834,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2824 | [After Everyone](https://open.spotify.com/track/6gXpJUV7mz3BhPDs0ItnxI) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [After Everyone](https://open.spotify.com/album/3FPDHmZs7VnOTxhReQi7QZ) | 5:34 |
 | 2825 | [Beretta](https://open.spotify.com/track/0VFaEqa7TNduAhmdb2fZms) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Beretta](https://open.spotify.com/album/111P7r9dUv2YyFtbvjr9Xp) | 1:55 |
 | 2826 | [Goodbye](https://open.spotify.com/track/1WwK7SV3v8QZ8ti3dYiYjW) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Goodbye](https://open.spotify.com/album/6r60MTn1LtpisoBKpJ6UkO) | 2:19 |
+| 2827 | [canned applause \- Monica's Cut](https://open.spotify.com/track/1sbMosnyifEz4jEgZseN5d) | [Monica Rhodes](https://open.spotify.com/artist/3jnocdNnBMSnSrlsMpPDps) | [canned applause \(Monica's Cut\)](https://open.spotify.com/album/5gJZGe2jBTrjkhG4FX621N) | 3:27 |
+| 2828 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 |
+| 2829 | [Sail Away](https://open.spotify.com/track/5DtwJEzgU2RPa5mJpEvtAF) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz) | [Sail Away](https://open.spotify.com/album/1VLnaXGhcgXDNjpwW1dQKI) | 2:48 |
 
-Snapshot ID: `AAAMCOIOydcOKAORHrYUC0r2mIzzDtb9`
+Snapshot ID: `AAAMC7Y8ohKkjMizFmombPE9xlgvefB3`

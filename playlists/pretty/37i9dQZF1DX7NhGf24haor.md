@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 ### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: Ran\-D & Brennan Heart
+> Weekly new Hardstyle releases! Cover: Darren Styles & TOZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,486 likes - 110 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,610 likes - 110 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 109 | [Vibrate](https://open.spotify.com/track/1VyeF4Ll3DO6kSbx5cZN06) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Vibrate](https://open.spotify.com/album/72OHEFsOMrn5i48864Wssm) | 2:52 |
 | 110 | [Pump This Party](https://open.spotify.com/track/7EECoeGtYFyDHRTJ1qAlPD) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Pump This Party](https://open.spotify.com/album/5TSg4h8NEMvntbqkKfPURu) | 2:51 |
 
-Snapshot ID: `AAAAAFUj4NqvEfU04m9He7MFTpLLnrbV`
+Snapshot ID: `AAAAANWjEabbHYjO4PE9Tq5atTZH3tyy`

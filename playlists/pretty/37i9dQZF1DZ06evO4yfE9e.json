@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAADVNB49r6A9ouiXyw1JWGGB",
+  "snapshot_id": "aufSgAAAAACow79mlZkgTV2T0eMGfWOi",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 136810,
-      "name": "call me daddy",
-      "url": "https://open.spotify.com/track/3jO8dlm0m0sCyt4OcmrG05"
+      "duration_ms": 123041,
+      "name": "SQUEAK",
+      "url": "https://open.spotify.com/track/54AkXQ3AG8tR62EJcF19Er"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 123041,
-      "name": "SQUEAK",
-      "url": "https://open.spotify.com/track/54AkXQ3AG8tR62EJcF19Er"
+      "duration_ms": 136810,
+      "name": "call me daddy",
+      "url": "https://open.spotify.com/track/3jO8dlm0m0sCyt4OcmrG05"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOYS BOYS BOYS",
-        "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 130095,
-      "name": "BOYS BOYS BOYS",
-      "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 146289,
       "name": "ENEMIES (feat. bludnymph & Shift K3Y)",
       "url": "https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOYS BOYS BOYS",
+        "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 130095,
+      "name": "BOYS BOYS BOYS",
+      "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steve Aoki (feat. bludnymph)",
-        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
-      },
-      "artists": [
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Steve Aoki (feat. bludnymph)",
-      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishin",
         "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 173760,
       "name": "Wishin",
       "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Steve Aoki (feat. bludnymph)",
+        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
+      },
+      "artists": [
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Steve Aoki (feat. bludnymph)",
+      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
     }
   ],
   "unique_name": "This Is bludnymph",

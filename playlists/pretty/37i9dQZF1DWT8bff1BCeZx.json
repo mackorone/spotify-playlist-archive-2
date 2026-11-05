@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 27279,
+  "num_followers": 27289,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
+      "added_at": "2026-10-23 00:01:22",
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
+    },
+    {
       "added_at": "2026-07-31 00:01:31",
       "album": {
         "name": "This Joy",
@@ -455,22 +471,6 @@
       "duration_ms": 243692,
       "name": "This Joy",
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
-    },
-    {
-      "added_at": "2026-10-23 00:01:22",
-      "album": {
-        "name": "Locked In",
-        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
-      },
-      "artists": [
-        {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Locked In",
-      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
     },
     {
       "added_at": "2026-09-25 00:01:16",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
-      "added_at": "2026-03-27 00:01:12",
-      "album": {
-        "name": "Jehovah Move",
-        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
-      },
-      "artists": [
-        {
-          "name": "Sikaflames",
-          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
-        }
-      ],
-      "duration_ms": 221077,
-      "name": "Jehovah Move",
-      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
-    },
-    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "Obuliwo",
@@ -707,6 +691,22 @@
       "duration_ms": 200071,
       "name": "Obuliwo",
       "url": "https://open.spotify.com/track/5p77UmBB635OCmdIJsTzi0"
+    },
+    {
+      "added_at": "2026-03-27 00:01:12",
+      "album": {
+        "name": "Jehovah Move",
+        "url": "https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm"
+      },
+      "artists": [
+        {
+          "name": "Sikaflames",
+          "url": "https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg"
+        }
+      ],
+      "duration_ms": 221077,
+      "name": "Jehovah Move",
+      "url": "https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3"
     },
     {
       "added_at": "2026-09-25 00:01:16",
@@ -825,6 +825,54 @@
       "url": "https://open.spotify.com/track/4DPK7ei1j8yglj2trKZKRt"
     },
     {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Jesus Don Win",
+        "url": "https://open.spotify.com/album/3CdAw62SeDBFxoSzUeNTPY"
+      },
+      "artists": [
+        {
+          "name": "Chinwe Zoe",
+          "url": "https://open.spotify.com/artist/4uJO4oUQkFkxTTPMGAL9nL"
+        }
+      ],
+      "duration_ms": 353750,
+      "name": "Jesus Don Win",
+      "url": "https://open.spotify.com/track/5dfhfZ8CXlxCehe5cJGKtE"
+    },
+    {
+      "added_at": "2026-10-30 00:01:07",
+      "album": {
+        "name": "LAMB",
+        "url": "https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "BOUNDLESS LOVE",
+      "url": "https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C"
+    },
+    {
+      "added_at": "2026-10-30 00:01:07",
+      "album": {
+        "name": "AFFIRMED",
+        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 155089,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
+    },
+    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "Jesus is Life (JIL)",
@@ -843,22 +891,6 @@
       "duration_ms": 263810,
       "name": "Jesus is Life (JIL)",
       "url": "https://open.spotify.com/track/1mSEK1rRQoejMU2ckPVoXf"
-    },
-    {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Jesus Don Win",
-        "url": "https://open.spotify.com/album/3CdAw62SeDBFxoSzUeNTPY"
-      },
-      "artists": [
-        {
-          "name": "Chinwe Zoe",
-          "url": "https://open.spotify.com/artist/4uJO4oUQkFkxTTPMGAL9nL"
-        }
-      ],
-      "duration_ms": 353750,
-      "name": "Jesus Don Win",
-      "url": "https://open.spotify.com/track/5dfhfZ8CXlxCehe5cJGKtE"
     },
     {
       "added_at": "2026-02-13 00:01:36",
@@ -897,22 +929,6 @@
       "url": "https://open.spotify.com/track/18oSLr0nINKjtvCAQZB8qr"
     },
     {
-      "added_at": "2026-10-30 00:01:07",
-      "album": {
-        "name": "AFFIRMED",
-        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 155089,
-      "name": "THE DAY",
-      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
-    },
-    {
       "added_at": "2026-09-11 00:01:55",
       "album": {
         "name": "In Christ We Trust (The Album)",
@@ -939,22 +955,6 @@
       "duration_ms": 144974,
       "name": "Finally",
       "url": "https://open.spotify.com/track/2KvGd7HRj5IjbnXg0bA4gr"
-    },
-    {
-      "added_at": "2026-10-30 00:01:07",
-      "album": {
-        "name": "LAMB",
-        "url": "https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn"
-      },
-      "artists": [
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "BOUNDLESS LOVE",
-      "url": "https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -1033,6 +1033,26 @@
       "url": "https://open.spotify.com/track/0hNG58Y9aRpGW8ECtDEqu9"
     },
     {
+      "added_at": "2026-10-23 00:01:22",
+      "album": {
+        "name": "GAZE",
+        "url": "https://open.spotify.com/album/33JN4Luwa29wqD4OFWXtzf"
+      },
+      "artists": [
+        {
+          "name": "TheTEMI",
+          "url": "https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace"
+        },
+        {
+          "name": "Lois Onyamedea",
+          "url": "https://open.spotify.com/artist/6ynxkvN4t3or4RtcuQRnsY"
+        }
+      ],
+      "duration_ms": 173700,
+      "name": "GAZE",
+      "url": "https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk"
+    },
+    {
       "added_at": "2026-10-16 00:01:42",
       "album": {
         "name": "My Baba",
@@ -1071,26 +1091,6 @@
       "duration_ms": 193658,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/3mr4ss6jZzRWRgQoSRNUSf"
-    },
-    {
-      "added_at": "2026-10-23 00:01:22",
-      "album": {
-        "name": "GAZE",
-        "url": "https://open.spotify.com/album/33JN4Luwa29wqD4OFWXtzf"
-      },
-      "artists": [
-        {
-          "name": "TheTEMI",
-          "url": "https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace"
-        },
-        {
-          "name": "Lois Onyamedea",
-          "url": "https://open.spotify.com/artist/6ynxkvN4t3or4RtcuQRnsY"
-        }
-      ],
-      "duration_ms": 173700,
-      "name": "GAZE",
-      "url": "https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk"
     },
     {
       "added_at": "2026-10-02 00:01:22",
@@ -1149,6 +1149,46 @@
       "url": "https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3"
     },
     {
+      "added_at": "2026-10-30 00:01:07",
+      "album": {
+        "name": "PRAISE EXPLOSION 4.0",
+        "url": "https://open.spotify.com/album/0t21ROMkC832SLPvotzeTP"
+      },
+      "artists": [
+        {
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+        }
+      ],
+      "duration_ms": 1969920,
+      "name": "PRAISE EXPLOSION 4.0",
+      "url": "https://open.spotify.com/track/1jkJsb3CScWADhXuqEvR9R"
+    },
+    {
+      "added_at": "2026-08-28 00:01:39",
+      "album": {
+        "name": "NEVER",
+        "url": "https://open.spotify.com/album/5hCf02rm3CLa0dY42Falzz"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "R-Scar",
+          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
+        },
+        {
+          "name": "Glitzbeatz",
+          "url": "https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "NEVER",
+      "url": "https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP"
+    },
+    {
       "added_at": "2026-09-25 00:01:16",
       "album": {
         "name": "GIVE YOU PRAISE",
@@ -1181,28 +1221,24 @@
       "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
     },
     {
-      "added_at": "2026-08-28 00:01:39",
+      "added_at": "2026-10-23 00:01:22",
       "album": {
-        "name": "NEVER",
-        "url": "https://open.spotify.com/album/5hCf02rm3CLa0dY42Falzz"
+        "name": "Who Run Am",
+        "url": "https://open.spotify.com/album/7yPELIIl9LtrgmbVt2sniw"
       },
       "artists": [
         {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+          "name": "Gerald Bishung",
+          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
         },
         {
-          "name": "R-Scar",
-          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
-        },
-        {
-          "name": "Glitzbeatz",
-          "url": "https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK"
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
         }
       ],
-      "duration_ms": 180923,
-      "name": "NEVER",
-      "url": "https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP"
+      "duration_ms": 146000,
+      "name": "Who Run Am",
+      "url": "https://open.spotify.com/track/5ypsnyrwnq5LfaQqnFHJFe"
     },
     {
       "added_at": "2026-08-28 00:01:39",
@@ -1235,42 +1271,6 @@
       "duration_ms": 781090,
       "name": "Ka Anyi Kelee Aha Ya",
       "url": "https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb"
-    },
-    {
-      "added_at": "2026-10-23 00:01:22",
-      "album": {
-        "name": "Who Run Am",
-        "url": "https://open.spotify.com/album/7yPELIIl9LtrgmbVt2sniw"
-      },
-      "artists": [
-        {
-          "name": "Gerald Bishung",
-          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Who Run Am",
-      "url": "https://open.spotify.com/track/5ypsnyrwnq5LfaQqnFHJFe"
-    },
-    {
-      "added_at": "2026-10-30 00:01:07",
-      "album": {
-        "name": "PRAISE EXPLOSION 4.0",
-        "url": "https://open.spotify.com/album/0t21ROMkC832SLPvotzeTP"
-      },
-      "artists": [
-        {
-          "name": "Deborah Ajayi",
-          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
-        }
-      ],
-      "duration_ms": 1969920,
-      "name": "PRAISE EXPLOSION 4.0",
-      "url": "https://open.spotify.com/track/1jkJsb3CScWADhXuqEvR9R"
     },
     {
       "added_at": "2026-08-21 00:01:32",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
     },
     {
+      "added_at": "2026-05-22 00:01:31",
+      "album": {
+        "name": "BASKET OF PRAISE 3.0",
+        "url": "https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT"
+      },
+      "artists": [
+        {
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+        }
+      ],
+      "duration_ms": 1615365,
+      "name": "BASKET OF PRAISE 3.0",
+      "url": "https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9"
+    },
+    {
       "added_at": "2026-08-28 00:01:39",
       "album": {
         "name": "Yahweh Yahweh",
@@ -1343,22 +1359,6 @@
       "duration_ms": 205249,
       "name": "Ebelebe",
       "url": "https://open.spotify.com/track/2QuMz77tAyTxt4v8qm0sbl"
-    },
-    {
-      "added_at": "2026-05-22 00:01:31",
-      "album": {
-        "name": "BASKET OF PRAISE 3.0",
-        "url": "https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT"
-      },
-      "artists": [
-        {
-          "name": "Deborah Ajayi",
-          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
-        }
-      ],
-      "duration_ms": 1615365,
-      "name": "BASKET OF PRAISE 3.0",
-      "url": "https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9"
     },
     {
       "added_at": "2026-09-18 00:01:36",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/3e9DW3f8CszsEt37W8sEgs"
     },
     {
-      "added_at": "2026-03-27 00:01:12",
-      "album": {
-        "name": "Happiness Is Free",
-        "url": "https://open.spotify.com/album/6LFSxhcEU6ITOS3fGcxHoG"
-      },
-      "artists": [
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        }
-      ],
-      "duration_ms": 199321,
-      "name": "Happiness Is Free",
-      "url": "https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx"
-    },
-    {
       "added_at": "2026-10-23 00:01:22",
       "album": {
         "name": "CARES",
@@ -1437,6 +1421,22 @@
       "url": "https://open.spotify.com/track/5SNBEdLNDwDEBO2hnDJj3Y"
     },
     {
+      "added_at": "2026-03-27 00:01:12",
+      "album": {
+        "name": "Happiness Is Free",
+        "url": "https://open.spotify.com/album/6LFSxhcEU6ITOS3fGcxHoG"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "duration_ms": 199321,
+      "name": "Happiness Is Free",
+      "url": "https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx"
+    },
+    {
       "added_at": "2026-06-12 00:01:28",
       "album": {
         "name": "Yoyo",
@@ -1451,22 +1451,6 @@
       "duration_ms": 206400,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/2avVNhJHTUYcAuqSiJCWH9"
-    },
-    {
-      "added_at": "2026-09-25 00:01:16",
-      "album": {
-        "name": "Sesema",
-        "url": "https://open.spotify.com/album/08FsZKzQDOTWZxAwSUf8gp"
-      },
-      "artists": [
-        {
-          "name": "Rose Muhando",
-          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
-        }
-      ],
-      "duration_ms": 238598,
-      "name": "Sesema",
-      "url": "https://open.spotify.com/track/5uQNE90hF0UQOgHYymagon"
     },
     {
       "added_at": "2026-08-07 00:01:02",
@@ -1489,40 +1473,56 @@
       "url": "https://open.spotify.com/track/2AJ9OCRvG9j0TvwmM2Mjgi"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
+      "added_at": "2026-10-23 00:01:22",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/7COB9XEGRVL3O1K1MnPWRH"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/6mUbbFE6jPnVyBnIyXUgX6"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+          "name": "King GreatLight",
+          "url": "https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5"
         },
         {
-          "name": "Dells TMX",
-          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
+          "name": "Oti\u00e9",
+          "url": "https://open.spotify.com/artist/1P6PdWHR5edNYWoAweZ5gS"
         }
       ],
-      "duration_ms": 159690,
-      "name": "Redeemer - Live",
-      "url": "https://open.spotify.com/track/1tLr2VSB1MVThE4AyblWg7"
+      "duration_ms": 155477,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/0e2dqpRD77jYuSi7lUqMdH"
     },
     {
-      "added_at": "2026-09-04 00:01:11",
+      "added_at": "2026-09-25 00:01:16",
       "album": {
-        "name": "Love Never Fails (Live)",
-        "url": "https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh"
+        "name": "Sesema",
+        "url": "https://open.spotify.com/album/08FsZKzQDOTWZxAwSUf8gp"
       },
       "artists": [
         {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
         }
       ],
-      "duration_ms": 259640,
-      "name": "Awesome God - Live",
-      "url": "https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe"
+      "duration_ms": 238598,
+      "name": "Sesema",
+      "url": "https://open.spotify.com/track/5uQNE90hF0UQOgHYymagon"
+    },
+    {
+      "added_at": "2026-10-02 00:01:22",
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/5sHnwk734jyj7kesTRzYuc"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 142835,
+      "name": "see the truth",
+      "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"
     }
   ],
   "unique_name": "Higher",

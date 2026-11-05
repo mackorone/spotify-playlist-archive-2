@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 156058,
       "name": "Al Golpito",
       "url": "https://open.spotify.com/track/4j1v2lP0ZFnNgAsbM36ySJ"
@@ -15356,7 +15356,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 201706,
       "name": "Los Mayores",
       "url": "https://open.spotify.com/track/595GxxymShUzSRVGgDrkGI"
@@ -20002,7 +20002,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 260268,
       "name": "PARADIXE - REMIX",
       "url": "https://open.spotify.com/track/7yttWsYHTlqBKNNLbaH9rA"
@@ -20281,6 +20281,28 @@
     },
     {
       "album": {
+        "name": "Pasaje A La Luna",
+        "url": "https://open.spotify.com/album/23eZICehoToeQH3HX37lgW"
+      },
+      "artists": [
+        {
+          "name": "Jmis",
+          "url": "https://open.spotify.com/artist/61Iqdv5YwzyS1rGPV8cLUW"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130428,
+      "name": "Pasaje A La Luna",
+      "url": "https://open.spotify.com/track/6tgzy3GMm3P6D6qKjLgl1A"
+    },
+    {
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/3P5a4yDyIT6q8ZsX7z2Qid"
       },
@@ -20534,6 +20556,32 @@
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "album": {
+        "name": "Peli De Terror",
+        "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Peli De Terror",
+      "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
     },
     {
       "album": {
@@ -28474,7 +28522,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/3NlHH9zJ9uGXkm6NJDbLnO"

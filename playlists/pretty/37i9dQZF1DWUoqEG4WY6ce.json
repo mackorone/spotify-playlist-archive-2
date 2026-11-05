@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1183826,
+  "num_followers": 1183814,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 188639,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 188639,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Phrazes For The Young",
-        "url": "https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF"
-      },
-      "artists": [
-        {
-          "name": "Julian Casablancas",
-          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "11th Dimension",
-      "url": "https://open.spotify.com/track/6i99ThziImjuFABb8rUQvy"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Do You Really Love Her",
         "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Phrazes For The Young",
+        "url": "https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF"
+      },
+      "artists": [
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "11th Dimension",
+      "url": "https://open.spotify.com/track/6i99ThziImjuFABb8rUQvy"
     },
     {
       "added_at": "2026-07-31 22:54:22",

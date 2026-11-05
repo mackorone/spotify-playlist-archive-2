@@ -11926,7 +11926,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 252652,
       "name": "Commander",
       "url": "https://open.spotify.com/track/6PETjry7SA70CzGLjy9ePR"
@@ -22198,7 +22198,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 158792,
       "name": "Heaven Baby (feat. ZAYN)",
       "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
@@ -26930,7 +26930,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 304213,
       "name": "ISAZOCHOMELANA (feat. Boohle)",
       "url": "https://open.spotify.com/track/4Psri1pSsv7OiH4B6hZUa2"
@@ -29610,6 +29610,40 @@
       "duration_ms": 398593,
       "name": "Katalia",
       "url": "https://open.spotify.com/track/4PXBuQsoCja8lHc9TOD61R"
+    },
+    {
+      "album": {
+        "name": "Coolest in the City",
+        "url": "https://open.spotify.com/album/0jw5Y8ILN4znjO3dImDgCe"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Thesiix",
+          "url": "https://open.spotify.com/artist/2x7N5NCXREqzVruOl5ooVD"
+        },
+        {
+          "name": "Shazz RSA",
+          "url": "https://open.spotify.com/artist/1b6HUAPSQHR73XcfcVX0aB"
+        },
+        {
+          "name": "Don Deeya",
+          "url": "https://open.spotify.com/artist/1hwmVIeG7usUT8C55hctdm"
+        },
+        {
+          "name": "Magwe ZA",
+          "url": "https://open.spotify.com/artist/4lLXmWtzqElrCJdec2azf8"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398593,
+      "name": "Katalia",
+      "url": "https://open.spotify.com/track/7sigUKE9A7iY1kydds6QG9"
     },
     {
       "album": {
@@ -45178,7 +45212,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 463611,
       "name": "Phumelela",
       "url": "https://open.spotify.com/track/3JP8KIKHcuCsngfWtq1ok0"
@@ -50318,7 +50352,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 209299,
       "name": "SENGIYAHLULEKA",
       "url": "https://open.spotify.com/track/1LEdtdyaI0o3cnP44X9P9G"
@@ -53690,7 +53724,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 306274,
       "name": "Sphalaphala",
       "url": "https://open.spotify.com/track/64EufoxTyZU5CvBU7BaTSD"
@@ -59712,7 +59746,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 203388,
       "name": "U XA",
       "url": "https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg"
@@ -59790,7 +59824,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 304448,
       "name": "uBhanyazile",
       "url": "https://open.spotify.com/track/2vAXhH6mBuKPD3hb0xHQne"
@@ -63440,7 +63474,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 277629,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/7csqXkDbGhTXVNqGFmbwUa"

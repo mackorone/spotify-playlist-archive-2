@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "How High The Moon - Mono",
+      "url": "https://open.spotify.com/track/57XjL0cbXuTVHpgSjgHTN0"
+    },
+    {
+      "album": {
         "name": "I Can Dream, Can't I?",
         "url": "https://open.spotify.com/album/1Om5FVKUu8ymu92UHCMSpt"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 282337,
       "name": "It Never Entered My Mind - Mono",
       "url": "https://open.spotify.com/track/20DLzdfrVKNJFsKQLj8eMh"

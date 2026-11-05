@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Fléau Dicaprio, Lary Kidd
 
-1,378 songs - 2 day 19 hr 27 min
+1,379 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,7 +1203,7 @@
 | [Suis mes pas](https://open.spotify.com/track/0fREnZJi7nuyRaFEtK9aTw) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Suis mes pas](https://open.spotify.com/album/6mFhy2gP9jazJNyAX0vW0a) | 4:03 | 2025-08-22 | 2026-01-31 |
 | [sunglasses](https://open.spotify.com/track/03O2Q64T2SH6WFNSmUaomv) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg), [Le Joon](https://open.spotify.com/artist/3HMNky1UaIyf7nzfqsKcuh) | [sunglasses](https://open.spotify.com/album/1TewVFNeDdtbVnOtvZ1uNG) | 3:20 | 2026-07-17 | 2026-08-08 |
 | [Sunny Delight](https://open.spotify.com/track/31jvT9OExPCzwIb58lTvcU) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:53 | 2023-11-03 | 2023-11-13 |
-| [Super freak](https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Super freak](https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1) | 2:49 | 2026-10-09 |  |
+| [Super freak](https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Super freak](https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1) | 2:49 | 2026-10-09 | 2026-11-05 |
 | [Sur la lune](https://open.spotify.com/track/0z33yZbU2DpKRGSoPl4lQO) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Sur la lune](https://open.spotify.com/album/6nW9vAQcbtXmaSHh5lbH3X) | 2:13 | 2023-05-12 | 2023-06-17 |
 | [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 | 2023-01-06 |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-04-09 |
@@ -1382,6 +1382,7 @@
 | [Époque](https://open.spotify.com/track/7xlUaCvYw7hHmGZy0iuAiV) | [Cadiem](https://open.spotify.com/artist/0SHjykYVymZu6OV343kgUe), [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [Lunaire](https://open.spotify.com/album/3StEtl1Ijj97xk5oCCqi63) | 3:26 | 2026-01-16 | 2026-03-21 |
 | [État d'urgence \(avec Lary Kidd\)](https://open.spotify.com/track/71h8uOcuM47WEt3AaDx8hK) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [État d'urgence \(avec Lary Kidd\)](https://open.spotify.com/album/4QOYZdy6ExcDdWdYCzZVsS) | 3:52 | 2026-10-30 |  |
 | [État sauvage](https://open.spotify.com/track/1JutRIZ2wUehAR74oDa8Ot) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [État sauvage](https://open.spotify.com/album/4iJYoyKYxXRuskQSwWBB5Q) | 3:08 | 2024-10-04 | 2025-10-18 |
+| [ÉTOILE PIÈGE](https://open.spotify.com/track/1iRllXDR3YsHoXoPrZhQN8) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [YoAlain!](https://open.spotify.com/artist/3nYuJlkCrYDZfxhWfCo8GB) | [ÉTOILE PIÈGE](https://open.spotify.com/album/1bPGwUVAbR5dDQ9f3obS5D) | 2:11 | 2026-10-30 |  |
 | [ÉTOILES EN GUERRE](https://open.spotify.com/track/5BxY9Pcr33Rl91KfQGKOWh) | [LEDA](https://open.spotify.com/artist/3mKGhLB7DGW0hthGaG0Lr8) | [ÉTOILES EN GUERRE](https://open.spotify.com/album/7gLgNoNuwYm3x0vqBGsQgc) | 2:32 | 2026-06-19 | 2026-08-08 |
 | [Évaporé](https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Évaporé](https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo) | 3:16 | 2022-09-16 | 2023-05-13 |
 | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/track/1H0M4RGGYBF5pOViL9UdPB) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [Ô CANADA CASH MONEY GAS OIL](https://open.spotify.com/album/1s6iknRE2vRWB91XnmaUnm) | 2:54 | 2022-11-11 | 2023-03-04 |

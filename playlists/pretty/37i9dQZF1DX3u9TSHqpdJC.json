@@ -1,44 +1,76 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Kaibrienne. Artwork by Paola Saliby",
-  "num_followers": 245276,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: frau. Artwork by Paola Saliby",
+  "num_followers": 245305,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtIAG2A0coUgsV1xbllee9H1BYz",
+  "snapshot_id": "AAAAAPVOhHc0sPT6Gwq63zrCUsMtKZFX",
   "tracks": [
     {
-      "added_at": "2026-10-21 04:00:15",
+      "added_at": "2026-10-14 13:27:59",
       "album": {
-        "name": "Liquor Logic",
-        "url": "https://open.spotify.com/album/2RCqpCNO9FKTxfAeHEaWJq"
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/3GqB9ZrCDNHN0HnDu39mJU"
       },
       "artists": [
         {
-          "name": "Kaibrienne",
-          "url": "https://open.spotify.com/artist/2Y5kIVRp9IrPYNOc5PePo9"
+          "name": "frau",
+          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
         }
       ],
-      "duration_ms": 205683,
-      "name": "Liquor Logic",
-      "url": "https://open.spotify.com/track/7BOwcZmv8gfksKA8auIquC"
+      "duration_ms": 204109,
+      "name": "pupilla",
+      "url": "https://open.spotify.com/track/5lhTKOq2xE39xHL2YSUCnG"
     },
     {
-      "added_at": "2026-10-28 04:00:07",
+      "added_at": "2026-11-04 08:15:00",
       "album": {
-        "name": "Mess Like Mine",
-        "url": "https://open.spotify.com/album/4kpljS5dfnZdR5BMyhiBsX"
+        "name": "Stevie",
+        "url": "https://open.spotify.com/album/7hz1z5jw7Pmv2MDtJ7s1wE"
       },
       "artists": [
         {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+          "name": "Nina Caroline",
+          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
         }
       ],
-      "duration_ms": 148228,
-      "name": "Mess Like Mine",
-      "url": "https://open.spotify.com/track/05iS20Z4HCIEJvjdz6ocIz"
+      "duration_ms": 194203,
+      "name": "Stevie",
+      "url": "https://open.spotify.com/track/0UmEboBfvL6nm9m281Ajan"
+    },
+    {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "Union Square",
+        "url": "https://open.spotify.com/album/2j5q0Eh7Kzje63puRKjyFr"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hightower",
+          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
+        }
+      ],
+      "duration_ms": 214856,
+      "name": "Union Square",
+      "url": "https://open.spotify.com/track/7FfEz5HwiUKjW2r5pp29u5"
+    },
+    {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6j3DZwJdPt6gWFFkxX2tep"
+      },
+      "artists": [
+        {
+          "name": "Ryann Barnes",
+          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/6c560xJ2Atta0gFeTDjFuZ"
     },
     {
       "added_at": "2026-10-30 04:01:41",
@@ -57,20 +89,20 @@
       "url": "https://open.spotify.com/track/2cUnXAHlbai6QSatIt30pA"
     },
     {
-      "added_at": "2026-10-28 04:00:07",
+      "added_at": "2026-11-04 08:15:00",
       "album": {
-        "name": "What Would I Do?",
-        "url": "https://open.spotify.com/album/5pQDZXu1UoG0052v3mOabg"
+        "name": "or I could go to bed",
+        "url": "https://open.spotify.com/album/0KmTttklhl7uS3nxuScF1Y"
       },
       "artists": [
         {
-          "name": "Tyler Miller",
-          "url": "https://open.spotify.com/artist/7tD6cGrcNPMfUl71KlFdBI"
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
         }
       ],
-      "duration_ms": 166666,
-      "name": "What Would I Do?",
-      "url": "https://open.spotify.com/track/09p59Cy2C4faahmKQGpnMU"
+      "duration_ms": 222189,
+      "name": "or i could go to bed",
+      "url": "https://open.spotify.com/track/0x3XZ0hqGR5o3JU7hxPkiS"
     },
     {
       "added_at": "2026-10-30 04:01:41",
@@ -89,6 +121,118 @@
       "url": "https://open.spotify.com/track/7IgwLaFZtyU78jW13d8qvL"
     },
     {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "Talking To Talk",
+        "url": "https://open.spotify.com/album/2rxNjRNtVZeO24p0y49jDN"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Talking To Talk",
+      "url": "https://open.spotify.com/track/3ECuB4EnA3OTtgNcoIraUy"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "gay allegations ft. my girlfriend",
+        "url": "https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3"
+      },
+      "artists": [
+        {
+          "name": "OK MICKEY",
+          "url": "https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "gay allegations ft. my girlfriend",
+      "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
+    },
+    {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "&e",
+        "url": "https://open.spotify.com/album/1wJ8xfhAQUirQSvSuAidVp"
+      },
+      "artists": [
+        {
+          "name": "ANDY",
+          "url": "https://open.spotify.com/artist/4xRxAkRcW57EO5YtE4Mlco"
+        }
+      ],
+      "duration_ms": 191481,
+      "name": "ReGrEt It",
+      "url": "https://open.spotify.com/track/6uYvXGY1vy9jUzAZzPiyAs"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Liquor Logic",
+        "url": "https://open.spotify.com/album/2RCqpCNO9FKTxfAeHEaWJq"
+      },
+      "artists": [
+        {
+          "name": "Kaibrienne",
+          "url": "https://open.spotify.com/artist/2Y5kIVRp9IrPYNOc5PePo9"
+        }
+      ],
+      "duration_ms": 205683,
+      "name": "Liquor Logic",
+      "url": "https://open.spotify.com/track/7BOwcZmv8gfksKA8auIquC"
+    },
+    {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/0ORpQbvxtqpeg4GE2nFeFx"
+      },
+      "artists": [
+        {
+          "name": "Imani Graham",
+          "url": "https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA"
+        }
+      ],
+      "duration_ms": 197874,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/18SNjuwqgQlLYWCPjYzNN2"
+    },
+    {
+      "added_at": "2026-10-28 04:00:07",
+      "album": {
+        "name": "Mess Like Mine",
+        "url": "https://open.spotify.com/album/4kpljS5dfnZdR5BMyhiBsX"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 148228,
+      "name": "Mess Like Mine",
+      "url": "https://open.spotify.com/track/05iS20Z4HCIEJvjdz6ocIz"
+    },
+    {
+      "added_at": "2026-10-28 04:00:07",
+      "album": {
+        "name": "What Would I Do?",
+        "url": "https://open.spotify.com/album/5pQDZXu1UoG0052v3mOabg"
+      },
+      "artists": [
+        {
+          "name": "Tyler Miller",
+          "url": "https://open.spotify.com/artist/7tD6cGrcNPMfUl71KlFdBI"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "What Would I Do?",
+      "url": "https://open.spotify.com/track/09p59Cy2C4faahmKQGpnMU"
+    },
+    {
       "added_at": "2026-10-21 04:00:15",
       "album": {
         "name": "Serendipity",
@@ -103,6 +247,22 @@
       "duration_ms": 202750,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
+    },
+    {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "End Zone",
+        "url": "https://open.spotify.com/album/4pL5DfdjhZWoIbviUDYrL2"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 185974,
+      "name": "End Zone",
+      "url": "https://open.spotify.com/track/0LXBihUTW7EDJrvCrFdqQN"
     },
     {
       "added_at": "2026-10-21 04:00:15",
@@ -135,22 +295,6 @@
       "duration_ms": 167004,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/0VyUIla7ub1oVdq0Yqg1iG"
-    },
-    {
-      "added_at": "2026-10-21 04:00:15",
-      "album": {
-        "name": "gay allegations ft. my girlfriend",
-        "url": "https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3"
-      },
-      "artists": [
-        {
-          "name": "OK MICKEY",
-          "url": "https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC"
-        }
-      ],
-      "duration_ms": 119999,
-      "name": "gay allegations ft. my girlfriend",
-      "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
     },
     {
       "added_at": "2026-09-23 04:00:18",
@@ -359,22 +503,6 @@
       "duration_ms": 183831,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/7nCoc9T4nq0O8iuLzO6IPZ"
-    },
-    {
-      "added_at": "2026-10-14 13:27:59",
-      "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/3GqB9ZrCDNHN0HnDu39mJU"
-      },
-      "artists": [
-        {
-          "name": "frau",
-          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
-        }
-      ],
-      "duration_ms": 204109,
-      "name": "pupilla",
-      "url": "https://open.spotify.com/track/5lhTKOq2xE39xHL2YSUCnG"
     },
     {
       "added_at": "2026-10-14 13:27:59",
@@ -777,22 +905,6 @@
       "url": "https://open.spotify.com/track/1318spJdy8mQUKFDMeS65F"
     },
     {
-      "added_at": "2026-09-23 04:00:18",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/3c9NqjSeMwC2CmEVKwOTF6"
-      },
-      "artists": [
-        {
-          "name": "Thilda U",
-          "url": "https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1v6r9yWdxSDst5EAeIdF4l"
-    },
-    {
       "added_at": "2026-09-09 04:00:32",
       "album": {
         "name": "Can't Imagine Why You'd Stay",
@@ -887,22 +999,6 @@
       "duration_ms": 166426,
       "name": "INFINITE SUMMER",
       "url": "https://open.spotify.com/track/5fmUi1YDDi6vTVjpwGGwDK"
-    },
-    {
-      "added_at": "2026-09-09 04:00:32",
-      "album": {
-        "name": "Just a Girl",
-        "url": "https://open.spotify.com/album/3hwlPFONmAEM7hLa2SXqwr"
-      },
-      "artists": [
-        {
-          "name": "Yona",
-          "url": "https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Just a Girl",
-      "url": "https://open.spotify.com/track/4nOqX7kVZIh2dKi5YGNMiC"
     },
     {
       "added_at": "2026-08-26 04:00:39",
@@ -1111,102 +1207,6 @@
       "duration_ms": 213333,
       "name": "CANDYNECKLACE",
       "url": "https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844"
-    },
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "See You in the Summer",
-        "url": "https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Stembridge",
-          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
-        }
-      ],
-      "duration_ms": 185301,
-      "name": "See You in the Summer",
-      "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
-    },
-    {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "London Tonight",
-        "url": "https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf"
-      },
-      "artists": [
-        {
-          "name": "Mercer",
-          "url": "https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7"
-        }
-      ],
-      "duration_ms": 205669,
-      "name": "London Tonight",
-      "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
-    },
-    {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
-      },
-      "artists": [
-        {
-          "name": "D'Leesa",
-          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
-    },
-    {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
-        "name": "Endless Sundays",
-        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 248281,
-      "name": "Endless Sundays",
-      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
-    },
-    {
-      "added_at": "2026-06-17 04:00:29",
-      "album": {
-        "name": "spotless state of mind",
-        "url": "https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT"
-      },
-      "artists": [
-        {
-          "name": "Fia James",
-          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
-        }
-      ],
-      "duration_ms": 159411,
-      "name": "spotless state of mind",
-      "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"
-    },
-    {
-      "added_at": "2026-06-24 06:43:25",
-      "album": {
-        "name": "we're all in love",
-        "url": "https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "made for love",
-      "url": "https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv"
     }
   ],
   "unique_name": "Fresh Finds Pop",

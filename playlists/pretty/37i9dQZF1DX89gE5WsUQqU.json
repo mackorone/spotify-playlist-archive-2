@@ -1,12 +1,12 @@
 {
   "description": "9\uc6d4 10-13\uc77c, [SPOTIFY HOUSE \uc11c\uc6b8] \uc5f4\uae30 \uadf8\ub300\ub85c, \ub77c\uc774\ube0c \ud37c\ud3ec\uba3c\uc2a4 \uc601\uc0c1\uacfc \ud568\uaed8 \ub77c\uc778\uc5c5 \uc544\ud2f0\uc2a4\ud2b8\uc758 \uc14b\ub9ac\uc2a4\ud2b8\ub97c \uac10\uc0c1\ud574\ubcf4\uc138\uc694!",
-  "num_followers": 6657,
+  "num_followers": 6682,
   "original_name": "SPOTIFY HOUSE \uc11c\uc6b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGh+Y9Alto9/VQDZghoP3MO7JxqW",
+  "snapshot_id": "AAAAADMLw2wgxm8v0oWD/645yBrsdr3R",
   "tracks": [
     {
       "added_at": "2026-10-23 09:00:21",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/3HRY9masI72ymI1bkciC6X"
     },
     {
+      "added_at": "2026-11-04 09:00:18",
+      "album": {
+        "name": "Postpink-Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/35WFScrRPlTPMIhOavlCKd"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "duration_ms": 246704,
+      "name": "Postpink-Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/2SEYUbWv9Enar4CMBN2rLO"
+    },
+    {
       "added_at": "2026-10-23 09:00:21",
       "album": {
         "name": "LOVE ATTACK - Spotify House Seoul 2026",
@@ -267,6 +283,38 @@
       "duration_ms": 194837,
       "name": "Do your dance-Spotify House Seoul 2026",
       "url": "https://open.spotify.com/track/2LOAmah82wn5RBs5jN8o87"
+    },
+    {
+      "added_at": "2026-11-04 09:00:18",
+      "album": {
+        "name": "Do your dance-Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/31FDuP6eLJMAu6udFQLOdC"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 196913,
+      "name": "Do your dance-Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/1ysJjrAVBTtHKcyAkSg68c"
+    },
+    {
+      "added_at": "2026-11-04 09:00:18",
+      "album": {
+        "name": "Do your dance (Spotify House Seoul 2026)",
+        "url": "https://open.spotify.com/album/2bgoC7kpJjCCDxJvKIgw9W"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Do your dance - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/2l97mjAbdH2FviwRace57a"
     },
     {
       "added_at": "2026-10-13 09:00:36",

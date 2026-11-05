@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 27.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,792 likes - 107 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,822 likes - 107 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 30 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 31 | [BELIEVE ME](https://open.spotify.com/track/38t3ahuVbB02NP7sMBMbaj) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [CA$PAR](https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87) | [NO MORE PAIN X+</3](https://open.spotify.com/album/3Ocyx25wLtXqmRkpRLGeAr) | 4:37 |
 | 32 | [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 |
-| 33 | [Dreaming Alone](https://open.spotify.com/track/5treW7XuiAbiHfNwNpnYHP) | [Dreamhouse](https://open.spotify.com/artist/6ED5ZJe6kFfK2Q1vMkDkg2) | [Dreaming Alone](https://open.spotify.com/album/5FG03fYagxoMeS2vMZ8U4W) | 3:35 |
-| 34 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
+| 33 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
+| 34 | [Dreaming Alone](https://open.spotify.com/track/5treW7XuiAbiHfNwNpnYHP) | [Dreamhouse](https://open.spotify.com/artist/6ED5ZJe6kFfK2Q1vMkDkg2) | [Dreaming Alone](https://open.spotify.com/album/5FG03fYagxoMeS2vMZ8U4W) | 3:35 |
 | 35 | [Your Eyes](https://open.spotify.com/track/5Rl4ZuhIf3cNBRVx5zQJLc) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Your Eyes](https://open.spotify.com/album/2orewSiRAYqOUHZmE4afvz) | 2:28 |
 | 36 | [Trocitos De Madera](https://open.spotify.com/track/1x1DggLKpWW1RCHZ1du5FP) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene De Mi](https://open.spotify.com/album/1KNxX4OodpFzWuFTqscdgT) | 4:35 |
 | 37 | [Husband](https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Husband](https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo) | 3:56 |
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 42 | [el combito](https://open.spotify.com/track/20GZrtIucl7nskm1CNwK6X) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [no somos iguales](https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI) | 2:19 |
 | 43 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 44 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 |
-| 45 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |
-| 46 | [Feel So Good Around U](https://open.spotify.com/track/7arXWdNWVrppJH0w9hgGKf) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Feel So Good Around U](https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh) | 4:32 |
-| 47 | [dramatique](https://open.spotify.com/track/1Gw998U4FMej6nuOxAbjn6) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [DRAMA](https://open.spotify.com/album/39ZEVXaHtMaTuxWOUJXbiH) | 2:01 |
+| 45 | [Feel So Good Around U](https://open.spotify.com/track/7arXWdNWVrppJH0w9hgGKf) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Feel So Good Around U](https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh) | 4:32 |
+| 46 | [dramatique](https://open.spotify.com/track/1Gw998U4FMej6nuOxAbjn6) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [DRAMA](https://open.spotify.com/album/39ZEVXaHtMaTuxWOUJXbiH) | 2:01 |
+| 47 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |
 | 48 | [Autopilot](https://open.spotify.com/track/2HB0CSmHzShtuZzvvo7FC2) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F) | 2:46 |
 | 49 | [APRENDER A AMAR](https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 1:39 |
 | 50 | [Ready To Go](https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Ready To Go](https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj) | 3:18 |
 | 51 | [Run](https://open.spotify.com/track/34vKizew7gm9p1W4lBH8kc) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Dios Bendiga](https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH) | 2:44 |
-| 52 | [FITNESS FIRST](https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [FITNESS FIRST](https://open.spotify.com/album/62FuCq483syEgtWTFD03zP) | 2:45 |
-| 53 | [Avalanche](https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:12 |
+| 52 | [Avalanche](https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:12 |
+| 53 | [FITNESS FIRST](https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [FITNESS FIRST](https://open.spotify.com/album/62FuCq483syEgtWTFD03zP) | 2:45 |
 | 54 | [Sign \(Revision\)](https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Sign \(Revision\)](https://open.spotify.com/album/2TkQVRexDHiRU7YPCHqKt1) | 3:06 |
 | 55 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 |
 | 56 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 85 | [Ethereal](https://open.spotify.com/track/0iSLB5okQOzIwzx9vJiDdT) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [In All Of My Tomorrows](https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg) | 2:21 |
 | 86 | [Starlight](https://open.spotify.com/track/2yjtd82H0rbUZ7E8ho4A85) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [DÍA 3](https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ) | 3:50 |
 | 87 | [Assis](https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [ANGIE](https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr) | 2:41 |
-| 88 | [MEGATRON](https://open.spotify.com/track/1rLgNK4AuVQj5ZimlUkX9l) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [TRINITY](https://open.spotify.com/album/48GuVeZZVvfy6lpdprJFlv) | 2:56 |
-| 89 | [Eyesore](https://open.spotify.com/track/4U34LgBduKiubvUIbqaLmc) | [Kumo 99](https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5) | [PULL!](https://open.spotify.com/album/648lpKLEqArep6MeMl90ae) | 2:25 |
+| 88 | [Eyesore](https://open.spotify.com/track/4U34LgBduKiubvUIbqaLmc) | [Kumo 99](https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5) | [PULL!](https://open.spotify.com/album/648lpKLEqArep6MeMl90ae) | 2:25 |
+| 89 | [MEGATRON](https://open.spotify.com/track/1rLgNK4AuVQj5ZimlUkX9l) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [TRINITY](https://open.spotify.com/album/48GuVeZZVvfy6lpdprJFlv) | 2:56 |
 | 90 | [ça fait pas mal](https://open.spotify.com/track/2KjU7FiqbBPWyFoCEIFVMt) | [Squeezie](https://open.spotify.com/artist/0xECfhlRzRRIIe2Co5HX6n) | [ça fait pas mal](https://open.spotify.com/album/7MhZ8SB166albaIb1qnqRc) | 2:36 |
 | 91 | [Diabla](https://open.spotify.com/track/3VjmE2R9lWcmj8UCmknuhS) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 2:51 |
 | 92 | [BLOOM](https://open.spotify.com/track/2UjL9PumdAIde8LDN9iwJD) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [NAFIDA](https://open.spotify.com/album/2y09iaCtieD2Aj1lsEpKvs) | 2:41 |

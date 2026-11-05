@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BE'O) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221341,
+  "num_followers": 221339,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,22 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
       "artists": [
         {
           "name": "Leellamarz",
           "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -507,22 +511,18 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
       },
       "artists": [
         {
           "name": "Leellamarz",
           "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
+        "name": "SAKOPAK: Birth Mother OST",
+        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 190690,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
-        "name": "SAKOPAK: Birth Mother OST",
-        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
       },
       "artists": [
         {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
         }
       ],
-      "duration_ms": 244000,
-      "name": "SO GONE",
-      "url": "https://open.spotify.com/track/1h4cirMhnq1RmrP4aQbSTd"
+      "duration_ms": 234000,
+      "name": "EASY (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2N4XsISPAYbi37LlxhfIT7"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "WHAT HAVE WE DONE",
-        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
         }
       ],
-      "duration_ms": 234000,
-      "name": "EASY (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2N4XsISPAYbi37LlxhfIT7"
+      "duration_ms": 244000,
+      "name": "SO GONE",
+      "url": "https://open.spotify.com/track/1h4cirMhnq1RmrP4aQbSTd"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "sonogram",
-        "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
-      },
-      "artists": [
-        {
-          "name": "Roh Yun Ha",
-          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
-        },
-        {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        }
-      ],
-      "duration_ms": 224397,
-      "name": "Too laid back",
-      "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "BUZZIN (Feat. Coogie, GRAY)",
         "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 176371,
       "name": "BUZZIN (Feat. Coogie, GRAY)",
       "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "sonogram",
+        "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
+      },
+      "artists": [
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "duration_ms": 224397,
+      "name": "Too laid back",
+      "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
     },
     {
       "added_at": "2026-11-03 05:31:59",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-11-03 05:31:59",
       "album": {
-        "name": "SUPERDRY",
-        "url": "https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Luci Gang",
-          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
-        }
-      ],
-      "duration_ms": 148385,
-      "name": "SUPERDRY",
-      "url": "https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM"
-    },
-    {
-      "added_at": "2026-11-03 05:31:59",
-      "album": {
         "name": "Day, One day",
         "url": "https://open.spotify.com/album/7Ju0QIKUdgrWIcZsgqdSej"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 177575,
       "name": "Day, One day",
       "url": "https://open.spotify.com/track/3r5ClfPZ6L70aI3l4HLCZr"
+    },
+    {
+      "added_at": "2026-11-03 05:31:59",
+      "album": {
+        "name": "SUPERDRY",
+        "url": "https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        }
+      ],
+      "duration_ms": 148385,
+      "name": "SUPERDRY",
+      "url": "https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM"
     },
     {
       "added_at": "2026-11-03 05:31:59",

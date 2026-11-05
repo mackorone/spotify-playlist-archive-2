@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5FuBDzVtEFX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5FuBDzVtEFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5FuBDzVtEFX)
 
-### [Hawaiian Dreams](https://open.spotify.com/playlist/37i9dQZF1DX5FuBDzVtEFX)
+### [Hawaiian Chill](https://open.spotify.com/playlist/37i9dQZF1DX5FuBDzVtEFX)
 
-> Kick back to the soothing sounds of the Ukulele...
+> Kick back and relax to soft ukulele sounds from Hawaii 🏝️
 
 84 songs - 4 hr 24 min
 

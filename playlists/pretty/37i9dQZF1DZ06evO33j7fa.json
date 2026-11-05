@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 62809,
+  "num_followers": 62815,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAACxya46TPJNRd3c7z0YOZZ7",
+  "snapshot_id": "aufSgAAAAABVE225XeX0oVVw2+hqyive",
   "tracks": [
     {
       "added_at": null,
@@ -474,11 +474,15 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Gabrielle Drake",
+          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 145346,
-      "name": "Blues Run The Game",
-      "url": "https://open.spotify.com/track/3WC79kXS0vEPwEQMTwqgP8"
+      "duration_ms": 115960,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/2GTL0TAomg1TCd6Q9JK6Js"
     },
     {
       "added_at": null,
@@ -542,15 +546,11 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        },
-        {
-          "name": "Gabrielle Drake",
-          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 115960,
-      "name": "All My Trials",
-      "url": "https://open.spotify.com/track/2GTL0TAomg1TCd6Q9JK6Js"
+      "duration_ms": 145346,
+      "name": "Blues Run The Game",
+      "url": "https://open.spotify.com/track/3WC79kXS0vEPwEQMTwqgP8"
     },
     {
       "added_at": null,

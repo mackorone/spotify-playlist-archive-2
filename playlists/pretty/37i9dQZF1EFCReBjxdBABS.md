@@ -110,11 +110,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 100 | [99 Bottles](https://open.spotify.com/track/6XdPUABmGiRnQzP171vyhk) | [TracieLynn](https://open.spotify.com/artist/0mPEljpx3NF2bWuBQdlF2v) | [99 Bottles](https://open.spotify.com/album/78yVqDRZaD4YFgrgPBWPt3) | 3:35 |
 | 101 | [As Far as Love Goes](https://open.spotify.com/track/5Kcq1DpTCfcce85latUZRp) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y) | [Strong](https://open.spotify.com/album/0C3XW8l5BNv8dUHuEuDDSf) | 3:10 |
 | 102 | [Better Than I Do](https://open.spotify.com/track/7quRppjpbhFLbJTDYmluYg) | [Chloe Raye](https://open.spotify.com/artist/0CaJUsuO5g4LQFWJmu98T5) | [Better Than I Do](https://open.spotify.com/album/4JPMLg3IpXEPU24EMLUwhD) | 3:41 |
-| 103 | [Helluva Heart](https://open.spotify.com/track/3ZEtnekE1q1auJnZFJvAhs) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:19 |
-| 104 | [Low Key](https://open.spotify.com/track/3aikwRUIYqSqYvTV8Mecux) | [Brian Michael](https://open.spotify.com/artist/3CodRr1HJTLmB69q8UzsDI) | [Low Key](https://open.spotify.com/album/4FdDYOExPg0LBPH2UUYFnT) | 3:03 |
-| 105 | [Everybody Wants](https://open.spotify.com/track/5KLICPIcMXzgpjxPNa2eWY) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [ROCK PAPER SCISSORS](https://open.spotify.com/album/5PYt49y3rW7GYT9A2LRn36) | 2:52 |
-| 106 | [Wagon](https://open.spotify.com/track/0NToiGWbr6fNjDyKJ6yrd1) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 2:48 |
-| 107 | [Here Lately](https://open.spotify.com/track/5RdcWfiZCoN0YZFlITTGtS) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Here Lately](https://open.spotify.com/album/2oVkHrFtXjBUhtRgdGJXwG) | 2:39 |
+| 103 | [Here Lately](https://open.spotify.com/track/5RdcWfiZCoN0YZFlITTGtS) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Here Lately](https://open.spotify.com/album/2oVkHrFtXjBUhtRgdGJXwG) | 2:39 |
+| 104 | [Helluva Heart](https://open.spotify.com/track/3ZEtnekE1q1auJnZFJvAhs) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:19 |
+| 105 | [Low Key](https://open.spotify.com/track/3aikwRUIYqSqYvTV8Mecux) | [Brian Michael](https://open.spotify.com/artist/3CodRr1HJTLmB69q8UzsDI) | [Low Key](https://open.spotify.com/album/4FdDYOExPg0LBPH2UUYFnT) | 3:03 |
+| 106 | [Everybody Wants](https://open.spotify.com/track/5KLICPIcMXzgpjxPNa2eWY) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [ROCK PAPER SCISSORS](https://open.spotify.com/album/5PYt49y3rW7GYT9A2LRn36) | 2:52 |
+| 107 | [Wagon](https://open.spotify.com/track/0NToiGWbr6fNjDyKJ6yrd1) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 2:48 |
 | 108 | [Hearsay](https://open.spotify.com/track/0wLKJRTg39wq5JvDLB6qJQ) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:09 |
 | 109 | [Anything Like Me](https://open.spotify.com/track/01ga3Bp8ucQM8kM9fcU1es) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:30 |
 | 110 | [Better](https://open.spotify.com/track/15xlb7bnht6i3Y2ioy2Ewp) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [Better](https://open.spotify.com/album/3BrMkb7LCKsdh2WZFz8rwt) | 3:24 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 130 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 131 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcgtwgAAAAC3DUbb/Xxj8EFcAybcyeqT`
+Snapshot ID: `AcgzlAAAAADT6aVbT3Iweqi3GPmFEBq5`

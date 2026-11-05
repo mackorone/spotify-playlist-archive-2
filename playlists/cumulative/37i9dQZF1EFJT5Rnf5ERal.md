@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-342 songs - 16 hr 26 min
+343 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Bby Pluto](https://open.spotify.com/track/4X8mODoYMS286wauCWV5If) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:40 | 2024-06-26 |  |
 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 | 2025-06-27 |  |
 | [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 | 2024-06-11 | 2025-06-28 |
-| [Benzi Boys](https://open.spotify.com/track/6gcTye9smWzUFWpCg1kdH7) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [I Did What I Did](https://open.spotify.com/album/5KqCDDQsxLCHcgwlZ6UR1p) | 2:33 | 2024-06-11 |  |
+| [Benzi Boys](https://open.spotify.com/track/6gcTye9smWzUFWpCg1kdH7) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [I Did What I Did](https://open.spotify.com/album/5KqCDDQsxLCHcgwlZ6UR1p) | 2:33 | 2024-06-11 | 2026-11-05 |
+| [Benzi Boys](https://open.spotify.com/track/6spLILWeOjKvTYaUzaHqvR) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [I Did What I Did](https://open.spotify.com/album/3XgTEYqlh1IPnEKiVs7ay5) | 2:33 | 2026-11-04 |  |
 | [BENZO](https://open.spotify.com/track/1miLTkIBnu0i67Qar25Jzx) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:43 | 2026-08-14 |  |
 | [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 | 2024-08-11 | 2025-04-18 |
 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 | 2024-06-30 | 2024-08-12 |

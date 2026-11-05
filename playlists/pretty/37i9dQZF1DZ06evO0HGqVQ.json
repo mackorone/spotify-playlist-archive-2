@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAADfb74x9UCVcoVJNlqhbIqG",
+  "snapshot_id": "aufSgAAAAABr83XkwNvwvaLktQ5LNtYW",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300982,
-      "name": "Me Matar\u00e1 El Sentimiento",
-      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
+      "duration_ms": 303546,
+      "name": "Ven Y Dime",
+      "url": "https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 303546,
-      "name": "Ven Y Dime",
-      "url": "https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS"
+      "duration_ms": 300982,
+      "name": "Me Matar\u00e1 El Sentimiento",
+      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Perd\u00f3name La Vida",
-      "url": "https://open.spotify.com/track/02h7NruKCxxOhS1beuFCpP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver a Triunfar",
         "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 205493,
       "name": "Despues de Ti",
       "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name La Vida",
+      "url": "https://open.spotify.com/track/02h7NruKCxxOhS1beuFCpP"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 322373,
+      "name": "Despues de Amar",
+      "url": "https://open.spotify.com/track/01xio0goHfItC0VWrTLB83"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 267626,
       "name": "Primavera Azul",
       "url": "https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Si Tu Estuvieras",
-      "url": "https://open.spotify.com/track/2prHeuwThub9FAPKb2REA9"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "Si Tu Estuvieras",
+      "url": "https://open.spotify.com/track/2prHeuwThub9FAPKb2REA9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 322373,
-      "name": "Despues de Amar",
-      "url": "https://open.spotify.com/track/01xio0goHfItC0VWrTLB83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 273162,
       "name": "Me Cuesta Tanto",
       "url": "https://open.spotify.com/track/0aMszifcdIAK9AYSaev409"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Luz Propia",
-        "url": "https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 240253,
-      "name": "Ven T\u00fa",
-      "url": "https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 289826,
       "name": "Te Dar\u00e9 Mi Vida",
       "url": "https://open.spotify.com/track/1Tuo4INhBf6J0jbMcKbZv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Luz Propia",
+        "url": "https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 240253,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou"
     },
     {
       "added_at": null,

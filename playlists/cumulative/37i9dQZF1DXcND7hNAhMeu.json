@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gelece\u011fin seslerini dinle! Kapak: Maya Perest",
+  "description": "Gelece\u011fin seslerini dinle! Kapak: Mert \u00c7odur",
   "name": "RADAR T\u00fcrkiye",
   "tracks": [
     {
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "P\u00fcsk\u00fcll\u00fc Bela",
+        "url": "https://open.spotify.com/album/7JwuqOzh3IHAkd1bhfxPw8"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189034,
+      "name": "P\u00fcsk\u00fcll\u00fc Bela",
+      "url": "https://open.spotify.com/track/3O7hp7dYxhaKlfkNHsZp4u"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/1b0EJhpQg6n4JRS1basYCG"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 176250,
       "name": "Senin Y\u00fcz\u00fcnden",
       "url": "https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG"

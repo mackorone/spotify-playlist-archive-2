@@ -3753,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0xRfUx6YPNXzIZBjSKGUnQ"
+      },
+      "artists": [
+        {
+          "name": "Georgia Irving",
+          "url": "https://open.spotify.com/artist/71MYm3KYOYq0dsG6GKUhUt"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129240,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3rJCuxhrAawVoTvGQfnvn4"
+    },
+    {
+      "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/1WjspDqwIlXKkI7QWGifZ2"
       },
@@ -15096,7 +15114,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 153537,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/6UtyCX02xxE2F48lHeOZob"
@@ -22211,6 +22229,24 @@
     },
     {
       "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/0GcgeDv2BGLCCjH9y10s0H"
+      },
+      "artists": [
+        {
+          "name": "Elora George",
+          "url": "https://open.spotify.com/artist/4Ucv3Y2SLM4PJatX2q7YSM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/5EZGLlFrSiDTVmSux5xn3O"
+    },
+    {
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/7sGNuSrlDAfOckcdQdMi2O"
       },
@@ -25354,6 +25390,24 @@
       "duration_ms": 173312,
       "name": "Ocean Pass",
       "url": "https://open.spotify.com/track/4KX4lgScLric00Mn6iulvf"
+    },
+    {
+      "album": {
+        "name": "The Delta Wave",
+        "url": "https://open.spotify.com/album/1GZR0Odc3ZdrP68kMkCWN4"
+      },
+      "artists": [
+        {
+          "name": "Alexander Laing",
+          "url": "https://open.spotify.com/artist/2EANDPgU7TnPxo7oHHlgmr"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/6xFnHUEHk50CW0CxLoBeOZ"
     },
     {
       "album": {
@@ -33472,7 +33526,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 139200,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu"

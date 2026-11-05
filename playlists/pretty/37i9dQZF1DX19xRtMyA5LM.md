@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van HIGH SOCIETY & OYSTER \(Spotify RADAR\-artiest\); 3robi, Mensa & Henkie T; Idaly, Adje & CHO en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,966 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,904 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

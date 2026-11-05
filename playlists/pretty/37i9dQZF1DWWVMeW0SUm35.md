@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 
 > The official soundtrack and score of Euphoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,762 likes - 322 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,765 likes - 322 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 | 77 | [Little Green Apples](https://open.spotify.com/track/6T2xYn4Ez6eqVHhGSQasgp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 3:45 |
 | 78 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |
 | 79 | [Uno che grida amore](https://open.spotify.com/track/4qiUhwBO3rg256gKejO9KK) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Metti una sera a cena \(Gold Tracks\)](https://open.spotify.com/album/1zUPzH4VyC0Lwt3TvhYYZc) | 4:32 |
-| 80 | [La Strada Suite: I\. Nozze in campagna \- È arrivato Zampanò](https://open.spotify.com/track/4eQHvrDGZwEPnZkDVOB7Dr) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Marzio Conti](https://open.spotify.com/artist/7lRw71oLTaqn9u83niUxM8), [Orchestra Sinfonica del Teatro Massimo di Palermo](https://open.spotify.com/artist/4jwVYZHIQeFwfDlvhghmzD) | [Rota: La Strada Suite, Sinfonia sopra una canzone d'amore & Waltzes from Il Gattopardo](https://open.spotify.com/album/0ryEj5KhK084tVZH2KASED) | 3:33 |
+| 80 | [La Strada Suite: I\. Nozze in campagna \- È arrivato Zampanò](https://open.spotify.com/track/4eQHvrDGZwEPnZkDVOB7Dr) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Marzio Conti](https://open.spotify.com/artist/7lRw71oLTaqn9u83niUxM8), [Palermo Orchestra Sinfonica del Teatro Massimo](https://open.spotify.com/artist/6ngBBDS4RIvfSRiv7PattB) | [Rota: La Strada Suite, Sinfonia sopra una canzone d'amore & Waltzes from Il Gattopardo](https://open.spotify.com/album/0ryEj5KhK084tVZH2KASED) | 3:33 |
 | 81 | [Concerto pour la fin d'un amour \(Final\)](https://open.spotify.com/track/4DiQwYJ52Nwl9NPteJ1jjw) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Un homme qui me plaît \(Bande originale du film\)](https://open.spotify.com/album/2nisb5LZaj8sK5tuJRvgoc) | 3:40 |
 | 82 | [L'amore dice Ciao \(Slow Take\) \- Remastered](https://open.spotify.com/track/4dPnyaHuSuazWDvIXRBRZo) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0), [Andee Silver](https://open.spotify.com/artist/5GeZGIJdos3smbhMJKvyHr) | [La Matriarca \- The Libertine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lDkAePwaZMQ6wmNQYLPBJ) | 4:18 |
 | 83 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |

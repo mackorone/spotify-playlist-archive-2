@@ -1695,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
+      },
+      "artists": [
+        {
+          "name": "Derby",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156223,
+      "name": "Money Fight",
+      "url": "https://open.spotify.com/track/41RGUDo6n9UtXYNk9po6Dl"
+    },
+    {
+      "album": {
         "name": "Somersault Queen",
         "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
       },
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 179543,
       "name": "\u0110\u1eadu th\u1ea7n",
       "url": "https://open.spotify.com/track/6QokXuBpqoMXAKAtA9YXin"

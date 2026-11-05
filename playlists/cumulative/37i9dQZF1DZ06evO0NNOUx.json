@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "WHAT A LIFE",
+        "url": "https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157310,
+      "name": "WHAT A LIFE",
+      "url": "https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq"
+    },
+    {
+      "album": {
         "name": "what's the use?",
         "url": "https://open.spotify.com/album/1U1MhjyeQmkdR7zR5xppYq"
       },
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 185268,
       "name": "YAHWEH",
       "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"

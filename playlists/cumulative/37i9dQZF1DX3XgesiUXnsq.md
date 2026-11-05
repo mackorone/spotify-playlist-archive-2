@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-827 songs - 1 day 22 hr 18 min
+827 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Giants Of The Fall](https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M) | [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE) | [Giants Of The Fall](https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH) | 3:01 | 2024-04-26 | 2024-10-12 |
 | [GiT Ready](https://open.spotify.com/track/2TWEKZOpQAs1iXEmbrYw9S) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Light\-Years](https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B) | 2:51 | 2026-02-11 |  |
 | [Glory](https://open.spotify.com/track/5JEiHbrh8sLma5LfevvvLs) | [Aligo](https://open.spotify.com/artist/3Uxu9FlhsNSPLfmXEurbFe), [Yardboyk](https://open.spotify.com/artist/1E7vBCrL1h9juuGf1BZYGL) | [Pain to Glory](https://open.spotify.com/album/6Tfo2XiM7RtCJPuZEdMhDB) | 3:21 | 2022-05-20 | 2022-07-23 |
-| [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 3:29 | 2026-06-24 |  |
+| [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 2:47 | 2026-06-24 |  |
 | [GODbody](https://open.spotify.com/track/2J5kZDuqbaefjmiYikVQJH) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Buda & Grandz](https://open.spotify.com/artist/31LbQp39nE6K73prF65Rj3), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Book of David](https://open.spotify.com/album/0TCbEBrufEVNfgThlJooIo) | 2:12 | 2022-11-18 | 2023-01-28 |
 | [Gold Blooded](https://open.spotify.com/track/68jMQAuh2N6lipckafAbtL) | [Chayna Ashley](https://open.spotify.com/artist/5k6oCgsde0NlfDGOxJzO0f), [Imperetiv](https://open.spotify.com/artist/2u7T9J34ICxUqpU3YppMbr), [Mickey Factz](https://open.spotify.com/artist/3qoNIli6sMVxVYhKONxWpz) | [Gold Blooded](https://open.spotify.com/album/489nF2vpr6bzKHb0y9bTUD) | 3:33 | 2022-05-06 | 2022-05-20 |
 | [Good Kid](https://open.spotify.com/track/7CXtko4co5UNe51FVioLyX) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Good Kid](https://open.spotify.com/album/5CJQwomPazcVb1yoPPw8Cg) | 3:03 | 2023-12-22 | 2024-08-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
-  "num_followers": 288659,
+  "num_followers": 288647,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Sess\u00e3o Da Tarde",
-        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
-      },
-      "artists": [
-        {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
-        },
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        }
-      ],
-      "duration_ms": 182784,
-      "name": "Sess\u00e3o Da Tarde",
-      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "Super Cr\u00f4nico",
         "url": "https://open.spotify.com/album/6yCySIzI3Y6VUILLmck07D"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 191307,
       "name": "Resposta - Spotify Singles",
       "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "Sess\u00e3o Da Tarde",
+        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        }
+      ],
+      "duration_ms": 182784,
+      "name": "Sess\u00e3o Da Tarde",
+      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Fragmentos \u2013 A Experi\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vYeDMqdfmPRURnvr2dEM7"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 213504,
-      "name": "Coisa De Pele - Ao Vivo",
-      "url": "https://open.spotify.com/track/3jiiKkspnb3OVLKPxocjwE"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "Tons de Marrom",
         "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 193562,
       "name": "Corpo Suado",
       "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "Fragmentos \u2013 A Experi\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vYeDMqdfmPRURnvr2dEM7"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 213504,
+      "name": "Coisa De Pele - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jiiKkspnb3OVLKPxocjwE"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Rua 39",
-        "url": "https://open.spotify.com/album/4ykQSZJKyvxwkVoJwIPZla"
-      },
-      "artists": [
-        {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 233468,
-      "name": "Rua 39",
-      "url": "https://open.spotify.com/track/07bayNoPDwf8uvNq5WxbyU"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "N\u00e3o Sei Lidar",
         "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
       },
@@ -479,6 +459,26 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "Rua 39",
+        "url": "https://open.spotify.com/album/4ykQSZJKyvxwkVoJwIPZla"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 233468,
+      "name": "Rua 39",
+      "url": "https://open.spotify.com/track/07bayNoPDwf8uvNq5WxbyU"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "Arcano 19",
         "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
@@ -491,34 +491,6 @@
       "duration_ms": 244999,
       "name": "Amor Bandido",
       "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "Baile C\u00edtrico Utr\u00f3pico Lunar",
-        "url": "https://open.spotify.com/album/6bzigFZm76nltly1DBy1dZ"
-      },
-      "artists": [
-        {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        },
-        {
-          "name": "De Leve",
-          "url": "https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE"
-        },
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 200892,
-      "name": "Pra Pegar Cachu",
-      "url": "https://open.spotify.com/track/1sAkWYLlensw7Lgowxs6b4"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -551,26 +523,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "2Hard2Love2",
-        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
-      },
-      "artists": [
-        {
-          "name": "Ninjahmen",
-          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
-        },
-        {
-          "name": "Jambu Est\u00fadio",
-          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Tangar\u00e1",
-      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -595,6 +547,54 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "Baile C\u00edtrico Utr\u00f3pico Lunar",
+        "url": "https://open.spotify.com/album/6bzigFZm76nltly1DBy1dZ"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        },
+        {
+          "name": "De Leve",
+          "url": "https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE"
+        },
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 200892,
+      "name": "Pra Pegar Cachu",
+      "url": "https://open.spotify.com/track/1sAkWYLlensw7Lgowxs6b4"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "M\u00edstico",
+        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "M\u00edstico",
+      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "Garotas Adoram Meu Estilo",
         "url": "https://open.spotify.com/album/6oCdAaT6454HNMxP4Aq5jM"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 168984,
       "name": "Quando Eu Te Vi",
       "url": "https://open.spotify.com/track/4iAzhPVhNyQJ0IxsyBvLxX"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "M\u00edstico",
-        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "M\u00edstico",
-      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
     },
     {
       "added_at": "2026-10-09 03:00:14",

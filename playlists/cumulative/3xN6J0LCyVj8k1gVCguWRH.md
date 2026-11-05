@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,691 songs - 15 day 14 hr 33 min
+6,694 songs - 15 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1650,6 +1650,7 @@
 | [Drown](https://open.spotify.com/track/3WRc3HxkNeg9rkOl96QB5h) | [Jeremiah Allen](https://open.spotify.com/artist/57dE3hwcHZ41WUp0pAnRmu), [Lucciana Costa](https://open.spotify.com/artist/77fSWaufxseHLD6seG4XB4) | [Drown](https://open.spotify.com/album/08Jj7K8o6IKWTEql67joCe) | 3:06 | 2026-05-10 | 2026-05-22 |
 | [Drown](https://open.spotify.com/track/2ez57JQdgRiEe4RTyACyku) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Drown](https://open.spotify.com/album/45ZBG4cB5HwxxzMN8Tv66n) | 2:15 | 2022-05-20 | 2022-06-05 |
 | [Drown](https://open.spotify.com/track/1oxPEOFAqkzKyv6XwNtIFz) | [Will Wallace](https://open.spotify.com/artist/1w4xMYzzViAQQ2bG0PnLo7) | [Drown](https://open.spotify.com/album/68FGziuVSjpId4NK22crrL) | 3:00 | 2022-11-25 | 2022-12-17 |
+| [Drowning](https://open.spotify.com/track/3PA3lTvvSyEM8jED6QEWqm) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 4:05 | 2026-11-04 |  |
 | [Drowning](https://open.spotify.com/track/62TI3vk7l4bMIceGj5G6Kl) | [Jørdan Taylør](https://open.spotify.com/artist/0kkZOKaJBlqUhRlw42jHDI), [Solo Jane](https://open.spotify.com/artist/3YqvkghJFRueaZPBh2PdwU), [APC](https://open.spotify.com/artist/61TF518QCE2L2lt5OFZbFb) | [Drowning](https://open.spotify.com/album/7kNIoIDekVcr4GEnkhfyWV) | 4:13 | 2023-12-17 | 2023-12-26 |
 | [Drowning](https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Drowning](https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE) | 2:36 | 2025-01-03 | 2025-01-29 |
 | [Drowning 4 U](https://open.spotify.com/track/6DPNnXOlCnibxalmkEve0O) | [Chris Jobe](https://open.spotify.com/artist/747NFKmOFoZwmq4yc6gCmT) | [Drowning 4 U](https://open.spotify.com/album/6wbc4Iulz1PFS9ZXFlqKo9) | 3:14 | 2025-01-24 | 2025-02-05 |
@@ -1705,6 +1706,7 @@
 | [Echo](https://open.spotify.com/track/45aFWypKufk1VnRCeWXMPi) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Echo](https://open.spotify.com/album/0YnR8And3GQKesjdB3v7J6) | 2:45 | 2021-12-04 | 2021-12-19 |
 | [Echoed Love](https://open.spotify.com/track/3UT9uaSYyExk6lyQ1rHroK) | [EXVCT](https://open.spotify.com/artist/0RTnIEzAVkgAvxAm5XFU9h) | [Echoed Love](https://open.spotify.com/album/5A6kdCHWC6hUUNA6axcvnJ) | 3:13 | 2023-08-18 | 2023-09-26 |
 | [Echoes of the Dawn](https://open.spotify.com/track/2v33HgMA1FR5lA0TbyVIP5) | [Rober Martin](https://open.spotify.com/artist/5YWqHGHd5iPazvbIkXfr3h) | [Echoes of the Dawn](https://open.spotify.com/album/4xoeIKevrs7VPjUTRRxaWq) | 9:26 | 2026-09-28 | 2026-10-09 |
+| [Edge of Reckoning](https://open.spotify.com/track/7r3t5kk79qZQI0SiM33NDZ) | [Alice Gold](https://open.spotify.com/artist/7npVHrVLcvH4TKywGNehPZ) | [Edge of Reckoning](https://open.spotify.com/album/4By3UunjUqua0F3clNnElN) | 4:25 | 2026-11-04 |  |
 | [Edgewise](https://open.spotify.com/track/5zf9YGpjGrDdIkoAzHXC1M) | [FORAGER](https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb) | [Pipedream Firewood](https://open.spotify.com/album/0ZY1WUyKnUB2rVeclIQwNj) | 3:31 | 2023-08-19 | 2023-09-26 |
 | [Ego](https://open.spotify.com/track/0Anq5EHV2VjF2Q8cOJIbRP) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Ego](https://open.spotify.com/album/4oj8UWEYEVEZrXTdZTRLrZ) | 3:18 | 2021-11-27 | 2021-12-12 |
 | [EGO](https://open.spotify.com/track/6WgxsLt26rCCa1nm9rPcBw) | [Doble Xx](https://open.spotify.com/artist/5GhCBaGHtfS7fnpkM0fzj3), [Bebo & Deluxx](https://open.spotify.com/artist/0zooY90x77JepDmoCJriwQ) | [EGO](https://open.spotify.com/album/4pBt9od2PRrPoEgniXNT4d) | 2:13 | 2024-08-18 | 2024-08-30 |
@@ -5564,6 +5566,7 @@
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0XS2rOeAPNEoi23fS7K5TO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/2Q8nhGOz0h2HJraU44goUF) | 5:05 | 2020-08-20 | 2021-07-12 |
 | [T.O.M.](https://open.spotify.com/track/62ycekzCKTd7Ov6QRGRzNS) | [Danielle Allyson](https://open.spotify.com/artist/12VAypSVltsL0sByqojt8N) | [T.O.M.](https://open.spotify.com/album/7vmxytzx6zD0PUzWUtr3qX) | 3:28 | 2024-10-22 | 2024-11-03 |
 | [Table for Two](https://open.spotify.com/track/7F7WRCNDWTwGkNEu8otUoY) | [Matt Sterling](https://open.spotify.com/artist/48Dv0C21GDMR2XcHMJ5ZYT) | [Table for Two](https://open.spotify.com/album/4XqkBHArY0LTq481SdbNE3) | 3:10 | 2022-12-09 | 2023-01-03 |
+| [Tables Turned](https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh) | [Stella Maria](https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X) | [Tables Turned](https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l) | 2:55 | 2026-11-04 |  |
 | [Tainted Skies](https://open.spotify.com/track/0r0aeH7krnKE4NKMaY75mM) | [O.One](https://open.spotify.com/artist/0kLVcfYrCVBim1Epi47oBo) | [Tainted Skies](https://open.spotify.com/album/47qj6YzwEVdMBlYcB8V5rm) | 3:02 | 2024-03-11 | 2024-03-20 |
 | [Taj \- Original Mix](https://open.spotify.com/track/5tmJNRe4isnC0R6IDaRXWd) | [Bubba Brothers](https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz) | [Roots](https://open.spotify.com/album/1jD04N9x7YfRBV1Is9QO4a) | 5:20 | 2026-05-07 | 2026-05-18 |
 | [Take](https://open.spotify.com/track/7mCLBREGnQTgauOYtNtmO4) | [Devon Eggers](https://open.spotify.com/artist/4rd5uGxnfBKgFXUQaLT0yf) | [Take](https://open.spotify.com/album/5dqbQXTPwZkZvVWChdTSTS) | 4:05 | 2024-01-26 | 2024-02-03 |
@@ -5681,7 +5684,7 @@
 | [Thanks For Asking](https://open.spotify.com/track/4thOon3NwBVJx5dVasWcu4) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Thanks For Asking](https://open.spotify.com/album/7rA4S8wPpZ5aDpdTNUq8R4) | 2:34 | 2026-04-24 | 2026-05-30 |
 | [That girl´s got it! \- Radio Edit](https://open.spotify.com/track/14nnlGXh0XXnxAeEX712rE) | [PhD](https://open.spotify.com/artist/6iUFBjFb7pcoSRdeGOXhwu) | [That girl´s got it! \(Radio Edit\)](https://open.spotify.com/album/4XmOuUjFn0JoPTXugf6LK4) | 4:44 | 2026-06-23 | 2026-08-15 |
 | [that guy](https://open.spotify.com/track/72nOAaBbRO0baTwJIMxZ2K) | [Julia Kate](https://open.spotify.com/artist/1fIGYGeXGTQXAo1CuW7FaQ) | [that guy](https://open.spotify.com/album/4fw6pN2zT66P8JwwSVLGhT) | 3:21 | 2026-08-03 | 2026-08-15 |
-| [That's Cool](https://open.spotify.com/track/0mmaskr9A3Eg8Jhpst6opI) | [Henry Hall](https://open.spotify.com/artist/2tRg9tU9VRKsmTr2ihZCEs) | [That's Cool](https://open.spotify.com/album/7sWaHiMsYHwQcSO0fAJw4J) | 3:24 | 2026-10-05 |  |
+| [That's Cool](https://open.spotify.com/track/0mmaskr9A3Eg8Jhpst6opI) | [Henry Hall](https://open.spotify.com/artist/2tRg9tU9VRKsmTr2ihZCEs) | [That's Cool](https://open.spotify.com/album/7sWaHiMsYHwQcSO0fAJw4J) | 3:24 | 2026-10-05 | 2026-11-05 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-12-21 | 2025-02-09 |
 | [that's how u know i love u](https://open.spotify.com/track/6bHdIMY8o05A3tnhXPj2Wb) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [that's how u know i love u](https://open.spotify.com/album/6m5E5e3enUU9bD6HNBX4HL) | 2:50 | 2024-02-16 | 2024-03-03 |
 | [THAT'S MY GIRL](https://open.spotify.com/track/60CWCjf0g1HxzmzL9dst2v) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [BEDROOM FILES](https://open.spotify.com/album/47copqhMKAomtaGomasE2b) | 1:44 | 2024-04-13 | 2024-04-24 |

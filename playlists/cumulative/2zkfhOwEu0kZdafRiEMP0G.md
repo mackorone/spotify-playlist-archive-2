@@ -4,7 +4,7 @@
 
 > 
 
-150 songs - 10 hr 33 min
+151 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 | 2026-03-30 |  |
 | [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 | 2026-10-29 |  |
 | [Defying Gravity \- Acappella](https://open.spotify.com/track/7w4Q5qczL9gCgIyXUJIzLK) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [Defying Gravity \(Acappella\)](https://open.spotify.com/album/0cskxM3g6oJYcTqXTDFXgZ) | 3:08 | 2025-07-13 | 2025-12-28 |
+| [Distraction](https://open.spotify.com/track/53oDKpNb7Dul7sINdxaiNa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:22 | 2026-11-04 |  |
 | [Dive In](https://open.spotify.com/track/6LhGzSZlIGxZpyIXXZn9ZV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:52 | 2026-03-30 | 2026-10-08 |
 | [DREAMCATCHER](https://open.spotify.com/track/37lsYieRthT9tMgprcmfiG) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [HORIZONS](https://open.spotify.com/album/0tJI0EBOHEcxov6V1ddIo7) | 4:53 | 2026-03-30 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2025-12-27 | 2026-01-26 |

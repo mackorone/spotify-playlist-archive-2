@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,994 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,998 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 31 | [What Happens When The Heart Just Stops \(Funkhaus Version\)](https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:15 |
 | 32 | [Time Will Be The Healer](https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Between Two Shores](https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0) | 4:26 |
 | 33 | [Flag Day](https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 4:09 |
-| 34 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
-| 35 | [Sleeping](https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [The Swell Season](https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb) | 3:38 |
+| 34 | [Sleeping](https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [The Swell Season](https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb) | 3:38 |
+| 35 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
 | 36 | [Stuck In Reverse](https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Forward](https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ) | 3:51 |
 | 37 | [In These Arms](https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX) | 3:33 |
-| 38 | [Grace Beneath the Pines](https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 3:31 |
-| 39 | [Fitzcarraldo](https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 6:17 |
+| 38 | [Fitzcarraldo](https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 6:17 |
+| 39 | [Grace Beneath the Pines](https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 3:31 |
 | 40 | [Sleepless Nights](https://open.spotify.com/track/5tyz7e3vR8wsIEoRUdU3jy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Ukulele Songs](https://open.spotify.com/album/1tcn5JXZJC0xVAFIE3iZat) | 2:39 |
 | 41 | [Fitzcarraldo \(Funkhaus Version\)](https://open.spotify.com/track/5bgNDhKnTLFedQFTClTMx7) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 6:20 |
 | 42 | [Factory Street Bells](https://open.spotify.com/track/38Ucsa7LdzsD41YI5ggudF) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Forward](https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 49 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/1vWgBZ8Uu89MMZaFkgJymR) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 3:05 |
 | 50 | [Leave A Light \(Funkhaus Version\)](https://open.spotify.com/track/2wX6erJuE2Yf76fPid4gam) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:18 |
 
-Snapshot ID: `auaBAAAAAAChfEv/InEvCTYsAPa4WTpY`
+Snapshot ID: `aufSgAAAAACftAqi7FS0XmuKVKs97mhI`

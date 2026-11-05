@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: Ran\-D & Brennan Heart
+> Weekly new Hardstyle releases! Cover: Darren Styles & TOZA
 
 2,288 songs - 4 day 23 hr 45 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93939,
+  "num_followers": 93936,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,18 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn"
+        "name": "dormir\u00e9 sin ti",
+        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
       },
       "artists": [
         {
           "name": "iza tkm",
           "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        },
-        {
-          "name": "Zenei",
-          "url": "https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u"
         }
       ],
-      "duration_ms": 189047,
-      "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT"
+      "duration_ms": 197600,
+      "name": "dormir\u00e9 sin ti",
+      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -311,18 +307,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "dormir\u00e9 sin ti",
-        "url": "https://open.spotify.com/album/4wBC6f7WBr0YfVkUvJFqxz"
+        "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn"
       },
       "artists": [
         {
           "name": "iza tkm",
           "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        },
+        {
+          "name": "Zenei",
+          "url": "https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u"
         }
       ],
-      "duration_ms": 197600,
-      "name": "dormir\u00e9 sin ti",
-      "url": "https://open.spotify.com/track/2FUnmux4XXAzdEf8ks1IhU"
+      "duration_ms": 189047,
+      "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -727,6 +727,34 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "AYER (Plugg conciencia)",
+        "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
+      },
+      "artists": [
+        {
+          "name": "Mikeanyway",
+          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
+        },
+        {
+          "name": "Young Dune",
+          "url": "https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        },
+        {
+          "name": "Glazzz",
+          "url": "https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz"
+        }
+      ],
+      "duration_ms": 193674,
+      "name": "AYER - Plugg conciencia",
+      "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "Una Vez Y Ya",
         "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
       },
@@ -755,34 +783,6 @@
       "duration_ms": 196946,
       "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "AYER (Plugg conciencia)",
-        "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
-      },
-      "artists": [
-        {
-          "name": "Mikeanyway",
-          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
-        },
-        {
-          "name": "Young Dune",
-          "url": "https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT"
-        },
-        {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
-        },
-        {
-          "name": "Glazzz",
-          "url": "https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz"
-        }
-      ],
-      "duration_ms": 193674,
-      "name": "AYER - Plugg conciencia",
-      "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "GU\u00c1RDAME.",
+        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "GU\u00c1RDAME.",
+      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "Miop\u00eda",
         "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 212250,
       "name": "Miop\u00eda",
       "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "GU\u00c1RDAME.",
-        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "GU\u00c1RDAME.",
-      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "Tempestad",
         "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 186210,
       "name": "nos hacemos mal",
       "url": "https://open.spotify.com/track/3T7BkSxbXEtgj3H1mYGElU"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "added_at": "2026-10-16 06:00:29",

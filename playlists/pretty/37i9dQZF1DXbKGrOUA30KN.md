@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: FAYAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,036 likes - 89 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,975 likes - 89 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Cheema Y & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,480 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,529 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cartel](https://open.spotify.com/track/31NP3kpDutZWYcHAY4Vmze) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:36 |
-| 2 | [Hayi Shawa](https://open.spotify.com/track/7vgIycqzTFCBsJ8Lr10Ifc) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Diljit Chitti](https://open.spotify.com/artist/7ubSwC6As0yJdZmChcqC6c), [Gur Malhi](https://open.spotify.com/artist/477clfJeMNMgSHlBbBibvv) | [Hayi Shawa](https://open.spotify.com/album/1XjjyvjmvrA6hTepZa2m4f) | 2:25 |
+| 2 | [Hayi Shawa](https://open.spotify.com/track/7vgIycqzTFCBsJ8Lr10Ifc) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Gur Malhi](https://open.spotify.com/artist/477clfJeMNMgSHlBbBibvv), [Daljit Chitti](https://open.spotify.com/artist/7ktNOF5MUszQ0R2etzZlbx) | [Hayi Shawa](https://open.spotify.com/album/1XjjyvjmvrA6hTepZa2m4f) | 2:25 |
 | 3 | [Rap Killa](https://open.spotify.com/track/3B6vLmcMBl772iLn9AWgWw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [AUJLA SZN 1](https://open.spotify.com/album/7rBIioPKNbFbedgP6iioLN) | 4:05 |
 | 4 | [Maidaan](https://open.spotify.com/track/61IEHbFUlRnZ8qR2qxaP1S) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Maidaan](https://open.spotify.com/album/3T2H2ojLfRfzRg2YYFW4fp) | 3:09 |
 | 5 | [Ghostface Killah](https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Ghostface Killah](https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut) | 2:17 |

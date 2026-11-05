@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Isaac Cates, Daryl Coley, Mikael Karlsson and more
+> With Kelontae Gavin, Mikael Karlsson, Donald Lawrence & The Tri\-City Singers and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 442 likes - 50 songs - 5 hr 6 min
 

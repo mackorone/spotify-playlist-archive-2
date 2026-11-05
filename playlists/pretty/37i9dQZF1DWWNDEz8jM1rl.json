@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 164374,
+  "num_followers": 164400,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
+        "name": "Un Gran Dia",
+        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Pescao Vivo",
-          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+          "name": "Dani Senay",
+          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
         }
       ],
-      "duration_ms": 170614,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
+      "duration_ms": 139428,
+      "name": "Un Gran Dia",
+      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -387,18 +383,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Un Gran Dia",
-        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
       "artists": [
         {
-          "name": "Dani Senay",
-          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
         }
       ],
-      "duration_ms": 139428,
-      "name": "Un Gran Dia",
-      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+      "duration_ms": 170614,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Santa Cruz",
-        "url": "https://open.spotify.com/album/5m7jFN3MlulVIxAHTJaC7m"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Santa Cruz",
-      "url": "https://open.spotify.com/track/1WHdA1glBCsd6pbiOMn6u5"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "If You Let Go",
         "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 156101,
       "name": "If You Let Go",
       "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Santa Cruz",
+        "url": "https://open.spotify.com/album/5m7jFN3MlulVIxAHTJaC7m"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Santa Cruz",
+      "url": "https://open.spotify.com/track/1WHdA1glBCsd6pbiOMn6u5"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Esto es Otra Cosa",
         "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 231013,
       "name": "Nueva Temporada",
       "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Para Mi Familia",
-        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 235132,
-      "name": "Para Mi Familia",
-      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Corazon Cerrado",
         "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194380,
       "name": "Corazon Cerrado",
       "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Para Mi Familia",
+        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 235132,
+      "name": "Para Mi Familia",
+      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "The Comeback",
         "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 177804,
       "name": "Pasa La Pagina",
       "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1147,34 +1147,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Pero Tengo a Cristo (Remix)",
-        "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        },
-        {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
-        },
-        {
-          "name": "Ander Bock",
-          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
-        },
-        {
-          "name": "Arasay",
-          "url": "https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4"
-        }
-      ],
-      "duration_ms": 221350,
-      "name": "Pero Tengo a Cristo - Remix",
-      "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "SE\u00d1ALES",
         "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
@@ -1203,6 +1175,34 @@
       "duration_ms": 203271,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Pero Tengo a Cristo (Remix)",
+        "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Arasay",
+          "url": "https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4"
+        }
+      ],
+      "duration_ms": 221350,
+      "name": "Pero Tengo a Cristo - Remix",
+      "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Llegaron Los Cristianos",
-        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
+        "name": "Viene Alegr\u00eda",
+        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
       },
       "artists": [
         {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
         }
       ],
-      "duration_ms": 160169,
-      "name": "Cristo Cambia",
-      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
+      "duration_ms": 165611,
+      "name": "Viene Alegr\u00eda",
+      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Viene Alegr\u00eda",
-        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
+        "name": "Llegaron Los Cristianos",
+        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
       },
       "artists": [
         {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
         }
       ],
-      "duration_ms": 165611,
-      "name": "Viene Alegr\u00eda",
-      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
+      "duration_ms": 160169,
+      "name": "Cristo Cambia",
+      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Todito",
         "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Bueno & Fiel",
-        "url": "https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr"
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
       },
       "artists": [
         {
-          "name": "Yelitza Cintron",
-          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
         }
       ],
-      "duration_ms": 303773,
-      "name": "Bueno es Dios - Live",
-      "url": "https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2"
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1687,6 +1671,22 @@
       "duration_ms": 137547,
       "name": "Sin Ti No Me Imagino",
       "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Bueno & Fiel",
+        "url": "https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        }
+      ],
+      "duration_ms": 303773,
+      "name": "Bueno es Dios - Live",
+      "url": "https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Mi Mirada",
-        "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
-      },
-      "artists": [
-        {
-          "name": "Toda la Vida",
-          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
-        },
-        {
-          "name": "Jullie",
-          "url": "https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Mi Mirada",
-      "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Estar\u00e9",
         "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 172800,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Mi Mirada",
+        "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
+      },
+      "artists": [
+        {
+          "name": "Toda la Vida",
+          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
+        },
+        {
+          "name": "Jullie",
+          "url": "https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Mi Mirada",
+      "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Para Arriba",
-        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Para Arriba",
-      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Todo Te Lo Debo a T\u00ed",
         "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 133846,
       "name": "SE\u00d1ALES - REMIX",
       "url": "https://open.spotify.com/track/5eCA0Ler7a6U4cAbSXJzCK"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Para Arriba",
+        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Para Arriba",
+      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
     }
   ],
   "unique_name": "Fiesta Cristiana",

@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 26 min
+95 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Even Score](https://open.spotify.com/track/3mmnnExzhdnzfMXwoydHfY) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:17 | 2024-10-11 | 2025-01-30 |
 | [Exactly How It Was](https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Wish Me Well](https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ) | 3:16 | 2025-05-17 | 2025-09-16 |
 | [Feel It](https://open.spotify.com/track/77geRNo8p4BaEtYPpkeFSD) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [19](https://open.spotify.com/album/7D9fLDGU0A95Y0rIakBJA4) | 4:19 | 2024-09-07 |  |
-| [Flava](https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 5:50 | 2024-09-07 |  |
+| [Flava](https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 5:50 | 2024-09-07 | 2026-11-05 |
+| [Flava](https://open.spotify.com/track/6PQsXh5Isrqriem73VCNLZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Fillmoelanta da Trap](https://open.spotify.com/album/2lGyLeSvCxfdKR4ObFO6Mn) | 5:50 | 2026-11-05 |  |
 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/1TB2Xy8kpysibczcfk5wna) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 2:56 | 2026-06-07 | 2026-08-22 |
 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Flex \(Ooh, Ooh, Ooh\) \- Single](https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV) | 2:56 | 2024-09-07 |  |
 | [Flip Thru It \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/4z6JbX92SDax7iSnFPWK6i) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [INDO](https://open.spotify.com/album/6vpkmwrdnz23F9iJS1T81I) | 3:52 | 2026-06-02 | 2026-06-08 |

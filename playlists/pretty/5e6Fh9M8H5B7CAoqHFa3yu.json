@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAMCOIOydcOKAORHrYUC0r2mIzzDtb9",
+  "snapshot_id": "AAAMC7Y8ohKkjMizFmombPE9xlgvefB3",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -48067,6 +48067,54 @@
       "duration_ms": 139257,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1WwK7SV3v8QZ8ti3dYiYjW"
+    },
+    {
+      "added_at": "2026-11-04 22:12:58",
+      "album": {
+        "name": "canned applause (Monica's Cut)",
+        "url": "https://open.spotify.com/album/5gJZGe2jBTrjkhG4FX621N"
+      },
+      "artists": [
+        {
+          "name": "Monica Rhodes",
+          "url": "https://open.spotify.com/artist/3jnocdNnBMSnSrlsMpPDps"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "canned applause - Monica's Cut",
+      "url": "https://open.spotify.com/track/1sbMosnyifEz4jEgZseN5d"
+    },
+    {
+      "added_at": "2026-11-04 22:18:27",
+      "album": {
+        "name": "Better Just Relax",
+        "url": "https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY"
+      },
+      "artists": [
+        {
+          "name": "Max King",
+          "url": "https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR"
+        }
+      ],
+      "duration_ms": 104281,
+      "name": "Better Just Relax",
+      "url": "https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa"
+    },
+    {
+      "added_at": "2026-11-04 22:25:04",
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/1VLnaXGhcgXDNjpwW1dQKI"
+      },
+      "artists": [
+        {
+          "name": "LKF",
+          "url": "https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz"
+        }
+      ],
+      "duration_ms": 168497,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/5DtwJEzgU2RPa5mJpEvtAF"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

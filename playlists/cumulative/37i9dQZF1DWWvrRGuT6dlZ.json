@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Shahera Sam. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Ili Ruzanna. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -1290,6 +1290,24 @@
       "duration_ms": 159400,
       "name": "An Athlete",
       "url": "https://open.spotify.com/track/7GKV0j1Qdj8VQwMth5yypS"
+    },
+    {
+      "album": {
+        "name": "With Love, Ili",
+        "url": "https://open.spotify.com/album/01VHhhw77IJ8N7DeaqGwvs"
+      },
+      "artists": [
+        {
+          "name": "Ili Ruzanna",
+          "url": "https://open.spotify.com/artist/0U6fPuKfyKwpDo1blcKVYf"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "And Why?",
+      "url": "https://open.spotify.com/track/6QLVwtrIpQWE8mbbom9W3U"
     },
     {
       "album": {

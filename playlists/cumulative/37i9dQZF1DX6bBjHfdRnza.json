@@ -10275,6 +10275,24 @@
     },
     {
       "album": {
+        "name": "Can You Take The Heat",
+        "url": "https://open.spotify.com/album/1DxNqucFaHJfUzEUZTDAiX"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177028,
+      "name": "Can You Take The Heat",
+      "url": "https://open.spotify.com/track/4kbWRzXoQMGXtLgFaOC31D"
+    },
+    {
+      "album": {
         "name": "Can't Be Stopped",
         "url": "https://open.spotify.com/album/7vMPCUvEzNeAWhJz0ryAf7"
       },
@@ -30296,7 +30314,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 358356,
       "name": "I",
       "url": "https://open.spotify.com/track/4kEtURKAUhEjV0RGI7BFoy"
@@ -40926,6 +40944,24 @@
       "duration_ms": 132874,
       "name": "MONEY IN THE BANK",
       "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
+    },
+    {
+      "album": {
+        "name": "MONEY MONEY",
+        "url": "https://open.spotify.com/album/4RKx2Ecg81aZjJgMxGCJ2K"
+      },
+      "artists": [
+        {
+          "name": "Matt's Experiment",
+          "url": "https://open.spotify.com/artist/36y1S9iFmSVtDXwgAH60NR"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171044,
+      "name": "MONEY MONEY",
+      "url": "https://open.spotify.com/track/2z7PONtFhcYR5e15TTQc0i"
     },
     {
       "album": {
@@ -60182,7 +60218,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 161142,
       "name": "Tension",
       "url": "https://open.spotify.com/track/6vnC8M6DJpEmaoKQ66W1M4"

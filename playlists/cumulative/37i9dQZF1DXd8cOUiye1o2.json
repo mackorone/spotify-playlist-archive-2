@@ -6200,10 +6200,6 @@
         {
           "name": "Swaroop Khan",
           "url": "https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         }
       ],
       "date_added": "2026-11-04",
@@ -13876,7 +13872,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 156500,
       "name": "Kasoor",
       "url": "https://open.spotify.com/track/35eeeFZ1sL1tAuu1Te0Vcj"
@@ -15810,6 +15806,32 @@
       "duration_ms": 192157,
       "name": "Mai Na Jaau",
       "url": "https://open.spotify.com/track/3cUpK2czLuOB9BhwBu4LYM"
+    },
+    {
+      "album": {
+        "name": "Mai Vapas Aaunga",
+        "url": "https://open.spotify.com/album/69iUiNw0tAFTzXxnmDZPPh"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Pratigya",
+          "url": "https://open.spotify.com/artist/5FNvmY22PVa5BTQc1stP4B"
+        },
+        {
+          "name": "Afzalali Khan",
+          "url": "https://open.spotify.com/artist/5BoJkC6vi4fBfqm2TyEI22"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275861,
+      "name": "Mai Vapas Aaunga",
+      "url": "https://open.spotify.com/track/62amXebZcBcFlCl9b6554u"
     },
     {
       "album": {
@@ -21976,7 +21998,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 176703,
       "name": "Ruswa",
       "url": "https://open.spotify.com/track/4wZupOMgj8NHad5ooySxZg"
@@ -25674,6 +25696,32 @@
       "duration_ms": 215607,
       "name": "Teri Pehli Nazar (From \"Love In Vietnam\")",
       "url": "https://open.spotify.com/track/5kyJcLvzDC85mWf5LHqXwL"
+    },
+    {
+      "album": {
+        "name": "Teri Sexy Beauty (From \"Maatrubhumi: May War Rest in Peace\")",
+        "url": "https://open.spotify.com/album/4XGjwFdUNgCWMmaO7RSFJv"
+      },
+      "artists": [
+        {
+          "name": "Salman Khan",
+          "url": "https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI"
+        },
+        {
+          "name": "Muskaan",
+          "url": "https://open.spotify.com/artist/5gEFTELaOBkv59BBTlYSkU"
+        },
+        {
+          "name": "Sajid Khan",
+          "url": "https://open.spotify.com/artist/1PEOXOtxn9FQN9sc2CBYGv"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214299,
+      "name": "Teri Sexy Beauty (From \"Maatrubhumi: May War Rest in Peace\")",
+      "url": "https://open.spotify.com/track/5jIMMPOsp8rgtjJm1PG9UG"
     },
     {
       "album": {

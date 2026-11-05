@@ -1,13 +1,33 @@
 {
-  "description": "Sing along with Moana and Maui to \"How Far I'll Go,\" \"You're Welcome\" and other Disney favorites! Disney's Moana, in theaters soon.",
-  "num_followers": 1185633,
+  "description": "Sing your heart out with the Disney Sing-Alongs playlist! Featuring karaoke jams such as \"Zoo\" performed by Shakira from Zootopia 2, now available on Disney+.",
+  "num_followers": 1185822,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACCWU7R7DpUWDc9UraYe6Jg2NoDB",
+  "snapshot_id": "AAAAAJ5cKdt1jQ17+zh36rDNypX1LAJG",
   "tracks": [
+    {
+      "added_at": "2026-06-29 13:00:22",
+      "album": {
+        "name": "Zoo (aus \"Zoomania 2\")",
+        "url": "https://open.spotify.com/album/1mllW9jFF1wARHPgidK91m"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo - aus \"Zoomania 2\"",
+      "url": "https://open.spotify.com/track/7mfTWGAr3ig1TBw29HgpRE"
+    },
     {
       "added_at": "2026-06-29 13:00:22",
       "album": {
@@ -663,26 +683,6 @@
       "duration_ms": 145920,
       "name": "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2adTfABiJJQpZWlujYO3Qo"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
-        "name": "Zoo (aus \"Zoomania 2\")",
-        "url": "https://open.spotify.com/album/1mllW9jFF1wARHPgidK91m"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo - aus \"Zoomania 2\"",
-      "url": "https://open.spotify.com/track/7mfTWGAr3ig1TBw29HgpRE"
     },
     {
       "added_at": "2026-06-29 13:00:22",

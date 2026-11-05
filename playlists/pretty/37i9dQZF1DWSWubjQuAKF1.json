@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: kubera",
-  "num_followers": 26735,
+  "num_followers": 26732,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "LOT",
-        "url": "https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 169008,
-      "name": "LOT",
-      "url": "https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 194630,
       "name": "Moment",
       "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "LOT",
+        "url": "https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 169008,
+      "name": "LOT",
+      "url": "https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -403,8 +403,8 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
-        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
+        "name": "SZTUCZNE USTA",
+        "url": "https://open.spotify.com/album/3zkB0tbxkIG2av3bIDfssa"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
         }
       ],
-      "duration_ms": 152727,
-      "name": "OPIUM",
-      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
+      "duration_ms": 200454,
+      "name": "SZTUCZNE USTA",
+      "url": "https://open.spotify.com/track/3TaKlH1BbZ6swEF5GECVo9"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -491,8 +491,8 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "SZTUCZNE USTA",
-        "url": "https://open.spotify.com/album/3zkB0tbxkIG2av3bIDfssa"
+        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
+        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
         }
       ],
-      "duration_ms": 200454,
-      "name": "SZTUCZNE USTA",
-      "url": "https://open.spotify.com/track/3TaKlH1BbZ6swEF5GECVo9"
+      "duration_ms": 152727,
+      "name": "OPIUM",
+      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "pelagia",
-        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
-      },
-      "artists": [
-        {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "pelagia",
-      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
         "url": "https://open.spotify.com/album/6lgDBd3oRzkmCAqP5zAqJK"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174243,
       "name": "Nie m\u00f3wcie mi jak mam kocha\u0107",
       "url": "https://open.spotify.com/track/0d75CV33jqW9Bgv4ZGyw3v"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "pelagia",
+        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "pelagia",
+      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
+        "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
+      },
+      "artists": [
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
         "name": "sad, alone?",
         "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 161904,
       "name": "sad, alone?",
       "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
-        "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
-      },
-      "artists": [
-        {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "Nie umiem kocha\u0107",
-        "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 190879,
-      "name": "Nie umiem kocha\u0107",
-      "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "luvvv<3",
         "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 120685,
       "name": "luvvv<3",
       "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "Nie umiem kocha\u0107",
+        "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 190879,
+      "name": "Nie umiem kocha\u0107",
+      "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "Je\u015bli co\u015b ma by\u0107",
-        "url": "https://open.spotify.com/album/0c39eUKo9o1CurcJM20rfz"
-      },
-      "artists": [
-        {
-          "name": "Zofia Alaya",
-          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Je\u015bli co\u015b ma by\u0107",
-      "url": "https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "D\u0142o\u0144 trzymam w laysach",
         "url": "https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "Jestem Dla Ciebie",
-        "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
+        "name": "Je\u015bli co\u015b ma by\u0107",
+        "url": "https://open.spotify.com/album/0c39eUKo9o1CurcJM20rfz"
       },
       "artists": [
         {
-          "name": "Anastazja",
-          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
-        },
-        {
-          "name": "Dizzma",
-          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+          "name": "Zofia Alaya",
+          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Jestem Dla Ciebie",
-      "url": "https://open.spotify.com/track/2EPTAU9o1H0YCWSzTGXUPw"
+      "duration_ms": 142538,
+      "name": "Je\u015bli co\u015b ma by\u0107",
+      "url": "https://open.spotify.com/track/4682JPUNG75eyc65Ophq5w"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -955,22 +935,22 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "po co mi to???",
-        "url": "https://open.spotify.com/album/7tPg9FLiEyxhsXvSGNKzvs"
+        "name": "Jestem Dla Ciebie",
+        "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
       },
       "artists": [
         {
-          "name": "Albo Inaczej",
-          "url": "https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40"
+          "name": "Anastazja",
+          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
         },
         {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
         }
       ],
-      "duration_ms": 162920,
-      "name": "po co mi to???",
-      "url": "https://open.spotify.com/track/4gEElM8YcYFk9YLNe2cGxn"
+      "duration_ms": 150000,
+      "name": "Jestem Dla Ciebie",
+      "url": "https://open.spotify.com/track/2EPTAU9o1H0YCWSzTGXUPw"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -1011,6 +991,26 @@
       "duration_ms": 161280,
       "name": "Czuj\u0119 si\u0119 sexy af",
       "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "po co mi to???",
+        "url": "https://open.spotify.com/album/7tPg9FLiEyxhsXvSGNKzvs"
+      },
+      "artists": [
+        {
+          "name": "Albo Inaczej",
+          "url": "https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40"
+        },
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "po co mi to???",
+      "url": "https://open.spotify.com/track/4gEElM8YcYFk9YLNe2cGxn"
     },
     {
       "added_at": "2026-10-29 23:01:09",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-10-29 23:01:09",
       "album": {
-        "name": "b\u0119dziesz tu tylko raz",
-        "url": "https://open.spotify.com/album/5stKoETF3L7AnCrJXP6gZL"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 180230,
-      "name": "b\u0119dziesz tu tylko raz",
-      "url": "https://open.spotify.com/track/2iO0vk3hMDGC0UrT9Q2mIB"
-    },
-    {
-      "added_at": "2026-10-29 23:01:09",
-      "album": {
         "name": "Zatrzymaj si\u0119",
         "url": "https://open.spotify.com/album/66oD3ubimBzjhcx6cMICv2"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 194181,
       "name": "Zatrzymaj si\u0119",
       "url": "https://open.spotify.com/track/5gXek4hzwj136OrPEc7ZQK"
+    },
+    {
+      "added_at": "2026-10-29 23:01:09",
+      "album": {
+        "name": "b\u0119dziesz tu tylko raz",
+        "url": "https://open.spotify.com/album/5stKoETF3L7AnCrJXP6gZL"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 180230,
+      "name": "b\u0119dziesz tu tylko raz",
+      "url": "https://open.spotify.com/track/2iO0vk3hMDGC0UrT9Q2mIB"
     },
     {
       "added_at": "2026-10-29 23:01:09",

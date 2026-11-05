@@ -1,12 +1,12 @@
 {
   "description": "salgada a pista t\u00e1, n\u00e9? \ud83c\udf1a",
-  "num_followers": 1427170,
+  "num_followers": 1427036,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL823r7NT0O2cGPr+ZytDA/5gVlc",
+  "snapshot_id": "AAAAABzX7J7RmD6G9IDufI51UTuUe/OJ",
   "tracks": [
     {
       "added_at": "2026-10-27 12:55:20",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-10-27 12:55:20",
       "album": {
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
+    },
+    {
+      "added_at": "2026-10-27 12:55:20",
+      "album": {
         "name": "Dentro Da SUV",
         "url": "https://open.spotify.com/album/5PNgf72QKLaytkj4Rucouh"
       },
@@ -815,22 +835,30 @@
     {
       "added_at": "2026-10-27 12:55:20",
       "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+        "name": "SymSesh #002 - Piranha Sexy",
+        "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
       },
       "artists": [
         {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        },
+        {
+          "name": "SYMSESH",
+          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
+      "duration_ms": 120000,
+      "name": "SymSesh #002 - Piranha Sexy",
+      "url": "https://open.spotify.com/track/1tvYxnTEjDSpVwlvRCUdyV"
     },
     {
       "added_at": "2026-10-27 12:55:20",
@@ -883,34 +911,6 @@
       "duration_ms": 187317,
       "name": "Pasta Registrada",
       "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
-    },
-    {
-      "added_at": "2026-10-27 12:55:20",
-      "album": {
-        "name": "SymSesh #002 - Piranha Sexy",
-        "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
-      },
-      "artists": [
-        {
-          "name": "Fontes",
-          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "SYMSESH",
-          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SymSesh #002 - Piranha Sexy",
-      "url": "https://open.spotify.com/track/1tvYxnTEjDSpVwlvRCUdyV"
     },
     {
       "added_at": "2026-10-27 12:55:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,950 likes - 197 songs - 12 hr 25 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,951 likes - 200 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,5 +205,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 195 | [Bad Girl](https://open.spotify.com/track/4B5EPbvObQFIfFlww8RYFF) | [Shadowcast](https://open.spotify.com/artist/5FxRl4JNEu1Xa7BQ5b1Lza) | [Bad Girl](https://open.spotify.com/album/2uAIgvSpuJ7GLiGYGO4rVO) | 4:33 |
 | 196 | [Obsessed](https://open.spotify.com/track/5wj9CKSCA03adRI9tM2j1x) | [Leela Misel](https://open.spotify.com/artist/1zQTvWsb6vuMGVoAlhXvJ1) | [Obsessed](https://open.spotify.com/album/0RW5aKam3r8yxlj8s5w8zr) | 3:42 |
 | 197 | [He's My Best Friend](https://open.spotify.com/track/5b3aXT4oMVQqwmR4x9bmuS) | [Benj Clarke](https://open.spotify.com/artist/1dQvzl3MgJ9iok8Erpg5dn), [Bill Brandenburgh](https://open.spotify.com/artist/32skbbFJEqpuO0Fe6x2H2x) | [He's My Best Friend](https://open.spotify.com/album/3uKnZLigSGqoGYtoVBsSiz) | 4:15 |
+| 198 | [Creep \(Pa\)](https://open.spotify.com/track/1TZokqKAesOybmAlJPKXqQ) | [Storm](https://open.spotify.com/artist/54xkUQxKSduHJ1BBJuoMdv) | [Creep \(Pa\)](https://open.spotify.com/album/66ZWQAzYEdpiBogAohdpFg) | 4:02 |
+| 199 | [Something Beautiful](https://open.spotify.com/track/7MPdi07bYZ9Mr0skHO1zcD) | [Mama Said](https://open.spotify.com/artist/3222eI74JYYnvhm4zhTu3V) | [Something Beautiful](https://open.spotify.com/album/7ySKhgK14TDlAka4zg7nC1) | 5:22 |
+| 200 | [Rock\-A\-Doodle\-Doo](https://open.spotify.com/track/1mYro7PZazULimirLpa6gE) | [Kelvin Butcher](https://open.spotify.com/artist/6KFY7vyX7g3AmvUJbZdraP) | [Rock\-A\-Doodle\-Doo](https://open.spotify.com/album/4IcXQu2ZWLEHSjtyupDntX) | 2:43 |
 
-Snapshot ID: `AAAM8mpD2lBU/4ypzkgDrfuJ5WubDOR5`
+Snapshot ID: `AAAM9Sah/15UdUParzsUjgJ4WVPuGxKd`

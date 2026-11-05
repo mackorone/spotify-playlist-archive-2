@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Kaibrienne. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: frau. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -13475,6 +13475,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6j3DZwJdPt6gWFFkxX2tep"
+      },
+      "artists": [
+        {
+          "name": "Ryann Barnes",
+          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181622,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/6c560xJ2Atta0gFeTDjFuZ"
+    },
+    {
+      "album": {
         "name": "Cherries & Lime",
         "url": "https://open.spotify.com/album/2XwnCFXGruUlQLNiJhW6gn"
       },
@@ -22257,6 +22275,24 @@
     },
     {
       "album": {
+        "name": "End Zone",
+        "url": "https://open.spotify.com/album/4pL5DfdjhZWoIbviUDYrL2"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185974,
+      "name": "End Zone",
+      "url": "https://open.spotify.com/track/0LXBihUTW7EDJrvCrFdqQN"
+    },
+    {
+      "album": {
         "name": "Endless Sundays",
         "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
       },
@@ -22268,7 +22304,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 248281,
       "name": "Endless Sundays",
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
@@ -40798,7 +40834,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 129500,
       "name": "Just a Girl",
       "url": "https://open.spotify.com/track/4nOqX7kVZIh2dKi5YGNMiC"
@@ -44896,7 +44932,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 205669,
       "name": "London Tonight",
       "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
@@ -47188,7 +47224,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 236413,
       "name": "made for love",
       "url": "https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv"
@@ -47410,7 +47446,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 213993,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
@@ -55561,6 +55597,24 @@
     },
     {
       "album": {
+        "name": "or I could go to bed",
+        "url": "https://open.spotify.com/album/0KmTttklhl7uS3nxuScF1Y"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222189,
+      "name": "or i could go to bed",
+      "url": "https://open.spotify.com/track/0x3XZ0hqGR5o3JU7hxPkiS"
+    },
+    {
+      "album": {
         "name": "Or Whatever You Call It",
         "url": "https://open.spotify.com/album/3z1vig9EvjnJOERNkyDWtH"
       },
@@ -61451,6 +61505,24 @@
     },
     {
       "album": {
+        "name": "&e",
+        "url": "https://open.spotify.com/album/1wJ8xfhAQUirQSvSuAidVp"
+      },
+      "artists": [
+        {
+          "name": "ANDY",
+          "url": "https://open.spotify.com/artist/4xRxAkRcW57EO5YtE4Mlco"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191481,
+      "name": "ReGrEt It",
+      "url": "https://open.spotify.com/track/6uYvXGY1vy9jUzAZzPiyAs"
+    },
+    {
+      "album": {
         "name": "REHAB?",
         "url": "https://open.spotify.com/album/4RPqmtRv2kylEzmL9ralKZ"
       },
@@ -64562,7 +64634,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 185301,
       "name": "See You in the Summer",
       "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
@@ -68970,7 +69042,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 159411,
       "name": "spotless state of mind",
       "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"
@@ -69597,6 +69669,24 @@
     },
     {
       "album": {
+        "name": "Stevie",
+        "url": "https://open.spotify.com/album/7hz1z5jw7Pmv2MDtJ7s1wE"
+      },
+      "artists": [
+        {
+          "name": "Nina Caroline",
+          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194203,
+      "name": "Stevie",
+      "url": "https://open.spotify.com/track/0UmEboBfvL6nm9m281Ajan"
+    },
+    {
+      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/0jL0YQX8DqIOfAvseBVezR"
       },
@@ -70062,7 +70152,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 192130,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1v6r9yWdxSDst5EAeIdF4l"
@@ -72719,6 +72809,24 @@
     },
     {
       "album": {
+        "name": "Talking To Talk",
+        "url": "https://open.spotify.com/album/2rxNjRNtVZeO24p0y49jDN"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Talking To Talk",
+      "url": "https://open.spotify.com/track/3ECuB4EnA3OTtgNcoIraUy"
+    },
+    {
+      "album": {
         "name": "Talking Too Much",
         "url": "https://open.spotify.com/album/3hg2PiGvkVXz7CtaSUixc5"
       },
@@ -74522,6 +74630,24 @@
       "duration_ms": 146093,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/5KSaSYbwz3Ndiqa4b5vdun"
+    },
+    {
+      "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/0ORpQbvxtqpeg4GE2nFeFx"
+      },
+      "artists": [
+        {
+          "name": "Imani Graham",
+          "url": "https://open.spotify.com/artist/3z3RfAKT2rmzCfPoXSKfEA"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197874,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/18SNjuwqgQlLYWCPjYzNN2"
     },
     {
       "album": {
@@ -78744,6 +78870,24 @@
       "duration_ms": 204365,
       "name": "Unimpressed",
       "url": "https://open.spotify.com/track/1Hx0E0KVi3yRXzXU93G40z"
+    },
+    {
+      "album": {
+        "name": "Union Square",
+        "url": "https://open.spotify.com/album/2j5q0Eh7Kzje63puRKjyFr"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hightower",
+          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214856,
+      "name": "Union Square",
+      "url": "https://open.spotify.com/track/7FfEz5HwiUKjW2r5pp29u5"
     },
     {
       "album": {

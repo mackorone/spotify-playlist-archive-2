@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Boys Noize
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,277 likes - 90 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,313 likes - 90 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 7 | [Voodoo](https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Voodoo](https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i) | 3:42 |
 | 8 | [Always](https://open.spotify.com/track/430370kroCEPSEk7zJYSkW) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eddie Bizzarre](https://open.spotify.com/artist/3OyvIlYOIFtJRxYxXWYKfR) | [Club Bizzarre](https://open.spotify.com/album/5rOEUjgqbRDGxaF3AKSMtR) | 5:13 |
 | 9 | [Bloom](https://open.spotify.com/track/6AZvJp3oiQaDzZy4CJc2Ab) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Bloom](https://open.spotify.com/album/2UIjnkrMQba4GFDGPBL0wV) | 6:36 |
-| 10 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 10 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 11 | [Diabolical](https://open.spotify.com/track/29rMMV9mElK52RdMXymPqb) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Diabolical](https://open.spotify.com/album/0TlSg7u1GSThiaQk19WZ8n) | 3:14 |
 | 12 | [3AM/4AM](https://open.spotify.com/track/3vEJyYfepBtMiv6qRGVGRT) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [3NDLES5](https://open.spotify.com/artist/1UHjR5NxoDxWX9feUfS6jL), [Crazymike](https://open.spotify.com/artist/0pqnRTJ9eQrOo7cpJzdAcF) | [3AM/4AM](https://open.spotify.com/album/7ciJdp2dzx03YvYTLwndgk) | 3:13 |
 | 13 | [The Void \- Alex Stein Remix](https://open.spotify.com/track/2a8kIFLXWofgAgzrgeCd6z) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Idoru](https://open.spotify.com/artist/2Qeg2x7dnLxUVFh3fknHv9), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Chaos LP \(Remixes Pack\)](https://open.spotify.com/album/1HfKLOBvtvS9Ylmtj2ISUJ) | 4:12 |

@@ -2,7 +2,7 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> UNK in cover della playlist con il futuro del rap italiano 🐎
+> UNK in cover della playlist con il futuro del rap italiano
 
 2,700 songs - 4 day 17 hr 35 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,793 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,792 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 37 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
 | 38 | [WHO ELSE YOU KNOW!?](https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:49 |
 | 39 | [Feel Me?](https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl) | 2:19 |
-| 40 | [Suede](https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 3:37 |
-| 41 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
+| 40 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
+| 41 | [Suede](https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 3:37 |
 | 42 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 | 43 | [GIVE ME A BEAT!](https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:18 |
 | 44 | [Respectfully](https://open.spotify.com/track/5LaFUm8RJq7ULiVd0JdKV8) | [Grand Nationxl](https://open.spotify.com/artist/4fMApbC6SARLscJza8qtxn), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mani Draper](https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k), [Kevin Allen](https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B), [Brookfield Duece](https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv), [Passwurdz](https://open.spotify.com/artist/5wTcjhNkm9cEGjzRad9ZUV) | [Respectfully](https://open.spotify.com/album/5hVS87XMV1UBHMdPQtLPOn) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Too Faded Remix](https://open.spotify.com/track/7l7hGUVwZ8dli0KJeDPZw1) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/1mxCwBuLVWWof5ksvOK4TC) | 4:28 |
 | 50 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
 
-Snapshot ID: `auaBAAAAAACsG8jA17uDgE0ZN0uI9dUm`
+Snapshot ID: `aufSgAAAAADx4J/RwRhzQGOBy8NrHpBU`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "The best new electronic indie music. Cover: Maribou State",
+  "description": "The best new electronic indie music. Cover: FKJ",
   "name": "Indie Electronic ",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 174566,
       "name": "All In For You (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
@@ -1698,6 +1698,24 @@
       "duration_ms": 261546,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/0mVE7ho0GazVMHVyt6cFz5"
+    },
+    {
+      "album": {
+        "name": "Center Peace",
+        "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Center Peace",
+      "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
     },
     {
       "album": {
@@ -3935,6 +3953,24 @@
     },
     {
       "album": {
+        "name": "Heads and Tails",
+        "url": "https://open.spotify.com/album/5iIA4dfrvc8ZsJ8e35RdnR"
+      },
+      "artists": [
+        {
+          "name": "Shaolin Cowboy",
+          "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304186,
+      "name": "Heads and Tails",
+      "url": "https://open.spotify.com/track/1rr2D7qGnsGHeQZiGxfNfQ"
+    },
+    {
+      "album": {
         "name": "Heartfalls (feat. Khazali)",
         "url": "https://open.spotify.com/album/0pav2XJdIIb7cswufb8ZwF"
       },
@@ -5711,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "What's Mine Is YOURS (Live At Abbey Road)",
+        "url": "https://open.spotify.com/album/75WjwdoKQKqVun11VErlEO"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "LOVE MIGHT MAKE ME BETTER - Live At Abbey Road",
+      "url": "https://open.spotify.com/track/7aaHA0e226DbuTkYSSqIyZ"
+    },
+    {
+      "album": {
         "name": "Chewing The Fat (Deluxe)",
         "url": "https://open.spotify.com/album/3trlSAdPTDzZl6nAzzgo5A"
       },
@@ -6273,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/1RGmyFUGEd0razyJzFmKPc"
+      },
+      "artists": [
+        {
+          "name": "Soraya Cinema",
+          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180115,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6FmZZsRbAxA9Hy6ovUSokr"
+    },
+    {
+      "album": {
         "name": "Mr Blue (Jadu Heart Mix)",
         "url": "https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F"
       },
@@ -6576,7 +6648,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 401963,
       "name": "None Of This Is Real",
       "url": "https://open.spotify.com/track/1vJK1QGFqGcmfhhbQaQjwb"
@@ -7562,7 +7634,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 401819,
       "name": "Push Your Luck",
       "url": "https://open.spotify.com/track/1pGQxA5WmastPlyeA8lehb"
@@ -8266,6 +8338,24 @@
       "duration_ms": 91428,
       "name": "Scramble",
       "url": "https://open.spotify.com/track/74H93B3sLLkit4im854HkM"
+    },
+    {
+      "album": {
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
     },
     {
       "album": {
@@ -9490,7 +9580,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 163448,
       "name": "That Place",
       "url": "https://open.spotify.com/track/2EaQfMhOCC7U10ah7dBwE1"
@@ -10773,6 +10863,24 @@
     },
     {
       "album": {
+        "name": "WANT",
+        "url": "https://open.spotify.com/album/6ImD6RfkmxfKRetuhfqjyI"
+      },
+      "artists": [
+        {
+          "name": "Another Country $$$$",
+          "url": "https://open.spotify.com/artist/3At9kBvFhiXo8y64fyHdwo"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272931,
+      "name": "WANT",
+      "url": "https://open.spotify.com/track/2tUG60GZjYMbZTYFBBSvw7"
+    },
+    {
+      "album": {
         "name": "Warm (Feeling)",
         "url": "https://open.spotify.com/album/35iBUBrdFfd8eNXllzB3L4"
       },
@@ -11018,7 +11126,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 214016,
       "name": "When The Rain Begins To Fall",
       "url": "https://open.spotify.com/track/427nX2XxcqBo0CeufnfWpE"
@@ -11130,7 +11238,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 340789,
       "name": "Withending",
       "url": "https://open.spotify.com/track/6WrqLxFkIlHcBT8DmnYmRL"

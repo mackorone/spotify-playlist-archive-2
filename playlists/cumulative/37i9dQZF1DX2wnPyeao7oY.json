@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Glasswaves",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Tron Austin",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 275717,
       "name": "Bound and Strangled by a Black Snake",
       "url": "https://open.spotify.com/track/7bEpD7rGbV6xPVhvGQTNoy"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 197072,
       "name": "CAN YOU HEAR ME?",
       "url": "https://open.spotify.com/track/68XI5GvyxIe7yhUWedWUnh"
@@ -2766,6 +2766,24 @@
       "duration_ms": 173990,
       "name": "Carry The Weight",
       "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
+    },
+    {
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/0geug1YKjvIsDyHpLHRJF5"
+      },
+      "artists": [
+        {
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203097,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/4FHvdNzKEI8UEuegPsi0B5"
     },
     {
       "album": {
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 205636,
       "name": "Cry",
       "url": "https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i"
@@ -3734,6 +3752,24 @@
       "duration_ms": 191314,
       "name": "damnation",
       "url": "https://open.spotify.com/track/0yCUuQgt0NhnXVjbd7xcw5"
+    },
+    {
+      "album": {
+        "name": "Sleeper // Damnation",
+        "url": "https://open.spotify.com/album/1lO7UOx91siPJRRB3AqUhU"
+      },
+      "artists": [
+        {
+          "name": "Kila Kosa",
+          "url": "https://open.spotify.com/artist/2GEpEMblV2BlzzC6OswVhL"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134623,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/1CHCx6zSObDtELERfg30FN"
     },
     {
       "album": {
@@ -4952,6 +4988,24 @@
       "duration_ms": 211627,
       "name": "DUD",
       "url": "https://open.spotify.com/track/3TDYyOyKMZqGlk2OOZ1nvh"
+    },
+    {
+      "album": {
+        "name": "DUMB BRUDDAH",
+        "url": "https://open.spotify.com/album/1WRs1pAdidEtqJXRKZCQOe"
+      },
+      "artists": [
+        {
+          "name": "Native James",
+          "url": "https://open.spotify.com/artist/3hppZYnoNkwmo2pXbRNeF3"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "DUMB BRUDDAH",
+      "url": "https://open.spotify.com/track/0hpN7MKtpDNcqilOFD71Cf"
     },
     {
       "album": {
@@ -8361,6 +8415,24 @@
     },
     {
       "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/0LtJBUk4tTEziZ1m4tBCnu"
+      },
+      "artists": [
+        {
+          "name": "Malina Scar",
+          "url": "https://open.spotify.com/artist/3tnyEYhffKHMzUxZSOhT18"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163216,
+      "name": "IGNITE",
+      "url": "https://open.spotify.com/track/09jq6DdWHseoTdEfOuILfR"
+    },
+    {
+      "album": {
         "name": "Ikigai",
         "url": "https://open.spotify.com/album/2hArHnCGAeTIaGRo5j9ojp"
       },
@@ -10305,6 +10377,24 @@
     },
     {
       "album": {
+        "name": "Meat Hook",
+        "url": "https://open.spotify.com/album/1h35I0M3rObLvXLlIn1JDV"
+      },
+      "artists": [
+        {
+          "name": "A Killer's Confession",
+          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176209,
+      "name": "Meat Hook",
+      "url": "https://open.spotify.com/track/2uRloKCvNz0iimo8wOvzQG"
+    },
+    {
+      "album": {
         "name": "MELANCHOLIA",
         "url": "https://open.spotify.com/album/4tUCkpJ4tPL2uU4Aj5uEtA"
       },
@@ -10912,7 +11002,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 166285,
       "name": "Never Been Scared",
       "url": "https://open.spotify.com/track/0mbMgeh3WQ0EjHRFIPrPwL"
@@ -10930,7 +11020,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 202726,
       "name": "nevermore",
       "url": "https://open.spotify.com/track/0gssIXt6nTS150m8cWnaQb"
@@ -11324,6 +11414,24 @@
       "duration_ms": 253363,
       "name": "No\u010dn\u00ed M\u016fra",
       "url": "https://open.spotify.com/track/4JnkgvDRTyhdZ2t7EjkNKM"
+    },
+    {
+      "album": {
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/2BkvUE76RrR3Tv3c0sct4w"
+      },
+      "artists": [
+        {
+          "name": "Tron Austin",
+          "url": "https://open.spotify.com/artist/4FgvnCh0V8RBjdXVwIHwwL"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190012,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/5qJ6BvSvxE3ndbcZxfAdtP"
     },
     {
       "album": {
@@ -13260,7 +13368,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 237889,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/0aNXzn9u2RjgyZMMk8VswE"
@@ -14289,6 +14397,24 @@
     },
     {
       "album": {
+        "name": "Silent Attraction",
+        "url": "https://open.spotify.com/album/25gX8weJaCuKPr542C6EKt"
+      },
+      "artists": [
+        {
+          "name": "Sunborn",
+          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Silent Attraction",
+      "url": "https://open.spotify.com/track/43aYw2wY4BkbGASAn0QXyU"
+    },
+    {
+      "album": {
         "name": "Silent Strain",
         "url": "https://open.spotify.com/album/0UNhrXI9vZHJfpRWrULedA"
       },
@@ -14798,7 +14924,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 220465,
       "name": "Spidersilk",
       "url": "https://open.spotify.com/track/6VG5Y2vUYMUs8sUEbf6tHe"

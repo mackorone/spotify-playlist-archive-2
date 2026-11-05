@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 ### [Disney Favorites](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
 
-> Enjoy your favorite Disney tunes, including "You're Welcome" from Moana! Disney's Moana, only in theaters.
+> Listen to all your favorite Disney tunes, including "You've Got a Friend in Me" from Toy Story, now available on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,081,655 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081,690 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You're Welcome](https://open.spotify.com/track/5GxKY3XkzmSqymfpuWRnkJ) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6i8BR7tAJxVGZAEcF1dxlZ) | 2:47 |
-| 2 | [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 |
+| 1 | [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 |
+| 2 | [You're Welcome](https://open.spotify.com/track/5GxKY3XkzmSqymfpuWRnkJ) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6i8BR7tAJxVGZAEcF1dxlZ) | 2:47 |
 | 3 | [When You Wish Upon a Star \- From "Disney 100"](https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [When You Wish Upon a Star \(From "Disney 100"\)](https://open.spotify.com/album/5AGZKi74CsJrmJ7hJAFNrH) | 3:54 |
 | 4 | [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 |
 | 5 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 | 108 | [Cruella De Vil \- From "101 Dalmatians"/Soundtrack Version](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [101 Dalmatians](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) | 5:03 |
 | 109 | [Hi\-Diddle\-Dee\-Dee \(An Actor's Life for Me\)](https://open.spotify.com/track/1eM1TAhv39wg4LY7XmtqoL) | [Walter Catlett](https://open.spotify.com/artist/1yCdvNCmOAMzEqOcw3CvHF) | [Pinocchio](https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz) | 1:40 |
 
-Snapshot ID: `AAAAAGi4RwZHmOv4R5H6qW3iAJ+ahE+S`
+Snapshot ID: `AAAAAGVWA3DCU/Ry0+yyHIKOgyZ+5Xui`

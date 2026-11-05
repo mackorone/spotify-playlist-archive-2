@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dAaWekH090M3SQTEvlEyv.md) - [plain]
 
 > ニコニコ動画上におけるVOCALOID曲の人気を測るチャート。動画再生数や、作成数、コメント数、いいね数などのデータにビルボードが独自開発した係数を乗じて上位20位までのランキングを生成しています。Supported by ニコニコ
 
-[Netmune](https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm) - 44 likes - 17 songs - 53 min 43 sec
+[Netmune](https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm) - 44 likes - 16 songs - 50 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,13 @@ pretty - [cumulative](/playlists/cumulative/7dAaWekH090M3SQTEvlEyv.md) - [plain]
 | 6 | [デビットビット](https://open.spotify.com/track/0rRVGPfIWnkBfzGINFLf6b) | [アボガド6](https://open.spotify.com/artist/7egGCs59AmbQMrEARlQcuU) | [デビットビット](https://open.spotify.com/album/21GgJqz5CNcAHq8aXwD5PN) | 2:25 |
 | 7 | [悪意が垂る](https://open.spotify.com/track/4z855OSYgMzEJF0gLt9jhP) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [NORMAL END](https://open.spotify.com/album/3SHlC8bviDBswZgJ2Z4wQC) | 3:18 |
 | 8 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
-| 9 | [ゾンビソング](https://open.spotify.com/track/2nuseydCZgTbFRMBXDSYlc) | [machigerita](https://open.spotify.com/artist/1PlFhMJSfFxT0YqDMaxM3u) | [マチゲ箱](https://open.spotify.com/album/7atJf1pvspECseFZmbAQgz) | 3:29 |
-| 10 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 |
-| 11 | [ラグトレイン](https://open.spotify.com/track/3Kt6UReyCtmrYvbsHb3STj) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ラグトレイン](https://open.spotify.com/album/3SWMaAQxDt2hMCTBKQ4Ix2) | 4:11 |
-| 12 | [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 |
-| 13 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 |
-| 14 | [Voyage](https://open.spotify.com/track/3FrHmdjKsbkF8eNeTsYPlU) | [なちぴ](https://open.spotify.com/artist/2vM2pQv96YwKmIBjNBhCMm) | [Voyage](https://open.spotify.com/album/5OKrig3aCBsdskY3ucvvWm) | 3:20 |
-| 15 | [分かっちゃいないね \- feat.花隈千冬](https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf), [花隈千冬](https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38) | [分かっちゃいないね \(feat.花隈千冬\)](https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg) | 3:56 |
-| 16 | [モニタリング](https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング](https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr) | 2:56 |
-| 17 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
+| 9 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 |
+| 10 | [ラグトレイン](https://open.spotify.com/track/3Kt6UReyCtmrYvbsHb3STj) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ラグトレイン](https://open.spotify.com/album/3SWMaAQxDt2hMCTBKQ4Ix2) | 4:11 |
+| 11 | [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 |
+| 12 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 |
+| 13 | [Voyage](https://open.spotify.com/track/3FrHmdjKsbkF8eNeTsYPlU) | [なちぴ](https://open.spotify.com/artist/2vM2pQv96YwKmIBjNBhCMm) | [Voyage](https://open.spotify.com/album/5OKrig3aCBsdskY3ucvvWm) | 3:20 |
+| 14 | [分かっちゃいないね \- feat.花隈千冬](https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf), [花隈千冬](https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38) | [分かっちゃいないね \(feat.花隈千冬\)](https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg) | 3:56 |
+| 15 | [モニタリング](https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング](https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr) | 2:56 |
+| 16 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
 
-Snapshot ID: `AAAHdgTDhqo8fQlwh25RLAleK/0j5tYi`
+Snapshot ID: `AAAHdyLhAG3vfLtKtnIgpMdyrMypFk7J`

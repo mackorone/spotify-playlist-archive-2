@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,768 songs - 6 day 17 hr 16 min
+2,771 songs - 6 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Bermimpi](https://open.spotify.com/track/0jqb9Ob2VNIPDUYzznVMsp) | [Veyn Arcanstin](https://open.spotify.com/artist/5jq2KvNMvKM3T3oOEMlzkl), [Nariya Blanche](https://open.spotify.com/artist/2Nb59R0W7uEStoWIe4mpsp), [Gigih Prayogo](https://open.spotify.com/artist/1Ayg3QEQWS3EfokPaCqccr) | [Bermimpi](https://open.spotify.com/album/7MxXY4vwu1EdoUiQRQ5Qpr) | 5:20 | 2026-04-30 |  |
 | [Better Galaxy](https://open.spotify.com/track/5jT5xwr7YWe4dEXi9UItAI) | [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Step Machine](https://open.spotify.com/artist/4sLUxPIQ9OqymZeigsre0v) | [Better Galaxy](https://open.spotify.com/album/1frHm2VlRkHAlLQZALh4q3) | 4:25 | 2025-05-11 |  |
 | [Better Judgement](https://open.spotify.com/track/3UrHhQ4lxAwfhhG3IudMA0) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 2:49 | 2025-12-29 |  |
+| [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2026-11-04 |  |
 | [Better Off Alone](https://open.spotify.com/track/0gGJR8Unyalz5HkphteJzu) | [SYLIVEX](https://open.spotify.com/artist/7L3EQgCSw4laBXnbs3UObJ) | [Better Off Alone](https://open.spotify.com/album/0sm5UWciKMtk7IpeYgjhAD) | 3:18 | 2025-05-22 |  |
 | [Beware Dub](https://open.spotify.com/track/498ufAvFU8s9zaujpsthDp) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:03 | 2026-10-23 |  |
 | [Beyond The Olive Trees](https://open.spotify.com/track/367QZGLcmVsawAbwi9FIMR) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [Beyond The Olive Trees](https://open.spotify.com/album/1JCmEZx4w2lZQpK8CuhVB2) | 2:35 | 2025-11-08 |  |
@@ -370,6 +371,7 @@
 | [Canción de buen puerto \(para el que aún no está muerto\)](https://open.spotify.com/track/382sRIuEm7k2w9xrAIxPdb) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:54 | 2025-09-25 |  |
 | [Candy](https://open.spotify.com/track/5DTaHNU3NuOWSt3ngYAlWM) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:51 | 2025-07-02 |  |
 | [Candy Paint](https://open.spotify.com/track/35wszpYK7YrHSelNGOHeHF) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [C\-Lo Stackzz](https://open.spotify.com/artist/4bniK9fy1gx6OeHB9j1uMo) | [My World on Drugs](https://open.spotify.com/album/5h2scVaiN18EPUNG2Yx11z) | 2:41 | 2025-11-16 |  |
+| [canned applause \- Monica's Cut](https://open.spotify.com/track/1sbMosnyifEz4jEgZseN5d) | [Monica Rhodes](https://open.spotify.com/artist/3jnocdNnBMSnSrlsMpPDps) | [canned applause \(Monica's Cut\)](https://open.spotify.com/album/5gJZGe2jBTrjkhG4FX621N) | 3:27 | 2026-11-04 |  |
 | [Cantando Breaks](https://open.spotify.com/track/4yocGcJHLfsn76ZPhweTIk) | [Dj Nail](https://open.spotify.com/artist/2RaQp7Fh0DK7JUWbJ1bTqg) | [Cantando Breaks](https://open.spotify.com/album/0hIPAxDVejrrfBqgJykcV6) | 3:01 | 2026-02-07 |  |
 | [Cardboard Moon](https://open.spotify.com/track/4zZm8LThhmzb2e8xcvLmId) | [Ghost Party](https://open.spotify.com/artist/5cscYnyF1Wd3d23rJiqZQO) | [Ghost Moves](https://open.spotify.com/album/4QBo8mp23XA2SAvlpI6BQV) | 3:34 | 2025-10-18 |  |
 | [Caribbean Blue \- 2009 Remaster](https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Shepherd Moons](https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm) | 3:59 | 2023-03-15 |  |
@@ -2018,6 +2020,7 @@
 | [saben a miel](https://open.spotify.com/track/1thmNQHGofKKHFkbBIiGLp) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [saben a miel](https://open.spotify.com/album/62Fa2kUV4ffZY2BzgP2EKP) | 3:08 | 2026-03-12 |  |
 | [Sad Girls](https://open.spotify.com/track/5iULKcxJQr8ZEKsnef2UAf) | [Monday's Mona Lisa](https://open.spotify.com/artist/7MXW6UlH2Jtzu8ZuQ8su93) | [Sad Girls](https://open.spotify.com/album/5hOS0oydlZQMNJMbt8S4OE) | 2:34 | 2026-09-16 |  |
 | [sadness](https://open.spotify.com/track/43idZSK7YRlDUJ2smWs9Fv) | [Aleks Tunka](https://open.spotify.com/artist/5xd5y2Fsnw0WI2JLzvw9qr) | [sadness](https://open.spotify.com/album/5K367QZd5VSJkbAX048G3B) | 2:04 | 2025-10-03 |  |
+| [Sail Away](https://open.spotify.com/track/5DtwJEzgU2RPa5mJpEvtAF) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz) | [Sail Away](https://open.spotify.com/album/1VLnaXGhcgXDNjpwW1dQKI) | 2:48 | 2026-11-04 |  |
 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 | 2026-03-15 |  |
 | [Saludo al alba](https://open.spotify.com/track/0jXuy9gEWRfT15k8mPckHz) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:37 | 2026-04-12 |  |
 | [Salvation \- Discomix](https://open.spotify.com/track/3FyWacxQuhElUbHEeJJL85) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 5:34 | 2024-05-01 |  |

@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Cordae & Anderson .Paak
 
-1,670 songs - 3 day 15 hr 59 min
+1,670 songs - 3 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,7 @@
 | [GO WITH THE GHOST](https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [GO WITH THE GHOST](https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf) | 2:53 | 2023-05-26 | 2024-07-13 |
 | [GOAT](https://open.spotify.com/track/3Plq7UM7UUSRdezJrova6z) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [GOAT](https://open.spotify.com/album/5YSyNEQ4CtD1vZj8oBu3aB) | 2:48 | 2022-05-20 | 2022-10-01 |
 | [GOD DID \(feat\. Rick Ross, Lil Wayne, Jay\-Z, John Legend & Fridayy\)](https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 8:21 | 2022-08-26 | 2022-11-05 |
-| [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 3:29 | 2026-06-26 |  |
+| [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 2:47 | 2026-06-26 |  |
 | [God Is Closer Then You Think](https://open.spotify.com/track/7Lnjw1l3IC5T0dXYdYB935) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [Black Heart Revenge 2](https://open.spotify.com/album/4YyvVj3QeL8HPwp9ffjPFp) | 2:27 | 2023-10-27 | 2024-01-21 |
 | [God Send](https://open.spotify.com/track/2PMVWZLddY4ARiHSBWOx8b) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [God Send](https://open.spotify.com/album/6NhVj1Vb3zZ60kJJgY6QG9) | 2:29 | 2023-06-16 | 2023-07-01 |
 | [GOD'S CHILDREN](https://open.spotify.com/track/2Qgz3Fz7u2O0mA6S0piS91) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [WELCOME HOME](https://open.spotify.com/album/2qIhMc7ZaIOCavfAbPuedc) | 4:11 | 2025-10-24 | 2026-03-14 |

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,790 songs - 4 day 12 hr 15 min
+1,791 songs - 4 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-08-09 | 2023-03-29 |
 | [2 Good 2 Be True](https://open.spotify.com/track/4dYycLM4EDbr251mdAuBQa) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [2 Good 2 Be True](https://open.spotify.com/album/5cLFm0dJpxMqFoGE5U1paO) | 4:00 | 2022-07-19 | 2022-07-29 |
 | [2 Good 2 Be True](https://open.spotify.com/track/6cl31YpesxpPUaFDy8lLfr) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [2 Good 2 Be True](https://open.spotify.com/album/1nwqwZ3B2a3wj2TMfqAM80) | 4:00 | 2022-07-28 | 2022-09-07 |
+| [2 Hands](https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [2 Hands](https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l) | 3:52 | 2026-11-04 |  |
 | [2016](https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [2016](https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY) | 4:00 | 2023-04-04 | 2023-05-09 |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-13 | 2025-03-18 |
 | [25](https://open.spotify.com/track/5oh8O4EMOBQNldYQyL7irn) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [25](https://open.spotify.com/album/7D312ufAVxYDBTOgiKQaBS) | 2:56 | 2024-02-27 | 2024-04-13 |
@@ -1074,7 +1075,7 @@
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-03 | 2022-09-15 |
 | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Nicholas Ryan Gant](https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS), [Suede Jury](https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr) | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA) | 3:08 | 2023-02-14 | 2023-09-16 |
 | [so so good](https://open.spotify.com/track/5s1seRzFMfrx5ZTXKo5KEk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Ma\-Nu](https://open.spotify.com/artist/4fEFUz9XWCLMeBJ0JKjzYY) | [IMA](https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl) | 3:27 | 2022-07-05 | 2022-07-20 |
-| [Soarin'](https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Soarin'](https://open.spotify.com/album/7DPc96w5fUdAK6X2dRKbRr) | 3:24 | 2026-07-18 |  |
+| [Soarin'](https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Soarin'](https://open.spotify.com/album/7DPc96w5fUdAK6X2dRKbRr) | 3:24 | 2026-07-18 | 2026-11-05 |
 | [Soda \(feat\. kim taehoon\)](https://open.spotify.com/track/45p6nhl7TZv8sa8XXQZHZ7) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Soda \(feat\. kim taehoon\)](https://open.spotify.com/album/3tmg0HpFPtICJL3n48kt7z) | 2:48 | 2024-02-27 | 2024-04-03 |
 | [SoiNeon](https://open.spotify.com/track/6KHhrzEfS1q3sw3FV5hPIr) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/1q6tK0Rryn8mrD97eDFiVm) | 3:36 | 2022-07-28 | 2022-08-14 |
 | [SoiNeon](https://open.spotify.com/track/6utqEzW7oh8bxUnEt3YVpM) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/4uWjlIXZe66HjKVRura9hR) | 3:36 | 2022-07-12 | 2022-07-29 |

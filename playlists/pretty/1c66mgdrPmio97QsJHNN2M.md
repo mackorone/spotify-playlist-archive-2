@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,141 likes - 245 songs - 12 hr 51 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,142 likes - 249 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,5 +253,9 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 243 | [Hero](https://open.spotify.com/track/493UmW8YMB88SIjyKUmiXF) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [Carla Lina](https://open.spotify.com/artist/4pIXdIxYVvYRF9vml279ia) | [Hero](https://open.spotify.com/album/7v3lF35Z8wt3bouTyRJqEL) | 2:01 |
 | 244 | [Disco Darling](https://open.spotify.com/track/6JsObdOf5Hzoup1ZTyZ3pt) | [Robo the Chemist](https://open.spotify.com/artist/1Ekf2uAUaTIzyhtJShkyiq) | [Studio 55 EP](https://open.spotify.com/album/3b9PhEEkgPHRlvK0PfuLHt) | 3:11 |
 | 245 | [Dreaming of You](https://open.spotify.com/track/7GTgZWW2H8zkZLCoAIedIt) | [Anastasiya Sopova](https://open.spotify.com/artist/1F6M797LHeCqVkQiuQKqmS) | [Dreaming of You](https://open.spotify.com/album/5ymEqeu4IW7E2ynGt9zrHI) | 3:31 |
+| 246 | [COAT ON](https://open.spotify.com/track/3b4YigyCiFQvX1ObKQW7dv) | [Guldager Studio](https://open.spotify.com/artist/7j4cjD4XK6dinZwRzmbfGc) | [COAT ON](https://open.spotify.com/album/20tQaMHnadBL33hDxby0Lk) | 2:51 |
+| 247 | [All Villains Die Ⅱ](https://open.spotify.com/track/5isfjM7qxX9WLr2kTdgFZq) | [BukhansanRheejunghoon](https://open.spotify.com/artist/6Ghdu1hWgDLve0byl0lChj) | [All Villains Die](https://open.spotify.com/album/0i0dOIRjEkmGu9RL9MtmJu) | 3:29 |
+| 248 | [That Vision](https://open.spotify.com/track/0kDnSdIuDJsiU2mrUPLdiz) | [Manjoti](https://open.spotify.com/artist/0uOMSSaWksvmu2RSnRMwtf) | [That Vision](https://open.spotify.com/album/4L87cFUXn6mIBrGoO4Hhrj) | 2:58 |
+| 249 | [God Saved Me](https://open.spotify.com/track/198AwPNeu6NAau9RqQ3eKb) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [God Saved Me](https://open.spotify.com/album/7IhGA4GqtWjZKDHr6OHOR6) | 4:21 |
 
-Snapshot ID: `AAA9uZJOWLPqnYjtvgsYUeqE9FUhHzsl`
+Snapshot ID: `AAA9vZVwJ91GhVnb8eFpJqG+PeTOzX4E`

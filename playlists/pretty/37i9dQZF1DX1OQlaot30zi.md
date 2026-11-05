@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Latrelle, Kid Yugi, Slings, Finesse e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,359 likes - 90 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,358 likes - 90 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

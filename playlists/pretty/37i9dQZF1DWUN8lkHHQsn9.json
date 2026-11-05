@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:5eqHDE9r1yrBnr3kPAu96H\">QueenKutee</a>",
-  "num_followers": 42288,
+  "num_followers": 42282,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,22 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
+        "name": "BOJ\u0118 SI\u0118",
+        "url": "https://open.spotify.com/album/3Buzwi4LOfjQ9ziFS2M5qY"
       },
       "artists": [
         {
-          "name": "Madox",
-          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        },
+        {
+          "name": "Miko Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
         }
       ],
-      "duration_ms": 178167,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
+      "duration_ms": 166333,
+      "name": "BOJ\u0118 SI\u0118",
+      "url": "https://open.spotify.com/track/08aHfnN9msWri9j7H16rYe"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -459,6 +463,22 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
+      },
+      "artists": [
+        {
+          "name": "Madox",
+          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
+        }
+      ],
+      "duration_ms": 178167,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
         "name": "Peccatum",
         "url": "https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 159545,
       "name": "Peccatum",
       "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
-        "name": "BOJ\u0118 SI\u0118",
-        "url": "https://open.spotify.com/album/3Buzwi4LOfjQ9ziFS2M5qY"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        },
-        {
-          "name": "Miko Blascello",
-          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "BOJ\u0118 SI\u0118",
-      "url": "https://open.spotify.com/track/08aHfnN9msWri9j7H16rYe"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -523,6 +523,22 @@
       "duration_ms": 171840,
       "name": "Back To Your Hands",
       "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
+        "name": "LA LA LAND",
+        "url": "https://open.spotify.com/album/5D2XdawNntHAOkK8VFnJfQ"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "LA LA LAND",
+      "url": "https://open.spotify.com/track/4OX9vHNy02Gl84Z883WdZ7"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -563,22 +579,6 @@
       "duration_ms": 188307,
       "name": "Take The Night",
       "url": "https://open.spotify.com/track/10qSdXFFxy6KPw2YYb3PBJ"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
-        "name": "LA LA LAND",
-        "url": "https://open.spotify.com/album/5D2XdawNntHAOkK8VFnJfQ"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "LA LA LAND",
-      "url": "https://open.spotify.com/track/4OX9vHNy02Gl84Z883WdZ7"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/08UhSt1OaxZEv9V23g5GsD"
-      },
-      "artists": [
-        {
-          "name": "Metrosexual",
-          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
-        }
-      ],
-      "duration_ms": 154253,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/1mIcjUXRuiRQ7zOzVDMmlb"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
         "name": "Czer\u0144",
         "url": "https://open.spotify.com/album/09c4Tv3ZmwsUZqPSG2sOFG"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 156443,
       "name": "Czer\u0144",
       "url": "https://open.spotify.com/track/7vTpsYSIVBm4jZfQ1zUylm"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/08UhSt1OaxZEv9V23g5GsD"
+      },
+      "artists": [
+        {
+          "name": "Metrosexual",
+          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
+        }
+      ],
+      "duration_ms": 154253,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1mIcjUXRuiRQ7zOzVDMmlb"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -939,22 +939,18 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "szczerze, mega mocne",
-        "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
+        "name": "S\u0105 domy, do kt\u00f3rych nie da si\u0119 wr\u00f3ci\u0107",
+        "url": "https://open.spotify.com/album/187Rzrr6xreWkAMRLMZhWK"
       },
       "artists": [
         {
-          "name": "Aleksander K\u0119pka",
-          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
-        },
-        {
-          "name": "Ghosty",
-          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
         }
       ],
-      "duration_ms": 153692,
-      "name": "szczerze, mega mocne",
-      "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
+      "duration_ms": 252655,
+      "name": "S\u0105 domy, do kt\u00f3rych nie da si\u0119 wr\u00f3ci\u0107",
+      "url": "https://open.spotify.com/track/3EVixrZa0pAGaADt0NJy5T"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -975,18 +971,22 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "S\u0105 domy, do kt\u00f3rych nie da si\u0119 wr\u00f3ci\u0107",
-        "url": "https://open.spotify.com/album/187Rzrr6xreWkAMRLMZhWK"
+        "name": "szczerze, mega mocne",
+        "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
       },
       "artists": [
         {
-          "name": "Ganczarska",
-          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+          "name": "Aleksander K\u0119pka",
+          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
+        },
+        {
+          "name": "Ghosty",
+          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
         }
       ],
-      "duration_ms": 252655,
-      "name": "S\u0105 domy, do kt\u00f3rych nie da si\u0119 wr\u00f3ci\u0107",
-      "url": "https://open.spotify.com/track/3EVixrZa0pAGaADt0NJy5T"
+      "duration_ms": 153692,
+      "name": "szczerze, mega mocne",
+      "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "Aljas Bar",
-        "url": "https://open.spotify.com/album/5kPH43CQ0nWDRyTZnegKHM"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        },
-        {
-          "name": "Groovy Jerry",
-          "url": "https://open.spotify.com/artist/5izZJYxrN38CSxgyYDvcEl"
-        }
-      ],
-      "duration_ms": 158644,
-      "name": "Aljas Bar",
-      "url": "https://open.spotify.com/track/6TDCY47tIdzAWBQ6vA06eY"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
         "name": "Vogule Poland",
         "url": "https://open.spotify.com/album/2Usg5a4KfUfcghVFNgtb11"
       },
@@ -1167,22 +1147,22 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "Occultica",
-        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
+        "name": "Aljas Bar",
+        "url": "https://open.spotify.com/album/5kPH43CQ0nWDRyTZnegKHM"
       },
       "artists": [
         {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         },
         {
-          "name": "Aquarius",
-          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
+          "name": "Groovy Jerry",
+          "url": "https://open.spotify.com/artist/5izZJYxrN38CSxgyYDvcEl"
         }
       ],
-      "duration_ms": 209596,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
+      "duration_ms": 158644,
+      "name": "Aljas Bar",
+      "url": "https://open.spotify.com/track/6TDCY47tIdzAWBQ6vA06eY"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -1247,6 +1227,26 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
+        "name": "Occultica",
+        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        },
+        {
+          "name": "Aquarius",
+          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
         "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
         "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "W nosie",
-        "url": "https://open.spotify.com/album/6x4pt9ecf44dYXvobWxUuO"
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
       },
       "artists": [
         {
-          "name": "POLA NUDA",
-          "url": "https://open.spotify.com/artist/5nTUVpjyqWupaDX9vZj1QD"
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
         }
       ],
-      "duration_ms": 113461,
-      "name": "W nosie",
-      "url": "https://open.spotify.com/track/1Pwg6n2PsmIzjF40ntAzbn"
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
+        "name": "W nosie",
+        "url": "https://open.spotify.com/album/6x4pt9ecf44dYXvobWxUuO"
+      },
+      "artists": [
+        {
+          "name": "POLA NUDA",
+          "url": "https://open.spotify.com/artist/5nTUVpjyqWupaDX9vZj1QD"
+        }
+      ],
+      "duration_ms": 113461,
+      "name": "W nosie",
+      "url": "https://open.spotify.com/track/1Pwg6n2PsmIzjF40ntAzbn"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
         "name": "Sabota\u017cysta",
         "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 204000,
       "name": "Sabota\u017cysta",
       "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
-        "name": "Greatest Hits: Side A+B",
-        "url": "https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kamik",
-          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "Miliony monet",
-      "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -1391,6 +1375,22 @@
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
+        "name": "Greatest Hits: Side A+B",
+        "url": "https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "Miliony monet",
+      "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "glorious",
-        "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kluza",
-          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "glorious",
-      "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
         "name": "warszawa",
         "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 152275,
       "name": "warszawa",
       "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
+        "name": "glorious",
+        "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "glorious",
+      "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
+        "name": "Sama s\u0142uchaj",
+        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
+      },
+      "artists": [
+        {
+          "name": "Sienia",
+          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Sama s\u0142uchaj",
+      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
         "name": "DRAG!",
         "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
       },
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "Sama s\u0142uchaj",
-        "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
-      },
-      "artists": [
-        {
-          "name": "Sienia",
-          "url": "https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Sama s\u0142uchaj",
-      "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
-        "name": "Drawing a line (Kayax Talent Hunt)",
-        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Salem",
-          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Drawing a line (Kayax Talent Hunt)",
-      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
-    },
-    {
-      "added_at": "2026-10-23 10:01:08",
-      "album": {
         "name": "Born Like That",
         "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 250259,
       "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
+    },
+    {
+      "added_at": "2026-10-23 10:01:08",
+      "album": {
+        "name": "Drawing a line (Kayax Talent Hunt)",
+        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Salem",
+          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Drawing a line (Kayax Talent Hunt)",
+      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
     },
     {
       "added_at": "2026-10-23 10:01:08",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-10-23 10:01:08",
       "album": {
-        "name": "Pies na dw\u00f3ch \u0142apach",
-        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
+        "name": "zosta\u0107 czy odej\u015b\u0107",
+        "url": "https://open.spotify.com/album/6srpiYFy6SdH1fLeJBCfGz"
       },
       "artists": [
         {
-          "name": "Rejsel",
-          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+          "name": "Maura Margol",
+          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
         }
       ],
-      "duration_ms": 219347,
-      "name": "Pies na dw\u00f3ch \u0142apach",
-      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
+      "duration_ms": 159137,
+      "name": "zosta\u0107 czy odej\u015b\u0107",
+      "url": "https://open.spotify.com/track/2F5ZDCSwEBx7CnV2njYOgz"
     }
   ],
   "unique_name": "GLOW Polska",

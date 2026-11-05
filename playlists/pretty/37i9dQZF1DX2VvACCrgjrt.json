@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310719,
+  "num_followers": 1310690,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Shook Ones, PT. III",
+        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 218398,
+      "name": "Shook Ones, PT. III",
+      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Better Place",
         "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 200353,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Shook Ones, PT. III",
-        "url": "https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb"
-      },
-      "artists": [
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 218398,
-      "name": "Shook Ones, PT. III",
-      "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
     },
     {
-      "added_at": "2026-04-24 04:01:50",
-      "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/0EhasB8Djp57AFFS3khQL5"
-      },
-      "artists": [
-        {
-          "name": "Austin Ashtin",
-          "url": "https://open.spotify.com/artist/5K3fRKSyzi4u7vEwgubeA3"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/117jjc0cq3aoUHXkK8wwzp"
-    },
-    {
       "added_at": "2026-06-12 04:01:37",
       "album": {
         "name": "ERICA",
@@ -1387,6 +1371,22 @@
       "duration_ms": 172727,
       "name": "ERICA",
       "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
+    },
+    {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/0EhasB8Djp57AFFS3khQL5"
+      },
+      "artists": [
+        {
+          "name": "Austin Ashtin",
+          "url": "https://open.spotify.com/artist/5K3fRKSyzi4u7vEwgubeA3"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/117jjc0cq3aoUHXkK8wwzp"
     },
     {
       "added_at": "2026-09-11 04:01:44",
@@ -1507,6 +1507,30 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Rich DietZ",
+          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
+        },
+        {
+          "name": "Smith & Sorren",
+          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -1531,26 +1555,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
       "artists": [
         {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         },
         {
-          "name": "Rich DietZ",
-          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
-        },
-        {
-          "name": "Smith & Sorren",
-          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 180010,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -1575,26 +1595,6 @@
       "duration_ms": 182379,
       "name": "Work",
       "url": "https://open.spotify.com/track/07MwM4OFkgQ6hRz2U6EQFu"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1657,6 +1657,22 @@
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "Rich & Handsome",
@@ -1683,22 +1699,6 @@
       "duration_ms": 147692,
       "name": "Rich & Handsome",
       "url": "https://open.spotify.com/track/1oeljccOyFQGPOY8gaVnnH"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1797,42 +1797,6 @@
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Astronaught",
-        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Astronaught",
-      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Grove St. Party",
@@ -1851,6 +1815,42 @@
       "duration_ms": 170307,
       "name": "Grove St. Party",
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Astronaught",
+        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Astronaught",
+      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2177,22 +2177,6 @@
       "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
     },
     {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "Never Crash",
-        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Never Crash",
-      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
-    },
-    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Somn Like Dis",
@@ -2207,22 +2191,6 @@
       "duration_ms": 153750,
       "name": "Somn Like Dis",
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
-    },
-    {
-      "added_at": "2026-09-25 04:02:01",
-      "album": {
-        "name": "\u2661\u262eEP",
-        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brecht",
-          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Nada De Novo",
-      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2243,6 +2211,38 @@
       "duration_ms": 167633,
       "name": "Cocaine Inside My Blunts - Dave Summer Remix",
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "Never Crash",
+        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Never Crash",
+      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
+    },
+    {
+      "added_at": "2026-09-25 04:02:01",
+      "album": {
+        "name": "\u2661\u262eEP",
+        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brecht",
+          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Nada De Novo",
+      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2277,22 +2277,6 @@
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
     },
     {
-      "added_at": "2026-09-25 04:02:01",
-      "album": {
-        "name": "Keep The Heat",
-        "url": "https://open.spotify.com/album/1VDcjSEKxdZcAWNwoplzBU"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/5fFyFyZY2azjTMIS9NozEU"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "N9",
@@ -2315,6 +2299,22 @@
       "duration_ms": 225000,
       "name": "N9",
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
+    },
+    {
+      "added_at": "2026-09-25 04:02:01",
+      "album": {
+        "name": "Keep The Heat",
+        "url": "https://open.spotify.com/album/1VDcjSEKxdZcAWNwoplzBU"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/5fFyFyZY2azjTMIS9NozEU"
     },
     {
       "added_at": "2026-09-18 04:02:27",
@@ -2373,22 +2373,6 @@
       "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
-      },
-      "artists": [
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Renegade Master (Don Diablo Edit)",
@@ -2407,6 +2391,22 @@
       "duration_ms": 217846,
       "name": "Renegade Master - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
     },
     {
       "added_at": "2026-08-07 04:01:21",

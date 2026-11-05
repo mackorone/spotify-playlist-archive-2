@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 440417,
+  "num_followers": 440488,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Just Like the Movies",
-        "url": "https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl"
-      },
-      "artists": [
-        {
-          "name": "J. Alke",
-          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
-        }
-      ],
-      "duration_ms": 127497,
-      "name": "Just Like the Movies",
-      "url": "https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
         "name": "Home Beyond The Stars",
         "url": "https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 141298,
       "name": "Home Beyond The Stars",
       "url": "https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Just Like the Movies",
+        "url": "https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "duration_ms": 127497,
+      "name": "Just Like the Movies",
+      "url": "https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Tales of This",
-        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
-      },
-      "artists": [
-        {
-          "name": "Andrea Azzola",
-          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
-        }
-      ],
-      "duration_ms": 136867,
-      "name": "Tales of This",
-      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
         "name": "Fleur De Vie",
         "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 176717,
       "name": "Fleur De Vie",
       "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Irenic",
-        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
       },
       "artists": [
         {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
         }
       ],
-      "duration_ms": 177323,
-      "name": "Irenic",
-      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
+      "duration_ms": 176137,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
+        "name": "Irenic",
+        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 177323,
+      "name": "Irenic",
+      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
         "name": "Como Nights",
         "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
       },
@@ -1239,38 +1255,6 @@
       "duration_ms": 150854,
       "name": "Como Nights",
       "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
-      },
-      "artists": [
-        {
-          "name": "Aron E. Ross",
-          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
-        }
-      ],
-      "duration_ms": 176137,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
-        "name": "Fireside",
-        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
-      },
-      "artists": [
-        {
-          "name": "Aisen Voight",
-          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
-        }
-      ],
-      "duration_ms": 144291,
-      "name": "Fireside",
-      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1303,6 +1287,22 @@
       "duration_ms": 157347,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Fireside",
+        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "duration_ms": 144291,
+      "name": "Fireside",
+      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Making peace",
-        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
-      },
-      "artists": [
-        {
-          "name": "Christian Janssen",
-          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
-        }
-      ],
-      "duration_ms": 143034,
-      "name": "Making peace",
-      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
         "name": "solitude",
         "url": "https://open.spotify.com/album/5o9hDc5y1jfM2NH07QVoWl"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 151124,
       "name": "solitude",
       "url": "https://open.spotify.com/track/6I5VqsFIZMoDtW4Fi3V7tH"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Making peace",
+        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "duration_ms": 143034,
+      "name": "Making peace",
+      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Felt Improvisations",
-        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
-      },
-      "artists": [
-        {
-          "name": "Elias Kiefer",
-          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "Felt Improv No. 10",
-      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
         "name": "Daffodils",
         "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 140592,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Felt Improvisations",
+        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "Felt Improv No. 10",
+      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Quietude",
-        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
-      },
-      "artists": [
-        {
-          "name": "Naskal",
-          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
-        }
-      ],
-      "duration_ms": 156405,
-      "name": "Quietude",
-      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
         "name": "Campania",
         "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 141014,
       "name": "Campania",
       "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "duration_ms": 156405,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Stigen",
-        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
       },
       "artists": [
         {
-          "name": "Carl Sture",
-          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
         }
       ],
-      "duration_ms": 174905,
-      "name": "Stigen",
-      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
+      "duration_ms": 146073,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1639,6 +1639,22 @@
       "duration_ms": 140808,
       "name": "Ruby Clouds",
       "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Stigen",
+        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
+      },
+      "artists": [
+        {
+          "name": "Carl Sture",
+          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Stigen",
+      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1671,22 +1687,6 @@
       "duration_ms": 187200,
       "name": "Tranquil Landscape",
       "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
-      },
-      "artists": [
-        {
-          "name": "Kyo Himura",
-          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
-        }
-      ],
-      "duration_ms": 146073,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Shadows On The Lawn",
-        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
+        "name": "haverdal",
+        "url": "https://open.spotify.com/album/5ONeHMUpDcjoL9rPwc2pZY"
       },
       "artists": [
         {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+          "name": "rein\u00eb",
+          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
         }
       ],
-      "duration_ms": 133058,
-      "name": "Shadows On The Lawn",
-      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
+      "duration_ms": 153750,
+      "name": "haverdal",
+      "url": "https://open.spotify.com/track/0yCNW5tD9V7PlAzGtByxiQ"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "haverdal",
-        "url": "https://open.spotify.com/album/5ONeHMUpDcjoL9rPwc2pZY"
+        "name": "Shadows On The Lawn",
+        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
       },
       "artists": [
         {
-          "name": "rein\u00eb",
-          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
         }
       ],
-      "duration_ms": 153750,
-      "name": "haverdal",
-      "url": "https://open.spotify.com/track/0yCNW5tD9V7PlAzGtByxiQ"
+      "duration_ms": 133058,
+      "name": "Shadows On The Lawn",
+      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
-        "name": "Each glorious entity",
-        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
-      },
-      "artists": [
-        {
-          "name": "Eberina",
-          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
-        }
-      ],
-      "duration_ms": 133430,
-      "name": "Each glorious entity",
-      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
         "name": "Emanate",
         "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 179281,
       "name": "Emanate",
       "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
+        "name": "Each glorious entity",
+        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
+      },
+      "artists": [
+        {
+          "name": "Eberina",
+          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+        }
+      ],
+      "duration_ms": 133430,
+      "name": "Each glorious entity",
+      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
     },
     {
       "added_at": "2026-09-25 04:01:02",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2026-09-25 04:01:02",
       "album": {
+        "name": "The Magic of a Piano",
+        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "duration_ms": 167844,
+      "name": "The Magic of a Piano",
+      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
+    },
+    {
+      "added_at": "2026-09-25 04:01:02",
+      "album": {
         "name": "Hudson",
         "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 167000,
       "name": "Highland",
       "url": "https://open.spotify.com/track/3LfTQeunHVYq4yatmvkuuC"
-    },
-    {
-      "added_at": "2026-09-25 04:01:02",
-      "album": {
-        "name": "The Magic of a Piano",
-        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
-      },
-      "artists": [
-        {
-          "name": "Pederosa Calafiori",
-          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
-        }
-      ],
-      "duration_ms": 167844,
-      "name": "The Magic of a Piano",
-      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
     },
     {
       "added_at": "2026-09-25 04:01:02",

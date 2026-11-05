@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: دنيا سمير غانم
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,333 likes - 77 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,332 likes - 77 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

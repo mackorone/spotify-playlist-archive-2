@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 646065,
+  "num_followers": 646083,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAADIPewPP5aaB85v+uO7knhG",
+  "snapshot_id": "aufSgAAAAADPpzrM0DltHm4S/upigkE9",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+        "name": "Movie Soundtrack",
+        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
+      "duration_ms": 518640,
+      "name": "Cumbia Medley - Live",
+      "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movie Soundtrack",
-        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 518640,
-      "name": "Cumbia Medley - Live",
-      "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
+      "duration_ms": 217133,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
     },
     {
       "added_at": null,

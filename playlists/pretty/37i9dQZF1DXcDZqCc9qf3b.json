@@ -1,13 +1,289 @@
 {
   "description": "Groove to music from your Netflix Kids favorites! Cover: Spellbound",
-  "num_followers": 108993,
+  "num_followers": 109047,
   "original_name": "Netflix Kids Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFAvekVbtHDE8b+O5mjsmggJh/p9",
+  "snapshot_id": "AAAAAJTbA0ihKq3R6FY700+NcYo9KlbY",
   "tracks": [
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Hey Doozie! (Theme Song)",
+        "url": "https://open.spotify.com/album/51F1sKesjS3tOsQGlxXX1f"
+      },
+      "artists": [
+        {
+          "name": "Doozie's Doghouse",
+          "url": "https://open.spotify.com/artist/3651TGq8L0Zme78jxAhCKl"
+        },
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 120540,
+      "name": "Hey Doozie - Theme Song",
+      "url": "https://open.spotify.com/track/1FkFjFxR4VNi6zY5BLTfz7"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Hangin\u2019 With My Dogs",
+        "url": "https://open.spotify.com/album/344jq8xhtsqof8RA7yzvEm"
+      },
+      "artists": [
+        {
+          "name": "Doozie's Doghouse",
+          "url": "https://open.spotify.com/artist/3651TGq8L0Zme78jxAhCKl"
+        },
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Hangin\u2019 With My Dogs",
+      "url": "https://open.spotify.com/track/6E4gFHlIW6e9mBh6mjHbWv"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Hollywood Arts (Soundtrack from the series)",
+        "url": "https://open.spotify.com/album/6nEmz5lv08taKJFtEyjrnQ"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Arts Cast",
+          "url": "https://open.spotify.com/artist/4BFtzsehIMmIEN9JDqsVyL"
+        },
+        {
+          "name": "Alyssa Miles",
+          "url": "https://open.spotify.com/artist/6gVJYb2JOXpAXN8JOdiNOn"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/39P68w9yUt2m1JJtPm6x4y"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Hollywood Arts (Soundtrack from the series)",
+        "url": "https://open.spotify.com/album/6nEmz5lv08taKJFtEyjrnQ"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Arts Cast",
+          "url": "https://open.spotify.com/artist/4BFtzsehIMmIEN9JDqsVyL"
+        },
+        {
+          "name": "Emmy Liu-Wang",
+          "url": "https://open.spotify.com/artist/1TLQmjXgQiL3XzYtGGf7rG"
+        },
+        {
+          "name": "Daniella Monet",
+          "url": "https://open.spotify.com/artist/0whlUstHsU6tSdRX6bS0bu"
+        },
+        {
+          "name": "Erika Swayze",
+          "url": "https://open.spotify.com/artist/5Fh1ENCbHFLA355tX7BseH"
+        },
+        {
+          "name": "Alyssa Miles",
+          "url": "https://open.spotify.com/artist/6gVJYb2JOXpAXN8JOdiNOn"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Hold You Up",
+      "url": "https://open.spotify.com/track/0kT4itBTtzEAWeLivh1di6"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Smile (From Henry Danger: The Movie)",
+        "url": "https://open.spotify.com/album/3LTFFjUdTBeeBOkR4t284f"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "Henry Danger Cast",
+          "url": "https://open.spotify.com/artist/2yvuGKJxmffqiczG3Hjcge"
+        },
+        {
+          "name": "Frankie Grande",
+          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
+        }
+      ],
+      "duration_ms": 150263,
+      "name": "Smile - From Henry Danger: The Movie",
+      "url": "https://open.spotify.com/track/1sr6O49crnM5zI51Ks7OBR"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Henry Danger The Musical (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/34d8RiIlozH7g5xQLEfm6G"
+      },
+      "artists": [
+        {
+          "name": "Henry Danger Cast",
+          "url": "https://open.spotify.com/artist/2yvuGKJxmffqiczG3Hjcge"
+        }
+      ],
+      "duration_ms": 159083,
+      "name": "There's a Musical Curse Over Swellview - From \"Henry Danger The Musical\"",
+      "url": "https://open.spotify.com/track/3DQIvkwN8Ay2olgiDj0NAO"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Really Loud Music",
+        "url": "https://open.spotify.com/album/1b3ATMxviDaiYfqJnosJn4"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "duration_ms": 97506,
+      "name": "Best Thing Ever",
+      "url": "https://open.spotify.com/track/4zyCwUAQRZb9WWGIoR3HiH"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "Really Loud Music",
+        "url": "https://open.spotify.com/album/1b3ATMxviDaiYfqJnosJn4"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "duration_ms": 53972,
+      "name": "Play It Loud",
+      "url": "https://open.spotify.com/track/4HHvuJOM3WCIjbL7OUoC6k"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 99176,
+      "name": "PAW Patrol Pup Pup Boogie",
+      "url": "https://open.spotify.com/track/7lwkzHlF9BroFhhZRZ1sdi"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 48544,
+      "name": "PAW Patrol on a Roll",
+      "url": "https://open.spotify.com/track/5QO4mKGgQOsrqfFkNHNi2Y"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "The Thundermans: Undercover",
+        "url": "https://open.spotify.com/album/29PHqjRRscF5ZkgD745rt3"
+      },
+      "artists": [
+        {
+          "name": "The Thundermans Cast",
+          "url": "https://open.spotify.com/artist/41umUJWljVuEbbDJXcBqr7"
+        }
+      ],
+      "duration_ms": 35278,
+      "name": "The Thundermans: Undercover - Official Theme Song",
+      "url": "https://open.spotify.com/track/1UXglyq0JOTvqGagK1yUa1"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "That Girl Lay Lay (Music From Season 1)",
+        "url": "https://open.spotify.com/album/2lQuH7mxNzvX9MkF9B3Vg9"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        }
+      ],
+      "duration_ms": 33073,
+      "name": "Out The App",
+      "url": "https://open.spotify.com/track/50rLO1k7YC6YjbjiRgpshR"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "That Girl Lay Lay (Music from Season 2)",
+        "url": "https://open.spotify.com/album/5FHjNYrEKSnIUft6AOzUtK"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        },
+        {
+          "name": "Good NEWZ Girls",
+          "url": "https://open.spotify.com/artist/72RsQdxG1n4NDTHnP9e4zs"
+        }
+      ],
+      "duration_ms": 130636,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/5PVSIUnD7HPhJdUOEkCa19"
+    },
+    {
+      "added_at": "2026-11-04 17:29:32",
+      "album": {
+        "name": "The Fairly Odd Parents: A New Wish Theme Song",
+        "url": "https://open.spotify.com/album/7432WNglQgJgNsRSnHr5Rt"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "The Fairly Odd Parents",
+          "url": "https://open.spotify.com/artist/7ncLkpQYZi1VUpmeygyTpC"
+        }
+      ],
+      "duration_ms": 30634,
+      "name": "The Fairly Odd Parents: A New Wish Theme Song",
+      "url": "https://open.spotify.com/track/4B4MTX5stbB4WSVXBGuKCj"
+    },
     {
       "added_at": "2026-05-04 13:00:09",
       "album": {

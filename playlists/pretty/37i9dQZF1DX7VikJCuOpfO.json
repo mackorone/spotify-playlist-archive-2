@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
-  "num_followers": 368353,
+  "num_followers": 368360,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -263,8 +263,8 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Por Debajo De La Mesa",
-        "url": "https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR"
+        "name": "Se Me Olvid\u00f3 Otra Vez",
+        "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 184313,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL"
+      "duration_ms": 176741,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -343,8 +343,8 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Se Me Olvid\u00f3 Otra Vez",
-        "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
+        "name": "Por Debajo De La Mesa",
+        "url": "https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 176741,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
+      "duration_ms": 184313,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Cielito Lindo (Live)",
-        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206043,
-      "name": "Cielito Lindo - Live",
-      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Yo No Se Que Me Paso",
         "url": "https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 288857,
       "name": "Yo No Se Que Me Paso",
       "url": "https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Cielito Lindo (Live)",
+        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206043,
+      "name": "Cielito Lindo - Live",
+      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Mariachazo",
-        "url": "https://open.spotify.com/album/6KoKbuvrKOwj6p2SvQUJbI"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "Con un Polvo y Otro Polvo",
-      "url": "https://open.spotify.com/track/5i8rqPKr4eK92GbScBVWT3"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Emilia",
         "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 221848,
       "name": "Emilia",
       "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Mariachazo",
+        "url": "https://open.spotify.com/album/6KoKbuvrKOwj6p2SvQUJbI"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "Con un Polvo y Otro Polvo",
+      "url": "https://open.spotify.com/track/5i8rqPKr4eK92GbScBVWT3"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Angelito Sin Alas",
-        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
-      },
-      "artists": [
-        {
-          "name": "Las Posada",
-          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
-        }
-      ],
-      "duration_ms": 168238,
-      "name": "Angelito Sin Alas",
-      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Despecho Puro (En Vivo)",
         "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 173173,
       "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
       "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Angelito Sin Alas",
+        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+      },
+      "artists": [
+        {
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+        }
+      ],
+      "duration_ms": 168238,
+      "name": "Angelito Sin Alas",
+      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        }
-      ],
-      "duration_ms": 168622,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Ya Es Muy Tarde",
         "url": "https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 227987,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        }
+      ],
+      "duration_ms": 168622,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
     },
     {
       "added_at": "2026-10-23 06:00:35",

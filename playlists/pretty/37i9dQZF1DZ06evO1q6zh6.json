@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 186411,
+  "num_followers": 186429,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAABKTT1tTHx4Vu37LG0sJAQP",
+  "snapshot_id": "aufSgAAAAAB+CIdxEgOXA49ZaPe1Zh/l",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redeemer of Souls (Deluxe)",
-        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 364075,
-      "name": "Halls of Valhalla",
-      "url": "https://open.spotify.com/track/4zX2bEgFHUIZV8rR3qsLor"
+      "duration_ms": 288693,
+      "name": "Ram It Down",
+      "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ram It Down",
-        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+        "name": "Redeemer of Souls (Deluxe)",
+        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 288693,
-      "name": "Ram It Down",
-      "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
+      "duration_ms": 364075,
+      "name": "Halls of Valhalla",
+      "url": "https://open.spotify.com/track/4zX2bEgFHUIZV8rR3qsLor"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Of Retribution",
-        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 253093,
-      "name": "Judas Rising",
-      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
+      "duration_ms": 381067,
+      "name": "Invincible Shield",
+      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 381067,
-      "name": "Invincible Shield",
-      "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+      "duration_ms": 253093,
+      "name": "Judas Rising",
+      "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stained Class",
         "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+        "name": "Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/3cMTwZIk74swzrWUSPVzcI"
       },
       "artists": [
         {
@@ -760,25 +776,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 257799,
-      "name": "Delivering the Goods",
-      "url": "https://open.spotify.com/track/2ygCZPsdNy7xp0UHIYzXPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
+      "duration_ms": 350295,
+      "name": "Dreamer Deceiver - 2026 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/36qbkcRCDvqE7UhHOpLjHt"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Wings of Destiny (50th Anniversary Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/3cMTwZIk74swzrWUSPVzcI"
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 350295,
-      "name": "Dreamer Deceiver - 2026 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/36qbkcRCDvqE7UhHOpLjHt"
+      "duration_ms": 257799,
+      "name": "Delivering the Goods",
+      "url": "https://open.spotify.com/track/2ygCZPsdNy7xp0UHIYzXPq"
     }
   ],
   "unique_name": "This Is Judas Priest",

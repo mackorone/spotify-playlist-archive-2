@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 91074,
+  "num_followers": 91080,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -136,7 +136,7 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "name": "Orchestra del Teatro alla Scala, Milano",
           "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         },
         {
@@ -168,7 +168,7 @@
           "url": "https://open.spotify.com/artist/39dLB5mWDbZhWPGeEOzDHX"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "name": "Orchestra del Teatro alla Scala, Milano",
           "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         }
       ],
@@ -708,7 +708,7 @@
           "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "name": "Orchestra del Teatro alla Scala, Milano",
           "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         },
         {
@@ -775,34 +775,6 @@
       "duration_ms": 180400,
       "name": "Nabucco / Act 4: Dio di Giuda!",
       "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Verdi: Rigoletto - highlights",
-        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Renato Bruson",
-          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Rigoletto / Act 1: \"Pari siamo\"",
-      "url": "https://open.spotify.com/track/6h7UtnJlcAA0WC3d41269s"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -887,6 +859,34 @@
       "duration_ms": 222933,
       "name": "Aida: Preludio",
       "url": "https://open.spotify.com/track/2gYfLYgEXoxbjcS79M2j55"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Verdi: Rigoletto - highlights",
+        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Renato Bruson",
+          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Rigoletto / Act 1: \"Pari siamo\"",
+      "url": "https://open.spotify.com/track/6h7UtnJlcAA0WC3d41269s"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -1076,8 +1076,8 @@
           "url": "https://open.spotify.com/artist/7tnWwr4R5o3aecretwqytf"
         },
         {
-          "name": "Orchestra of Welsh National Opera",
-          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
+          "name": "Welsh National Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5CPW0GIpb1RyTpxuheUfXD"
         }
       ],
       "duration_ms": 110800,
@@ -1312,7 +1312,7 @@
           "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "name": "Orchestra del Teatro alla Scala, Milano",
           "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         }
       ],

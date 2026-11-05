@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: キタニタツヤ Tatsuya Kitani
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,825 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,829 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 3 | [キツネノボタン](https://open.spotify.com/track/08tsEjEVpPUNi5rbjQRI9O) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [キツネノボタン](https://open.spotify.com/album/5ZWZs7v1E6ivypdPz6QMuK) | 3:57 |
 | 4 | [Fever](https://open.spotify.com/track/3xXoUdsKqust8edzZFQxAD) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Unreleased Collection \- Japan Exclusive](https://open.spotify.com/album/4e6mApFhKsMODo9xT95sMY) | 3:37 |
 | 5 | [AXEL](https://open.spotify.com/track/2ZxNr28k5ey6M0HnGecyJF) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [AXEL](https://open.spotify.com/album/2R8luQ7gaj5iKHQKcLlnSD) | 3:32 |
-| 6 | [リベラシオン](https://open.spotify.com/track/0QCqWFSzw5lhvldul7ZaEA) | [ドレスコーズ](https://open.spotify.com/artist/5BqRXgf6x5G9kslDQQtTHB) | [リベラシオン](https://open.spotify.com/album/34KgxnhqXVbMlkzjR2jMI5) | 3:20 |
+| 6 | [リベラシオン](https://open.spotify.com/track/0QCqWFSzw5lhvldul7ZaEA) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [リベラシオン](https://open.spotify.com/album/34KgxnhqXVbMlkzjR2jMI5) | 3:20 |
 | 7 | [ふれる](https://open.spotify.com/track/41IYePCc4p7PJqwwdfUEWZ) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [ふれる](https://open.spotify.com/album/0lu92aGMIuh1LPHCNHamvu) | 4:12 |
 | 8 | [アシデマトイ](https://open.spotify.com/track/7bJvn5SFOWN17OnAjczSsW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [アシデマトイ](https://open.spotify.com/album/10IYBJneL1Ke2F4LhO68tS) | 5:35 |
 | 9 | [希望法](https://open.spotify.com/track/5DzWLPj0m3dEGD8bsKOU57) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [OK集](https://open.spotify.com/album/3fzX4zbJ8I5gLMzb4aQq11) | 3:42 |

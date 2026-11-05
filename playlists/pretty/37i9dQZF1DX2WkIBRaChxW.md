@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Avenoir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,136 likes - 98 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,120 likes - 98 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

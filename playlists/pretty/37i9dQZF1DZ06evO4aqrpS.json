@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 70267,
+  "num_followers": 70308,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAADl7RlyXHLqI4SnD2yDDTO0",
+  "snapshot_id": "aufSgAAAAAB4vTWWklQBzFLy4hugDtGY",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 269928,
+      "name": "El Alma M\u00eda",
+      "url": "https://open.spotify.com/track/5m2P2Etjjy6W1AHyzLXVSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Te Muerdes el Labio",
         "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 173453,
       "name": "Peligrosamente Dark (feat. Silvana Estrada)",
       "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias",
-        "url": "https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 269928,
-      "name": "El Alma M\u00eda",
-      "url": "https://open.spotify.com/track/5m2P2Etjjy6W1AHyzLXVSJ"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 242306,
-      "name": "Se Me Ocurre",
-      "url": "https://open.spotify.com/track/7mMrfUbYLN06xqRbRDhx2E"
+      "duration_ms": 93923,
+      "name": "Pensarte",
+      "url": "https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
       "duration_ms": 214443,
       "name": "Cada D\u00eda Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4T8i5In6BRejd70ekFFgi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Se Me Ocurre",
+      "url": "https://open.spotify.com/track/7mMrfUbYLN06xqRbRDhx2E"
     },
     {
       "added_at": null,
@@ -399,22 +415,6 @@
       "duration_ms": 176580,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/6TXz1UlA506DmViur6o8o5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
-        "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 93923,
-      "name": "Pensarte",
-      "url": "https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog"
     },
     {
       "added_at": null,

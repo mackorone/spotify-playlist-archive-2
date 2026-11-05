@@ -1,13 +1,77 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Billboard Style",
-  "num_followers": 260845,
+  "description": "The best new indie tracks from independent artists & labels. Cover: RIP Magic",
+  "num_followers": 260888,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrNOIuf3sxPt7Meuz9FZdWc2p2L",
+  "snapshot_id": "AAAAAEBlwNdQKUqTTuM9J5TO28+g3h89",
   "tracks": [
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/1tMPaXMpEEWTYeDEiAlcVv"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 217517,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/7btpQxdsqyH5FSuYJrTdlZ"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/1p5NI6fP2VaY7QrKjHXhlB"
+      },
+      "artists": [
+        {
+          "name": "John Errol",
+          "url": "https://open.spotify.com/artist/7MU7z25m2sJNFKeFlNVIRP"
+        }
+      ],
+      "duration_ms": 351620,
+      "name": "God Today",
+      "url": "https://open.spotify.com/track/63Y3YE8Jy72hDPj8jj1Kyu"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Concrete Cowboy",
+        "url": "https://open.spotify.com/album/31tY51KvbFLZbsJ5xIdX5s"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Concrete Cowboy",
+      "url": "https://open.spotify.com/track/2cubmkSK7KZDiJ063MzViO"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Southern Ontario Gothic",
+        "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
+      },
+      "artists": [
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "duration_ms": 204407,
+      "name": "Aritzia Sweater",
+      "url": "https://open.spotify.com/track/18ftfb0u6bSa2Dks47ohTC"
+    },
     {
       "added_at": "2026-10-21 16:00:08",
       "album": {
@@ -25,6 +89,38 @@
       "url": "https://open.spotify.com/track/2CxXVh2ENoDbaATNz97BC5"
     },
     {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Cling",
+        "url": "https://open.spotify.com/album/4oohe01beqxglShNmpsKSk"
+      },
+      "artists": [
+        {
+          "name": "Font",
+          "url": "https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Cling",
+      "url": "https://open.spotify.com/track/7KH6wyWQYK2MKsQekAL52g"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "In search of ocean",
+        "url": "https://open.spotify.com/album/6AUU4IBSYYS4Sx2TcY8tJd"
+      },
+      "artists": [
+        {
+          "name": "Natek",
+          "url": "https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh"
+        }
+      ],
+      "duration_ms": 225019,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/7jQxbk2thKFe0PzgjKLE2J"
+    },
+    {
       "added_at": "2026-10-21 16:00:08",
       "album": {
         "name": "Little Things",
@@ -39,6 +135,22 @@
       "duration_ms": 157857,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/5rCdoOUzXhApxg05G4NAqe"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "added_at": "2026-10-21 16:00:08",
@@ -73,6 +185,22 @@
       "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
     },
     {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Shut up!",
+        "url": "https://open.spotify.com/album/1X9W4ApXYjmGDzxhli289v"
+      },
+      "artists": [
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Shut up!",
+      "url": "https://open.spotify.com/track/6b8fpbaD1gNQE8yxfvGegq"
+    },
+    {
       "added_at": "2026-10-14 14:26:50",
       "album": {
         "name": "The Point's a Truss, My Trusselina",
@@ -87,6 +215,22 @@
       "duration_ms": 190451,
       "name": "Gastro",
       "url": "https://open.spotify.com/track/1ER7XeW1dL2SYsO1uTpsON"
+    },
+    {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Something Shameful",
+        "url": "https://open.spotify.com/album/45284BA83zp5esaMNPPyzk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Meth",
+          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
+        }
+      ],
+      "duration_ms": 197301,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/4msLenPX1FBgNM6FeFyeR5"
     },
     {
       "added_at": "2026-10-21 16:00:08",
@@ -137,6 +281,22 @@
       "url": "https://open.spotify.com/track/0YQ6QyPdJEhn9lyyGpdPAx"
     },
     {
+      "added_at": "2026-11-04 19:01:17",
+      "album": {
+        "name": "Sometimes I Get Emotional",
+        "url": "https://open.spotify.com/album/5kNMRxLIn7Z3Sr2cGTaL9W"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Sometimes I Get Emotional",
+      "url": "https://open.spotify.com/track/7uAD2mlombVXT7JsZ3yexr"
+    },
+    {
       "added_at": "2026-10-21 16:00:08",
       "album": {
         "name": "Chip City",
@@ -167,22 +327,6 @@
       "duration_ms": 182520,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/5CLhS1D8z7smOOrbXjUDfJ"
-    },
-    {
-      "added_at": "2026-10-14 14:26:50",
-      "album": {
-        "name": "Like it like that",
-        "url": "https://open.spotify.com/album/2RUgJ14dqeYNYIg29lw02S"
-      },
-      "artists": [
-        {
-          "name": "John Errol",
-          "url": "https://open.spotify.com/artist/7MU7z25m2sJNFKeFlNVIRP"
-        }
-      ],
-      "duration_ms": 229268,
-      "name": "Like it like that",
-      "url": "https://open.spotify.com/track/589HRc51Jeqr9WouaeBI6l"
     },
     {
       "added_at": "2026-10-28 04:00:08",
@@ -279,6 +423,22 @@
       "duration_ms": 247112,
       "name": "Tenpin Haven",
       "url": "https://open.spotify.com/track/1dut526YSFOtIM4mYlMfng"
+    },
+    {
+      "added_at": "2026-08-19 04:00:34",
+      "album": {
+        "name": "the cops are coming",
+        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "duration_ms": 193615,
+      "name": "the cops are coming",
+      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-10-21 16:00:08",
@@ -1013,86 +1173,6 @@
       "url": "https://open.spotify.com/track/4NVem9pQMQMjBGSN1hfunW"
     },
     {
-      "added_at": "2026-09-23 14:54:22",
-      "album": {
-        "name": "Horsehair",
-        "url": "https://open.spotify.com/album/3bW0nTyjfmFH6mEjaXL7gQ"
-      },
-      "artists": [
-        {
-          "name": "Godstar Megamax",
-          "url": "https://open.spotify.com/artist/4vDEj7yUYjGvkiNoGIT0jr"
-        }
-      ],
-      "duration_ms": 216865,
-      "name": "Horsehair",
-      "url": "https://open.spotify.com/track/6wnxOhHVIVfJD6094hdB4S"
-    },
-    {
-      "added_at": "2026-09-23 04:00:21",
-      "album": {
-        "name": "Bondo",
-        "url": "https://open.spotify.com/album/710exqhpmG9kNPGFXRN1MK"
-      },
-      "artists": [
-        {
-          "name": "Bondo",
-          "url": "https://open.spotify.com/artist/0KgidWPMOefF5qr8mc8iqm"
-        }
-      ],
-      "duration_ms": 314733,
-      "name": "Zuma",
-      "url": "https://open.spotify.com/track/6uLJaDSN4yIhPkCJ5N6TCL"
-    },
-    {
-      "added_at": "2026-08-19 04:00:34",
-      "album": {
-        "name": "Smooth talker",
-        "url": "https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg"
-      },
-      "artists": [
-        {
-          "name": "Lauren Juzang",
-          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Smooth talker",
-      "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
-    },
-    {
-      "added_at": "2026-09-23 04:00:21",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/5tuREuTILVBJWpmhWETSD1"
-      },
-      "artists": [
-        {
-          "name": "ari",
-          "url": "https://open.spotify.com/artist/3KVl82id38jvKkUqkqpDWf"
-        }
-      ],
-      "duration_ms": 112411,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3SVLgEQ3oJOSkRHOunEjhU"
-    },
-    {
-      "added_at": "2026-09-09 04:00:30",
-      "album": {
-        "name": "Bill Is Dead",
-        "url": "https://open.spotify.com/album/4tp29ikBPhHBqdpTY2kfGl"
-      },
-      "artists": [
-        {
-          "name": "Tommy Barlow",
-          "url": "https://open.spotify.com/artist/5pwO7OfGJSYXlLDODBRz8K"
-        }
-      ],
-      "duration_ms": 158943,
-      "name": "Bill Is Dead",
-      "url": "https://open.spotify.com/track/3g8e6dHMbhzKy6R4CJfRW3"
-    },
-    {
       "added_at": "2026-09-16 14:20:19",
       "album": {
         "name": "I <3 You",
@@ -1107,38 +1187,6 @@
       "duration_ms": 122560,
       "name": "I <3 You",
       "url": "https://open.spotify.com/track/658hxdysZypt05ifU1ox26"
-    },
-    {
-      "added_at": "2026-08-19 04:00:34",
-      "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/6heE5ZRt9Ur9EOb8TsGbWB"
-      },
-      "artists": [
-        {
-          "name": "Haley Bridge",
-          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/5gVu2dpIYNh64WzlqthDyr"
-    },
-    {
-      "added_at": "2026-08-19 04:00:34",
-      "album": {
-        "name": "the cops are coming",
-        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
-      },
-      "artists": [
-        {
-          "name": "Junior Mesa",
-          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
-        }
-      ],
-      "duration_ms": 193615,
-      "name": "the cops are coming",
-      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-09-09 04:00:30",
@@ -1171,54 +1219,6 @@
       "duration_ms": 122416,
       "name": "hey fever",
       "url": "https://open.spotify.com/track/6bSxzviDdul5AvB0PrjIJl"
-    },
-    {
-      "added_at": "2026-08-12 14:30:20",
-      "album": {
-        "name": "Grace, Flair and Distance",
-        "url": "https://open.spotify.com/album/3Q4kLbPexP7VnH4jymSPo6"
-      },
-      "artists": [
-        {
-          "name": "jo from school",
-          "url": "https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Six Years Of Keeping On",
-      "url": "https://open.spotify.com/track/0gSIr2lOp9I2mynmYdjzyf"
-    },
-    {
-      "added_at": "2026-08-05 16:00:14",
-      "album": {
-        "name": "1 By One",
-        "url": "https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe"
-      },
-      "artists": [
-        {
-          "name": "Ideas By Ab",
-          "url": "https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "1 By One",
-      "url": "https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T"
-    },
-    {
-      "added_at": "2026-08-05 16:00:14",
-      "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 169446,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
     }
   ],
   "unique_name": "Fresh Finds Indie",

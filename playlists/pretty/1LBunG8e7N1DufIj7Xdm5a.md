@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,505 songs - 12 day 19 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,506 songs - 12 day 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5513,5 +5513,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5503 | [Ban Ke Chaand](https://open.spotify.com/track/5HNApijXQvJKWI4vuHgSWt) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Ban Ke Chaand](https://open.spotify.com/album/3g4qHvWdGvZjfTH3Ff5kIt) | 4:02 |
 | 5504 | [A Real Love](https://open.spotify.com/track/4CMmHYNydoPl196FXQDr67) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [A Real Love](https://open.spotify.com/album/48fU2MtDmQrHJj56BiJIvR) | 4:32 |
 | 5505 | [THE HOUSE OF THOUSAND PAIN OV \- ORCHESTRAL VERSION](https://open.spotify.com/track/4yVFx1Lu3RsJ5J9yXp5RZ8) | [Angelo Russo](https://open.spotify.com/artist/0GywbVtR6D2TDG98mvYaZH), [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [FOUND THE LOST SYMPHONY \(ORCHESTRAL VERSION\)](https://open.spotify.com/album/6Cy5x1ynzzgfVYDolz7uiP) | 3:11 |
+| 5506 | [Sad Song \- Single Version](https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz), [Amiri](https://open.spotify.com/artist/2Ll5uRPghBt8yLaI44FJU7) | [Sad Song](https://open.spotify.com/album/1s5tdq4L8q8EvE0MfZ0ph6) | 3:17 |
 
-Snapshot ID: `AAAK6dk1D1ZvlOC75vXxDNtZV1IS88ce`
+Snapshot ID: `AAAK6nNU4giPJJcluvO9RIhDkX0iqoV+`

@@ -22285,6 +22285,28 @@
     },
     {
       "album": {
+        "name": "Split Signal",
+        "url": "https://open.spotify.com/album/2fOopypzh9Jm4aPX1Vf5ZP"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Split Signal",
+      "url": "https://open.spotify.com/track/1QLPvlwhqNhoEtybsYuO79"
+    },
+    {
+      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/4VYcnqjXVo6ekUEIOUr0Ml"
       },

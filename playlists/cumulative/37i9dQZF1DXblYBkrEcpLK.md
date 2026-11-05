@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 東山奈央 Nao Toyama
 
-916 songs - 2 day 12 hr 0 min
+917 songs - 2 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,8 @@
 | [ひとりじゃないから](https://open.spotify.com/track/1gqPfUzCXKQ4SaMYcRPK8G) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [ひとりじゃないから](https://open.spotify.com/album/1Rf7oYP5gF5iXSTFk5WsaE) | 4:55 | 2022-07-07 | 2022-07-29 |
 | [ひとりじゃないよ](https://open.spotify.com/track/2P95rrQ5wUiU7uvv1vPZU6) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [ひとりじゃないよ](https://open.spotify.com/album/7hXNUkElCgqvqCaSayR459) | 4:10 | 2023-10-17 | 2023-11-18 |
 | [ひろがるスカイ!プリキュア \~Hero Girls\~](https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [ひろがるスカイ!プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:28 | 2023-05-14 | 2023-06-09 |
-| [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-30 |  |
+| [ぴ](https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ぴ](https://open.spotify.com/album/6htax44G8KzZYKG4GMcs6q) | 3:36 | 2026-10-13 |  |
+| [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-30 | 2026-11-05 |
 | [ほっぺちゃん音頭](https://open.spotify.com/track/2bY3x5lBt3cqxpJu6LWOPY) | [天童よしみ with ガーディアンズほっぺちゃん](https://open.spotify.com/artist/12uCuxw2uM3jXup3uwa7hs) | [ほっぺちゃん音頭](https://open.spotify.com/album/5MM7qYWMHF8sNPtkHLTj3c) | 2:27 | 2026-02-24 | 2026-03-04 |
 | [まひるいろシエスタ](https://open.spotify.com/track/0ljrJ1wIXoeV16yP98YI2t) | [Yui Sakakibara](https://open.spotify.com/artist/6T21A06nQ9nZ9TzfWhct9L) | [TVアニメ『アズールレーン びそくぜんしんっ!』主題歌シングル「Longing for! / まひるいろシエスタ」](https://open.spotify.com/album/7baklDpXCciw4nJcejsLhH) | 3:41 | 2022-06-09 | 2022-07-21 |
 | [まるで元気](https://open.spotify.com/track/20AGXdjLMIrN25CsuCdEww) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [MUSIC](https://open.spotify.com/album/7vTxY03vAbkmoQTFq9mOxC) | 4:04 | 2023-11-07 | 2023-11-18 |

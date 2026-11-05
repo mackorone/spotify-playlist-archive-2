@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: RESCENE
 
-1,858 songs - 4 day 1 hr 30 min
+1,859 songs - 4 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1236,6 +1236,7 @@
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-15 | 2024-03-20 |
 | [remembrance candy](https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:04 | 2024-10-17 | 2024-10-22 |
 | [Reno \(feat\. Colde\)](https://open.spotify.com/track/4VRcawzVCLzsGGv9sk8CLA) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Reno \(feat\. Colde\)](https://open.spotify.com/album/1o9Yl7CamqXKQpvmdLChQN) | 3:07 | 2025-10-28 | 2025-11-05 |
+| [Replay](https://open.spotify.com/track/6v6hdmmWLFrjQvQR62oukS) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Replay](https://open.spotify.com/album/3up4AjaCMjuRmzGcNwtnDU) | 2:57 | 2026-11-03 |  |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 | 2022-11-11 |
 | [Reservations](https://open.spotify.com/track/4KF0mDCknSIU4Aq1I9V7wc) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Reservations](https://open.spotify.com/album/4TnbUCuwpSnGWWfCHzUev6) | 2:35 | 2025-12-12 | 2026-03-22 |
 | [Reset ≠ Reboot](https://open.spotify.com/track/1p87wYcUVqlATgkEHG6LGu) | [ELSEE](https://open.spotify.com/artist/3kQo2hxY8DMmIQro6Beqlp) | [Reset ≠ Reboot](https://open.spotify.com/album/5mIbibN4x6J7b51pE35Hjw) | 3:20 | 2025-03-06 | 2025-03-10 |

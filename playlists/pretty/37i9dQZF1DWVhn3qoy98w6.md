@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: La Jvnta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,820 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,835 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [picapica](https://open.spotify.com/track/36pZ2472MnadsMnOXDhVh8) | [julia de arco](https://open.spotify.com/artist/1xcWruysQvgQWZw3VIgYgI) | [picapica](https://open.spotify.com/album/1AH8Id3umjlv9ghvNXNP7Q) | 1:58 |
 | 50 | [Mirar](https://open.spotify.com/track/0238pkXlRK45JFg60cMDZb) | [Catalina Pocoví](https://open.spotify.com/artist/1jv0wpOspqWkPO1sHbdlzk) | [Mirar](https://open.spotify.com/album/6ug1qby4HVJEQrGkwOEqgU) | 2:27 |
 
-Snapshot ID: `AAAAAJvDg3EWHdK1ZlY/6m1+t1dxV3Dh`
+Snapshot ID: `AAAAAF77cUeKzaCG1DMUN0XYe/s+SIQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von AYLIVA, Ikkimel, ZAH1DE, Nico Santos, Gracie Abrams, Gunna & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,762 likes - 82 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,681 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 73 | [Much Love](https://open.spotify.com/track/4NQt1ZiyEhZtVV2MWXi7BL) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Surface, Echo & Sound](https://open.spotify.com/album/1kFTis4C1qmlRNK9jph1qC) | 4:18 |
 | 74 | [Upside Down](https://open.spotify.com/track/6T4ug8wsWpC8N8tJO4X31s) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Upside Down](https://open.spotify.com/album/11HLVIOuiubtk9xnVGJMHZ) | 2:19 |
 | 75 | [second skin](https://open.spotify.com/track/0NPNeIzgvh2OF1lUZO310x) | [Wavy](https://open.spotify.com/artist/6fo2QiffMr02sEA2aFvUIz), [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [second skin](https://open.spotify.com/album/1VO5SQsx1ELnx01GkoTfeL) | 2:37 |
-| 76 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 76 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 77 | [Something I Wanna Say](https://open.spotify.com/track/5kaUpoIe6ZE77m039AJjDp) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Something I Wanna Say](https://open.spotify.com/album/4tW1209rJsFi3IE97IArtw) | 2:22 |
 | 78 | [THERAPEUT](https://open.spotify.com/track/22n4u65CGt1kAVxhwdeEzC) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [THERAPEUT](https://open.spotify.com/album/7keXVv4XMRIcVxltFl7MKT) | 2:07 |
 | 79 | [Nothing is Lost](https://open.spotify.com/track/06SnkXgnkyjbf8HXT2Tnww) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Séance](https://open.spotify.com/album/5qrPAak9YE0GXDvLajF9YK) | 4:51 |

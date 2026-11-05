@@ -1,6 +1,6 @@
 {
   "description": "unge kniv \ud83d\udd2a @\u00d8sten",
-  "num_followers": 47183,
+  "num_followers": 47182,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "124",
-        "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
-      },
-      "artists": [
-        {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        }
-      ],
-      "duration_ms": 175605,
-      "name": "124",
-      "url": "https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
         "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
         "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 179312,
       "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
       "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "124",
+        "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "duration_ms": 175605,
+      "name": "124",
+      "url": "https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Alt hvad jeg vil",
-        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 224980,
-      "name": "Alt hvad jeg vil",
-      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
         "name": "Mandag Til Fredag",
         "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 197397,
       "name": "Mandag Til Fredag",
       "url": "https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Septembersol",
-        "url": "https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU"
-      },
-      "artists": [
-        {
-          "name": "Mona Moroni",
-          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Septembersol",
-      "url": "https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
         "name": "Sweetheart",
         "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 168000,
       "name": "Bider Det I Mig",
       "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "Septembersol",
+        "url": "https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Septembersol",
+      "url": "https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "duration_ms": 172169,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
         "name": "lao shi",
         "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 191764,
       "name": "Forfra",
       "url": "https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT"
-      },
-      "artists": [
-        {
-          "name": "Yangze",
-          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
-        }
-      ],
-      "duration_ms": 172169,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
         "name": "Hvis jeg ku'",
         "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 149304,
       "name": "S\u00f8vnl\u00f8s",
       "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Sputnik",
-        "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
+        "name": "F\u00f8rhen",
+        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
       "artists": [
         {
-          "name": "Sm\u00f8gm\u00e6nd",
-          "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Gemen",
-      "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
+      "duration_ms": 199313,
+      "name": "F\u00f8rhen",
+      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "F\u00f8rhen",
-        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
+        "name": "Sputnik",
+        "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
       },
       "artists": [
         {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+          "name": "Sm\u00f8gm\u00e6nd",
+          "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
         }
       ],
-      "duration_ms": 199313,
-      "name": "F\u00f8rhen",
-      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+      "duration_ms": 149000,
+      "name": "Gemen",
+      "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
     },
     {
       "added_at": "2026-10-23 08:39:37",

@@ -1,13 +1,193 @@
 {
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Leslie Perez",
-  "num_followers": 62707,
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Church Friends",
+  "num_followers": 62721,
   "original_name": "Fresh Finds Faith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD7s1InNHqz8Jbqw2hOjRK8ldyFF",
+  "snapshot_id": "AAAAAL4cp7y1OnnfwYZx/XMi00uRcdeK",
   "tracks": [
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "Hold The Line",
+        "url": "https://open.spotify.com/album/49THxEoJISiVoNF6IE4dI4"
+      },
+      "artists": [
+        {
+          "name": "Church Friends",
+          "url": "https://open.spotify.com/artist/0aaJUbV0CN8059WCbuxzOb"
+        }
+      ],
+      "duration_ms": 253752,
+      "name": "Hold The Line",
+      "url": "https://open.spotify.com/track/4XrC4JmE1NULB82oj7FMkd"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "BIBLE TIMES",
+        "url": "https://open.spotify.com/album/1rsvFta3EskWAs8EyR4Xzk"
+      },
+      "artists": [
+        {
+          "name": "Reagan James Broome",
+          "url": "https://open.spotify.com/artist/7kkQ22G3EbGp4814OpVEyx"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "BIBLE TIMES",
+      "url": "https://open.spotify.com/track/2XoeqRtTydPM1faGkzJHmo"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "Had It All",
+        "url": "https://open.spotify.com/album/4eahcFOdr2iIdiJvF0XYPb"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        }
+      ],
+      "duration_ms": 253241,
+      "name": "Had It All",
+      "url": "https://open.spotify.com/track/3qkTCNRFKnXCSJuWxfuIgo"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "Only Getting Older",
+        "url": "https://open.spotify.com/album/1kN5x2pShNPwYfFjadtL7P"
+      },
+      "artists": [
+        {
+          "name": "darthy",
+          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
+        }
+      ],
+      "duration_ms": 187648,
+      "name": "Wolf in a Wool Sweater",
+      "url": "https://open.spotify.com/track/28vbuijfVXcGl7Y1BezYSR"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "Nostalgic",
+        "url": "https://open.spotify.com/album/1HUSIxNh7qpwFxvCaTewtJ"
+      },
+      "artists": [
+        {
+          "name": "Hope Harding",
+          "url": "https://open.spotify.com/artist/3fYSZUjRkhyFiTP12kJtcb"
+        }
+      ],
+      "duration_ms": 183962,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/7sudd41GKcDlSqaP5MbnBP"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "how can i ever stop singing?",
+        "url": "https://open.spotify.com/album/6Pk7BNVcH7uXBGSn6ylmHu"
+      },
+      "artists": [
+        {
+          "name": "ash wiseman",
+          "url": "https://open.spotify.com/artist/1ajtUdfdUZ7ZDTKRpWEOVm"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "how can i ever stop singing?",
+      "url": "https://open.spotify.com/track/1jGe5ZvFUGfHLlQHVoATMQ"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "blue moon",
+        "url": "https://open.spotify.com/album/7lUhWqzUVPRUKlAOpT1RpW"
+      },
+      "artists": [
+        {
+          "name": "est\u00e9e",
+          "url": "https://open.spotify.com/artist/6k31Zu3oGAtvfYKOGDm0Cf"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "blue moon",
+      "url": "https://open.spotify.com/track/6gxJHohSSaBdnRWyypnw4M"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "You're Worth Everything",
+        "url": "https://open.spotify.com/album/7j9TC7ztmo8WfapPilOR1Y"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "You're Worth Everything",
+      "url": "https://open.spotify.com/track/58fm1JN6gfpYazakZeEMsS"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "Broken Things",
+        "url": "https://open.spotify.com/album/5U3P7yeWLU5CQ3qyqTB92D"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Dani Lyra",
+          "url": "https://open.spotify.com/artist/7mJXskCHqtGzhCevJvGLhn"
+        }
+      ],
+      "duration_ms": 155024,
+      "name": "Broken Things",
+      "url": "https://open.spotify.com/track/3zgRdTgC3REy20xlsM6gGX"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "how it feels to be with YOU",
+        "url": "https://open.spotify.com/album/4NK5VNnhYovr5tctT1zUkK"
+      },
+      "artists": [
+        {
+          "name": "Seven7h Way",
+          "url": "https://open.spotify.com/artist/12ULdx7URT1ylRKozDRHM7"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "right now (i can\u2019t help but fall in love)",
+      "url": "https://open.spotify.com/track/35gH6OyvIaNz2RRXnl9eXo"
+    },
+    {
+      "added_at": "2026-11-05 03:00:51",
+      "album": {
+        "name": "AFFIRMED",
+        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 155089,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
+    },
     {
       "added_at": "2026-10-28 17:00:20",
       "album": {
@@ -1111,194 +1291,6 @@
       "duration_ms": 199471,
       "name": "ALL OF IT",
       "url": "https://open.spotify.com/track/7G7rtpL2WIoNj7RcJnICE5"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "New Way",
-        "url": "https://open.spotify.com/album/1wa5cL0OarjQqOknkPBYTs"
-      },
-      "artists": [
-        {
-          "name": "Issac Mansfield",
-          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "New Way",
-      "url": "https://open.spotify.com/track/5gUYSY4fGxEIbrj5q1Ofmr"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/5xZ5eO5YPmdyqyWyrdnc5W"
-      },
-      "artists": [
-        {
-          "name": "Gabby Poli",
-          "url": "https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/1HJhbVuPkikmPUSSx48n4a"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "in the name",
-        "url": "https://open.spotify.com/album/3LGdD6h9bJbcbhRPyWz1TS"
-      },
-      "artists": [
-        {
-          "name": "Maddi Jane",
-          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
-        }
-      ],
-      "duration_ms": 151869,
-      "name": "in the name",
-      "url": "https://open.spotify.com/track/5XplnNlg6qcUaAuK9wOv8V"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "fotos q duelen",
-        "url": "https://open.spotify.com/album/0A1cGcqCOvllaHMgl7GQVE"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "fotos q duelen",
-      "url": "https://open.spotify.com/track/6SUpld3sGDM1YGDs6toroZ"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "Keep Me Close (Live)",
-        "url": "https://open.spotify.com/album/7e1n8b7MTrwI5PEWmBvLm6"
-      },
-      "artists": [
-        {
-          "name": "Century Worship",
-          "url": "https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH"
-        }
-      ],
-      "duration_ms": 293483,
-      "name": "Keep Me Close - Live",
-      "url": "https://open.spotify.com/track/3FjWPOd2Sd6gtnUKLBn6x2"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "LOOKING FOR WATER",
-        "url": "https://open.spotify.com/album/1PZMcy9WWf7iksvBarSRqY"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 230109,
-      "name": "WE NEED NOT",
-      "url": "https://open.spotify.com/track/5se5rFE9iFcUCeZzz9ef4d"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "Pasture",
-        "url": "https://open.spotify.com/album/7As93kLMOq0kbyGQGdnc3o"
-      },
-      "artists": [
-        {
-          "name": "Laolu Adewumi",
-          "url": "https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7"
-        },
-        {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Pasture",
-      "url": "https://open.spotify.com/track/27fK8cJMLh7FGwgF73VnyP"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "GOODBYE 2 OLD ME",
-        "url": "https://open.spotify.com/album/5wKs7EtlFsXVuptRgqpQ86"
-      },
-      "artists": [
-        {
-          "name": "Bianca Silver",
-          "url": "https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL"
-        },
-        {
-          "name": "KRL",
-          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "GOODBYE 2 OLD ME",
-      "url": "https://open.spotify.com/track/4bqSz8o52LIAEO4l5FDshO"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "i miss not knowing",
-        "url": "https://open.spotify.com/album/38mBdvD4oDv2T5WBphmG4z"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 238674,
-      "name": "i miss not knowing",
-      "url": "https://open.spotify.com/track/00NBEqf4NGLHsXcZo2EZAp"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "Younger Days",
-        "url": "https://open.spotify.com/album/6TpOtiUS1oU0mnQWQ4HQwC"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        },
-        {
-          "name": "Reagan James Broome",
-          "url": "https://open.spotify.com/artist/7kkQ22G3EbGp4814OpVEyx"
-        }
-      ],
-      "duration_ms": 198576,
-      "name": "Younger Days",
-      "url": "https://open.spotify.com/track/5cxYW5l0N2Zw5V6ha1ME4j"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "SHOUT TO THE MOON",
-        "url": "https://open.spotify.com/album/6ON7L1dBSF1hpczomYymSz"
-      },
-      "artists": [
-        {
-          "name": "Myles Maestro",
-          "url": "https://open.spotify.com/artist/5u2fFFwd5O5KivnDHrYWg3"
-        }
-      ],
-      "duration_ms": 218734,
-      "name": "SHOUT TO THE MOON",
-      "url": "https://open.spotify.com/track/7MAXikDmj42EcL3HSak5Ki"
     }
   ],
   "unique_name": "Fresh Finds Faith",

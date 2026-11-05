@@ -2,7 +2,7 @@
 
 ### [Disney Favorites](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
 
-> Enjoy your favorite Disney tunes, including "You're Welcome" from Moana! Disney's Moana, only in theaters.
+> Listen to all your favorite Disney tunes, including "You've Got a Friend in Me" from Toy Story, now available on Disney+.
 
 243 songs - 12 hr 33 min
 

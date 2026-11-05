@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Right Here Right Now",
-        "url": "https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 203539,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 225682,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "Right Here Right Now",
+        "url": "https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "duration_ms": 203539,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 254015,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "PLEASER",
         "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 165925,
       "name": "PLEASER",
       "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 254015,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 337565,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 170691,
       "name": "Maumahara Noa Ahau",
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 337565,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "halftime oranges",
-        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 213409,
-      "name": "halftime oranges",
-      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "halftime oranges",
+        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 213409,
+      "name": "halftime oranges",
+      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "pick me up",
-        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "pick me up",
-      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "You Already Know",
         "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 186747,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "pick me up",
+        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "pick me up",
+      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Beautiful Mess",
-        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Tip Of My Tongue",
-      "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "The Drip",
         "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 185714,
       "name": "What Would It Profit",
       "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Tip Of My Tongue",
+      "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Floodlights",
-        "url": "https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ"
-      },
-      "artists": [
-        {
-          "name": "PARK RD",
-          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Floodlights",
-      "url": "https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 254385,
       "name": "Under The Surface",
       "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "Floodlights",
+        "url": "https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ"
+      },
+      "artists": [
+        {
+          "name": "PARK RD",
+          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Floodlights",
+      "url": "https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP"
     },
     {
       "added_at": "2026-10-22 13:00:16",

@@ -1,13 +1,29 @@
 {
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Shahera Sam. Artwork: Isu Kim.",
-  "num_followers": 7464,
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Ili Ruzanna. Artwork: Isu Kim.",
+  "num_followers": 7465,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5dkPBGBekbBHkIevu3pPl4wfj2",
+  "snapshot_id": "AAAAAMNW5nbClpMnJi9ZvPDeTNKakZ0h",
   "tracks": [
+    {
+      "added_at": "2026-11-04 05:00:16",
+      "album": {
+        "name": "With Love, Ili",
+        "url": "https://open.spotify.com/album/01VHhhw77IJ8N7DeaqGwvs"
+      },
+      "artists": [
+        {
+          "name": "Ili Ruzanna",
+          "url": "https://open.spotify.com/artist/0U6fPuKfyKwpDo1blcKVYf"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "And Why?",
+      "url": "https://open.spotify.com/track/6QLVwtrIpQWE8mbbom9W3U"
+    },
     {
       "added_at": "2026-10-14 05:00:25",
       "album": {

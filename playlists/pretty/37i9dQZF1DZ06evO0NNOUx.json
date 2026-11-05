@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 220286,
+  "num_followers": 220407,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAAAlwxmw0ZJWwz7SxB42QgDN",
+  "snapshot_id": "aufSgAAAAAB81DkYYoAGf+wtF/Vh7DMI",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THANKFUL",
-        "url": "https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 136458,
-      "name": "THANKFUL",
-      "url": "https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD II",
         "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 161544,
       "name": "CELEBRATION",
       "url": "https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THANKFUL",
+        "url": "https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 136458,
+      "name": "THANKFUL",
+      "url": "https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW"
     },
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JESUS IS ALIVE",
-        "url": "https://open.spotify.com/album/4rZQnsZvcW7KyNw7wZX2Hz"
+        "name": "LEMONADE (FOLK)",
+        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
       },
       "artists": [
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 128341,
-      "name": "JESUS IS ALIVE",
-      "url": "https://open.spotify.com/track/4LLBhbxaX6tltjQjpMx9by"
+      "duration_ms": 183532,
+      "name": "LEMONADE (FOLK)",
+      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
     },
     {
       "added_at": null,
@@ -599,22 +603,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE (FOLK)",
-        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
+        "name": "JESUS IS ALIVE",
+        "url": "https://open.spotify.com/album/4rZQnsZvcW7KyNw7wZX2Hz"
       },
       "artists": [
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 183532,
-      "name": "LEMONADE (FOLK)",
-      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+      "duration_ms": 128341,
+      "name": "JESUS IS ALIVE",
+      "url": "https://open.spotify.com/track/4LLBhbxaX6tltjQjpMx9by"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Paid It All",
+        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 236765,
+      "name": "Jesus Paid It All (Worthy of The Price)",
+      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Paid It All",
-        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 236765,
-      "name": "Jesus Paid It All (Worthy of The Price)",
-      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT A LIFE",
+        "url": "https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 157310,
+      "name": "WHAT A LIFE",
+      "url": "https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAWN PATROL",
         "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
       },
@@ -887,26 +903,6 @@
       "duration_ms": 154070,
       "name": "BREAK OF DAWN",
       "url": "https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAWN PATROL",
-        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        }
-      ],
-      "duration_ms": 185268,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"
     }
   ],
   "unique_name": "This Is Forrest Frank",

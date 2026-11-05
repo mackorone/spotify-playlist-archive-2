@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-897 songs - 3 day 7 hr 23 min
+898 songs - 3 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 |  |
 | [Impossibility Shatterer](https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Ada Ehi](https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 3:24 | 2026-03-27 | 2026-05-22 |
 | [IMPRESS](https://open.spotify.com/track/49po3OfHx8xHkUjWw5Bh3B) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [IMPRESS](https://open.spotify.com/album/0O3deyALXkZUf6jt0mkK6x) | 3:21 | 2025-06-20 | 2025-11-21 |
-| [In Alignment](https://open.spotify.com/track/36dTH9M4YGFmRNStZCSUsY) | [Juwon Efanga](https://open.spotify.com/artist/6V4LrQ6h3RYv8nE76BXOQ6) | [In Alignment](https://open.spotify.com/album/1XdrE7pclRd04A4m7XNd0K) | 7:07 | 2026-08-07 |  |
+| [In Alignment](https://open.spotify.com/track/36dTH9M4YGFmRNStZCSUsY) | [Juwon Efanga](https://open.spotify.com/artist/6V4LrQ6h3RYv8nE76BXOQ6) | [In Alignment](https://open.spotify.com/album/1XdrE7pclRd04A4m7XNd0K) | 7:07 | 2026-08-07 | 2026-11-05 |
 | [In Awe](https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [In Awe](https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs) | 4:39 | 2026-03-13 | 2026-04-09 |
 | [In My Praise](https://open.spotify.com/track/2CsOARViLxITTo2uE5rwMQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In My Praise](https://open.spotify.com/album/12NeijP8fQUiFXWw1lUHbw) | 5:35 | 2025-05-23 | 2025-06-27 |
 | [In the Blood 2](https://open.spotify.com/track/3moqoaDy2sNTt5zmC6BHNA) | [Gospel boys](https://open.spotify.com/artist/453mSEjGTGcO9idPrxSCkS) | [Father](https://open.spotify.com/album/052C0B2hB66pThBPyTbaaW) | 2:34 | 2025-12-05 | 2026-01-20 |
@@ -760,6 +760,7 @@
 | [The King Is Coming](https://open.spotify.com/track/7atCNNuitn4dC0FVAcScRS) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [The King Is Coming](https://open.spotify.com/album/7sYNnhV32TJCv3ddPkgwoT) | 8:37 | 2025-11-21 |  |
 | [The Lover](https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [The Lover](https://open.spotify.com/album/3HCRvYPY5SQhWZZBaD8Xkd) | 2:55 | 2025-11-28 | 2026-06-29 |
 | [The Maranatha Song](https://open.spotify.com/track/4C8wVVjL8n3s5i6R3kDhL1) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Julia McMillan\-Lamur](https://open.spotify.com/artist/14ZeV6pqDILQNyr8Q0dCBU), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Maranatha Song](https://open.spotify.com/album/1mmO3D0c9mLQ6JYaSJTW4J) | 6:15 | 2026-07-17 | 2026-10-11 |
+| [The Only God \(Live at Rhema Church 2026\)](https://open.spotify.com/track/2e0vyTPYRbjrngxnMgvu0a) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [The Only God \(Live at Rhema Church 2026\)](https://open.spotify.com/album/5shGgDPg5Mp6IzOsquiAmy) | 10:11 | 2026-10-30 |  |
 | [THE PRAYER ANTHEM](https://open.spotify.com/track/55h9gMUMEPQncAlvXbFxv1) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh), [Pastor Tolu Mala](https://open.spotify.com/artist/0f9vcki5vU4Yyfb9pFxGGN) | [THE PRAYER ANTHEM](https://open.spotify.com/album/38x9wS5GQpGxxeLv71ZnoS) | 21:23 | 2026-07-17 |  |
 | [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason \(Live\)](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 | 2025-06-13 | 2025-11-18 |
 | [The Shift I Desire](https://open.spotify.com/track/4x2wvX0rA6erPaVLK2mB2c) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i), [Blessing Alfa](https://open.spotify.com/artist/5qe5Di5c3W87AeeXTC3WBk) | [The Shift I Desire](https://open.spotify.com/album/5EkUXsTfcJ4tIz76wdWi0u) | 5:42 | 2025-08-22 | 2025-10-02 |

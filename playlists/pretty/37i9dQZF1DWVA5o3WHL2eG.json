@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51552,
+  "num_followers": 51551,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "Enter Ecstasy",
+        "url": "https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Enter Ecstasy",
+      "url": "https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "harte mackerinnen ep",
         "url": "https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 161663,
       "name": "verg\u00f6tter mich (mit b\u00fcrgermeisterin von wien)",
       "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "Enter Ecstasy",
-        "url": "https://open.spotify.com/album/6zoM49cN5dlEPyDyCfzoGm"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Enter Ecstasy",
-      "url": "https://open.spotify.com/track/5KmIER0T9L2CQQUjMpgYnd"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8"
+      },
+      "artists": [
+        {
+          "name": "Lahra",
+          "url": "https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ"
+        }
+      ],
+      "duration_ms": 218949,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 137710,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "What I Need",
-        "url": "https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8"
-      },
-      "artists": [
-        {
-          "name": "Lahra",
-          "url": "https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ"
-        }
-      ],
-      "duration_ms": 218949,
-      "name": "What I Need",
-      "url": "https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Apply Autonomy",
-        "url": "https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 212813,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "BODYSCANNER",
         "url": "https://open.spotify.com/album/60qluYjAHDpgyFzVV0gXdG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 294777,
       "name": "be something",
       "url": "https://open.spotify.com/track/5uv6ABamjf6Xzjc5Kb2Z3W"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Apply Autonomy",
+        "url": "https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY"
     },
     {
       "added_at": "2026-10-07 22:00:17",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "ZWEITAUSENDZWEI",
+        "url": "https://open.spotify.com/album/1edS9EQKc7RXZenMKLUaN2"
+      },
+      "artists": [
+        {
+          "name": "ENNI",
+          "url": "https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW"
+        }
+      ],
+      "duration_ms": 151794,
+      "name": "ZWEITAUSENDZWEI",
+      "url": "https://open.spotify.com/track/3LJMrvMbnZjSwLV89DzoFn"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "Esoteric Reality EP",
         "url": "https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 191227,
       "name": "Take The Leap",
       "url": "https://open.spotify.com/track/2JDzgjjvHNoOjmEKpvWlSl"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "ZWEITAUSENDZWEI",
-        "url": "https://open.spotify.com/album/1edS9EQKc7RXZenMKLUaN2"
-      },
-      "artists": [
-        {
-          "name": "ENNI",
-          "url": "https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW"
-        }
-      ],
-      "duration_ms": 151794,
-      "name": "ZWEITAUSENDZWEI",
-      "url": "https://open.spotify.com/track/3LJMrvMbnZjSwLV89DzoFn"
     },
     {
       "added_at": "2026-10-07 22:00:17",

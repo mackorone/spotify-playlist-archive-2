@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 探索女性音樂人的精彩作品，收聽精選女歌手歌曲！Cover: E1and
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,238 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,242 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 28 | [三不娶](https://open.spotify.com/track/1fRZoa58O0d6cRKWtqfA5P) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur), [C.Holly](https://open.spotify.com/artist/3RRWcWaoWx1OiXnrWo7k7t) | [9OF9 ARCANA](https://open.spotify.com/album/6iqbRneVOIIJGbwHfUC9rS) | 4:54 |
 | 29 | [相愛相殺的舞步](https://open.spotify.com/track/6XSVZ9We8iaibFUCOSBD6q) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [相愛相殺的舞步](https://open.spotify.com/album/7M08TMabLJZUIZUUya1tNm) | 3:56 |
 | 30 | [末日之戀](https://open.spotify.com/track/04IkgvVjxtp5YrWqNtNPUX) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [末日之戀](https://open.spotify.com/album/3tHQ6niOyfDc5rQ3hQVVUc) | 3:40 |
-| 31 | [減傷](https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [減傷](https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF) | 3:20 |
+| 31 | [減傷](https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [減傷](https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF) | 3:19 |
 | 32 | [QQ](https://open.spotify.com/track/66Y5wGE5AtMwQ5fGPETVVS) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [QQ](https://open.spotify.com/album/4lMqoOb0oLgNtYnDpe66cw) | 3:02 |
 | 33 | [阿福羅火山](https://open.spotify.com/track/5aViecsXqCUW7zJwxDhiSy) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh) | [阿福羅火山](https://open.spotify.com/album/7LFfYKMc1UAPNmxjCzEB5G) | 2:23 |
 | 34 | [完全的愛](https://open.spotify.com/track/7C29Et5A3f4YA42ysrkFt3) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [完全的愛](https://open.spotify.com/album/6nmrgZfxyjIdMXAPkbbTA5) | 2:53 |

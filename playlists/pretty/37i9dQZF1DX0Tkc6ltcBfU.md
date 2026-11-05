@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Young Nudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,830 likes - 102 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,727 likes - 102 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

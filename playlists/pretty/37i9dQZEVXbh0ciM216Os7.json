@@ -11,26 +11,6 @@
     {
       "added_at": "2026-10-30 05:00:00",
       "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        }
-      ],
-      "duration_ms": 123466,
-      "name": "I LIKE IT (feat. Loe Shimmy)",
-      "url": "https://open.spotify.com/track/27OOVdqE1aZI6scIxeES0T"
-    },
-    {
-      "added_at": "2026-10-30 05:00:00",
-      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/3pVWH0mUO4tj0JX6jJNhyr"
       },
@@ -67,6 +47,22 @@
     {
       "added_at": "2026-10-30 05:00:00",
       "album": {
+        "name": "Tina Tuesday Freestyles",
+        "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 146392,
+      "name": "Thin Ice",
+      "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"
+    },
+    {
+      "added_at": "2026-10-30 05:00:00",
+      "album": {
         "name": "Matadores",
         "url": "https://open.spotify.com/album/6s28g1IZ2HIz4AjaqA0APq"
       },
@@ -91,22 +87,6 @@
     {
       "added_at": "2026-10-30 05:00:00",
       "album": {
-        "name": "Mission Of Love",
-        "url": "https://open.spotify.com/album/3Zu5rXt5orELopk6ZH1J50"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Mission Of Love",
-      "url": "https://open.spotify.com/track/2L0MrJLBmAvtMMSdfdje2X"
-    },
-    {
-      "added_at": "2026-10-30 05:00:00",
-      "album": {
         "name": "The Sign (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4UTkTXiTjXCwlR3A2lOb8S"
       },
@@ -127,6 +107,22 @@
       "duration_ms": 159416,
       "name": "The Sign (Ti\u00ebsto Remix)",
       "url": "https://open.spotify.com/track/2mpQ27UDus3ObaJV0wJ2f2"
+    },
+    {
+      "added_at": "2026-10-30 05:00:00",
+      "album": {
+        "name": "Mission Of Love",
+        "url": "https://open.spotify.com/album/3Zu5rXt5orELopk6ZH1J50"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Mission Of Love",
+      "url": "https://open.spotify.com/track/2L0MrJLBmAvtMMSdfdje2X"
     },
     {
       "added_at": "2026-10-30 05:00:00",
@@ -175,26 +171,6 @@
     {
       "added_at": "2026-10-30 05:00:00",
       "album": {
-        "name": "The Drop: A Snowfall Saga (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3BtLmhsRNTwgaJYMOZbkZz"
-      },
-      "artists": [
-        {
-          "name": "The Drop - Cast",
-          "url": "https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 325909,
-      "name": "John's Theme",
-      "url": "https://open.spotify.com/track/6lN03RFcLOhzbMEf8oDmKJ"
-    },
-    {
-      "added_at": "2026-10-30 05:00:00",
-      "album": {
         "name": "HIGH ROLLER",
         "url": "https://open.spotify.com/album/1VOuYdIu9zEIqOFhM4IKYl"
       },
@@ -215,6 +191,26 @@
     {
       "added_at": "2026-10-30 05:00:00",
       "album": {
+        "name": "The Drop: A Snowfall Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3BtLmhsRNTwgaJYMOZbkZz"
+      },
+      "artists": [
+        {
+          "name": "The Drop - Cast",
+          "url": "https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 325909,
+      "name": "John's Theme",
+      "url": "https://open.spotify.com/track/6lN03RFcLOhzbMEf8oDmKJ"
+    },
+    {
+      "added_at": "2026-10-30 05:00:00",
+      "album": {
         "name": "Steady Flame",
         "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
       },
@@ -231,22 +227,6 @@
     {
       "added_at": "2026-10-30 05:00:00",
       "album": {
-        "name": "Saturday Night Special",
-        "url": "https://open.spotify.com/album/02HBLc2f2YYFHCrZgzwuKB"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 142481,
-      "name": "Saturday Night Special",
-      "url": "https://open.spotify.com/track/0oCg92LLjPhNnhsc3P88wP"
-    },
-    {
-      "added_at": "2026-10-30 05:00:00",
-      "album": {
         "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
       },
@@ -259,6 +239,22 @@
       "duration_ms": 315824,
       "name": "Returns",
       "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
+    },
+    {
+      "added_at": "2026-10-30 05:00:00",
+      "album": {
+        "name": "Saturday Night Special",
+        "url": "https://open.spotify.com/album/02HBLc2f2YYFHCrZgzwuKB"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 142481,
+      "name": "Saturday Night Special",
+      "url": "https://open.spotify.com/track/0oCg92LLjPhNnhsc3P88wP"
     },
     {
       "added_at": "2026-10-30 05:00:00",
@@ -423,30 +419,6 @@
     {
       "added_at": "2026-10-30 05:00:00",
       "album": {
-        "name": "No Bad Memories",
-        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        },
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Our Love Is Alive (feat. Suzanne Ciani & Barry Can't Swim)",
-      "url": "https://open.spotify.com/track/6WBaphmlacrNz0dE5p76ld"
-    },
-    {
-      "added_at": "2026-10-30 05:00:00",
-      "album": {
         "name": "Atlantic Jazz Legends",
         "url": "https://open.spotify.com/album/0PeNWCIJ8l76tEuowSBk7F"
       },
@@ -459,6 +431,26 @@
       "duration_ms": 387400,
       "name": "Blues to You",
       "url": "https://open.spotify.com/track/0p7oqSNpmZ9GSJGSJ9f4UY"
+    },
+    {
+      "added_at": "2026-10-30 05:00:00",
+      "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 131920,
+      "name": "Vida (feat. Erick the Architect)",
+      "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"
     },
     {
       "added_at": "2026-10-30 05:00:00",

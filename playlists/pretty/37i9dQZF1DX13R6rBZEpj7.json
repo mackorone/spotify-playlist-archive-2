@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 287829,
+  "num_followers": 287880,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
+        "name": "No Scrubs",
+        "url": "https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Kirsch",
+          "url": "https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh"
+        },
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 122142,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA"
       },
@@ -399,22 +419,22 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "No Scrubs",
-        "url": "https://open.spotify.com/album/3vwy4dHvWHDHU74ntg7uNk"
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1r5ECeOrrunfcn5VXiNykp"
       },
       "artists": [
         {
-          "name": "Alex Kirsch",
-          "url": "https://open.spotify.com/artist/2ig7zZb5EHflZxLxiDEDMh"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         },
         {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+          "name": "Katie May",
+          "url": "https://open.spotify.com/artist/1njO0tyLphqucHDteNtu5f"
         }
       ],
-      "duration_ms": 122142,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/7CeLkGulKy70BsPIfduFF3"
+      "duration_ms": 156000,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4SjNpNc3pef6isHFhTSC4S"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -435,26 +455,6 @@
       "duration_ms": 184402,
       "name": "When You Come Back - Speed Garage",
       "url": "https://open.spotify.com/track/4auBmpVOuYs2gqOnS4bZhF"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1r5ECeOrrunfcn5VXiNykp"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Katie May",
-          "url": "https://open.spotify.com/artist/1njO0tyLphqucHDteNtu5f"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/4SjNpNc3pef6isHFhTSC4S"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/29O0vTV2qSxnRcQJ1lBezT"
-      },
-      "artists": [
-        {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
-        }
-      ],
-      "duration_ms": 118392,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6QPw48EJjPeLpAVqCMunGd"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0ChJ5jv67HmnTtNU49Ri0E"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 142663,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2tJjSUAyEVpybbttRVoYxp"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/29O0vTV2qSxnRcQJ1lBezT"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        }
+      ],
+      "duration_ms": 118392,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6QPw48EJjPeLpAVqCMunGd"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "Moment (feat. Charlotte Plank)",
         "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
       },
@@ -667,22 +647,22 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "I've Got A Crush",
-        "url": "https://open.spotify.com/album/3FG9tVSWEaQWPhX4SsjtKb"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
       },
       "artists": [
         {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         },
         {
-          "name": "Laurena Volant\u00e9",
-          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 148956,
-      "name": "I've Got A Crush",
-      "url": "https://open.spotify.com/track/2XKfp08ckG6CUBVKOky6oI"
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -707,22 +687,22 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "kryptonite",
-        "url": "https://open.spotify.com/album/20BRrMTjHYhM1VQqQ3naoj"
+        "name": "I've Got A Crush",
+        "url": "https://open.spotify.com/album/3FG9tVSWEaQWPhX4SsjtKb"
       },
       "artists": [
         {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
         },
         {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+          "name": "Laurena Volant\u00e9",
+          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
         }
       ],
-      "duration_ms": 155237,
-      "name": "kryptonite",
-      "url": "https://open.spotify.com/track/0UTL83j2DxlH0lHtm5JSPA"
+      "duration_ms": 148956,
+      "name": "I've Got A Crush",
+      "url": "https://open.spotify.com/track/2XKfp08ckG6CUBVKOky6oI"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -759,6 +739,26 @@
       "duration_ms": 144360,
       "name": "Pretty & Plump",
       "url": "https://open.spotify.com/track/14wKQXw7pRc5nCqrqgbSJ0"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "kryptonite",
+        "url": "https://open.spotify.com/album/20BRrMTjHYhM1VQqQ3naoj"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        }
+      ],
+      "duration_ms": 155237,
+      "name": "kryptonite",
+      "url": "https://open.spotify.com/track/0UTL83j2DxlH0lHtm5JSPA"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "What Do I Need To Do",
-        "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
-        }
-      ],
-      "duration_ms": 183070,
-      "name": "What Do I Need To Do",
-      "url": "https://open.spotify.com/track/6OTGzdL3ltP4LdbPtwGqjW"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 128394,
       "name": "The Things That We Should Say",
       "url": "https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "What Do I Need To Do",
+        "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "duration_ms": 183070,
+      "name": "What Do I Need To Do",
+      "url": "https://open.spotify.com/track/6OTGzdL3ltP4LdbPtwGqjW"
     },
     {
       "added_at": "2026-10-02 10:00:12",
@@ -1007,42 +1007,6 @@
     {
       "added_at": "2026-10-02 10:00:12",
       "album": {
-        "name": "Inside The Rider (DJ Q Edit)",
-        "url": "https://open.spotify.com/album/179LwpIK6WQIOywG1ldVLu"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Inside The Rider - DJ Q Edit",
-      "url": "https://open.spotify.com/track/4aYOasbeZxnf5OZmF5kUuw"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
-        "name": "BANGERS ONLY",
-        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Take It Underground",
-      "url": "https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF"
-    },
-    {
-      "added_at": "2026-10-02 10:00:12",
-      "album": {
         "name": "Club Orthodontics",
         "url": "https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3"
       },
@@ -1063,6 +1027,42 @@
       "duration_ms": 152871,
       "name": "No Chase",
       "url": "https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "BANGERS ONLY",
+        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Take It Underground",
+      "url": "https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF"
+    },
+    {
+      "added_at": "2026-10-02 10:00:12",
+      "album": {
+        "name": "Inside The Rider (DJ Q Edit)",
+        "url": "https://open.spotify.com/album/179LwpIK6WQIOywG1ldVLu"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Inside The Rider - DJ Q Edit",
+      "url": "https://open.spotify.com/track/4aYOasbeZxnf5OZmF5kUuw"
     },
     {
       "added_at": "2026-10-02 10:00:12",

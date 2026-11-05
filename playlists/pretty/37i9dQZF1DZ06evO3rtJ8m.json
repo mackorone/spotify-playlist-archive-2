@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 48609,
+  "num_followers": 48622,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAAA3jRlBHNAJxxNFACNaIDyZ",
+  "snapshot_id": "aufSgAAAAAAg8vJ5wFl3NnevI6RcxqLg",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shark Smile (Edit)",
-        "url": "https://open.spotify.com/album/6I4gdKmXKdh6SP1yRlrQGD"
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Shark Smile - Edit",
-      "url": "https://open.spotify.com/track/53O9ZYOISVUKtNt2jR79kx"
+      "duration_ms": 193506,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/79zOjwivNbq4XVaWufOyvu"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
+        "name": "Shark Smile (Edit)",
+        "url": "https://open.spotify.com/album/6I4gdKmXKdh6SP1yRlrQGD"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 193506,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/79zOjwivNbq4XVaWufOyvu"
+      "duration_ms": 194760,
+      "name": "Shark Smile - Edit",
+      "url": "https://open.spotify.com/track/53O9ZYOISVUKtNt2jR79kx"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 282320,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc"
+      "duration_ms": 232466,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Two Hands",
-      "url": "https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no"
+      "duration_ms": 282320,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc"
     },
     {
       "added_at": null,

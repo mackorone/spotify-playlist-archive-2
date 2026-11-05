@@ -1,13 +1,29 @@
 {
-  "description": "Enjoy your favorite Disney tunes, including \"You're Welcome\" from Moana! Disney's Moana, only in theaters.",
-  "num_followers": 2081655,
+  "description": "Listen to all your favorite Disney tunes, including \"You've Got a Friend in Me\" from Toy Story, now available on Disney+. ",
+  "num_followers": 2081690,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGi4RwZHmOv4R5H6qW3iAJ+ahE+S",
+  "snapshot_id": "AAAAAGVWA3DCU/Ry0+yyHIKOgyZ+5Xui",
   "tracks": [
+    {
+      "added_at": "2026-08-21 04:00:26",
+      "album": {
+        "name": "Toy Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
+    },
     {
       "added_at": "2026-08-21 04:00:26",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 167186,
       "name": "You're Welcome",
       "url": "https://open.spotify.com/track/5GxKY3XkzmSqymfpuWRnkJ"
-    },
-    {
-      "added_at": "2026-08-21 04:00:26",
-      "album": {
-        "name": "Toy Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
     },
     {
       "added_at": "2026-08-21 04:00:26",

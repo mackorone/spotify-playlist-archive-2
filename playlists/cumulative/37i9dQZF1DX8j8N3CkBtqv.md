@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Shreya Jain, The F16s and other exciting artists.
 
-1,650 songs - 3 day 19 hr 0 min
+1,651 songs - 3 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,7 +1093,7 @@
 | [Noor](https://open.spotify.com/track/2z1yyLSJKCGVYhT64rzNIk) | [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [Noor](https://open.spotify.com/album/6g8r0ytWUhav2ndFhCBjza) | 2:42 | 2026-10-23 |  |
 | [Noor](https://open.spotify.com/track/1Q36B0rYq3m2CEqESn5Q0D) | [Deepali Sathe](https://open.spotify.com/artist/3cGXRvJBjBJ2Uz01Tzh8kI), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Noor](https://open.spotify.com/album/0k6lT1WZYNjnFwxQIaxXq8) | 2:52 | 2024-03-15 | 2024-04-27 |
 | [Noor](https://open.spotify.com/track/30P14hExELmxKoQRu2hBmH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Harshit Verma](https://open.spotify.com/artist/1VdQbgvQujrBbthPWAO4pL), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI) | [Noor](https://open.spotify.com/album/69vOyQklRRM4Lu7LqpueYc) | 3:42 | 2026-09-25 |  |
-| [Noor Ghazal](https://open.spotify.com/track/5twhtVTlHdhlahxb3aybn1) | [Adityaa Patel](https://open.spotify.com/artist/7vUlI4ryLQniaSgwrkPtmN), [Rutvij Joshi](https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi) | [Noor Ghazal](https://open.spotify.com/album/11v4KwrlpyqFXiwkQXdiO1) | 2:29 | 2026-09-25 |  |
+| [Noor Ghazal](https://open.spotify.com/track/5twhtVTlHdhlahxb3aybn1) | [Adityaa Patel](https://open.spotify.com/artist/7vUlI4ryLQniaSgwrkPtmN), [Rutvij Joshi](https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi) | [Noor Ghazal](https://open.spotify.com/album/11v4KwrlpyqFXiwkQXdiO1) | 2:29 | 2026-09-25 | 2026-11-05 |
 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 | 2026-01-30 | 2026-04-18 |
 | [Not With You](https://open.spotify.com/track/4GDDcYPDKWiR51yqfjQxH6) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Not With You](https://open.spotify.com/album/6fG16EBMG0rHaPoBkNIrUq) | 3:58 | 2026-02-27 | 2026-04-05 |
 | [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 | 2026-07-10 | 2026-09-26 |
@@ -1369,6 +1369,7 @@
 | [So Unique, Utterly Special](https://open.spotify.com/track/620Nhc24J2wYFrJpxokiOy) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [All Dogs Go To Heaven](https://open.spotify.com/album/2z4R4CZUKwpfpP0T2FgY2W) | 4:13 | 2026-10-23 |  |
 | [Sochna](https://open.spotify.com/track/79UTQqOfDT4zepo7KfbmbD) | [Raika Sethi](https://open.spotify.com/artist/5HfvorkTs3620Rj3vHgYzm), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Sochna](https://open.spotify.com/album/3wK1Llk9r46QZ1XFdmOu3k) | 3:40 | 2024-08-30 | 2025-03-22 |
 | [Socho \- Acoustic](https://open.spotify.com/track/0ve9CeDZI2DP2Iyjrmr8Q4) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Leher](https://open.spotify.com/album/0B6idJAabcGHQTdjFN2zgo) | 3:11 | 2024-07-12 | 2024-08-24 |
+| [Somebody to Love](https://open.spotify.com/track/0d4373qqHl8NtXMVJi5q6Z) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk) | [Somebody to Love](https://open.spotify.com/album/4l85bemd9bln57Mgqawk1N) | 4:19 | 2026-10-16 |  |
 | [Soona](https://open.spotify.com/track/1qIDnZLs3KSHiMXGSdYmXL) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Soona](https://open.spotify.com/album/74I12Fwbyg8mR32aLMrnYa) | 4:07 | 2023-08-25 | 2023-11-11 |
 | [soot ke dhaage](https://open.spotify.com/track/4Q1tiUCQePIzACoQP3FwsI) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [soot ke dhaage](https://open.spotify.com/album/2JZBLunuXTO4PAYf2urEkp) | 4:00 | 2025-12-12 | 2026-01-15 |
 | [Soyi/Khoyi](https://open.spotify.com/track/0uBzSPXmrtTiusAq5ZuEKb) | [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Soyi/Khoyi](https://open.spotify.com/album/3WymIaLFVIVMNtx7Da1HSy) | 2:35 | 2024-02-02 | 2024-03-02 |

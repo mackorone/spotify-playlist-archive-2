@@ -1,13 +1,29 @@
 {
-  "description": "Gelece\u011fin seslerini dinle! Kapak: Maya Perest",
-  "num_followers": 42824,
+  "description": "Gelece\u011fin seslerini dinle! Kapak: Mert \u00c7odur",
+  "num_followers": 42822,
   "original_name": "RADAR T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5QMRTbrvfphDEAZc12LdMqAU0R",
+  "snapshot_id": "AAAAADsq3Pw6XMfwy+eiVP38Irr4X3Yr",
   "tracks": [
+    {
+      "added_at": "2026-11-04 05:36:10",
+      "album": {
+        "name": "P\u00fcsk\u00fcll\u00fc Bela",
+        "url": "https://open.spotify.com/album/7JwuqOzh3IHAkd1bhfxPw8"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 189034,
+      "name": "P\u00fcsk\u00fcll\u00fc Bela",
+      "url": "https://open.spotify.com/track/3O7hp7dYxhaKlfkNHsZp4u"
+    },
     {
       "added_at": "2026-10-04 21:00:17",
       "album": {
@@ -43,6 +59,26 @@
     {
       "added_at": "2026-10-04 21:00:17",
       "album": {
+        "name": "Tuzak",
+        "url": "https://open.spotify.com/album/4vc9uCFGM6iBdM3G5p1cHr"
+      },
+      "artists": [
+        {
+          "name": "Maya Perest",
+          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
+        },
+        {
+          "name": "Birkan Nasuho\u011flu",
+          "url": "https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "Tuzak",
+      "url": "https://open.spotify.com/track/3dpP0jRhAedrE8k7idQTPX"
+    },
+    {
+      "added_at": "2026-10-04 21:00:17",
+      "album": {
         "name": "I\u015f\u0131k",
         "url": "https://open.spotify.com/album/6A4Bv7ZciNE6XgXvdWYRfZ"
       },
@@ -71,26 +107,6 @@
       "duration_ms": 191761,
       "name": "Gece ve G\u00fcnd\u00fcz",
       "url": "https://open.spotify.com/track/00s2Nz4xvmwCMczsGtOyuW"
-    },
-    {
-      "added_at": "2026-10-04 21:00:17",
-      "album": {
-        "name": "Tuzak",
-        "url": "https://open.spotify.com/album/4vc9uCFGM6iBdM3G5p1cHr"
-      },
-      "artists": [
-        {
-          "name": "Maya Perest",
-          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
-        },
-        {
-          "name": "Birkan Nasuho\u011flu",
-          "url": "https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "Tuzak",
-      "url": "https://open.spotify.com/track/3dpP0jRhAedrE8k7idQTPX"
     },
     {
       "added_at": "2026-10-04 21:00:17",
@@ -691,22 +707,6 @@
       "duration_ms": 176924,
       "name": "beni sen delirttin",
       "url": "https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN"
-    },
-    {
-      "added_at": "2026-10-04 21:00:17",
-      "album": {
-        "name": "Senin Y\u00fcz\u00fcnden",
-        "url": "https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1"
-      },
-      "artists": [
-        {
-          "name": "I\u015f\u0131l Ayman",
-          "url": "https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Senin Y\u00fcz\u00fcnden",
-      "url": "https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG"
     },
     {
       "added_at": "2026-10-04 21:00:17",

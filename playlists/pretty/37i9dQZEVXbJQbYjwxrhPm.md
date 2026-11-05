@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Iskam ot teb](https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae) | [Djulia](https://open.spotify.com/artist/6KsiFFe8CENPP9DN3SRouY) | [Tochka za men](https://open.spotify.com/album/7DB2xbWZn9cQC6w3tmD4vP) | 2:54 |
 | 50 | [Bad Boys](https://open.spotify.com/track/5dbIBryEKXQzizXzb3MXnV) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Bad Boys](https://open.spotify.com/album/7y1StXusceaQtsO3YCUNFe) | 3:43 |
 
-Snapshot ID: `Mn1smAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mn7CyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

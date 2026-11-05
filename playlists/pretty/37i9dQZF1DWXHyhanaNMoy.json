@@ -1,12 +1,12 @@
 {
   "description": "Motion & good vibes! Cover: Idaly, Adje & CHO",
-  "num_followers": 333783,
+  "num_followers": 333775,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwnNCPgQixaMMVEhW1cJH0rHUZk",
+  "snapshot_id": "AAAAABjVuRa2s5AjePwA+/z8DnPIDrBI",
   "tracks": [
     {
       "added_at": "2026-10-29 23:01:19",
@@ -31,6 +31,26 @@
       "duration_ms": 157200,
       "name": "DOE HET",
       "url": "https://open.spotify.com/track/6QVOdWVwR9pBio5aTCv7BK"
+    },
+    {
+      "added_at": "2026-11-04 08:59:14",
+      "album": {
+        "name": "BADDIES IN HOLLANDA",
+        "url": "https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 125485,
+      "name": "BADDIES IN HOLLANDA",
+      "url": "https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4"
     },
     {
       "added_at": "2026-10-29 23:01:19",
@@ -199,22 +219,6 @@
       "duration_ms": 112255,
       "name": "Hier Moet Je Zijn",
       "url": "https://open.spotify.com/track/0QytZ7N8hA0fWvUnzOagGJ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
-        "name": "BADDIES IN BELGICA",
-        "url": "https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k"
-      },
-      "artists": [
-        {
-          "name": "Issah",
-          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
-        }
-      ],
-      "duration_ms": 125536,
-      "name": "BADDIES IN BELGICA",
-      "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
     },
     {
       "added_at": "2026-10-15 22:00:21",

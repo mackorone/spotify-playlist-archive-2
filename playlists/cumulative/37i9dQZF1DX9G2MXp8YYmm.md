@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Sufle
 
-784 songs - 1 day 15 hr 59 min
+785 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Açıldı Kapılar](https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Açıldı Kapılar](https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I) | 2:57 | 2024-12-12 | 2026-04-10 |
 | [Ağla](https://open.spotify.com/track/5XmZpVC8niKhumnhswMy0x) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Ağla](https://open.spotify.com/album/7LYGAMnCGmAIsgrqnWTKQG) | 2:59 | 2026-03-03 | 2026-05-15 |
 | [ağla güzelim](https://open.spotify.com/track/1SqKjDGRkgi8zeUCyolyhx) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [ağla güzelim](https://open.spotify.com/album/21Wv7Up90usEUO94F1QxnF) | 3:30 | 2025-03-13 | 2025-03-21 |
+| [Ağlama Ben Ağlarım \- Harbiye 2026](https://open.spotify.com/track/0A8JbHInd1mhsKVUHa4WD0) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC), [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Ağlama Ben Ağlarım \(Harbiye 2026\)](https://open.spotify.com/album/3MnBwpIrPlfooCgGaQGJWD) | 3:44 | 2026-11-03 |  |
 | [Aşağılık Sevgili](https://open.spotify.com/track/1eyrfntQvB6SksetYFaKLo) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Aşağılık Sevgili](https://open.spotify.com/album/198fVZm4oGC6wteMAmIUUW) | 3:27 | 2026-02-05 | 2026-02-13 |
 | [Aşk Dediğinden](https://open.spotify.com/track/0o7mi55GmDpEkCclEv6Lkb) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i), [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW) | [Aşk Dediğinden](https://open.spotify.com/album/4QdltymjSZFoAL6JZX6el4) | 3:19 | 2026-05-01 | 2026-05-15 |
 | [aşk değil bağımlılık](https://open.spotify.com/track/1sD4CW97iiA5hdxwvcTKxB) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [aşk değil bağımlılık](https://open.spotify.com/album/4jq207usflU4Xmm4O7a5dG) | 3:02 | 2026-01-22 | 2026-01-30 |
@@ -225,7 +226,7 @@
 | [Deli \(Remake\)](https://open.spotify.com/track/5Qa0v5JWZdjf97TCmqU7SQ) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Disco Horizon](https://open.spotify.com/artist/7wFVnJPVKIP4yBnoF5OoiF) | [Re: Make 2](https://open.spotify.com/album/7uQhZXay9kiBv3CZaj3Z7B) | 3:35 | 2026-08-27 | 2026-09-16 |
 | [Deli Gibi Seviyorum](https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Deli Gibi Seviyorum](https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r) | 2:12 | 2024-10-24 | 2024-12-22 |
 | [Deli Yangınım](https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Deli Yangınım](https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm) | 3:45 | 2024-12-19 | 2025-11-11 |
-| [Delikanlım \- Live](https://open.spotify.com/track/6JhH7wWNy5MX6VrHIgTitQ) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Delikanlım \(Live\)](https://open.spotify.com/album/4nF8sJ3IuapgSwJJIXLjWa) | 5:37 | 2026-06-18 |  |
+| [Delikanlım \- Live](https://open.spotify.com/track/6JhH7wWNy5MX6VrHIgTitQ) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Delikanlım \(Live\)](https://open.spotify.com/album/4nF8sJ3IuapgSwJJIXLjWa) | 5:37 | 2026-06-18 | 2026-11-05 |
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Denizler Derya](https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Denizler Derya](https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX) | 4:10 | 2024-08-08 | 2024-08-23 |
 | [Derbeder](https://open.spotify.com/track/6OATjzm4jOcPr2JaTELCUQ) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Derbeder](https://open.spotify.com/album/2ZDnY4BVepv4dT3AuZmDBk) | 2:23 | 2024-09-05 | 2024-09-13 |

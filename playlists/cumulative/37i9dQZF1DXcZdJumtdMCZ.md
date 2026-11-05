@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Navz\-47
 
-400 songs - 20 hr 44 min
+401 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [ADDA](https://open.spotify.com/track/5kErLwph1shmMgGF3ASBRS) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [ADDA](https://open.spotify.com/album/4XsV2v7tyYqTpxkJsHct9j) | 2:36 | 2024-12-29 | 2025-02-18 |
 | [ADIMAI](https://open.spotify.com/track/4fJq3KI3Wa0kxVyY4huDrZ) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6), [Jason Penerselvam](https://open.spotify.com/artist/203p1jM90ugEbq3N0vX6PH) | [ADIMAI](https://open.spotify.com/album/0Ga8XhLre9K8LMhBpjqkA9) | 3:12 | 2025-06-03 | 2025-09-17 |
 | [Adipoli Chetta](https://open.spotify.com/track/7lN3wtrrpajoz91MMBcDcu) | [LIL.PUT](https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx), [DUMEEL](https://open.spotify.com/artist/3viKoScukHFcuoMc8vpolo), [Irai](https://open.spotify.com/artist/2Ow69iKQjp5sxmWcipjcfo), [LD.PAUL](https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G) | [Adipoli Chetta](https://open.spotify.com/album/0rh6JfjmkhaispP5ZslqwS) | 2:42 | 2024-12-29 | 2025-11-09 |
+| [Adra Parama \(From "Raawadi"\)](https://open.spotify.com/track/7nTcVu9gsXYS0ToLi7X9ih) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Lyrikist Udhay](https://open.spotify.com/artist/79XdliJOAZvIzn1uO79ahc) | [Adra Parama \(From "Raawadi"\)](https://open.spotify.com/album/4vm8onlZlCrSnlLpBsIOmk) | 3:05 | 2026-11-04 |  |
 | [Aga Naga](https://open.spotify.com/track/2M1QX3W7eNXXDw4b7rKiGL) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H), [Solar Sai](https://open.spotify.com/artist/36IO5ItRvRUxC7RcJAv0Zh), [Priya Subramanian](https://open.spotify.com/artist/4ISvBMH7jiZgZKeGdPeOWQ) | [KO \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DZaLTgltNnc8rAGFymnDN) | 5:22 | 2022-02-08 | 2024-12-29 |
 | [Aigiri](https://open.spotify.com/track/5iXC0jZlDPxNokyL1rdHsV) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [Aigiri](https://open.spotify.com/album/3Rd1QZKjazNOFZ7w5kGRGQ) | 1:43 | 2025-01-30 | 2025-11-08 |
 | [Akkrinai Naan \- From "Captain"](https://open.spotify.com/track/7CRrENz4lVWe1kFYxn1WgQ) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Joewin Shamalina](https://open.spotify.com/artist/4YpclnrUJpslzlowW26LOn) | [Akkrinai Naan \(From "Captain"\)](https://open.spotify.com/album/51HbJ9d3dsBatTaYKEsLzR) | 3:51 | 2022-08-27 | 2023-05-13 |

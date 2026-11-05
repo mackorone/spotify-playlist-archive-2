@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAAD+EQPFRw1YOx4nULsDDcbd",
+  "snapshot_id": "aufSgAAAAACnT02ZC4VIMntDz/jSOhS8",
   "tracks": [
     {
       "added_at": null,
@@ -396,13 +396,13 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+          "name": "Dolphin Midwives",
+          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
         }
       ],
-      "duration_ms": 352000,
-      "name": "Observatory",
-      "url": "https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA"
+      "duration_ms": 305750,
+      "name": "Hypnogogia",
+      "url": "https://open.spotify.com/track/7Iwx5gAyLH7OHfnvFqqTCu"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 110593,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/1xMb2ja1p267QATU3oXg8Y"
+      "duration_ms": 101775,
+      "name": "Me of Ocean",
+      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 101775,
-      "name": "Me of Ocean",
-      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
+      "duration_ms": 110593,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/1xMb2ja1p267QATU3oXg8Y"
     }
   ],
   "unique_name": "This Is Sofie Birch",

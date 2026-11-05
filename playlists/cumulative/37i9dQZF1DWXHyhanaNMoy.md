@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Idaly, Adje & CHO
 
-1,905 songs - 3 day 12 hr 4 min
+1,906 songs - 3 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-05-29 | 2025-08-29 |
 | [BADDIES](https://open.spotify.com/track/6vMetgwaOpsO45Aghc3Kv8) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [BADDIES](https://open.spotify.com/album/4R6vO9veVL3L7UG9TfJ1oR) | 2:15 | 2025-08-28 | 2026-01-06 |
 | [Baddies Club](https://open.spotify.com/track/3QboaWCTwe8CF1Do1NtrPe) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Baddies Club](https://open.spotify.com/album/7gzD8uQEkDLWRPzsNh4iPo) | 2:34 | 2026-09-10 |  |
-| [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 | 2026-09-24 |  |
+| [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 | 2026-09-24 | 2026-11-05 |
+| [BADDIES IN HOLLANDA](https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [BADDIES IN HOLLANDA](https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5) | 2:05 | 2026-11-04 |  |
 | [Baddie’s Hier](https://open.spotify.com/track/5Fr0m8RZP4bueLTiD86MN3) | [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc) | [Baddie’s Hier](https://open.spotify.com/album/31udnukFxYubpQltKWkZ6A) | 2:13 | 2026-09-15 | 2026-10-16 |
 | [Badman Anthem](https://open.spotify.com/track/3gj3pZMPOX6ME3Y8BctIT3) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Badman Anthem](https://open.spotify.com/album/76YbtnHG2Ona7XpIH8iQQ5) | 2:31 | 2024-05-09 | 2024-06-01 |
 | [Badman Badgyal Party](https://open.spotify.com/track/0fU3rEOzY7VbWwilsWIG3d) | [KD Soundsystem](https://open.spotify.com/artist/7yPOMcYNwv9by1xUxAljPA), [Big Shenn](https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl) | [Badman Badgyal Party](https://open.spotify.com/album/3nuDCHfBlNB1lXdgO8dlaW) | 2:26 | 2023-01-26 | 2023-03-25 |

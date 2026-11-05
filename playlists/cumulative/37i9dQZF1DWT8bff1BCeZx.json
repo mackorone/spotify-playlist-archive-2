@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 259640,
       "name": "Awesome God - Live",
       "url": "https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe"
@@ -14443,6 +14443,28 @@
     },
     {
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/6mUbbFE6jPnVyBnIyXUgX6"
+      },
+      "artists": [
+        {
+          "name": "King GreatLight",
+          "url": "https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5"
+        },
+        {
+          "name": "Oti\u00e9",
+          "url": "https://open.spotify.com/artist/1P6PdWHR5edNYWoAweZ5gS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155477,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/0e2dqpRD77jYuSi7lUqMdH"
+    },
+    {
+      "album": {
         "name": "Neema Ya Mungu",
         "url": "https://open.spotify.com/album/7Ib8NRYD26QZHQPrtY9TLn"
       },
@@ -18248,7 +18270,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 159690,
       "name": "Redeemer - Live",
       "url": "https://open.spotify.com/track/1tLr2VSB1MVThE4AyblWg7"
@@ -18740,7 +18762,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 142835,
       "name": "see the truth",
       "url": "https://open.spotify.com/track/5y33JJj5b0kVKgV16wuxAp"

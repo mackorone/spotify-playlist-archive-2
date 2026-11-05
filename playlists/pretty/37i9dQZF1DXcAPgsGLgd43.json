@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 123242,
+  "num_followers": 123262,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
         "name": "Playa Y Arena",
         "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 179512,
       "name": "Playa Y Arena",
       "url": "https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "Ando High",
+        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "Ando High",
+      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 117667,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "Ando High",
-        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 165875,
-      "name": "Ando High",
-      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "Mi Gentee EP",
+        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "duration_ms": 208782,
+      "name": "Mi Gentee",
+      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Coroa",
         "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
       },
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Mi Gentee EP",
-        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
-      },
-      "artists": [
-        {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        }
-      ],
-      "duration_ms": 208782,
-      "name": "Mi Gentee",
-      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
         "name": "Rave En La Favela",
         "url": "https://open.spotify.com/album/4rZxSGTxcw5m3SiIKSfTa8"
       },
@@ -1743,6 +1743,22 @@
       "duration_ms": 194798,
       "name": "Rave En La Favela",
       "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1767,22 +1783,6 @@
       "duration_ms": 152903,
       "name": "Vida",
       "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1871,22 +1871,26 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Baila Le Digo",
-        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
+        "name": "Chimba",
+        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
       },
       "artists": [
         {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
         },
         {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "BIG KAPOH",
+          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
         }
       ],
-      "duration_ms": 139702,
-      "name": "Baila Le Digo",
-      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
+      "duration_ms": 207804,
+      "name": "Chimba",
+      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1911,26 +1915,22 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Chimba",
-        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
+        "name": "Baila Le Digo",
+        "url": "https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B"
       },
       "artists": [
         {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
         },
         {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "BIG KAPOH",
-          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
         }
       ],
-      "duration_ms": 207804,
-      "name": "Chimba",
-      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
+      "duration_ms": 139702,
+      "name": "Baila Le Digo",
+      "url": "https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH"
     },
     {
       "added_at": "2026-10-30 04:00:47",

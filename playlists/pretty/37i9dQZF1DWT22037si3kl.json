@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 151457,
+  "num_followers": 151469,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWF8PL514k0GtQAexiG5jxZV/e6",
+  "snapshot_id": "AAAAAJ7RLUZv2LCUL8B/b2qtMVfyuaLq",
   "tracks": [
     {
       "added_at": "2026-10-27 13:10:15",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-10-27 13:10:15",
       "album": {
-        "name": "+ Swag",
-        "url": "https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD"
-      },
-      "artists": [
-        {
-          "name": "Phl Notunrboy",
-          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "+ Swag",
-      "url": "https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK"
-    },
-    {
-      "added_at": "2026-10-27 13:10:15",
-      "album": {
         "name": "MOTIVO",
         "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 166015,
       "name": "MOTIVO",
       "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
+    },
+    {
+      "added_at": "2026-10-27 13:10:15",
+      "album": {
+        "name": "+ Swag",
+        "url": "https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "+ Swag",
+      "url": "https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK"
     },
     {
       "added_at": "2026-10-27 13:10:15",
@@ -703,6 +703,30 @@
     {
       "added_at": "2026-10-27 13:10:15",
       "album": {
+        "name": "\u00c9 Que os Menino \u00c9 Bom",
+        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Soud",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "\u00c9 Que os Menino \u00c9 Bom",
+      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
+    },
+    {
+      "added_at": "2026-10-27 13:10:15",
+      "album": {
         "name": "Sentido Aranha",
         "url": "https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 157161,
       "name": "Acha que Eu N\u00e3o Sei",
       "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
-    },
-    {
-      "added_at": "2026-10-27 13:10:15",
-      "album": {
-        "name": "\u00c9 Que os Menino \u00c9 Bom",
-        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
-      },
-      "artists": [
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Soud",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "\u00c9 Que os Menino \u00c9 Bom",
-      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
     },
     {
       "added_at": "2026-10-27 13:10:15",
@@ -939,30 +939,6 @@
     {
       "added_at": "2026-10-27 13:10:15",
       "album": {
-        "name": "Spliff",
-        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        },
-        {
-          "name": "Vertigo",
-          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Spliff",
-      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
-    },
-    {
-      "added_at": "2026-10-27 13:10:15",
-      "album": {
         "name": "IMP\u00c9RIO",
         "url": "https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 150794,
       "name": "IMP\u00c9RIO",
       "url": "https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L"
+    },
+    {
+      "added_at": "2026-10-27 13:10:15",
+      "album": {
+        "name": "Spliff",
+        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Spliff",
+      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
     },
     {
       "added_at": "2026-10-27 13:10:15",

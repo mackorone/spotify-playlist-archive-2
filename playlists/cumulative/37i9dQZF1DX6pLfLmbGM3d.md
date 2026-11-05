@@ -4,7 +4,7 @@
 
 > Let's DIVE into IVE!
 
-99 songs - 4 hr 41 min
+106 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blue Heart](https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:07 | 2024-04-29 |  |
 | [Cherish](https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:14 | 2023-04-10 | 2024-04-19 |
 | [Cherish](https://open.spotify.com/track/5EFoPlYE77qjYk1V9Tcau9) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:14 | 2023-10-13 |  |
+| [CRUMBS](https://open.spotify.com/track/7ahB1ea9N3SHIvoYQe245z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 3:08 | 2026-11-05 |  |
 | [CRUSH](https://open.spotify.com/track/6YotW58GnfhgGSX5zFFx3n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 3:29 | 2024-12-19 |  |
 | [Dear, My Feelings](https://open.spotify.com/track/1U9odXaCgEULNvYBXJBn43) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 3:13 | 2025-09-01 |  |
 | [Either Way](https://open.spotify.com/track/5c1EubDxHdulbausF5CpX5) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:46 | 2023-10-13 |  |
@@ -38,6 +39,8 @@
 | [FLU](https://open.spotify.com/track/2mXHElFPmrKhAnoyWT5yDo) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:09 | 2025-02-03 |  |
 | [Force \(ANYUJIN Solo\)](https://open.spotify.com/track/10AmXt6EfyzuSC4CCsji9O) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:24 | 2026-03-03 |  |
 | [GAEUL](https://open.spotify.com/track/0aPQJWekgEyHwC50rjd9Nc) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:05 | 2026-10-19 |  |
+| [Girls Girls Girls](https://open.spotify.com/track/4fOAYaOQ2F5dC9O8u4GVyt) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 2:42 | 2026-11-05 |  |
+| [Glow Motion](https://open.spotify.com/track/0egnEp0o8eFEP77NLid6lr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 3:01 | 2026-11-05 |  |
 | [GOTCHA \(Baddest Eros\)](https://open.spotify.com/track/2Y7IdLEr2vSFN3Fc1BBjwQ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:31 | 2025-09-01 |  |
 | [Heroine](https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:51 | 2023-04-10 | 2024-04-19 |
 | [Heroine](https://open.spotify.com/track/181TBQxn46cDUxY2ssemLg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 2:51 | 2023-10-13 |  |
@@ -61,12 +64,14 @@
 | [Lips](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:01 | 2023-04-10 | 2024-04-19 |
 | [Lips](https://open.spotify.com/track/4BhGSAx2NTc7Ciw8AutWWM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:01 | 2023-10-13 |  |
 | [LIZ](https://open.spotify.com/track/5xJeJ7eG9glqR9S8BppmQ7) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [This Is IVE Audio Liners](https://open.spotify.com/album/6EuOXAM77QtTexEiTE0SaY) | 0:04 | 2026-10-19 |  |
-| [Looks Can Kill](https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm) | 3:15 | 2026-10-19 |  |
+| [Looks Can Kill](https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm) | 3:15 | 2026-10-19 | 2026-11-05 |
+| [Looks Can Kill](https://open.spotify.com/track/4F8LBvCz9jVbwIpsy2WLos) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 3:15 | 2026-11-05 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-04-10 |  |
 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 | 2023-04-10 |  |
 | [Midnight Kiss](https://open.spotify.com/track/3GX5tB0kmvz4CT5lsBVnk6) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 3:44 | 2025-09-01 |  |
 | [Mine](https://open.spotify.com/track/2wsRZURBbDbaQUuVT9piu1) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:10 | 2023-04-10 | 2024-04-19 |
 | [Mine](https://open.spotify.com/track/7xcVfRQTIwTQrDJN29llIx) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:10 | 2023-10-13 |  |
+| [Mirror Mirror](https://open.spotify.com/track/0fVAQZYuk63KjPtkarkkHs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 3:20 | 2026-11-05 |  |
 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 | 2023-04-10 |  |
 | [My Satisfaction](https://open.spotify.com/track/2jaZpjWHv68e2FYr0v3WUj) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb) | 3:13 | 2023-10-13 |  |
 | [My Satisfaction](https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 3:13 | 2023-04-10 | 2024-04-19 |
@@ -86,12 +91,14 @@
 | [ROYAL](https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 3:26 | 2023-04-10 |  |
 | [Shine With Me](https://open.spotify.com/track/3L7pilDxJhZz1fP6t4D9P9) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:44 | 2023-04-10 | 2024-04-19 |
 | [Shine With Me](https://open.spotify.com/track/5cX4nQtyCjXvfuAHQ3Pu50) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:44 | 2023-10-13 |  |
+| [SNAKESKIN](https://open.spotify.com/track/0hcFnrQNGplPcAS2OLVVtB) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ) | 3:21 | 2026-11-05 |  |
 | [Stuck In Your Head](https://open.spotify.com/track/1VLivvmEDvq5MpltFTs9Dp) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:47 | 2026-03-03 |  |
 | [SUMMER FESTA](https://open.spotify.com/track/4QYmuMAQ1iBzspZKCaMZuB) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [SUMMER FESTA](https://open.spotify.com/album/2cyomPgx2iBZXnBKO8Fmxi) | 3:39 | 2024-06-28 |  |
 | [Super ICY \(LEESEO Solo\)](https://open.spotify.com/track/6ufr0FZFYyzbll3rIZlMEi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:50 | 2026-03-03 |  |
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-12-19 |  |
 | [Supernova Love \- Extended Mix](https://open.spotify.com/track/13doKbm7qarFphV3aRafJp) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 4:23 | 2024-12-19 |  |
 | [Take It](https://open.spotify.com/track/70EfheCNy3zOrcT2meMQ1g) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 3:24 | 2023-04-10 |  |
+| [Talk with IVE \- Spotify DIVE ACADEMY LIVE \- IVE](https://open.spotify.com/episode/4ncuKCpCvQKRUc6XC1qz9H) | [K\-Pop ON! Video Podcast](https://open.spotify.com/show/35ltzomNTBi2lqCtoL4Drt) | [K\-Pop ON! Video Podcast](https://open.spotify.com/album/35ltzomNTBi2lqCtoL4Drt) | 32:37 | 2026-11-05 |  |
 | [Thank U](https://open.spotify.com/track/2pBir4lzhZVCfppEMjJ08h) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:11 | 2025-02-03 |  |
 | [TKO](https://open.spotify.com/track/12eAOUNDpXxQhhwxpnlnZ3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:06 | 2025-02-03 |  |
 | [Unreal \(LIZ Solo\)](https://open.spotify.com/track/5B9x9u2LVH4EuhYMjlotnU) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:42 | 2026-03-03 |  |

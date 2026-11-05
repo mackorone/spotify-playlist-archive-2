@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAAC8Im30C8ZqDJ1Sce2GvIOL",
+  "snapshot_id": "aufSgAAAAABLBgjs9Yt5+rS5Pa482jJf",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 225306,
-      "name": "I Can Be",
-      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
+      "duration_ms": 203000,
+      "name": "Can't Say Go",
+      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Can't Say Go",
-      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
+      "duration_ms": 225306,
+      "name": "I Can Be",
+      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Rayland Baxter
 
-795 songs - 2 day 0 hr 14 min
+796 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Famous to You](https://open.spotify.com/track/4fk3Kq7uZYVCZGsaVJKcY3) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Famous to You](https://open.spotify.com/album/6kfzInEq7MP3gwjxUdusf6) | 3:36 | 2026-07-24 |  |
 | [Favorite Fear](https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Boutilier Presents..\. Goldie Montana](https://open.spotify.com/album/7ztYs1cGt5EkHppMFcvNtN) | 3:09 | 2025-09-05 |  |
 | [Feel the Heat](https://open.spotify.com/track/5xRGp9QQwcGvaFUYPnMzia) | [The Wild Palominos](https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO) | [Feel the Heat](https://open.spotify.com/album/5yluL8wxkEXTQkiKwG9IJw) | 2:58 | 2026-02-20 | 2026-03-19 |
+| [Fell In Love \(Couldn't Get Out\)](https://open.spotify.com/track/2LT0EEkdCg1GFXbTKtz3Ci) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1), [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Best of Our Possible Lives \(Deluxe\)](https://open.spotify.com/album/6ituIIPw3mOlIOnS0Zndgm) | 3:06 | 2026-10-16 |  |
 | [Felled](https://open.spotify.com/track/4DAQr8fZceW6ia4M1noVvU) | [Hollow Twin](https://open.spotify.com/artist/1K7OgXdlCvZ0Ype0vP54v2) | [Soft Hearts](https://open.spotify.com/album/2yHVgEiQl2UqwtdNwSda47) | 3:21 | 2022-05-13 | 2022-06-18 |
 | [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 | 2025-10-17 | 2026-10-17 |
 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 | 2023-04-21 | 2024-02-18 |
@@ -764,7 +765,7 @@
 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 | 2026-05-22 | 2026-07-18 |
 | [Whole Lotta Talkin'](https://open.spotify.com/track/2A5KiEwjnjihPdMlk1Ic7z) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Whole Lotta Talkin'](https://open.spotify.com/album/4bt4gStS58TFuSUwA75OIn) | 2:43 | 2026-07-03 | 2026-08-10 |
 | [Wide Awake](https://open.spotify.com/track/1j0yLM2bq8IXOmkahkV22Z) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Wide Awake](https://open.spotify.com/album/0CuE6LWfLi55IwDchyGEDp) | 4:15 | 2022-08-12 | 2022-10-15 |
-| [Wide Open](https://open.spotify.com/track/1n1bvVbadpuQ2pjTjE4r4Y) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Wide Open](https://open.spotify.com/album/205S3gL9ecNDwCS6ZOtEWz) | 5:10 | 2026-09-18 |  |
+| [Wide Open](https://open.spotify.com/track/1n1bvVbadpuQ2pjTjE4r4Y) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Wide Open](https://open.spotify.com/album/205S3gL9ecNDwCS6ZOtEWz) | 5:10 | 2026-09-18 | 2026-11-05 |
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-01-17 | 2025-03-24 |
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/4J00D7FgKC3O9O7oSLuX6K) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [The Cloudmaker's Cry](https://open.spotify.com/album/56vReOxfodsnNrt66xgxX6) | 3:42 | 2026-01-16 | 2026-03-07 |
 | [Wildfire](https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Wildfire](https://open.spotify.com/album/7w25Rqt9D2fDxUwntGAlw0) | 2:11 | 2026-06-26 |  |

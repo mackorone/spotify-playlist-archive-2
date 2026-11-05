@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "AGAINST ALL",
       "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
@@ -13250,7 +13250,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 193846,
       "name": "Creta",
       "url": "https://open.spotify.com/track/4RneiUNonURNBoT5IKC4ku"
@@ -15848,7 +15848,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 281443,
       "name": "Diskola Feggaria",
       "url": "https://open.spotify.com/track/3yKWUJSbDaJrgJWSu0ebAs"
@@ -33660,7 +33660,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 213120,
       "name": "LETE LETE",
       "url": "https://open.spotify.com/track/6wNjJ10ZAdbyp5LzhOPsEh"
@@ -34170,7 +34170,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 253226,
       "name": "Lipi Pali O Theos",
       "url": "https://open.spotify.com/track/03W4etIBU1AlHxKEAdQkrO"
@@ -37618,6 +37618,28 @@
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
+    },
+    {
+      "album": {
+        "name": "Medallion",
+        "url": "https://open.spotify.com/album/5etpD9LDjp2MgWg1PayD8E"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Medallion",
+      "url": "https://open.spotify.com/track/7H7dHzMQGXLl1NveKglZ1E"
     },
     {
       "album": {

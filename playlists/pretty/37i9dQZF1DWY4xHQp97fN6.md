@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,467,395 likes - 102 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,466,638 likes - 102 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

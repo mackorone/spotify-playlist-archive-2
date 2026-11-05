@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Akalex. Curated with love by human Spotify editors. \n",
-  "num_followers": 219614,
+  "num_followers": 219663,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJqnLt8jOeGFE1i4IhhsvD9lBU/",
+  "snapshot_id": "AAAAABI69BXOI90N+4a2B5yj33o+gLMg",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:02",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/6G4zuZa5dn4WhWWz735B16"
     },
     {
+      "added_at": "2026-11-04 19:12:44",
+      "album": {
+        "name": "Can You Take The Heat",
+        "url": "https://open.spotify.com/album/1DxNqucFaHJfUzEUZTDAiX"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        }
+      ],
+      "duration_ms": 177028,
+      "name": "Can You Take The Heat",
+      "url": "https://open.spotify.com/track/4kbWRzXoQMGXtLgFaOC31D"
+    },
+    {
       "added_at": "2026-10-16 04:02:02",
       "album": {
         "name": "DEBBIE",
@@ -43,22 +59,6 @@
       "duration_ms": 195000,
       "name": "DEBBIE",
       "url": "https://open.spotify.com/track/2AvDDoOiPGfGYgB9hfbbvJ"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
-        "name": "Weapon X",
-        "url": "https://open.spotify.com/album/6imruFmzHqk6PoLlfLbZOK"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Weapon X",
-      "url": "https://open.spotify.com/track/5vShG2bZbMpYWJ7EA4e3pp"
     },
     {
       "added_at": "2026-10-16 04:02:02",
@@ -91,6 +91,22 @@
       "duration_ms": 182571,
       "name": "Denim Skies",
       "url": "https://open.spotify.com/track/3pxCawkhftUcRcNuiP427d"
+    },
+    {
+      "added_at": "2026-11-04 19:12:44",
+      "album": {
+        "name": "MONEY MONEY",
+        "url": "https://open.spotify.com/album/4RKx2Ecg81aZjJgMxGCJ2K"
+      },
+      "artists": [
+        {
+          "name": "Matt's Experiment",
+          "url": "https://open.spotify.com/artist/36y1S9iFmSVtDXwgAH60NR"
+        }
+      ],
+      "duration_ms": 171044,
+      "name": "MONEY MONEY",
+      "url": "https://open.spotify.com/track/2z7PONtFhcYR5e15TTQc0i"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -175,6 +191,22 @@
       "duration_ms": 246461,
       "name": "beer dreams",
       "url": "https://open.spotify.com/track/5ORoLyuMyupa7DROTjmhd7"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "Weapon X",
+        "url": "https://open.spotify.com/album/6imruFmzHqk6PoLlfLbZOK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Weapon X",
+      "url": "https://open.spotify.com/track/5vShG2bZbMpYWJ7EA4e3pp"
     },
     {
       "added_at": "2026-10-15 14:53:00",
@@ -605,22 +637,6 @@
       "url": "https://open.spotify.com/track/09RtwKxixeK1qx6K6rjbJG"
     },
     {
-      "added_at": "2026-10-01 04:34:51",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/0eYEgpjM4V0gnsPxSWVtro"
-      },
-      "artists": [
-        {
-          "name": "Fresh Stuff",
-          "url": "https://open.spotify.com/artist/0gsTmR40FgSJbjB8Zmjlfw"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/6vnC8M6DJpEmaoKQ66W1M4"
-    },
-    {
       "added_at": "2026-09-23 21:31:26",
       "album": {
         "name": "Want U Back",
@@ -635,22 +651,6 @@
       "duration_ms": 155515,
       "name": "Want U Back",
       "url": "https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:43",
-      "album": {
-        "name": "Esoteric Reality EP",
-        "url": "https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60"
-      },
-      "artists": [
-        {
-          "name": "Tamara Wirth",
-          "url": "https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI"
-        }
-      ],
-      "duration_ms": 358356,
-      "name": "I",
-      "url": "https://open.spotify.com/track/4kEtURKAUhEjV0RGI7BFoy"
     },
     {
       "added_at": "2026-10-01 04:34:51",

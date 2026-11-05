@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: スピッツ \*👉 <a href="https://spice.eplus.jp/articles/350120">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,826 likes - 77 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,835 likes - 77 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 20 | [History](https://open.spotify.com/track/5biTOsZ5MV2frCieqnkZUT) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [History](https://open.spotify.com/album/2C4mxUBErpWFrWFJ4002ej) | 2:56 |
 | 21 | [いけても無理でも](https://open.spotify.com/track/3GLekByLUZaS2K8Fqn64np) | [新しい地図 join ミュージック](https://open.spotify.com/artist/4TrylF8OKOqs0eq1oddrcv) | [いけても無理でも](https://open.spotify.com/album/4H2Ub94V1sRsntfXywbM5f) | 3:50 |
 | 22 | [9 to 5](https://open.spotify.com/track/4MlRA1wWu89HXrvd22EEpZ) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [9 to 5](https://open.spotify.com/album/5qdJ0tGjUYh6xA7xqWl4LL) | 4:13 |
-| 23 | [リベラシオン](https://open.spotify.com/track/0QCqWFSzw5lhvldul7ZaEA) | [ドレスコーズ](https://open.spotify.com/artist/5BqRXgf6x5G9kslDQQtTHB) | [リベラシオン](https://open.spotify.com/album/34KgxnhqXVbMlkzjR2jMI5) | 3:20 |
+| 23 | [リベラシオン](https://open.spotify.com/track/0QCqWFSzw5lhvldul7ZaEA) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [リベラシオン](https://open.spotify.com/album/34KgxnhqXVbMlkzjR2jMI5) | 3:20 |
 | 24 | [ふれる](https://open.spotify.com/track/41IYePCc4p7PJqwwdfUEWZ) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [ふれる](https://open.spotify.com/album/0lu92aGMIuh1LPHCNHamvu) | 4:12 |
 | 25 | [FIND ME OUT](https://open.spotify.com/track/0HzCa5Qy3iQgmqOHk15YZu) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [FIND ME OUT](https://open.spotify.com/album/0A9wiUtdoXOyw6ZbxU5eGs) | 2:41 |
 | 26 | [Watch](https://open.spotify.com/track/69VCcTsdpL3BwiqoFsyAlm) | [GAN \(岩田剛典\)](https://open.spotify.com/artist/2cD2ndst4zaoaoNldSXhMH) | [Blank Canvas](https://open.spotify.com/album/5i5CtNAFYQa3Czzxk9oAqA) | 2:15 |

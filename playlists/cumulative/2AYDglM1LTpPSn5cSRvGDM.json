@@ -6581,6 +6581,28 @@
     },
     {
       "album": {
+        "name": "You Don't Think I Love You",
+        "url": "https://open.spotify.com/album/7bPfZoU7xH2oa5oimyQolw"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Elmar",
+          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198928,
+      "name": "You Don't Think I Love You",
+      "url": "https://open.spotify.com/track/24mUCh7Tvj7kSV3Mxh2kLV"
+    },
+    {
+      "album": {
         "name": "You Feel Like More",
         "url": "https://open.spotify.com/album/2W1F1ZfyTRg75A4zdFBpho"
       },

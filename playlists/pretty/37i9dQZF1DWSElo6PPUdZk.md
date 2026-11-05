@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Rashmeet Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,430 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,432 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 |
-| 2 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
-| 3 | [Jogi](https://open.spotify.com/track/22OYPLWN8ADWaWJgt6VNh8) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jogi](https://open.spotify.com/album/3MTAv5z2xPjEJCEqMGIrf3) | 2:24 |
-| 4 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
+| 2 | [Jogi](https://open.spotify.com/track/22OYPLWN8ADWaWJgt6VNh8) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jogi](https://open.spotify.com/album/3MTAv5z2xPjEJCEqMGIrf3) | 2:24 |
+| 3 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
+| 4 | [Mere Jinni Sohni](https://open.spotify.com/track/2wyXpVrwyUTC1dz97LUPPm) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Zakir](https://open.spotify.com/artist/53tmGtbyrnXSAISRzmhMh9) | [Mere Jinni Sohni](https://open.spotify.com/album/2F1YJAAdQTxw9NX5XHdKlA) | 2:48 |
 | 5 | [Lala Lala](https://open.spotify.com/track/5a5xZ3iA2cB8vWEmHbC2kd) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Lala Lala](https://open.spotify.com/album/2TWuq3arHNQS8QeNVKWIaz) | 2:42 |
 | 6 | [Kaali LC](https://open.spotify.com/track/22MNy4MsC9ciVnHXsq1E2x) | [Diksha B](https://open.spotify.com/artist/332aOLGOOexxuMhIR8nUZq), [BxckBencher](https://open.spotify.com/artist/1Sy2RufSEABGPPWSQyQn6i) | [Kaali LC](https://open.spotify.com/album/1zFDpiNznfVrBalcW4p8e5) | 3:13 |
 | 7 | [Uddi Uddi](https://open.spotify.com/track/3km3RYsvgGjijyfMAOwr8C) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Forever](https://open.spotify.com/album/3eOgLmDciOYgHrX60jnN9y) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [PURSE](https://open.spotify.com/track/4cis0rIJPhcoMlMep7Ptjs) | [Ravneet Aulakh](https://open.spotify.com/artist/453LAV0rJFBUtCeXm650FW), [Amrinder](https://open.spotify.com/artist/2lxae2IzNF3i1907MciYOr) | [PURSE](https://open.spotify.com/album/3bCOLFnU1G2pKuVqlvOo18) | 2:34 |
 | 50 | [Bhulekhe](https://open.spotify.com/track/5H9ry3GVPJ7sqyWl1Qth6F) | [Mikki Kalyan](https://open.spotify.com/artist/0ZNULUVcrieYhGci2qr134), [Pitterr](https://open.spotify.com/artist/4kFmVHFnKNFrkxQ2Pf42qt), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Bhulekhe](https://open.spotify.com/album/488S9BjZAsmSp52rDeLZqn) | 3:08 |
 
-Snapshot ID: `AAAAADujWqZ6GWLnv1/SVlreFPefLvmy`
+Snapshot ID: `AAAAABI3qrs2SPftCdbRnVPZq6iCUvee`

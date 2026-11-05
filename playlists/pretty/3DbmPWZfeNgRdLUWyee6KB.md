@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 138 songs - 8 hr 18 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 148 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,15 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 136 | [Dry Your Eyes](https://open.spotify.com/track/4Yc6aY5A1X2ZHVuVHDNjMP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Price Of Your Love](https://open.spotify.com/album/7KGqtWbKkhlCcvC26uUS32) | 2:34 |
 | 137 | [Come la Prima Volta](https://open.spotify.com/track/6lSnvSpdVAnm9O6LUtXj5k) | [Erhes](https://open.spotify.com/artist/342B4eg1rwTI3poA0uKFOX) | [Come la Prima Volta](https://open.spotify.com/album/5DlpLvQTVQu4MeUrKKlwOg) | 3:29 |
 | 138 | [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 |
+| 139 | [Ghosts We Outgrow](https://open.spotify.com/track/2GPIlG6RpB1owa9L4ymThA) | [Marionette Noir](https://open.spotify.com/artist/4rDm5cA7jpu6LF95zokjHA) | [The Quiet After Him](https://open.spotify.com/album/3hRLtNSZTZtdp7Sljym8Wc) | 4:38 |
+| 140 | [Gettin good at leaving](https://open.spotify.com/track/0Kq18GzmQQYVrSx45PQd5z) | [Aria May](https://open.spotify.com/artist/4ZHioKK1Qgnz00JZt5VEeC) | [Gettin good at leaving](https://open.spotify.com/album/2zbri2Wd1rDFR9I6QbRrYy) | 4:17 |
+| 141 | [Martyr](https://open.spotify.com/track/1cmXOvfvFi4O74xfDo0JGH) | [Maya Viola](https://open.spotify.com/artist/4TuaDdcZc9m1HmNKZ4ap8B) | [Martyr](https://open.spotify.com/album/23RyWmfRfjnuzF5lHPAugF) | 2:57 |
+| 142 | [God jul, alle sammen](https://open.spotify.com/track/72GuO4YTEiVRtl7RBvPVIA) | [Zerener](https://open.spotify.com/artist/2NPVYQkv6uPyD6QsFlbZH5) | [God jul, alle sammen](https://open.spotify.com/album/05L7i2ZzL20U69QnrELkXp) | 3:50 |
+| 143 | [f/16 125](https://open.spotify.com/track/48bB9f73JTzlq5xXuu1U3k) | [This is Lucas](https://open.spotify.com/artist/2VtU1AcO5FYmWb0Cuemc0M) | [f/16 125](https://open.spotify.com/album/3hgdKSMwPdAVTecQHC6NQQ) | 3:04 |
+| 144 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
+| 145 | [Placebo Effect](https://open.spotify.com/track/2ZBtdrPY0553ORcZ5JJhH0) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [undeniable](https://open.spotify.com/album/76kVi5cjZpUgYgyU5o4IAt) | 3:22 |
+| 146 | [The One](https://open.spotify.com/track/6mxtqYfKuCLfkNM6WGFwSg) | [The Thundercracks](https://open.spotify.com/artist/7ASdBF3BAerPO7pd4KEs1I) | [The One](https://open.spotify.com/album/7bsjk3OfWA7E3chARN0s6W) | 3:42 |
+| 147 | [НеПізно](https://open.spotify.com/track/0bfqqenwBx8Qb1IAeLbwes) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [НеПізно](https://open.spotify.com/album/6YJDQGUEcAhRtQ6GGiP9BE) | 2:24 |
+| 148 | [Alfonsina Sin Mar](https://open.spotify.com/track/6uQV5Cdwpm91ctXoCw1g8x) | [Diana Ramundey](https://open.spotify.com/artist/1yS8uDIozrGruSrU0SE52v) | [Zamba Madre](https://open.spotify.com/album/7rQNTiqHS8Qwk0EGPtNJyf) | 3:34 |
 
-Snapshot ID: `AAAZMulQ8EnTKMSNiJrpuIzKHHQiIrR5`
+Snapshot ID: `AAAZPMzGt4zCVbOddvF/vZxKfdXtVBJ/`

@@ -4,7 +4,7 @@
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 18 min
+110 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Do A Bitch \- Club Mix](https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Do A Bitch \(Club Mix\)](https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3) | 2:36 | 2023-06-23 |  |
 | [do it 4 th€ gram \- r€mix](https://open.spotify.com/track/6sZaFqRlYEzwWyWkvtECA4) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [do it 4 th€ gram \(r€mix\)](https://open.spotify.com/album/1G1sscUMvDq2fyoEjBzlHb) | 2:28 | 2024-10-27 | 2024-11-23 |
 | [do it 4 th€ gram \- r€mix](https://open.spotify.com/track/7MVmS6K6kxRrhJQJ35nfjV) | [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [blu€s \(d€lux€\)](https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk) | 2:28 | 2024-11-23 |  |
+| [Don't Worry Bout It](https://open.spotify.com/track/4s2Q4l9Z9edsSWdjyUEbAP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wit 3 iii's](https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1) | 2:02 | 2026-11-05 |  |
 | [Dose, 1 or 2 Pills \- Original Mix](https://open.spotify.com/track/1jOibElEvP4hWxlJJygDbg) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Groovy Psychedelic Downtempo & Chill out V9](https://open.spotify.com/album/1uVvVydS1d6fZtFmXxCWAG) | 8:45 | 2024-03-25 | 2024-05-22 |
 | [Driveby](https://open.spotify.com/track/3IZwShcacPqxbkHkT9M3zT) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 7:33 | 2023-12-24 | 2024-05-17 |
 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2023-06-07 |  |
@@ -78,7 +79,7 @@
 | [Ouuhh!!](https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Famous Uno](https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Ouuhh!!](https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8) | 3:17 | 2023-12-13 | 2026-08-27 |
 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 | 2023-06-07 | 2024-07-24 |
 | [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 | 2023-06-07 | 2024-08-20 |
-| [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 | 2023-06-07 |  |
+| [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 | 2023-06-07 | 2026-11-05 |
 | [Pull The Car Around \- Remix](https://open.spotify.com/track/2yZkOMdtfGUgaoBCLr6vMA) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Pull The Car Around \(Remix\)](https://open.spotify.com/album/0q1ZX67Sh55tWUYvno1IpS) | 3:09 | 2024-06-09 | 2026-10-05 |
 | [Red Light Special \(feat\. Kaliii\)](https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Who I Am](https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh) | 2:30 | 2025-07-01 |  |
 | [Reward](https://open.spotify.com/track/35fkQcdrVBYiXyeMcTJFCs) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wit 3 iii's](https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1) | 2:40 | 2026-11-02 |  |

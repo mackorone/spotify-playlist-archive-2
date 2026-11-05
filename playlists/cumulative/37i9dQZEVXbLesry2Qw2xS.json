@@ -24412,7 +24412,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 156106,
       "name": "IMPULSIVE",
       "url": "https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA"
@@ -33725,6 +33725,24 @@
     },
     {
       "album": {
+        "name": "Mask maha",
+        "url": "https://open.spotify.com/album/2ZyarRysSu97OrXXghP1DJ"
+      },
+      "artists": [
+        {
+          "name": "L\u00f5\u00f5tsav\u00e4gilased",
+          "url": "https://open.spotify.com/artist/5ihqfB7XFo83TQL8NH0ToE"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Mask maha",
+      "url": "https://open.spotify.com/track/7J3bLJPE6oxpNyIhPGhq2y"
+    },
+    {
+      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -36046,7 +36064,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/5c7Mswm6Ueq0nKlgH3rTwQ"
@@ -37860,7 +37878,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 311200,
       "name": "Nagu Filmis",
       "url": "https://open.spotify.com/track/3TrU01Yjs8ViuIkPh8eSpu"
@@ -52658,7 +52676,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52676,7 +52694,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"

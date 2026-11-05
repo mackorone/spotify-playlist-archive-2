@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, JUST LIZZY, DIE DIE BE and more",
+  "description": "With NUDNIK, post-punk'er, Rue Oberkampf and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 190236,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 180618,
       "name": "After me",
       "url": "https://open.spotify.com/track/1bNrXATqj2VezekYuWtQWH"
@@ -1462,6 +1462,24 @@
       "duration_ms": 188527,
       "name": "Artisan Lover",
       "url": "https://open.spotify.com/track/6XVfoIaDPoGj3s3quOe2g5"
+    },
+    {
+      "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/5uOA6ELV2MeeIljGUCgDAP"
+      },
+      "artists": [
+        {
+          "name": "Aurat",
+          "url": "https://open.spotify.com/artist/4ZiXmGjXlAVQNvqXq5VXx0"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243498,
+      "name": "arzu",
+      "url": "https://open.spotify.com/track/4Rmu4WMViki8Qgdy9wLJm3"
     },
     {
       "album": {
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/1Rm4dNrtCihWV9WBuQ62Ww"
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 230590,
       "name": "Buy Now",
       "url": "https://open.spotify.com/track/5967VxIaJHSHZKRmaT0JGx"
@@ -6572,7 +6590,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 209508,
       "name": "easy",
       "url": "https://open.spotify.com/track/7cE4nII6k2ehC7PUetz5lR"
@@ -7084,7 +7102,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 236160,
       "name": "Energy Redirected",
       "url": "https://open.spotify.com/track/5fW5oX67ZcclTeIkPix0CK"
@@ -8670,7 +8688,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 216506,
       "name": "Gazing Back",
       "url": "https://open.spotify.com/track/0wLwXaiQfTdsbToiIU3kso"
@@ -9224,7 +9242,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 183500,
       "name": "Half the Glass",
       "url": "https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK"
@@ -10112,7 +10130,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 225841,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/3cDjQIa9lWPiEfrWhqPzzY"
@@ -11214,7 +11232,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -14758,7 +14776,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 277408,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/7M3sWPlXhf3w2hWtLeFSom"
@@ -14776,7 +14794,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 239496,
       "name": "My Pain",
       "url": "https://open.spotify.com/track/6rXmUDj5JyOIgcfzZoU9Lk"
@@ -14942,7 +14960,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "NDRI",
       "url": "https://open.spotify.com/track/6llrscdKto2TxEdIgzbgTD"
@@ -15178,7 +15196,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 220210,
       "name": "New connection",
       "url": "https://open.spotify.com/track/6NdOvAPRug2x8lOeffbboq"
@@ -16044,6 +16062,28 @@
       "duration_ms": 205533,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/5miy5FLNg15RAmgnNFpmJO"
+    },
+    {
+      "album": {
+        "name": "Overtime (Devours Remix)",
+        "url": "https://open.spotify.com/album/1f2f4zCk2UeDPyQta76J5s"
+      },
+      "artists": [
+        {
+          "name": "Jody Glenham",
+          "url": "https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW"
+        },
+        {
+          "name": "Devours",
+          "url": "https://open.spotify.com/artist/1naaQv78Dwzc6iwCNRUWTb"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233125,
+      "name": "Overtime - Devours Remix",
+      "url": "https://open.spotify.com/track/4f2O4msjNNBweviK7U9vNZ"
     },
     {
       "album": {
@@ -17084,7 +17124,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -17719,6 +17759,24 @@
     },
     {
       "album": {
+        "name": "Running Up That Hill (A Deal With God)",
+        "url": "https://open.spotify.com/album/3zJ75GuOR4oFGosqPZ65XB"
+      },
+      "artists": [
+        {
+          "name": "La Femme Pendu",
+          "url": "https://open.spotify.com/artist/4bQRWieAl8z6asLWigR0za"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/0aYxlvUA9rMLe9SLc53wtE"
+    },
+    {
+      "album": {
         "name": "RUNNN",
         "url": "https://open.spotify.com/album/0l6Ur0Lod91AiVedjNpv4b"
       },
@@ -17730,7 +17788,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 351750,
       "name": "RUNNN",
       "url": "https://open.spotify.com/track/2SbmZURxLHugUvvKQ7DLrj"
@@ -18394,7 +18452,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Shadow Aspect",
       "url": "https://open.spotify.com/track/0j9FLQ7SQFZPaKbo44J17s"
@@ -18650,7 +18708,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 197824,
       "name": "Sharehouse Blues",
       "url": "https://open.spotify.com/track/4AG2vjhfDzudK7KKQNLgyM"
@@ -18838,6 +18896,24 @@
       "duration_ms": 240000,
       "name": "SHOULDER",
       "url": "https://open.spotify.com/track/0R50EFhaZ1IkQdkbhvuofA"
+    },
+    {
+      "album": {
+        "name": "shrew",
+        "url": "https://open.spotify.com/album/75BE7it6n5Gdut1dimMOrX"
+      },
+      "artists": [
+        {
+          "name": "fashn",
+          "url": "https://open.spotify.com/artist/49NJd25hqWs7jQfsMWSEoB"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324878,
+      "name": "shrew",
+      "url": "https://open.spotify.com/track/1cTr2KL6Jrr0LwxnSVkwXV"
     },
     {
       "album": {
@@ -19162,7 +19238,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 280142,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/4dfDCoMMgtBT7HnQvI8n7t"
@@ -19718,7 +19794,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 162063,
       "name": "Sou1/Spiri7",
       "url": "https://open.spotify.com/track/1QIG4U1pHWp4DU9bNFNoF8"
@@ -19906,7 +19982,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 272533,
       "name": "Spinal Combiner",
       "url": "https://open.spotify.com/track/6fsNj309A8Xc4STeB6xHzT"
@@ -19960,7 +20036,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 189026,
       "name": "Spring Rain",
       "url": "https://open.spotify.com/track/2BBZmepLa7ey6M87g8OihC"
@@ -19978,7 +20054,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 199906,
       "name": "St. Vitus' Dance",
       "url": "https://open.spotify.com/track/4m592SxaLeKxghz6vAlY8P"
@@ -20480,7 +20556,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 188808,
       "name": "Suburban Princess - Not Suitable for Radio Edit",
       "url": "https://open.spotify.com/track/1HaOig40QKrMbx1d6XQklA"
@@ -20860,6 +20936,24 @@
       "duration_ms": 208351,
       "name": "Swim Into Me",
       "url": "https://open.spotify.com/track/1Sh33oJF4jiNznWoS8eLeU"
+    },
+    {
+      "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/5yFSmOhnTaH8Vz27ejQOOi"
+      },
+      "artists": [
+        {
+          "name": "Purple Negative",
+          "url": "https://open.spotify.com/artist/1oftbuHv6Ryl7yDp2nk7F3"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260136,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/2UW3u6IWZiZwKTVr38gDeP"
     },
     {
       "album": {
@@ -23650,7 +23744,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -23996,7 +24090,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 354453,
       "name": "Utopian Daydreams",
       "url": "https://open.spotify.com/track/0CcNGKHh1jWQfY1iWCE3Jt"
@@ -25746,7 +25840,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"

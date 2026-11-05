@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,031 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,034 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Между нами](https://open.spotify.com/track/5DeaUQWxyUxRC9dRFWV1g1) | [Lizer](https://open.spotify.com/artist/0j6G5eiOcrSdlyqaYwtxwS) | [Не ангел](https://open.spotify.com/album/7HdowOL3fMfsZy3RBDyLXE) | 4:15 |
 | 50 | [Все хотят меня поцеловать](https://open.spotify.com/track/6yMFLAVzfpHZdN98V99Zsb) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/0JNzGHQhkEu2q3wk5knLRA) | 2:24 |
 
-Snapshot ID: `Mn1smAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mn7CyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

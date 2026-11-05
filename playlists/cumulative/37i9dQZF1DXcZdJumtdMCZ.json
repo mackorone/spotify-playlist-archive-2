@@ -365,6 +365,32 @@
     },
     {
       "album": {
+        "name": "Adra Parama (From \"Raawadi\")",
+        "url": "https://open.spotify.com/album/4vm8onlZlCrSnlLpBsIOmk"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Lyrikist Udhay",
+          "url": "https://open.spotify.com/artist/79XdliJOAZvIzn1uO79ahc"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185124,
+      "name": "Adra Parama (From \"Raawadi\")",
+      "url": "https://open.spotify.com/track/7nTcVu9gsXYS0ToLi7X9ih"
+    },
+    {
+      "album": {
         "name": "KO (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DZaLTgltNnc8rAGFymnDN"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1966,
+  "num_followers": 1970,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAACz0cWGEcYf12gIGS0LReRM",
+  "snapshot_id": "aufSgAAAAACDSQBRqjEKFc7y4sfGTB4l",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,78 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 212463,
+      "name": "New Wave Groove",
+      "url": "https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 249429,
+      "name": "Sum",
+      "url": "https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -348,97 +420,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 249429,
-      "name": "Sum",
-      "url": "https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 212463,
-      "name": "New Wave Groove",
-      "url": "https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "There You Go",
-      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
       "duration_ms": 240099,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 226262,
-      "name": "Got Em",
-      "url": "https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 226262,
+      "name": "Got Em",
+      "url": "https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 197216,
       "name": "Private Eye",
       "url": "https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 253462,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 253462,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project Sidiooo, Vol. 1",
         "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 119443,
       "name": "Tour Bus",
       "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208929,
-      "name": "Count It",
-      "url": "https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 224027,
       "name": "DREAMZ COME TRUE",
       "url": "https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208929,
+      "name": "Count It",
+      "url": "https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz"
     },
     {
       "added_at": null,

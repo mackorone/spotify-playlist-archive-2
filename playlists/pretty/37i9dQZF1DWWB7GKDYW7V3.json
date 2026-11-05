@@ -1887,26 +1887,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "ENERGY (Deluxe)",
-        "url": "https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Eko Roosevelt",
-          "url": "https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh"
-        }
-      ],
-      "duration_ms": 329280,
-      "name": "Tondo",
-      "url": "https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "In Search Of...",
         "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 209760,
       "name": "Lapdance",
       "url": "https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "ENERGY (Deluxe)",
+        "url": "https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eko Roosevelt",
+          "url": "https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh"
+        }
+      ],
+      "duration_ms": 329280,
+      "name": "Tondo",
+      "url": "https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j"
     },
     {
       "added_at": "2026-05-12 09:00:32",

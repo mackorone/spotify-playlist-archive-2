@@ -1,12 +1,12 @@
 {
   "description": "This is Sam Fender. The essential tracks, all in one playlist.",
-  "num_followers": 255773,
+  "num_followers": 255863,
   "original_name": "This Is Sam Fender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAACK/d0pwQ8/dasjG6Q69OEC",
+  "snapshot_id": "aufSgAAAAADc2Skp4t7h4SLLyyK8EGm7",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold Out",
-        "url": "https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 163627,
-      "name": "Hold Out",
-      "url": "https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friday Fighting",
         "url": "https://open.spotify.com/album/4fjvLL6wVDF81R0mY53TTH"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 190258,
       "name": "Friday Fighting",
       "url": "https://open.spotify.com/track/7MRJJbjlgJF6n9QHbp6IA9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold Out",
+        "url": "https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 163627,
+      "name": "Hold Out",
+      "url": "https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4"
     },
     {
       "added_at": null,

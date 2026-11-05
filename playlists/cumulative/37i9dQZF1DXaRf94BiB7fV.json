@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Apartment Upstairs",
+  "description": "The best new music by independent artists and labels in India. Cover - Arushi Bhargava",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "The Other Girl",
+        "url": "https://open.spotify.com/album/2uxrVQZ5ZZlnpx5C9mP6Bo"
+      },
+      "artists": [
+        {
+          "name": "Shriya Rao",
+          "url": "https://open.spotify.com/artist/4Atrv2KksKgh8LbmH71faj"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229446,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/5eTzoSxOH2YxS5m3tneSYo"
+    },
+    {
+      "album": {
         "name": "Agarbatti",
         "url": "https://open.spotify.com/album/4oqpywYzwgGO00TxaxkAgR"
       },
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 166153,
       "name": "Aisha",
       "url": "https://open.spotify.com/track/39jqp7KzUjoreAEaX8pzf6"
@@ -4294,6 +4312,28 @@
       "duration_ms": 154396,
       "name": "Bekhabar Zindagi",
       "url": "https://open.spotify.com/track/2eHfJ7tAqFAiTMZnnOnYhT"
+    },
+    {
+      "album": {
+        "name": "believe me",
+        "url": "https://open.spotify.com/album/4Isy2lYWWRNDTnGO4AfioJ"
+      },
+      "artists": [
+        {
+          "name": "Danish Sood",
+          "url": "https://open.spotify.com/artist/5HH9WTgUzO8ZIiqrxPiwiv"
+        },
+        {
+          "name": "Pranay Parti",
+          "url": "https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "believe me",
+      "url": "https://open.spotify.com/track/5CvYQU2sRlsLhO6D7mOMb9"
     },
     {
       "album": {
@@ -11178,7 +11218,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 309333,
       "name": "Gehna",
       "url": "https://open.spotify.com/track/0BdR0WtdfmwyS5LnNoJ5wf"
@@ -26296,7 +26336,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 213934,
       "name": "Oceans Apart",
       "url": "https://open.spotify.com/track/7sOdcqQNNykUySlX3q9QrX"
@@ -26964,6 +27004,32 @@
       "duration_ms": 294428,
       "name": "Panaah",
       "url": "https://open.spotify.com/track/494HaAQ2CQ1fTdGi8snJsN"
+    },
+    {
+      "album": {
+        "name": "Panchhi",
+        "url": "https://open.spotify.com/album/2POo1ibqFODAiyX8vCa6U3"
+      },
+      "artists": [
+        {
+          "name": "Arushi Bhargava",
+          "url": "https://open.spotify.com/artist/1ZLEyi8wBNl5rRMjGzvhbu"
+        },
+        {
+          "name": "Bhau",
+          "url": "https://open.spotify.com/artist/74lKy2401dGEdFaTudLL7q"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209354,
+      "name": "Panchhi",
+      "url": "https://open.spotify.com/track/3I79GzHSMMhsOW8MfCKxco"
     },
     {
       "album": {
@@ -27960,7 +28026,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 205714,
       "name": "Phir Se Milenge",
       "url": "https://open.spotify.com/track/77D0gduGbVpmLLeqZpXEP1"
@@ -30722,7 +30788,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 174545,
       "name": "SAAWAN - A Thumri Fusion",
       "url": "https://open.spotify.com/track/7gv2EKHOhFGcljndxw9o0S"
@@ -31922,6 +31988,28 @@
       "duration_ms": 172235,
       "name": "Sawariya",
       "url": "https://open.spotify.com/track/2iujd6n2PNsKSmIMJ9qWlu"
+    },
+    {
+      "album": {
+        "name": "Sawariya",
+        "url": "https://open.spotify.com/album/5PYhW9zUAtEhZuM7DLYRNB"
+      },
+      "artists": [
+        {
+          "name": "Upkar Thakur",
+          "url": "https://open.spotify.com/artist/0l5icZuvZegstUrB8rWevf"
+        },
+        {
+          "name": "DR\u00c6DEX",
+          "url": "https://open.spotify.com/artist/084SSUO6WXjg0yEy5eGCsd"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224397,
+      "name": "Sawariya",
+      "url": "https://open.spotify.com/track/18nm91vSpnaqF5zrueyhgw"
     },
     {
       "album": {
@@ -37842,6 +37930,32 @@
       "duration_ms": 219404,
       "name": "Uljhan",
       "url": "https://open.spotify.com/track/6kEsAq9CqM2Y6jVfyMxZUJ"
+    },
+    {
+      "album": {
+        "name": "Umad Ghan",
+        "url": "https://open.spotify.com/album/4hzdk7O3h51KZ2WSi41u5W"
+      },
+      "artists": [
+        {
+          "name": "Kaustubh More",
+          "url": "https://open.spotify.com/artist/6ubQadke7zX8Es9DrB4MBA"
+        },
+        {
+          "name": "Kinjal Chatterjee",
+          "url": "https://open.spotify.com/artist/6NXTDlHdilNA2CtajWTQFa"
+        },
+        {
+          "name": "Chakraborty Samrat",
+          "url": "https://open.spotify.com/artist/2dVGeOAYqrlUH0fvSaUzfM"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269538,
+      "name": "Umad Ghan",
+      "url": "https://open.spotify.com/track/0ZpPjNeb3gYxjw5fV7hpsg"
     },
     {
       "album": {

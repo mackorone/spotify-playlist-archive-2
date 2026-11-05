@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,185 songs - 6 day 23 hr 20 min
+3,189 songs - 6 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [all the time](https://open.spotify.com/track/6CEBq7LrrGPEpYtGK9e01K) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [all the time](https://open.spotify.com/album/0mVmH0a6zFiJWcVjEFRhQ2) | 3:17 | 2026-08-10 | 2026-09-11 |
 | [All The Time](https://open.spotify.com/track/7E2MmQgEzRorBQZYx853RD) | [Tathan](https://open.spotify.com/artist/02MtYbPPmiILqyRJ8ftJfV) | [All The Time](https://open.spotify.com/album/5kEJxEoZytKnaoQpr76M73) | 2:34 | 2026-03-10 | 2026-04-11 |
 | [All Too Well](https://open.spotify.com/track/5fvzUk3UzbAsnYxDujUF8F) | [EndlessSerenity](https://open.spotify.com/artist/59FYeOu4EsuHDpiMseFxoa) | [All Too Well](https://open.spotify.com/album/3uFwGS39GymneOLnJS5alc) | 3:22 | 2026-06-16 | 2026-07-17 |
+| [All Villains Die Ⅱ](https://open.spotify.com/track/5isfjM7qxX9WLr2kTdgFZq) | [BukhansanRheejunghoon](https://open.spotify.com/artist/6Ghdu1hWgDLve0byl0lChj) | [All Villains Die](https://open.spotify.com/album/0i0dOIRjEkmGu9RL9MtmJu) | 3:29 | 2026-11-04 |  |
 | [All Your Love](https://open.spotify.com/track/5gL8PTkvYoUaPSQ5PKljP6) | [Radi](https://open.spotify.com/artist/3FYt7Gt6Npd3JdlwRt4JfV) | [All Your Love](https://open.spotify.com/album/1NHrglyoy3FvgaXbyvd6By) | 3:29 | 2026-01-27 | 2026-02-28 |
 | [Almost Again](https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK) | [Luné](https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL) | [Pink Girls](https://open.spotify.com/album/4K17dtEO3JcHkBEFQ5Kv42) | 2:48 | 2026-03-18 | 2026-04-19 |
 | [Almost Said No](https://open.spotify.com/track/464P9E0WxWe6faecttigpl) | [Estellia](https://open.spotify.com/artist/2zOmHPJ2Z05NEEM6J9H0b8) | [Almost Said No](https://open.spotify.com/album/2JPMv8cvyfslAdoLSlpGSu) | 2:59 | 2026-05-11 | 2026-06-12 |
@@ -506,6 +507,7 @@
 | [Clown Demo](https://open.spotify.com/track/7zWpz5ieaqwHonnz2otbqb) | [Adrian Quickus](https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf) | [Good Boy Bad Days](https://open.spotify.com/album/3s3HVlOwgiMEV9Xkayf0L8) | 1:46 | 2026-07-02 | 2026-07-22 |
 | [Club Vibes](https://open.spotify.com/track/2OWX1eiKWgWpkQgrUqGiMk) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [BEAT TAPE VOL\. 3](https://open.spotify.com/album/1SQdP7EQDxoELOzaH3fIoX) | 1:29 | 2026-04-30 | 2026-06-01 |
 | [Coastline](https://open.spotify.com/track/2WT817D2NqSGKLwRaBvXRf) | [Kai Mayu](https://open.spotify.com/artist/0M4cZ1bJN6CpeIs6hGuPTy) | [Coastline](https://open.spotify.com/album/78TxdPSPuLBgrv3j9iQiQ4) | 3:28 | 2026-05-22 | 2026-06-23 |
+| [COAT ON](https://open.spotify.com/track/3b4YigyCiFQvX1ObKQW7dv) | [Guldager Studio](https://open.spotify.com/artist/7j4cjD4XK6dinZwRzmbfGc) | [COAT ON](https://open.spotify.com/album/20tQaMHnadBL33hDxby0Lk) | 2:51 | 2026-11-04 |  |
 | [Cocaine](https://open.spotify.com/track/6ZvILY8vegOuZmzXN9XVyZ) | [OXSOLATE](https://open.spotify.com/artist/05cFqIG5wdH4ixqazlLTlM) | [If We Can Make It To The Moon](https://open.spotify.com/album/7nr9V5xqkN2BcD3Dh3xQlh) | 3:23 | 2026-05-19 | 2026-06-20 |
 | [Coffe First](https://open.spotify.com/track/2xVEsSpLkXS9ExJFOYfxFI) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Coffe First](https://open.spotify.com/album/429UuGShlSuyAiQvHkQGT3) | 3:11 | 2026-10-24 |  |
 | [Coffee](https://open.spotify.com/track/7Fnu79boutD0U0HWW0B2yT) | [RAEON](https://open.spotify.com/artist/2leSZ7pr55p0KscwVFhFb4) | [The Odyssey](https://open.spotify.com/album/5tNbGMQfRjnAMNJyVT2skP) | 2:40 | 2026-03-02 | 2026-04-03 |
@@ -1055,6 +1057,7 @@
 | [God First](https://open.spotify.com/track/7qLjzg1gzTq0UoXhRTzvB1) | [Secret Sermon](https://open.spotify.com/artist/5RONkuv8N68qyPJCE49QTZ) | [Saved](https://open.spotify.com/album/4JGZ2FZq90kHidYqdUvX3o) | 3:14 | 2026-01-16 | 2026-02-17 |
 | [GOD is Love](https://open.spotify.com/track/0yrgOJXmnjHtWNfwgZvVHD) | [Riptide Hollywood](https://open.spotify.com/artist/2I1NVc1NLbxXT69Ous3lM8) | [GOD is Love](https://open.spotify.com/album/3hSYLdT10ypIdD6QFSE18R) | 3:11 | 2026-08-24 | 2026-09-25 |
 | [God Is The Light](https://open.spotify.com/track/68Dkjlp9HM4RQel7MC9nnK) | [Art Papan Hope](https://open.spotify.com/artist/1nVTbgFyQ1Y77CrX1D6jzf) | [God Is The Light](https://open.spotify.com/album/6FtEyqlifx3pyLZ1PS3Az4) | 4:55 | 2026-08-14 | 2026-09-15 |
+| [God Saved Me](https://open.spotify.com/track/198AwPNeu6NAau9RqQ3eKb) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [God Saved Me](https://open.spotify.com/album/7IhGA4GqtWjZKDHr6OHOR6) | 4:21 | 2026-11-04 |  |
 | [God Won't Take Me Slow](https://open.spotify.com/track/1yDazpky5cVLrvbEd7tIq4) | [Asphalt Socialites](https://open.spotify.com/artist/178fSbCZZY16FMch6OjqmS) | [God Won't Take Me Slow](https://open.spotify.com/album/3IuEBrTIrF2gEiJPZaGeqe) | 3:09 | 2026-01-22 | 2026-02-24 |
 | [GOD'S CHILD](https://open.spotify.com/track/4pq0igOKeTD0MunPuxQcHR) | [Cristian Lin](https://open.spotify.com/artist/2rse6TXemx1r7yWiop21L8) | [GOD'S CHILD](https://open.spotify.com/album/4yPoozhvZDJl49q1D8g2SO) | 3:20 | 2025-11-24 | 2025-12-25 |
 | [Going to Take You Higher](https://open.spotify.com/track/0jfVoa1bv14eIFuh4oTQ1c) | [Calypso31](https://open.spotify.com/artist/3hVlyEHOGaORtOsTQZd4ET) | [Esoteric](https://open.spotify.com/album/3DbLkDLZK7Vy2jW1ArKLy2) | 3:40 | 2025-12-04 | 2026-01-05 |
@@ -2636,6 +2639,7 @@
 | [terms and conditions](https://open.spotify.com/track/5bc9sRuSY6vv21rIilwTBF) | [cooper mae](https://open.spotify.com/artist/09WvwzsALKs7YlPyWBlwGX) | [terms and conditions](https://open.spotify.com/album/4MsfKtYciNPZti5BXWNdPs) | 2:30 | 2026-05-29 | 2026-07-01 |
 | [Terra Dea](https://open.spotify.com/track/5oQdasFqTo6UqzcGTIhfTC) | [Keriah](https://open.spotify.com/artist/4bZ6zPZqyysVBP5lRQfgXy), [Fe Malefiz](https://open.spotify.com/artist/2xkvTt1eyxzTNDWRao0Dcd) | [Terra Dea](https://open.spotify.com/album/2Eq5McAq1Qxz0845QdCRJ7) | 3:33 | 2026-04-24 | 2026-05-25 |
 | [that kinda girl](https://open.spotify.com/track/0bjWRP9SAOrUftF5nkBZKV) | [valentié](https://open.spotify.com/artist/1smtSrorIh5e6oODXmkbv5), [Gety](https://open.spotify.com/artist/113KLXg1S1nSl6hIjurBRP) | [that kinda girl](https://open.spotify.com/album/4Ih2lmOU71e6U0PPmsmk3G) | 2:17 | 2026-01-04 | 2026-02-05 |
+| [That Vision](https://open.spotify.com/track/0kDnSdIuDJsiU2mrUPLdiz) | [Manjoti](https://open.spotify.com/artist/0uOMSSaWksvmu2RSnRMwtf) | [That Vision](https://open.spotify.com/album/4L87cFUXn6mIBrGoO4Hhrj) | 2:58 | 2026-11-04 |  |
 | [The Ambient Rhythm](https://open.spotify.com/track/2AA5NVq8GYQtzgQ6gR8D0S) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [Poetry Is In The Motion](https://open.spotify.com/album/4HIVge0yIMjPKf0XZ9KXBR) | 1:22 | 2026-08-07 | 2026-09-09 |
 | [The Angels and Flutes](https://open.spotify.com/track/5hmAJzeiCkq718PYr14Zmy) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [The Angels and Flutes](https://open.spotify.com/album/4GepKdmM76MiexKL2PPrbS) | 4:24 | 2026-04-03 |  |
 | [The Apocalypse](https://open.spotify.com/track/6iJzuKdprEFq2kmofPkJqY) | [MB1496](https://open.spotify.com/artist/6uXV2A8nGRSbJTVHF8qeEN) | [Not The End?](https://open.spotify.com/album/05Klqv95GuBa8jKESQYY4t) | 3:06 | 2025-12-18 | 2026-01-24 |

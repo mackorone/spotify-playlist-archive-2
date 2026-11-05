@@ -2,9 +2,9 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Maya Perest
+> Geleceğin seslerini dinle! Kapak: Mert Çodur
 
-119 songs - 5 hr 47 min
+120 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,13 +82,14 @@
 | [Nereye](https://open.spotify.com/track/1U4iTJD3CSeC9wyXre7eVg) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Nereye](https://open.spotify.com/album/6Lu5nYsp3ze0zBixZRKWbf) | 3:19 | 2024-10-23 | 2025-03-21 |
 | [Nereye Kadar](https://open.spotify.com/track/0u3u0mGeWYU0h8tWin4ZCa) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Nereye Kadar](https://open.spotify.com/album/5PYBFjQAwPNuvrsyBKNyrT) | 2:55 | 2024-06-20 | 2024-10-24 |
 | [olsaydın yanımda](https://open.spotify.com/track/3WHU6ASNzybwyQvFtj7Azp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [olsaydın yanımda](https://open.spotify.com/album/2H4o5OAvY21uM4jsxk1UOL) | 2:11 | 2024-10-23 |  |
+| [Püsküllü Bela](https://open.spotify.com/track/3O7hp7dYxhaKlfkNHsZp4u) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Püsküllü Bela](https://open.spotify.com/album/7JwuqOzh3IHAkd1bhfxPw8) | 3:09 | 2026-11-04 |  |
 | [Queen](https://open.spotify.com/track/3v3KYv6tGttYAwLpVKfZ5f) | [Nihan Çelik](https://open.spotify.com/artist/2sJhBSO8uHc9oGynn8BkyW) | [Queen](https://open.spotify.com/album/1b0EJhpQg6n4JRS1basYCG) | 2:00 | 2024-06-20 | 2024-10-24 |
 | [Sana](https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Sana](https://open.spotify.com/album/2zdv3fWQ8jcd2Jfwd0E5px) | 2:42 | 2025-08-29 |  |
 | [Sandım Ki](https://open.spotify.com/track/43UixOA06v0QNlb9Q0YWBX) | [Sena Gül](https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq) | [Sandım Ki](https://open.spotify.com/album/24eHoKCFb3QWoi6wQlbIX1) | 4:06 | 2024-06-20 |  |
 | [Sandım Ki](https://open.spotify.com/track/4Y1k9vSXq5W5BXKX8dF4O8) | [Sena Gül](https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq) | [Sandım Ki](https://open.spotify.com/album/7kboHpPbpKzWdMKHGmBSnZ) | 4:06 | 2026-05-01 | 2026-06-30 |
 | [Sen Bilirsin](https://open.spotify.com/track/3yAhJkby5L1G6yCoYi7HY4) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Sen Bilirsin](https://open.spotify.com/album/56tllXQ5KPMWyjnoqx5vW4) | 2:37 | 2024-06-20 | 2024-10-24 |
 | [Sen ve Ben](https://open.spotify.com/track/10TKNOLu0bNFmOSTOJw2fq) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Sen ve Ben](https://open.spotify.com/album/35XqaJeYU2F3dVg2GgP04e) | 2:21 | 2024-10-23 | 2024-11-07 |
-| [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 |  |
+| [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 | 2026-11-05 |
 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-29 | 2024-10-24 |
 | [Son](https://open.spotify.com/track/2v79MkUBoTJUm7etERkbPh) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Son](https://open.spotify.com/album/6c6bPHFCEA3wc4nkJ8Lke6) | 2:35 | 2024-10-23 | 2025-03-21 |
 | [Son Perde](https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Son Perde](https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA) | 3:23 | 2024-06-20 |  |

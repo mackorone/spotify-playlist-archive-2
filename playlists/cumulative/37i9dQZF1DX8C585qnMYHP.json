@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by independent Experimental artists. Touching Ice on cover. Artwork by Thami Nabil.",
+  "description": "The best new music by independent Experimental artists. RIP Magic on cover. Artwork by Thami Nabil.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/1tMPaXMpEEWTYeDEiAlcVv"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174488,
+      "name": "11:30",
+      "url": "https://open.spotify.com/track/34BGOqVMDu5mJUMZKYmdTk"
     },
     {
       "album": {
@@ -612,6 +630,24 @@
       "duration_ms": 34101,
       "name": "4th Dimension Signal N\u00b03",
       "url": "https://open.spotify.com/track/3zZHsCvoP0P6u7fvGXVmIJ"
+    },
+    {
+      "album": {
+        "name": "Southern Ontario Gothic",
+        "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
+      },
+      "artists": [
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "5 Point Palm Exploding Heart Technique",
+      "url": "https://open.spotify.com/track/7MQmAlT1CD20zFoCZCUmLK"
     },
     {
       "album": {
@@ -5586,7 +5622,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 307500,
       "name": "BODYSCANNER",
       "url": "https://open.spotify.com/track/0R9qBvtWzq87FFBq5CetPN"
@@ -8316,6 +8352,24 @@
       "duration_ms": 146316,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/2DE5YgIfXiyusl1Pz6TAQd"
+    },
+    {
+      "album": {
+        "name": "Continuation / One Trip",
+        "url": "https://open.spotify.com/album/0mKVOorU7BTZPz52RRBeY2"
+      },
+      "artists": [
+        {
+          "name": "Factory Floor",
+          "url": "https://open.spotify.com/artist/6xgNzJAeEB8BTOSzcTO1EI"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334542,
+      "name": "Continuation",
+      "url": "https://open.spotify.com/track/5LCLGKFHEICGn1Fd9n8Ga5"
     },
     {
       "album": {
@@ -12162,7 +12216,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 187500,
       "name": "Europeanized Atrophy (Debris)",
       "url": "https://open.spotify.com/track/7MysKpqCkn4A1iLEgBQCnW"
@@ -12314,6 +12368,24 @@
       "duration_ms": 96436,
       "name": "Every Runner",
       "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
+    },
+    {
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/6NM9k6n0DBIxOTkCfKGHRt"
+      },
+      "artists": [
+        {
+          "name": "Black Flute Brigade",
+          "url": "https://open.spotify.com/artist/6jivOvLRu8DlIJonkpuyfi"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188646,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/7cghNY4cA1nKMMb0kOd0Qg"
     },
     {
       "album": {
@@ -16166,7 +16238,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 144775,
       "name": "Harlow",
       "url": "https://open.spotify.com/track/67ucoboGHxv4ENoqSAOmPE"
@@ -19986,7 +20058,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 247629,
       "name": "Juaduddanya",
       "url": "https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK"
@@ -20436,6 +20508,28 @@
       "duration_ms": 185003,
       "name": "Kemet song",
       "url": "https://open.spotify.com/track/1ufLRhpIuXkWybrPcwz63S"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0627\u0636",
+        "url": "https://open.spotify.com/album/5Jiiovfg0vJygcjwJs6ywv"
+      },
+      "artists": [
+        {
+          "name": "Temir Alcy",
+          "url": "https://open.spotify.com/artist/1qsidM8bYEPxjMV7aJxK0L"
+        },
+        {
+          "name": "Basma",
+          "url": "https://open.spotify.com/artist/1h4ul6lN374elvpSQljLAC"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201197,
+      "name": "Khti Sarah",
+      "url": "https://open.spotify.com/track/1WKstPLbIoJTlb4XEtE3xT"
     },
     {
       "album": {
@@ -23864,6 +23958,28 @@
       "duration_ms": 153592,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/6WC8XDBAqxhf1CIB3jpr8z"
+    },
+    {
+      "album": {
+        "name": "Late Loop",
+        "url": "https://open.spotify.com/album/5ma4Jeo1KwJXQpBOKkq2PF"
+      },
+      "artists": [
+        {
+          "name": "Andy Stott",
+          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
+        },
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293735,
+      "name": "Mirror signal",
+      "url": "https://open.spotify.com/track/3eyBCLt3X0ysU6PvfTtShm"
     },
     {
       "album": {
@@ -30916,7 +31032,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 309005,
       "name": "Rolling Face",
       "url": "https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp"
@@ -31962,7 +32078,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 315000,
       "name": "Seastar",
       "url": "https://open.spotify.com/track/0Hy6fOnmqa1w6Oi4sPTRvw"
@@ -35680,10 +35796,28 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 128372,
       "name": "swim",
       "url": "https://open.spotify.com/track/2akc1GIdKDKRGqErr10LLe"
+    },
+    {
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/4z8yhlcw6JOGNBWXkOIA7B"
+      },
+      "artists": [
+        {
+          "name": "thredd",
+          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177068,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/4G31I9jhPh5STbtqNKaA7k"
     },
     {
       "album": {
@@ -37980,7 +38114,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 137468,
       "name": "there",
       "url": "https://open.spotify.com/track/1kbwqllGBF4FgfqEGQ7Xpz"
@@ -38856,7 +38990,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 156440,
       "name": "TOURNIQUET",
       "url": "https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz"
@@ -40195,6 +40329,24 @@
     },
     {
       "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/1AqbbnxsnAgrNYYWF3zv0y"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hnatek",
+          "url": "https://open.spotify.com/artist/7iKMlMMzSb9jVQDwygYlOT"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/6DOjBiSpsvE8qgEb2nV8Wz"
+    },
+    {
+      "album": {
         "name": "The Alias Sessions",
         "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
       },
@@ -40778,6 +40930,28 @@
       "duration_ms": 205655,
       "name": "Var. 4: Synthesizer - Live at Maison de la Radio et de la Musique, Paris",
       "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
+    },
+    {
+      "album": {
+        "name": "Dja Dja",
+        "url": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        },
+        {
+          "name": "Adri GOOR",
+          "url": "https://open.spotify.com/artist/3xztk9tXGPxGYwhnnb93sw"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218699,
+      "name": "Vas volant",
+      "url": "https://open.spotify.com/track/21Kitw7DXM58ZcinFbTqpq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,458 likes - 261 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,468 likes - 261 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

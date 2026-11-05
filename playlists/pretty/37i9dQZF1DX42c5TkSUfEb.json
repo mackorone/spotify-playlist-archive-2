@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 1069219,
+  "num_followers": 1069130,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233552,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233552,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Sing",
-        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 371580,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 189519,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 371580,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Only Gets Better",
-        "url": "https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 234582,
-      "name": "Only Gets Better",
-      "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Only Gets Better",
+        "url": "https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 234582,
+      "name": "Only Gets Better",
+      "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "paradox",
+        "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 309637,
+      "name": "paradox",
+      "url": "https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "valley of my prime",
         "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 234454,
       "name": "Gordon in the Willows",
       "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "paradox",
-        "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 309637,
-      "name": "paradox",
-      "url": "https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "St\u00f6rm",
+        "url": "https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8"
+      },
+      "artists": [
+        {
+          "name": "Black Lilys",
+          "url": "https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "St\u00f6rm",
+      "url": "https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "My Name",
         "url": "https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 307333,
       "name": "Helsinki",
       "url": "https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "St\u00f6rm",
-        "url": "https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8"
-      },
-      "artists": [
-        {
-          "name": "Black Lilys",
-          "url": "https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "St\u00f6rm",
-      "url": "https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "City Walls",
-        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "City Walls",
-      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/7d05HveiLG4742vBLElcSE"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 186869,
       "name": "If Only",
       "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "City Walls",
+        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
     },
     {
       "added_at": "2026-10-22 22:01:50",

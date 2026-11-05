@@ -780,8 +780,8 @@
           "url": "https://open.spotify.com/artist/3nzFSiXqzHReuI3sjDaJ4l"
         },
         {
-          "name": "The Choral Arts Society of Washington Orchestra",
-          "url": "https://open.spotify.com/artist/10jGLGvozxXSVp5yHrHr5e"
+          "name": "Washington Choral Arts Society Orchestra",
+          "url": "https://open.spotify.com/artist/3wqyLx00bjNXFtcrgDA3nV"
         },
         {
           "name": "Norman Scribner",
@@ -2036,32 +2036,6 @@
     {
       "album": {
         "name": "Star Over Bethlehem: Choral Jewels for Christmas",
-        "url": "https://open.spotify.com/album/7FTJFh9mSOrBn5i8SsmqLm"
-      },
-      "artists": [
-        {
-          "name": "The Choral Arts Society Of Washington",
-          "url": "https://open.spotify.com/artist/3nzFSiXqzHReuI3sjDaJ4l"
-        },
-        {
-          "name": "The Choral Arts Society of Washington Orchestra",
-          "url": "https://open.spotify.com/artist/10jGLGvozxXSVp5yHrHr5e"
-        },
-        {
-          "name": "Norman Scribner",
-          "url": "https://open.spotify.com/artist/3Q9D8pWtObSOuuGzhpJY10"
-        }
-      ],
-      "date_added": "2020-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231733,
-      "name": "Here We Come a-Wassailing (Arr. J. Rutter)",
-      "url": "https://open.spotify.com/track/1HE31bK2mDWeuYl2HfiOT0"
-    },
-    {
-      "album": {
-        "name": "Star Over Bethlehem: Choral Jewels for Christmas",
         "url": "https://open.spotify.com/album/6Jb9ELSqMBjepVEm0Sqn0I"
       },
       "artists": [
@@ -2084,6 +2058,32 @@
       "duration_ms": 231733,
       "name": "Here We Come a-Wassailing (Arr. J. Rutter)",
       "url": "https://open.spotify.com/track/7BxvLyq7Tb0QRZ7psPt4rp"
+    },
+    {
+      "album": {
+        "name": "Star Over Bethlehem: Choral Jewels for Christmas",
+        "url": "https://open.spotify.com/album/7FTJFh9mSOrBn5i8SsmqLm"
+      },
+      "artists": [
+        {
+          "name": "The Choral Arts Society Of Washington",
+          "url": "https://open.spotify.com/artist/3nzFSiXqzHReuI3sjDaJ4l"
+        },
+        {
+          "name": "Washington Choral Arts Society Orchestra",
+          "url": "https://open.spotify.com/artist/3wqyLx00bjNXFtcrgDA3nV"
+        },
+        {
+          "name": "Norman Scribner",
+          "url": "https://open.spotify.com/artist/3Q9D8pWtObSOuuGzhpJY10"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "Here We Come a-Wassailing (Arr. J. Rutter)",
+      "url": "https://open.spotify.com/track/1HE31bK2mDWeuYl2HfiOT0"
     },
     {
       "album": {

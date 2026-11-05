@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-538 songs - 1 day 7 hr 11 min
+541 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Punch to the Face](https://open.spotify.com/track/1GskPjnCByUjvZSBW9YTlj) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [A Punch to the Face](https://open.spotify.com/album/1qgC0hvX8UQHX2HxE4Fqw2) | 2:37 | 2026-07-22 | 2026-09-19 |
 | [A Street](https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF) | [Forget Me Not](https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk) | [A Street](https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe) | 2:45 | 2026-04-18 | 2026-07-01 |
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
+| [Akimbo](https://open.spotify.com/track/6SnG8fNedJViw0U6fx5qRg) | [Donnie Ace](https://open.spotify.com/artist/2NzFb0RWC4MP4kfN7wdg6v) | [Akimbo](https://open.spotify.com/album/7LUxUe1g421Ja7tlTIOrda) | 2:46 | 2026-11-04 |  |
 | [Alaska](https://open.spotify.com/track/3WukgJpmcq8yXrzTF3KkQq) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Alaska](https://open.spotify.com/album/5kBzzVfbKOAgvgMKHoAT3S) | 3:16 | 2026-05-10 | 2026-07-24 |
 | [All Over Again](https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Black Mariah](https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh) | 2:53 | 2026-05-13 | 2026-07-24 |
 | [All You Fear Is All You Feel](https://open.spotify.com/track/435Md6PSpCoWnJuWGMYKQ2) | [Next Week's Washing](https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6) | [All You Fear Is All You Feel](https://open.spotify.com/album/7IgK5aia8usQ29Ttdu0QwG) | 2:34 | 2026-05-16 | 2026-07-24 |
@@ -310,6 +311,7 @@
 | [Make It Worse](https://open.spotify.com/track/53YJmmTjLfxBoII5Trch3G) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Make It Worse](https://open.spotify.com/album/7s2KtVx8mZdixUpo1Y2qbU) | 3:02 | 2026-04-24 | 2026-07-02 |
 | [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 | 2026-02-10 | 2026-03-29 |
 | [manananggal](https://open.spotify.com/track/3uFGmERCui21PcMDzzTsut) | [daitlwar](https://open.spotify.com/artist/3o0Wp5hA2shzyDccRoEVO0) | [manananggal](https://open.spotify.com/album/7BTAfy2PlOjc9UJW21MuA1) | 4:22 | 2026-07-01 | 2026-08-18 |
+| [Marasma](https://open.spotify.com/track/7CnaE1l3dfIPMam9dcXUN8) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Marasma](https://open.spotify.com/album/1ZFtstJ9coZI7JfePRCTlI) | 2:32 | 2026-11-04 |  |
 | [MASKARA](https://open.spotify.com/track/5o9Gq3MdlkkMYamhtnLigy) | [Se7enth Fret](https://open.spotify.com/artist/1RHTImcBpYt4lt58OJp938) | [MASKARA](https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [MAYDAY](https://open.spotify.com/track/5xWsnPctjnUuHJ1UwBiRor) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [MAYDAY](https://open.spotify.com/album/5h76yRMMzTY1LI64nPGoHV) | 3:45 | 2025-11-07 | 2026-01-17 |
 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 | 2025-12-11 | 2026-02-07 |
@@ -359,6 +361,7 @@
 | [Over The Hills](https://open.spotify.com/track/383cNRaP2hFzlgi0i6WeDd) | [My Music Dream](https://open.spotify.com/artist/1bRUw1X8QpKUoU41X6BXiY) | [Over The Hills](https://open.spotify.com/album/755YVlJM0u1Qmpw1BN59q4) | 4:17 | 2026-07-25 |  |
 | [Overgrown](https://open.spotify.com/track/31qc3h2TNN2a05S7qHJMTC) | [J'lord Wimsely](https://open.spotify.com/artist/5LJtTRJS9XNSz8uL72SxmG) | [Overgrown](https://open.spotify.com/album/469z8Krj2cRTarqtNtEgs0) | 3:47 | 2026-08-21 |  |
 | [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 | 2026-08-11 |  |
+| [Pathological](https://open.spotify.com/track/4DB1DRBSY4QQM3hpXEkb9V) | [K⚝YL⚝](https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8) | [Pathological](https://open.spotify.com/album/7ECaU37wnfC5WRrrd17FPN) | 3:25 | 2026-11-04 |  |
 | [Patriarchy’s Dead](https://open.spotify.com/track/01L6rxptIyVvYm6epPJ00m) | [Kate Couriel](https://open.spotify.com/artist/30i6UykrCFZQaAkolPjuU2) | [Patriarchy’s Dead](https://open.spotify.com/album/0CVAz8jYZE5KSVmprWNOeB) | 2:12 | 2026-04-15 | 2026-05-28 |
 | [Permeate](https://open.spotify.com/track/4azd1Y7g9cWYGumNTMZcFq) | [fifth forgotten](https://open.spotify.com/artist/4joGAdzSMqBIPbovcTaHUM) | [Permeate](https://open.spotify.com/album/2PrloaxRVjvxR9PoOPJtUp) | 2:19 | 2026-08-28 |  |
 | [Phone Addiction](https://open.spotify.com/track/20lqNTuwAQPf2IQMBi4KYa) | [The Nouveau](https://open.spotify.com/artist/1ltzwAbvKdW4KhvTHmEvf4) | [Phone Addiction](https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf) | 2:30 | 2025-11-13 | 2026-01-17 |

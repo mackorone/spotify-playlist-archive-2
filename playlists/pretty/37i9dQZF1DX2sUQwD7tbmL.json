@@ -1,6 +1,6 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2295612,
+  "num_followers": 2295566,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2026-03-06 04:59:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
-        "name": "Good Kid 3",
-        "url": "https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh"
-      },
-      "artists": [
-        {
-          "name": "Good Kid",
-          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
-        }
-      ],
-      "duration_ms": 173122,
-      "name": "Osmosis",
-      "url": "https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 208980,
       "name": "Temper Temper",
       "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
+        "name": "Good Kid 3",
+        "url": "https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 173122,
+      "name": "Osmosis",
+      "url": "https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y"
     },
     {
       "added_at": "2026-03-06 04:59:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
         "name": "Underdressed at the Symphony",
         "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 170701,
       "name": "He Loves Me Yeah!",
       "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2026-03-06 04:59:14",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
+        "name": "Superbloomer",
+        "url": "https://open.spotify.com/album/43M8szELX9et29YildxYbP"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 277175,
+      "name": "Superbloomer",
+      "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
         "name": "It\u2019s Not All That Bad",
         "url": "https://open.spotify.com/album/0y3tRiTDYzj5IuQb0Kk86x"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 257693,
       "name": "Hands Down",
       "url": "https://open.spotify.com/track/0dqJjKKxuKD5Dt3QH2n4CG"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Deleter",
-      "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
     },
     {
       "added_at": "2026-03-06 04:59:14",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
-        "name": "Superbloomer",
-        "url": "https://open.spotify.com/album/43M8szELX9et29YildxYbP"
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
       "artists": [
         {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 277175,
-      "name": "Superbloomer",
-      "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
+      "duration_ms": 234386,
+      "name": "Deleter",
+      "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
     },
     {
       "added_at": "2026-03-06 04:59:14",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
-        "name": "Let Yourself Free",
-        "url": "https://open.spotify.com/album/3EEUq4UWicsmDfWWkmImGE"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 136940,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2u4ugBC7qiil1W02UTXPJU"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
         "name": "Phonetics On and On",
         "url": "https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 185915,
       "name": "Switch Over",
       "url": "https://open.spotify.com/track/1SFVei3ZUf3EuJdvKqmGKv"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
+        "name": "Let Yourself Free",
+        "url": "https://open.spotify.com/album/3EEUq4UWicsmDfWWkmImGE"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 136940,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2u4ugBC7qiil1W02UTXPJU"
     },
     {
       "added_at": "2026-03-06 04:59:14",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2026-03-06 04:59:14",
       "album": {
+        "name": "The Pit (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 187731,
+      "name": "What's In My Head",
+      "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"
+    },
+    {
+      "added_at": "2026-03-06 04:59:14",
+      "album": {
         "name": "They Don't Know Your Name",
         "url": "https://open.spotify.com/album/1MOblqJ3ylSDJEAxP2kiGW"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 188101,
       "name": "They Don't Know Your Name",
       "url": "https://open.spotify.com/track/482uoS6QmO8B3ZOb7bUDDh"
-    },
-    {
-      "added_at": "2026-03-06 04:59:14",
-      "album": {
-        "name": "The Pit (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 187731,
-      "name": "What's In My Head",
-      "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"
     },
     {
       "added_at": "2026-03-06 04:59:14",

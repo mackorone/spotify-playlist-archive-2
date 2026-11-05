@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Let these songs be the background score to your love story.  Cover - Saiyaara",
+  "description": "Let these songs be the background score to your love story.  Cover - Kabir Singh",
   "name": "Bollywood Mush",
   "tracks": [
     {
@@ -908,6 +908,32 @@
       "duration_ms": 280909,
       "name": "Chand Mera Dil - Title Track",
       "url": "https://open.spotify.com/track/7GQB2CWQcahCLCCNQHKWXM"
+    },
+    {
+      "album": {
+        "name": "Udta Teer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5w8BWgvkabp4eWuP0YgR3A"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217764,
+      "name": "Chann (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/2oxJR1QaLRhLMDVZGhf2y2"
     },
     {
       "album": {
@@ -2958,11 +2984,15 @@
         {
           "name": "Vishal Mishra",
           "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
         }
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 234722,
       "name": "Kaise Hua",
       "url": "https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7"
@@ -4382,7 +4412,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 193355,
       "name": "Mere Sohneya",
       "url": "https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj"
@@ -5288,7 +5318,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 196395,
       "name": "Preet Re - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/5IWLDqsSnQgBjXGiryDtTk"

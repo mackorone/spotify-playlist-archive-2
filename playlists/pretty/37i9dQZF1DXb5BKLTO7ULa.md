@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Isabèl Usher, Armin van Buuren & Douwe Bob, Claude, MEAU, Gracie Abrams en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,432 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,408 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 88 | [It's been a while](https://open.spotify.com/track/7dd800UbQBswfao9oexqRC) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [It's been a while](https://open.spotify.com/album/6xgQpBNDbANBxtzpaLzOrs) | 3:01 |
 | 89 | [mononoke](https://open.spotify.com/track/53oxxT1yPpRlGiF6svD17o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [mononoke](https://open.spotify.com/album/3vAbOmWlcBq56XtkiRcLAm) | 3:59 |
 | 90 | [Spinnin \(feat\. 21 Savage\)](https://open.spotify.com/track/39nAnKr81v4pgYJe3c2AA3) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Spinnin \(feat\. 21 Savage\)](https://open.spotify.com/album/2NBf4aKmDkQZqrl7tlOEPm) | 3:44 |
-| 91 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 91 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 92 | [Wilde Rodeo](https://open.spotify.com/track/22PeNKVzgb9yZGN6T78H5r) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Wilde Rodeo](https://open.spotify.com/album/65Kd2XT0CXfZL6eY0DEtrj) | 2:42 |
 | 93 | [Leuke Dingen Doen \(feat\. Frank van Etten\)](https://open.spotify.com/track/6Rkcpb23SaT06PwMhXuyrB) | [Sjorleone](https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Leuke Dingen Doen \(feat\. Frank van Etten\)](https://open.spotify.com/album/04ZhUtqJ4zEiS7qHQph3o8) | 2:16 |
 | 94 | [Sel3a Money](https://open.spotify.com/track/30MxZg09HHybWP0VMuACr1) | [Iliass](https://open.spotify.com/artist/2odjh53kLQBRUy7hi97EZL) | [Sel3a Money](https://open.spotify.com/album/15OKfnir5TmKU9t4ZV8Lrw) | 2:25 |

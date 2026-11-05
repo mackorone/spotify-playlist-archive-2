@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring Akalex\. Curated with love by human Spotify editors.
 
-3,729 songs - 10 day 0 hr 7 min
+3,731 songs - 10 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Can You Feel The Heat](https://open.spotify.com/track/2q1DSNVu90P1ecl8cpaAN9) | [S3PPA](https://open.spotify.com/artist/0sIB3PokRCqqllNuzZ38NO) | [Can You Feel The Heat](https://open.spotify.com/album/6C1hJiiURrI2eMgdNtvhGP) | 6:13 | 2026-04-22 | 2026-05-28 |
 | [Can You Fix Your Heart?](https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Can You Fix Your Heart](https://open.spotify.com/album/2f1YeI2ufkpylmc6WmSqmJ) | 3:00 | 2025-07-18 | 2026-01-15 |
 | [Can You Move To The Beat](https://open.spotify.com/track/7rljiHdUyJWOx7bY57FMFn) | [RETNA](https://open.spotify.com/artist/4GlYRE9Z9Uuo22oMUlWRAz) | [Can You Move To The Beat](https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi) | 3:06 | 2022-10-19 | 2022-12-01 |
+| [Can You Take The Heat](https://open.spotify.com/track/4kbWRzXoQMGXtLgFaOC31D) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [Can You Take The Heat](https://open.spotify.com/album/1DxNqucFaHJfUzEUZTDAiX) | 2:57 | 2026-11-04 |  |
 | [Can't Be Stopped](https://open.spotify.com/track/1z7RJrdeNk3do0znCWNiBT) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Can't Be Stopped](https://open.spotify.com/album/7vMPCUvEzNeAWhJz0ryAf7) | 3:27 | 2023-06-21 | 2023-08-03 |
 | [Can't Cool With Em](https://open.spotify.com/track/4tVzD0cG2p0pq8Ls7GoVAq) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Grindin](https://open.spotify.com/album/0yJsKRcQPhuvkBg1THKhm0) | 4:25 | 2024-08-23 | 2024-09-26 |
 | [Can't Define](https://open.spotify.com/track/0QUUHlLuapMAwf9DiNZqTa) | [AUGUXT](https://open.spotify.com/artist/7FoldNOHdOH2SMciGMpuvw) | [Can't Define](https://open.spotify.com/album/6UTRkmS8rTltXfXZPziGmR) | 4:05 | 2026-10-07 |  |
@@ -1602,7 +1603,7 @@
 | [Hypnotic](https://open.spotify.com/track/1NAUnoSJv0bDHC8wyQ8J8Q) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Hypnotic](https://open.spotify.com/album/4Qp1yUWzjj0J9Lm6FxjxaI) | 4:45 | 2023-02-22 | 2023-03-16 |
 | [Hypnotic \- Extended](https://open.spotify.com/track/0u5xfCTJeBLNvAlLPhGvPV) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Bewithmeforever / Hypnotic](https://open.spotify.com/album/1mLQMPlzq0tPBZbZEeevWR) | 5:45 | 2023-04-05 | 2023-05-04 |
 | [hypnotize me \(MAC Hypnotizing Holiday\)](https://open.spotify.com/track/4RYcN3G71xtFR2XnUqKjWR) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd) | [hypnotize me \(MAC Hypnotizing Holiday\)](https://open.spotify.com/album/5UCF2hkqBluvTFxcR29OPq) | 1:37 | 2022-03-04 | 2022-04-14 |
-| [I](https://open.spotify.com/track/4kEtURKAUhEjV0RGI7BFoy) | [Tamara Wirth](https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI) | [Esoteric Reality EP](https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60) | 5:58 | 2026-10-02 |  |
+| [I](https://open.spotify.com/track/4kEtURKAUhEjV0RGI7BFoy) | [Tamara Wirth](https://open.spotify.com/artist/0Gvk0fAmhSNDBiLzbLHcWI) | [Esoteric Reality EP](https://open.spotify.com/album/3T1RZ0oe4hvSccrC7Qcg60) | 5:58 | 2026-10-02 | 2026-11-05 |
 | [I Ain't A Freak](https://open.spotify.com/track/0wzUOwnyjy838JD1GYOnT4) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [I Ain't A Freak](https://open.spotify.com/album/6LLmWZnxxeilK2ZCjyDhqf) | 3:24 | 2022-08-10 | 2022-10-06 |
 | [I AM DRUGS](https://open.spotify.com/track/1pUDoHG6GWmMtGCcBdlWED) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [I AM DRUGS](https://open.spotify.com/album/7f70nMbwk1rgT68P5Olcde) | 6:34 | 2023-02-02 | 2023-03-02 |
 | [I Am Free](https://open.spotify.com/track/6iHFanVnZvK8g9OJlbkkkD) | [CARTFISH](https://open.spotify.com/artist/3w1wNgMXNtM48xdYNCXWgC), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [CARTFISH](https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj) | 3:51 | 2025-05-02 | 2025-05-31 |
@@ -2158,6 +2159,7 @@
 | [Money](https://open.spotify.com/track/1ymOZisiTxceb5cdqhwUv7) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Money](https://open.spotify.com/album/08PddajEXceSX4N6qH1mhR) | 3:22 | 2024-04-03 | 2024-05-03 |
 | [Money Brings The](https://open.spotify.com/track/2xjrO4pi06lwDcwC5dInuO) | [Tyler Hill](https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr) | [Money Brings The](https://open.spotify.com/album/4EhSvnrJKHfnBsbiPJMUTU) | 7:11 | 2025-04-11 | 2025-05-22 |
 | [MONEY IN THE BANK](https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [MONEY IN THE BANK](https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a) | 2:12 | 2026-01-23 | 2026-05-23 |
+| [MONEY MONEY](https://open.spotify.com/track/2z7PONtFhcYR5e15TTQc0i) | [Matt's Experiment](https://open.spotify.com/artist/36y1S9iFmSVtDXwgAH60NR) | [MONEY MONEY](https://open.spotify.com/album/4RKx2Ecg81aZjJgMxGCJ2K) | 2:51 | 2026-11-04 |  |
 | [Monkeys](https://open.spotify.com/track/18atwa0TRUm873rlrvgY4Y) | [Gee Lane](https://open.spotify.com/artist/4r7DlvmonxB4JiqgJNm5eJ), [Mabreezee](https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac) | [Monkeys](https://open.spotify.com/album/7h9a3rwRZrAMqQ5jDT0iIU) | 3:47 | 2024-04-24 | 2024-06-29 |
 | [Mont Blanc](https://open.spotify.com/track/1jG2w4SGRqzC4wQKlN3D7q) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN) | [Mont Blanc](https://open.spotify.com/album/5vxKpurDpHTvadVYHBS6J8) | 4:35 | 2025-09-26 | 2025-11-15 |
 | [Monterosso](https://open.spotify.com/track/1Xeok0QUOg6WQmCnG9CtOe) | [Hans Göran](https://open.spotify.com/artist/6F7CMx98eH22djdP4iCkpf) | [Monterosso](https://open.spotify.com/album/1JNZYnqddCg4zYnwgYlSgk) | 3:39 | 2022-09-07 | 2022-09-29 |
@@ -3173,7 +3175,7 @@
 | [Temptress](https://open.spotify.com/track/2GNBtVWgzPHoIKSg5SJcdK) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Xoul Trap](https://open.spotify.com/album/5Um5poRe3QTntqiqCUQG5R) | 6:21 | 2023-05-17 | 2023-06-08 |
 | [Tender](https://open.spotify.com/track/256oQphx4dzjEGbSv47q5P) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Tender](https://open.spotify.com/album/3iNXth82Qc9glZX2626W0E) | 3:38 | 2022-08-24 | 2022-10-06 |
 | [tenk\(e\)i](https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [tenk\(e\)i](https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq) | 4:56 | 2026-01-15 | 2026-03-19 |
-| [Tension](https://open.spotify.com/track/6vnC8M6DJpEmaoKQ66W1M4) | [Fresh Stuff](https://open.spotify.com/artist/0gsTmR40FgSJbjB8Zmjlfw) | [Tension](https://open.spotify.com/album/0eYEgpjM4V0gnsPxSWVtro) | 2:41 | 2026-10-01 |  |
+| [Tension](https://open.spotify.com/track/6vnC8M6DJpEmaoKQ66W1M4) | [Fresh Stuff](https://open.spotify.com/artist/0gsTmR40FgSJbjB8Zmjlfw) | [Tension](https://open.spotify.com/album/0eYEgpjM4V0gnsPxSWVtro) | 2:41 | 2026-10-01 | 2026-11-05 |
 | [Tequila](https://open.spotify.com/track/3vfmApGTaEvTH1CzmPHL76) | [Nacho Scoppa](https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA) | [Tequila EP](https://open.spotify.com/album/5RNU24tfKhSVHHZwuP57eL) | 6:00 | 2025-02-12 | 2025-03-27 |
 | [Terrified](https://open.spotify.com/track/50Emba1ptzsajP7aS3TRfY) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Terrified](https://open.spotify.com/album/0tofZ5bIVEpKo1OIk6W846) | 3:12 | 2025-03-21 | 2025-05-03 |
 | [Terrified Of Love](https://open.spotify.com/track/27nrwUehIEZ3opRMH7TUls) | [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [Terrified Of Love](https://open.spotify.com/album/3rCXuB5QHc6EtsAl2H3g58) | 5:11 | 2026-06-11 | 2026-07-11 |

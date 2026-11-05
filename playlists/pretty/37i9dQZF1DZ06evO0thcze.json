@@ -1,41 +1,13 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58584,
+  "num_followers": 58593,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAADgiUyfw2c28GChGVvN5toj",
+  "snapshot_id": "aufSgAAAAAAq5Y2FnLrZM4yrdkI6fvx4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tenerte Cerquita De Mi (Remix)",
-        "url": "https://open.spotify.com/album/2vONQlRuGxSzbBwGKJVtsx"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Alcal\u00e1",
-          "url": "https://open.spotify.com/artist/2gbV4mSUB4g53MVC81tMfe"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        }
-      ],
-      "duration_ms": 245411,
-      "name": "Tenerte Cerquita De Mi - Remix",
-      "url": "https://open.spotify.com/track/1DKAk7RhcbZnK3YllWGCVI"
-    },
     {
       "added_at": null,
       "album": {
@@ -515,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Mas Vale Cholo",
+      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ti Estoy Loco",
         "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
       },
@@ -531,22 +519,6 @@
       "duration_ms": 222843,
       "name": "Por Ti Estoy Loco",
       "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Mas Vale Cholo",
-      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
     },
     {
       "added_at": null,
@@ -1071,30 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Juanos",
-        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
+        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
       },
       "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "La Bruja en el Beat",
-          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Los Juanos",
-      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
+      "duration_ms": 210000,
+      "name": "Mamoncita y Chula",
+      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
     },
     {
       "added_at": null,
@@ -1123,22 +1087,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
+        "name": "Los Juanos",
+        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
       },
       "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Mamoncita y Chula",
-      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
+      "duration_ms": 217600,
+      "name": "Los Juanos",
+      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
     },
     {
       "added_at": null,
@@ -1287,6 +1259,34 @@
       "duration_ms": 235758,
       "name": "Juntos de Noche",
       "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tenerte Cerquita De Mi (Remix)",
+        "url": "https://open.spotify.com/album/2vONQlRuGxSzbBwGKJVtsx"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Alcal\u00e1",
+          "url": "https://open.spotify.com/artist/2gbV4mSUB4g53MVC81tMfe"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        }
+      ],
+      "duration_ms": 245411,
+      "name": "Tenerte Cerquita De Mi - Remix",
+      "url": "https://open.spotify.com/track/1DKAk7RhcbZnK3YllWGCVI"
     },
     {
       "added_at": null,

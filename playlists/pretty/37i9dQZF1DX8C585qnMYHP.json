@@ -1,13 +1,169 @@
 {
-  "description": "The best new music by independent Experimental artists. Touching Ice on cover. Artwork by Thami Nabil.",
-  "num_followers": 203043,
+  "description": "The best new music by independent Experimental artists. RIP Magic on cover. Artwork by Thami Nabil.",
+  "num_followers": 203073,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVhcByd9bO+liiUBex9WQeV0zmv",
+  "snapshot_id": "AAAAAAWeCZ/m1Vk/YxafjQvXehjiBmf9",
   "tracks": [
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/6NM9k6n0DBIxOTkCfKGHRt"
+      },
+      "artists": [
+        {
+          "name": "Black Flute Brigade",
+          "url": "https://open.spotify.com/artist/6jivOvLRu8DlIJonkpuyfi"
+        }
+      ],
+      "duration_ms": 188646,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/7cghNY4cA1nKMMb0kOd0Qg"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/1tMPaXMpEEWTYeDEiAlcVv"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 174488,
+      "name": "11:30",
+      "url": "https://open.spotify.com/track/34BGOqVMDu5mJUMZKYmdTk"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "Southern Ontario Gothic",
+        "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
+      },
+      "artists": [
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "5 Point Palm Exploding Heart Technique",
+      "url": "https://open.spotify.com/track/7MQmAlT1CD20zFoCZCUmLK"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/1AqbbnxsnAgrNYYWF3zv0y"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hnatek",
+          "url": "https://open.spotify.com/artist/7iKMlMMzSb9jVQDwygYlOT"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/6DOjBiSpsvE8qgEb2nV8Wz"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "Late Loop",
+        "url": "https://open.spotify.com/album/5ma4Jeo1KwJXQpBOKkq2PF"
+      },
+      "artists": [
+        {
+          "name": "Andy Stott",
+          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
+        },
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 293735,
+      "name": "Mirror signal",
+      "url": "https://open.spotify.com/track/3eyBCLt3X0ysU6PvfTtShm"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "Continuation / One Trip",
+        "url": "https://open.spotify.com/album/0mKVOorU7BTZPz52RRBeY2"
+      },
+      "artists": [
+        {
+          "name": "Factory Floor",
+          "url": "https://open.spotify.com/artist/6xgNzJAeEB8BTOSzcTO1EI"
+        }
+      ],
+      "duration_ms": 334542,
+      "name": "Continuation",
+      "url": "https://open.spotify.com/track/5LCLGKFHEICGn1Fd9n8Ga5"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/4z8yhlcw6JOGNBWXkOIA7B"
+      },
+      "artists": [
+        {
+          "name": "thredd",
+          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
+        }
+      ],
+      "duration_ms": 177068,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/4G31I9jhPh5STbtqNKaA7k"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "\u0646\u0627\u0636",
+        "url": "https://open.spotify.com/album/5Jiiovfg0vJygcjwJs6ywv"
+      },
+      "artists": [
+        {
+          "name": "Temir Alcy",
+          "url": "https://open.spotify.com/artist/1qsidM8bYEPxjMV7aJxK0L"
+        },
+        {
+          "name": "Basma",
+          "url": "https://open.spotify.com/artist/1h4ul6lN374elvpSQljLAC"
+        }
+      ],
+      "duration_ms": 201197,
+      "name": "Khti Sarah",
+      "url": "https://open.spotify.com/track/1WKstPLbIoJTlb4XEtE3xT"
+    },
+    {
+      "added_at": "2026-11-04 22:01:59",
+      "album": {
+        "name": "Dja Dja",
+        "url": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Herlop",
+          "url": "https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR"
+        },
+        {
+          "name": "Adri GOOR",
+          "url": "https://open.spotify.com/artist/3xztk9tXGPxGYwhnnb93sw"
+        }
+      ],
+      "duration_ms": 218699,
+      "name": "Vas volant",
+      "url": "https://open.spotify.com/track/21Kitw7DXM58ZcinFbTqpq"
+    },
     {
       "added_at": "2026-10-22 20:16:36",
       "album": {
@@ -1151,166 +1307,6 @@
       "duration_ms": 154885,
       "name": "side b",
       "url": "https://open.spotify.com/track/6GiDOYI1Qk7A6GY4XJYSfv"
-    },
-    {
-      "added_at": "2026-08-06 14:41:06",
-      "album": {
-        "name": "Dissidente",
-        "url": "https://open.spotify.com/album/4mrmw6ilNZeyVfXVgzVorQ"
-      },
-      "artists": [
-        {
-          "name": "Agazero",
-          "url": "https://open.spotify.com/artist/3CmY3G8IVu7K8IOa5ivn4N"
-        },
-        {
-          "name": "Iguana",
-          "url": "https://open.spotify.com/artist/4vbznL0JiWzs9dbkcNdP3a"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Europeanized Atrophy (Debris)",
-      "url": "https://open.spotify.com/track/7MysKpqCkn4A1iLEgBQCnW"
-    },
-    {
-      "added_at": "2026-07-24 04:01:47",
-      "album": {
-        "name": "Summer Indoors (or outside wearing black)",
-        "url": "https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27"
-      },
-      "artists": [
-        {
-          "name": "The Healing Power of Horses",
-          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "TOURNIQUET",
-      "url": "https://open.spotify.com/track/5KZnditY0Ik8OakFR8W5bz"
-    },
-    {
-      "added_at": "2026-08-13 12:07:23",
-      "album": {
-        "name": "Rolling Face",
-        "url": "https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H"
-      },
-      "artists": [
-        {
-          "name": "Adult DVD",
-          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
-        }
-      ],
-      "duration_ms": 309005,
-      "name": "Rolling Face",
-      "url": "https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "BODYSCANNER",
-        "url": "https://open.spotify.com/album/6yVXRukkf1iclK4fuLazlL"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 307500,
-      "name": "BODYSCANNER",
-      "url": "https://open.spotify.com/track/0R9qBvtWzq87FFBq5CetPN"
-    },
-    {
-      "added_at": "2026-07-24 04:01:47",
-      "album": {
-        "name": "swim",
-        "url": "https://open.spotify.com/album/16yN6vVxnIhaovM6CglB3k"
-      },
-      "artists": [
-        {
-          "name": "Palpa",
-          "url": "https://open.spotify.com/artist/3LEyOY5ERmIn8nmHF99F9z"
-        }
-      ],
-      "duration_ms": 128372,
-      "name": "swim",
-      "url": "https://open.spotify.com/track/2akc1GIdKDKRGqErr10LLe"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "Seastar",
-        "url": "https://open.spotify.com/album/4Gr9vPLeWhsNDzF07HEEp8"
-      },
-      "artists": [
-        {
-          "name": "bambinodj",
-          "url": "https://open.spotify.com/artist/1XZlMHqN41hHE8KTwrCDf7"
-        },
-        {
-          "name": "Mikey Enwright",
-          "url": "https://open.spotify.com/artist/0ZDYUmvfOj3XAHSIkeepyn"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Seastar",
-      "url": "https://open.spotify.com/track/0Hy6fOnmqa1w6Oi4sPTRvw"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "Harlow",
-        "url": "https://open.spotify.com/album/473ISdmKbOQVpKsdFQlJUO"
-      },
-      "artists": [
-        {
-          "name": "Daykoda",
-          "url": "https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0"
-        },
-        {
-          "name": "Theon Cross",
-          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
-        }
-      ],
-      "duration_ms": 144775,
-      "name": "Harlow",
-      "url": "https://open.spotify.com/track/67ucoboGHxv4ENoqSAOmPE"
-    },
-    {
-      "added_at": "2026-07-30 04:00:30",
-      "album": {
-        "name": "Bivabippabualukka",
-        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 247629,
-      "name": "Juaduddanya",
-      "url": "https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "Here In the Valley",
-        "url": "https://open.spotify.com/album/7uQnFNA4qNdkHl4NcDmRfZ"
-      },
-      "artists": [
-        {
-          "name": "helllhound",
-          "url": "https://open.spotify.com/artist/77CMAtaujdujKGpGIp7kZE"
-        },
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 137468,
-      "name": "there",
-      "url": "https://open.spotify.com/track/1kbwqllGBF4FgfqEGQ7Xpz"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

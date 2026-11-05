@@ -22978,7 +22978,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 149725,
       "name": "Noor Ghazal",
       "url": "https://open.spotify.com/track/5twhtVTlHdhlahxb3aybn1"
@@ -28776,6 +28776,24 @@
       "duration_ms": 191810,
       "name": "Socho - Acoustic",
       "url": "https://open.spotify.com/track/0ve9CeDZI2DP2Iyjrmr8Q4"
+    },
+    {
+      "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/4l85bemd9bln57Mgqawk1N"
+      },
+      "artists": [
+        {
+          "name": "Apartment Upstairs",
+          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/0d4373qqHl8NtXMVJi5q6Z"
     },
     {
       "album": {

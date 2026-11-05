@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 428570,
       "name": "A man from the future",
       "url": "https://open.spotify.com/track/5zUdFy3giiWAj1KaO4ztP8"
@@ -29794,7 +29794,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 366108,
       "name": "He dreamed of machines",
       "url": "https://open.spotify.com/track/0F4M2od11z4xwxp2oDHfNY"
@@ -55574,7 +55574,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 431693,
       "name": "Prince And The Band - Vault Raw 2",
       "url": "https://open.spotify.com/track/5rk5bal0kAiaoJUt5vfnIe"
@@ -75414,6 +75414,24 @@
       "duration_ms": 181040,
       "name": "Time Is Ticking Out",
       "url": "https://open.spotify.com/track/5C1qze1Oq9TrvpzKvPh17B"
+    },
+    {
+      "album": {
+        "name": "Time of Ur Life",
+        "url": "https://open.spotify.com/album/2yF4UYEyhly9S7yOVqTMC9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283756,
+      "name": "Time of Ur Life",
+      "url": "https://open.spotify.com/track/1iLc6CpexP6WAhdF5Wasg7"
     },
     {
       "album": {

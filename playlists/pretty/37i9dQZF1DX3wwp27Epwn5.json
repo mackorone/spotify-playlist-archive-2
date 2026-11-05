@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 360860,
+  "num_followers": 361005,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -1815,34 +1815,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Bhootni Ka (From \"Udta Teer\")",
-        "url": "https://open.spotify.com/album/712LWqPZYzJrTCULmpWZdW"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Kaka",
-          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
-        },
-        {
-          "name": "Twinkle Aggrwal",
-          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 213904,
-      "name": "Bhootni Ka (From \"Udta Teer\")",
-      "url": "https://open.spotify.com/track/7jZWdcfiNU2vJHQAjLzHVd"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
         "url": "https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC"
       },
@@ -1867,6 +1839,34 @@
       "duration_ms": 167946,
       "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
       "url": "https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Bhootni Ka (From \"Udta Teer\")",
+        "url": "https://open.spotify.com/album/712LWqPZYzJrTCULmpWZdW"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        },
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 213904,
+      "name": "Bhootni Ka (From \"Udta Teer\")",
+      "url": "https://open.spotify.com/track/7jZWdcfiNU2vJHQAjLzHVd"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1951,30 +1951,26 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Raaj Karega Maalik (From \"Maalik\")",
-        "url": "https://open.spotify.com/album/2GXcgpRrljLATgccVhdiCJ"
+        "name": "Aisi Meri Vibe (From \"Vibe\")",
+        "url": "https://open.spotify.com/album/47IGZKKNfWRNKJQHTYOu5V"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Kanfuzion",
+          "url": "https://open.spotify.com/artist/6180gHTzNY9WFnBXPtIK7N"
         },
         {
-          "name": "MC SQUARE",
-          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+          "name": "Irfana",
+          "url": "https://open.spotify.com/artist/2yjjNifzaKhrRnHlOx2YH1"
         },
         {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "KHILLARI",
+          "url": "https://open.spotify.com/artist/57i3gH8eXXsBYPHBre63v1"
         }
       ],
-      "duration_ms": 216300,
-      "name": "Raaj Karega Maalik (From \"Maalik\")",
-      "url": "https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"
+      "duration_ms": 171360,
+      "name": "Aisi Meri Vibe (From \"Vibe\")",
+      "url": "https://open.spotify.com/track/0n1mgzR7ARULz0mfvJhxQQ"
     }
   ],
   "unique_name": "Bollywood Workout",

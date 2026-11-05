@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae & Anderson .Paak
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,732 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,704 likes - 105 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 67 | [Black Is Beautiful](https://open.spotify.com/track/4qondS0VDd39CrmpEAxCaT) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [God Gotta Afro & Gold Hoops](https://open.spotify.com/album/0gG1dUh2HWF3QChNNp9qGm) | 2:48 |
 | 68 | [The Villest \(with Erykah Badu\)](https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:30 |
 | 69 | [Vending Machine Charcuterie Board](https://open.spotify.com/track/491ip2YwlE7v85miXDMHv8) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Chris Crack](https://open.spotify.com/artist/3wws8s15DuuQWiG2xct414), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Vending Machine Charcuterie Board](https://open.spotify.com/album/6abYB7k5OwCGmsO9EBzAwa) | 3:20 |
-| 70 | [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 3:29 |
+| 70 | [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 2:47 |
 | 71 | [Ruthless Remix \- feat\. Leon Thomas](https://open.spotify.com/track/3V8pYffGrp5kGXO9sB8DTs) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [You Only Die 1nce \(Deluxe\)](https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq) | 4:00 |
 | 72 | [Better Decisions](https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Who Coppin](https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB) | 2:35 |
 | 73 | [Que Sera](https://open.spotify.com/track/40sdqna7xeWrXMTPPdcG0E) | [Stoney Jackson](https://open.spotify.com/artist/4pJSL3Q8yWIS78DpblIaOZ) | [Que Sera](https://open.spotify.com/album/3A3WJ5Q2jVMEcIbafplub8) | 3:41 |

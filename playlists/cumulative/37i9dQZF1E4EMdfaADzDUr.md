@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With Traf, After Cooking, winterburn and more
+> With Traf, Michael Canitrot, Douran and more
 
 374 songs - 1 day 4 hr 41 min
 

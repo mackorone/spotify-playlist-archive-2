@@ -4,7 +4,7 @@
 
 > 9월 10\-13일, \[SPOTIFY HOUSE 서울\] 열기 그대로, 라이브 퍼포먼스 영상과 함께 라인업 아티스트의 셋리스트를 감상해보세요!
 
-320 songs - 17 hr 51 min
+323 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,9 @@
 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2025-11-03 | 2025-11-20 |
 | [Do It \- Yves Remix](https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Do It \(Yves Remix\)](https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3) | 3:17 | 2026-09-15 |  |
 | [Do your dance](https://open.spotify.com/track/5POcU3tBNEXuIDgfYo4TEa) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [II \- The 2nd Mini Album](https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R) | 2:57 | 2026-08-28 |  |
+| [Do your dance \- Spotify House Seoul 2026](https://open.spotify.com/track/2l97mjAbdH2FviwRace57a) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Do your dance \(Spotify House Seoul 2026\)](https://open.spotify.com/album/2bgoC7kpJjCCDxJvKIgw9W) | 3:15 | 2026-11-04 |  |
 | [Do your dance\-Spotify House Seoul 2026](https://open.spotify.com/track/2LOAmah82wn5RBs5jN8o87) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Do your dance\-Spotify House Seoul 2026](https://open.spotify.com/album/2BDTRiM9x9MtUi9idSWILV) | 3:14 | 2026-10-13 |  |
+| [Do your dance\-Spotify House Seoul 2026](https://open.spotify.com/track/1ysJjrAVBTtHKcyAkSg68c) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Do your dance\-Spotify House Seoul 2026](https://open.spotify.com/album/31FDuP6eLJMAu6udFQLOdC) | 3:16 | 2026-11-04 |  |
 | [Docking](https://open.spotify.com/track/6o3U4VSdRkB3umd40oRRGj) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Even If Things Fall Apart](https://open.spotify.com/album/2dPzBNwePaE5rB2t9kpScF) | 3:49 | 2025-11-19 | 2026-08-11 |
 | [Doctor Pepper \(feat\. CL, RiFF RAFF & OG Maco\)](https://open.spotify.com/track/5Djg43OzL7HVYgG0CwJKwI) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [Doctor Pepper](https://open.spotify.com/album/0iYiqb6Zx1lK7UW472uxgf) | 3:46 | 2026-09-15 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2025-11-12 | 2026-08-11 |
@@ -226,6 +228,7 @@
 | [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 | 2025-11-19 | 2026-08-11 |
 | [POP GIRL \(with Yves\)](https://open.spotify.com/track/03ttvvZTWJnuVNFxd8Faap) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [POP GIRLS CLUB](https://open.spotify.com/album/3rrHA39a9wiiwedaML0jvO) | 2:27 | 2026-08-11 | 2026-09-16 |
 | [Postpink](https://open.spotify.com/track/2cR8SDpYTjsTFTJYHeAKNj) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Ballad of You](https://open.spotify.com/album/7gJQQKw4NCd0EUz3NKshgM) | 3:53 | 2026-09-15 |  |
+| [Postpink\-Spotify House Seoul 2026](https://open.spotify.com/track/2SEYUbWv9Enar4CMBN2rLO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Postpink\-Spotify House Seoul 2026](https://open.spotify.com/album/35WFScrRPlTPMIhOavlCKd) | 4:06 | 2026-11-04 |  |
 | [Postpink\-Spotify House Seoul 2026](https://open.spotify.com/track/3HRY9masI72ymI1bkciC6X) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Postpink\-Spotify House Seoul 2026](https://open.spotify.com/album/4BhurEvdHpE5dbITaQ7vO4) | 4:06 | 2026-10-23 |  |
 | [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-08-11 |  |
 | [Pricey Hangover](https://open.spotify.com/track/3gKTblszmIIYNo3lGFy2u3) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 3:00 | 2025-11-19 | 2026-08-11 |

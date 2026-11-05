@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: Cruel Santino",
-  "num_followers": 114571,
+  "num_followers": 114586,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,26 @@
     {
       "added_at": "2026-10-23 00:01:10",
       "album": {
-        "name": "4 by 4!",
-        "url": "https://open.spotify.com/album/54edT4Q4ZyiD85OnOftdTr"
+        "name": "By Me",
+        "url": "https://open.spotify.com/album/71dEKqbnbyyQqx2o8aAtW9"
       },
       "artists": [
         {
-          "name": "Kold AF",
-          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
         }
       ],
-      "duration_ms": 167882,
-      "name": "4 by 4!",
-      "url": "https://open.spotify.com/track/5j6r3cRdrrY4mz9yI186mf"
+      "duration_ms": 154348,
+      "name": "By Me",
+      "url": "https://open.spotify.com/track/4LR0vIINC7A1vLuNoL9w0l"
     },
     {
       "added_at": "2026-10-23 00:01:10",
@@ -251,6 +255,26 @@
     {
       "added_at": "2026-10-23 00:01:10",
       "album": {
+        "name": "4 by 4!",
+        "url": "https://open.spotify.com/album/54edT4Q4ZyiD85OnOftdTr"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 167882,
+      "name": "4 by 4!",
+      "url": "https://open.spotify.com/track/5j6r3cRdrrY4mz9yI186mf"
+    },
+    {
+      "added_at": "2026-10-23 00:01:10",
+      "album": {
         "name": "0pay",
         "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
       },
@@ -267,30 +291,6 @@
       "duration_ms": 158181,
       "name": "0pay",
       "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
-    },
-    {
-      "added_at": "2026-10-23 00:01:10",
-      "album": {
-        "name": "By Me",
-        "url": "https://open.spotify.com/album/71dEKqbnbyyQqx2o8aAtW9"
-      },
-      "artists": [
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 154348,
-      "name": "By Me",
-      "url": "https://open.spotify.com/track/4LR0vIINC7A1vLuNoL9w0l"
     },
     {
       "added_at": "2026-10-23 00:01:10",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-10-23 00:01:10",
       "album": {
+        "name": "Yeye Talk",
+        "url": "https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Yeye Talk",
+      "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"
+    },
+    {
+      "added_at": "2026-10-23 00:01:10",
+      "album": {
         "name": "Massacre The Show",
         "url": "https://open.spotify.com/album/3mF34OMq5P0rGAE6bCDBFd"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 133384,
       "name": "Massacre The Show",
       "url": "https://open.spotify.com/track/49dafbmuBNj0DJEqdokKBv"
-    },
-    {
-      "added_at": "2026-10-23 00:01:10",
-      "album": {
-        "name": "Yeye Talk",
-        "url": "https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        },
-        {
-          "name": "Thisizlondon",
-          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Yeye Talk",
-      "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"
     },
     {
       "added_at": "2026-10-23 00:01:10",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-10-23 00:01:10",
       "album": {
+        "name": "HIGH AS HEAVEN",
+        "url": "https://open.spotify.com/album/0xu1eSPv6VjK6wAY8br6vu"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 198505,
+      "name": "HIGH AS HEAVEN",
+      "url": "https://open.spotify.com/track/69vAH1CuRcrLCZGrslEMEr"
+    },
+    {
+      "added_at": "2026-10-23 00:01:10",
+      "album": {
         "name": "Here They Come II",
         "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 187226,
       "name": "Here They Come II",
       "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:10",
-      "album": {
-        "name": "HIGH AS HEAVEN",
-        "url": "https://open.spotify.com/album/0xu1eSPv6VjK6wAY8br6vu"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 198505,
-      "name": "HIGH AS HEAVEN",
-      "url": "https://open.spotify.com/track/69vAH1CuRcrLCZGrslEMEr"
     },
     {
       "added_at": "2026-10-23 00:01:10",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-10-23 00:01:10",
       "album": {
-        "name": "Okunkun",
-        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
-      },
-      "artists": [
-        {
-          "name": "Solana",
-          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
-        },
-        {
-          "name": "Killertunes",
-          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Okunkun",
-      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
-    },
-    {
-      "added_at": "2026-10-23 00:01:10",
-      "album": {
         "name": "Little Us",
         "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 172303,
       "name": "Relations (feat. Braye)",
       "url": "https://open.spotify.com/track/017OPL77HUwYyPONagEQ2E"
+    },
+    {
+      "added_at": "2026-10-23 00:01:10",
+      "album": {
+        "name": "Okunkun",
+        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        },
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Okunkun",
+      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
     },
     {
       "added_at": "2026-10-23 00:01:10",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-10-23 00:01:10",
       "album": {
+        "name": "Isn't It Beautiful",
+        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 156997,
+      "name": "Isn't It Beautiful",
+      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
+    },
+    {
+      "added_at": "2026-10-23 00:01:10",
+      "album": {
         "name": "party animal$ interlude (with suono sai)",
         "url": "https://open.spotify.com/album/39dvgXUbrqtndPoc4TYwtq"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 128000,
       "name": "party animal$ interlude (with suono sai)",
       "url": "https://open.spotify.com/track/2Ug1ARrqDUr3lVvoF4n8Ag"
-    },
-    {
-      "added_at": "2026-10-23 00:01:10",
-      "album": {
-        "name": "Isn't It Beautiful",
-        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 156997,
-      "name": "Isn't It Beautiful",
-      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
     },
     {
       "added_at": "2026-10-23 00:01:10",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-10-23 00:01:10",
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
+    },
+    {
+      "added_at": "2026-10-23 00:01:10",
+      "album": {
         "name": "tyla",
         "url": "https://open.spotify.com/album/7ypQZocQ0GRlxeGs8z1oJk"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 147500,
       "name": "tyla",
       "url": "https://open.spotify.com/track/13lk0e1B4qsyWzZFaeX16x"
-    },
-    {
-      "added_at": "2026-10-23 00:01:10",
-      "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 165415,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     },
     {
       "added_at": "2026-10-23 00:01:10",

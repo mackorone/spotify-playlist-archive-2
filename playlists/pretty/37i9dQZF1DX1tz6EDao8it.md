@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,497 likes - 133 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,649 likes - 133 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 85 | [Lara Says Goodbye to Yuri \(Lara's Theme\)](https://open.spotify.com/track/6Wbdw29buv54log2qKrbfC) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT) | [Doctor Zhivago \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1x0wDUT6vBoqe8GPRwB1nj) | 1:28 |
 | 86 | [The Middle of the World](https://open.spotify.com/track/5pn4wdFwix4qr5SlNyRw7W) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Moonlight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5evArWgt3lYByavFqzbo5x) | 2:02 |
 | 87 | [Your Song \(From The Rehearsal Montage Scene\) \- From "Moulin Rouge 2" Soundtrack](https://open.spotify.com/track/43sTRY9NhFFspcW2ug0pkU) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Moulin Rouge I & II](https://open.spotify.com/album/6SliTFEDNeVTMYivULb3x4) | 2:28 |
-| 88 | [Summer Of '42](https://open.spotify.com/track/4OtEkWkTgfUBy5mRGVQQPc) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy), [The Flemish Radio Orchestra](https://open.spotify.com/artist/2g9NtXzg3QeoJ9oUKHU3mZ) | [Michel Legrand: Great Movie Themes](https://open.spotify.com/album/1UfmBr7FfyQFSOjLzmCtUP) | 3:54 |
+| 88 | [Summer Of '42](https://open.spotify.com/track/4OtEkWkTgfUBy5mRGVQQPc) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy), [Flemish Radio Orchestra](https://open.spotify.com/artist/58OsEbvMOsaogd8MqGQqmT) | [Michel Legrand: Great Movie Themes](https://open.spotify.com/album/1UfmBr7FfyQFSOjLzmCtUP) | 3:54 |
 | 89 | [Titles](https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:33 |
 | 90 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Half\-Blood Prince: Original Motion Picture Soundtrack](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |
 | 91 | [Main Title \(From "Chocolat" Soundtrack\)](https://open.spotify.com/track/1DdyioI2yXhLwR1pn5Hczk) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Chocolat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD) | 3:07 |

@@ -1,13 +1,85 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
-  "num_followers": 247009,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Zohar & Adam Artwork: Joy Yamusangie.",
+  "num_followers": 247043,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjrawIX86WtgeUKw3F+o60B35dl",
+  "snapshot_id": "AAAAAMcOTtNB3DwldJ7HrXiALNT0CVH3",
   "tracks": [
+    {
+      "added_at": "2026-11-04 16:45:43",
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/07t5HsQiLIbVYBhwjD2gJH"
+      },
+      "artists": [
+        {
+          "name": "Zohar & Adam",
+          "url": "https://open.spotify.com/artist/3jrqdkncH6CuK39BaLJ9mj"
+        },
+        {
+          "name": "Nory",
+          "url": "https://open.spotify.com/artist/4cDwm4vhL5IYVN5SlY3FRM"
+        },
+        {
+          "name": "J3PO",
+          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/6lcxeBDtH9KKwA3hlrqh5J"
+    },
+    {
+      "added_at": "2026-11-04 16:45:43",
+      "album": {
+        "name": "Jazz Chord Possession",
+        "url": "https://open.spotify.com/album/0dsK4ZbTjOMo9hQFIQBHtJ"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "duration_ms": 280935,
+      "name": "Jazz Chord Possession",
+      "url": "https://open.spotify.com/track/3F9T8EX6AQLu9uHQyptIc5"
+    },
+    {
+      "added_at": "2026-11-04 16:45:43",
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0u1VWER8zknxwY5eu701Rr"
+      },
+      "artists": [
+        {
+          "name": "PUSHBACK",
+          "url": "https://open.spotify.com/artist/5LJRqROVpf8LiTbUD9MetW"
+        }
+      ],
+      "duration_ms": 324349,
+      "name": "Triple Seven",
+      "url": "https://open.spotify.com/track/79OBnF7NRMbO1zSNIybdfq"
+    },
+    {
+      "added_at": "2026-11-04 16:45:43",
+      "album": {
+        "name": "Thinking Will Get You Nowhere",
+        "url": "https://open.spotify.com/album/1ykB7UhhCCWv4KdNb4iX3h"
+      },
+      "artists": [
+        {
+          "name": "Surfer Dave",
+          "url": "https://open.spotify.com/artist/0xbNWCGKRUJ5wILr2dvQEO"
+        }
+      ],
+      "duration_ms": 350388,
+      "name": "Thinking Will Get You Nowhere",
+      "url": "https://open.spotify.com/track/5yT128gB1iK1rp4LGTIwjx"
+    },
     {
       "added_at": "2026-10-14 15:33:11",
       "album": {
@@ -859,74 +931,6 @@
       "duration_ms": 237383,
       "name": "NOTHING PERSONAL",
       "url": "https://open.spotify.com/track/3WMQUy8epd786TQbAjUE0k"
-    },
-    {
-      "added_at": "2026-02-18 17:47:31",
-      "album": {
-        "name": "Shoal",
-        "url": "https://open.spotify.com/album/0DZ4VkELBc5kLXE2fNLtNd"
-      },
-      "artists": [
-        {
-          "name": "St. Barbe",
-          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "Shoal",
-      "url": "https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd"
-    },
-    {
-      "added_at": "2026-03-04 14:28:02",
-      "album": {
-        "name": "Afar",
-        "url": "https://open.spotify.com/album/7nDgsmLy4P4lDCALxLF052"
-      },
-      "artists": [
-        {
-          "name": "Yetii",
-          "url": "https://open.spotify.com/artist/7mi5mm8MFU7ialhdbwzss6"
-        },
-        {
-          "name": "Alex Veitch",
-          "url": "https://open.spotify.com/artist/47l2FPOS83ZogFrkEVXGLr"
-        }
-      ],
-      "duration_ms": 292933,
-      "name": "Afar",
-      "url": "https://open.spotify.com/track/78UoK9UNGaj7ReYDSqnk42"
-    },
-    {
-      "added_at": "2026-02-18 17:47:31",
-      "album": {
-        "name": "Night and Day",
-        "url": "https://open.spotify.com/album/7EFN2ZSFgxtuvZy0Ntuk6s"
-      },
-      "artists": [
-        {
-          "name": "April Varner",
-          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
-        }
-      ],
-      "duration_ms": 302560,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa"
-    },
-    {
-      "added_at": "2026-02-11 19:41:30",
-      "album": {
-        "name": "SANG",
-        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
-      },
-      "artists": [
-        {
-          "name": "Dario Jacque",
-          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "notte brava",
-      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

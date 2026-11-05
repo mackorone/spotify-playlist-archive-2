@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Zohar & Adam Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 292933,
       "name": "Afar",
       "url": "https://open.spotify.com/track/78UoK9UNGaj7ReYDSqnk42"
@@ -7272,6 +7272,32 @@
       "duration_ms": 161560,
       "name": "Delray Derelict",
       "url": "https://open.spotify.com/track/4u7jIP75PK8NF8NBUFCXHS"
+    },
+    {
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/07t5HsQiLIbVYBhwjD2gJH"
+      },
+      "artists": [
+        {
+          "name": "Zohar & Adam",
+          "url": "https://open.spotify.com/artist/3jrqdkncH6CuK39BaLJ9mj"
+        },
+        {
+          "name": "Nory",
+          "url": "https://open.spotify.com/artist/4cDwm4vhL5IYVN5SlY3FRM"
+        },
+        {
+          "name": "J3PO",
+          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/6lcxeBDtH9KKwA3hlrqh5J"
     },
     {
       "album": {
@@ -14483,6 +14509,24 @@
     },
     {
       "album": {
+        "name": "Jazz Chord Possession",
+        "url": "https://open.spotify.com/album/0dsK4ZbTjOMo9hQFIQBHtJ"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280935,
+      "name": "Jazz Chord Possession",
+      "url": "https://open.spotify.com/track/3F9T8EX6AQLu9uHQyptIc5"
+    },
+    {
+      "album": {
         "name": "Jazzdance",
         "url": "https://open.spotify.com/album/2IkmKvorki1Y5QtBkt6ASm"
       },
@@ -19724,7 +19768,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 302560,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa"
@@ -20250,7 +20294,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 151000,
       "name": "notte brava",
       "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
@@ -25376,7 +25420,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 263213,
       "name": "Shoal",
       "url": "https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd"
@@ -30215,6 +30259,24 @@
     },
     {
       "album": {
+        "name": "Thinking Will Get You Nowhere",
+        "url": "https://open.spotify.com/album/1ykB7UhhCCWv4KdNb4iX3h"
+      },
+      "artists": [
+        {
+          "name": "Surfer Dave",
+          "url": "https://open.spotify.com/artist/0xbNWCGKRUJ5wILr2dvQEO"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350388,
+      "name": "Thinking Will Get You Nowhere",
+      "url": "https://open.spotify.com/track/5yT128gB1iK1rp4LGTIwjx"
+    },
+    {
+      "album": {
         "name": "Atto primo",
         "url": "https://open.spotify.com/album/4AdAFyPdkpThtV44SuTnd0"
       },
@@ -30880,6 +30942,24 @@
       "duration_ms": 275052,
       "name": "Trip",
       "url": "https://open.spotify.com/track/3z3FInUn8TSfGKjPxOZ0VY"
+    },
+    {
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0u1VWER8zknxwY5eu701Rr"
+      },
+      "artists": [
+        {
+          "name": "PUSHBACK",
+          "url": "https://open.spotify.com/artist/5LJRqROVpf8LiTbUD9MetW"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324349,
+      "name": "Triple Seven",
+      "url": "https://open.spotify.com/track/79OBnF7NRMbO1zSNIybdfq"
     },
     {
       "album": {

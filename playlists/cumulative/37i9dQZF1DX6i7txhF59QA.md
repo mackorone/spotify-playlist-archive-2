@@ -2,9 +2,9 @@
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: Jang Minho \(장민호\)\)<br/>Let's party with cheerful Korean trot medley.
 
-1,122 songs - 2 day 16 hr 11 min
+1,124 songs - 2 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [addiction](https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9) | 3:30 | 2022-04-07 | 2023-10-07 |
 | [addiction](https://open.spotify.com/track/6GZt0S6Q2xxNWue95xrE3w) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/6hbWgCHZINoOH1BtgrC472) | 3:30 | 2023-11-21 | 2026-02-06 |
 | [Affection](https://open.spotify.com/track/6JdYu71MXicYwaFmfwZp9j) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 4:05 | 2022-05-03 | 2022-07-14 |
+| [After all](https://open.spotify.com/track/50xZ7MlNXgyMSnqWT568uJ) | [Kim Yong Bin](https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l), [손빈아](https://open.spotify.com/artist/6hC77nUgHBP7thIKqoWb7a), [Cheon Lok Dam](https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi), [Chun Gil](https://open.spotify.com/artist/3NBoaS6kb07TEJgTNkmRVE), [Choi Jae Myeong](https://open.spotify.com/artist/6hWO9LmVdqUc6tc4NdR8VE), [Nam Seung Min](https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA), [Chu Hyuk Jin](https://open.spotify.com/artist/5tti8ePomOrIlKx3LPvYl9) | [After all](https://open.spotify.com/album/6fSCHHe3aSoJAxVcbCHJqa) | 4:31 | 2026-11-05 |  |
 | [After breaking up](https://open.spotify.com/track/0kHllwqBcJdQimFCkPPaNI) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 3:28 | 2022-04-22 | 2022-07-14 |
 | [Agonized](https://open.spotify.com/track/7HSLUdUgdr3EB3cCgt34FR) | [Shin Yu](https://open.spotify.com/artist/4aLSOIhA1dueSblihS8Zk9) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:52 | 2022-04-22 | 2022-07-05 |
 | [Ah! The old days](https://open.spotify.com/track/57bP3OKcAqoKDJFpvC8E58) | [손빈아](https://open.spotify.com/artist/6hC77nUgHBP7thIKqoWb7a), [Chun Gil](https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR) | [Sing for Gold Part9](https://open.spotify.com/album/4IgBkJ9uPQKCDdybDYUDBk) | 2:52 | 2026-02-25 |  |
@@ -832,6 +833,7 @@
 | [Time river](https://open.spotify.com/track/769IZ8iJh311ncHdw1Dz4i) | [Minji Sung](https://open.spotify.com/artist/0om5NmqZPKIca8GedsHJrC) | [MISS TROT2 PRELIMINARY BEST PART2](https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx) | 2:24 | 2022-04-22 | 2022-07-03 |
 | [To Be Okay](https://open.spotify.com/track/4QPoZN4vjeWRWLMPlBblE5) | [혜은이](https://open.spotify.com/artist/0wpePehw25BtABst49wTMa) | [To Be Okay](https://open.spotify.com/album/449NOAjtnQtf7WW2jnCMnT) | 3:39 | 2022-04-22 | 2022-07-23 |
 | [To J](https://open.spotify.com/track/56HX4HZliCmuUDUpwKuZUa) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 3:45 | 2022-04-22 | 2022-07-23 |
+| [To Life, My Friend](https://open.spotify.com/track/72KKL4C4GsyMdmYQMqqiJc) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [To Life, My Friend](https://open.spotify.com/album/44luTQDbWNIlXv0UkdWMqo) | 4:00 | 2026-11-05 |  |
 | [To My Youth](https://open.spotify.com/track/4XUxqXlhtPes3uBsYjQFwg) | [IN GYOJIN](https://open.spotify.com/artist/2FUha6ofWRtOQmD55xrOfj) | [To My Youth \(Hansome Trot T4 Special Track\)](https://open.spotify.com/album/5R0ZsfjaZNlmmOXCwRynQn) | 4:05 | 2025-04-23 | 2026-05-14 |
 | [To your side](https://open.spotify.com/track/0ta3WpGiovwG1131y52khK) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:03 | 2022-04-07 | 2026-05-14 |
 | [Today is young](https://open.spotify.com/track/1bn8KPcyQdJXPQG0XhBcdC) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART26](https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW) | 3:20 | 2022-04-21 | 2022-07-29 |

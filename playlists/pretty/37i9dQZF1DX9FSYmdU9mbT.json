@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia",
-  "num_followers": 1474285,
+  "num_followers": 1474306,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-10-19 15:54:39",
       "album": {
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+    },
+    {
+      "added_at": "2026-10-19 15:54:39",
+      "album": {
         "name": "francisco forr\u00f3 y frevo",
         "url": "https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D"
       },
@@ -1239,8 +1255,8 @@
     {
       "added_at": "2026-10-19 15:54:39",
       "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
       },
       "artists": [
         {
@@ -1248,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2026-10-19 15:54:39",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2026-10-19 15:54:39",
       "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
-    },
-    {
-      "added_at": "2026-10-19 15:54:39",
-      "album": {
         "name": "Antonio Carlos Jobim: Finest Hour",
         "url": "https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-10-19 15:54:39",
       "album": {
-        "name": "Marisa Monte",
-        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "A Sua / Sampler: Coqueiro De Itapoan",
-      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
-    },
-    {
-      "added_at": "2026-10-19 15:54:39",
-      "album": {
         "name": "Elis Regina Em Falso Brilhante",
         "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 260493,
       "name": "Como Nossos Pais",
       "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2026-10-19 15:54:39",
+      "album": {
+        "name": "Marisa Monte",
+        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "A Sua / Sampler: Coqueiro De Itapoan",
+      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
     },
     {
       "added_at": "2026-10-19 15:54:39",

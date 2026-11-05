@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 408705,
+  "num_followers": 408714,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-09-09 09:05:27",
       "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Quand la musique est bonne",
-      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
-    },
-    {
-      "added_at": "2026-09-09 09:05:27",
-      "album": {
         "name": "Rita Mitsouko",
         "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 335746,
       "name": "Marcia Ba\u00efla",
       "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
+    },
+    {
+      "added_at": "2026-09-09 09:05:27",
+      "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Quand la musique est bonne",
+      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
     },
     {
       "added_at": "2026-09-09 09:05:27",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-09-09 09:05:27",
       "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "L'envie",
+      "url": "https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP"
+    },
+    {
+      "added_at": "2026-09-09 09:05:27",
+      "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 265400,
       "name": "Je te donne",
       "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
-    },
-    {
-      "added_at": "2026-09-09 09:05:27",
-      "album": {
-        "name": "Gang",
-        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "L'envie",
-      "url": "https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP"
     },
     {
       "added_at": "2026-09-09 09:05:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-09 09:05:27",
       "album": {
-        "name": "Nonchalances",
-        "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
-      },
-      "artists": [
-        {
-          "name": "Philippe Lavil",
-          "url": "https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Elle pr\u00e9f\u00e8re l'amour en mer",
-      "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
-    },
-    {
-      "added_at": "2026-09-09 09:05:27",
-      "album": {
         "name": "Boule de flipper",
         "url": "https://open.spotify.com/album/7BbpQZ2U11hHECUP0nkD6p"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 231874,
       "name": "Boule de flipper",
       "url": "https://open.spotify.com/track/6shGOXYAONStOPgpZI1i3E"
+    },
+    {
+      "added_at": "2026-09-09 09:05:27",
+      "album": {
+        "name": "Nonchalances",
+        "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
+      },
+      "artists": [
+        {
+          "name": "Philippe Lavil",
+          "url": "https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Elle pr\u00e9f\u00e8re l'amour en mer",
+      "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
     },
     {
       "added_at": "2026-09-09 09:05:27",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-09-09 09:05:27",
       "album": {
+        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
+        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Lili voulait aller danser",
+      "url": "https://open.spotify.com/track/5W8DHtd2JOU9q7X3pvzafw"
+    },
+    {
+      "added_at": "2026-09-09 09:05:27",
+      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 296506,
       "name": "D\u00e9sir, d\u00e9sir, Pt. 1",
       "url": "https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO"
-    },
-    {
-      "added_at": "2026-09-09 09:05:27",
-      "album": {
-        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
-        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Lili voulait aller danser",
-      "url": "https://open.spotify.com/track/5W8DHtd2JOU9q7X3pvzafw"
     },
     {
       "added_at": "2026-09-09 09:05:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-09 09:05:27",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "D'amour ou d'amiti\u00e9",
-      "url": "https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof"
-    },
-    {
-      "added_at": "2026-09-09 09:05:27",
-      "album": {
         "name": "A Rendez-Vous With Julien Clerc",
         "url": "https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180106,
       "name": "M\u00e9lissa",
       "url": "https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG"
+    },
+    {
+      "added_at": "2026-09-09 09:05:27",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "D'amour ou d'amiti\u00e9",
+      "url": "https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof"
     },
     {
       "added_at": "2026-09-09 09:05:27",

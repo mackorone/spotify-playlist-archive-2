@@ -819,18 +819,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Marion Rung",
-        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
+        "name": "Duetos - Diz-me Com Quem Cantas",
+        "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
       },
       "artists": [
         {
-          "name": "Marion Rung",
-          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
+          "name": "Fernando Tordo",
+          "url": "https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL"
+        },
+        {
+          "name": "Capicua",
+          "url": "https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ"
         }
       ],
-      "duration_ms": 132400,
-      "name": "Tipi-tii",
-      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
+      "duration_ms": 237152,
+      "name": "Tourada",
+      "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -851,22 +855,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Duetos - Diz-me Com Quem Cantas",
-        "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
+        "name": "Marion Rung",
+        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
       },
       "artists": [
         {
-          "name": "Fernando Tordo",
-          "url": "https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL"
-        },
-        {
-          "name": "Capicua",
-          "url": "https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ"
+          "name": "Marion Rung",
+          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
         }
       ],
-      "duration_ms": 237152,
-      "name": "Tourada",
-      "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
+      "duration_ms": 132400,
+      "name": "Tipi-tii",
+      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
     },
     {
       "added_at": "2025-03-14 16:55:23",

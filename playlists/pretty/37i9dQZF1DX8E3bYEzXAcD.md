@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > "In m'n circle alleen werkpaarden\. We pushen, we kraken, we dampen" \-Highguest & DFYNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,723 likes - 40 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,729 likes - 40 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

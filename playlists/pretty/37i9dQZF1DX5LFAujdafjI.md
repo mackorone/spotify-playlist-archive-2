@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola 2026 is over but don't fret, check out some highlights from the festival! For your pre\-games, afters, spurts of manic cleaning, and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,952 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,989 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zara Larsson \- Live at Portola Music Festival 2026](https://open.spotify.com/track/4MjrrYxewQWeWnSmXrCAej) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Live at Portola Music Festival 2026](https://open.spotify.com/album/7b4x4VGx6rJZCfkwboc7i7) | 3:19 |
+| 1 | [Blue Moon \(Live at Portola Music Festival 2026\)](https://open.spotify.com/track/4MjrrYxewQWeWnSmXrCAej) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Blue Moon \(Live at Portola Music Festival 2026\)](https://open.spotify.com/album/7b4x4VGx6rJZCfkwboc7i7) | 3:19 |
 | 2 | [Tommy \(Live at Portola Music Festival 2026\)](https://open.spotify.com/track/2NHkBou2uDZzKPNrMBlFI8) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Tommy \(Live at Portola Music Festival 2026\)](https://open.spotify.com/album/5v57uXrtRXFwdIgEa4Ufxr) | 3:21 |
 | 3 | [BREAK LAW](https://open.spotify.com/track/223t7TwvWm5PuE1IuWpRZM) | [Dog Blood](https://open.spotify.com/artist/2amyu5pkgYMYdNQZmB3GgY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Turn Off The Lights](https://open.spotify.com/album/1Pg5Ot24fhSbQbxqV5OTZS) | 4:02 |
 | 4 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |

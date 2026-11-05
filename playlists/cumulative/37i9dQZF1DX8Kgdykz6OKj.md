@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-570 songs - 1 day 7 hr 21 min
+570 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Go So Far](https://open.spotify.com/track/4uw7iZZwpVBa8ouMeMXnIy) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Jon Connor](https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x) | [Go So Far](https://open.spotify.com/album/4PVTF0T9u415oaUwKwGkPC) | 4:02 | 2021-12-16 | 2022-11-19 |
 | [Go So Far](https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Jon Connor](https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:02 | 2022-10-13 | 2024-04-19 |
 | [God](https://open.spotify.com/track/4OupVhrfJq1Bz6Wj5WjgSn) | [JuJu Rogers](https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [40 Acres N Sum Mula](https://open.spotify.com/album/4wotZuHVQRHiQDCVEmG7t8) | 5:13 | 2021-12-16 | 2022-07-27 |
-| [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 3:29 | 2026-06-26 |  |
+| [GOD flow.](https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [GOD flow.](https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M) | 2:47 | 2026-06-26 |  |
 | [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 | 2026-08-21 | 2026-10-17 |
 | [Good Morning](https://open.spotify.com/track/1wWq7C16in3cQuUrypB3Ya) | [Joey Rose](https://open.spotify.com/artist/5q7RXRaFu3MrsFrYR5lci3), [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO), [Gxbby](https://open.spotify.com/artist/4x0P1X7WKYWPZu6scPL7JT) | [Life's What You Make It](https://open.spotify.com/album/1g93j78rk4oK0dFqBgTQlO) | 1:58 | 2025-10-24 | 2025-11-14 |
 | [Good Vibrations](https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg) | [freekind.](https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV) | [Good Vibrations](https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit) | 3:36 | 2023-02-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75166,
+  "num_followers": 75169,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "HOUSE OF LUX (JUMP ON THE PITCH REMIX)",
-        "url": "https://open.spotify.com/album/07ZEWmcod4RvNw8g459vj3"
+        "name": "No Quiero Ser",
+        "url": "https://open.spotify.com/album/1CuQVVHLLaq1jwttcXnhYk"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
         },
         {
-          "name": "Ckdageneral",
-          "url": "https://open.spotify.com/artist/4FIXMvdKOqfgiOwpgDrO5X"
+          "name": "IMA",
+          "url": "https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 169354,
-      "name": "HOUSE OF LUX (JUMP ON THE PITCH REMIX)",
-      "url": "https://open.spotify.com/track/4eR8iyDWgah6SWs1GPD2Pr"
+      "duration_ms": 189333,
+      "name": "No Quiero Ser",
+      "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -323,26 +327,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "No Quiero Ser",
-        "url": "https://open.spotify.com/album/1CuQVVHLLaq1jwttcXnhYk"
+        "name": "HOUSE OF LUX (JUMP ON THE PITCH REMIX)",
+        "url": "https://open.spotify.com/album/07ZEWmcod4RvNw8g459vj3"
       },
       "artists": [
         {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         },
         {
-          "name": "IMA",
-          "url": "https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Ckdageneral",
+          "url": "https://open.spotify.com/artist/4FIXMvdKOqfgiOwpgDrO5X"
         }
       ],
-      "duration_ms": 189333,
-      "name": "No Quiero Ser",
-      "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
+      "duration_ms": 169354,
+      "name": "HOUSE OF LUX (JUMP ON THE PITCH REMIX)",
+      "url": "https://open.spotify.com/track/4eR8iyDWgah6SWs1GPD2Pr"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "HOUSE & REGGAETON",
         "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 190153,
       "name": "HOUSE & REGGAETON",
       "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "Coqueta",
-        "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Coqueta",
-      "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Como La Flor",
-        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
-      },
-      "artists": [
-        {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 174555,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Derecha la Flecha",
         "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 200454,
       "name": "Derecha la Flecha",
       "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Como La Flor",
+        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
+      },
+      "artists": [
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 174555,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Nada Falta Como Me Faltas",
-        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
-      },
-      "artists": [
-        {
-          "name": "Depressiego",
-          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
-        }
-      ],
-      "duration_ms": 203715,
-      "name": "Nada Falta Como Me Faltas",
-      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
         "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Nada Falta Como Me Faltas",
+        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "duration_ms": 203715,
+      "name": "Nada Falta Como Me Faltas",
+      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Into Fire",
-        "url": "https://open.spotify.com/album/5f05Xy9yOtjjnOWTRlFatH"
-      },
-      "artists": [
-        {
-          "name": "Junkie Kid",
-          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
-        }
-      ],
-      "duration_ms": 190593,
-      "name": "Into Fire",
-      "url": "https://open.spotify.com/track/7y3Hx2O8sLmyenbQKv8VVv"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/0o3HcAIsWzqEg8BFJZEaN6"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 170806,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/1bRrHfV2axCZPTP3RktAwC"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Into Fire",
+        "url": "https://open.spotify.com/album/5f05Xy9yOtjjnOWTRlFatH"
+      },
+      "artists": [
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        }
+      ],
+      "duration_ms": 190593,
+      "name": "Into Fire",
+      "url": "https://open.spotify.com/track/7y3Hx2O8sLmyenbQKv8VVv"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1423,50 +1423,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "All I See",
-        "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 276585,
-      "name": "All I See",
-      "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "ESTAMOS READY",
-        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "ESTAMOS READY",
-      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "HOUSE PA LAS BANDIS",
         "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
       },
@@ -1483,6 +1439,26 @@
       "duration_ms": 182989,
       "name": "HOUSE PA LAS BANDIS",
       "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/302p4WVFFZpKKPwGrhoNBg"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 276585,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/6zegPmakFxvUOiPyPnoOgZ"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1531,22 +1507,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
       },
@@ -1563,6 +1523,22 @@
       "duration_ms": 162727,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1623,6 +1599,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1647,26 +1643,6 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1711,6 +1687,30 @@
       "duration_ms": 156428,
       "name": "TUCU",
       "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "ESTAMOS READY",
+        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "ESTAMOS READY",
+      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
     },
     {
       "added_at": "2026-10-23 06:00:41",

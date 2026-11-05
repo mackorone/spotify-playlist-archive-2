@@ -1,12 +1,12 @@
 {
   "description": "All hail the King! Get ready to fall in love with 'Tu Mil Jaaye'. Listen now!",
-  "num_followers": 1022287,
+  "num_followers": 1022363,
   "original_name": "New Music Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO1SB+NzmQfyy/nlHkywT+L1cQ+/",
+  "snapshot_id": "AAAAAJail7xZD+3bdJXd8beDmbjyhWsb",
   "tracks": [
     {
       "added_at": "2026-11-02 02:18:23",
@@ -139,6 +139,30 @@
       "duration_ms": 149148,
       "name": "Mahiya",
       "url": "https://open.spotify.com/track/3RPCyZLAJXh14LThX16Zs5"
+    },
+    {
+      "added_at": "2026-11-04 10:00:09",
+      "album": {
+        "name": "Teri Sexy Beauty (From \"Maatrubhumi: May War Rest in Peace\")",
+        "url": "https://open.spotify.com/album/4XGjwFdUNgCWMmaO7RSFJv"
+      },
+      "artists": [
+        {
+          "name": "Salman Khan",
+          "url": "https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI"
+        },
+        {
+          "name": "Muskaan",
+          "url": "https://open.spotify.com/artist/5gEFTELaOBkv59BBTlYSkU"
+        },
+        {
+          "name": "Sajid Khan",
+          "url": "https://open.spotify.com/artist/1PEOXOtxn9FQN9sc2CBYGv"
+        }
+      ],
+      "duration_ms": 214299,
+      "name": "Teri Sexy Beauty (From \"Maatrubhumi: May War Rest in Peace\")",
+      "url": "https://open.spotify.com/track/5jIMMPOsp8rgtjJm1PG9UG"
     },
     {
       "added_at": "2026-10-16 09:23:30",
@@ -274,10 +298,6 @@
         {
           "name": "Swaroop Khan",
           "url": "https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         }
       ],
       "duration_ms": 319090,
@@ -303,6 +323,30 @@
       "duration_ms": 176000,
       "name": "Maahi",
       "url": "https://open.spotify.com/track/7kI2yFDNIAsZXiK5JNXWa2"
+    },
+    {
+      "added_at": "2026-11-04 11:25:46",
+      "album": {
+        "name": "Mai Vapas Aaunga",
+        "url": "https://open.spotify.com/album/69iUiNw0tAFTzXxnmDZPPh"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Pratigya",
+          "url": "https://open.spotify.com/artist/5FNvmY22PVa5BTQc1stP4B"
+        },
+        {
+          "name": "Afzalali Khan",
+          "url": "https://open.spotify.com/artist/5BoJkC6vi4fBfqm2TyEI22"
+        }
+      ],
+      "duration_ms": 275861,
+      "name": "Mai Vapas Aaunga",
+      "url": "https://open.spotify.com/track/62amXebZcBcFlCl9b6554u"
     },
     {
       "added_at": "2026-11-02 06:26:07",
@@ -1727,46 +1771,6 @@
       "duration_ms": 237836,
       "name": "Mann Bawara",
       "url": "https://open.spotify.com/track/141VsJgkijofvQ7RGS7S51"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Kasoor/Doori",
-        "url": "https://open.spotify.com/album/5eC2ybLTURAU1BOsX00FtH"
-      },
-      "artists": [
-        {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Kasoor",
-      "url": "https://open.spotify.com/track/35eeeFZ1sL1tAuu1Te0Vcj"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Ruswa",
-        "url": "https://open.spotify.com/album/68OWPNkrffCLS475DblVcn"
-      },
-      "artists": [
-        {
-          "name": "Madhur Sharma",
-          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
-        },
-        {
-          "name": "Inayat Kaur Bajaj",
-          "url": "https://open.spotify.com/artist/3tUsiQAwzswWX1pTflob0o"
-        },
-        {
-          "name": "Hiten",
-          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "Ruswa",
-      "url": "https://open.spotify.com/track/4wZupOMgj8NHad5ooySxZg"
     }
   ],
   "unique_name": "New Music Hindi",

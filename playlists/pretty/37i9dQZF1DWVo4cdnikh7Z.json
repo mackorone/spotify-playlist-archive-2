@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Scene",
-  "num_followers": 769560,
+  "num_followers": 769628,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF+Zo1rMVhtYKcCCqDXlw1nYMse1",
+  "snapshot_id": "AAAAAB+tkhZRrSkEJA8MLQsr90tUCkzQ",
   "tracks": [
     {
       "added_at": "2026-10-19 12:33:02",
@@ -255,6 +255,30 @@
       "duration_ms": 197041,
       "name": "Tiger Muthuvel Pandian (From \"Jailer 2\")",
       "url": "https://open.spotify.com/track/1CaBSMCroZxJRWrkjfvqEs"
+    },
+    {
+      "added_at": "2026-11-04 11:53:19",
+      "album": {
+        "name": "Adra Parama (From \"Raawadi\")",
+        "url": "https://open.spotify.com/album/4vm8onlZlCrSnlLpBsIOmk"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Lyrikist Udhay",
+          "url": "https://open.spotify.com/artist/79XdliJOAZvIzn1uO79ahc"
+        }
+      ],
+      "duration_ms": 185124,
+      "name": "Adra Parama (From \"Raawadi\")",
+      "url": "https://open.spotify.com/track/7nTcVu9gsXYS0ToLi7X9ih"
     },
     {
       "added_at": "2026-08-24 11:38:24",
@@ -672,16 +696,16 @@
       },
       "artists": [
         {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
           "name": "Shibi Srinivasan",
           "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
         },
         {
           "name": "Vignesh Ramakrishna",
           "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
         }
       ],
       "duration_ms": 236800,

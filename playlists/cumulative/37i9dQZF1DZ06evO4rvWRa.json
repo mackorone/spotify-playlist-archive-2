@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 264048,
       "name": "Fade",
       "url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 240005,
       "name": "Force",
       "url": "https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg"
@@ -1714,6 +1714,28 @@
       "duration_ms": 178339,
       "name": "Incommunicado",
       "url": "https://open.spotify.com/track/3N0b9Mqeq2pCLLaeiVBM6q"
+    },
+    {
+      "album": {
+        "name": "INDIAN SUMMER",
+        "url": "https://open.spotify.com/album/3EquYPRLoMWqXy12Ad28lR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198511,
+      "name": "INDIAN SUMMER",
+      "url": "https://open.spotify.com/track/3fhPTs8YgkwC1a6gV2TTtx"
     },
     {
       "album": {
@@ -3116,7 +3138,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 257545,
       "name": "Wherever You Go (feat. John Martin) - Alan Walker Extended Remix",
       "url": "https://open.spotify.com/track/4zpXgqzxtBCABFfwzCXqHX"

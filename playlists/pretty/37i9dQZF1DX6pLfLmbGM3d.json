@@ -1,12 +1,12 @@
 {
   "description": "Let's DIVE into IVE!",
-  "num_followers": 172094,
+  "num_followers": 172103,
   "original_name": "This Is IVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKcXwTE/aIcE0KgCiJhrIm0xnKnP",
+  "snapshot_id": "AAAAAJUAfUQ3GKz+qEo4eGcEMqQS6tm0",
   "tracks": [
     {
       "added_at": "2026-10-19 09:00:27",
@@ -121,10 +121,26 @@
       "url": "https://open.spotify.com/track/5lRGvxyZEdcGmctYDxisCd"
     },
     {
-      "added_at": "2026-10-19 09:00:27",
+      "added_at": "2026-11-05 03:00:14",
+      "album": {
+        "name": "K-Pop ON! Video Podcast",
+        "url": "https://open.spotify.com/album/35ltzomNTBi2lqCtoL4Drt"
+      },
+      "artists": [
+        {
+          "name": "K-Pop ON! Video Podcast",
+          "url": "https://open.spotify.com/show/35ltzomNTBi2lqCtoL4Drt"
+        }
+      ],
+      "duration_ms": 1957674,
+      "name": "Talk with IVE - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/episode/4ncuKCpCvQKRUc6XC1qz9H"
+    },
+    {
+      "added_at": "2026-11-05 03:00:14",
       "album": {
         "name": "Looks Can Kill",
-        "url": "https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm"
+        "url": "https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ"
       },
       "artists": [
         {
@@ -134,7 +150,87 @@
       ],
       "duration_ms": 195559,
       "name": "Looks Can Kill",
-      "url": "https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn"
+      "url": "https://open.spotify.com/track/4F8LBvCz9jVbwIpsy2WLos"
+    },
+    {
+      "added_at": "2026-11-05 03:00:14",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 200321,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/0fVAQZYuk63KjPtkarkkHs"
+    },
+    {
+      "added_at": "2026-11-05 03:00:14",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 201349,
+      "name": "SNAKESKIN",
+      "url": "https://open.spotify.com/track/0hcFnrQNGplPcAS2OLVVtB"
+    },
+    {
+      "added_at": "2026-11-05 03:00:14",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188412,
+      "name": "CRUMBS",
+      "url": "https://open.spotify.com/track/7ahB1ea9N3SHIvoYQe245z"
+    },
+    {
+      "added_at": "2026-11-05 03:00:14",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Girls Girls Girls",
+      "url": "https://open.spotify.com/track/4fOAYaOQ2F5dC9O8u4GVyt"
+    },
+    {
+      "added_at": "2026-11-05 03:00:14",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/1FOLkeljrXpPAh1SpjmJKQ"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 181675,
+      "name": "Glow Motion",
+      "url": "https://open.spotify.com/track/0egnEp0o8eFEP77NLid6lr"
     },
     {
       "added_at": "2026-03-03 08:15:02",

@@ -1,12 +1,12 @@
 {
   "description": "Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 442577,
+  "num_followers": 442546,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIo74uHqECa5LMHIU3HEzQmO1dug",
+  "snapshot_id": "AAAAADX3Wlv/w/UxBjE/CwTkVw/Ry/Kw",
   "tracks": [
     {
       "added_at": "2026-10-27 13:12:14",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-10-27 13:12:14",
       "album": {
+        "name": "Fiz Quase Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 167925,
+      "name": "Fiz Quase Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
+    },
+    {
+      "added_at": "2026-10-27 13:12:14",
+      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 271822,
       "name": "Campo de Golf",
       "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
-    },
-    {
-      "added_at": "2026-10-27 13:12:14",
-      "album": {
-        "name": "Fiz Quase Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "Fiz Quase Tudo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
     },
     {
       "added_at": "2026-10-27 13:12:14",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-10-27 13:12:14",
       "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 131626,
+      "name": "MEU CRIME \u00c9 EXISTIR",
+      "url": "https://open.spotify.com/track/3xKGPKUqPjiEYUnv7wSQ4b"
+    },
+    {
+      "added_at": "2026-10-27 13:12:14",
+      "album": {
         "name": "A Pagodeira (Ao vivo)",
         "url": "https://open.spotify.com/album/61erIGUIWd2zHF7KTaR9Xx"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 215196,
       "name": "A Pagodeira - Ao Vivo",
       "url": "https://open.spotify.com/track/2nNxtJ8Ce702sXXbVBwvW6"
-    },
-    {
-      "added_at": "2026-10-27 13:12:14",
-      "album": {
-        "name": "FREQU\u00caNCIA LUNAR",
-        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "MEU CRIME \u00c9 EXISTIR",
-      "url": "https://open.spotify.com/track/3xKGPKUqPjiEYUnv7wSQ4b"
     },
     {
       "added_at": "2026-10-27 13:12:14",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-10-27 13:12:14",
       "album": {
-        "name": "De Volta Para 2002 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6cKomSWg0tv5pXH2QvA8bN"
+        "name": "Endrick",
+        "url": "https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK"
       },
       "artists": [
         {
-          "name": "Suel",
-          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         }
       ],
-      "duration_ms": 300150,
-      "name": "Para De Pirra\u00e7a / Toda Noite / \u00c9 No Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/0Npl1sQuuiJxXYxKGN9Kn9"
+      "duration_ms": 140952,
+      "name": "Endrick",
+      "url": "https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY"
     }
   ],
   "unique_name": "AMPLIFIKA",

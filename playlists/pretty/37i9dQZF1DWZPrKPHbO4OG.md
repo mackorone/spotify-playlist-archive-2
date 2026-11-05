@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,889 likes - 43 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,905 likes - 43 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 17 | [Numberkari](https://open.spotify.com/track/2RBSlozluCiLoguWs977VK) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC), [Vivekraja](https://open.spotify.com/artist/4nfWtubtm5hcq13C2BPsiH) | [Numberkari](https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB) | 3:36 |
 | 18 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
 | 19 | [Angaar Bhangar Nai Rr](https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1) | [Madhur Milind Shinde](https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J) | [Angar Bhangar Nay Rr \- Single](https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg) | 3:37 |
-| 20 | [Email Kaal Internetvar Kela](https://open.spotify.com/track/2hh7Pp6vIoSTXnSBsTesQ9) | [Janhavi Arora](https://open.spotify.com/artist/07qG3AroF8Mx0q26F3Gmvw) | [Morya](https://open.spotify.com/album/3XsC9DdsoR70XpXdqmIuNm) | 4:36 |
-| 21 | [Rupaan Dekhani](https://open.spotify.com/track/5fAcWB4rIuUojHbmFmctU5) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Hrishikesh](https://open.spotify.com/artist/23y7sT3YJztGVJUMMYuxL4) | [Pachadlela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iQTSsJbAsXwrDveCmKh7T) | 5:03 |
+| 20 | [Rupaan Dekhani](https://open.spotify.com/track/5fAcWB4rIuUojHbmFmctU5) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Hrishikesh](https://open.spotify.com/artist/23y7sT3YJztGVJUMMYuxL4) | [Pachadlela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iQTSsJbAsXwrDveCmKh7T) | 5:03 |
+| 21 | [Email Kaal Internetvar Kela](https://open.spotify.com/track/2hh7Pp6vIoSTXnSBsTesQ9) | [Janhavi Arora](https://open.spotify.com/artist/07qG3AroF8Mx0q26F3Gmvw) | [Morya](https://open.spotify.com/album/3XsC9DdsoR70XpXdqmIuNm) | 4:36 |
 | 22 | [Pailwaan](https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS) | [Brahmaa](https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Pailwaan](https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG) | 3:57 |
 | 23 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
 | 24 | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/track/2a0SIkpwz7tWP9fKrNrx07) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/album/6BNKdnEmPOqzRauarspPCQ) | 3:15 |

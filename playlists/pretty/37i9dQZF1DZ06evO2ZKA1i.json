@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 304176,
+  "num_followers": 304177,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAABCSXSAubZkQBCfUHe1KB/x",
+  "snapshot_id": "aufSgAAAAABXSoNJ5ZulCzFA1mSTSdDL",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple - the Best Ballade",
-        "url": "https://open.spotify.com/album/2apUG0HQEvU167BcPBdG5n"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 418609,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6REUf1JrrLP0FgoigOtc39"
+      "duration_ms": 448333,
+      "name": "Mistreated - Remastered 2004",
+      "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Deep Purple - the Best Ballade",
+        "url": "https://open.spotify.com/album/2apUG0HQEvU167BcPBdG5n"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 448333,
-      "name": "Mistreated - Remastered 2004",
-      "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
+      "duration_ms": 418609,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6REUf1JrrLP0FgoigOtc39"
     },
     {
       "added_at": null,

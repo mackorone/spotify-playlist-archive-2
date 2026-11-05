@@ -3989,6 +3989,28 @@
     },
     {
       "album": {
+        "name": "Mere Jinni Sohni",
+        "url": "https://open.spotify.com/album/2F1YJAAdQTxw9NX5XHdKlA"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Zakir",
+          "url": "https://open.spotify.com/artist/53tmGtbyrnXSAISRzmhMh9"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Mere Jinni Sohni",
+      "url": "https://open.spotify.com/track/2wyXpVrwyUTC1dz97LUPPm"
+    },
+    {
+      "album": {
         "name": "Mexican",
         "url": "https://open.spotify.com/album/7c16dgVaxSd21gbEmJNbAk"
       },
@@ -6220,7 +6242,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 169472,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"

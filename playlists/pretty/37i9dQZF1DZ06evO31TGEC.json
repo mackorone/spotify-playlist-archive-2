@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56411,
+  "num_followers": 56418,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auaBAAAAAAA4y4/+8iB/dg6HjQVM5yjc",
+  "snapshot_id": "aufSgAAAAAAudfNgyRHcWpiKXE6DWfgT",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Regalo del Cielo",
-      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Concierto En Vivo Desde Guadalajara, Vol. 1",
         "url": "https://open.spotify.com/album/5qDSxRNIV1hnTzbSJCHM0k"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Va A Gustar",
-        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 190133,
-      "name": "De Cristal O De Papel",
-      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
+      "duration_ms": 160213,
+      "name": "Regalo del Cielo",
+      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 182688,
       "name": "Eran De Azucar Sus Labios (Version Banda)",
       "url": "https://open.spotify.com/track/7jsGsunLEK73UPhdaMssYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "De Cristal O De Papel",
+      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 217467,
+      "name": "Sera",
+      "url": "https://open.spotify.com/track/76R7POkiRYbyhu39lPC4Ak"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 200040,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 217467,
-      "name": "Sera",
-      "url": "https://open.spotify.com/track/76R7POkiRYbyhu39lPC4Ak"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "Mayor de Edad (Banda)",
-      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 206133,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 205213,
+      "name": "Mayor de Edad (Banda)",
+      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
     },
     {
       "added_at": null,

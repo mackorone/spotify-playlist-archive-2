@@ -487,6 +487,32 @@
     },
     {
       "album": {
+        "name": "Ain Taan",
+        "url": "https://open.spotify.com/album/3QGnZJA8BHk46DltXLbQaI"
+      },
+      "artists": [
+        {
+          "name": "Amar Sehmbi",
+          "url": "https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY"
+        },
+        {
+          "name": "Guri Sangali",
+          "url": "https://open.spotify.com/artist/7AKEzSlOIPy2fVTTYAr0EB"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176153,
+      "name": "Ain Taan",
+      "url": "https://open.spotify.com/track/3feUl47mdRICik85rP9vN9"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4CBYzMqxhpcCckNzJ5IdwX"
       },
@@ -542,7 +568,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 173400,
       "name": "Akh Mastani",
       "url": "https://open.spotify.com/track/4IupSjrVogMJCM37NgmStF"
@@ -2418,7 +2444,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 170025,
       "name": "Deshat",
       "url": "https://open.spotify.com/track/513QDSc6hcS8aaYteh9jhw"
@@ -6068,6 +6094,28 @@
       "duration_ms": 198321,
       "name": "Mehandi - From \"Rabb Da Radio 3\"",
       "url": "https://open.spotify.com/track/0vX3WyCXkKLehW6dniuh6q"
+    },
+    {
+      "album": {
+        "name": "Mere Jinni Sohni",
+        "url": "https://open.spotify.com/album/2F1YJAAdQTxw9NX5XHdKlA"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Zakir",
+          "url": "https://open.spotify.com/artist/53tmGtbyrnXSAISRzmhMh9"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Mere Jinni Sohni",
+      "url": "https://open.spotify.com/track/2wyXpVrwyUTC1dz97LUPPm"
     },
     {
       "album": {

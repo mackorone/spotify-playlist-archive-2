@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. GOLF, Metropolen, Peder Elias og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,770 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,764 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 33 | [Unik](https://open.spotify.com/track/3lnYykWjf41DPSZq2G9J2G) | [kalle](https://open.spotify.com/artist/6HLnSJZLAv4pEupRK4hPvh), [M4](https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib) | [Unik](https://open.spotify.com/album/6b3ffgyqBOJpIGFQq0lfzP) | 2:36 |
 | 34 | [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 |
 | 35 | [Dramaqueen](https://open.spotify.com/track/5kpWKqFlwzeDUsCPeocCYE) | [Anne Fagermo](https://open.spotify.com/artist/0dVIr95DY0Ui1tL3p7ic3b) | [Dramaqueen](https://open.spotify.com/album/37gHA2EiOAFRDrUf3eiqSZ) | 2:46 |
-| 36 | [Noe, eller noen?](https://open.spotify.com/track/1pGaEZIXrykhlvxYusZYMh) | [Nils Bech](https://open.spotify.com/artist/57QhXfAsLsIRtgC1VfHu1F) | [Noe, eller noen?](https://open.spotify.com/album/7F7EanQq5J9S4zmqSRs7aJ) | 4:44 |
+| 36 | [Noe eller noen](https://open.spotify.com/track/1pGaEZIXrykhlvxYusZYMh) | [Nils Bech](https://open.spotify.com/artist/57QhXfAsLsIRtgC1VfHu1F) | [Noe eller noen](https://open.spotify.com/album/7F7EanQq5J9S4zmqSRs7aJ) | 4:44 |
 | 37 | [Skulle vore mi](https://open.spotify.com/track/4c1LpPV3TWZ3VbYBliL2BJ) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Skulle vore mi](https://open.spotify.com/album/6VeGdxpcOOy6pdKg47EXxV) | 3:56 |
 | 38 | [HALLOWEEN](https://open.spotify.com/track/62WRRx3LpLMk8eUtKzzCrQ) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [HALLOWEEN](https://open.spotify.com/album/2uG8ATEHsYpONIbrLGQXHy) | 3:33 |
 | 39 | [He Likes Boys](https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 3:34 |

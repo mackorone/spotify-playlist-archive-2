@@ -160357,6 +160357,24 @@
     },
     {
       "album": {
+        "name": "Noe eller noen",
+        "url": "https://open.spotify.com/album/7F7EanQq5J9S4zmqSRs7aJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Bech",
+          "url": "https://open.spotify.com/artist/57QhXfAsLsIRtgC1VfHu1F"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284750,
+      "name": "Noe eller noen",
+      "url": "https://open.spotify.com/track/1pGaEZIXrykhlvxYusZYMh"
+    },
+    {
+      "album": {
         "name": "Noe enkelt",
         "url": "https://open.spotify.com/album/3tii6B8NjGqRqGc39rxTai"
       },
@@ -160420,24 +160438,6 @@
       "duration_ms": 229728,
       "name": "Noe ut av ingenting",
       "url": "https://open.spotify.com/track/2LVZa5huh3qqysPxdfoZ9t"
-    },
-    {
-      "album": {
-        "name": "Noe, eller noen?",
-        "url": "https://open.spotify.com/album/7F7EanQq5J9S4zmqSRs7aJ"
-      },
-      "artists": [
-        {
-          "name": "Nils Bech",
-          "url": "https://open.spotify.com/artist/57QhXfAsLsIRtgC1VfHu1F"
-        }
-      ],
-      "date_added": "2026-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 284750,
-      "name": "Noe, eller noen?",
-      "url": "https://open.spotify.com/track/1pGaEZIXrykhlvxYusZYMh"
     },
     {
       "album": {

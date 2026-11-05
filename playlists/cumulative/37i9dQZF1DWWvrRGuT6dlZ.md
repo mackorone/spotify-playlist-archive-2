@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Shahera Sam\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Ili Ruzanna\. Artwork: Isu Kim.
 
-1,531 songs - 3 day 11 hr 59 min
+1,532 songs - 3 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [alwaystrustaria](https://open.spotify.com/track/7seGKouK7aNflo3oSRidHM) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu) | [alwaystrustaria](https://open.spotify.com/album/58dxwK3lRhaBde8PtftXGu) | 5:35 | 2025-07-01 | 2025-09-13 |
 | [AMNESIA](https://open.spotify.com/track/20t4yahxbvf0iXpkuzhEp8) | [goneMUNE](https://open.spotify.com/artist/6SsAyywSRs06Y9h25bdCi2) | [AMNESIA](https://open.spotify.com/album/3DEjaxHAfDpyFswMcwSRGX) | 3:52 | 2025-03-21 | 2025-05-03 |
 | [An Athlete](https://open.spotify.com/track/7GKV0j1Qdj8VQwMth5yypS) | [Boey](https://open.spotify.com/artist/6rgGhhquiyHRb9IodAYGYU) | [An Athlete](https://open.spotify.com/album/7o34gGO5eBlOWrC5ZcqGHv) | 2:39 | 2025-03-21 | 2025-05-03 |
+| [And Why?](https://open.spotify.com/track/6QLVwtrIpQWE8mbbom9W3U) | [Ili Ruzanna](https://open.spotify.com/artist/0U6fPuKfyKwpDo1blcKVYf) | [With Love, Ili](https://open.spotify.com/album/01VHhhw77IJ8N7DeaqGwvs) | 2:48 | 2026-11-04 |  |
 | [Angel](https://open.spotify.com/track/3KNDc2QCNN6BoGrWiecSae) | [Cactus Cactus](https://open.spotify.com/artist/51x2pHGxvd8eEeOK4FBFYJ) | [Life is Short](https://open.spotify.com/album/1C2cbAU8vcCX6MSvrqyuDA) | 4:48 | 2023-05-26 | 2023-11-18 |
 | [ANGELFACE](https://open.spotify.com/track/2URBGtkNMRoQzZAv1Pbhzo) | [TUFFY](https://open.spotify.com/artist/6mftv1kEONJo0FseTLkqTu) | [ANGELFACE](https://open.spotify.com/album/6UeU3ELtZ7NTYAVqdgGHoN) | 2:41 | 2025-09-12 | 2025-11-08 |
 | [Angkasa](https://open.spotify.com/track/0oxZKrDeSfXNDsaMYISdEN) | [Sappy Chill](https://open.spotify.com/artist/71gi5I6xsgPqS9KOFRBdKx) | [Angkasa](https://open.spotify.com/album/71gBhOUXlevMJcNLPKLuXe) | 3:15 | 2025-05-09 | 2025-06-07 |

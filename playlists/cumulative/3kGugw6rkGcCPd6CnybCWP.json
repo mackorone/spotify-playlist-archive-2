@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Akimbo",
+        "url": "https://open.spotify.com/album/7LUxUe1g421Ja7tlTIOrda"
+      },
+      "artists": [
+        {
+          "name": "Donnie Ace",
+          "url": "https://open.spotify.com/artist/2NzFb0RWC4MP4kfN7wdg6v"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Akimbo",
+      "url": "https://open.spotify.com/track/6SnG8fNedJViw0U6fx5qRg"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/5kBzzVfbKOAgvgMKHoAT3S"
       },
@@ -5529,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "Marasma",
+        "url": "https://open.spotify.com/album/1ZFtstJ9coZI7JfePRCTlI"
+      },
+      "artists": [
+        {
+          "name": "Heygregg",
+          "url": "https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152731,
+      "name": "Marasma",
+      "url": "https://open.spotify.com/track/7CnaE1l3dfIPMam9dcXUN8"
+    },
+    {
+      "album": {
         "name": "MASKARA",
         "url": "https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp"
       },
@@ -6424,6 +6460,24 @@
       "duration_ms": 185478,
       "name": "Painted",
       "url": "https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY"
+    },
+    {
+      "album": {
+        "name": "Pathological",
+        "url": "https://open.spotify.com/album/7ECaU37wnfC5WRrrd17FPN"
+      },
+      "artists": [
+        {
+          "name": "K\u269dYL\u269d",
+          "url": "https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Pathological",
+      "url": "https://open.spotify.com/track/4DB1DRBSY4QQM3hpXEkb9V"
     },
     {
       "album": {

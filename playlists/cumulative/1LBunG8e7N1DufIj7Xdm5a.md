@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,449 songs - 12 day 16 hr 18 min
+5,450 songs - 12 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3933,6 +3933,7 @@
 | [Sacred Lies](https://open.spotify.com/track/1BN0vvQPUxQo0JWqZnISue) | [SuckerTrap](https://open.spotify.com/artist/23D0LIpYPJxkQ9Kt85pBhl) | [Sacred Lies](https://open.spotify.com/album/1ZArM0WylCsaXpQ8VsELlz) | 4:26 | 2026-10-04 |  |
 | [Sad Forever Tonight](https://open.spotify.com/track/0vG18XJuYbbDkpozqyVkmz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:04 | 2025-09-19 |  |
 | [Sad Girl](https://open.spotify.com/track/1hm2F2ZeC48scfZnFoJswg) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [Sad Girl](https://open.spotify.com/album/6laiiyu0gaNm3YL9eC9HF5) | 3:55 | 2025-06-04 |  |
+| [Sad Song \- Single Version](https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz), [Amiri](https://open.spotify.com/artist/2Ll5uRPghBt8yLaI44FJU7) | [Sad Song](https://open.spotify.com/album/1s5tdq4L8q8EvE0MfZ0ph6) | 3:17 | 2026-11-04 |  |
 | [SAD!](https://open.spotify.com/track/6s5P0hX86ml031Kld7gxcV) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [SAD!](https://open.spotify.com/album/0kugS8PQcSzjvz8QY2oTe7) | 2:35 | 2025-12-18 |  |
 | [Safe With Me \(sped up\)](https://open.spotify.com/track/0o0LVtOSeeLMyBzqeav4nW) | [Augxst](https://open.spotify.com/artist/2cLT5hSCjzPEqSngz0M6lg) | [Safe With Me](https://open.spotify.com/album/4BDNIFU2sq7cfgIvXpcUmh) | 1:50 | 2025-06-23 |  |
 | [Sakê De Binks](https://open.spotify.com/track/4D6ZaYG8xUp8tJ24A52wp3) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc), [Casão Rennó](https://open.spotify.com/artist/3A7hlyVNvg5AEqwIF4HXtm) | [Sakê De Binks](https://open.spotify.com/album/1HNvSEkybDOV743FV9qYdq) | 3:50 | 2026-04-22 |  |

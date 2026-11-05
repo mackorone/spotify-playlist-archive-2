@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,227 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,429 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 15 | [Shift Focus](https://open.spotify.com/track/2flRozAqCx8yCdQl4HOd3G) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Blair](https://open.spotify.com/artist/43jJiW8JiogF0AwuwpvDY4) | [Shift Focus](https://open.spotify.com/album/0VAOYPWKayy5vgcQfSsz1s) | 4:41 |
 | 16 | [Carry Me Home](https://open.spotify.com/track/0NZB0UAYUMi6G9AWr0wI7T) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Monobloc, Vol\. 1](https://open.spotify.com/album/2t9vVqNxWKoxpQ2730yo3x) | 3:29 |
 | 17 | [Stay](https://open.spotify.com/track/42zNAZKGKyZG8dprZc7JCc) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Stay](https://open.spotify.com/album/4vOJm4seI0psAy6adG6zJq) | 3:54 |
-| 18 | [Beautiful Life \(feat\. Crooked Bangs\)](https://open.spotify.com/track/78hfRYGI7x8bKoWcOzoocf) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Beautiful Life \(feat\. Crooked Bangs\)](https://open.spotify.com/album/1j218GulOYLbdaxuflkt29) | 2:27 |
+| 18 | [Beautiful Life](https://open.spotify.com/track/78hfRYGI7x8bKoWcOzoocf) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Beautiful Life \(feat\. Crooked Bangs\)](https://open.spotify.com/album/1j218GulOYLbdaxuflkt29) | 2:27 |
 | 19 | [Falling Slow](https://open.spotify.com/track/3vLicUpLWJrWke7AOV8CLR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Falling Slow](https://open.spotify.com/album/33wkqaKJTCSgRgYVyNcz12) | 4:49 |
 | 20 | [Stay Now](https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Stay Now](https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY) | 3:28 |
 | 21 | [i'm way too self aware](https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [i'm way too self aware](https://open.spotify.com/album/0pDU9QXpxlhrQMm7hS5T4P) | 2:29 |

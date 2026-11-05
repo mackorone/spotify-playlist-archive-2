@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Mylène Farmer x DJ Snake, Ronisia, TeddyBear et Gracie Abrams au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,524 likes - 83 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,487 likes - 83 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 39 | [African Baddie](https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [African Baddie](https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96) | 2:37 |
 | 40 | [Saïgon](https://open.spotify.com/track/3sl17g4Kz0jtPIAKjfdElR) | [Makala](https://open.spotify.com/artist/3r7t38zbphQtpfAH12UbRd) | [Saïgon](https://open.spotify.com/album/0UgL4fdan7u9OZjDpzWyja) | 2:52 |
 | 41 | [L'absurdité](https://open.spotify.com/track/67EllrguDA3eaboNTMk37Q) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’absurdité](https://open.spotify.com/album/1pfXK4XIib7j4Fshf2usc3) | 4:58 |
-| 42 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 42 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 43 | [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 |
 | 44 | [Spinnin \(feat\. 21 Savage\)](https://open.spotify.com/track/6u82jr3MnmUbG1th452h4u) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Just Doin Me](https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf) | 3:44 |
 | 45 | [Don't take my sunshine away](https://open.spotify.com/track/3OG9MBzMRqdWUNySNodsh5) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Don't take my sunshine away](https://open.spotify.com/album/2t1O2Da7MpPrFxfVDzvPLQ) | 4:04 |

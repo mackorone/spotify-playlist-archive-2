@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-613 songs - 1 day 10 hr 45 min
+615 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Going South](https://open.spotify.com/track/6w8zHZXcVkR1ShBYgWa9wf) | [halucynation](https://open.spotify.com/artist/1siPPfl5m8kmN0quVdFfzL) | [Going South](https://open.spotify.com/album/76H9nf4nKGPSfxu2bTj2H6) | 3:02 | 2026-01-29 | 2026-03-03 |
 | [Gold Bars](https://open.spotify.com/track/7tOKyNunKElBFGIzrDyvoc) | [Highway Jay](https://open.spotify.com/artist/5DiKeSa0Wrr5ShwTSbIRjR) | [Curse of Johnny](https://open.spotify.com/album/3aA8uKDqT07y98S5Ic7nXR) | 2:24 | 2026-05-11 | 2026-06-14 |
 | [Gonzo](https://open.spotify.com/track/0hkHE5hYqBQcaeKxyKr259) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Gonzo](https://open.spotify.com/album/1kL6WL20wKjBZo7bSgb36c) | 2:55 | 2026-03-05 | 2026-05-26 |
+| [Good but not Okay](https://open.spotify.com/track/6hlWLgVkAF5KZzEPs0L1TW) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [Good but not Okay](https://open.spotify.com/album/1VRcZudvyYyffx3Oy4RdPF) | 2:56 | 2026-11-04 |  |
 | [Good Things](https://open.spotify.com/track/71dSBF6OYZXAgttZUkU1R6) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Good Things](https://open.spotify.com/album/2ljaFGrgIpGVt04MXHP3IH) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [Goodbye](https://open.spotify.com/track/5PbhYrim2us62q3B5iZLgS) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Goodbye](https://open.spotify.com/album/6ngXvbiqCMNswvzOCN2GiE) | 2:52 | 2026-09-06 | 2026-10-14 |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-24 | 2026-01-15 |
@@ -417,6 +418,7 @@
 | [Pure Class](https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:59 | 2026-03-08 | 2026-04-14 |
 | [Que No Te Importe](https://open.spotify.com/track/4kXG6SQ0NF2cUpvoZjaClf) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Que No Te Importe](https://open.spotify.com/album/0yYgk2KXBhW1A2AgLXMgw4) | 2:31 | 2026-04-25 | 2026-05-26 |
 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 | 2026-09-09 | 2026-10-14 |
+| [Quien Eres Tu](https://open.spotify.com/track/7wLDuGIKohd5uL2XS6aElg) | [Rasir Srv](https://open.spotify.com/artist/7IRwEoQapVLubr4u4KW8g8), [Lui Santana](https://open.spotify.com/artist/34lCY8BwfxQNjwCk61O0S3) | [Kenopsia](https://open.spotify.com/album/6DwiVyuMjmYVilA52OqiBP) | 3:46 | 2026-11-04 |  |
 | [Rabbit!](https://open.spotify.com/track/3knD7dkD3rgu3AAF893E8R) | [Kim Million$](https://open.spotify.com/artist/393NYPTSuRjbbf2HtcnRMN) | [Rabbit!](https://open.spotify.com/album/3DQgH9DE5lLAXPmnwHnRTy) | 2:10 | 2026-04-13 | 2026-05-26 |
 | [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 | 2026-01-04 | 2026-02-21 |
 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-06-23 | 2026-08-08 |

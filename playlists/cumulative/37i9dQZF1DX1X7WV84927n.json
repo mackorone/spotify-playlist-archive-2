@@ -24351,6 +24351,24 @@
     },
     {
       "album": {
+        "name": "Ppl Worried",
+        "url": "https://open.spotify.com/album/4C5vaCsrYtWGZf0PvwGarb"
+      },
+      "artists": [
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119812,
+      "name": "Ppl Worried",
+      "url": "https://open.spotify.com/track/2cZztBThGXvfRXB87Pr4yk"
+    },
+    {
+      "album": {
         "name": "Violent Nature",
         "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
       },
@@ -33074,7 +33092,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 243538,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/2n8CxMVKFjPi6U1boomB4J"

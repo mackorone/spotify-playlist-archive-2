@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-247 songs - 12 hr 26 min
+248 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Go Part 1 \(with G Herbo\)](https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:41 | 2022-10-28 | 2025-11-09 |
 | [GooD KarMa \(feat\. G Herbo\) \- Remix](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 | 2026-01-21 |  |
 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 | 2024-11-09 | 2026-08-26 |
+| [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/0jbPgBdLPWsrZxNRWTg8Mp) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Out The Mud](https://open.spotify.com/album/3MKsDAsoYP3JqLati9Jk4V) | 3:49 | 2026-11-05 |  |
 | [GWSM](https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [SCOOMSDAY](https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C) | 2:28 | 2026-01-15 | 2026-07-05 |
 | [High Speed](https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 2:44 | 2022-10-28 |  |
 | [Him](https://open.spotify.com/track/50XKj7DDE5cFGpV6z90SD9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:40 | 2022-11-04 | 2022-12-20 |
@@ -193,7 +194,7 @@
 | [Splash \(feat\. G Herbo\) \- Remix](https://open.spotify.com/track/0Z1mK0Xc3aAwK0zhPI5FAi) | [Omelly](https://open.spotify.com/artist/3D7OGBAsUAB3NQzSXzZgAw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Swaggyono](https://open.spotify.com/artist/2eth98H0ggjeX0fPe1Aqvn) | [Splash \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/album/0ERwio7WSesVTeLLmPyYfr) | 3:15 | 2026-05-07 | 2026-05-13 |
 | [Splat](https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:24 | 2024-09-09 | 2024-12-01 |
 | [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 | 2022-10-28 | 2024-07-24 |
-| [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 | 2025-04-16 |  |
+| [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 | 2025-04-16 | 2026-11-05 |
 | [Still On Dat \(with G Herbo\)](https://open.spotify.com/track/2H3TOpfPnM8dAgSyd7YaQg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 3:22 | 2026-01-28 | 2026-04-18 |
 | [Stone Cold \(feat\. G Herbo\)](https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Not One Of Them](https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6) | 3:16 | 2026-02-11 | 2026-05-06 |
 | [Stress Relief \(with G Herbo\)](https://open.spotify.com/track/3furL4HLywxNWxxfTB7wVJ) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stress Relief \(with G Herbo\)](https://open.spotify.com/album/6AGBXSBIDKCAuRYZIXOBMi) | 2:40 | 2022-10-28 | 2023-08-05 |

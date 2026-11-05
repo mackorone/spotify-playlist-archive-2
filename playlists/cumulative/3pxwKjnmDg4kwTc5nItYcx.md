@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-917 songs - 2 day 1 hr 19 min
+918 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Conversations \(With The Moon\)](https://open.spotify.com/track/5L60Ewkf3Y7kT3oUUrQXq3) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Conversations \(With The Moon\) / Teenage Queen](https://open.spotify.com/album/1BCueNgOUTd6JLItGy0BBP) | 4:09 | 2019-08-27\* | 2020-02-12 |
 | [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 | 2024-11-29 | 2025-08-27 |
 | [Crazy Ones](https://open.spotify.com/track/0jpb1OpjPANsRw8qTl0SuN) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF) | [Imperfectionism](https://open.spotify.com/album/2MlDavWJj9lVMmrb8szvRV) | 3:45 | 2019-09-13 | 2021-05-12 |
+| [Creek](https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Creek](https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO) | 1:53 | 2026-11-05 |  |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2021-02-26 | 2025-08-27 |
 | [Crush](https://open.spotify.com/track/5stsHsQTNRp8guy8Y6AJmQ) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Crush](https://open.spotify.com/album/1heXxMqKYRntAtRRKSu6I5) | 2:46 | 2020-08-30 | 2021-05-12 |
 | [CRYBABY :\*\(](https://open.spotify.com/track/0psWKCR3qW2qqyCTAbCFtO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [CRYBABY :\*\(](https://open.spotify.com/album/6LPTa6WxHqzA5E9ohh1JoN) | 2:48 | 2019-11-01 | 2020-02-12 |

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BABO\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: OYSTERS\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,232 songs - 3 day 2 hr 57 min
+1,233 songs - 3 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [707](https://open.spotify.com/track/0SeiziAZgaLJKssu9KYBwC) | [MASO](https://open.spotify.com/artist/5vptj2RdDGFCtqgFfXxgkN) | [707](https://open.spotify.com/album/0yrBK6D5Hs6Jx5MmuEXnz4) | 4:02 | 2024-03-21 | 2024-05-10 |
 | [A DAY \(Feat\. NO:EL\)](https://open.spotify.com/track/47LSp3DyU9PWj7po4ahooz) | [Youngcode](https://open.spotify.com/artist/1tLbXwuFI3FO4TXlVZm5xi), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV) | [A DAY \(Feat\. NO:EL\)](https://open.spotify.com/album/6DLRPaltNA06Wda74t6huC) | 3:06 | 2024-12-13 | 2025-02-19 |
 | [A girl's Panorama \(feat\. GIUK\)](https://open.spotify.com/track/3E5JbDebW0NQzafFD2xVh5) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [mYmY](https://open.spotify.com/album/73UpAwWuOaZPUqnsfYOO29) | 4:11 | 2023-11-10 | 2024-05-10 |
-| [A I W E O](https://open.spotify.com/track/1bAb7zpa6Ff2izAFbw1dYV) | [A I W E O](https://open.spotify.com/artist/7oEu9OwkDOC9C6nCQN11zK) | [BE MY HUG](https://open.spotify.com/album/5P7JsSoljPxmtLb9s5Uzvc) | 3:26 | 2026-10-28 |  |
+| [A I W E O](https://open.spotify.com/track/1bAb7zpa6Ff2izAFbw1dYV) | [A I W E O](https://open.spotify.com/artist/7oEu9OwkDOC9C6nCQN11zK) | [BE MY HUG](https://open.spotify.com/album/5P7JsSoljPxmtLb9s5Uzvc) | 3:26 | 2026-10-28 | 2026-11-05 |
 | [A Kid From Bathroom](https://open.spotify.com/track/42viEIOYM4blJHf95e5Fy1) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/7e5sJT4ByH3fVYXvHoMYdt) | 2:43 | 2022-04-22 | 2022-07-24 |
 | [A Long Dream](https://open.spotify.com/track/2LQJZcCEfTG1v087gaaMMj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/41NYtKrSofLWaxOZNs1Atb) | 4:18 | 2025-03-17 | 2025-04-12 |
 | [A Long Dream 긴 꿈](https://open.spotify.com/track/0h5XgxN8lwqFCZXyGSCRch) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream 긴 꿈](https://open.spotify.com/album/14MzJLQEjGoWplHYwe3JiJ) | 4:18 | 2022-04-22 | 2022-07-29 |
@@ -39,6 +39,7 @@
 | [A Sleepless Night](https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [X](https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u) | 2:45 | 2024-10-16 | 2025-04-12 |
 | [A song for you](https://open.spotify.com/track/67n8M1giJq7nf8H4adHwcS) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [A song for you](https://open.spotify.com/album/7hMIZUJSBHY5UzQfeLkfxE) | 3:15 | 2022-04-22 | 2022-07-28 |
 | [A Song For You](https://open.spotify.com/track/3aaqNLus6XZVW2UtZzbLNl) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [GREEN MOTHERS' CLUB OST Part 5](https://open.spotify.com/album/79RNrjKKCwikaf8ask8mTY) | 3:32 | 2022-06-13 | 2022-07-09 |
+| [A WASTED DAY](https://open.spotify.com/track/1RXxn4sDioECDRibAvBJ57) | [OYSTERS](https://open.spotify.com/artist/5Q8aOhk9SVLndQyLl5Gozl) | [A WASTED DAY](https://open.spotify.com/album/1lH757G4Aa6JX9oZjnrwZQ) | 1:42 | 2026-11-04 |  |
 | [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-18 | 2022-07-02 |
 | [Addicted to TV](https://open.spotify.com/track/2OpUyPEh9mq0ZSrOMRIO7S) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [Addicted to TV](https://open.spotify.com/album/0tMersFXcFglAPfmHGiAug) | 3:44 | 2022-04-22 | 2022-07-27 |
 | [Addiction](https://open.spotify.com/track/0u7mqw0JiK3AVL3lOtzgxM) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Addiction](https://open.spotify.com/album/6eba8K9SfZTZ5b3zz0ga2d) | 3:05 | 2024-10-27 | 2024-12-19 |
@@ -756,7 +757,7 @@
 | [OVERMAN](https://open.spotify.com/track/4F9HBpY1IL5uNSjJGPT905) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 1](https://open.spotify.com/album/1AMxCmk7KLonC7oO33Ii7S) | 3:44 | 2025-01-30 | 2025-03-18 |
 | [Painful truth](https://open.spotify.com/track/1CexlpmbXbUZuaxoNpbFqf) | [OVerdrive Philosophy](https://open.spotify.com/artist/55kBNayNJ3XUBKnp7hsNQa) | [OVerdrive Philosophy](https://open.spotify.com/album/0sCN9t3HHPdhaZNkKtbKs1) | 6:15 | 2022-05-11 | 2022-07-22 |
 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 | 2025-03-31 |  |
-| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 | 2026-10-24 |
+| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
 | [Paper Chase](https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Paper Chase](https://open.spotify.com/album/15DhkRELmap2H04SghgrDR) | 2:47 | 2026-04-21 | 2026-04-28 |
 | [Paradise](https://open.spotify.com/track/5L9aX5078Wk0qMFvrdI40j) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:56 | 2022-04-22 | 2022-07-27 |
 | [Paragliding](https://open.spotify.com/track/57XdCKf3Pv6n8qUuYe8W6p) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Paragliding](https://open.spotify.com/album/6YFoJLOuWOrdPqpeOehcX3) | 4:01 | 2023-11-10 | 2024-05-10 |
@@ -1093,7 +1094,7 @@
 | [Voice](https://open.spotify.com/track/6EI51Hq3Q4BYELSDUhdTwA) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Voice](https://open.spotify.com/album/0gDGTUaOm7OfgETH77Wh1L) | 3:35 | 2024-12-03 | 2025-02-11 |
 | [VOID](https://open.spotify.com/track/0keNzrJRUOBzewGHOrtSH7) | [RECORDBELL](https://open.spotify.com/artist/4PW6o9Gy6TZqrxpY6rHo8L) | [VOID](https://open.spotify.com/album/6ZIJNzoZIXjogl8iOinq3g) | 3:38 | 2022-04-22 | 2022-05-10 |
 | [Voyager](https://open.spotify.com/track/5P3ai9DW0SVnQoVmYQj6EM) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [DEAD AND](https://open.spotify.com/album/10z4Yg7ZTYAyhP7isN21Xd) | 3:54 | 2026-04-17 | 2026-04-28 |
-| [Wah](https://open.spotify.com/track/3PMJELrAlnHhx7BRNGymqj) | [BABO](https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi) | [B AB O](https://open.spotify.com/album/2mTrE0MRVE2XoQYSrWaUQM) | 2:59 | 2026-10-28 |  |
+| [Wah](https://open.spotify.com/track/3PMJELrAlnHhx7BRNGymqj) | [BABO](https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi) | [B AB O](https://open.spotify.com/album/2mTrE0MRVE2XoQYSrWaUQM) | 2:59 | 2026-10-28 | 2026-11-05 |
 | [Wait for you](https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:51 | 2024-06-05 | 2024-11-07 |
 | [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 | 2024-06-05 | 2024-11-07 |
 | [Waiting For Your Calling Back](https://open.spotify.com/track/6GpyKE5T9si1V5QJMR6ra7) | [Sultan of the Disco](https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv) | [Waiting For Your Calling Back](https://open.spotify.com/album/61E8qZbwN805gq18noEjFZ) | 3:58 | 2022-07-08 | 2022-07-10 |

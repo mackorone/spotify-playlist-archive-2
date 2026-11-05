@@ -2,7 +2,7 @@
 
 ### [Disney Sing\-Alongs](https://open.spotify.com/playlist/37i9dQZF1DX1okZ1ZeITst)
 
-> Sing along with Moana and Maui to "How Far I'll Go," "You're Welcome" and other Disney favorites! Disney's Moana, in theaters soon.
+> Sing your heart out with the Disney Sing\-Alongs playlist! Featuring karaoke jams such as "Zoo" performed by Shakira from Zootopia 2, now available on Disney+.
 
 201 songs - 10 hr 17 min
 

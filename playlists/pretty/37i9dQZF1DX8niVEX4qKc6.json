@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 194227,
+  "num_followers": 194235,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-10-13 17:50:35",
       "album": {
-        "name": "Turf",
-        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
-    },
-    {
-      "added_at": "2026-10-13 17:50:35",
-      "album": {
         "name": "Serenidad",
         "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 208250,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
+    },
+    {
+      "added_at": "2026-10-13 17:50:35",
+      "album": {
+        "name": "Turf",
+        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
     },
     {
       "added_at": "2026-10-13 17:50:35",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-10-13 17:50:35",
       "album": {
-        "name": "Celesteacustica",
-        "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
-      },
-      "artists": [
-        {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        },
-        {
-          "name": "Juanse",
-          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "Una Canci\u00f3n Diferente",
-      "url": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
-    },
-    {
-      "added_at": "2026-10-13 17:50:35",
-      "album": {
         "name": "Mundo Agradable (feat. Ricardo Mollo)",
         "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 273985,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
+    },
+    {
+      "added_at": "2026-10-13 17:50:35",
+      "album": {
+        "name": "Celesteacustica",
+        "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "Una Canci\u00f3n Diferente",
+      "url": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
     },
     {
       "added_at": "2026-10-13 17:50:35",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-10-13 17:50:35",
       "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2026-10-13 17:50:35",
+      "album": {
         "name": "De Mi Flor",
         "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2026-10-13 17:50:35",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+        "name": "Como Te Voy A Olvidar",
+        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
         }
       ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+      "duration_ms": 186750,
+      "name": "Como Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-10-13 17:50:35",
@@ -1463,22 +1479,6 @@
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
-    },
-    {
-      "added_at": "2026-10-13 17:50:35",
-      "album": {
-        "name": "Como Te Voy A Olvidar",
-        "url": "https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq"
-      },
-      "artists": [
-        {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Como Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu"
     },
     {
       "added_at": "2026-10-13 17:50:35",

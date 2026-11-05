@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're focusing, studying or relaxing.",
-  "num_followers": 204136,
+  "num_followers": 204144,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "duration_ms": 126005,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/4i5rDSpvSx1n3ZQITeVmEU"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 102077,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/0NGkpWYvNF7GOdp5k0wGW5"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4"
-      },
-      "artists": [
-        {
-          "name": "Harry Hawaii",
-          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
-        }
-      ],
-      "duration_ms": 126005,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Boulevards",
-        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
-      },
-      "artists": [
-        {
-          "name": "Dusty Decks",
-          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "Counterbalanced",
-      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 118333,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4Y0B217JMYCcdKjsC87SCB"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Boulevards",
+        "url": "https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Counterbalanced",
+      "url": "https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "skills",
-        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "skills",
-      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/2Sb3J6ExQSAl16YdNkgKys"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "skills",
+        "url": "https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "skills",
+      "url": "https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Tune Out",
         "url": "https://open.spotify.com/album/0qsd2kNplwL6h8eSXw5cRv"
       },
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
       },
       "artists": [
         {
-          "name": "Lotus Beats",
-          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
-        },
-        {
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
         }
       ],
-      "duration_ms": 101538,
-      "name": "Views",
-      "url": "https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz"
+      "duration_ms": 120000,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -543,18 +539,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
       },
       "artists": [
         {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+          "name": "Lotus Beats",
+          "url": "https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Another One",
-      "url": "https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w"
+      "duration_ms": 101538,
+      "name": "Views",
+      "url": "https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6HA0YCt69EeDJzGXpab7qt"
-      },
-      "artists": [
-        {
-          "name": "Dani Catal\u00e1",
-          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
-        },
-        {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/3pycJOi4bv8s9guLHYtXcZ"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "moments",
         "url": "https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 113323,
       "name": "tuesday evenings",
       "url": "https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6HA0YCt69EeDJzGXpab7qt"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3pycJOi4bv8s9guLHYtXcZ"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Alicante",
-        "url": "https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3"
-      },
-      "artists": [
-        {
-          "name": "Matt Large",
-          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
-        }
-      ],
-      "duration_ms": 184702,
-      "name": "Alicante",
-      "url": "https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/0UkQR5qvcniCN4wF8Xu7e1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 137142,
       "name": "canvas",
       "url": "https://open.spotify.com/track/3CrwuTDI5YwuPJhUZrG6vg"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "duration_ms": 184702,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/6E1T3eTNSIxE8UrqOmb2QW"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/1XJxXhc5f6USETATnHxdzc"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "Messing Around",
         "url": "https://open.spotify.com/album/3AHY3aDG3jE41PyMKU3ucG"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/6E1T3eTNSIxE8UrqOmb2QW"
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3rW69ZSJiMLCzEK3CM5CWk"
       },
       "artists": [
         {
-          "name": "Korey Wade",
-          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
         }
       ],
-      "duration_ms": 136062,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/1XJxXhc5f6USETATnHxdzc"
+      "duration_ms": 118441,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/7IDRN9WL35dfsZTiIaCd17"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -843,22 +859,6 @@
       "duration_ms": 114352,
       "name": "Lunar garden",
       "url": "https://open.spotify.com/track/7vXmhCsyBVW6oSp7rffhPm"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "Pages",
-        "url": "https://open.spotify.com/album/3rW69ZSJiMLCzEK3CM5CWk"
-      },
-      "artists": [
-        {
-          "name": "Sling Dilly",
-          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
-        }
-      ],
-      "duration_ms": 118441,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/7IDRN9WL35dfsZTiIaCd17"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
+        "name": "THIQ",
+        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
+      },
+      "artists": [
+        {
+          "name": "Bloomsbury Boys",
+          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
+        }
+      ],
+      "duration_ms": 143283,
+      "name": "THIQ",
+      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
         "name": "pearls",
         "url": "https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 135987,
       "name": "Good feeling",
       "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
-        "name": "THIQ",
-        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
-      },
-      "artists": [
-        {
-          "name": "Bloomsbury Boys",
-          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "THIQ",
-      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Moonwalker",
-        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 162978,
-      "name": "Moonwalker",
-      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "Morning Waffles",
         "url": "https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 144744,
       "name": "Morning Waffles",
       "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Moonwalker",
+        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 162978,
+      "name": "Moonwalker",
+      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
     },
     {
       "added_at": "2026-10-16 07:28:54",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-10-16 07:28:54",
       "album": {
-        "name": "Flat Out",
-        "url": "https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 139677,
-      "name": "Flat Out",
-      "url": "https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE"
-    },
-    {
-      "added_at": "2026-10-16 07:28:54",
-      "album": {
         "name": "drop top",
         "url": "https://open.spotify.com/album/5gvHSInmVc8QP4xRzfJi0u"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 152958,
       "name": "drop top",
       "url": "https://open.spotify.com/track/1dMAKSyWc90DhQY8zix6gp"
+    },
+    {
+      "added_at": "2026-10-16 07:28:54",
+      "album": {
+        "name": "Flat Out",
+        "url": "https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 139677,
+      "name": "Flat Out",
+      "url": "https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE"
     },
     {
       "added_at": "2026-10-16 07:28:54",

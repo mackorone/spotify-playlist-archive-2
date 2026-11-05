@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 299013,
       "name": "Babuji Zara Dheere Chalo",
       "url": "https://open.spotify.com/track/6tBw0YriaKSzUr5M8xXH2H"
@@ -6318,6 +6318,32 @@
       "duration_ms": 296720,
       "name": "Soniye",
       "url": "https://open.spotify.com/track/5O4AGvOVFSs5ipu3iNOuoi"
+    },
+    {
+      "album": {
+        "name": "RAAZ - The Mystery Continues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3F8mzJRUYy1XJKoslREx1C"
+      },
+      "artists": [
+        {
+          "name": "Raju Singh",
+          "url": "https://open.spotify.com/artist/7nok5RndHMd3FHe4ubHX80"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328440,
+      "name": "Soniyo",
+      "url": "https://open.spotify.com/track/4J5OpeZUR2msDPfMsIeGSU"
     },
     {
       "album": {

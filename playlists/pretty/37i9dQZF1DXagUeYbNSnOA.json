@@ -1,13 +1,65 @@
 {
-  "description": "The best new music by independent artists and labels, featuring Blua. Updates every Wednesday.",
-  "num_followers": 188039,
+  "description": "The best new music by independent artists and labels, featuring feel trip. Updates every Wednesday.",
+  "num_followers": 188070,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgTQkdTvbr9Qk99PfLzDACEJ8v4",
+  "snapshot_id": "AAAAAKn2AwWdPLI8zIEAq6C0zSPT+Y5o",
   "tracks": [
+    {
+      "added_at": "2026-11-05 04:16:36",
+      "album": {
+        "name": "feel trip.",
+        "url": "https://open.spotify.com/album/0ulcvQush73hnL6XY3odm7"
+      },
+      "artists": [
+        {
+          "name": "feel trip.",
+          "url": "https://open.spotify.com/artist/7ysdcHcrr06qQJ1BL0dKVU"
+        }
+      ],
+      "duration_ms": 145449,
+      "name": "siete veces",
+      "url": "https://open.spotify.com/track/0hG1rclLdrv3OzVWimq6dO"
+    },
+    {
+      "added_at": "2026-11-05 04:16:36",
+      "album": {
+        "name": "WAU",
+        "url": "https://open.spotify.com/album/4hMePO0x4OX6qPCKyaq1SY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Jhoni",
+          "url": "https://open.spotify.com/artist/38dLFB2qWMHGgmRUlZAe47"
+        }
+      ],
+      "duration_ms": 136640,
+      "name": "WAU",
+      "url": "https://open.spotify.com/track/7ylwaRu3FobcYFxnvaLV94"
+    },
+    {
+      "added_at": "2026-11-05 04:16:36",
+      "album": {
+        "name": "Hombre Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/23AaXiCU6oJGYkQJYHTw8a"
+      },
+      "artists": [
+        {
+          "name": "Andy Daze",
+          "url": "https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "Estar\u00e1s Mejor",
+      "url": "https://open.spotify.com/track/1x9sg1RzYxXJF9NzbNGRMl"
+    },
     {
       "added_at": "2026-10-14 04:00:23",
       "album": {
@@ -25,6 +77,22 @@
       "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
+      "added_at": "2026-11-05 04:16:36",
+      "album": {
+        "name": "PALABRAS DE MUJER",
+        "url": "https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE"
+      },
+      "artists": [
+        {
+          "name": "trouve feraud",
+          "url": "https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o"
+        }
+      ],
+      "duration_ms": 223616,
+      "name": "PALABRAS DE MUJER",
+      "url": "https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc"
+    },
+    {
       "added_at": "2026-10-21 19:59:04",
       "album": {
         "name": "IDK YET",
@@ -39,6 +107,22 @@
       "duration_ms": 193125,
       "name": "IDK YET",
       "url": "https://open.spotify.com/track/5QRj0GXILKffklmHANmKmh"
+    },
+    {
+      "added_at": "2026-11-05 04:16:36",
+      "album": {
+        "name": "Hipermetrop\u00eda",
+        "url": "https://open.spotify.com/album/2LHBJxZIvs2DLbcUtYUujH"
+      },
+      "artists": [
+        {
+          "name": "TEO",
+          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
+        }
+      ],
+      "duration_ms": 204767,
+      "name": "desaparecer-t",
+      "url": "https://open.spotify.com/track/4KQq4OM7mWJpITgsIqVsZB"
     },
     {
       "added_at": "2026-10-21 19:59:04",
@@ -109,6 +193,22 @@
       "url": "https://open.spotify.com/track/6TWVvpKrhxDsTV9jrQaZXy"
     },
     {
+      "added_at": "2026-11-05 04:16:36",
+      "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/3LUlzmw7CvKaF75n4Lhltt"
+      },
+      "artists": [
+        {
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/185VSL1yq51ufpBz76SWNK"
+    },
+    {
       "added_at": "2026-10-21 19:59:04",
       "album": {
         "name": "Amiga nueva",
@@ -143,6 +243,22 @@
       "duration_ms": 163536,
       "name": "punkrocker",
       "url": "https://open.spotify.com/track/51Loe5UqTnZu5cLXWmLKBz"
+    },
+    {
+      "added_at": "2026-11-05 04:16:36",
+      "album": {
+        "name": "exorcizarme",
+        "url": "https://open.spotify.com/album/2X2LsJgHap3xnudiLmL8xp"
+      },
+      "artists": [
+        {
+          "name": "El Muchacho de los Ojos Tristes",
+          "url": "https://open.spotify.com/artist/0MDwsY5nQTWmb1TPOqVh0H"
+        }
+      ],
+      "duration_ms": 168127,
+      "name": "exorcizarme",
+      "url": "https://open.spotify.com/track/14QI0ip1FV0UFxk0lRvApQ"
     },
     {
       "added_at": "2026-10-21 19:59:04",
@@ -347,22 +463,6 @@
       "duration_ms": 189000,
       "name": "La Canela",
       "url": "https://open.spotify.com/track/037r576gRxGJ2cozF2rFLH"
-    },
-    {
-      "added_at": "2026-10-14 04:00:23",
-      "album": {
-        "name": "Se Siente",
-        "url": "https://open.spotify.com/album/6OALpPR0gkD4p85RIO9n2P"
-      },
-      "artists": [
-        {
-          "name": "Andy Daze",
-          "url": "https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8"
-        }
-      ],
-      "duration_ms": 220051,
-      "name": "Se Siente",
-      "url": "https://open.spotify.com/track/37IKCn9sIkW8Dz4CSBvdeC"
     },
     {
       "added_at": "2026-10-14 04:00:23",
@@ -703,22 +803,6 @@
     {
       "added_at": "2026-10-14 04:00:23",
       "album": {
-        "name": "ALMA ROSA",
-        "url": "https://open.spotify.com/album/4HzY5u7zTuTCa8xtt5k6zD"
-      },
-      "artists": [
-        {
-          "name": "AARON 21",
-          "url": "https://open.spotify.com/artist/3MnIqSNBCoSHtfSZpVeh6r"
-        }
-      ],
-      "duration_ms": 245685,
-      "name": "MUCHACHA",
-      "url": "https://open.spotify.com/track/1n8llvG3comqKbyd1jLz09"
-    },
-    {
-      "added_at": "2026-10-14 04:00:23",
-      "album": {
         "name": "Algo M\u00e1s",
         "url": "https://open.spotify.com/album/14gLmHFqobIVIwsk6gVIlD"
       },
@@ -767,86 +851,6 @@
       "duration_ms": 150182,
       "name": "Tus reglas",
       "url": "https://open.spotify.com/track/4QIYHuqL0XYsGfGokx862c"
-    },
-    {
-      "added_at": "2026-10-14 04:00:23",
-      "album": {
-        "name": "CAMIONETA",
-        "url": "https://open.spotify.com/album/5OKKOjixzfh9rjgMz3UIrW"
-      },
-      "artists": [
-        {
-          "name": "Sam Eli",
-          "url": "https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG"
-        }
-      ],
-      "duration_ms": 154750,
-      "name": "CAMIONETA",
-      "url": "https://open.spotify.com/track/3JptJPIO9qO2CBsgOh6lYU"
-    },
-    {
-      "added_at": "2026-10-14 04:00:23",
-      "album": {
-        "name": "LA NOCHE ENTERA",
-        "url": "https://open.spotify.com/album/4Pj1pDNX02TvOgtIIwCsNI"
-      },
-      "artists": [
-        {
-          "name": "GiL",
-          "url": "https://open.spotify.com/artist/2KFLCTcrtIp3XarFJdd1Gw"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "LA NOCHE ENTERA",
-      "url": "https://open.spotify.com/track/47tCmI8WtE6HwgVuS0pIqw"
-    },
-    {
-      "added_at": "2026-10-14 04:00:23",
-      "album": {
-        "name": "No Te Conozco",
-        "url": "https://open.spotify.com/album/7kFnXieD32CbRbG0Y5BhRw"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "No Te Conozco",
-      "url": "https://open.spotify.com/track/47lpbJAokaznKpJR1mgKlb"
-    },
-    {
-      "added_at": "2026-10-14 04:00:23",
-      "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 169446,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
-    },
-    {
-      "added_at": "2026-10-14 04:00:23",
-      "album": {
-        "name": "Tienes Suerte",
-        "url": "https://open.spotify.com/album/7IgL1CTV3nH7yIQY80yT9s"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 192556,
-      "name": "Tienes Suerte",
-      "url": "https://open.spotify.com/track/5NZN27iyaaUGNRUGHKHdz1"
     }
   ],
   "unique_name": "Fresh Finds Latin",

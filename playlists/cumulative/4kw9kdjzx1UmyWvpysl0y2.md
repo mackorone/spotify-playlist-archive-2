@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,331 songs - 3 day 1 hr 45 min
+1,332 songs - 3 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Spectrum \- Futurebound Remix](https://open.spotify.com/track/4PCa9U1xxIgyCsUe6mE40Z) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5) | [Spectrum \(Futurebound Remix\)](https://open.spotify.com/album/7eyzszsLG8gfNiPSDPqCuP) | 3:50 | 2022-03-02 | 2022-05-14 |
 | [SPEED DEMON](https://open.spotify.com/track/3RwMwE1qf4YtewI7wabXT9) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3) | [SPEED DEMON](https://open.spotify.com/album/72xHaWw71hfZimkocypls4) | 2:30 | 2026-02-18 | 2026-06-06 |
 | [Speed Of Light](https://open.spotify.com/track/6Gr4CPYjaP5969AACKDdfZ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Speed Of Light](https://open.spotify.com/album/5i0cFxjBv38hQmSEHgyQyO) | 2:57 | 2026-06-15 | 2026-09-29 |
+| [Split Signal](https://open.spotify.com/track/1QLPvlwhqNhoEtybsYuO79) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Split Signal](https://open.spotify.com/album/2fOopypzh9Jm4aPX1Vf5ZP) | 2:59 | 2026-11-04 |  |
 | [Stained Glass](https://open.spotify.com/track/6jAPzxblYZrD1XpGAhIswt) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq), [Chxse](https://open.spotify.com/artist/1Xyr7EUPlc0ZDHaE0VRBRz) | [Stained Glass](https://open.spotify.com/album/4VYcnqjXVo6ekUEIOUr0Ml) | 2:51 | 2022-02-15 | 2022-04-27 |
 | [Stand By Me](https://open.spotify.com/track/4z6JhOgdaVoP4WR3gjftBJ) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Stand By Me](https://open.spotify.com/album/5R4PlfnRbAsDQoCBpArhDK) | 4:12 | 2021-11-19 | 2022-02-24 |
 | [Star Glide \- Stonebank Remix](https://open.spotify.com/track/0tRIhHyjXfeElFTObVEJDg) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [The X Saga](https://open.spotify.com/album/0cEjf52EUrUJGPxlW205ea) | 4:10 | 2022-03-31 | 2022-06-11 |

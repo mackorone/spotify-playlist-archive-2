@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 17128,
+  "num_followers": 17133,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "V\u00e1rok R\u00e1d",
+        "url": "https://open.spotify.com/album/2zr6C54DVZWC8pPmPuOThx"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 169870,
+      "name": "V\u00e1rok R\u00e1d",
+      "url": "https://open.spotify.com/track/5ilhxSrCOfJSQNYfC022mT"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "SZINTIPOP",
         "url": "https://open.spotify.com/album/76HGfnlgAvUzsBnd7z77ou"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 204923,
       "name": "MEGTAL\u00c1LLAK M\u00c9G (feat. Lil Frakk & FLM)",
       "url": "https://open.spotify.com/track/2Uc4wbnLvtDu9jLvYg96fs"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "V\u00e1rok R\u00e1d",
-        "url": "https://open.spotify.com/album/2zr6C54DVZWC8pPmPuOThx"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 169870,
-      "name": "V\u00e1rok R\u00e1d",
-      "url": "https://open.spotify.com/track/5ilhxSrCOfJSQNYfC022mT"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Nem Ismerlek",
+        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Nem Ismerlek",
+      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "Harmadnap",
         "url": "https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 156633,
       "name": "Cricket",
       "url": "https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "Nem Ismerlek",
-        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Nem Ismerlek",
-      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -919,42 +919,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "LAKKATLAN SZEEGET",
-        "url": "https://open.spotify.com/album/5AtXdTEllUA0nbKhC1iyQI"
-      },
-      "artists": [
-        {
-          "name": "cibi",
-          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
-        },
-        {
-          "name": "ROSE MAY",
-          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "DONEKIRK",
-      "url": "https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 218675,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -975,18 +939,38 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+        "name": "1%",
+        "url": "https://open.spotify.com/album/7CS8xqnsr8hihSZBNGH69n"
       },
       "artists": [
         {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+      "duration_ms": 218675,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/3nMdLmpwXWPE8JtJ8bQQVn"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "LAKKATLAN SZEEGET",
+        "url": "https://open.spotify.com/album/5AtXdTEllUA0nbKhC1iyQI"
+      },
+      "artists": [
+        {
+          "name": "cibi",
+          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
+        },
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "DONEKIRK",
+      "url": "https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
       },
@@ -1035,6 +1035,38 @@
       "duration_ms": 205688,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "IM\u00c1G\u00d3",
+        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "\u00dcDV A KLUBBAN",
+      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "buligyilkos",
+        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 178838,
+      "name": "buligyilkos",
+      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "IM\u00c1G\u00d3",
-        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "\u00dcDV A KLUBBAN",
-      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "ALL-IN",
         "url": "https://open.spotify.com/album/5OBtMgai6IIIudhnm0hGBz"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 218508,
       "name": "ALL-IN",
       "url": "https://open.spotify.com/track/2y4F6BLHSKnwfaML1PVWk0"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "buligyilkos",
-        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 178838,
-      "name": "buligyilkos",
-      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
     },
     {
       "added_at": "2026-09-18 15:19:05",

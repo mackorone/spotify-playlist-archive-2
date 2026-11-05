@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-343 songs - 17 hr 54 min
+344 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Green Eyes \(Aquellos Ojos Verdes\)](https://open.spotify.com/track/57pvuw28NdaTHY7YJpv9ym) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Silver Reeds over the Avalon Ballroom](https://open.spotify.com/album/1D1a2BAXRykSKr6UI9Zbry) | 3:21 | 2026-08-18 | 2026-08-23 |
 | [Happiest Girl in the World](https://open.spotify.com/track/4EAfQBOMsisU159cHoBxAl) | [Plus 4](https://open.spotify.com/artist/7bwxKK7KGQ37lZ1Fv0Neta) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:45 | 2024-07-24 | 2025-06-28 |
 | [Heads Up](https://open.spotify.com/track/0eguDkKSP6GvVrKpYr6gpP) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D), [Jimmy Halperin](https://open.spotify.com/artist/7Kru4D4d5ow7EB1KoNfvjG), [Barry Harris](https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX), [David Williams](https://open.spotify.com/artist/0eG6MFII1hM441t99rgV1q), [Albert Tootie Heath](https://open.spotify.com/artist/53yX28INJxLAZYpUbANw3K) | [Back Home](https://open.spotify.com/album/4FwTxmxcEYgWdjerrnj6lW) | 5:29 | 2024-07-24 | 2025-06-28 |
-| [Here's to Your Illusions](https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 2:27 | 2024-07-24 |  |
+| [Here's to Your Illusions](https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 2:27 | 2024-07-24 | 2026-11-05 |
+| [Here's to Your Illusions](https://open.spotify.com/track/5jCIe6AQP8DbRtoqiImsVL) | [Stevie Holland](https://open.spotify.com/artist/10PPjrCyU1ubBpw9uANmjc) | [Before Love Has Gone](https://open.spotify.com/album/2OKNR9vma3KBd5JxAUMeiE) | 5:12 | 2026-11-04 |  |
 | [Hey! Bo Diddley](https://open.spotify.com/track/0Stq0NVgLIXyrAN5tLvyIt) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:10 | 2024-07-24 | 2025-06-28 |
 | [Hitchhikers](https://open.spotify.com/track/5R3S3kSGEJLizz3pX20US5) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 2:32 | 2024-07-24 |  |
 | [Hold on to Your Hat](https://open.spotify.com/track/7uEO4f0fWhU25Up0qSn4Na) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Wonderful, Glorious \(Deluxe Version\)](https://open.spotify.com/album/2fuYaUrhe1vjccKonLPEK0) | 0:46 | 2024-07-24 | 2025-06-28 |

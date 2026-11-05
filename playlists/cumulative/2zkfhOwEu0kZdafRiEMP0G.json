@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "This Place Will Become Your Tomb",
+        "url": "https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262413,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/53oDKpNb7Dul7sINdxaiNa"
+    },
+    {
+      "album": {
         "name": "Misadventures",
         "url": "https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ"
       },

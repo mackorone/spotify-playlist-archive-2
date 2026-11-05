@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73849,
+  "num_followers": 73875,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Desert Rose",
-        "url": "https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5"
+        "name": "Die in Denver",
+        "url": "https://open.spotify.com/album/1E4Srp7xDtym6hn5PywVqn"
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        },
-        {
-          "name": "Clive Hunt",
-          "url": "https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8"
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Desert Rose",
-      "url": "https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym"
+      "duration_ms": 164326,
+      "name": "Die in Denver",
+      "url": "https://open.spotify.com/track/4A04Sd7GfZ2rrrOK0BX6lw"
     }
   ],
   "unique_name": "Ska Around The Globe",

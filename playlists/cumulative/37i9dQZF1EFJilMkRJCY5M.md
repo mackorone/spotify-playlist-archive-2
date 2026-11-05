@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-202 songs - 10 hr 30 min
+208 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2022-09-24 |  |
 | [All for Nothing](https://open.spotify.com/track/1bNiYAH8XGajKV2QB0r82A) | [Faith Hopkins](https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W) | [All for Nothing](https://open.spotify.com/album/7I4biCiz4l1K1JEeLcEWAT) | 3:05 | 2026-09-05 |  |
 | [Almost Was](https://open.spotify.com/track/7vgvhrvnkN76Z5oYRxB4Sl) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:39 | 2026-09-05 |  |
+| [Always Be My Maybe](https://open.spotify.com/track/5w42X5pgpx8RoqURr4b4Ki) | [Jon Bullard](https://open.spotify.com/artist/1rk5Umz5FY6GS5Inx4A920) | [Always Be My Maybe](https://open.spotify.com/album/3KgcqByCVl2GCYPxgURfnn) | 3:15 | 2026-11-04 |  |
 | [American Dream](https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [American Dream](https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl) | 3:06 | 2025-04-14 |  |
 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 | 2022-05-29 |  |
 | [Baby Blue](https://open.spotify.com/track/1cFgobzKd4ZZ378Hc6Hi8v) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/3D0eqzFLwFtlndHXsADjy3) | 2:59 | 2025-11-27 |  |
@@ -69,6 +70,7 @@
 | [Ghost Of My Past](https://open.spotify.com/track/0zDftqIhxEhl9AfGiCvgGh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:36 | 2022-05-29 |  |
 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 | 2022-07-03 | 2022-10-03 |
 | [Girl Wonder](https://open.spotify.com/track/3hNFCHrMfOpjwE6p517XX4) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 3:02 | 2022-10-02 |  |
+| [God Given](https://open.spotify.com/track/43Vgax4W3Ho95apGs1UXzr) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Country With Heart \(Part Two\)](https://open.spotify.com/album/1WGkMAwadlQ8eSEcVg3G2v) | 3:37 | 2026-11-04 |  |
 | [Golden Days](https://open.spotify.com/track/5dOdysFdXSPhUltpIPwIRC) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Moana: Voices Across The Ocean \(Music Inspired By\)](https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv) | 3:35 | 2026-09-05 |  |
 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 | 2025-07-24 |  |
 | [h8 u right now](https://open.spotify.com/track/102PnC9x6PwMec0i2DRiV0) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [h8 u right now](https://open.spotify.com/album/1CYXIOyMtlGPR5a1JcwcTm) | 2:57 | 2023-07-16 |  |
@@ -105,6 +107,7 @@
 | [Keep in Touch](https://open.spotify.com/track/4G3U1mkd1x0qYYzVAcV4rY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [TWENTYTWENTY](https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi) | 3:02 | 2022-05-29 | 2022-12-24 |
 | [Last Fall](https://open.spotify.com/track/17EdWmpQM7VMrJaYA7BJi3) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Last Fall](https://open.spotify.com/album/746cIlVvOicxEAG96F4ZPW) | 3:45 | 2023-12-13 |  |
 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 | 2023-02-05 |  |
+| [Let Myself Go There](https://open.spotify.com/track/1gPIQKPHjCPGY3kReO2akr) | [Aniston Pate](https://open.spotify.com/artist/6qyJDLUmQQzIqPvNOv8UUq) | [Let Myself Go There](https://open.spotify.com/album/5V2R1bnOouM4ptzSBqbAw6) | 3:34 | 2026-11-04 |  |
 | [Lethal](https://open.spotify.com/track/7k0n8cQ0XUxDU5209qcE07) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [When the Money Runs Out](https://open.spotify.com/album/1a8Qi4Py6my4IxQAjWoPFK) | 2:50 | 2026-02-28 |  |
 | [Little Things](https://open.spotify.com/track/18ytBQMlp5IC4P9ijWQJHT) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Stages](https://open.spotify.com/album/5ASpKI1nYTqOELTC8VpkD2) | 3:16 | 2026-08-30 |  |
 | [Little Things](https://open.spotify.com/track/1vQtS9oKsjY6tWr3CizNAl) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Little Things](https://open.spotify.com/album/78qFqIAO3RIsGmqgBLDtFt) | 3:16 | 2025-08-10 | 2026-08-31 |
@@ -146,6 +149,7 @@
 | [Numb](https://open.spotify.com/track/5b8P0xgs0DkJgLOydzEztx) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/2vQFKDHXLIEjeawvQk3v8I) | 3:34 | 2026-07-16 |  |
 | [Oh Emma](https://open.spotify.com/track/1QN3b7hY39xs4Gr2Szai5f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:34 | 2024-05-26 |  |
 | [Oh Emma](https://open.spotify.com/track/3Hw3iY34TYPXLDochBPjqc) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Oh Emma](https://open.spotify.com/album/05X7826UK8nDVhJ0AOWNJp) | 3:34 | 2024-05-17 | 2024-05-27 |
+| [Oh, What A Feeling!](https://open.spotify.com/track/1B6hPYhFN2uwsewEEgrqzR) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Oh, What A Feeling!](https://open.spotify.com/album/30ScrCPw6r5rYByoybZP02) | 3:04 | 2026-11-04 |  |
 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 | 2022-05-29 |  |
 | [One Christmas](https://open.spotify.com/track/2GOH0jfQmq1lodavdkPeXi) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Abby Anderson’s Merry Merry\-achi Christmas](https://open.spotify.com/album/0CxUcChvyRCwVlaabL3wPO) | 3:00 | 2025-12-20 |  |
 | [Outdoor Voices](https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:00 | 2022-05-29 |  |
@@ -197,6 +201,8 @@
 | [Unbreakup](https://open.spotify.com/track/6Pc4PWAChVirhXD7v9TBKa) | [Oliver Blank](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/3HVVrtcAkV7oArIPGQV0GQ) | 3:44 | 2024-07-17 |  |
 | [Upbringing](https://open.spotify.com/track/2pbF86tif6KTU7AWZrwwsL) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Upbringing](https://open.spotify.com/album/28HsIxVJY8rcnDiRZm4ClM) | 3:06 | 2025-07-24 | 2025-08-14 |
 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 | 2026-06-03 |  |
+| [Vultures](https://open.spotify.com/track/2jDMeEw84Yb44Apo3t37ep) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [My Midwest Best](https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9) | 3:23 | 2026-11-04 |  |
+| [Want To](https://open.spotify.com/track/508ZYDpg9PXR0KJRqFiVcW) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Revolver, 2026](https://open.spotify.com/album/4XL2LxLYtZ0i6mK3wo3WH8) | 5:19 | 2026-11-04 |  |
 | [Wasted](https://open.spotify.com/track/411amJVDbx5dt7cGFPIAhg) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6Zqf5CDLIGPjHh6ZT0NInT) | 2:45 | 2022-10-18 |  |
 | [Wasted](https://open.spotify.com/track/5HUfKHpYUG2Q5qtuVJ9IE3) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6kdwiQJEmAhrNPo9mvhD8m) | 2:45 | 2022-05-29 | 2022-10-19 |
 | [We Can’t Be Friends](https://open.spotify.com/track/07N4DMXTlLjoGnaNdr75z9) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL) | [We Can’t Be Friends](https://open.spotify.com/album/49Vai1B7rDNOgmKoWvqirN) | 3:34 | 2022-05-29 | 2023-09-26 |

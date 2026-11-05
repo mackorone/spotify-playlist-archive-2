@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Young Nudy, Megan Thee Stallion, 2 Chainz, Offset, Sampa The Great and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,779 likes - 61 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,812 likes - 61 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

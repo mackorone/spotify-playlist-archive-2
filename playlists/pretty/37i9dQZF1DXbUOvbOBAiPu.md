@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dressed Like Boys, TeddyBear, Mylène Farmer & DJ Snake, Ronisia, MEAU,  Armin van Buuren and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,677 likes - 118 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,672 likes - 118 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 8 | [Koh\-Lanta](https://open.spotify.com/track/59vMTdfrk4H6Vua1y5YgRp) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [Koh\-Lanta](https://open.spotify.com/album/3v8TLhsflfaLQWJfQHqTWY) | 2:39 |
 | 9 | [What If I Told You](https://open.spotify.com/track/1Prjbm3rLgAsp10cI0RVia) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [What If I Told You](https://open.spotify.com/album/0s5dJYJD3Ya9i2bhqvslOl) | 2:54 |
 | 10 | [XXX](https://open.spotify.com/track/5mtzwk6cwqNgxCS6TCtOrv) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [XXX](https://open.spotify.com/album/4u1g17fxbFOwgKPtFkIKrx) | 2:10 |
-| 11 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 11 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 12 | [mononoke](https://open.spotify.com/track/53oxxT1yPpRlGiF6svD17o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [mononoke](https://open.spotify.com/album/3vAbOmWlcBq56XtkiRcLAm) | 3:59 |
 | 13 | [Spijt Komt Later](https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Meisje Van Het Noorden](https://open.spotify.com/album/59Htiw60K0NE276cUSguCw) | 2:49 |
 | 14 | [Run Away From the Mob](https://open.spotify.com/track/2xeGlyvvXDKWiPgenEMccp) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Run Away From the Mob](https://open.spotify.com/album/2hbBKkFjvCmxVQGdzBzYtT) | 3:58 |

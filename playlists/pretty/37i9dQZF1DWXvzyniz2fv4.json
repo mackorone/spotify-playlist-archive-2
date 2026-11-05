@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157910,
+  "num_followers": 157904,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Tom Cinza",
-        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Tom Cinza",
-      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 144682,
       "name": "At\u00e9 o Final",
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Tom Cinza",
+        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tom Cinza",
+      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Tanta Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
-      },
-      "artists": [
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 195295,
-      "name": "Tanta Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "Pra Voc\u00ea Ficar",
         "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 160819,
       "name": "Pra Voc\u00ea Ficar",
       "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Tanta Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
+      },
+      "artists": [
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 195295,
+      "name": "Tanta Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
     },
     {
       "added_at": "2026-10-19 15:52:42",

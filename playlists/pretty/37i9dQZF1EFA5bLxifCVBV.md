@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 159 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 159 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 66 | [Push De Button](https://open.spotify.com/track/5NScIJgZ9PqoCs6E2yDhoP) | [The Don Elliott Octet](https://open.spotify.com/artist/1ICiBLRtAySYBDfaroMfr9) | [Jamaica Jazz](https://open.spotify.com/album/265JJ9qapHZKHriyJ6UiVq) | 6:02 |
 | 67 | [The Same Boat, Brother](https://open.spotify.com/track/1xxhUCYBJqNaFnkqzwFbJT) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [He Walked On](https://open.spotify.com/album/1gXwOtD1sj3fGXROIgtAUa) | 3:39 |
 | 68 | [Tom, Tom, the Piper's Son \(from "Presenting Lily Mars"\) \- 2022 Remaster](https://open.spotify.com/track/48GRePQCk5Un0bx3OlW3GJ) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:42 |
-| 69 | [Here's to Your Illusions](https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 2:27 |
+| 69 | [Here's to Your Illusions](https://open.spotify.com/track/5jCIe6AQP8DbRtoqiImsVL) | [Stevie Holland](https://open.spotify.com/artist/10PPjrCyU1ubBpw9uANmjc) | [Before Love Has Gone](https://open.spotify.com/album/2OKNR9vma3KBd5JxAUMeiE) | 5:12 |
 | 70 | [Strange As It Seems](https://open.spotify.com/track/1RjWuQU17DJes5IuWWlgN0) | [Adelaide Hall](https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI) | [The Enduring Charm Of Adelaide Hall, Original Recordings 1927 – 1944](https://open.spotify.com/album/1vO1boD6qIHSQjSXvMSmMw) | 3:04 |
 | 71 | [Cocoanut Sweet](https://open.spotify.com/track/5t5yhqiKdxYe7gVYd8LciC) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Jamaica \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7) | 2:27 |
 | 72 | [Savanna](https://open.spotify.com/track/16sdhZpJl4yXUcsOaC7RXl) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 4:08 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 158 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 159 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcgtwgAAAACu83QtUth0FnHvzXc0fNOU`
+Snapshot ID: `AcgzlAAAAAA/re0fMESK+awi9+sIZFOT`

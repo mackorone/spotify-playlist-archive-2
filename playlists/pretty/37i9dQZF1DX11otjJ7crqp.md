@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,701 likes - 175 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,911 likes - 175 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

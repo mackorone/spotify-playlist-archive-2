@@ -3991,6 +3991,24 @@
     },
     {
       "album": {
+        "name": "Good but not Okay",
+        "url": "https://open.spotify.com/album/1VRcZudvyYyffx3Oy4RdPF"
+      },
+      "artists": [
+        {
+          "name": "Lord Sebastian",
+          "url": "https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176037,
+      "name": "Good but not Okay",
+      "url": "https://open.spotify.com/track/6hlWLgVkAF5KZzEPs0L1TW"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/2ljaFGrgIpGVt04MXHP3IH"
       },
@@ -7588,6 +7606,28 @@
       "duration_ms": 228682,
       "name": "Queen of the Night",
       "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
+    },
+    {
+      "album": {
+        "name": "Kenopsia",
+        "url": "https://open.spotify.com/album/6DwiVyuMjmYVilA52OqiBP"
+      },
+      "artists": [
+        {
+          "name": "Rasir Srv",
+          "url": "https://open.spotify.com/artist/7IRwEoQapVLubr4u4KW8g8"
+        },
+        {
+          "name": "Lui Santana",
+          "url": "https://open.spotify.com/artist/34lCY8BwfxQNjwCk61O0S3"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Quien Eres Tu",
+      "url": "https://open.spotify.com/track/7wLDuGIKohd5uL2XS6aElg"
     },
     {
       "album": {

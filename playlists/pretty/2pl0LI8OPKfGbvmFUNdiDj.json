@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1323,
+  "num_followers": 1325,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEm46UsnQh0WypyADYujKcwqaIC3m1",
+  "snapshot_id": "AAAEnU1a1xUzBtirxP1iAE1tcSq+fSbG",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -911,6 +911,42 @@
       "duration_ms": 222239,
       "name": "Storm The Castle",
       "url": "https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK"
+    },
+    {
+      "added_at": "2026-11-04 21:04:38",
+      "album": {
+        "name": "Good but not Okay",
+        "url": "https://open.spotify.com/album/1VRcZudvyYyffx3Oy4RdPF"
+      },
+      "artists": [
+        {
+          "name": "Lord Sebastian",
+          "url": "https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm"
+        }
+      ],
+      "duration_ms": 176037,
+      "name": "Good but not Okay",
+      "url": "https://open.spotify.com/track/6hlWLgVkAF5KZzEPs0L1TW"
+    },
+    {
+      "added_at": "2026-11-04 21:06:50",
+      "album": {
+        "name": "Kenopsia",
+        "url": "https://open.spotify.com/album/6DwiVyuMjmYVilA52OqiBP"
+      },
+      "artists": [
+        {
+          "name": "Rasir Srv",
+          "url": "https://open.spotify.com/artist/7IRwEoQapVLubr4u4KW8g8"
+        },
+        {
+          "name": "Lui Santana",
+          "url": "https://open.spotify.com/artist/34lCY8BwfxQNjwCk61O0S3"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Quien Eres Tu",
+      "url": "https://open.spotify.com/track/7wLDuGIKohd5uL2XS6aElg"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

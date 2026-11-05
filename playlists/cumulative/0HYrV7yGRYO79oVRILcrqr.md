@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-853 songs - 2 day 5 hr 4 min
+856 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Coven's Flame](https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk) | [Z\-Cocoon](https://open.spotify.com/artist/04AOWpqtCLXZHtZ1ECOayN) | [Coven's Flame](https://open.spotify.com/album/7veP7vZZ18BeXjA63JeV0h) | 4:33 | 2025-11-29 | 2025-12-17 |
 | [Crave Me](https://open.spotify.com/track/57RNSA7UvxIV13b5HvqVER) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Crave Me](https://open.spotify.com/album/0KocF2JEya9AGF7RD9VAJK) | 2:31 | 2026-05-19 | 2026-06-25 |
 | [Crazy Daisy](https://open.spotify.com/track/133PlUjwPZmQAh2kaj2UKB) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Crazy Daisy](https://open.spotify.com/album/3ICfnKzG5KfMtFynfFzo2r) | 3:20 | 2026-06-10 |  |
+| [Creep \(Pa\)](https://open.spotify.com/track/1TZokqKAesOybmAlJPKXqQ) | [Storm](https://open.spotify.com/artist/54xkUQxKSduHJ1BBJuoMdv) | [Creep \(Pa\)](https://open.spotify.com/album/66ZWQAzYEdpiBogAohdpFg) | 4:02 | 2026-11-04 |  |
 | [Crimini e violenza](https://open.spotify.com/track/3mVOjo2V6Q9MepH5niV1JP) | [Gli Intrusi](https://open.spotify.com/artist/6GlgcfcuxlQVKi1OYnISWG) | [Crimini e violenza](https://open.spotify.com/album/7LCpxBa1j7WiBrC9DIaDMQ) | 4:13 | 2026-04-27 | 2026-05-26 |
 | [Cruisin' The Pike](https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cruisin' The Pike](https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36) | 4:39 | 2025-09-28 | 2025-12-17 |
 | [Crush!](https://open.spotify.com/track/41Lzk8mCq71gZPnbLiK81X) | [Marcus Dufray](https://open.spotify.com/artist/3N76PbL6PF7qP3BlH44Svq) | [Crush!](https://open.spotify.com/album/2yEKvtGlCDheDMXPRuAJTr) | 4:39 | 2025-11-09 | 2025-12-17 |
@@ -613,6 +614,7 @@
 | [Road home](https://open.spotify.com/track/3vWWVcx1tuc841jkIC7WHb) | [JJ Llombart](https://open.spotify.com/artist/3nUhOA1UIN29SP7hggslu9) | [Road home](https://open.spotify.com/album/0UMHEvnwS5ybVhdTXu4444) | 4:48 | 2026-01-27 | 2026-03-18 |
 | [Roadkill Restaurant](https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI) | [Parlour Creepers](https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd) | [Roadkill Restaurant](https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn) | 3:04 | 2026-06-09 | 2026-06-25 |
 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 | 2026-03-18 |
+| [Rock\-A\-Doodle\-Doo](https://open.spotify.com/track/1mYro7PZazULimirLpa6gE) | [Kelvin Butcher](https://open.spotify.com/artist/6KFY7vyX7g3AmvUJbZdraP) | [Rock\-A\-Doodle\-Doo](https://open.spotify.com/album/4IcXQu2ZWLEHSjtyupDntX) | 2:43 | 2026-11-04 |  |
 | [RockPaperScissors](https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [RockPaperScissors](https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6) | 3:25 | 2026-05-07 | 2026-05-26 |
 | [Rockstar Party](https://open.spotify.com/track/3Sx4katApADcbqhiD75eDh) | [Grand Gulla](https://open.spotify.com/artist/6XT6RewPtyOa6yJ7gpIWTW), [Matt Hogenson](https://open.spotify.com/artist/2JRJkaYJHjDBX4Yq3jWTJA) | [Rockstar Party](https://open.spotify.com/album/1mqhkdjTq5xZUjIb7ZNzqY) | 3:32 | 2026-10-14 |  |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 | 2026-07-12 |
@@ -670,6 +672,7 @@
 | [Soak It Up in Soap Lake](https://open.spotify.com/track/2qulAVfQ7s8GUg9XposEFw) | [Soap Lake Better Together](https://open.spotify.com/artist/4SDAWGysmZrEJJrHFGPAhh) | [Soak It Up in Soap Lake](https://open.spotify.com/album/29cVnImqP6FSLlVJ9nU0Po) | 3:12 | 2025-12-29 | 2026-03-18 |
 | [Sol de plata](https://open.spotify.com/track/1dlknX8icptmcv1OLzcVne) | [Por Si Dicen Que Caí](https://open.spotify.com/artist/23LRY8EOOefJ8VsihBF6lM) | [Sol de plata](https://open.spotify.com/album/4bIfqEsGgT61ZNbnfSwqsV) | 5:21 | 2026-01-12 | 2026-03-18 |
 | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/track/2E01jh8rrkNapzVyFyQWzw) | [CTRVL](https://open.spotify.com/artist/4KGZBTFYCnhD0WSoLfcYPD) | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/album/4Atk8Qt7icDaCPFcRbM76v) | 3:27 | 2025-09-01 | 2026-07-12 |
+| [Something Beautiful](https://open.spotify.com/track/7MPdi07bYZ9Mr0skHO1zcD) | [Mama Said](https://open.spotify.com/artist/3222eI74JYYnvhm4zhTu3V) | [Something Beautiful](https://open.spotify.com/album/7ySKhgK14TDlAka4zg7nC1) | 5:22 | 2026-11-04 |  |
 | [Something Blue](https://open.spotify.com/track/6IBvK2Xia5U5Wmg6jkI73G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Something Blue](https://open.spotify.com/album/226qtJTWbK1lfWh8aE82od) | 3:39 | 2025-10-17 |  |
 | [Somewhere I Belong](https://open.spotify.com/track/7qhubAcJBQyuVwCfvX0Lfz) | [Autogenic](https://open.spotify.com/artist/6d5cEuHc27DTtT4IkY6TJg) | [Somewhere I Belong](https://open.spotify.com/album/4zwc43bc9GQEBbElu8qgFg) | 4:25 | 2026-10-04 |  |
 | [Sommarn i mitt blod](https://open.spotify.com/track/6iBP2rjjCJcqt7ePYz9ErV) | [FALK](https://open.spotify.com/artist/1VvF9lnZujLwBlhfnA2RQr) | [Sommarn i mitt blod](https://open.spotify.com/album/3pnLECNV3u5d0vvzOCZgf2) | 3:46 | 2026-09-22 |  |

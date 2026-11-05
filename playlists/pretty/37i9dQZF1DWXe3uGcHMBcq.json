@@ -1,12 +1,12 @@
 {
   "description": "Rock out to the *perfect* songs from all your favorite Disney Channel shows and movies!",
-  "num_followers": 123454,
+  "num_followers": 123461,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6nWiYY+4MEYtpQ1da/SXis3ZYo",
+  "snapshot_id": "AAAAADlP82D504oFVfOX++F5ysFcEuQX",
   "tracks": [
     {
       "added_at": "2026-07-14 07:00:09",
@@ -39,6 +39,26 @@
       "duration_ms": 223198,
       "name": "Perfect Princess - From \"Descendants: Wicked Wonderland\"",
       "url": "https://open.spotify.com/track/1zfX5uZ5PdBRuKjSWgKOvf"
+    },
+    {
+      "added_at": "2026-11-04 15:08:17",
+      "album": {
+        "name": "Disney Channel Playlist",
+        "url": "https://open.spotify.com/album/3f4bhDIvXL4xOnM4elWNmK"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "One and the Same - From \"Princess Protection Program\"",
+      "url": "https://open.spotify.com/track/1QkJBQnCv81ef7gyWMDL3Q"
     },
     {
       "added_at": "2026-07-14 07:00:09",
@@ -993,26 +1013,6 @@
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
     },
     {
-      "added_at": "2026-08-28 19:31:35",
-      "album": {
-        "name": "Camp Rock 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
-      },
-      "artists": [
-        {
-          "name": "Liamani",
-          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 201207,
-      "name": "Brand New Day",
-      "url": "https://open.spotify.com/track/7fWqPukuuFHFuZO8AXBtQh"
-    },
-    {
       "added_at": "2026-07-14 07:00:09",
       "album": {
         "name": "ZOMBIES (Original TV Movie Soundtrack)",
@@ -1247,26 +1247,6 @@
       "duration_ms": 198000,
       "name": "What Time Is It",
       "url": "https://open.spotify.com/track/6NqfslFfCCOyBQ0Xw8kN8E"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "Kicks (From \"Sneakerella\")",
-        "url": "https://open.spotify.com/album/4xNzfG1xRk5VkFTjXRMi78"
-      },
-      "artists": [
-        {
-          "name": "Chosen Jacobs",
-          "url": "https://open.spotify.com/artist/7aoYhHQQOaTUlBzSoGg1kG"
-        },
-        {
-          "name": "Sneakerella - Cast",
-          "url": "https://open.spotify.com/artist/78i014EDOnmTmju1EzXsvf"
-        }
-      ],
-      "duration_ms": 166839,
-      "name": "Kicks - From \"Sneakerella\"",
-      "url": "https://open.spotify.com/track/6E9sTTOD2LlGrbaPAb7HGt"
     },
     {
       "added_at": "2026-07-14 07:00:09",
@@ -2183,22 +2163,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "Hands Up Cash Out (From \"The Proud Family: Louder and Prouder\"/A Cappella Version)",
-        "url": "https://open.spotify.com/album/3ZOluGDBDJ5fI6rkZT3nvR"
-      },
-      "artists": [
-        {
-          "name": "Raquel Lee Bolleau",
-          "url": "https://open.spotify.com/artist/76ufddlOoTYPomLXclhDED"
-        }
-      ],
-      "duration_ms": 70457,
-      "name": "Hands Up Cash Out - From \"The Proud Family: Louder and Prouder\"/A Cappella Version",
-      "url": "https://open.spotify.com/track/465p9jVlzPWDRuMVahFKq2"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
       },
@@ -2631,50 +2595,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "High School Musical 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
-      },
-      "artists": [
-        {
-          "name": "Troy",
-          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
-        },
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2XQ1tVtmHNKBOxaCbjYxdn"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "Teen Beach 2 (Original TV Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P"
-      },
-      "artists": [
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Chrissie Fit",
-          "url": "https://open.spotify.com/artist/593tFpGktkAsVgnuwUpgnx"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "Falling for Ya",
-      "url": "https://open.spotify.com/track/5zZJ9yrJw4bxoPTLoRXfIl"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "Teen Beach Movie",
         "url": "https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF"
       },
@@ -2867,38 +2787,6 @@
       "duration_ms": 198106,
       "name": "Determinate - From \"Lemonade Mouth\"",
       "url": "https://open.spotify.com/track/4qEoqyPbLYnLOii6mKlIjI"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "Mala, mala (De \"Playback: Una somos dos\" | Disney+)",
-        "url": "https://open.spotify.com/album/1gzsBb5TQQaWmp5UdK3X0l"
-      },
-      "artists": [
-        {
-          "name": "Juli Castro",
-          "url": "https://open.spotify.com/artist/26MEve506HPSe2WmdeHTMR"
-        },
-        {
-          "name": "Antonella Podest\u00e1",
-          "url": "https://open.spotify.com/artist/7Kl1jmJUJPCofdbHkirqfP"
-        },
-        {
-          "name": "VALEN G",
-          "url": "https://open.spotify.com/artist/3Pw9vz2aHdju3tLJZ4MM5D"
-        },
-        {
-          "name": "Elenco de Playback: Una somos dos",
-          "url": "https://open.spotify.com/artist/6HNSWK7i5Pyg4alZkUv2wz"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 132187,
-      "name": "Mala, mala - De \"Playback: Una somos dos\" | Disney+",
-      "url": "https://open.spotify.com/track/77tfBUhGLTLtGxLbud3R9S"
     },
     {
       "added_at": "2026-07-14 07:00:09",

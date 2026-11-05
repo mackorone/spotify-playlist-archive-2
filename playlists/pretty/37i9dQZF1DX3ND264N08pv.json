@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 97485,
+  "num_followers": 97497,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -699,18 +699,22 @@
     {
       "added_at": "2026-11-03 11:00:12",
       "album": {
-        "name": "Funk Faker",
-        "url": "https://open.spotify.com/album/2lGHsTPYHpS2SYJreSlxiv"
+        "name": "Druck Auf Anschlag",
+        "url": "https://open.spotify.com/album/5Wmmb4sCkMyG8yDPFv9lfJ"
       },
       "artists": [
         {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+          "name": "Danny Ores",
+          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
+        },
+        {
+          "name": "Yellow Pvnk",
+          "url": "https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Funk Faker",
-      "url": "https://open.spotify.com/track/7LiW603Jdv3P9Jnr07a7zl"
+      "duration_ms": 128580,
+      "name": "Druck Auf Anschlag",
+      "url": "https://open.spotify.com/track/0nQGMWTpErR32JMDUBELOr"
     },
     {
       "added_at": "2026-11-03 11:00:12",
@@ -755,22 +759,18 @@
     {
       "added_at": "2026-11-03 11:00:12",
       "album": {
-        "name": "Druck Auf Anschlag",
-        "url": "https://open.spotify.com/album/5Wmmb4sCkMyG8yDPFv9lfJ"
+        "name": "Funk Faker",
+        "url": "https://open.spotify.com/album/2lGHsTPYHpS2SYJreSlxiv"
       },
       "artists": [
         {
-          "name": "Danny Ores",
-          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
-        },
-        {
-          "name": "Yellow Pvnk",
-          "url": "https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8"
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
         }
       ],
-      "duration_ms": 128580,
-      "name": "Druck Auf Anschlag",
-      "url": "https://open.spotify.com/track/0nQGMWTpErR32JMDUBELOr"
+      "duration_ms": 156631,
+      "name": "Funk Faker",
+      "url": "https://open.spotify.com/track/7LiW603Jdv3P9Jnr07a7zl"
     },
     {
       "added_at": "2026-11-03 11:00:12",
@@ -795,30 +795,6 @@
     {
       "added_at": "2026-11-03 11:00:12",
       "album": {
-        "name": "The FOMO",
-        "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        },
-        {
-          "name": "Kili",
-          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
-        },
-        {
-          "name": "Complex",
-          "url": "https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "The FOMO",
-      "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
-    },
-    {
-      "added_at": "2026-11-03 11:00:12",
-      "album": {
         "name": "Uptempo Airlines",
         "url": "https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP"
       },
@@ -835,22 +811,6 @@
       "duration_ms": 164400,
       "name": "Uptempo Airlines",
       "url": "https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km"
-    },
-    {
-      "added_at": "2026-11-03 11:00:12",
-      "album": {
-        "name": "BEAST INSIDE ME",
-        "url": "https://open.spotify.com/album/3rdnLNBB2fsRfinDMEUxlQ"
-      },
-      "artists": [
-        {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "BEAST INSIDE ME",
-      "url": "https://open.spotify.com/track/2Zvcq8xex05KRqhDbmZtZr"
     },
     {
       "added_at": "2026-11-03 11:00:12",
@@ -875,6 +835,46 @@
       "duration_ms": 176225,
       "name": "RPG",
       "url": "https://open.spotify.com/track/1TBk77NylAFvQbkmKBYePi"
+    },
+    {
+      "added_at": "2026-11-03 11:00:12",
+      "album": {
+        "name": "BEAST INSIDE ME",
+        "url": "https://open.spotify.com/album/3rdnLNBB2fsRfinDMEUxlQ"
+      },
+      "artists": [
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "BEAST INSIDE ME",
+      "url": "https://open.spotify.com/track/2Zvcq8xex05KRqhDbmZtZr"
+    },
+    {
+      "added_at": "2026-11-03 11:00:12",
+      "album": {
+        "name": "The FOMO",
+        "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        },
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        },
+        {
+          "name": "Complex",
+          "url": "https://open.spotify.com/artist/3vJ219v2BFfCtlwd8snjK5"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "The FOMO",
+      "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
     },
     {
       "added_at": "2026-11-03 11:00:12",
@@ -979,22 +979,22 @@
     {
       "added_at": "2026-11-03 11:00:12",
       "album": {
-        "name": "Midnight Blue",
-        "url": "https://open.spotify.com/album/0GyquOv8MtnFGFKphmb15w"
+        "name": "Hit The Speakers",
+        "url": "https://open.spotify.com/album/5tzzkX9Tc6OJxQtUJCBxJN"
       },
       "artists": [
         {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         },
         {
-          "name": "The Viper",
-          "url": "https://open.spotify.com/artist/1ovLf87ytwpNoA4prvV8wt"
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
         }
       ],
-      "duration_ms": 241896,
-      "name": "Midnight Blue",
-      "url": "https://open.spotify.com/track/5XAZjchIMMaXpCfmhu794N"
+      "duration_ms": 205416,
+      "name": "Hit The Speakers",
+      "url": "https://open.spotify.com/track/0RbJaaZtC648PbCBgeb9Uh"
     },
     {
       "added_at": "2026-11-03 11:00:12",

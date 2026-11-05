@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Silvana Estrada & M\. Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,122 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,027 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 10 | [Cama](https://open.spotify.com/track/0nVYjNsfKAxIrUaHpyzpBR) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Cama](https://open.spotify.com/album/4fNiB7iZynQtMVMOh03A16) | 2:53 |
 | 11 | [Eterno aterrizaje](https://open.spotify.com/track/6Rn5RH9UK1Vcg0b3wKAdGQ) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [GARA](https://open.spotify.com/album/1VMl3DyqsgovHzaZX6k41h) | 3:42 |
 | 12 | [Libertad](https://open.spotify.com/track/4XDaqSDD7KeDVGYWUoTXzB) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Libertad](https://open.spotify.com/album/2wCPL6MDguOP9bQIngrLwg) | 4:34 |
-| 13 | [desaparecer\-t](https://open.spotify.com/track/4KQq4OM7mWJpITgsIqVsZB) | [Teo](https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq) | [Hipermetropía](https://open.spotify.com/album/2LHBJxZIvs2DLbcUtYUujH) | 3:24 |
+| 13 | [desaparecer\-t](https://open.spotify.com/track/4KQq4OM7mWJpITgsIqVsZB) | [TEO](https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq) | [Hipermetropía](https://open.spotify.com/album/2LHBJxZIvs2DLbcUtYUujH) | 3:24 |
 | 14 | [Tu Culpa](https://open.spotify.com/track/45x7XMSuwSHPzByFbntDZO) | [Mia Zeta](https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Dónde Salir a Buscar](https://open.spotify.com/album/0IcseSLWImK3Ere6V9tRGH) | 2:54 |
 | 15 | [Amarillo nena](https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Amarillo nena](https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr) | 2:28 |
 | 16 | [poco+real](https://open.spotify.com/track/3eZd4uj9faJKV1GgsxViT2) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [conamor,](https://open.spotify.com/album/5prOgSVAwMnCFimN3GgdDP) | 4:04 |

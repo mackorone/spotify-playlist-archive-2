@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,156 likes - 93 songs - 5 hr 22 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,156 likes - 96 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 91 | [Take Offense](https://open.spotify.com/track/6KTnhdefUqv06K42aw0YlT) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Humane!](https://open.spotify.com/album/66tIJHMVDylzOmKh9wMwCo) | 3:47 |
 | 92 | [Spin the gun](https://open.spotify.com/track/7MH5suTqdf2bndpfVZiu2L) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [Spin the gun](https://open.spotify.com/album/2yM3dIfTpsGGgnGIfGzoEK) | 3:54 |
 | 93 | [Sleep](https://open.spotify.com/track/6g5ORS7if31shIjkQpasaU) | [HEADCANNON](https://open.spotify.com/artist/2tStR3BVxSg9R87VXBaVCq) | [Sucker Bet](https://open.spotify.com/album/6mzUppPbexOulDlp66HDJl) | 4:01 |
+| 94 | [Akimbo](https://open.spotify.com/track/6SnG8fNedJViw0U6fx5qRg) | [Donnie Ace](https://open.spotify.com/artist/2NzFb0RWC4MP4kfN7wdg6v) | [Akimbo](https://open.spotify.com/album/7LUxUe1g421Ja7tlTIOrda) | 2:46 |
+| 95 | [Marasma](https://open.spotify.com/track/7CnaE1l3dfIPMam9dcXUN8) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Marasma](https://open.spotify.com/album/1ZFtstJ9coZI7JfePRCTlI) | 2:32 |
+| 96 | [Pathological](https://open.spotify.com/track/4DB1DRBSY4QQM3hpXEkb9V) | [K⚝YL⚝](https://open.spotify.com/artist/6sZDaOQDT0iLhPNZKQ1DQ8) | [Pathological](https://open.spotify.com/album/7ECaU37wnfC5WRrrd17FPN) | 3:25 |
 
-Snapshot ID: `AAAQQVeRoeHuyU98iaqAqVoMG/fn4lou`
+Snapshot ID: `AAAQRB27K/JDScfgkg3+tVGB7Sbv/Uhj`

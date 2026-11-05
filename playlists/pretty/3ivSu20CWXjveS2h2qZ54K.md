@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,930 likes - 69 songs - 3 hr 50 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,931 likes - 69 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 65 | [Hard Way \(feat\. Stephen Wilson Jr.\)](https://open.spotify.com/track/1zd46IUbQyPP34GdLa8hzG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [The Night Champion \(Deluxe\)](https://open.spotify.com/album/5dQrQnTJ2gNU4S2qjBP46H) | 3:39 |
 | 66 | [Lead The Way \- 1997 Version](https://open.spotify.com/track/5Y8LAVurqLEoatxbl8K4sa) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter \(Deluxe Edition\)](https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU) | 3:52 |
 | 67 | [Lover's Prayer](https://open.spotify.com/track/1emF11Fqyh67TLCsr6bBhn) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [Lover's Prayer](https://open.spotify.com/album/1sgyumxmvuVlQDAaeAV9UC) | 3:29 |
-| 68 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasper Erkens](https://open.spotify.com/artist/5AtFM1nCsJwNOFJVndnjjQ) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
+| 68 | [Vision](https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Vision EP](https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A) | 4:01 |
 | 69 | [Just Friends](https://open.spotify.com/track/4CxmgfD19iejZ1FtVIkaCJ) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Just Friends](https://open.spotify.com/album/5RTAObv08gamZTBJG2CEk6) | 4:00 |
 
 Snapshot ID: `AADwvTxHFWsJRXAU68sw2OpofMPcPJDz`

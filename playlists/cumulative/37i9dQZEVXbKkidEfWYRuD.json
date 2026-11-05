@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 127752,
       "name": "baby my type",
       "url": "https://open.spotify.com/track/7nqEn1KoMfA7HzyBo3ePL8"
@@ -13922,7 +13922,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 186893,
       "name": "MARTINE ROSE",
       "url": "https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf"
@@ -27288,7 +27288,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 217468,
       "name": "\u0411\u0406\u0422 \u0422\u0420\u0415\u041c\u0411\u0406\u0422",
       "url": "https://open.spotify.com/track/72O13xbRNI6TcTbeCIPRV5"
@@ -32642,7 +32642,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 201714,
       "name": "\u041a\u043e\u043b\u044c\u0454",
       "url": "https://open.spotify.com/track/2i7Nqa6jMW2qXA8w2iJs9s"
@@ -39312,7 +39312,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 179307,
       "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/7tpk93TWrPZy6etiJSU8Bv"
@@ -42175,6 +42175,40 @@
     },
     {
       "album": {
+        "name": "\u0422\u044b \u0433\u043e\u0440\u0438\u0448\u044c \u043a\u0430\u043a \u043e\u0433\u043e\u043d\u044c 2",
+        "url": "https://open.spotify.com/album/4yS5GH3MN93uL2kHeZsUY2"
+      },
+      "artists": [
+        {
+          "name": "SLAVA MARLOW",
+          "url": "https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh"
+        },
+        {
+          "name": "Gazan",
+          "url": "https://open.spotify.com/artist/4Qdtzv8titXp66B9nwAstz"
+        },
+        {
+          "name": "\u041a\u043e\u0431\u044f\u043a\u043e\u0432",
+          "url": "https://open.spotify.com/artist/74uzQiyXrVmyHyBkjQZOMR"
+        },
+        {
+          "name": "TOLY SUMMER",
+          "url": "https://open.spotify.com/artist/4QEbFHFxybRoBl4DsV2XdO"
+        },
+        {
+          "name": "\u0412\u043e\u0432\u0430 \u0421\u043e\u043b\u043e\u0434\u043a\u043e\u0432",
+          "url": "https://open.spotify.com/artist/5N9s4KIEJfVl2Va3WnzVaq"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101674,
+      "name": "\u0422\u044b \u0433\u043e\u0440\u0438\u0448\u044c \u043a\u0430\u043a \u043e\u0433\u043e\u043d\u044c 2",
+      "url": "https://open.spotify.com/track/6k3XUzU4yre98QD5Hc76KT"
+    },
+    {
+      "album": {
         "name": "\u0422\u044b \u0434\u0430\u043b\u0435\u043a\u043e",
         "url": "https://open.spotify.com/album/3hfPv7fNOFxZkWmn9z9C3r"
       },
@@ -43660,7 +43694,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-05",
       "duration_ms": 138305,
       "name": "\u0446\u0435\u043d\u0430",
       "url": "https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u"
@@ -44328,7 +44362,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 185061,
       "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
       "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"
