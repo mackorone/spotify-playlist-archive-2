@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Kethan",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Kethan, Kinoti & Ochiko",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1218,6 +1218,28 @@
       "duration_ms": 260000,
       "name": "Don't Chase Me Away",
       "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
+    },
+    {
+      "album": {
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/4pZ7os40zuKZykoGCoWkdp"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Nonny Mthiya",
+          "url": "https://open.spotify.com/artist/6k9Beuyxy8BboPYMfXHWvd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186642,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/4ufVoKeDzpO9rUj7vogLvT"
     },
     {
       "album": {
@@ -2859,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Only For A While",
+        "url": "https://open.spotify.com/album/5d649NfmfBEFL1flx5pPEs"
+      },
+      "artists": [
+        {
+          "name": "Altair Sa\u00efd",
+          "url": "https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/46jLzeCoS4lgVRQjdrRCI8"
+    },
+    {
+      "album": {
         "name": "Live and Die In Afrika",
         "url": "https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL"
       },
@@ -3468,7 +3508,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 181714,
       "name": "Look The Other Way",
       "url": "https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx"
@@ -5481,6 +5521,32 @@
     },
     {
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3I4mN1ycvLVaScIBXxR0fF"
+      },
+      "artists": [
+        {
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
+        },
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        },
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238738,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6qk2rf87XMbLO27R3AAnCO"
+    },
+    {
+      "album": {
         "name": "Labor Of Love",
         "url": "https://open.spotify.com/album/3qpsd3313heP97lFUi5klk"
       },
@@ -5884,7 +5950,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179160,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/5sa2fKOw0V3k6KZVDMJiyz"
@@ -6072,7 +6138,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 232173,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
@@ -6572,6 +6638,28 @@
       "duration_ms": 178016,
       "name": "The One",
       "url": "https://open.spotify.com/track/6YfzjQil3otRR3siUApB7w"
+    },
+    {
+      "album": {
+        "name": "Asubuhi",
+        "url": "https://open.spotify.com/album/3dUwdmL5RmUkp3hxusO6HM"
+      },
+      "artists": [
+        {
+          "name": "Davy Waweru",
+          "url": "https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp"
+        },
+        {
+          "name": "malosh",
+          "url": "https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "The Person I Know",
+      "url": "https://open.spotify.com/track/0opQkZpP12uCK0OA5ELcVJ"
     },
     {
       "album": {
@@ -7296,7 +7384,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 143844,
       "name": "Wema",
       "url": "https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD"

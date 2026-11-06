@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Get lifted by the waves of faith-infused music.  Cover: 1K Phew",
+  "description": "Get lifted by the waves of faith-infused music.  Cover: Kirk Franklin",
   "name": "Lifted Frequency",
   "tracks": [
     {
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 136225,
       "name": "Clean",
       "url": "https://open.spotify.com/track/5JG9VY0x8c6IzbkzKXb1xp"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 151909,
       "name": "CONTAGIOUS",
       "url": "https://open.spotify.com/track/3R7VE3XT5UKbvppwN1jKqp"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 157831,
       "name": "DIE 4 ME",
       "url": "https://open.spotify.com/track/14IvpNAH2Dx8dDnOUy2yvs"
@@ -3452,6 +3452,24 @@
       "duration_ms": 172725,
       "name": "Don\u2019t Worry Bout It",
       "url": "https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H"
+    },
+    {
+      "album": {
+        "name": "Oh, The Doubt Among Us",
+        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238559,
+      "name": "DOWN HERE",
+      "url": "https://open.spotify.com/track/5DvTlbiWanUn0CsCh1UC7b"
     },
     {
       "album": {
@@ -3968,6 +3986,24 @@
       "duration_ms": 151034,
       "name": "Faith > Fear",
       "url": "https://open.spotify.com/track/4urpo7LLiNUtyOvhXTezM5"
+    },
+    {
+      "album": {
+        "name": "Free People",
+        "url": "https://open.spotify.com/album/6UP9fH7MrEgVzqxaVYP1kY"
+      },
+      "artists": [
+        {
+          "name": "Holy Gather",
+          "url": "https://open.spotify.com/artist/70azCnnO6hKm23SflJHzdR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121773,
+      "name": "Faith Not By Sight",
+      "url": "https://open.spotify.com/track/6P8NgL2qmodGNr5KMxd1kv"
     },
     {
       "album": {
@@ -5456,7 +5492,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168376,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/0t2EfwpQMTpPThHvmbOWyA"
@@ -5776,6 +5812,28 @@
       "duration_ms": 158608,
       "name": "Hallow",
       "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
+    },
+    {
+      "album": {
+        "name": "Storybook, Vol. 2 In Collaboration With Common Hymnal",
+        "url": "https://open.spotify.com/album/6gXWs48YJHKgfOVikkmsx3"
+      },
+      "artists": [
+        {
+          "name": "Storytellers Collective",
+          "url": "https://open.spotify.com/artist/2ULM0rxC7gav9dQGJaEMXb"
+        },
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213473,
+      "name": "Hands Full Of Hope",
+      "url": "https://open.spotify.com/track/3T5IWCQtGcqTcrFwEzPd7a"
     },
     {
       "album": {
@@ -6280,7 +6338,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 223578,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3I3CyeN4kUefehQ607eEHh"
@@ -6701,6 +6759,28 @@
     },
     {
       "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Hope In You (with Davido)",
+      "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
+    },
+    {
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6RHxWNgkrehuZfhCy6knUs"
       },
@@ -6854,6 +6934,24 @@
       "duration_ms": 147750,
       "name": "I CAN\u2019T",
       "url": "https://open.spotify.com/track/1pfXsFILIkTDEgiHoZ8D2D"
+    },
+    {
+      "album": {
+        "name": "I Checked Into Rehab",
+        "url": "https://open.spotify.com/album/0tD4hwba3gmFFGrE8yQ3UO"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208206,
+      "name": "I Checked Into Rehab",
+      "url": "https://open.spotify.com/track/4aWyvat1O7K6ijgmzQN3vP"
     },
     {
       "album": {
@@ -7598,6 +7696,32 @@
       "duration_ms": 167794,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/3cod5M5O36GlZoJzDua7gP"
+    },
+    {
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6XKJINnDZA2ML8c0i3w9am"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Majeste Pearson",
+          "url": "https://open.spotify.com/artist/0Eg7BWS7T6LCkJA5pUhmMZ"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337209,
+      "name": "Inheritance",
+      "url": "https://open.spotify.com/track/2m7QZibDGcZFAH1XoRMG4z"
     },
     {
       "album": {
@@ -8414,7 +8538,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217634,
       "name": "LEFT HAND (feat. Terrian)",
       "url": "https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5"
@@ -8788,7 +8912,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 157111,
       "name": "Lord I Wanna Know Ya",
       "url": "https://open.spotify.com/track/61H6t76DxfwkJmUpsqy8If"
@@ -8978,6 +9102,46 @@
       "duration_ms": 204050,
       "name": "Mad Big World",
       "url": "https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs"
+    },
+    {
+      "album": {
+        "name": "MAD HOUSE II",
+        "url": "https://open.spotify.com/album/0rjA4PvLIVR0sFW0cxnOmk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177350,
+      "name": "MAD HOUSE II",
+      "url": "https://open.spotify.com/track/4dnHhGEfdmPDIrkImja3WG"
+    },
+    {
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/3eK7zhbnIYFwWbFx92QAEt"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181214,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/66IPQnicOtJakXgyspQhb0"
     },
     {
       "album": {
@@ -9372,6 +9536,24 @@
       "duration_ms": 358885,
       "name": "Miracles (feat. Pastor Mike Jr.)",
       "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/6KN5LC3wTZgMTfyUbGfFky"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3jr6a0wOCFD1sziCz2WHiM"
     },
     {
       "album": {
@@ -12374,7 +12556,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 245526,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO"
@@ -12916,7 +13098,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 238500,
       "name": "Stand Firm",
       "url": "https://open.spotify.com/track/5RDpUuxLHALw7zJLLnWOEs"
@@ -13371,6 +13553,28 @@
     },
     {
       "album": {
+        "name": "Super Power",
+        "url": "https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "Super Power",
+      "url": "https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim"
+    },
+    {
+      "album": {
         "name": "FAITH OVER FAME",
         "url": "https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI"
       },
@@ -13418,7 +13622,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191146,
       "name": "Superman, Superwoman",
       "url": "https://open.spotify.com/track/4DZOSRiZIZVaFyCljvuJUI"
@@ -14662,6 +14866,24 @@
       "duration_ms": 169317,
       "name": "through heaven's eyes",
       "url": "https://open.spotify.com/track/2ADZPreOBRYCSa0RtoEChZ"
+    },
+    {
+      "album": {
+        "name": "Time And Time Again",
+        "url": "https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Time And Time Again",
+      "url": "https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE"
     },
     {
       "album": {
@@ -15980,7 +16202,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 221874,
       "name": "Will Be Done",
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"

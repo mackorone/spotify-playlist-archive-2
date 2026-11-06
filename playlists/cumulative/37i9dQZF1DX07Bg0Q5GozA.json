@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Zimmer90",
+  "description": "New music off the beaten track. Cover: \u00c2me",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 281167,
       "name": "Another World",
       "url": "https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B"
@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 119101,
       "name": "Bad to the Bone",
       "url": "https://open.spotify.com/track/6NFhJLpovj3CqgT1rKC95l"
@@ -6404,6 +6404,28 @@
       "duration_ms": 183167,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/0gPaNDbghFIURQyB2B8Law"
+    },
+    {
+      "album": {
+        "name": "Disappear (feat. Sissa)",
+        "url": "https://open.spotify.com/album/66yalpzTWCGkwHUYBK36zZ"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Sissa",
+          "url": "https://open.spotify.com/artist/4bP00ULIcJnMrt76uXWnGY"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188577,
+      "name": "Disappear (feat. Sissa)",
+      "url": "https://open.spotify.com/track/219b8va1KpTSrCxI7djbDF"
     },
     {
       "album": {
@@ -12345,6 +12367,24 @@
     },
     {
       "album": {
+        "name": "Hooves",
+        "url": "https://open.spotify.com/album/1ygCcvWb90Nmn1ySI4SY4I"
+      },
+      "artists": [
+        {
+          "name": "Luna Morgenstern",
+          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138504,
+      "name": "Hooves",
+      "url": "https://open.spotify.com/track/1zhMSR3ocV1XDCmRq5HgCa"
+    },
+    {
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/6Zdn8wwsCMOnPEgS1Lg8mk"
       },
@@ -12606,7 +12646,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 249500,
       "name": "Human Interaction",
       "url": "https://open.spotify.com/track/0LdwFML9udrWMfulg5mHYF"
@@ -15270,6 +15310,28 @@
       "duration_ms": 246066,
       "name": "kassio.",
       "url": "https://open.spotify.com/track/6QrVflADAEvTGMegzHt7GH"
+    },
+    {
+      "album": {
+        "name": "Kate S.O.S. (feat. The Stylist)",
+        "url": "https://open.spotify.com/album/0W63J6nDYw4xtulIDJ2cjE"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        },
+        {
+          "name": "The Stylist",
+          "url": "https://open.spotify.com/artist/3k2MWyQzP9Vl2cxRPlyD4Q"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158502,
+      "name": "Kate S.O.S. (feat. The Stylist)",
+      "url": "https://open.spotify.com/track/2AxYuhKTLc5DkcANhLzFup"
     },
     {
       "album": {
@@ -20168,7 +20230,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178477,
       "name": "no more regrets",
       "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
@@ -22514,6 +22576,28 @@
       "duration_ms": 253038,
       "name": "Rapture in Blue",
       "url": "https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX"
+    },
+    {
+      "album": {
+        "name": "Love Is The Dance",
+        "url": "https://open.spotify.com/album/3GMbNTMjPI2gJULzw5RaK5"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240949,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/6UJhLeYdYqiEQJGBqBAlSN"
     },
     {
       "album": {
@@ -25144,7 +25228,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184040,
       "name": "Softskin",
       "url": "https://open.spotify.com/track/5bFIeyLczKP7BADj3z6Mst"
@@ -30028,6 +30112,32 @@
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
+    },
+    {
+      "album": {
+        "name": "Vision EP",
+        "url": "https://open.spotify.com/album/1HdEfYbBWNF6zIgvrOwF0A"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241594,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/2LBrKJKyz1wtwY0yvmOmXl"
     },
     {
       "album": {

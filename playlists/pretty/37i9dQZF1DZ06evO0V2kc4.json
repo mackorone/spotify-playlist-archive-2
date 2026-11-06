@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 75420,
+  "num_followers": 75421,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAAldL03Ooh8MmX40g/13/4p",
+  "snapshot_id": "aukkAAAAAABl09h7KMpHPKDGZZttNifC",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
-        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
-      "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 239520,
       "name": "Catch The Wind",
       "url": "https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
+        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
+      "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
     },
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
       "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Joe Hill - Live",
-      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
+      "duration_ms": 215240,
+      "name": "Diamonds & Rust",
+      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
       "added_at": null,
@@ -571,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Diamonds & Rust",
-      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Last Night I Had The Strangest Dream - Live",
-      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
+      "duration_ms": 181000,
+      "name": "Joe Hill - Live",
+      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
     },
     {
       "added_at": null,
@@ -623,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 459133,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/3KQRvCKd6elig016BuK6Zp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
       },
@@ -655,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -664,9 +632,25 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 241226,
-      "name": "To Bobby",
-      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
+      "duration_ms": 459133,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3KQRvCKd6elig016BuK6Zp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Last Night I Had The Strangest Dream - Live",
+      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "To Bobby",
+      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 302000,
       "name": "North Country Blues",
       "url": "https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "The Water Is Wide - Live",
-      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Water Is Wide - Live",
+      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come From The Shadows",
         "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
@@ -751,6 +751,30 @@
       "duration_ms": 263893,
       "name": "Prison Trilogy (Billy Rose)",
       "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Memphis Mariachi",
+          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
+      "url": "https://open.spotify.com/track/6acffSR0bRaxpktd9Q4q1r"
     },
     {
       "added_at": null,
@@ -787,30 +811,6 @@
       "duration_ms": 281000,
       "name": "I Am A Poor Wayfaring Stranger",
       "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Memphis Mariachi",
-          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
-      "url": "https://open.spotify.com/track/6acffSR0bRaxpktd9Q4q1r"
     },
     {
       "added_at": null,

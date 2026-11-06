@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "New songwriters on the horizon from around the world. Cover: Shorae Moore",
+  "description": "New songwriters on the horizon from around the world. Cover: Joe Stanley",
   "name": "RADAR Songwriters",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 175200,
       "name": "All Over",
       "url": "https://open.spotify.com/track/394IT4yrYjwT65ePqKLFbq"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 167500,
       "name": "Another Broken Heart",
       "url": "https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 197250,
       "name": "BEST OF US",
       "url": "https://open.spotify.com/track/5DhcEJWVdkPNkJUVnbiUKo"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
@@ -450,6 +450,24 @@
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
+    },
+    {
+      "album": {
+        "name": "black british music (2025)",
+        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "brief",
+      "url": "https://open.spotify.com/track/6Sn1RGc61nLHGhUSdA7SdC"
     },
     {
       "album": {
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 416000,
       "name": "Creature - MYRNE Remix",
       "url": "https://open.spotify.com/track/2tv8ppFp8QeGsWxk9I05az"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 240065,
       "name": "Crocodiles",
       "url": "https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x"
@@ -722,7 +740,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132793,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
@@ -860,7 +878,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 219455,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 215841,
       "name": "go (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 175821,
       "name": "Harbi G\u00fczel",
       "url": "https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN"
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166760,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140803,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 141081,
       "name": "love you more than me",
       "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166216,
       "name": "malibu",
       "url": "https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200199,
       "name": "MAMA'S EYES",
       "url": "https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 242068,
       "name": "Mind (feat. Kai)",
       "url": "https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ"
@@ -1678,6 +1696,24 @@
       "duration_ms": 53442,
       "name": "MY ROSE",
       "url": "https://open.spotify.com/track/486YUqcmF9IWPkreU0THcQ"
+    },
+    {
+      "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "My Shawty",
+      "url": "https://open.spotify.com/track/7qrHVfoXPKLV8liI5TOeR4"
     },
     {
       "album": {
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191026,
       "name": "No Romeo",
       "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
@@ -1826,7 +1862,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5"
@@ -1916,10 +1952,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170026,
       "name": "Only Have Eyes 42",
       "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
+    },
+    {
+      "album": {
+        "name": "only you can pilot this eva, *CLASSIFIED*",
+        "url": "https://open.spotify.com/album/5zGeJN1zpLTzNWX4WqkIXT"
+      },
+      "artists": [
+        {
+          "name": "svn4vr",
+          "url": "https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77506,
+      "name": "only you can pilot this eva, *CLASSIFIED*",
+      "url": "https://open.spotify.com/track/0S9iFwtXPWmVfYMvDtzjr7"
     },
     {
       "album": {
@@ -1992,7 +2046,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 236417,
       "name": "Pastello Bianco",
       "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
@@ -2028,7 +2082,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164536,
       "name": "Perfect on Me",
       "url": "https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK"
@@ -2118,7 +2172,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213061,
       "name": "Policeman",
       "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
@@ -2154,7 +2208,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 173725,
       "name": "Principalmente Me Sinto Arrasada",
       "url": "https://open.spotify.com/track/24LGL93o3wuVuYLCBhV3c5"
@@ -2238,7 +2292,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
@@ -2278,7 +2332,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 171293,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/14q1di5KECs3R2KmH9fG98"
@@ -2340,7 +2394,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 346298,
       "name": "STAINS",
       "url": "https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT"
@@ -2370,6 +2424,24 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "album": {
+        "name": "stick",
+        "url": "https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139207,
+      "name": "stick",
+      "url": "https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5"
     },
     {
       "album": {
@@ -2464,7 +2536,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 245933,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY"
@@ -2508,7 +2580,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 154866,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
@@ -2688,7 +2760,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179912,
       "name": "Toy Story",
       "url": "https://open.spotify.com/track/5NYWJiGd4Qnej6kvPnH1sR"
@@ -2724,7 +2796,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 176870,
       "name": "Tramontana",
       "url": "https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g"
@@ -2742,7 +2814,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 190018,
       "name": "Un buon inizio",
       "url": "https://open.spotify.com/track/1VlJaPRbfyyOkEVaWJhRdg"
@@ -2760,7 +2832,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
@@ -2822,7 +2894,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166333,
       "name": "Vuelve, Vuelve",
       "url": "https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg"
@@ -2862,6 +2934,24 @@
       "duration_ms": 184906,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "album": {
+        "name": "White Ash",
+        "url": "https://open.spotify.com/album/0fq5Tu08ZzjlTgk6vgtdma"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225423,
+      "name": "White Ash",
+      "url": "https://open.spotify.com/track/3u47ySotzOLUU4oWbqQ7ev"
     },
     {
       "album": {

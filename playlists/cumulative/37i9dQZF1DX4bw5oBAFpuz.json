@@ -5062,7 +5062,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 222706,
       "name": "I'm Coming Over",
       "url": "https://open.spotify.com/track/3jJFEDl5iPkxwYoHGcSztW"
@@ -12574,6 +12574,24 @@
       "duration_ms": 209476,
       "name": "You Got Me Hurt",
       "url": "https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD"
+    },
+    {
+      "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/6C7FqS0rJW6MQL5rMkxx1p"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "You Make It Make Sense",
+      "url": "https://open.spotify.com/track/0evRhqpMd7JfuNszB8Np1S"
     },
     {
       "album": {

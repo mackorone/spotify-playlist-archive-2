@@ -1,32 +1,124 @@
 {
   "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 104709,
+  "num_followers": 104752,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVKqrmUFetBNbeN0Z3l3o66+AL9",
+  "snapshot_id": "AAAAAPXM8TmWbSMsK2s/E3st9+kLMpPw",
   "tracks": [
     {
-      "added_at": "2026-10-23 04:29:18",
+      "added_at": "2026-11-06 05:00:42",
       "album": {
-        "name": "Puppy Dance Party",
-        "url": "https://open.spotify.com/album/008IqnPFOJP5LREJWcv13s"
+        "name": "Happy Place",
+        "url": "https://open.spotify.com/album/2LDvEWNyzKlpjdJlUO08HS"
       },
       "artists": [
         {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
         }
       ],
-      "duration_ms": 110626,
-      "name": "Puppy Dance Party",
-      "url": "https://open.spotify.com/track/147eaS0BDvMC86ZmfgnGUA"
+      "duration_ms": 163000,
+      "name": "Happy Place",
+      "url": "https://open.spotify.com/track/3kHfKXYs5FCCE4d3rrHdDn"
+    },
+    {
+      "added_at": "2026-11-06 05:00:42",
+      "album": {
+        "name": "Hop, Skip, Jump, Dance Party",
+        "url": "https://open.spotify.com/album/5G3I66u0JhjaycRhk4Z0xP"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Hop Skip Jump Dance Party",
+      "url": "https://open.spotify.com/track/7ziGCBljIlfxc6xcusWYgW"
+    },
+    {
+      "added_at": "2026-11-06 05:00:42",
+      "album": {
+        "name": "Make A Wish on a Pixie",
+        "url": "https://open.spotify.com/album/33fmhDIecAYLsS9Ro5nixV"
+      },
+      "artists": [
+        {
+          "name": "Doozie's Doghouse",
+          "url": "https://open.spotify.com/artist/3651TGq8L0Zme78jxAhCKl"
+        },
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Make A Wish on a Pixie",
+      "url": "https://open.spotify.com/track/0qdK0aZWvIJ7AtDn2A7n1z"
+    },
+    {
+      "added_at": "2026-11-06 05:00:42",
+      "album": {
+        "name": "Scrubbity Rubbity Doo",
+        "url": "https://open.spotify.com/album/6yHsDk5mGzloE3Gk6NND3b"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 122109,
+      "name": "Scrubbity Rubbity Doo",
+      "url": "https://open.spotify.com/track/2vXVHoEVgmWbvKfoFBNIDG"
+    },
+    {
+      "added_at": "2026-11-06 05:00:42",
+      "album": {
+        "name": "Me Lost Me Cookie At the Disco",
+        "url": "https://open.spotify.com/album/0C8r9SKuctA2HWEZOwP2L8"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 111426,
+      "name": "Do the Mecha Cookie Dance",
+      "url": "https://open.spotify.com/track/1MaH3qEVGYe8wIgt4O3cxs"
+    },
+    {
+      "added_at": "2026-11-06 05:00:42",
+      "album": {
+        "name": "You Can Call On Me",
+        "url": "https://open.spotify.com/album/4GpqL3UkwZ0M6mI6tOEX0T"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "duration_ms": 42863,
+      "name": "You Can Call On Me",
+      "url": "https://open.spotify.com/track/1wH81oJaXXV281277rZGuY"
     },
     {
       "added_at": "2026-10-23 04:29:18",

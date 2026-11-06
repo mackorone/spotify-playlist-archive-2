@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,733 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,787 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [Karatê](https://open.spotify.com/track/5Lvm4MGdCXErM0Svb8ICUC) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [ALFA](https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9) | 3:51 |
 | 48 | [Gigantes](https://open.spotify.com/track/3OrMzKr1E8FCCpRH4xhjwr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Juyè](https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 3:52 |
 | 49 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 |
-| 50 | [Meu Jeito](https://open.spotify.com/track/5Aj5L5rQO86zh6lJ0nJAkq) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Onda](https://open.spotify.com/album/0E3wbmIuOqf26mNUZC5Xhj) | 4:02 |
+| 50 | [Julius](https://open.spotify.com/track/3BYG6GNJypc1bIOxSkorDh) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 4:11 |
 
-Snapshot ID: `aufSgAAAAADcvZqIBpeNxivakI5o082/`
+Snapshot ID: `aukkAAAAAAAZ/H485H9l+BS8CpjIiZVo`

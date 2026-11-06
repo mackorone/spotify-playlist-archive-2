@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAM9Sah/15UdUParzsUjgJ4WVPuGxKd",
+  "snapshot_id": "AAAM+dcml5bjVrNRW+Ska01YzBopMJyp",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -71,6 +71,22 @@
       "duration_ms": 271101,
       "name": "Groove of the Soul",
       "url": "https://open.spotify.com/track/661nbgxeFKG1G90ZZ6blQR"
+    },
+    {
+      "added_at": "2026-11-05 10:24:23",
+      "album": {
+        "name": "A World Unworthy",
+        "url": "https://open.spotify.com/album/0AN1545siaaLj6E0TrL1Re"
+      },
+      "artists": [
+        {
+          "name": "At First Light",
+          "url": "https://open.spotify.com/artist/2ts6Mf4W62omG4A0Nq7rPC"
+        }
+      ],
+      "duration_ms": 314254,
+      "name": "A World Unworthy",
+      "url": "https://open.spotify.com/track/0P9JvhaP1lhIjyNW05sXmS"
     },
     {
       "added_at": "2026-09-18 07:36:47",
@@ -3291,6 +3307,62 @@
       "duration_ms": 163127,
       "name": "Rock-A-Doodle-Doo",
       "url": "https://open.spotify.com/track/1mYro7PZazULimirLpa6gE"
+    },
+    {
+      "added_at": "2026-11-05 08:47:14",
+      "album": {
+        "name": "Rest In Fight",
+        "url": "https://open.spotify.com/album/3kcYI5qf2k0m5ablgKrFo9"
+      },
+      "artists": [
+        {
+          "name": "23 And Beyond The Infinite",
+          "url": "https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Rest In Fight",
+      "url": "https://open.spotify.com/track/1Ibpqkq11iSRPdOP132Sju"
+    },
+    {
+      "added_at": "2026-11-05 08:57:36",
+      "album": {
+        "name": "Roadside Redemption",
+        "url": "https://open.spotify.com/album/65COFrUhjq4wXjInsXPVQc"
+      },
+      "artists": [
+        {
+          "name": "Carl Speaks",
+          "url": "https://open.spotify.com/artist/4kYWW4xqLmYW5ocMbp2xwY"
+        }
+      ],
+      "duration_ms": 222312,
+      "name": "Roadside Redemption",
+      "url": "https://open.spotify.com/track/5pEux62430TmWm3wdPFrPW"
+    },
+    {
+      "added_at": "2026-11-05 22:37:16",
+      "album": {
+        "name": "Black Sorcery",
+        "url": "https://open.spotify.com/album/5NAln1HvVVSQKHftxm6iP7"
+      },
+      "artists": [
+        {
+          "name": "Ivan Joy",
+          "url": "https://open.spotify.com/artist/6KkXS1Bvq4jwdbC2yOQbCQ"
+        },
+        {
+          "name": "Joy Gomez",
+          "url": "https://open.spotify.com/artist/2MUg67gw6NHTc3epu5WYqK"
+        },
+        {
+          "name": "Ivan Pons",
+          "url": "https://open.spotify.com/artist/5GuC332HEfDWXoVXTGFGFJ"
+        }
+      ],
+      "duration_ms": 306677,
+      "name": "Black Sorcery",
+      "url": "https://open.spotify.com/track/26snts5ounwV0cAckqZNL4"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

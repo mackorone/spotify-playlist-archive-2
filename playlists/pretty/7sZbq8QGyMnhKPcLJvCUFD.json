@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 703638,
+  "num_followers": 703578,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAaFIiRGPioGFI5XCD3FKCe2iIRkp2+",
+  "snapshot_id": "AAAaFWpTecfVWBNy7QroeMOK0wqAxx5r",
   "tracks": [
     {
       "added_at": "2026-02-05 13:19:40",
@@ -131,6 +131,26 @@
       "duration_ms": 205865,
       "name": "underskin",
       "url": "https://open.spotify.com/track/65kKPiP6XmjkvHTUm8jGB4"
+    },
+    {
+      "added_at": "2026-11-05 09:31:12",
+      "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/3xxBGPq9Rw8Uuc0NsAVRJr"
+      },
+      "artists": [
+        {
+          "name": "angelrot",
+          "url": "https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ"
+        },
+        {
+          "name": "skrta",
+          "url": "https://open.spotify.com/artist/1gZR1OO6ifGDdeVos9ZV3O"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/1gIXf8U5XUn9ZON1V9lYrl"
     },
     {
       "added_at": "2026-09-22 08:53:12",

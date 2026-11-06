@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Dalex
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,565 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,583 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 6 | [Data](https://open.spotify.com/track/4Nc3hgSGv0RXQkfFHwjzIk) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 3:29 |
 | 7 | [La gravedad y el tiempo.](https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [La gravedad y el tiempo.](https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM) | 2:42 |
 | 8 | [MUERDO Mi LENGUA](https://open.spotify.com/track/4Bly9zPgm4mcxxoFNTDmsl) | [Bautiii](https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9) | [MUERDO Mi LENGUA](https://open.spotify.com/album/7x3yyjIYHh3GJ5v1iSY5PE) | 2:50 |
-| 9 | [Bendecida](https://open.spotify.com/track/3Ls9XiHTGnfvqqprSYYfoU) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Bendecida](https://open.spotify.com/album/5OK16vusVUgFjpaN5cKQsH) | 2:22 |
+| 9 | [Bendecida](https://open.spotify.com/track/3Ls9XiHTGnfvqqprSYYfoU) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Bendecida](https://open.spotify.com/album/5OK16vusVUgFjpaN5cKQsH) | 2:21 |
 | 10 | [SATISFExXxO](https://open.spotify.com/track/5FHpyDsppApf4aaBtOz771) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SATISFExXxO](https://open.spotify.com/album/1el7Z3lr5yHCL1UoCPPaMu) | 2:48 |
 | 11 | [GANTEL y BELLAKz](https://open.spotify.com/track/7cVS9dvpA6p2dIVibiGaso) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:34 |
 | 12 | [JEEP](https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [JEEP](https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm) | 3:15 |

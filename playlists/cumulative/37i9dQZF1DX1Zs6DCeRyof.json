@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "La lista donde viven los hits m\u00e1s grandes de la Isla del Encanto. Cover: Clarent, Omar Courtz",
+  "description": "La lista donde viven los hits m\u00e1s grandes de la Isla del Encanto. Cover: Yan Block",
   "name": "\u00c9xitos Puerto Rico",
   "tracks": [
     {
@@ -120,6 +120,24 @@
       "duration_ms": 130670,
       "name": "18",
       "url": "https://open.spotify.com/track/5KMfzwgSsB0UETKqceJ6Eu"
+    },
+    {
+      "album": {
+        "name": "INDIVIDUAL",
+        "url": "https://open.spotify.com/album/0OOuP9cAX5QayOJEtzv0tM"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143194,
+      "name": "1ndividual",
+      "url": "https://open.spotify.com/track/3DjGf2TjAmCGU67xgrYKxj"
     },
     {
       "album": {
@@ -898,7 +916,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 105625,
       "name": "BIENVENIDA",
       "url": "https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx"
@@ -1358,6 +1376,32 @@
       "duration_ms": 187098,
       "name": "Body",
       "url": "https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75"
+    },
+    {
+      "album": {
+        "name": "Body (Remix)",
+        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Body - Remix",
+      "url": "https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK"
     },
     {
       "album": {
@@ -6556,7 +6600,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220720,
       "name": "NETFLIX AND CHILL",
       "url": "https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV"
@@ -8552,7 +8596,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 253658,
       "name": "Scat Pack",
       "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
@@ -8618,6 +8662,28 @@
       "duration_ms": 190106,
       "name": "SE TE NOTA (feat. Peso Pluma)",
       "url": "https://open.spotify.com/track/1iIrqtbY2aogEHhQkmrV7w"
+    },
+    {
+      "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SE VA",
+      "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
     },
     {
       "album": {
@@ -9452,6 +9518,24 @@
       "duration_ms": 182000,
       "name": "Te Capie",
       "url": "https://open.spotify.com/track/4WXVp5dzCDDaQjr4Ueukbm"
+    },
+    {
+      "album": {
+        "name": "Te Imagino",
+        "url": "https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251639,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 9 hr 3 min
+154 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 | 2023-12-30 |  |
 | [Persuasion \(feat\. Victoria Monét\)](https://open.spotify.com/track/49v5ttae4SvGE6XqfP7PY4) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:49 | 2026-06-18 |  |
 | [pete davidson](https://open.spotify.com/track/0XOnMqLQDO89iAg7dWWwnG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 1:13 | 2023-12-30 |  |
-| [Rather Be](https://open.spotify.com/track/2zwBZoOiGNnytNmesLPboA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 2:50 | 2023-12-30 |  |
+| [Rather Be](https://open.spotify.com/track/2zwBZoOiGNnytNmesLPboA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 2:50 | 2023-12-30 | 2026-11-06 |
+| [Rather Be](https://open.spotify.com/track/0JUgHx3ON59y1sgRxlAVij) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [b7](https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2) | 2:50 | 2026-11-05 |  |
 | [Reach Out](https://open.spotify.com/track/5QPXPPVW730RcBAlLXIQlF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 2:39 | 2026-10-04 |  |
 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 | 2026-09-30 | 2026-10-05 |
 | [Reflection](https://open.spotify.com/track/7IHlcNipLVFTGch6r2H354) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:08 | 2023-12-30 | 2024-09-13 |

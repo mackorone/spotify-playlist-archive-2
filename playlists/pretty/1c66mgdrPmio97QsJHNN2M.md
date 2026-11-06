@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,142 likes - 249 songs - 13 hr 5 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,143 likes - 251 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 130 | [nobody like uuuu<3](https://open.spotify.com/track/5bTOYeyPEF23sVidlXnzn3) | [Aaron Melody](https://open.spotify.com/artist/29sCXAGfrDIl85EFHdPdUo) | [demos \(vol\. I\)](https://open.spotify.com/album/2D6aov5tmi8RGc4E5uR5zy) | 3:24 |
 | 131 | [True And Fake](https://open.spotify.com/track/5gohpOsWbEyUVgkgEbuY0D) | [Armina Akopyan](https://open.spotify.com/artist/00L4wR1oh5qPogB48a58oV) | [True And Fake](https://open.spotify.com/album/3aNyqHAtfnYLr4LxpXBUYZ) | 3:22 |
 | 132 | [Outside My Body](https://open.spotify.com/track/4UzzEOMRt58OcAcBPDi4Aj) | [Jusom](https://open.spotify.com/artist/7JMWwc52gJTLi3ZUD52TZu) | [Nobody Really Knows](https://open.spotify.com/album/3jO9Vi86TPD44OWVmRqu9J) | 2:55 |
-| 133 | [Memories Of You](https://open.spotify.com/track/1qwu0OVHuuRu0sSVIROTA2) | [Crusader Beats](https://open.spotify.com/artist/6OW33Ql9e4VmMqntH6Vcqi) | [Memories Of You](https://open.spotify.com/album/1gFghSFOsfR7GxI6kGOjjF) | 3:11 |
+| 133 | [Memories Of You \(Instrumental\)](https://open.spotify.com/track/1qwu0OVHuuRu0sSVIROTA2) | [Crusader Beats](https://open.spotify.com/artist/6OW33Ql9e4VmMqntH6Vcqi) | [Memories Of You \(Instrumental\)](https://open.spotify.com/album/1gFghSFOsfR7GxI6kGOjjF) | 3:11 |
 | 134 | [Mile High](https://open.spotify.com/track/1ZrU0iZJYRcXk8M1NzyyYG) | [Tower Club](https://open.spotify.com/artist/5H89qb49R35UDYoFYdVoHr) | [Mile High](https://open.spotify.com/album/5cMed73FCbJKLdOiXmyBqY) | 4:27 |
 | 135 | [Sacrifice](https://open.spotify.com/track/4qrpNka62WhqHpaCsdlWX7) | [Mudbard](https://open.spotify.com/artist/2O7GYzIURlMiGlVYc7Tvns), [Benedetta](https://open.spotify.com/artist/68sX0S2uF91vR9ALtutsjf) | [Sacrifice](https://open.spotify.com/album/1fhuWUtyCYAtOtXFzMZl3s) | 3:19 |
 | 136 | [Turn the music up](https://open.spotify.com/track/2jCtHdFD8rKdG3vKhxa0Rm) | [Fiat DeluXXe](https://open.spotify.com/artist/38M0dEg9LFd78ATuRgF0cw) | [Turn the music up](https://open.spotify.com/album/0GbM5AHwvh4i7j0ZFkv71q) | 3:07 |
@@ -257,5 +257,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 247 | [All Villains Die Ⅱ](https://open.spotify.com/track/5isfjM7qxX9WLr2kTdgFZq) | [BukhansanRheejunghoon](https://open.spotify.com/artist/6Ghdu1hWgDLve0byl0lChj) | [All Villains Die](https://open.spotify.com/album/0i0dOIRjEkmGu9RL9MtmJu) | 3:29 |
 | 248 | [That Vision](https://open.spotify.com/track/0kDnSdIuDJsiU2mrUPLdiz) | [Manjoti](https://open.spotify.com/artist/0uOMSSaWksvmu2RSnRMwtf) | [That Vision](https://open.spotify.com/album/4L87cFUXn6mIBrGoO4Hhrj) | 2:58 |
 | 249 | [God Saved Me](https://open.spotify.com/track/198AwPNeu6NAau9RqQ3eKb) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [God Saved Me](https://open.spotify.com/album/7IhGA4GqtWjZKDHr6OHOR6) | 4:21 |
+| 250 | [the circle](https://open.spotify.com/track/4SqvhT14qZeSSJU7vciRpC) | [Andrey](https://open.spotify.com/artist/34mJVdVcdXqDaQ0NdFS7ju) | [the circle](https://open.spotify.com/album/2JQRyE7uKtoFwoI1Af70KB) | 2:41 |
+| 251 | [Tables Turned](https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh) | [Stella Maria](https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X) | [Tables Turned](https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l) | 2:55 |
 
-Snapshot ID: `AAA9vZVwJ91GhVnb8eFpJqG+PeTOzX4E`
+Snapshot ID: `AAA9v9Laj7TshM55zvzRtBGqgwdtPoo6`

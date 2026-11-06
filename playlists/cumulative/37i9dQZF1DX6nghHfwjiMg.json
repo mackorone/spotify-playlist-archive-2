@@ -904,7 +904,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 264768,
       "name": "Brill\u00e1",
       "url": "https://open.spotify.com/track/0NzZwVdVE5nS4JG3O4JO6H"
@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "mojito",
+        "url": "https://open.spotify.com/album/7F8f9XJP4su7cFkoilO6Oe"
+      },
+      "artists": [
+        {
+          "name": "BICHA",
+          "url": "https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205740,
+      "name": "california, amor",
+      "url": "https://open.spotify.com/track/62sQNOkVJFigrUJznPTs8t"
+    },
+    {
+      "album": {
         "name": "Caminar en Cristal",
         "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
       },
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 144071,
       "name": "Caminar en Cristal",
       "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
@@ -1460,6 +1478,24 @@
       "duration_ms": 197565,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
+    },
+    {
+      "album": {
+        "name": "MARIPOSA",
+        "url": "https://open.spotify.com/album/6VM4kOEu1u9tEgSxgdVTVm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1MBAR",
+          "url": "https://open.spotify.com/artist/0ZwW9o3DtcbchRfkQTsFLy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "DEBAJO DEL RUBOR",
+      "url": "https://open.spotify.com/track/7s8jQTbEGzxCQWqCLJKCHT"
     },
     {
       "album": {
@@ -2399,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "fk7",
+        "url": "https://open.spotify.com/album/4EOjkCAuzqNpiygDpuHdtO"
+      },
+      "artists": [
+        {
+          "name": "Faus K",
+          "url": "https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148889,
+      "name": "fk7",
+      "url": "https://open.spotify.com/track/09iTGnEQXzVuCiheh9PngC"
+    },
+    {
+      "album": {
         "name": "FLOR ALVAREZ | DJ TAO Turreo Sessions #23",
         "url": "https://open.spotify.com/album/6B2yceSshBoqkEDo8hY0F0"
       },
@@ -3001,6 +3055,28 @@
     },
     {
       "album": {
+        "name": "Karaoke RIP",
+        "url": "https://open.spotify.com/album/0uqVxe6ieYdXMCafvjMD62"
+      },
+      "artists": [
+        {
+          "name": "LISA SCHA",
+          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
+        },
+        {
+          "name": "Punto y Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/2Eh1KAvaiVKFDbzHh9KFhR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263297,
+      "name": "Karaoke RIP",
+      "url": "https://open.spotify.com/track/3abPSdJtw7YP5XNVulnlW4"
+    },
+    {
+      "album": {
         "name": "KIDZ - Spotify Singles",
         "url": "https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv"
       },
@@ -3389,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Es Como Se Hace",
+        "url": "https://open.spotify.com/album/3bFR6xZDjSRLmaE9Xbigsx"
+      },
+      "artists": [
+        {
+          "name": "Pizza",
+          "url": "https://open.spotify.com/artist/5mPqQbrTKLRgUPNNVo47Cv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174059,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/0S5UpMye9cACwgAmrsxfiO"
+    },
+    {
+      "album": {
         "name": "Libros",
         "url": "https://open.spotify.com/album/1afjwi14YT8ZfrHu7asnSl"
       },
@@ -3690,7 +3784,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 102024,
       "name": "Marfil",
       "url": "https://open.spotify.com/track/2C7a49yOHA2eUHndOZ8YjJ"
@@ -4292,7 +4386,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 251650,
       "name": "Nada M\u00e1s en M\u00ed",
       "url": "https://open.spotify.com/track/6scGrtyUxNjAK1FCoYPhbG"
@@ -4957,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "liviano",
+        "url": "https://open.spotify.com/album/06Bt1DKpBIQhi04U3YN2Qz"
+      },
+      "artists": [
+        {
+          "name": "BALTA",
+          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158528,
+      "name": "ombligoO",
+      "url": "https://open.spotify.com/track/3QNz70P7ZDov7fwvsSKQxy"
+    },
+    {
+      "album": {
         "name": "OMG MARKI HI",
         "url": "https://open.spotify.com/album/36QD0XYKJnkbpTNegs7SdP"
       },
@@ -5158,6 +5270,24 @@
       "duration_ms": 225746,
       "name": "PARQUE DE LA COSTA",
       "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
+    },
+    {
+      "album": {
+        "name": "INSTINTO",
+        "url": "https://open.spotify.com/album/1LhDD7qksDHE9nKMCKNWXs"
+      },
+      "artists": [
+        {
+          "name": "Manu Torres",
+          "url": "https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203312,
+      "name": "PELIGRO",
+      "url": "https://open.spotify.com/track/3KavB9Dq44BTTWQ4HXqS72"
     },
     {
       "album": {
@@ -6320,7 +6450,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204373,
       "name": "TARJETA AMARILLA",
       "url": "https://open.spotify.com/track/3ct00xi14QLWhZdRJtBQoV"
@@ -6432,7 +6562,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184700,
       "name": "TODA LA VIDA",
       "url": "https://open.spotify.com/track/7fRUzowe7mqS8QkHzTMcJZ"
@@ -7030,6 +7160,24 @@
       "duration_ms": 173452,
       "name": "Yo Me Quedo",
       "url": "https://open.spotify.com/track/54YX6dxHnQfXIr899xDVyn"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Make My Daddy Proud",
+        "url": "https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "\u00a1Pop!",
+      "url": "https://open.spotify.com/track/1Wqw1spmVG9hmU8MeKH402"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21303,
+  "num_followers": 21305,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAACnhzB1fUHVRLiz8fY+joCr",
+  "snapshot_id": "aukkAAAAAAD5txCsfUutogwoNfJcZ42O",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIA : Going In Afterlife",
-        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "1900Rugrat",
-          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Widebody",
-      "url": "https://open.spotify.com/track/6QxRfr4cpfGogzHBycDa9A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luca Brasi 2: Gangsta Grillz",
         "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 191532,
       "name": "Word Around Town (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIA : Going In Afterlife",
+        "url": "https://open.spotify.com/album/2f3YBB9FG6FPZN2HYNoask"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Widebody",
+      "url": "https://open.spotify.com/track/6QxRfr4cpfGogzHBycDa9A"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Goin In",
-        "url": "https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/19hXBFseJdqMKlNwFwZ8AC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich As In Spirit",
         "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195908,
       "name": "Never Fold",
       "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Goin In",
+        "url": "https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/19hXBFseJdqMKlNwFwZ8AC"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RG2",
         "url": "https://open.spotify.com/album/2ppw6DFuPFHi4EOGLxHX2F"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 240801,
       "name": "Up Up And Away",
       "url": "https://open.spotify.com/track/2VBerpaTuZ0WXBREhe5eYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 124520,
-      "name": "Pallbearer",
-      "url": "https://open.spotify.com/track/2YSSQfTGBEaAJM1Si39x1O"
+      "duration_ms": 128000,
+      "name": "GIA",
+      "url": "https://open.spotify.com/track/2groI56EiNLTGwqdwcBo1d"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 128000,
-      "name": "GIA",
-      "url": "https://open.spotify.com/track/2groI56EiNLTGwqdwcBo1d"
+      "duration_ms": 124520,
+      "name": "Pallbearer",
+      "url": "https://open.spotify.com/track/2YSSQfTGBEaAJM1Si39x1O"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 114733,
+  "num_followers": 114787,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADcvZqIBpeNxivakI5o082/",
+  "snapshot_id": "aukkAAAAAAAZ/H485H9l+BS8CpjIiZVo",
   "tracks": [
     {
       "added_at": null,
@@ -1263,22 +1263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/0E3wbmIuOqf26mNUZC5Xhj"
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
       },
       "artists": [
         {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 242474,
-      "name": "Meu Jeito",
-      "url": "https://open.spotify.com/track/5Aj5L5rQO86zh6lJ0nJAkq"
+      "duration_ms": 251668,
+      "name": "Julius",
+      "url": "https://open.spotify.com/track/3BYG6GNJypc1bIOxSkorDh"
     }
   ],
   "unique_name": "This Is BK",

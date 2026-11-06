@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,762 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,765 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 25 | [Wie heeft de sleutels van de jukebox gezien](https://open.spotify.com/track/765nN5UPfEY3cf956Qvzpj) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 3:21 |
 | 26 | [Katinka](https://open.spotify.com/track/6vljr41C784IaL4h2gkx8A) | [De Spelbrekers](https://open.spotify.com/artist/2PLaITIwJ2PSGwid7cvMfm) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:51 |
 | 27 | [Zai Zai Zai](https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Zai Zai Zai](https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t) | 3:05 |
-| 28 | [Ik Kan Geen Kikker Van De Kant Afduwen](https://open.spotify.com/track/3UzgV7RakYC3cwMa1zcCeJ) | [Lowland Trio](https://open.spotify.com/artist/0UWgpDfVMPO1mVVcYdIy48) | [Lowland Trio](https://open.spotify.com/album/5cuRfpQZqI2F6cahasPgwE) | 3:23 |
-| 29 | [Soerabaja](https://open.spotify.com/track/6WgIBSj3JIImcRurWWt63T) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:28 |
+| 28 | [Soerabaja](https://open.spotify.com/track/6WgIBSj3JIImcRurWWt63T) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:28 |
+| 29 | [Ik Kan Geen Kikker Van De Kant Afduwen](https://open.spotify.com/track/3UzgV7RakYC3cwMa1zcCeJ) | [Lowland Trio](https://open.spotify.com/artist/0UWgpDfVMPO1mVVcYdIy48) | [Lowland Trio](https://open.spotify.com/album/5cuRfpQZqI2F6cahasPgwE) | 3:23 |
 | 30 | [Draai Dan 797204](https://open.spotify.com/track/1e4u7Y4k7KISE5dRDFGzHW) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:15 |
 | 31 | [De Wereld Is Leeg Zonder Jou](https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry](https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i) | 2:53 |
 | 32 | [De Wandelclub](https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H) | [Jasperina de Jong](https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:30 |
-| 33 | [Waarom Heb Jij Me Laten Staan?](https://open.spotify.com/track/5LjIT56CJ7NeH5k3cC5j71) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:12 |
-| 34 | [Paradiso](https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:40 |
+| 33 | [Paradiso](https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:40 |
+| 34 | [Waarom Heb Jij Me Laten Staan?](https://open.spotify.com/track/5LjIT56CJ7NeH5k3cC5j71) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:12 |
 | 35 | [Middellandse Zee](https://open.spotify.com/track/5VJZNUSVtEntXztFaJWcZt) | [Anita Berry](https://open.spotify.com/artist/2Lrqb1RPGQ8vXNVTL65uL0) | [Middellandse Zee](https://open.spotify.com/album/1yLrPvd8Y5bV2pHkKxjgZz) | 3:08 |
 | 36 | [Spiegelbeeld](https://open.spotify.com/track/0dQB5T7YTLhS0jI41u92hP) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 2:27 |
 | 37 | [Batje Vier](https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:46 |

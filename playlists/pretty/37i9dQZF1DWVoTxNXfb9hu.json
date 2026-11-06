@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 184920,
+  "num_followers": 184960,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Mimi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 200218,
       "name": "Param Sundari",
       "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Bad Newz",
-        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba",
-      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Aankh Marey (From \"Simmba\")",
         "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "added_at": "2026-03-19 09:40:44",

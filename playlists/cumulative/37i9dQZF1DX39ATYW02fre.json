@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "If They Only Knew?",
+        "url": "https://open.spotify.com/album/160OvH6SGn0IFRUkZBq15R"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185202,
+      "name": "If They Only Knew?",
+      "url": "https://open.spotify.com/track/6FVnK1051a9f4ihuekcgMF"
+    },
+    {
+      "album": {
         "name": "If This Is It",
         "url": "https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm"
       },
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202893,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"

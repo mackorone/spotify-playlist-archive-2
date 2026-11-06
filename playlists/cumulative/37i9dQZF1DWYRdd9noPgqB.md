@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-519 songs - 1 day 4 hr 23 min
+521 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 | 2026-02-12 |  |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-06 | 2026-04-03 |
 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 | 2024-12-12 | 2025-01-10 |
-| [Honey](https://open.spotify.com/track/7ARwLWvI6Zh5k4SW7on84x) | [Porte des Princes](https://open.spotify.com/artist/0k56TZBD4TcMBlRuWK0Ya4) | [Honey](https://open.spotify.com/album/6IiorWvpvw5n1LqbRxPylU) | 3:37 | 2026-07-16 |  |
+| [Honey](https://open.spotify.com/track/7ARwLWvI6Zh5k4SW7on84x) | [Porte des Princes](https://open.spotify.com/artist/0k56TZBD4TcMBlRuWK0Ya4) | [Honey](https://open.spotify.com/album/6IiorWvpvw5n1LqbRxPylU) | 3:37 | 2026-07-16 | 2026-11-06 |
 | [Hooked On The Line](https://open.spotify.com/track/5J9JzqFuIo8cjybuELMN6l) | [Beth Morris](https://open.spotify.com/artist/2jnpUtu70dLxZHgoFM7isS) | [Hooked On The Line](https://open.spotify.com/album/1eFwYR6JQPfzqH98w6HYfZ) | 3:18 | 2025-05-22 | 2025-10-24 |
 | [HOPE YOU'LL FIND OUT](https://open.spotify.com/track/3q7Kc3SMI3yBnsfESjvnok) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOPE YOU'LL FIND OUT](https://open.spotify.com/album/4Vg1pFAFqhtUxw26brxhuE) | 3:46 | 2024-01-04 | 2024-03-01 |
 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 | 2025-09-25 | 2026-10-03 |
@@ -201,7 +201,7 @@
 | [I Love Life \(feat\. RANI\)](https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [I Love Life \(feat\. RANI\)](https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO) | 2:36 | 2026-04-30 |  |
 | [I Love You](https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [I Love You](https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ) | 3:17 | 2026-10-23 |  |
 | [I Need It \(from You\) \(feat\. Cola Boyy\)](https://open.spotify.com/track/0nLPnWIPTqiLC3dtHU7Var) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [I Need It \(from You\) \(feat\. Cola Boyy\)](https://open.spotify.com/album/7patBRJ4sYuLn1tw5zEppc) | 3:00 | 2025-05-01 | 2025-09-19 |
-| [I Remember...](https://open.spotify.com/track/7d1mlaQ0uYGbjtLHnfjxmU) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [I Remember...](https://open.spotify.com/album/1KOZyRe3HszodUXU11FvQW) | 3:05 | 2026-06-26 |  |
+| [I Remember...](https://open.spotify.com/track/7d1mlaQ0uYGbjtLHnfjxmU) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [I Remember...](https://open.spotify.com/album/1KOZyRe3HszodUXU11FvQW) | 3:05 | 2026-06-26 | 2026-11-06 |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-18 |  |
 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 | 2024-07-18 | 2024-09-20 |
 | [Ice Cream](https://open.spotify.com/track/7aVlNa4f1VxG6D1gEEQ6CY) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Ice Cream](https://open.spotify.com/album/20cPAOECyiHnN342S6Q56L) | 2:19 | 2025-01-16 | 2025-05-16 |
@@ -380,6 +380,7 @@
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-06-19 | 2026-02-20 |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-13 | 2025-07-04 |
 | [Remember Me](https://open.spotify.com/track/7hFuGabcWfCfRKYpQxQ7qu) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/7JXIy8lvrYZTFAhmwG5bRx) | 3:25 | 2024-09-19 | 2025-01-31 |
+| [Rendez\-vous avec toi](https://open.spotify.com/track/7hRlKQepxO18TKr5DreeET) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Rendez\-vous avec toi / Rendez\-vous in your arms](https://open.spotify.com/album/2mROGvypd4sVFJ4p8OrGAw) | 4:12 | 2026-11-05 |  |
 | [Rio Lua](https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Rio Lua](https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs) | 2:29 | 2026-07-31 |  |
 | [Rip Out Your Eyes](https://open.spotify.com/track/1VPXCaMRqLuL6WH7vRtHKw) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Rip Out Your Eyes](https://open.spotify.com/album/0YjloWsPRMejK5paUu0UoE) | 1:50 | 2026-10-02 |  |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-23 | 2025-05-16 |
@@ -406,6 +407,7 @@
 | [SHY KID](https://open.spotify.com/track/1m5vPUJIaI4wtsUYq4QeTc) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92) | [SILLY SONGS](https://open.spotify.com/album/3R7lRQarQGcTSxTymkCdls) | 3:04 | 2025-06-19 | 2025-10-17 |
 | [Side Quest](https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Side Quest](https://open.spotify.com/album/3ws96T2S43qUuNt1vyYjHq) | 3:19 | 2024-07-04 | 2024-09-27 |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-10-05 | 2024-01-26 |
+| [Singing Along](https://open.spotify.com/track/0Zxp2eLcd5kDCGn5b9hM5y) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Edem Omega](https://open.spotify.com/artist/6uFqe5gln59yX21t22Sd1i) | [Coco Bingo](https://open.spotify.com/album/4eJ0GR77R09MNXiz4keg0i) | 2:46 | 2026-11-05 |  |
 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 | 2024-02-01 | 2024-05-03 |
 | [SIXTEEN WONDERS](https://open.spotify.com/track/1KwH6IwyksTOagfHQm6VpX) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [SIXTEEN WONDERS](https://open.spotify.com/album/778Og5tR0wLAoV4bRkhtQU) | 2:58 | 2024-09-12 | 2024-11-15 |
 | [Sky Queen \- Moonlight](https://open.spotify.com/track/0XaXfflU3WoH70mUlUw32y) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9) | [Eye to Eye Remixes](https://open.spotify.com/album/1woPoKpHx3ShKyTBAM2GSw) | 3:56 | 2025-03-27 | 2025-07-04 |

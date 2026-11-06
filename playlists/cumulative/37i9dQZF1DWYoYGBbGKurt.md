@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,199 songs - 3 day 12 hr 59 min
+2,200 songs - 3 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [Flâneur](https://open.spotify.com/track/7pZOzwLpThlbTk0DIvVKGJ) | [nytø](https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH) | [Flâneur](https://open.spotify.com/album/67GVQw2D7yZn7pOf1cx5Uy) | 3:07 | 2022-10-28 | 2023-04-12 |
 | [foam](https://open.spotify.com/track/11j0qQhHzDxOiItPenCc7e) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [foam](https://open.spotify.com/album/3O7iHjbCvoe1Oc2kzjvTxE) | 2:18 | 2025-09-18 |  |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2021-12-07 | 2022-09-10 |
+| [fold paper cranes](https://open.spotify.com/track/2XWLWeroPFKcfjKOEgdmlW) | [filmy](https://open.spotify.com/artist/0YysDEbyI5EtHplEjHsMI4) | [fold paper cranes](https://open.spotify.com/album/1dmsPrlxO4CmnmMDOJVNqr) | 2:27 | 2026-11-05 |  |
 | [Folded Notes](https://open.spotify.com/track/4cowhth7bG7PZRuYnlGhSH) | [Pastblink](https://open.spotify.com/artist/6aXm62k9vCjNBALspldTxL) | [Pieces of Earth](https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v) | 2:39 | 2021-12-07 | 2022-08-05 |
 | [follow curves](https://open.spotify.com/track/6ySxZ4DIudwVEohGVNJJBy) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [follow curves](https://open.spotify.com/album/55IZEKu9b2Nf57guiXN7ca) | 2:03 | 2023-10-27 | 2025-03-01 |
 | [for hire](https://open.spotify.com/track/6IoHBjBeOLB88llhgOX6Za) | [Pellets Brew](https://open.spotify.com/artist/0Hxef8gwqqPVy0rbAvpEAz) | [for hire](https://open.spotify.com/album/1tLwiMmTBCC3l20I7hXOvq) | 2:02 | 2021-12-07 | 2023-07-14 |
@@ -1380,7 +1381,7 @@
 | [nocturnal interruptions](https://open.spotify.com/track/64VnE0AELYbrGlvZfZFB6I) | [willie johns](https://open.spotify.com/artist/2ALnfwJWQqVHvL3BRkE6q2) | [nocturnal interruptions](https://open.spotify.com/album/0mwy7Trud8eCHzF9HHZrQp) | 2:20 | 2021-12-07 | 2022-09-23 |
 | [Noir](https://open.spotify.com/track/2RlemaPfhpDSUbt58hBuuj) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Noir](https://open.spotify.com/album/01zOaQQo9j9cK3OnX3JpB5) | 2:08 | 2022-04-08 | 2022-10-14 |
 | [Non](https://open.spotify.com/track/70Fpfvw4EwnTiInSc1U3e0) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Flitzer](https://open.spotify.com/album/7I13wkKorEyQq5WCU7e0Vv) | 2:41 | 2021-12-07 | 2022-06-25 |
-| [Noontide](https://open.spotify.com/track/2m91VLJ1jLbfkUSNaagRhi) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Noontide](https://open.spotify.com/album/0qAsM3qootrAIiQMOIVkE4) | 2:50 | 2025-04-18 |  |
+| [Noontide](https://open.spotify.com/track/2m91VLJ1jLbfkUSNaagRhi) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Noontide](https://open.spotify.com/album/0qAsM3qootrAIiQMOIVkE4) | 2:50 | 2025-04-18 | 2026-11-06 |
 | [Nordic Noir](https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs) | [Ullis](https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2) | [Nordic Noir](https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4) | 2:13 | 2022-09-02 | 2023-04-04 |
 | [Northern Station](https://open.spotify.com/track/0qAZAKTuRPq1XL2Rb4qpK2) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Northern Station](https://open.spotify.com/album/77idEOUkoc47CyeG3jDNb8) | 2:05 | 2022-12-09 | 2023-01-10 |
 | [Northern Station](https://open.spotify.com/track/2IXBvajtSK34AldAr9dBTT) | [Bee Peep](https://open.spotify.com/artist/6RMIVBVDkRQeS7T5U45YGE) | [Northern Station](https://open.spotify.com/album/1Aj8NrLCypDynHdyaUXG45) | 2:05 | 2022-11-25 | 2023-01-20 |

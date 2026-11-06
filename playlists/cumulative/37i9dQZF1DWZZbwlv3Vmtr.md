@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,236 songs - 1 day 23 hr 29 min
+1,237 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Home](https://open.spotify.com/track/32Hrw97j98LOmfSYQNEVn3) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Home](https://open.spotify.com/album/6aGMnEpcDRVRSO8Q86pDzY) | 2:24 | 2022-08-12 | 2022-10-29 |
 | [Honey and Spice](https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Honey and Spice](https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw) | 2:08 | 2023-11-17 |  |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-15 | 2022-12-10 |
+| [hoodies on](https://open.spotify.com/track/0Txm2gWXeMUQ7pJDsNP4SP) | [general groove](https://open.spotify.com/artist/19CFTUceuR05zEVPmMa1Ld) | [hoodies on](https://open.spotify.com/album/2FM7wfuWnbK7GdoAh2rrHE) | 2:20 | 2026-11-05 |  |
 | [horizon](https://open.spotify.com/track/3XaWOAun8dVY2fRKME3uZ5) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [horizon](https://open.spotify.com/album/1CzSDeoCQ3fhnKfqgeIGO5) | 2:03 | 2026-02-13 | 2026-04-11 |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 | 2025-07-10 |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 | 2025-07-10 |
@@ -642,7 +643,7 @@
 | [Moonlight Kid](https://open.spotify.com/track/7tDSeUGa12JrZRce5HSZzD) | [Aarly](https://open.spotify.com/artist/23n9NAhdmQvss3ZyP7UMaj) | [Moonlight Kid](https://open.spotify.com/album/1dL6gjK4xX4V5zv4RBfV77) | 2:07 | 2023-07-19 | 2026-02-14 |
 | [Moonlight Lake](https://open.spotify.com/track/1whNyC7iUGuRypP24a0K1K) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Moonlight Lake](https://open.spotify.com/album/3fTfNJ6tryQQt5ytIajdGP) | 2:20 | 2025-10-24 |  |
 | [Moonlight Shower](https://open.spotify.com/track/0YlzEOlGyoV1N3rbmqQKAx) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Moonlight Shower](https://open.spotify.com/album/6pjgTwJwTV7mX8Zf2bshQH) | 2:55 | 2022-12-09 | 2025-07-10 |
-| [more love](https://open.spotify.com/track/5Y4xIiKuNFbMcZV5saKHJW) | [emptydream.](https://open.spotify.com/artist/5eVZVouJSvjH5UNfhJy1BX) | [more love](https://open.spotify.com/album/6r780vED6HK9DJsuPPOqUI) | 2:00 | 2026-10-09 |  |
+| [more love](https://open.spotify.com/track/5Y4xIiKuNFbMcZV5saKHJW) | [emptydream.](https://open.spotify.com/artist/5eVZVouJSvjH5UNfhJy1BX) | [more love](https://open.spotify.com/album/6r780vED6HK9DJsuPPOqUI) | 2:00 | 2026-10-09 | 2026-11-06 |
 | [More That](https://open.spotify.com/track/78pvwbs4dWV7oA1McET7II) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [A Hot Summer](https://open.spotify.com/album/1W10pwjC3Dkx1uTpgfPLV0) | 2:39 | 2022-07-08 | 2022-10-14 |
 | [Morning Bop](https://open.spotify.com/track/7zK6zgXTPYVpWa2W0mRghL) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Morning Bop](https://open.spotify.com/album/2EuhBsy4LXpc2gPZ8BJ2HJ) | 2:39 | 2022-04-15 | 2022-04-22 |
 | [morning brew](https://open.spotify.com/track/4BvDP54r29IUkxrMXMGWex) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [morning brew](https://open.spotify.com/album/4PMlrqnNqdvvhkdQhwKz9O) | 2:44 | 2026-07-17 | 2026-10-09 |

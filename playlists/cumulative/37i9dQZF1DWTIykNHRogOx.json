@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Heroe.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec ESTL.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 243283,
       "name": "Abysses",
       "url": "https://open.spotify.com/track/2UGhYsW7MPJ52OK819ddOk"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 293826,
       "name": "Bonjour mon amour",
       "url": "https://open.spotify.com/track/3R9KKJYSdraCwuJZVRTnCp"
@@ -2141,6 +2141,28 @@
     },
     {
       "album": {
+        "name": "Intranquilles",
+        "url": "https://open.spotify.com/album/0Ry4UIq0RbMDMMx3E91F0x"
+      },
+      "artists": [
+        {
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+        },
+        {
+          "name": "Les Intranquilles",
+          "url": "https://open.spotify.com/artist/3H2tEdqg2N9xFgkbU5AC8x"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199267,
+      "name": "Intranquilles",
+      "url": "https://open.spotify.com/track/0oAOrQmbQ8rigpHxZcHIyF"
+    },
+    {
+      "album": {
         "name": "J'ai grandi",
         "url": "https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl"
       },
@@ -2156,6 +2178,24 @@
       "duration_ms": 142691,
       "name": "J'ai grandi",
       "url": "https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw"
+    },
+    {
+      "album": {
+        "name": "J'ai perdu mon p\u00e8re",
+        "url": "https://open.spotify.com/album/2b5RBTQSpaTCt6aGMQteoy"
+      },
+      "artists": [
+        {
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182299,
+      "name": "J'ai perdu mon p\u00e8re",
+      "url": "https://open.spotify.com/track/47iNzDNVcQ4XDI2IJiyHch"
     },
     {
       "album": {
@@ -2249,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "jamais danser!",
+        "url": "https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv"
+      },
+      "artists": [
+        {
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "jamais danser!",
+      "url": "https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6"
+    },
+    {
+      "album": {
         "name": "Jardin d'hiver",
         "url": "https://open.spotify.com/album/6QbLl6S6aVnJFELwqdw1gR"
       },
@@ -2282,7 +2340,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 226498,
       "name": "jardins",
       "url": "https://open.spotify.com/track/14BS36ETah5xAuIHVG1qBN"
@@ -2534,7 +2592,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142013,
       "name": "Kisbee",
       "url": "https://open.spotify.com/track/5mefCB9Jjlll59HwaLK33U"
@@ -2646,7 +2704,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 195506,
       "name": "L'Humain",
       "url": "https://open.spotify.com/track/3sHa6NoDxdvS7SYApXJUrC"
@@ -4033,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219785,
+      "name": "Les Monstres",
+      "url": "https://open.spotify.com/track/5uN0K0RK3aLnGdmppbeRoV"
+    },
+    {
+      "album": {
         "name": "Les mots blessent",
         "url": "https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw"
       },
@@ -4192,6 +4268,24 @@
       "duration_ms": 280120,
       "name": "Les rues de l'humanit\u00e9",
       "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
+    },
+    {
+      "album": {
+        "name": "les solitudes extr\u00eames",
+        "url": "https://open.spotify.com/album/7MWKgRebujrZsGumgrF1RZ"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233452,
+      "name": "les solitudes extr\u00eames",
+      "url": "https://open.spotify.com/track/558N9BuWPKmkck0jBu3B3P"
     },
     {
       "album": {
@@ -4765,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "mononoke",
+        "url": "https://open.spotify.com/album/3vAbOmWlcBq56XtkiRcLAm"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "mononoke",
+      "url": "https://open.spotify.com/track/53oxxT1yPpRlGiF6svD17o"
+    },
+    {
+      "album": {
         "name": "Murailles de Chine",
         "url": "https://open.spotify.com/album/5wmAeBkWR5yiD79KJPkCIw"
       },
@@ -4776,7 +4888,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228399,
       "name": "Murailles de Chine",
       "url": "https://open.spotify.com/track/3HY3ycfpbAYiLGPU1TgYaL"
@@ -4967,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "On ne rattrape pas le vent",
+        "url": "https://open.spotify.com/album/6OlJbk3PLVUrj2vOZH1aiJ"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "On ne rattrape pas le vent",
+      "url": "https://open.spotify.com/track/4zHQZTWc1Ek4zvkNQDalHb"
+    },
+    {
+      "album": {
         "name": "On peut comme \u00e7a",
         "url": "https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT"
       },
@@ -5086,7 +5216,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179700,
       "name": "papa la maison s'effondre",
       "url": "https://open.spotify.com/track/2KHikG96BvB667Z34nA2e9"
@@ -5202,24 +5332,6 @@
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
-    },
-    {
-      "album": {
-        "name": "Partager le monde",
-        "url": "https://open.spotify.com/album/62l59GYI179OIDENsm93wr"
-      },
-      "artists": [
-        {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
-        }
-      ],
-      "date_added": "2026-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193840,
-      "name": "Partager le monde",
-      "url": "https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17"
     },
     {
       "album": {
@@ -5342,7 +5454,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194039,
       "name": "peut-\u00eatre!",
       "url": "https://open.spotify.com/track/3xDh5B7TIgptIOr3zCzTNA"
@@ -5458,6 +5570,24 @@
       "duration_ms": 192027,
       "name": "Plus loin",
       "url": "https://open.spotify.com/track/3pMLw9md188yWQT1deU5rx"
+    },
+    {
+      "album": {
+        "name": "Plus rien ne m'\u00e9tonne (Partager le monde)",
+        "url": "https://open.spotify.com/album/62l59GYI179OIDENsm93wr"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Plus rien ne m'\u00e9tonne (Partager le monde)",
+      "url": "https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17"
     },
     {
       "album": {
@@ -5714,7 +5844,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 247991,
       "name": "Qui",
       "url": "https://open.spotify.com/track/4sqwuUeNZGR8NTIUf1I8AB"
@@ -6761,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "d\u00e9s\u00e9quilibres",
+        "url": "https://open.spotify.com/album/4okVRJyOQDd3WbbffKPp5L"
+      },
+      "artists": [
+        {
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/4nRamxYeVAhKjvdDEIiidl"
+    },
+    {
+      "album": {
         "name": "Tr\u00e9sor (Clyde Bessi Remix)",
         "url": "https://open.spotify.com/album/1KLF0zoSmQBhStk6xGUqsF"
       },
@@ -7134,6 +7282,24 @@
       "duration_ms": 258013,
       "name": "\u00c0 cause ou gr\u00e2ce",
       "url": "https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'abri dans mes r\u00eaves",
+        "url": "https://open.spotify.com/album/5jHZOQlP8hOy1tVIthIidO"
+      },
+      "artists": [
+        {
+          "name": "Thed",
+          "url": "https://open.spotify.com/artist/3gFZrEpUIUphZLOUPOBD85"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173848,
+      "name": "\u00c0 l'abri dans mes r\u00eaves",
+      "url": "https://open.spotify.com/track/2csKp1zfjB2olJzatWyKAe"
     },
     {
       "album": {

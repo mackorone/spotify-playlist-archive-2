@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 161375,
       "name": "Absentia",
       "url": "https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142933,
       "name": "Cara Al Cielo",
       "url": "https://open.spotify.com/track/28uqO9pe8CK4oEcPv9kd6v"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 123628,
       "name": "Chanson Pour Un Amour Perdu",
       "url": "https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158374,
       "name": "Elegy Of Solace",
       "url": "https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u"
@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 133908,
       "name": "Foothills",
       "url": "https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV"
@@ -8800,7 +8800,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156926,
       "name": "Lugnet",
       "url": "https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn"
@@ -10276,7 +10276,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 129000,
       "name": "Olivanders",
       "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
@@ -13203,6 +13203,24 @@
     },
     {
       "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/7m6Jau5YuCRCDOKwnIrraH"
+      },
+      "artists": [
+        {
+          "name": "Sub-City Keys",
+          "url": "https://open.spotify.com/artist/3yLwXiZTWsRCxJ0yHVTWNw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149974,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/1XApvCZWP1TVVI52bWJuIS"
+    },
+    {
+      "album": {
         "name": "Sk\u00e4rg\u00e5rd",
         "url": "https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV"
       },
@@ -14342,7 +14360,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 266500,
       "name": "Sycamore",
       "url": "https://open.spotify.com/track/3lP7rgOlvnmi1Dp3ubDrtk"
@@ -15574,7 +15592,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170291,
       "name": "Through a Rainy Window",
       "url": "https://open.spotify.com/track/2dE60i6I1i6AMyn0Ccp4FR"
@@ -16298,7 +16316,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 183800,
       "name": "Unique New York",
       "url": "https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT"
@@ -17324,7 +17342,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 183828,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/7imtufjk7dfVd1dBpXxhT7"

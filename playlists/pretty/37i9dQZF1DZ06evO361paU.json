@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 300514,
+  "num_followers": 300552,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAABrr83SaFNCl268t1/r89nF",
+  "snapshot_id": "aukkAAAAAACVNEn5+L2rzS2DQgFRkmGr",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 230237,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 274000,
       "name": "Can't Get You Off My Mind",
       "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 230237,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "Calling All Angels",
+      "url": "https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ghetto Lenny's Love Songs",
         "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 233249,
       "name": "Borders [Feat. Lenny Kravitz]",
       "url": "https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "Calling All Angels",
-      "url": "https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black and White America",
-        "url": "https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Superlove",
-      "url": "https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lenny",
         "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 217533,
       "name": "Dig In",
       "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black and White America",
+        "url": "https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Mr. Cab Driver",
-      "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 293466,
       "name": "Eleutheria",
       "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Mr. Cab Driver",
+      "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "highway robbery (feat. Lenny Kravitz)",
-        "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "highway robbery (feat. Lenny Kravitz)",
-      "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Electric Light",
         "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 220310,
       "name": "Ride (Edit)",
       "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "highway robbery (feat. Lenny Kravitz)",
+        "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "highway robbery (feat. Lenny Kravitz)",
+      "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
     },
     {
       "added_at": null,

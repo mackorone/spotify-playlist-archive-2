@@ -2,9 +2,9 @@
 
 ### [The Listening Post](https://open.spotify.com/playlist/37i9dQZF1DWT2471UyOhDZ)
 
-> A hand\-picked selection for an extraordinary palette\. Cover: Hot Chip
+> A hand\-picked selection for an extraordinary palette\. Cover: Kings of Leon
 
-550 songs - 1 day 11 hr 22 min
+552 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 | 2024-06-14 | 2024-08-15 |
 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 | 2025-09-04 | 2026-02-24 |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-13 | 2025-06-25 |
-| [Exalted Eagles](https://open.spotify.com/track/1De0bAsL4rQojHnesiVqz8) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Exalted Eagles](https://open.spotify.com/album/77rdNkfv45LvDPfc9oNZoK) | 4:21 | 2026-09-25 |  |
+| [Exalted Eagles](https://open.spotify.com/track/1De0bAsL4rQojHnesiVqz8) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Exalted Eagles](https://open.spotify.com/album/77rdNkfv45LvDPfc9oNZoK) | 4:21 | 2026-09-25 | 2026-11-06 |
 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 | 2025-07-18 | 2026-02-01 |
 | [Extraordinary Wings](https://open.spotify.com/track/0AhGvGEGReufQjUf1F63H7) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Extraordinary Wings](https://open.spotify.com/album/5e0XCIe5lOajksC70PMlMX) | 5:06 | 2025-01-31 | 2025-02-19 |
 | [Fantasize](https://open.spotify.com/track/0kAKh3iTGpzSuzCDqx0QtR) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [MADDER!](https://open.spotify.com/album/0ZgB3qvHqVJHau24Ckwfgf) | 3:23 | 2025-10-23 | 2025-10-29 |
@@ -330,7 +330,7 @@
 | [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 | 2025-05-24 |
 | [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 | 2025-10-02 | 2026-08-13 |
 | [Mockingjay](https://open.spotify.com/track/22hjpM2j5KWg7zNyve4T1g) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Mockingjay](https://open.spotify.com/album/2vuLW3TUCDbcikyzgITy6o) | 3:01 | 2025-09-11 | 2025-10-03 |
-| [Monroe](https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Monroe](https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ) | 3:40 | 2026-06-25 |  |
+| [Monroe](https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Monroe](https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ) | 3:40 | 2026-06-25 | 2026-11-06 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-14 | 2025-02-25 |
 | [More Than Life](https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [More than Life](https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7) | 5:33 | 2025-01-17 | 2025-05-04 |
 | [mother\-of\-pearl](https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:43 | 2026-06-18 | 2026-08-28 |
@@ -406,6 +406,7 @@
 | [Ribbon Factory](https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [Ribbon Factory](https://open.spotify.com/album/19xC9OCK7OdpU7e81iNsvL) | 4:14 | 2026-10-01 |  |
 | [Rock And Roll](https://open.spotify.com/track/58yz3lbCHxj18jsbwkQEyz) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 3:02 | 2025-09-04 |  |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-11-15 | 2025-10-24 |
+| [Rose](https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [O My Beloved](https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy) | 3:25 | 2026-11-06 |  |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-10-23 |  |
 | [Rumble Strip](https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Rumble Strip](https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf) | 3:00 | 2024-06-14 | 2024-11-20 |
 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 | 2024-06-14 | 2025-03-22 |
@@ -554,6 +555,7 @@
 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 | 2025-06-20 | 2025-10-26 |
 | [Wreck](https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Neon Grey Midnight Green](https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU) | 3:10 | 2025-10-02 | 2026-07-26 |
 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-10-06 | 2025-10-24 |
+| [You Can't Always Get What You Want](https://open.spotify.com/track/6zhR2wbiqSEZwjP28aHEDY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [You Can’t Always Get What You Want](https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF) | 3:29 | 2026-11-06 |  |
 | [You Don't Even Need It](https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Burn The Right Things Down](https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2) | 3:16 | 2024-10-17 | 2025-01-31 |
 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 | 2024-06-14 | 2024-10-07 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-31 | 2026-06-19 |

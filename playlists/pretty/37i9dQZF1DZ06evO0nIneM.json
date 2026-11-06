@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 96196,
+  "num_followers": 96210,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAABfbTxJkLWyKHvKdlsET9yc",
+  "snapshot_id": "aukkAAAAAACcGcDGvrbG0Q2l++6dHZ1W",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Berlijn",
-        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 277053,
-      "name": "Meer Kan Het Niet Zijn",
-      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
+      "duration_ms": 232840,
+      "name": "Monsters Slapen Nooit",
+      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
     },
     {
       "added_at": null,
@@ -711,34 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+        "name": "Radio Berlijn",
+        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Monsters Slapen Nooit",
-      "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
+        },
         {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 236493,
-      "name": "Mens",
-      "url": "https://open.spotify.com/track/1cEQ3t7L77oUXsdSIBN0V0"
+      "duration_ms": 277053,
+      "name": "Meer Kan Het Niet Zijn",
+      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 280613,
       "name": "Vallende Engel",
       "url": "https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Mens",
+      "url": "https://open.spotify.com/track/1cEQ3t7L77oUXsdSIBN0V0"
     },
     {
       "added_at": null,

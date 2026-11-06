@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,531 songs - 2 day 17 hr 53 min
+1,532 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1410,6 +1410,7 @@
 | [Waiting For A Better Day](https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Waiting For A Better Day](https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO) | 2:37 | 2023-09-22 | 2025-01-06 |
 | [Waiting For Love](https://open.spotify.com/track/2NAxj0kJqrYswoMPLWcnwt) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Waiting For Love](https://open.spotify.com/album/4rmXQjXfK8CyPtAcYxO8VJ) | 2:15 | 2026-05-15 | 2026-07-05 |
 | [Waiting For The Sunshine](https://open.spotify.com/track/5h2qSYxnAvuks0uSxYwqdO) | [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Waiting For The Sunshine](https://open.spotify.com/album/0fvkFKhbHkTMLXiABhAGBN) | 2:36 | 2025-05-11 | 2026-10-12 |
+| [Waiting For The Sunshine](https://open.spotify.com/track/0HG5g1sSgJwTnmNqiZ0VRc) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Waiting For The Sunshine](https://open.spotify.com/album/6kuRT71E2I1JKa1p9mGriy) | 2:05 | 2026-11-05 |  |
 | [Waiting For Tonight](https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Waiting For Tonight](https://open.spotify.com/album/0FIsdHoYo4lGHTJwvz5y67) | 2:33 | 2024-09-29 | 2026-07-06 |
 | [Waiting For You](https://open.spotify.com/track/4uLWlY98F6LnKZSGLy1Ohm) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Waiting For You](https://open.spotify.com/album/1qz08a4bbEiVN4P4nykzMq) | 2:30 | 2024-07-30 | 2026-10-06 |
 | [Wake Up](https://open.spotify.com/track/3mYKaKUIceyT9hBJ56X5Kf) | [Ideo](https://open.spotify.com/artist/2f5hd9R0JjvRR9vb7QvYZl), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Wake Up](https://open.spotify.com/album/5raro9uFM1I2ndfzp6mqYX) | 2:26 | 2025-01-10 | 2025-02-15 |

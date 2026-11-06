@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Bluegirl",
+  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Mel Raeburn",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -5324,7 +5324,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 161197,
       "name": "Course It Matters",
       "url": "https://open.spotify.com/track/7sRTG3ShIvak9i5d8b6e7G"
@@ -10292,7 +10292,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 250400,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/2LDLjL9TEy9HQqznnDaH3M"
@@ -10836,6 +10836,24 @@
       "duration_ms": 189066,
       "name": "Hey Hi Hello",
       "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
+    },
+    {
+      "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/379McNO5sSbweTq3tZi68P"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220032,
+      "name": "Hey, People",
+      "url": "https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK"
     },
     {
       "album": {
@@ -17157,6 +17175,24 @@
     },
     {
       "album": {
+        "name": "Old Flames",
+        "url": "https://open.spotify.com/album/074HfcJlCLJiYzm92nVqHe"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192446,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/5afeeD2PkqFC3qEez2aRto"
+    },
+    {
+      "album": {
         "name": "No Audience",
         "url": "https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t"
       },
@@ -17968,7 +18004,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 123633,
       "name": "OUTTASIGHT",
       "url": "https://open.spotify.com/track/5IHMpQ31TkzT3Tv1SUPYOw"
@@ -18260,6 +18296,24 @@
       "duration_ms": 211027,
       "name": "Passing By",
       "url": "https://open.spotify.com/track/2HXgKL0MZLoC8fzBKCS5dF"
+    },
+    {
+      "album": {
+        "name": "SECONDHAND SMOKE",
+        "url": "https://open.spotify.com/album/5VwMEjoJ8jsdCAKIhqhIbe"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199882,
+      "name": "PATTERN",
+      "url": "https://open.spotify.com/track/4SJm0QAznuWDNn4TvhB4PG"
     },
     {
       "album": {
@@ -23433,6 +23487,24 @@
     },
     {
       "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2BcUYeinHQuCSvQWfGZaYi"
+      },
+      "artists": [
+        {
+          "name": "MISSU",
+          "url": "https://open.spotify.com/artist/0mgZJ2lmD9jk1YSF43YwSG"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147518,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/2xZk0W8K0J4zEFczDjVjrZ"
+    },
+    {
+      "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/6CHGx53xePxaDCJJo8vVFG"
       },
@@ -23822,7 +23894,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 116932,
       "name": "Terminally Verbal",
       "url": "https://open.spotify.com/track/3fdW6unLKZnY8QmACp2a9h"
@@ -23894,7 +23966,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156230,
       "name": "That Ain\u2019t You",
       "url": "https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7"
@@ -25205,6 +25277,28 @@
     },
     {
       "album": {
+        "name": "trampoline",
+        "url": "https://open.spotify.com/album/4gtd1NkyVy6F9m2v0PPy5E"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "t.o",
+          "url": "https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169642,
+      "name": "trampoline",
+      "url": "https://open.spotify.com/track/0bmJ5ITaI4S2cubiO86fQK"
+    },
+    {
+      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -25732,7 +25826,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 239377,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
@@ -25916,6 +26010,24 @@
       "duration_ms": 148695,
       "name": "Weight On Me",
       "url": "https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh"
+    },
+    {
+      "album": {
+        "name": "Well I Might Just Die",
+        "url": "https://open.spotify.com/album/0az7K3RkMFEmvSkxomICTF"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189222,
+      "name": "Well I Might Just Die",
+      "url": "https://open.spotify.com/track/5SPLSJfoxLmVeXtFbMSR9h"
     },
     {
       "album": {

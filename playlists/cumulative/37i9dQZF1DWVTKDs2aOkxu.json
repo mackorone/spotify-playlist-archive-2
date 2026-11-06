@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: RIP Magic ",
+  "description": "The best indie music of the moment. Cover: Rex Orange County",
   "name": "The Indie List",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 175392,
       "name": "(I Wish I Was) Ennio Morricone",
       "url": "https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 252928,
       "name": "Do You Know Me",
       "url": "https://open.spotify.com/track/5XspTgdG4XVtMQuhrcWs2P"
@@ -5916,7 +5916,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 234218,
       "name": "easy rider",
       "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
@@ -6013,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "eleanor",
+        "url": "https://open.spotify.com/album/46VdUaFTrzGL3xJcze4Nmp"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244943,
+      "name": "eleanor",
+      "url": "https://open.spotify.com/track/3IiOZ9DA56vcMNP6sJFyNo"
+    },
+    {
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
       },
@@ -6049,6 +6067,28 @@
     },
     {
       "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Elvis (feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO"
+    },
+    {
+      "album": {
         "name": "She\u2019s the Best",
         "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
       },
@@ -6060,7 +6100,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 211761,
       "name": "Embarrassingly",
       "url": "https://open.spotify.com/track/2AXdWir6OhjRFQ9phqp2CK"
@@ -6190,6 +6230,24 @@
       "duration_ms": 203370,
       "name": "Entertainer",
       "url": "https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8"
+    },
+    {
+      "album": {
+        "name": "eternity",
+        "url": "https://open.spotify.com/album/2whPEactwKmgnbTzirCYjC"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "eternity",
+      "url": "https://open.spotify.com/track/2mYWt5RW0iigksPotprfc1"
     },
     {
       "album": {
@@ -6593,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "QWERTY III",
+        "url": "https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159618,
+      "name": "FERAL CHILD ;-0",
+      "url": "https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW"
+    },
+    {
+      "album": {
         "name": "When You Gonna Tell 'Em the Truth, Aaron?",
         "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
       },
@@ -6962,7 +7038,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186075,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1oW8G8axgyKtJu834vU3gG"
@@ -8984,7 +9060,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 248918,
       "name": "how things are today",
       "url": "https://open.spotify.com/track/5cYf0ojj9Sgac6yl4czaDk"
@@ -9150,6 +9226,24 @@
       "duration_ms": 204651,
       "name": "Husk",
       "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "album": {
+        "name": "I Am God",
+        "url": "https://open.spotify.com/album/7qUhXBrMILFJCFziNaJPOP"
+      },
+      "artists": [
+        {
+          "name": "Petra",
+          "url": "https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "I Am God",
+      "url": "https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34"
     },
     {
       "album": {
@@ -10091,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "untitled (halo)",
+        "url": "https://open.spotify.com/album/4TKFP2DLk1z8zn1ZGuVbsh"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116964,
+      "name": "industry talk",
+      "url": "https://open.spotify.com/track/4PWUzsYYzydE649e7w2hy3"
+    },
+    {
+      "album": {
         "name": "Pollyanna",
         "url": "https://open.spotify.com/album/7BdMsrW1uPoyuYvoLLSGtj"
       },
@@ -10433,6 +10545,24 @@
     },
     {
       "album": {
+        "name": "PEACE + WAR",
+        "url": "https://open.spotify.com/album/4Lbs1ZVwXGJ9tgFBxrpyPA"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "Jag\u00f3dki (Blueberries)",
+      "url": "https://open.spotify.com/track/5kWBBObGHpO26IH4FlQgkE"
+    },
+    {
+      "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/37jYqngzHIRHmAef9SWsFr"
       },
@@ -10480,7 +10610,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194205,
       "name": "Japan",
       "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
@@ -11652,7 +11782,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182634,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/4ja1qfXr2DJFYzSxWhQQFp"
@@ -15147,6 +15277,24 @@
     },
     {
       "album": {
+        "name": "Pilots Licence / Cliffs Of Dooneen",
+        "url": "https://open.spotify.com/album/1qua0b2Z6gMiRPLyTBLGsu"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219981,
+      "name": "Pilots Licence",
+      "url": "https://open.spotify.com/track/7czDMYoS1wy02sqmvI46mR"
+    },
+    {
+      "album": {
         "name": "Pin Up Boys",
         "url": "https://open.spotify.com/album/7Feu6eSNgcapqZrYOMHUpe"
       },
@@ -15252,6 +15400,24 @@
       "duration_ms": 219503,
       "name": "Planets",
       "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "album": {
+        "name": "Planned Obsolescence",
+        "url": "https://open.spotify.com/album/2sJL9Ty9wbiVZQ4WTYRYJ3"
+      },
+      "artists": [
+        {
+          "name": "The Itch",
+          "url": "https://open.spotify.com/artist/64Db5ZXKSHKOKC7h1brQck"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238211,
+      "name": "Planned Obsolescence",
+      "url": "https://open.spotify.com/track/5lMlmlrUTTnuFMAoouBCz0"
     },
     {
       "album": {
@@ -15378,6 +15544,24 @@
       "duration_ms": 229338,
       "name": "Poems",
       "url": "https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW"
+    },
+    {
+      "album": {
+        "name": "Poison Pop",
+        "url": "https://open.spotify.com/album/2asmAWJ8fzrkZ1glyR3Nc9"
+      },
+      "artists": [
+        {
+          "name": "Everything Everything",
+          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Poison Pop",
+      "url": "https://open.spotify.com/track/1UqlK0fTOd4a5ocm27n6OF"
     },
     {
       "album": {
@@ -17522,7 +17706,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 251301,
       "name": "Smiling Through The Days",
       "url": "https://open.spotify.com/track/0KpwzbK4tAFaI5eLvdeITw"
@@ -22394,7 +22578,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 314733,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
@@ -22502,7 +22686,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204000,
       "name": "wiser",
       "url": "https://open.spotify.com/track/1iz2FeDIHjO9yfJnh39FxG"

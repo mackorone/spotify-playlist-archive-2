@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-489 songs - 1 day 9 hr 27 min
+491 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Ani Aredak](https://open.spotify.com/track/66gIjtTp56i7n5I0D2CclW) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Ani Aredak](https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED) | 3:02 | 2021-12-23 | 2022-04-02 |
 | [Araftouh](https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Araftouh](https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj) | 3:57 | 2023-05-22 | 2023-12-09 |
 | [Arba3inak](https://open.spotify.com/track/6xlgx1TgbkUGoeNRpigIvR) | [Hamad Al Qattan](https://open.spotify.com/artist/3GyxnOcf3qKxX6QaaBCbYD) | [Arba3inak](https://open.spotify.com/album/4cIGmqnGdZ82lZgmZsmvUy) | 3:54 | 2022-03-01 | 2022-08-13 |
-| [Arja3 Le An](https://open.spotify.com/track/3b4Fb82NgUrPeW6fIr9AKH) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Arja3 Le An](https://open.spotify.com/album/1zlShYHGAXpworkwciHUI6) | 5:10 | 2026-01-08 |  |
+| [Arja3 Le An](https://open.spotify.com/track/3b4Fb82NgUrPeW6fIr9AKH) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Arja3 Le An](https://open.spotify.com/album/1zlShYHGAXpworkwciHUI6) | 5:10 | 2026-01-08 | 2026-11-06 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-09-28 | 2023-02-25 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/7m2zZPpGToPPLWv41LTo2U) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ashan Al Eshrah \(6\)](https://open.spotify.com/album/2w79joKuAlb8yptMEMMJNQ) | 4:37 | 2022-09-05 | 2022-09-30 |
 | [Asheqat Alworod](https://open.spotify.com/track/7fzlfxPGNg6TAnsagF3xWA) | [Fares Mahdi](https://open.spotify.com/artist/1YsTqzEdaUDfTm05Rx9bHD) | [Asheqat Alworod](https://open.spotify.com/album/7wLFnsKYJiUTyIsfc3juIR) | 5:59 | 2021-12-23 | 2022-04-06 |
@@ -233,6 +233,7 @@
 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 | 2024-07-22 | 2025-04-24 |
 | [Majnoon](https://open.spotify.com/track/78DdQCYAQnUV0fb9o4Ujmq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Majnoon](https://open.spotify.com/album/6HxBMjzjmu3vKMbOkd0KHC) | 4:53 | 2024-04-18 | 2025-01-17 |
 | [Majnoun](https://open.spotify.com/track/6MFZIxQGGiqbKMtJXalRsU) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Majnoun](https://open.spotify.com/album/7lEdeBd6afDZBOtzrAL811) | 3:33 | 2023-04-26 | 2023-04-28 |
+| [Malhmet Al Sogor](https://open.spotify.com/track/5BupC5rTw80k6Mmaaf6z2N) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB), [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Rashed Al Fares](https://open.spotify.com/artist/7J900jipjzgeVmiVU3a5cf), [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2), [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T), [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F), [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf), [Talal Salamah](https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0), [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U), [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Malhmet Al Sogor](https://open.spotify.com/album/3kB8VwYLacqwzARGy7HdZg) | 5:38 | 2026-11-05 |  |
 | [Manho Habibak](https://open.spotify.com/track/67WtP6ZDz6jnUMlS4cR5ih) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan Part 2](https://open.spotify.com/album/6Jyh9oJ155zJ6qSaLfvmRi) | 5:21 | 2024-01-04 | 2024-07-31 |
 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 | 2022-11-07 | 2023-04-05 |
 | [Mani Thak](https://open.spotify.com/track/0n0W88jb6L7vedbnWWoUtY) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Mani Thak](https://open.spotify.com/album/04Lz0wSYNkg0C5pDC1EVtK) | 3:23 | 2024-12-07 | 2025-07-01 |
@@ -275,7 +276,7 @@
 | [Qalb Nasini](https://open.spotify.com/track/3xG4KZWtfCNgwHhxxL6Qg2) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Ard](https://open.spotify.com/album/0i6qgh6QraX5UsaPmvw9ZZ) | 4:48 | 2024-04-18 | 2024-05-10 |
 | [Qarar Saab](https://open.spotify.com/track/08dzFnwCGE11vXoH9Pw5aa) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Qarar Saab](https://open.spotify.com/album/0qA4LjeVNh0CYgPdCZvi8f) | 3:16 | 2023-12-15 | 2024-06-30 |
 | [Qatlni Hobak](https://open.spotify.com/track/7JqngiYbIy1jv6o0zq45PS) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Qatlni Hobak](https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ) | 3:27 | 2022-07-10 | 2023-01-21 |
-| [Qooli Fenk](https://open.spotify.com/track/3MGu4KPXEcVJaCYrIiENSS) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Abdulaziz Elmuanna 2026](https://open.spotify.com/album/46MLFQoXY0pnUUwnk3yKzj) | 3:57 | 2026-01-15 |  |
+| [Qooli Fenk](https://open.spotify.com/track/3MGu4KPXEcVJaCYrIiENSS) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Abdulaziz Elmuanna 2026](https://open.spotify.com/album/46MLFQoXY0pnUUwnk3yKzj) | 3:57 | 2026-01-15 | 2026-11-06 |
 | [Rabea Youm](https://open.spotify.com/track/1JC6xks3zK45wSeRR9AYvX) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Rabea Youm](https://open.spotify.com/album/0ttIhY7IARi9VAsKgEs0Ae) | 4:26 | 2024-03-11 | 2024-11-20 |
 | [Radet Fe3el](https://open.spotify.com/track/37lxY7Ms2NowVaLhVHiO7U) | [Fahad Al Aref](https://open.spotify.com/artist/5RNoC3G0ieH76JREK3TZI5) | [Radet Fe3el](https://open.spotify.com/album/7rZk47vpKjUXywxtwwUyjH) | 3:55 | 2022-07-06 | 2023-01-18 |
 | [Rahbiti](https://open.spotify.com/track/54GHePYbjSDoP1gBd76r0Y) | [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Rahbiti](https://open.spotify.com/album/0Nykl37ld13jwj8xv0lj4u) | 3:43 | 2022-03-01 | 2022-08-13 |
@@ -411,6 +412,7 @@
 | [درعية العز](https://open.spotify.com/track/5zVEy651bxerXBDB6Y93Vk) | [Rashed Al Fares](https://open.spotify.com/artist/7J900jipjzgeVmiVU3a5cf) | [درعية العز](https://open.spotify.com/album/0QmEQZpP3QEwr6fJOeMGc8) | 3:10 | 2024-02-06 | 2024-09-06 |
 | [دقة خطاويك](https://open.spotify.com/track/3Ib9fWcBsaItPPl6n9XvU7) | [Hamad Al Khazinah](https://open.spotify.com/artist/5l9dJPTWI6qfI4IRZnbdF0) | [دقة خطاويك](https://open.spotify.com/album/4gYwRmpb0MWfSfTQ3I33y6) | 4:37 | 2026-08-13 |  |
 | [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 | 2025-10-06 | 2026-05-14 |
+| [ذرى هالدار](https://open.spotify.com/track/3N5LxiHrOHHuFRSE6RIhnC) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ذرى هالدار](https://open.spotify.com/album/08ZnOlZPBvVW8Ks9AgAScj) | 4:06 | 2026-11-05 |  |
 | [راحت أيامه](https://open.spotify.com/track/0F7zIQlo4DFp0VGI4E2ObA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 3:59 | 2025-04-24 | 2025-04-27 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-01-10 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 | 2022-08-13 |

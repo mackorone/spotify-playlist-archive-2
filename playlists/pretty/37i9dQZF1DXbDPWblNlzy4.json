@@ -1,29 +1,13 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Fabian",
-  "num_followers": 598964,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Lasso",
+  "num_followers": 598919,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8UtEIz3XvKPOp9Y/ei+4aItSFR",
+  "snapshot_id": "AAAAAMojZLigEJwh+b4B/Pz4pt/iHe6o",
   "tracks": [
-    {
-      "added_at": "2026-10-30 04:59:37",
-      "album": {
-        "name": "BODYPAINTING",
-        "url": "https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 153059,
-      "name": "BODYPAINTING",
-      "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
-    },
     {
       "added_at": "2026-09-25 04:59:18",
       "album": {
@@ -41,20 +25,24 @@
       "url": "https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs"
     },
     {
-      "added_at": "2026-08-21 04:59:14",
+      "added_at": "2026-11-06 04:59:41",
       "album": {
-        "name": "Tu lunar",
-        "url": "https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT"
+        "name": "Objetos Fr\u00e1giles en Ambientes Hostiles",
+        "url": "https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP"
       },
       "artists": [
         {
           "name": "Lasso",
           "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 138850,
-      "name": "Tu lunar",
-      "url": "https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw"
+      "duration_ms": 167250,
+      "name": "Borracho Otra Vez",
+      "url": "https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl"
     },
     {
       "added_at": "2026-09-04 04:59:26",
@@ -311,6 +299,30 @@
       "duration_ms": 182820,
       "name": "LINEAS PARALELAS",
       "url": "https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf"
+    },
+    {
+      "added_at": "2026-11-06 04:59:41",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "EN ITALIA",
+      "url": "https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp"
     },
     {
       "added_at": "2026-09-18 04:59:27",

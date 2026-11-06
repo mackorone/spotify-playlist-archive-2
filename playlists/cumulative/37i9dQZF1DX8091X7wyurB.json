@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 271699,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
@@ -9423,6 +9423,24 @@
     },
     {
       "album": {
+        "name": "The Restoration: iNkosi Yinhle Futhi Ilungile",
+        "url": "https://open.spotify.com/album/3wcglw5PxVmpNwDRLBbiV4"
+      },
+      "artists": [
+        {
+          "name": "Sneziey",
+          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321538,
+      "name": "iNkosi Yinhle Futhi Ilungile",
+      "url": "https://open.spotify.com/track/6oDmWhaSLEe3kdgdwD5hI0"
+    },
+    {
+      "album": {
         "name": "The Hill",
         "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
@@ -17286,7 +17304,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 611053,
       "name": "The Only God (Live at Rhema Church 2026)",
       "url": "https://open.spotify.com/track/2e0vyTPYRbjrngxnMgvu0a"
@@ -17406,7 +17424,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 802764,
       "name": "Then & Now African Praise Medley",
       "url": "https://open.spotify.com/track/4zFjkyU4ZI26KSfgaoJIG1"
@@ -18122,7 +18140,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 347294,
       "name": "Victory",
       "url": "https://open.spotify.com/track/4k2FUrjkfSMkyZTM7B4O64"
@@ -18768,6 +18786,28 @@
       "duration_ms": 396383,
       "name": "We Worship You",
       "url": "https://open.spotify.com/track/1x2XWjn4AAeFTLZLfhbQf0"
+    },
+    {
+      "album": {
+        "name": "We Worship You (Live)",
+        "url": "https://open.spotify.com/album/38SX4K8l81X2H4aiu6RBqN"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599600,
+      "name": "We Worship You - Live",
+      "url": "https://open.spotify.com/track/3Q3k5ttc0uBXEFjELdjPUQ"
     },
     {
       "album": {

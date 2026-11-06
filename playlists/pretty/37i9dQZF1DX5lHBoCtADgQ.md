@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,006 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,029 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 13 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/0je2FP3jnEOzma2eHaUPA7) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4lXQtIeUiDuEQ0H8rM0FDp) | 3:15 |
 | 14 | [Mirza](https://open.spotify.com/track/1YC9QitEhCDv0Vz5j23xP4) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [The Folk Era](https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n) | 3:52 |
 | 15 | [Ik Jogi aa Gya](https://open.spotify.com/track/2rk1APwyNw3H0BmfiONgyu) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Ik Jogi aa Gya](https://open.spotify.com/album/4m5xMq1O6qZVU35zIcUDxi) | 4:46 |
-| 16 | [Bhabi Deeva Jagaa](https://open.spotify.com/track/5IRWPGELNTM5v2Q1TtpvnG) | [Kulbir](https://open.spotify.com/artist/3HsgSigLkDYgaRTXPJN6wQ) | [Tenun Nachdi Vekh Ke](https://open.spotify.com/album/6eHLWh096syVyuxxCbdOnQ) | 4:59 |
-| 17 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 |
+| 16 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 |
+| 17 | [Bhabi Deeva Jagaa](https://open.spotify.com/track/5IRWPGELNTM5v2Q1TtpvnG) | [Kulbir](https://open.spotify.com/artist/3HsgSigLkDYgaRTXPJN6wQ) | [Tenun Nachdi Vekh Ke](https://open.spotify.com/album/6eHLWh096syVyuxxCbdOnQ) | 4:59 |
 | 18 | [Laung Gawacha](https://open.spotify.com/track/255mewBkW1KCqgxoEHJGRW) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Laung Gawacha](https://open.spotify.com/album/7xva1zIhXOJWf5Zma8coD6) | 2:30 |
 | 19 | [Mitti da Bawa](https://open.spotify.com/track/5qcQKbQF2Kj8AIaDYpNZWm) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [The Folk Era](https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n) | 6:04 |
 | 20 | [Kissa Suche Da](https://open.spotify.com/track/7hVt3owcjzquzCquFsKaqK) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [The Folk Era](https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n) | 2:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 47 | [Madhorama](https://open.spotify.com/track/7tOBh3vDbyx1OaJjmbNVXG) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Sameer Uddin](https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX) | [Madhorama](https://open.spotify.com/album/7j3lvi0YBl14COB5hCqDHM) | 3:11 |
 | 48 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 |
 | 49 | [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 |
-| 50 | [Latthe Di Chadar](https://open.spotify.com/track/1kQjwRxe6VRj8qEyiSUHQU) | [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7) | [Latthe Di Chadar](https://open.spotify.com/album/6voQm7UXpP8WF0Zx69Meju) | 2:20 |
+| 50 | [Tumba \- From "Oye Bhole Oye 2"](https://open.spotify.com/track/4CeNeOiRwEmCLhqpbI4LC7) | [Ghaffar Raghi Group](https://open.spotify.com/artist/2Awd2ab1ZKeqyqEbfkesjr), [Jagjeet Sandhu](https://open.spotify.com/artist/5CzdMEOnnrgrcm5p0TOpoW), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Tumba \(From "Oye Bhole Oye 2"\)](https://open.spotify.com/album/35NQ0cze0eagxsZmvIvfo7) | 3:52 |
 
 Snapshot ID: `AAAAAAXnblm84VAGFPp2D7+jp5DP+zjA`

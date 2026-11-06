@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 509466,
+  "num_followers": 509491,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/4H6UoTC7CTLPgcFGV3D3pi"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/6AmPB33GIbTMxicnQtht2m"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Toda Forma De Amor (Remix)",
         "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 228661,
       "name": "Toda Forma De Amor - Remix",
       "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4H6UoTC7CTLPgcFGV3D3pi"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/6AmPB33GIbTMxicnQtht2m"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1523,22 +1523,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Deixe Me Ir",
-        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
+        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
+        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
       },
       "artists": [
         {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
-      "duration_ms": 214634,
-      "name": "Deixe Me Ir",
-      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
+      "duration_ms": 201600,
+      "name": "Manh\u00e3 de Sol - Zuffo Remix",
+      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
     }
   ],
   "unique_name": "Festa na Praia",

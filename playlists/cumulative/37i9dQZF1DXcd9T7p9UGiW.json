@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Victony",
+  "description": "Catching flights and going global. Cover: Skepta",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -672,6 +672,28 @@
       "duration_ms": 152613,
       "name": "Allergy",
       "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
+    },
+    {
+      "album": {
+        "name": "Aloe Vera (feat. Asake)",
+        "url": "https://open.spotify.com/album/3AMytGAfYyeuhPdR9iWRhb"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171380,
+      "name": "Aloe Vera (feat. Asake)",
+      "url": "https://open.spotify.com/track/3JL7OwWcUt045JNYKOOD9A"
     },
     {
       "album": {
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 139545,
       "name": "Bring You Flowers",
       "url": "https://open.spotify.com/track/1xUk8cy2f7FEzhFrMcABeb"
@@ -13999,6 +14021,32 @@
     },
     {
       "album": {
+        "name": "POSITION",
+        "url": "https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "POSITION",
+      "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB"
       },
@@ -14052,6 +14100,28 @@
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+    },
+    {
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/1RtuCvuc1k2s9AeXYFiiDP"
+      },
+      "artists": [
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/54PyFCyGbVvr6OgENl8QFf"
     },
     {
       "album": {
@@ -18412,7 +18482,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168144,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6WX4C4k0F1LTR6OmTV3HX4"
@@ -19098,6 +19168,32 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P"
+      },
+      "artists": [
+        {
+          "name": "Chisway",
+          "url": "https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ"
+        },
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "\u65af\u4e39\u66fc\u7c07",
+          "url": "https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz"
     },
     {
       "album": {

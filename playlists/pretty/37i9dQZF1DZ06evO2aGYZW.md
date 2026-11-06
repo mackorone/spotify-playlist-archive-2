@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 
 > This is Macklemore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,323 likes - 48 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,333 likes - 48 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 | 32 | [Starting Over \(feat\. Ben Bridwell\)](https://open.spotify.com/track/7gSyfcCtcnlHDbA8O3Lnls) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:11 |
 | 33 | [My Oh My](https://open.spotify.com/track/6Pi7FM06HeixUs0TChN1yh) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [The Heist \(Deluxe Edition\)](https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT) | 4:17 |
 | 34 | [Corner Store \(feat\. Dave B & Travis Thompson\)](https://open.spotify.com/track/4m4aiyWCBH011DhxQeoWt1) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc) | [GEMINI](https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2) | 4:33 |
-| 35 | [Irish Celebration](https://open.spotify.com/track/2rLcR01HB0ScBAsgxX4Z62) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [Irish Celebration](https://open.spotify.com/album/6mJZhsFmCN0nJcn50H87H9) | 4:42 |
-| 36 | [Wednesday Morning](https://open.spotify.com/track/5Kuw0zF0A3nOSgwu8XLBsY) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [Wednesday Morning](https://open.spotify.com/album/49wNLtuTxXQtzmDV4rsmNp) | 3:55 |
+| 35 | [Wednesday Morning](https://open.spotify.com/track/5Kuw0zF0A3nOSgwu8XLBsY) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [Wednesday Morning](https://open.spotify.com/album/49wNLtuTxXQtzmDV4rsmNp) | 3:55 |
+| 36 | [Irish Celebration](https://open.spotify.com/track/2rLcR01HB0ScBAsgxX4Z62) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [Irish Celebration](https://open.spotify.com/album/6mJZhsFmCN0nJcn50H87H9) | 4:42 |
 | 37 | [Victory Lap](https://open.spotify.com/track/4KMj9aLrNc45H9ETYz7IcE) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [The Heist \(Deluxe Edition\)](https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT) | 3:33 |
 | 38 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
 | 39 | [Love Song \(feat\. Evan Roman\)](https://open.spotify.com/track/2RZ9EanhMHmfzFRH9WhZbW) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Evan Roman](https://open.spotify.com/artist/3pB1yT1RqutcdHkI3oAdVS) | [Love Song \(feat\. Evan Roman\)](https://open.spotify.com/album/4xvsLZ4l6iFWSBK0vnO9cg) | 4:23 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 | 47 | [FDT \- Pt\. 2](https://open.spotify.com/track/6ZcCLhMqQEZEzsDhhS767O) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [FDT \(Pt\. 2\)](https://open.spotify.com/album/7It7smBGs7Ie1KS2iYtKP5) | 3:42 |
 | 48 | [American](https://open.spotify.com/track/5m4X2HQ0eiviwuKPoREanT) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [The Unplanned Mixtape](https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k) | 4:13 |
 
-Snapshot ID: `aufSgAAAAADA/k2YJkwrX52MlVftr4fo`
+Snapshot ID: `aukkAAAAAADVypz1AvgNjMaC354IJHku`

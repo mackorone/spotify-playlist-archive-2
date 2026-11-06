@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: LUCKI\n",
+  "description": "The Midwest is always on time. Cover: Jack Harlow\n",
   "name": "CST",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 197068,
       "name": "200",
       "url": "https://open.spotify.com/track/0UKpzpWpmI7ADTmXP41jqU"
@@ -6967,6 +6967,24 @@
     },
     {
       "album": {
+        "name": "D&F",
+        "url": "https://open.spotify.com/album/439xolAytv4gEEJXQjYFkr"
+      },
+      "artists": [
+        {
+          "name": "DC THE DON",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181675,
+      "name": "D&F",
+      "url": "https://open.spotify.com/track/263OqKSYmWiIj8mWW7WCvt"
+    },
+    {
+      "album": {
         "name": "Clique City Vol. 2",
         "url": "https://open.spotify.com/album/4StdrWDWy5MZRIjTl4Mtsm"
       },
@@ -11130,7 +11148,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217656,
       "name": "Ghetto Symphony",
       "url": "https://open.spotify.com/track/4V7c0U6hPGD5JKeywaV7QI"
@@ -14761,6 +14779,28 @@
     },
     {
       "album": {
+        "name": "I'm The Prize",
+        "url": "https://open.spotify.com/album/0slyDRgOOfoXjcl06qdlmq"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Ebony Riley",
+          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "I'm The Prize",
+      "url": "https://open.spotify.com/track/4yHtn2HyecammB4soMiQFm"
+    },
+    {
+      "album": {
         "name": "Ice Cream (feat. Rick Ross)",
         "url": "https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0"
       },
@@ -17508,7 +17548,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168840,
       "name": "Lil Bit - Remix",
       "url": "https://open.spotify.com/track/4GHOp3dIayLj1eDzBpTnLr"
@@ -20301,6 +20341,28 @@
     },
     {
       "album": {
+        "name": "Nigel Sylvester",
+        "url": "https://open.spotify.com/album/45tqmH1f9uElOO0pcJYCu7"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179952,
+      "name": "Nigel Sylvester",
+      "url": "https://open.spotify.com/track/09a3A3v2dGT0WNR1amQJXT"
+    },
+    {
+      "album": {
         "name": "Nite N Day (feat. Babyfxce E & 1up Tee)",
         "url": "https://open.spotify.com/album/2eExyocGA6FWIClE4Xh1tZ"
       },
@@ -21180,7 +21242,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192000,
       "name": "NWM",
       "url": "https://open.spotify.com/track/3xcGQuK0hKDB8a3eW2Wb5R"
@@ -23026,7 +23088,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 138795,
       "name": "Plenty",
       "url": "https://open.spotify.com/track/0neyPLZUYdSUCXKC6fYcAX"
@@ -24134,6 +24196,28 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "album": {
+        "name": "Rake it Up",
+        "url": "https://open.spotify.com/album/3n4RMsxQkpRQNH5Oa0kBtr"
+      },
+      "artists": [
+        {
+          "name": "FMB DZ",
+          "url": "https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Rake it Up",
+      "url": "https://open.spotify.com/track/3nod116Jtu1oHF1pPCjx6v"
     },
     {
       "album": {
@@ -26947,6 +27031,24 @@
     },
     {
       "album": {
+        "name": "Sweet Action II",
+        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120097,
+      "name": "SIGNORA",
+      "url": "https://open.spotify.com/track/4Js9d4pJ28U1v9fwhq1AwI"
+    },
+    {
+      "album": {
         "name": "4eva Us Neva Them",
         "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
       },
@@ -29024,7 +29126,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 117169,
       "name": "Striker (feat. Chuckyy)",
       "url": "https://open.spotify.com/track/0ZusCe5kKDgVZOZEL33bKu"
@@ -30705,6 +30807,24 @@
     },
     {
       "album": {
+        "name": "Thinkin About",
+        "url": "https://open.spotify.com/album/65Ag6rxFUY4cohw1UzSAIf"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142658,
+      "name": "Thinkin About",
+      "url": "https://open.spotify.com/track/1tP0sg5EpQMQe0gUU2SVxN"
+    },
+    {
+      "album": {
         "name": "Thinking Of You",
         "url": "https://open.spotify.com/album/2oHvIk5IL9sgqaZkuzfo9W"
       },
@@ -31562,6 +31682,28 @@
       "duration_ms": 150079,
       "name": "Too Slow (feat. STAR BANDZ)",
       "url": "https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH"
+    },
+    {
+      "album": {
+        "name": "TOO SOON (feat. Babyface)",
+        "url": "https://open.spotify.com/album/3KTWykfM7OBYP2XgPh4Fk0"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/55L3FIAs21pUNwCUMQ0wpJ"
     },
     {
       "album": {
@@ -34592,7 +34734,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 177333,
       "name": "Wrong Place, Wrong time",
       "url": "https://open.spotify.com/track/0Iwtp6RIjd92YaWA7snJoX"

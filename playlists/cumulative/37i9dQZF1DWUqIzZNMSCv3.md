@@ -4,7 +4,7 @@
 
 > The world's most iconic and relaxing classical piano.
 
-167 songs - 10 hr 53 min
+168 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [In einer Nacht, Op\. 15: No\. 2, Sehr langsam \- Musical Moments](https://open.spotify.com/track/0b0NXgRU5fX5U6dfjYsgKe) | [Paul Hindemith](https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Hindemith: In einer Nacht, Op\. 15: No\. 2, Sehr langsam \(Musical Moments\)](https://open.spotify.com/album/6MBeNgru816JprogFP7YjD) | 1:24 | 2022-11-25 |  |
 | [Janáček: On an Overgrown Path, Book I: No\. 7, Good Night!](https://open.spotify.com/track/2DvAljfHQpHfhcGxajeiHj) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Good Night! \- Janáček: On an Overgrown Path, Book 1: No\. 7, Good Night!](https://open.spotify.com/album/5eBLo7LpwoA2iLtKS1HPru) | 3:19 | 2021-12-06 |  |
 | [Janáček: On an Overgrown Path, Book I: No\. 7, Good Night!](https://open.spotify.com/track/5rTOQ1I0Ig9CglsssseeYe) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Good Night!](https://open.spotify.com/album/0vF1DJXd2ZWJxnsf8Wvqha) | 3:19 | 2022-07-08 |  |
+| [Jeune filles: II\. La nonchalante](https://open.spotify.com/track/5iBKH6oqgX2dVzguyxfp3i) | [Guy Ropartz](https://open.spotify.com/artist/5dPR5LYM2CxXWlZGwntQ5C), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Ropartz: Jeune filles: II\. La nonchalante](https://open.spotify.com/album/3MvW2ijkGr00mKkImOzsJT) | 2:49 | 2026-11-06 |  |
 | [Jeux D'Eau](https://open.spotify.com/track/0Gef573AJfARbMuQSoCy2r) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [André Laplante](https://open.spotify.com/artist/3wBPUdIKGpmOpm6EvuLKMj) | [Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante Défunte](https://open.spotify.com/album/7ioTFSNJIuTN8YTKqA7eDF) | 5:55 | 2024-07-26 |  |
 | [Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schumann: Kreisleriana; Kinderszenen; Fantasiestücke](https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW) | 2:30 | 2021-12-06 |  |
 | [Kindness](https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Kindness](https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ) | 1:09 | 2024-11-08 | 2025-04-05 |

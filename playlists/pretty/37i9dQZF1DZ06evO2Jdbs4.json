@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 33329,
+  "num_followers": 33605,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAABGT3jRXDWOWSDvsRDJbUvV",
+  "snapshot_id": "aukkAAAAAADEhpxrleBXbJagEHlWl5c3",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
         "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 216345,
       "name": "Amor Se Escribe Con Llanto - En Vivo",
       "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/0grJkMKGVIVifMXroFp6pn"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los Internacionales V\u00e1skez De Rolando \"El Tibur\u00f3n\"",
+          "url": "https://open.spotify.com/artist/10tFywSQ9iXCXns61s3RCL"
         },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 170426,
-      "name": "Me Derrito (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+      "duration_ms": 214875,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7Fbi5BRtKEvj9Kix4lfLxw"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 237826,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/0grJkMKGVIVifMXroFp6pn"
-      },
-      "artists": [
-        {
-          "name": "Los Internacionales V\u00e1skez De Rolando \"El Tibur\u00f3n\"",
-          "url": "https://open.spotify.com/artist/10tFywSQ9iXCXns61s3RCL"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 214875,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7Fbi5BRtKEvj9Kix4lfLxw"
     },
     {
       "added_at": null,

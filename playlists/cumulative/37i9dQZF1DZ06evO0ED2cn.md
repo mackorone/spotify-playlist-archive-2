@@ -4,7 +4,7 @@
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 33 min
+40 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Listen!!](https://open.spotify.com/track/4qwo5Am3GVR17Dx1lq9R8Z) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!!](https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8) | 3:47 | 2026-11-05 |  |
 | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/track/37WXM4pfUpz5uRzzukjnqS) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 3:47 | 2025-05-30 | 2026-11-05 |
 | [My Heart Is Shining](https://open.spotify.com/track/3nLoyZ222i1y9xCabWd75M) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:32 | 2026-11-01 | 2026-11-02 |
-| [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/track/73RtKhKwyw31Nk2XMXN4uQ) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab) | 4:17 | 2025-05-30 |  |
+| [NO, Thank You!](https://open.spotify.com/track/2l7kjbDVtqivr8yMhOSWH4) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [NO, Thank You!](https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0) | 4:17 | 2026-11-06 |  |
+| [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/track/73RtKhKwyw31Nk2XMXN4uQ) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab) | 4:17 | 2025-05-30 | 2026-11-06 |
 | [Ohayou, Mata Ashita](https://open.spotify.com/track/3jD6EFk93cBAMwuWHTJhlF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing! \(Standard Edition\)](https://open.spotify.com/album/5bCinByDAyOCePVoccduYa) | 4:55 | 2025-05-30 |  |
 | [Our Magic](https://open.spotify.com/track/0gu4p4NA29AzwbH1m23xsg) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 4:11 | 2025-05-30 |  |
 | [Our Never Ending Days](https://open.spotify.com/track/5bq916OQMbGubWT2IE5JjB) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:35 | 2026-11-01 | 2026-11-02 |

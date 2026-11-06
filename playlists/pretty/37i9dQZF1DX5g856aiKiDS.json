@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 519989,
+  "num_followers": 519991,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,26 @@
     {
       "added_at": "2026-10-31 05:06:11",
       "album": {
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
+    },
+    {
+      "added_at": "2026-10-31 05:06:11",
+      "album": {
         "name": "DUMMY",
         "url": "https://open.spotify.com/album/7oTq9LczfvZycObUkQXxFN"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 202342,
       "name": "\uba4b\uc9c0\uac8c \uc778\uc0ac\ud558\ub294 \ubc95 (Hello Tutorial) (Feat. \uc2ac\uae30 (SEULGI) of Red Velvet)",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
-    },
-    {
-      "added_at": "2026-10-31 05:06:11",
-      "album": {
-        "name": "You Might (Feat. SHIRT)",
-        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "You Might (Feat. SHIRT)",
-      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2026-10-31 05:06:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-10-31 05:06:11",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2026-10-31 05:06:11",
-      "album": {
         "name": "Bye Bye My Blue",
         "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 203409,
       "name": "Bye Bye My Blue",
       "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2026-10-31 05:06:11",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2026-10-31 05:06:11",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-31 05:06:11",
       "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Amusement Park",
-      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
-    },
-    {
-      "added_at": "2026-10-31 05:06:11",
-      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 271215,
       "name": "Popo (How deep is our love?)",
       "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
+    },
+    {
+      "added_at": "2026-10-31 05:06:11",
+      "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
     },
     {
       "added_at": "2026-10-31 05:06:11",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-10-31 05:06:11",
       "album": {
-        "name": "solsol~ condo",
-        "url": "https://open.spotify.com/album/328oYPyGswc8jEzgTs4nsm"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 202959,
-      "name": "bgf",
-      "url": "https://open.spotify.com/track/52blwz2oOUkE4Now1EJIGe"
-    },
-    {
-      "added_at": "2026-10-31 05:06:11",
-      "album": {
         "name": "I`m In Love",
         "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2026-10-31 05:06:11",
       "album": {
+        "name": "solsol~ condo",
+        "url": "https://open.spotify.com/album/328oYPyGswc8jEzgTs4nsm"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 202959,
+      "name": "bgf",
+      "url": "https://open.spotify.com/track/52blwz2oOUkE4Now1EJIGe"
+    },
+    {
+      "added_at": "2026-10-31 05:06:11",
+      "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-10-31 05:06:11",
       "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 220506,
-      "name": "FRR",
-      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2026-10-31 05:06:11",
@@ -819,6 +819,22 @@
       "duration_ms": 140506,
       "name": "My Dear",
       "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
+    },
+    {
+      "added_at": "2026-10-31 05:06:11",
+      "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "FRR",
+      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
     },
     {
       "added_at": "2026-10-31 05:06:11",
@@ -855,22 +871,6 @@
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
-    },
-    {
-      "added_at": "2026-10-31 05:06:11",
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2026-10-31 05:06:11",

@@ -19021,6 +19021,24 @@
     },
     {
       "album": {
+        "name": "Kidnapping",
+        "url": "https://open.spotify.com/album/2irQKDS5Jr4rq4JGu5v85F"
+      },
+      "artists": [
+        {
+          "name": "Lasael",
+          "url": "https://open.spotify.com/artist/2zS67qAnOQTSFCiG6cDOZH"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277332,
+      "name": "Kidnapping",
+      "url": "https://open.spotify.com/track/6UGDcBzn1wCs0JVxodKGUW"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/51dxKLq92uH1UPLYAJYabN"
       },

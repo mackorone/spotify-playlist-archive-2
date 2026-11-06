@@ -13651,6 +13651,24 @@
     },
     {
       "album": {
+        "name": "fold paper cranes",
+        "url": "https://open.spotify.com/album/1dmsPrlxO4CmnmMDOJVNqr"
+      },
+      "artists": [
+        {
+          "name": "filmy",
+          "url": "https://open.spotify.com/artist/0YysDEbyI5EtHplEjHsMI4"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "fold paper cranes",
+      "url": "https://open.spotify.com/track/2XWLWeroPFKcfjKOEgdmlW"
+    },
+    {
+      "album": {
         "name": "Pieces of Earth",
         "url": "https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v"
       },
@@ -26144,7 +26162,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170006,
       "name": "Noontide",
       "url": "https://open.spotify.com/track/2m91VLJ1jLbfkUSNaagRhi"

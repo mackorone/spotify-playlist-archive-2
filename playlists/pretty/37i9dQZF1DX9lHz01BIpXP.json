@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3699,
+  "num_followers": 3700,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -45,42 +45,6 @@
       "url": "https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J"
     },
     {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
-      },
-      "artists": [
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        },
-        {
-          "name": "Young OG CPT",
-          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
-    },
-    {
-      "added_at": "2025-09-25 22:00:28",
-      "album": {
-        "name": "Young & Wreckless",
-        "url": "https://open.spotify.com/album/10h8RUTPJjpQOOjY5BTFVv"
-      },
-      "artists": [
-        {
-          "name": "Chesrae Megan",
-          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
-        }
-      ],
-      "duration_ms": 108355,
-      "name": "Real Lyfe",
-      "url": "https://open.spotify.com/track/1CpgfoRZqeQTEseUV6TegV"
-    },
-    {
       "added_at": "2025-07-03 22:00:44",
       "album": {
         "name": "Hoeveel",
@@ -99,6 +63,42 @@
       "duration_ms": 123025,
       "name": "Hoeveel",
       "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
+    },
+    {
+      "added_at": "2025-09-25 22:00:28",
+      "album": {
+        "name": "Young & Wreckless",
+        "url": "https://open.spotify.com/album/10h8RUTPJjpQOOjY5BTFVv"
+      },
+      "artists": [
+        {
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+        }
+      ],
+      "duration_ms": 108355,
+      "name": "Real Lyfe",
+      "url": "https://open.spotify.com/track/1CpgfoRZqeQTEseUV6TegV"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
+      },
+      "artists": [
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        },
+        {
+          "name": "Young OG CPT",
+          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
     },
     {
       "added_at": "2025-06-27 09:27:23",

@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 730136,
+  "num_followers": 730130,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -372,22 +372,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
@@ -399,6 +383,22 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -800,6 +800,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 261893,
+      "name": "The Best - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },
       "artists": [
@@ -815,22 +831,6 @@
       "duration_ms": 225005,
       "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "The Best - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -888,22 +888,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 255126,
-      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
       },
       "artists": [
@@ -915,6 +899,22 @@
       "duration_ms": 171456,
       "name": "WITHOUT YOU - Spotify Singles",
       "url": "https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
     },
     {
+      "added_at": "2025-01-27 19:19:14",
+      "album": {
+        "name": "Yellow - Spotify Singles",
+        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 269967,
+      "name": "Yellow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
+    },
+    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -979,22 +995,6 @@
       "duration_ms": 167907,
       "name": "bad guy - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2025-01-27 19:19:14",
-      "album": {
-        "name": "Yellow - Spotify Singles",
-        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 269967,
-      "name": "Yellow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 248045,
-      "name": "Billie Jean - Spotify Singles",
-      "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "spotify singles",
@@ -1511,6 +1495,22 @@
       "duration_ms": 208710,
       "name": "feel good inc (bbno$ re-finessed) - spotify single",
       "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
+    {
+      "added_at": "2023-11-07 18:53:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 248045,
+      "name": "Billie Jean - Spotify Singles",
+      "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
     },
     {
       "added_at": "2023-06-22 04:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3cg6bi7eX2nc1ytQaRkhYQ"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "duration_ms": 257588,
+      "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/35dhf83ntrcGn56dJIjhbV"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Thinking of You (Spotify Singles)",
         "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 214381,
       "name": "Summer Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3cg6bi7eX2nc1ytQaRkhYQ"
-      },
-      "artists": [
-        {
-          "name": "Tune-Yards",
-          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
-        }
-      ],
-      "duration_ms": 257588,
-      "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/35dhf83ntrcGn56dJIjhbV"
     }
   ],
   "unique_name": "Spotify Singles: Hits",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAACbLv5KG4hVLb/WQWV2aY7f",
+  "snapshot_id": "aukkAAAAAAC4+S9x1In8zAkhPD+QYHt6",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/65MFa2jVOo72kSn4WNz41Q"
+        "name": "Q.I.S",
+        "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 311618,
-      "name": "Hubo Algo",
-      "url": "https://open.spotify.com/track/0A8Fsda6CkdYuxYW5aoDB6"
+      "duration_ms": 223910,
+      "name": "Q.I.S - feat. maye",
+      "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
     },
     {
       "added_at": null,
@@ -183,22 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Q.I.S",
-        "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/65MFa2jVOo72kSn4WNz41Q"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         },
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 223910,
-      "name": "Q.I.S - feat. maye",
-      "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
+      "duration_ms": 311618,
+      "name": "Hubo Algo",
+      "url": "https://open.spotify.com/track/0A8Fsda6CkdYuxYW5aoDB6"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Comenzar",
-        "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "Volver a Comenzar",
-      "url": "https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 130021,
       "name": "Te Choca Te Checa",
       "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver a Comenzar",
+        "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "Volver a Comenzar",
+      "url": "https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminando en Fuego",
-        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 269601,
-      "name": "Fluir",
-      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue Solo un Sue\u00f1o",
         "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 229000,
       "name": "Fue Solo un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminando en Fuego",
+        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 269601,
+      "name": "Fluir",
+      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
       "duration_ms": 90875,
       "name": "caballos",
       "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "No",
-      "url": "https://open.spotify.com/track/4i8rGIdfM4b2wJqyT0Hf3u"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

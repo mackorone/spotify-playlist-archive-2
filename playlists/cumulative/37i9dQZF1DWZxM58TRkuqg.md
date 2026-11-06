@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: GANGGA
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Lafa Pratomo, Isyana Sarasvati, Jason Ranti
 
-831 songs - 2 day 5 hr 40 min
+834 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Did You Like Her In The Morning?](https://open.spotify.com/track/5SwdrJLtyFyC926bXw5PCz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2024-08-29 | 2024-10-18 |
 | [Dirimu Yang Dulu](https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:00 | 2026-01-15 |  |
 | [DM](https://open.spotify.com/track/0SwdKgpwRUviyJ4RQU75An) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI) | [DM](https://open.spotify.com/album/5dthffa1xLLD1HFvEWgkNJ) | 2:36 | 2026-03-26 | 2026-05-15 |
+| [Dogs Are Always True](https://open.spotify.com/track/41XeJOtOSCjEg0ftYg6aO2) | [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Dogs Are Always True](https://open.spotify.com/album/4jgjGVmRo4IoGyUfMPRqPa) | 3:27 | 2026-11-05 |  |
 | [Don't Stop](https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Forever In The Air](https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ) | 3:03 | 2025-10-09 | 2025-11-14 |
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-05-10 | 2024-08-09 |
 | [Dulu Kita Masih Remaja \- Original Soundtrack Dilan ITB 1997](https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Dulu Kita Masih Remaja \(Original Soundtrack Dilan ITB 1997\)](https://open.spotify.com/album/6JptcIbyDVqXg6ulVCnRz2) | 3:01 | 2026-04-16 |  |
@@ -233,6 +234,7 @@
 | [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-22 | 2024-10-04 |
 | [Firasat Berbicara](https://open.spotify.com/track/6vJnVHRW3CJycI3ufWmU86) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Firasat Berbicara](https://open.spotify.com/album/53QtC3DsAS9dHNvtunOWaK) | 3:51 | 2024-10-31 | 2025-02-14 |
 | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 | 2024-08-01 | 2024-09-27 |
+| [Forevermore](https://open.spotify.com/track/7yfQ8eVnOio6Y14LdIW35Q) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Tanda Cinta](https://open.spotify.com/album/71ofL0fZ0GGGovQlvJYFGO) | 3:42 | 2026-11-05 |  |
 | [Foto kita blur](https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Foto kita blur](https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF) | 4:31 | 2024-03-28 | 2024-05-03 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 | 2024-12-13 |
 | [Frenemy \(feat\. VIDI\)](https://open.spotify.com/track/1PGt7c1YzOK5GiKjNp5IH1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Frenemy](https://open.spotify.com/album/1ZZkhyBrbAmKlhyhFbC4hn) | 3:06 | 2025-05-15 | 2025-06-21 |
@@ -420,6 +422,7 @@
 | [Lewat Doa](https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/40Hol4DUyuiR00IWlfJ6vL) | 4:18 | 2024-04-04 | 2024-04-19 |
 | [Lewat Semesta \- OST\. TABAYYUN](https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Lewat Semesta \(OST\. TABAYYUN\)](https://open.spotify.com/album/2zGRJnutXLCACHo3LAt5ob) | 4:07 | 2025-02-06 | 2025-09-26 |
 | [Liga Baru](https://open.spotify.com/track/0XrtmwvIsJllIexIH9sQ4t) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Yung Caters](https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Liga Baru](https://open.spotify.com/album/2PyTGPYT9T93kUeTPwvsCZ) | 2:51 | 2026-02-12 | 2026-04-18 |
+| [Lihat Kebunku \(Taman Bunga\) \- Ceritanya Live Session](https://open.spotify.com/track/7376uQ8gQQeToPiwQnOfXp) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Ceritanya Live Session](https://open.spotify.com/album/7BZ2tSEVsBsZGepvGx6U4R) | 4:21 | 2026-11-05 |  |
 | [like an orchid / kembali \- Baila's Lullaby](https://open.spotify.com/track/0Pvg96gOZIBHrlcWfXivQm) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [orchids \(lullabies\)](https://open.spotify.com/album/5xAs8lHAgIS31jlaXBnYYD) | 2:34 | 2025-07-10 | 2025-08-22 |
 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 | 2024-12-05 | 2025-02-07 |
 | [Little Time For Love](https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip](https://open.spotify.com/album/6udjCLHRuFO5Yjxy2pBlky) | 4:16 | 2024-05-16 | 2024-06-07 |

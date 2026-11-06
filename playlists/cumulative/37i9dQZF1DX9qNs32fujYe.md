@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. Classics to brand new tracks across heavy, power, doom, thrash, and sludge\. Cover: Machine Head
 
-1,264 songs - 3 day 20 hr 0 min
+1,265 songs - 3 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,6 +651,7 @@
 | [Maximus](https://open.spotify.com/track/1K39nmA9tBudF6jNiV1iO6) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Maximus](https://open.spotify.com/album/4FGuBSsKGaTw0MV7qBeq16) | 4:12 | 2021-12-17 | 2022-07-21 |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-09-13 |  |
 | [Mean, Green, Killing Machine](https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Grinding Wheel](https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz) | 7:29 | 2022-03-22 |  |
+| [Meat Hook](https://open.spotify.com/track/2uRloKCvNz0iimo8wOvzQG) | [A Killer's Confession](https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM) | [Meat Hook](https://open.spotify.com/album/1h35I0M3rObLvXLlIn1JDV) | 2:56 | 2026-11-04 |  |
 | [Medusa](https://open.spotify.com/track/2GDUDyKzEcI5B6vfQufI4T) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Medusa](https://open.spotify.com/album/6jjZqLpns1crySHMu2hf21) | 4:24 | 2026-11-04 |  |
 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 | 2023-02-24 |  |
 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 | 2022-07-13 | 2024-04-19 |
@@ -725,7 +726,7 @@
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-08-19 | 2024-04-19 |
 | [No One Like You \- 2015 Remaster](https://open.spotify.com/track/0hLQWHwB6GZlkASpS7DkdW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:58 | 2023-05-26 | 2023-11-05 |
 | [No Pain No Gain](https://open.spotify.com/track/6Mz38ZM9eEqQ3QV1duTXyb) | [Austrian Death Machine](https://open.spotify.com/artist/0oxUux1OSwZpIpSK0JbqSS), [Craig Golias](https://open.spotify.com/artist/1phweDlzfACpfdwXWZDkKj), [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [No Pain No Gain](https://open.spotify.com/album/4IyzMlNKvYJt7tgTGbE66V) | 4:06 | 2023-10-27 | 2023-11-13 |
-| [No Place of Warmth \(feat\. Gerard Way\)](https://open.spotify.com/track/4cNUzje8bpS368orIfCp70) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [No Place of Warmth \(feat\. Gerard Way\)](https://open.spotify.com/album/4k9gYOwN9shcLs1Xxd4YxU) | 4:49 | 2026-02-27 |  |
+| [No Place of Warmth \(feat\. Gerard Way\)](https://open.spotify.com/track/4cNUzje8bpS368orIfCp70) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [No Place of Warmth \(feat\. Gerard Way\)](https://open.spotify.com/album/4k9gYOwN9shcLs1Xxd4YxU) | 4:49 | 2026-02-27 | 2026-11-06 |
 | [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 | 2026-09-18 |
 | [No Weapon Formed Shall Prosper](https://open.spotify.com/track/2nnKS05n7NKy9MyVecmuu8) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [No Weapon Formed Shall Prosper](https://open.spotify.com/album/31N18X9CowSYuidydcBHKL) | 3:53 | 2024-03-08 | 2024-05-03 |
 | [No Weapon Formed Shall Prosper](https://open.spotify.com/track/4Ikpfgse1WRSpbSrQxmWvb) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Eviscerate](https://open.spotify.com/album/3kHbS4bxYGpxAn3a2bnGsB) | 3:53 | 2024-06-21 | 2024-07-27 |

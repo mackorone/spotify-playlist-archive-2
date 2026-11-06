@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-138 songs - 5 hr 49 min
+139 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bientôt](https://open.spotify.com/track/563RuhgRSelsHsxpBleqdu) | [Lucien des Ombres](https://open.spotify.com/artist/1ZegMobzSe2l8uZOxRhcSI) | [Bientôt](https://open.spotify.com/album/3jYkcw4QMkiXeeuZvZN0wr) | 2:01 | 2026-05-29 |  |
 | [Bloom Later](https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Bloom Later](https://open.spotify.com/album/4UugupuV93QB32rdUWZciN) | 3:00 | 2026-05-29 |  |
 | [Blue sea](https://open.spotify.com/track/6AMrAH1lwUxY538AjW3psv) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Blue sea](https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w) | 2:44 | 2025-08-05 |  |
+| [Brighter Moon](https://open.spotify.com/track/5FeGlZ5DCMHlciLUEXJTGX) | [Ventra Moors](https://open.spotify.com/artist/0doSRhuGvMCVt5wAbEVTg0) | [Brighter Moon](https://open.spotify.com/album/1KbGCgPVLKggHFzsm1wX3F) | 2:10 | 2026-11-06 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 | 2025-03-07 |  |
 | [Clair de Lune Variation \(After Suite Bergamasque CD 82/L.75: III\. Clair de Lune\)](https://open.spotify.com/track/3MB6PEhgViZUiTc6u9Esod) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Clair de Lune Variation \(After Suite Bergamasque CD 82/L.75: III\. Clair de Lune\)](https://open.spotify.com/album/6fXix6kDoCq46NqJvssuAF) | 1:45 | 2026-08-21 |  |
 | [Coffee Song](https://open.spotify.com/track/49Uq9mhpvn5a6mG5CWTkqh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:51 | 2026-10-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,307 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,325 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 39 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
 | 40 | [Sin Mirar Atrás](https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:29 |
 | 41 | [Breve Historia de Amor y una Mujer](https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska Wars Monterrey](https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x) | 3:25 |
-| 42 | [Araña Ska \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [Sonando desde el Auditorio Nacional](https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8) | 3:46 |
-| 43 | [Nunca Digas Que No](https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 3:28 |
+| 42 | [Nunca Digas Que No](https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 3:28 |
+| 43 | [Araña Ska \- Sonando desde el Auditorio Nacional](https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [Sonando desde el Auditorio Nacional](https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8) | 3:46 |
 | 44 | [El Amargado](https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Chico Trujillo](https://open.spotify.com/artist/3QSTHfiY4StrlFtEoCvQK6) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 |
 | 45 | [Hoy Será \(feat\. Natalia Ramírez\)](https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:34 |
 | 46 | [Mala Copa](https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Vampiros en la Tierra](https://open.spotify.com/track/3suoE5t6CyOuoNnDDU9Vyn) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 4:14 |
 | 50 | [My Girl](https://open.spotify.com/track/0vDqVNO9oc8F2lKB1IzJn0) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 2:53 |
 
-Snapshot ID: `aufSgAAAAADbh0HpfR2LOD6GrQzYzzzk`
+Snapshot ID: `aukkAAAAAADRdih7WMu7kVSRk9rE+hVz`

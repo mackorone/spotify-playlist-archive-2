@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
+  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Mari Fernandez, Eduardinho dos Teclados",
   "name": "Puro Suco do Brasil",
   "tracks": [
     {
@@ -292,6 +292,28 @@
       "duration_ms": 163892,
       "name": "A Gente Se Entrega",
       "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
+    },
+    {
+      "album": {
+        "name": "A Mais Amada Do Brasil",
+        "url": "https://open.spotify.com/album/5QRsFSBXTxPSIINOpzuSdY"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170858,
+      "name": "A Mais Amada Do Brasil",
+      "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
     },
     {
       "album": {
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 189000,
       "name": "Ancorado - Ao Vivo",
       "url": "https://open.spotify.com/track/1fcwyeBBJ9VnZAKcgc7GRf"
@@ -1352,6 +1374,24 @@
       "duration_ms": 453018,
       "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
       "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
+    },
+    {
+      "album": {
+        "name": "Bregu\u00edssimo",
+        "url": "https://open.spotify.com/album/0MvbkHT4M8vWtS5kS2C9Tt"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154165,
+      "name": "Baby Cad\u00ea Voc\u00ea",
+      "url": "https://open.spotify.com/track/7pJE5wSLgS6b1RwaMRuUTW"
     },
     {
       "album": {
@@ -4763,6 +4803,28 @@
     },
     {
       "album": {
+        "name": "Farra \u00c9 Comigo",
+        "url": "https://open.spotify.com/album/05YET1uGss7qzt2oeV236O"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Eduardinho dos Teclados",
+          "url": "https://open.spotify.com/artist/1quJu43mKzxzA3WxItCYvx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164014,
+      "name": "Farra \u00c9 Comigo",
+      "url": "https://open.spotify.com/track/0rs0jpDbhI3v8SNtcjpZQt"
+    },
+    {
+      "album": {
         "name": "Faz o Teu Nome",
         "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
       },
@@ -8050,7 +8112,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 141692,
       "name": "MTG Pra Ficar Legal",
       "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
@@ -10100,7 +10162,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
@@ -10424,6 +10486,50 @@
       "duration_ms": 221771,
       "name": "PROJETO ANOS 2000 (Sequ\u00eancia do Pente / Copo de Vinho / Ela S\u00f3 Pensa em Beijar / Devagarinho)",
       "url": "https://open.spotify.com/track/6NLNTTU3Ab0XAJGWOi35lz"
+    },
+    {
+      "album": {
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/4HylpCvsT1Lxp7AbT7a1XZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Marques",
+          "url": "https://open.spotify.com/artist/5Jv18wWPLUN7h82hWaF45I"
+        },
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157153,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/03o3R6UWjz6daixWmvhzoB"
+    },
+    {
+      "album": {
+        "name": "Pr\u00edncipe Malvado",
+        "url": "https://open.spotify.com/album/7DbktIAeEVZ771PDcldcpE"
+      },
+      "artists": [
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        },
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157376,
+      "name": "Pr\u00edncipe Malvado",
+      "url": "https://open.spotify.com/track/1wfN83s0Vt8FHLI5AL3V0z"
     },
     {
       "album": {
@@ -13932,6 +14038,28 @@
       "duration_ms": 146186,
       "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
       "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"
+    },
+    {
+      "album": {
+        "name": "Do Velho Testamento",
+        "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147826,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
     },
     {
       "album": {

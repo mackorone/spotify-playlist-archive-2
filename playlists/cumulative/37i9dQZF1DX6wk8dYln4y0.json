@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "pop that *hits different* featuring nick ward",
+  "description": "pop that *hits different* featuring lennon stella",
   "name": "*hits different*",
   "tracks": [
     {
@@ -1444,6 +1444,24 @@
       "duration_ms": 177201,
       "name": "Blind Lovin'",
       "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
+    },
+    {
+      "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/47V4TeKiIPSUuhQOjOs6sW"
+      },
+      "artists": [
+        {
+          "name": "Odette",
+          "url": "https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177442,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/6QwvZiYsfbndQd72JE07ih"
     },
     {
       "album": {
@@ -4097,6 +4115,28 @@
     },
     {
       "album": {
+        "name": "everything was fickle (feat. Arden Jones)",
+        "url": "https://open.spotify.com/album/47gHozXpQgqtM96O02nqF7"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195770,
+      "name": "everything was fickle (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/4IfbHtrx4H1iupwGmiFbTJ"
+    },
+    {
+      "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
@@ -5184,7 +5224,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 214125,
       "name": "HARD",
       "url": "https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX"
@@ -6024,7 +6064,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
@@ -9478,7 +9518,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
@@ -10779,6 +10819,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Lion",
+        "url": "https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202086,
+      "name": "Smartest Person in the Room",
+      "url": "https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -11068,7 +11126,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
@@ -13926,6 +13984,24 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
+        "name": "Water, Shelter, Oxygen",
+        "url": "https://open.spotify.com/album/3YiFTvQ12qioSobqb9pQlu"
+      },
+      "artists": [
+        {
+          "name": "Wells*",
+          "url": "https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "Water, Shelter, Oxygen",
+      "url": "https://open.spotify.com/track/1QgbO0gGOT1zZAEuvXrhEc"
     },
     {
       "album": {

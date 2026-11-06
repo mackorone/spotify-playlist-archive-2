@@ -1,13 +1,93 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring Akalex. Curated with love by human Spotify editors. \n",
-  "num_followers": 219663,
+  "description": "The best new dance tracks from independent artists & labels. Featuring Emily Nash. Curated with love by human Spotify editors. \n",
+  "num_followers": 219728,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABI69BXOI90N+4a2B5yj33o+gLMg",
+  "snapshot_id": "AAAAAMz2KhfI0ce8mBpOpsq+VYiBz7/o",
   "tracks": [
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/3MRa4WJuwYOPdUEwPunFI2"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 210692,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/3eCZVp9RZChgSLzC5aYiJL"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "Free Me",
+        "url": "https://open.spotify.com/album/3FY4Nc7gKzulN79DHLmaD3"
+      },
+      "artists": [
+        {
+          "name": "Trainer RED",
+          "url": "https://open.spotify.com/artist/37QmZi7QK4Jegd9eldaQ1J"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/26G3BbPvgQk2ExxY0oJqsf"
+    },
+    {
+      "added_at": "2026-10-16 04:02:02",
+      "album": {
+        "name": "DEBBIE",
+        "url": "https://open.spotify.com/album/5UHkP3ZGxO8xtpaOJHtMv8"
+      },
+      "artists": [
+        {
+          "name": "Luke Andy",
+          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "DEBBIE",
+      "url": "https://open.spotify.com/track/2AvDDoOiPGfGYgB9hfbbvJ"
+    },
+    {
+      "added_at": "2026-11-04 19:12:44",
+      "album": {
+        "name": "Can You Take The Heat",
+        "url": "https://open.spotify.com/album/1DxNqucFaHJfUzEUZTDAiX"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        }
+      ],
+      "duration_ms": 177028,
+      "name": "Can You Take The Heat",
+      "url": "https://open.spotify.com/track/4kbWRzXoQMGXtLgFaOC31D"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/4TNQ25B1pzIYnB62jSmxw9"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
+        }
+      ],
+      "duration_ms": 218260,
+      "name": "ESPOIR",
+      "url": "https://open.spotify.com/track/5kQ4PsjOxKx9krM47EB9WE"
+    },
     {
       "added_at": "2026-10-09 04:02:02",
       "album": {
@@ -29,54 +109,6 @@
       "url": "https://open.spotify.com/track/6G4zuZa5dn4WhWWz735B16"
     },
     {
-      "added_at": "2026-11-04 19:12:44",
-      "album": {
-        "name": "Can You Take The Heat",
-        "url": "https://open.spotify.com/album/1DxNqucFaHJfUzEUZTDAiX"
-      },
-      "artists": [
-        {
-          "name": "SHAKING",
-          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
-        }
-      ],
-      "duration_ms": 177028,
-      "name": "Can You Take The Heat",
-      "url": "https://open.spotify.com/track/4kbWRzXoQMGXtLgFaOC31D"
-    },
-    {
-      "added_at": "2026-10-16 04:02:02",
-      "album": {
-        "name": "DEBBIE",
-        "url": "https://open.spotify.com/album/5UHkP3ZGxO8xtpaOJHtMv8"
-      },
-      "artists": [
-        {
-          "name": "Luke Andy",
-          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "DEBBIE",
-      "url": "https://open.spotify.com/track/2AvDDoOiPGfGYgB9hfbbvJ"
-    },
-    {
-      "added_at": "2026-10-16 04:02:02",
-      "album": {
-        "name": "want you (if you want me)",
-        "url": "https://open.spotify.com/album/7CAU87QeZgIjm0D8ezezjK"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        }
-      ],
-      "duration_ms": 194030,
-      "name": "want you (if you want me)",
-      "url": "https://open.spotify.com/track/1GKyj57DLCUZWQxDibeilO"
-    },
-    {
       "added_at": "2026-10-30 04:01:17",
       "album": {
         "name": "Inner Layers",
@@ -91,6 +123,22 @@
       "duration_ms": 182571,
       "name": "Denim Skies",
       "url": "https://open.spotify.com/track/3pxCawkhftUcRcNuiP427d"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/3nwEwmA4jrGVKeMk9WWnB0"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "duration_ms": 229484,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb"
     },
     {
       "added_at": "2026-11-04 19:12:44",
@@ -127,6 +175,38 @@
       "duration_ms": 188881,
       "name": "All The Mess That You Made",
       "url": "https://open.spotify.com/track/0elcoYxyHRPMcff9M8PC91"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "In Ur Arms",
+        "url": "https://open.spotify.com/album/2B7DSd0aBnpPBiiEECDIgm"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 224349,
+      "name": "In Ur Arms",
+      "url": "https://open.spotify.com/track/68SGA10js9ZvDIDQb3YsLU"
+    },
+    {
+      "added_at": "2026-10-16 04:02:02",
+      "album": {
+        "name": "want you (if you want me)",
+        "url": "https://open.spotify.com/album/7CAU87QeZgIjm0D8ezezjK"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "duration_ms": 194030,
+      "name": "want you (if you want me)",
+      "url": "https://open.spotify.com/track/1GKyj57DLCUZWQxDibeilO"
     },
     {
       "added_at": "2026-10-16 04:02:02",
@@ -805,38 +885,6 @@
       "url": "https://open.spotify.com/track/31i74Bl85V9ggbqgi5jWAk"
     },
     {
-      "added_at": "2026-09-23 21:31:26",
-      "album": {
-        "name": "Feel At Home",
-        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
-      },
-      "artists": [
-        {
-          "name": "ISHA",
-          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
-        }
-      ],
-      "duration_ms": 145822,
-      "name": "Feel At Home",
-      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
-    },
-    {
-      "added_at": "2026-10-02 04:02:43",
-      "album": {
-        "name": "Wellbeing",
-        "url": "https://open.spotify.com/album/6qQiHN58KpuEHOzNl2yF5p"
-      },
-      "artists": [
-        {
-          "name": "Murteza",
-          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
-        }
-      ],
-      "duration_ms": 353617,
-      "name": "20smth",
-      "url": "https://open.spotify.com/track/1thFpbGcSQZuTNNQTcl9g6"
-    },
-    {
       "added_at": "2026-08-19 21:18:18",
       "album": {
         "name": "catch me if you can",
@@ -871,42 +919,6 @@
     {
       "added_at": "2026-09-17 01:08:14",
       "album": {
-        "name": "Boombox",
-        "url": "https://open.spotify.com/album/5GfO1efzZocCPrepWEvhHC"
-      },
-      "artists": [
-        {
-          "name": "Saoirse",
-          "url": "https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX"
-        }
-      ],
-      "duration_ms": 282431,
-      "name": "Boombox",
-      "url": "https://open.spotify.com/track/2Bjbh92ZGKdWugmlroHJSY"
-    },
-    {
-      "added_at": "2026-09-23 21:31:26",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/4ASgCVfuiXn2z4Jj6OJb0X"
-      },
-      "artists": [
-        {
-          "name": "CROSS CITY",
-          "url": "https://open.spotify.com/artist/2YEX28QkrNloZQR3SgVXMh"
-        },
-        {
-          "name": "Yung Ta",
-          "url": "https://open.spotify.com/artist/0BtWJZaHgSsVOp71L14leH"
-        }
-      ],
-      "duration_ms": 146564,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
-    },
-    {
-      "added_at": "2026-09-17 01:08:14",
-      "album": {
         "name": "Free in this House",
         "url": "https://open.spotify.com/album/2JsFKeINbWGIw5NJO29VV9"
       },
@@ -935,22 +947,6 @@
       "duration_ms": 197169,
       "name": "SHE DOESN'T KNOW",
       "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
-    },
-    {
-      "added_at": "2026-09-18 04:02:35",
-      "album": {
-        "name": "HOLD IT DOWN",
-        "url": "https://open.spotify.com/album/4WnYUzZTqAFrgILt5f3PuN"
-      },
-      "artists": [
-        {
-          "name": "Khamsin",
-          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
-        }
-      ],
-      "duration_ms": 220250,
-      "name": "HOLD IT DOWN",
-      "url": "https://open.spotify.com/track/1kVJOGzaO7kqiXaq8yp9WP"
     },
     {
       "added_at": "2026-08-19 21:18:18",
@@ -983,70 +979,6 @@
       "duration_ms": 209777,
       "name": "LET ME IN",
       "url": "https://open.spotify.com/track/29yce0XPCBsgvOQRLn8cnK"
-    },
-    {
-      "added_at": "2026-09-18 04:02:35",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/2jY6eYuoOyrEwU9yDHLpsv"
-      },
-      "artists": [
-        {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/3lL5wyXmzyU3aXSs4ndFwK"
-    },
-    {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "When Love Takes Over (edit)",
-        "url": "https://open.spotify.com/album/5i9hnBveVxkK5V84s2psc0"
-      },
-      "artists": [
-        {
-          "name": "Die Klar",
-          "url": "https://open.spotify.com/artist/7zbiIacgzXHrGJBsm0L38V"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "When Love Takes Over (edit)",
-      "url": "https://open.spotify.com/track/5Ouf4ITCDxrgrgcYrRxFoz"
-    },
-    {
-      "added_at": "2026-09-10 03:17:50",
-      "album": {
-        "name": "Wait What",
-        "url": "https://open.spotify.com/album/2aRO3b2NJ2APsM9MhMn7Hp"
-      },
-      "artists": [
-        {
-          "name": "Amanda Simpson",
-          "url": "https://open.spotify.com/artist/6dXPtR6vh6nwAwFoXWxkoM"
-        }
-      ],
-      "duration_ms": 166867,
-      "name": "Wait What - Radio Edit",
-      "url": "https://open.spotify.com/track/0WlHGeH7JsqBHRzL4t7Ld1"
-    },
-    {
-      "added_at": "2026-09-18 04:02:35",
-      "album": {
-        "name": "Recoil",
-        "url": "https://open.spotify.com/album/3xr4tzHm4qtcSePpzxepaZ"
-      },
-      "artists": [
-        {
-          "name": "MAFF (BR)",
-          "url": "https://open.spotify.com/artist/4Nqe6amF9yjamDN2tnjrwT"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Recoil - Radio Edit",
-      "url": "https://open.spotify.com/track/1OoxghVJA3YkWvrH7f1jBn"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -1119,22 +1051,6 @@
       "duration_ms": 218436,
       "name": "MEDIA DOME",
       "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Luire",
-        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
-      },
-      "artists": [
-        {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Luire",
-      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
     },
     {
       "added_at": "2026-09-04 04:01:34",

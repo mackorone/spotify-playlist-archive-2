@@ -299,6 +299,28 @@
     },
     {
       "album": {
+        "name": "Arroz Con Huevo",
+        "url": "https://open.spotify.com/album/6St9xkTNpy0z5je7gXGMts"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Arroz Con Huevo",
+      "url": "https://open.spotify.com/track/5GjViexqfPyAJOQlhOZoTR"
+    },
+    {
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -850,6 +872,28 @@
       "duration_ms": 207984,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
+    },
+    {
+      "album": {
+        "name": "CHAMP\u00da",
+        "url": "https://open.spotify.com/album/2UQK2pOrcBNpzeLsKA6UU8"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "CHAMP\u00da",
+      "url": "https://open.spotify.com/track/5TT7dbLffWIsclSgp94KKn"
     },
     {
       "album": {
@@ -3865,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "TESORIIITO",
+        "url": "https://open.spotify.com/album/7fvVTbNgJjY0jqMOApwqrO"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "TESORIIITO",
+      "url": "https://open.spotify.com/track/3oiFhiHsLKdWjsQpHWmwhz"
+    },
+    {
+      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -4194,6 +4256,36 @@
       "duration_ms": 157250,
       "name": "XOD\u00d3",
       "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
+    },
+    {
+      "album": {
+        "name": "YaYa - Spotify Singles",
+        "url": "https://open.spotify.com/album/0wllvtRNhE7cLQ4Kz6wUow"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Lil Silvio",
+          "url": "https://open.spotify.com/artist/0iEsMMMvNaDBX3l61sRkok"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "YaYa - Spotify Singles",
+      "url": "https://open.spotify.com/track/3FQvfX18sQAvsS9yBoOtLS"
     },
     {
       "album": {

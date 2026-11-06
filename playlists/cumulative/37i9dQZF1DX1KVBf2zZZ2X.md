@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-380 songs - 17 hr 41 min
+382 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Archipelago](https://open.spotify.com/track/0IWNLm9QRIoXOjaepNJLhh) | [Abstract Time](https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ) | [Archipelago](https://open.spotify.com/album/76ohf0RIK8o31vwN8TPqND) | 2:50 | 2026-03-20 |  |
 | [Arctic Moonlight](https://open.spotify.com/track/45v4Zei0RUP8FKB4FeRZWf) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Arctic Moonlight](https://open.spotify.com/album/72mA44EfRjxn54maxI7xCb) | 2:56 | 2025-07-09 | 2026-03-21 |
 | [Areal](https://open.spotify.com/track/3KDp84OrH2TLsjs85tS37b) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Areal](https://open.spotify.com/album/7jFuzAjDvq7uMGZuofQL10) | 2:34 | 2026-03-20 |  |
+| [Art of Not Thinking](https://open.spotify.com/track/6WgipQc3u3kHMJZio62NCk) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Art of Not Thinking](https://open.spotify.com/album/49POFabTwqR1iruPVDd0t1) | 2:28 | 2026-11-03 |  |
 | [Ashoka](https://open.spotify.com/track/3llugqcAKCMBYjUM3E0kfK) | [Apollo Vision](https://open.spotify.com/artist/0S54IVxCmJNc6FN8wLIC5v) | [Ashoka](https://open.spotify.com/album/1hStx6RtGqzTbxliOUKELd) | 2:45 | 2026-09-09 |  |
 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 | 2023-03-03 | 2024-07-27 |
 | [At Peace](https://open.spotify.com/track/1fwZhkpRv1Y268qIPIc8jb) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [At Peace](https://open.spotify.com/album/54NNXne0fPslTqwzdT6kec) | 2:23 | 2026-01-21 |  |
@@ -273,7 +274,7 @@
 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 | 2023-03-03 | 2025-05-17 |
 | [Raðljóst](https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB) | [Kolbrun Stiger](https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT) | [Raðljóst](https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa) | 2:15 | 2023-03-03 | 2024-11-23 |
 | [Rebalanced](https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Rebalanced](https://open.spotify.com/album/58zk4RDP4DnF1nObrEpn8L) | 2:49 | 2026-03-20 |  |
-| [Recovery](https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Recovery](https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk) | 2:36 | 2026-03-20 |  |
+| [Recovery](https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Recovery](https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk) | 2:36 | 2026-03-20 | 2026-11-06 |
 | [Red Maple](https://open.spotify.com/track/4EXKRSVZzk6Wcq66SnbVc1) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Maple](https://open.spotify.com/album/7oVTzjVQLFF3pPe6F96pDI) | 2:39 | 2025-03-19 | 2026-01-15 |
 | [Red Oak Sapling](https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Oak Sapling](https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22) | 3:14 | 2025-02-21 | 2026-03-03 |
 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 | 2023-03-03 | 2024-11-23 |
@@ -312,6 +313,7 @@
 | [Slow Movements](https://open.spotify.com/track/4JLOW2vdfnrbVOxsLEyhBD) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Slow Movements](https://open.spotify.com/album/5t8ByF8UIhPkcwQLnorDGN) | 3:02 | 2025-03-19 | 2026-03-21 |
 | [Slow River](https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Slow River](https://open.spotify.com/album/774opILeSkptANsD6z00tS) | 2:51 | 2026-03-20 |  |
 | [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2025-07-09 | 2026-06-19 |
+| [Soft Embrace](https://open.spotify.com/track/7fdbp2sO9tishNMGSLn8aj) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Soft Embrace](https://open.spotify.com/album/68JgLqQGjzoTN4CUmULF60) | 2:35 | 2026-11-03 |  |
 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 | 2023-09-01 | 2025-10-18 |
 | [softly softly](https://open.spotify.com/track/6QHbTSoQOh8VRwt56OWuNK) | [Lierre](https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku) | [softly softly](https://open.spotify.com/album/0InMpm8lvLDcfj8Mw5RHSG) | 2:24 | 2026-01-21 | 2026-11-04 |
 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 | 2023-03-03 | 2025-06-12 |
@@ -319,7 +321,7 @@
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-03-03 | 2024-03-21 |
 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 | 2023-03-03 | 2025-06-10 |
 | [Songbird Shrine](https://open.spotify.com/track/0XVodTArKi2jRSyWmFLYX1) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Songbird Shrine](https://open.spotify.com/album/418V4m0E3V8o4ISbh8dS5n) | 2:52 | 2024-04-01 | 2025-06-12 |
-| [Soulful Gem](https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98) | [Increased Wither](https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH) | [Soulful Gem](https://open.spotify.com/album/4vbjkgwzMkHSpQBvFOKoFk) | 2:58 | 2026-03-20 |  |
+| [Soulful Gem](https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98) | [Increased Wither](https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH) | [Soulful Gem](https://open.spotify.com/album/4vbjkgwzMkHSpQBvFOKoFk) | 2:58 | 2026-03-20 | 2026-11-06 |
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2025-09-24 |  |
 | [Spring is here](https://open.spotify.com/track/73eMyw7PHNRsH34UC9L8cG) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spring is here](https://open.spotify.com/album/3bqM7XfIXMU3vho72nNFND) | 2:11 | 2024-06-03 | 2025-06-12 |
 | [Stargazing at Dawn](https://open.spotify.com/track/51WFbZpYir2eZGtXXrJDSY) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Stargazing at Dawn](https://open.spotify.com/album/22WWcPFrv829QyTjjHU0aY) | 2:40 | 2026-09-09 |  |

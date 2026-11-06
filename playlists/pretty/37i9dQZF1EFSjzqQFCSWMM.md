@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 66 | [CRYBABY :'\(](https://open.spotify.com/track/5p8ZxZwEJJwvo5qoZvFvUj) | [SuziWithAnUzi](https://open.spotify.com/artist/4iIcCz80dZo1cBHxdMbe9D) | [CRYBABY :'\(](https://open.spotify.com/album/0NoZatOm4JgTp6CmvdD31I) | 3:43 |
 | 67 | [GG](https://open.spotify.com/track/0gLajXDZDCW3215GgrcTWS) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY 1.0](https://open.spotify.com/album/36EF5dhWFegI1CMMkBVeY1) | 2:13 |
 | 68 | [Unpredictable](https://open.spotify.com/track/0awXZjZqqdyweoA4tG4KjW) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [Unpredictable](https://open.spotify.com/album/0JGYqkPi0Rj8el7KuxgvYm) | 2:53 |
-| 69 | [Washing Machine](https://open.spotify.com/track/2W6zBqZSsoeGgBHmXNvLER) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Washing Machine](https://open.spotify.com/album/0QyvrkxKHVpxDckhyAjNMP) | 2:52 |
+| 69 | [Washing Machine](https://open.spotify.com/track/73ZtPk8rjVZ5vWPt8H10nh) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Washing Machine](https://open.spotify.com/album/3Ec2JjS73sIPa9l6Yg2MSf) | 2:52 |
 | 70 | [The Rat Race](https://open.spotify.com/track/46bgDWUtBBceo13LMCZIXg) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:48 |
 | 71 | [Parkdale Cartel Freestyle II](https://open.spotify.com/track/5fw1uFoX6GAL8fcdHsaIbS) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:11 |
 | 72 | [DIBBY DIBBY](https://open.spotify.com/track/4AU668eWG5FicichFuxyuJ) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 3:36 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 114 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 |
 | 115 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcgzlAAAAAA6JHBVf8tDmHlnlff6PCRM`
+Snapshot ID: `Acg5PgAAAADDOBnr+Vau9b4UA+HNWcTK`

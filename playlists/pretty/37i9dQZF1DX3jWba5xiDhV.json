@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 433607,
+  "num_followers": 433708,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+        "name": "Another Life (LP)",
+        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
       },
       "artists": [
         {
-          "name": "Gino Soccio",
-          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
         }
       ],
-      "duration_ms": 508120,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
+      "duration_ms": 432080,
+      "name": "Another Life - Original",
+      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -495,18 +495,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Another Life (LP)",
-        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
       },
       "artists": [
         {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+          "name": "Gino Soccio",
+          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
         }
       ],
-      "duration_ms": 432080,
-      "name": "Another Life - Original",
-      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
+      "duration_ms": 508120,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Greatest Hits &amp; Remixes",
+        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
+      },
+      "artists": [
+        {
+          "name": "Koto",
+          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Visitors",
+      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Greatest Hits &amp; Remixes",
-        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
-      },
-      "artists": [
-        {
-          "name": "Koto",
-          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Visitors",
-      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
-      },
-      "artists": [
-        {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
-        }
-      ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "Ma quale idea (Myd Remix)",
         "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+        }
+      ],
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1271,18 +1271,26 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+        "name": "What Do You Live For? (feat. David Blank & Saturnino)",
+        "url": "https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4"
       },
       "artists": [
         {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+          "name": "Rollover Djs",
+          "url": "https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        },
+        {
+          "name": "Saturnino",
+          "url": "https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd"
         }
       ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
+      "duration_ms": 257250,
+      "name": "What Do You Live For? (feat. David Blank & Saturnino)",
+      "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
     },
     {
       "added_at": "2026-07-30 22:02:37",

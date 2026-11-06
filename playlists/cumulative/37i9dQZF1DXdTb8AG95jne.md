@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ADOY\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,413 songs - 3 day 13 hr 39 min
+1,416 songs - 3 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Action Reaction](https://open.spotify.com/track/4pv4srfPim6XwSUoxueLRF) | [syndasizung 신다사이정](https://open.spotify.com/artist/2JVIMqJWk3OVEEr9oaWYub) | [Action Reaction](https://open.spotify.com/album/0APzH8zMzoBbbweo04UqYI) | 4:35 | 2022-07-04 | 2022-07-09 |
 | [Actually](https://open.spotify.com/track/7Kel2ZwWtyHSPmE1EGMNH2) | [Dear Cloud](https://open.spotify.com/artist/0L4i6fMD8blByZNL0kLhiA) | [Actually](https://open.spotify.com/album/16UI3a9FlhfRhMz25lwQ6U) | 4:18 | 2022-03-31 | 2022-04-11 |
 | [addiction](https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9) | 3:30 | 2022-03-31 | 2022-04-11 |
+| [Adeung\-badeung](https://open.spotify.com/track/0Vn9KU4Eb3cvxQ9qx9nKZX) | [bongjeingan](https://open.spotify.com/artist/3zyq3DzSd4aue9Q7s1qMVu) | [Adeung\-badeung / 100](https://open.spotify.com/album/6IxkF7yC7h1LAsF5MSPaS6) | 4:11 | 2026-11-05 |  |
 | [After the Curtain](https://open.spotify.com/track/1qMNSTLsr12MLhUq0s6oZX) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [After the Curtain](https://open.spotify.com/album/2OO4T6PTY1Za5U6ev89Tk7) | 3:06 | 2026-05-20 | 2026-10-09 |
 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 | 2021-12-21 | 2022-06-20 |
 | [Agony](https://open.spotify.com/track/4kFgtNqcmwoQmFEwiv6f1C) | [Kang min jeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [Agony](https://open.spotify.com/album/50dC1dEnN1tRIHRqniF6vV) | 3:58 | 2024-04-30 | 2024-05-10 |
@@ -96,7 +97,7 @@
 | [Ashes](https://open.spotify.com/track/51ttgzyQ0SKKlC92bFK58v) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:56 | 2024-06-19 | 2024-07-02 |
 | [Asphalt](https://open.spotify.com/track/4QlN9AltbOXYUzuzTBkTWf) | [Mulsoo](https://open.spotify.com/artist/0Aq1PfguCBKu8zpQXobNJ5) | [Asphalt](https://open.spotify.com/album/2DJmpTc5osfVhqoTcLZJZn) | 3:16 | 2025-07-23 | 2025-08-01 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 | 2022-12-30 |
-| [Asymmetry Complex](https://open.spotify.com/track/60FUJwYyVrX9l8F3xrSHuB) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Asymmetry Complex](https://open.spotify.com/album/5UjkgZ3cwvq5Ly1wgs3DVP) | 2:12 | 2026-06-12 |  |
+| [Asymmetry Complex](https://open.spotify.com/track/60FUJwYyVrX9l8F3xrSHuB) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Asymmetry Complex](https://open.spotify.com/album/5UjkgZ3cwvq5Ly1wgs3DVP) | 2:12 | 2026-06-12 | 2026-11-06 |
 | [at jongro](https://open.spotify.com/track/6r5Vy49fSeSNXUU3wiKfXu) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [at jongro](https://open.spotify.com/album/2Q7L1DKryOmry4pBX1WUoM) | 3:43 | 2024-05-08 | 2024-05-10 |
 | [At The End Of The Road](https://open.spotify.com/track/4tJhXh3K0KAkFTp0JERVGP) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [At The End Of The Road](https://open.spotify.com/album/5jykWS4qd667npScYkq59d) | 3:05 | 2022-03-31 | 2022-04-20 |
 | [At Winter's Door \(feat\. Dongbin Hyun\)](https://open.spotify.com/track/7JldGtTDUcVPFmVU7DWUuo) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga), [Dongbin Hyun](https://open.spotify.com/artist/2c7pYKuAYU4V3q0Nc9JLjN) | [At Winter's Door \(feat\. Dongbin Hyun\)](https://open.spotify.com/album/5PYS4p5k3JQkiB3luTsQaO) | 2:49 | 2025-11-03 | 2025-12-03 |
@@ -249,6 +250,7 @@
 | [Daydreamer](https://open.spotify.com/track/3SFEmtI1gkOoIwe2zPeSsU) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Daydreamer](https://open.spotify.com/album/1OQAB8ZQaN5d7xpkxkH8C7) | 4:30 | 2025-01-30 | 2025-04-11 |
 | [Daydreaming](https://open.spotify.com/track/6s3aGES0MlWhPXTa8Faow4) | [Eddie and the Bricks](https://open.spotify.com/artist/2FSpLqT9FBl8OX4J3IWTto) | [inbetweeners](https://open.spotify.com/album/3zV03L85sDpwtoe33kRuHW) | 4:44 | 2026-10-02 |  |
 | [DDDD!](https://open.spotify.com/track/7uP6YcBFEsOMf7CxuqrjPh) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [DDDD!](https://open.spotify.com/album/0RUSetshoG0y6QABMEzLJw) | 4:58 | 2025-09-02 | 2025-10-10 |
+| [ddr](https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [ddr](https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi) | 4:37 | 2026-11-05 |  |
 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 | 2021-12-21 | 2022-04-22 |
 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 | 2026-04-09 |
 | [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 | 2025-11-29 |
@@ -655,7 +657,7 @@
 | [Last Scene](https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Last Scene](https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa) | 3:46 | 2025-07-08 | 2025-09-02 |
 | [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 | 2025-02-07 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-07-01 | 2024-12-07 |
-| [Lay Down On The Grass](https://open.spotify.com/track/1cJVKdpYK4NC1CTS8orbku) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Lay Down On The Grass](https://open.spotify.com/album/1zHEeHFycWb8DjP2eS9xIf) | 3:40 | 2026-08-13 |  |
+| [Lay Down On The Grass](https://open.spotify.com/track/1cJVKdpYK4NC1CTS8orbku) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Lay Down On The Grass](https://open.spotify.com/album/1zHEeHFycWb8DjP2eS9xIf) | 3:40 | 2026-08-13 | 2026-11-06 |
 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2021-12-21 | 2022-05-18 |
 | [Leaves](https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Leaves](https://open.spotify.com/album/4WYPunihadZ0y8IRY96HZh) | 3:48 | 2026-02-12 | 2026-04-07 |
 | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4qL6T01dRe7p0EghSbfwsc) | 2:43 | 2025-07-10 | 2025-08-13 |
@@ -700,7 +702,7 @@
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
 | [lost the love \(with\. KIM SU IN\)](https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G), [KIM SU IN](https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj) | [lost the love](https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U) | 5:48 | 2023-09-26 | 2024-05-10 |
 | [Lotus](https://open.spotify.com/track/5o4b92ELtQ33pKyCyrtTaE) | [Noa Coast](https://open.spotify.com/artist/0XTepDq5q7tQj6Xg7UPWys) | [Lotus](https://open.spotify.com/album/0Vf2Lxm3zQ0EEDUZAh1lY8) | 3:50 | 2025-08-01 | 2025-09-06 |
-| [LOVE \- “Damons year” Remix](https://open.spotify.com/track/6oc2oKvVbLkWp1U5c9tNIq) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto), [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Reminded of HAPPYEND](https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7) | 2:33 | 2026-06-24 |  |
+| [LOVE \- “Damons year” Remix](https://open.spotify.com/track/6oc2oKvVbLkWp1U5c9tNIq) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto), [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Reminded of HAPPYEND](https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7) | 2:33 | 2026-06-24 | 2026-11-06 |
 | [love and hatred](https://open.spotify.com/track/6RIhYubAexXYmq2LGqAGIa) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [love and hatred](https://open.spotify.com/album/6yEmEdDzRy3kUGOcIz6qzG) | 2:50 | 2024-11-06 | 2025-01-23 |
 | [Love Highway](https://open.spotify.com/track/6Es5m3mqOjmEgD0gBWXM8d) | [Blue Smile](https://open.spotify.com/artist/5rQwjCpFxybGzLiIBMGsXv) | [Love Highway](https://open.spotify.com/album/1XHWY0HUxW2T6RwbOyco2c) | 4:16 | 2026-01-14 | 2026-02-13 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 | 2023-03-01 |
@@ -940,6 +942,7 @@
 | [Puzzle](https://open.spotify.com/track/5KqRRrD2Q9S0WNRFWssDKm) | [MEENA](https://open.spotify.com/artist/4qLPEVEbuZwDd8C8FDPpQn) | [Puzzle](https://open.spotify.com/album/0resjwv5sf8g5qblLITBGp) | 3:29 | 2022-03-31 | 2022-04-14 |
 | [Quantum Physics](https://open.spotify.com/track/3QidtOi1QqRuY2jvLITZSz) | [TheyNeverChange](https://open.spotify.com/artist/4oalJyHnbSzzPCoV0XUt2h) | [Quantum Physics](https://open.spotify.com/album/1uM9bplx4TOjvIdxHTx0Ke) | 3:24 | 2025-11-03 | 2025-12-03 |
 | [Queen of My Heart](https://open.spotify.com/track/3T0kl3KYmOxKtTWvFpYZ7Q) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Queen of My Heart](https://open.spotify.com/album/6EqOOFVlAj45cewgORVVZT) | 4:23 | 2024-11-06 | 2024-11-30 |
+| [Question Mark](https://open.spotify.com/track/5Z7D0AssXUHuYFnXsp3RyS) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Question Mark](https://open.spotify.com/album/5eADdEnRGT7yJfaQbbLtqe) | 3:39 | 2026-11-05 |  |
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2021-12-21 | 2022-05-11 |
 | [R](https://open.spotify.com/track/42nBaYey0wriCAa94RxS15) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [jon2](https://open.spotify.com/album/4SgDYSbVFQ2oGzXYSPLuxa) | 2:39 | 2022-03-31 | 2022-04-13 |
 | [Rain](https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [Rain](https://open.spotify.com/album/05qGSfa8Q99cIdL23iRnQ4) | 3:36 | 2022-03-31 | 2022-04-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un autunno non proprio felice (naska in cover)",
+  "description": "musica per un autunno non proprio felice (gianmaria in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -19684,7 +19684,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 206000,
       "name": "Miss You - Bonus Track",
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
@@ -27195,6 +27195,24 @@
     },
     {
       "album": {
+        "name": "Scarabocchi",
+        "url": "https://open.spotify.com/album/5VZxHqp5XmthW6qSIDlnuo"
+      },
+      "artists": [
+        {
+          "name": "v!ktoria",
+          "url": "https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159408,
+      "name": "Scarabocchi",
+      "url": "https://open.spotify.com/track/25j4hRn8HFOsRUaPUVbJk2"
+    },
+    {
+      "album": {
         "name": "scatole vuote",
         "url": "https://open.spotify.com/album/6iwbz4t7lV95uWjFy732ut"
       },
@@ -27937,6 +27955,24 @@
     },
     {
       "album": {
+        "name": "Senza la tua mano in tasca",
+        "url": "https://open.spotify.com/album/0BhWHniHDXogwZX3jdvlB0"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "Senza la tua mano in tasca",
+      "url": "https://open.spotify.com/track/2R0caWLPF6FjmlGqUrrSKk"
+    },
+    {
+      "album": {
         "name": "Senza le ali",
         "url": "https://open.spotify.com/album/5aUwXsNqggDeMhyMpFBd7e"
       },
@@ -28076,7 +28112,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 176202,
       "name": "SERPENTI",
       "url": "https://open.spotify.com/track/39hT4Ge1XYT9Dz1mWElwrj"
@@ -30620,7 +30656,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 163636,
       "name": "struccarti",
       "url": "https://open.spotify.com/track/2RkVikOyJYSK262ZmpwiYa"
@@ -32844,6 +32880,24 @@
       "duration_ms": 162043,
       "name": "Tutta la festa",
       "url": "https://open.spotify.com/track/0gUgpDKZqBp4L0d0BCoUly"
+    },
+    {
+      "album": {
+        "name": "TUTTE LE COSE CHE HO AMATO",
+        "url": "https://open.spotify.com/album/67ZYVH3kZzqyCkG5WFRZ8j"
+      },
+      "artists": [
+        {
+          "name": "Iperiixo",
+          "url": "https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172695,
+      "name": "TUTTE LE COSE CHE HO AMATO",
+      "url": "https://open.spotify.com/track/5q5wZrlkbRRbgztuHpwH2M"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435606,
+  "num_followers": 1435638,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAACj9OTx3nKtAo3yo79tucKa",
+  "snapshot_id": "aukkAAAAAADeJ9ztWzIsFObGJ9n0+pWD",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Elastic Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Elastic Heart - Piano Version",
-      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
     },
     {
       "added_at": null,
@@ -491,30 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake Tonight",
-        "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Awake Tonight",
-      "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Give Up (From \"Lion\" Soundtrack)",
         "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
       },
@@ -547,6 +523,30 @@
       "duration_ms": 195000,
       "name": "Flames",
       "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake Tonight",
+        "url": "https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Awake Tonight",
+      "url": "https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Cool You Down - feat. Sia",
-      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 204093,
       "name": "Audio (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Cool You Down - feat. Sia",
+      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {
       "added_at": null,
@@ -835,42 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music (Songs From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Floating Through Space",
-      "url": "https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Fire Meet Gasoline",
-      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scorcha",
         "url": "https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5"
       },
@@ -891,22 +855,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
       "artists": [
         {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Fire Meet Gasoline",
+      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music (Songs From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Floating Through Space",
+      "url": "https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nu Zamrock",
+        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
         },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 179652,
-      "name": "Gimme Love Orchestra",
-      "url": "https://open.spotify.com/track/3e3zugz8yZ7Y48RyLWyKWd"
+      "duration_ms": 168160,
+      "name": "Supernova [Feat. Sia]",
+      "url": "https://open.spotify.com/track/6GD7j3bdk0VNsIlNrhUY7p"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
       "duration_ms": 190373,
       "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
       "url": "https://open.spotify.com/track/0IjQeHaDwRljTnROP955YG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 179652,
+      "name": "Gimme Love Orchestra",
+      "url": "https://open.spotify.com/track/3e3zugz8yZ7Y48RyLWyKWd"
     },
     {
       "added_at": null,
@@ -963,26 +983,6 @@
       "duration_ms": 235531,
       "name": "Saved My Life",
       "url": "https://open.spotify.com/track/0Ts6bcB1AQYkt28yZXk1qQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nu Zamrock",
-        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Supernova [Feat. Sia]",
-      "url": "https://open.spotify.com/track/6GD7j3bdk0VNsIlNrhUY7p"
     }
   ],
   "unique_name": "This Is Sia",

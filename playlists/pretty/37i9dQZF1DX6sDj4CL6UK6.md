@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,302 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,301 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 24 | [Find Me](https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A), [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [Find Me](https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm) | 3:01 |
 | 25 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
 | 26 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
-| 27 | [Return to Sender](https://open.spotify.com/track/1BOZEfrcvYQ9INFLxXvQFW) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Epilogue One](https://open.spotify.com/album/2KvQJaq8CeVuTGLVIp1Frf) | 4:14 |
-| 28 | [You’re Not Sorry](https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [Not Overthinking This](https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV) | 3:25 |
+| 27 | [You’re Not Sorry](https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [Not Overthinking This](https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV) | 3:25 |
+| 28 | [Return to Sender](https://open.spotify.com/track/1BOZEfrcvYQ9INFLxXvQFW) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Epilogue One](https://open.spotify.com/album/2KvQJaq8CeVuTGLVIp1Frf) | 4:14 |
 | 29 | [La La Land](https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 2:40 |
 | 30 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 |
 | 31 | [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 |
 | 32 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 |
 | 33 | [Champagne Roses](https://open.spotify.com/track/0jk7q9bU2L9c5We9qsosGD) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Sundari](https://open.spotify.com/album/6qvcpPDHrLbSdIHavSCcst) | 2:15 |
-| 34 | [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 |
-| 35 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
+| 34 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
+| 35 | [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 |
 | 36 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 |
 | 37 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 |
 | 38 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |

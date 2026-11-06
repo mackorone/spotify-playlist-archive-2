@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Vincy 蘇詠淳
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,805 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,815 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [I Have Your Letter Still](https://open.spotify.com/track/7JUDSlEXbD16wCoMFXubbg) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Have Your Letter Still](https://open.spotify.com/album/0Kdr1gCwLfHrqOYAEgq6Nw) | 3:41 |
 | 100 | [未firm](https://open.spotify.com/track/6WOZmRXO92K0j7VYREcJnj) | [elka 鄭芷淇](https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7) | [未firm](https://open.spotify.com/album/4OgudE0JBgtdMaJZfabHko) | 3:42 |
 
-Snapshot ID: `AAAAANjIOEOSejSFE3KxJsXDkbGcmAWh`
+Snapshot ID: `AAAAACGcZBkgErB7miHX1ECdowsVcJsx`

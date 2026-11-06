@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Zaid Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,636 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,635 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 18 | [LEH](https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LEH](https://open.spotify.com/album/0aywGK6kFqvMU2SnkylR4p) | 2:40 |
 | 19 | [MSKA D'SCHWEPPES](https://open.spotify.com/track/4ZTJMTiZK1O4KjixJGzDnu) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [MSKA D'SCHWEPPES](https://open.spotify.com/album/7MIntEpAZYDeb2tDHkgXmY) | 3:15 |
 | 20 | [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 |
-| 21 | [7azeen Elwat \(Saudi\)](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\)](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
+| 21 | [7azeen Elwat \(Saudi\) \- Rap Shar3 \- Live](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\) \- Rap Shar3 \[Live\]](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
 | 22 | [Yeshbah lak Aljaw](https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeshbah lak Aljaw](https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy) | 3:16 |
 | 23 | [Etghayart](https://open.spotify.com/track/7mfn9jHr5sUyRCMHdHy3x4) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 2:45 |
 | 24 | [Layli](https://open.spotify.com/track/5GWLrhnqDDGyjbwbweY8FT) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Layli](https://open.spotify.com/album/78wyh3lmhFE1y5tnlFv4p5) | 3:16 |

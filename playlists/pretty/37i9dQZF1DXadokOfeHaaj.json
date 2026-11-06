@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: FKJ",
-  "num_followers": 44161,
+  "num_followers": 44165,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Gotta Be Cool",
         "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
       },
@@ -411,18 +427,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+        "name": "I\u2019m your girl right? (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
       },
       "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
         {
           "name": "Fcukers",
           "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+      "duration_ms": 343239,
+      "name": "I\u2019m your girl right? - Fcukers Remix",
+      "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -447,26 +467,6 @@
       "duration_ms": 261546,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/0mVE7ho0GazVMHVyt6cFz5"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "I\u2019m your girl right? (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 343239,
-      "name": "I\u2019m your girl right? - Fcukers Remix",
-      "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 176698,
-      "name": "Forever Now",
-      "url": "https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Kairos",
         "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 182105,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 176698,
+      "name": "Forever Now",
+      "url": "https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Tiger J",
+        "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 142374,
+      "name": "Tiger J",
+      "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
         "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 160360,
       "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
       "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Tiger J",
-        "url": "https://open.spotify.com/album/75kClBh4BxMYW2vDLRQZPv"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 142374,
-      "name": "Tiger J",
-      "url": "https://open.spotify.com/track/6flDEslugdakU3TXKKFfaP"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -855,42 +855,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Center Peace",
         "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
       },
@@ -903,6 +867,22 @@
       "duration_ms": 234285,
       "name": "Center Peace",
       "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -927,6 +907,26 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "pull u right thru",
         "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 217864,
       "name": "pull u right thru",
       "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "JOY (Light In The Dark)",
+        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 296045,
+      "name": "JOY (Light In The Dark)",
+      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -979,22 +995,6 @@
       "duration_ms": 160000,
       "name": "Blue Shadows (feat. Karen O)",
       "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "JOY (Light In The Dark)",
-        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 296045,
-      "name": "JOY (Light In The Dark)",
-      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "mangetout (The Dare remix)",
         "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 200192,
       "name": "mangetout - The Dare remix",
       "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "PROJECT X",
-      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Another Planet (feat. Pollena)",
         "url": "https://open.spotify.com/album/0B8L1AR40Qw5PGTs4ViBrX"
       },
@@ -1247,6 +1263,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
         "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
       },
@@ -1271,38 +1303,6 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Devout",
-        "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
-      },
-      "artists": [
-        {
-          "name": "Working Men's Club",
-          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
-        }
-      ],
-      "duration_ms": 217206,
-      "name": "Devout",
-      "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Seaford Sunset",
-        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 218318,
-      "name": "Seaford Sunset",
-      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
     }
   ],
   "unique_name": "Indie Electronic ",

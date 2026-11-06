@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 6142,
+  "num_followers": 6143,
   "original_name": "All New Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA9vZVwJ91GhVnb8eFpJqG+PeTOzX4E",
+  "snapshot_id": "AAA9v9Laj7TshM55zvzRtBGqgwdtPoo6",
   "tracks": [
     {
       "added_at": "2026-07-04 10:16:45",
@@ -2207,7 +2207,7 @@
     {
       "added_at": "2026-10-19 07:53:38",
       "album": {
-        "name": "Memories Of You",
+        "name": "Memories Of You (Instrumental)",
         "url": "https://open.spotify.com/album/1gFghSFOsfR7GxI6kGOjjF"
       },
       "artists": [
@@ -2217,7 +2217,7 @@
         }
       ],
       "duration_ms": 191124,
-      "name": "Memories Of You",
+      "name": "Memories Of You (Instrumental)",
       "url": "https://open.spotify.com/track/1qwu0OVHuuRu0sSVIROTA2"
     },
     {
@@ -4131,6 +4131,38 @@
       "duration_ms": 261602,
       "name": "God Saved Me",
       "url": "https://open.spotify.com/track/198AwPNeu6NAau9RqQ3eKb"
+    },
+    {
+      "added_at": "2026-11-05 10:07:38",
+      "album": {
+        "name": "the circle",
+        "url": "https://open.spotify.com/album/2JQRyE7uKtoFwoI1Af70KB"
+      },
+      "artists": [
+        {
+          "name": "Andrey",
+          "url": "https://open.spotify.com/artist/34mJVdVcdXqDaQ0NdFS7ju"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "the circle",
+      "url": "https://open.spotify.com/track/4SqvhT14qZeSSJU7vciRpC"
+    },
+    {
+      "added_at": "2026-11-05 10:07:56",
+      "album": {
+        "name": "Tables Turned",
+        "url": "https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l"
+      },
+      "artists": [
+        {
+          "name": "Stella Maria",
+          "url": "https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X"
+        }
+      ],
+      "duration_ms": 175350,
+      "name": "Tables Turned",
+      "url": "https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh"
     }
   ],
   "unique_name": "All New Music",

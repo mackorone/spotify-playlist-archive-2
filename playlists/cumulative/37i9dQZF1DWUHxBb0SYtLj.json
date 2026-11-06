@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210128,
       "name": "CANTILENA",
       "url": "https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b"
@@ -10780,6 +10780,24 @@
       "duration_ms": 188520,
       "name": "Effetto Placebo",
       "url": "https://open.spotify.com/track/4puSpnMkS08ALgnrAXepSU"
+    },
+    {
+      "album": {
+        "name": "Effetto Placebo",
+        "url": "https://open.spotify.com/album/4bxpuv89eUjcjrBijnsbIM"
+      },
+      "artists": [
+        {
+          "name": "Joe Elle",
+          "url": "https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Effetto Placebo",
+      "url": "https://open.spotify.com/track/1fozJd7DUTXVLfP63qr5mY"
     },
     {
       "album": {

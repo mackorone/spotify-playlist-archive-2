@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-174 songs - 11 hr 11 min
+175 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Esteio](https://open.spotify.com/track/5lG49D1UTqkvQtVvi0vXVt) | [João Felipe](https://open.spotify.com/artist/2B3WqjVWqSqTR6oD4lnGIg), [DeComposers](https://open.spotify.com/artist/1mI5STBm9NOoBFA0bjJX0S) | [Opus 7 for String Quintet](https://open.spotify.com/album/62woVfY3frYJwvYajDe9Co) | 2:44 | 2026-08-07 |  |
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2021-11-09 |  |
 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 | 2021-11-09 |  |
+| [Fantasy in C Major, Op\. 17: III\. Langsam getragen\. Durchweg leise zu halten](https://open.spotify.com/track/0CnxFbLdjY3RAg0ebtmCDb) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Fantasy in C Major, Op\. 17/III\. Langsam getragen\. Durchweg leise zu halten](https://open.spotify.com/album/51LC7Ob8wiUu32rTSReSlm) | 13:13 | 2026-11-06 |  |
 | [Four Seasons Winter Variation \(After Violin Concerto in F Minor, Op\. 8, No\. 4, RV 297, III\. Allegro\-Lento\)](https://open.spotify.com/track/4HGKwAl6H8z4J2DSaZamSg) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Vivaldi: Four Seasons Winter Variation \(After Violin Concerto in F Minor, Op\. 8, No\. 4, RV 297, III\. Allegro\-Lento\)](https://open.spotify.com/album/2l4Qv7ErSsOLMm4Jx6W4pC) | 1:43 | 2023-10-20 |  |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2021-11-09 |  |
 | [Goiza Larrunen](https://open.spotify.com/track/5W51XW27tDmVhWWxCp0Vvp) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Dessner: Goiza Larrunen](https://open.spotify.com/album/4Ju1T7qpYADFPO8weAcHhP) | 3:18 | 2026-05-22 |  |

@@ -8243,6 +8243,24 @@
     },
     {
       "album": {
+        "name": "hoodies on",
+        "url": "https://open.spotify.com/album/2FM7wfuWnbK7GdoAh2rrHE"
+      },
+      "artists": [
+        {
+          "name": "general groove",
+          "url": "https://open.spotify.com/artist/19CFTUceuR05zEVPmMa1Ld"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "hoodies on",
+      "url": "https://open.spotify.com/track/0Txm2gWXeMUQ7pJDsNP4SP"
+    },
+    {
+      "album": {
         "name": "horizon",
         "url": "https://open.spotify.com/album/1CzSDeoCQ3fhnKfqgeIGO5"
       },
@@ -12028,7 +12046,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 120000,
       "name": "more love",
       "url": "https://open.spotify.com/track/5Y4xIiKuNFbMcZV5saKHJW"

@@ -4,7 +4,7 @@
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:3tgCaL6JQGlCnLmNyjs84B">Gaia Morelli</a> in cover.
 
-2,298 songs - 4 day 18 hr 33 min
+2,299 songs - 4 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,6 +1006,7 @@
 | [KARAOKE](https://open.spotify.com/track/1OVCrsUtBgtSZWazY8wTSY) | [Comeilmiele](https://open.spotify.com/artist/4OcuLUpqOjSYlrZN8W87Qn) | [KARAOKE](https://open.spotify.com/album/1OKGKYexqZoQbfWpEbQj8p) | 3:02 | 2023-03-16 | 2023-05-03 |
 | [Karnevale di Rio](https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Karnevale di Rio](https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo) | 2:30 | 2024-07-18 | 2025-02-19 |
 | [Ketsueki](https://open.spotify.com/track/270BrfDdZy0SBcjHfegS80) | [Anilite](https://open.spotify.com/artist/2uwNumNh6iIqGR46Nns8Qf) | [Ketsueki](https://open.spotify.com/album/4NX5RMCRv6jh5qUYnngvlI) | 2:05 | 2023-02-24 | 2023-03-10 |
+| [Kidnapping](https://open.spotify.com/track/6UGDcBzn1wCs0JVxodKGUW) | [Lasael](https://open.spotify.com/artist/2zS67qAnOQTSFCiG6cDOZH) | [Kidnapping](https://open.spotify.com/album/2irQKDS5Jr4rq4JGu5v85F) | 4:37 | 2026-11-04 |  |
 | [Kids](https://open.spotify.com/track/4S0BluCD82xrxFJQb3z2Ca) | [Frostyh](https://open.spotify.com/artist/7J9wTFdZbmy0flXHNA9Vth) | [Kids](https://open.spotify.com/album/51dxKLq92uH1UPLYAJYabN) | 2:18 | 2023-04-04 | 2023-05-03 |
 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 | 2022-04-08 | 2022-05-20 |
 | [Kids are electric](https://open.spotify.com/track/1DA9Pygk9iFWJVYzVPmuUj) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Kids are electric](https://open.spotify.com/album/0toWLZlewVkUCZA6vz1pV7) | 3:38 | 2022-02-25 | 2022-03-04 |

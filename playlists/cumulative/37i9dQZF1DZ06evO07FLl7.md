@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-175 songs - 10 hr 45 min
+176 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Brecha](https://open.spotify.com/track/3nixNBTnBcJQ2OupAaowCc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 3:01 | 2025-11-20 | 2026-04-17 |
 | [Bêbada de Feriado](https://open.spotify.com/track/23C1cUsh8QcMZZfUXiXbeR) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 3:54 | 2023-09-18 | 2025-11-20 |
 | [Bêbada de Feriado](https://open.spotify.com/track/3TXSn2cIKZJaVuJk3Q2zTV) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz) | 3:54 | 2025-11-22 | 2026-04-04 |
+| [Bêbada de Feriado](https://open.spotify.com/track/7ydSfY8sS2HkjvF50OqMog) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Próspera D+](https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM) | 3:54 | 2026-11-06 |  |
 | [Calma Preta](https://open.spotify.com/track/32D34IsYWHiw2bAtqRTaos) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE) | 3:09 | 2026-04-18 |  |
 | [Calma Preta](https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9) | 3:09 | 2025-11-21 | 2026-04-17 |
 | [Calma Preta](https://open.spotify.com/track/75igikg3xWQPFhHHVj3jdT) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:09 | 2023-09-18 | 2025-11-07 |

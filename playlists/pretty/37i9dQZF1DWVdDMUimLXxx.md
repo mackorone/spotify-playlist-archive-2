@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > An atmospheric mix of chill soundtracks and classical pieces to help you roll high and keep the chaos low.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,344 likes - 77 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,381 likes - 77 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 11 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 |
 | 12 | [Aléatoire](https://open.spotify.com/track/2eHtBGvfD7PD7SiTl52Vxr) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Aléatoire](https://open.spotify.com/album/7KA3DTbG22n9hPSSV3YruJ) | 2:58 |
 | 13 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 |
-| 14 | [Reminiscence](https://open.spotify.com/track/4dIFda2JcPWkM7Y9WsiMx8) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx) | [FANTASYLAND](https://open.spotify.com/album/6A1a30HNAtsFkxrL1qoblV) | 3:08 |
-| 15 | [War Is Inevitable](https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT) | 3:39 |
-| 16 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 |
-| 17 | [The Shores of Scotland](https://open.spotify.com/track/5OpuPJiAaSHVovaDLHw6EA) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Mary Queen Of Scots \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10Whlk8FMk3aPNC4FgmBUo) | 1:51 |
-| 18 | [Caught in the Waves](https://open.spotify.com/track/3aWysoJyL6qFWbadYRCkH8) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Everything Else Will Follow](https://open.spotify.com/album/7J8e3AjZc7mN82khAvAI6I) | 2:28 |
-| 19 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 |
-| 20 | [Lord Of The Isles](https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:07 |
+| 14 | [War Is Inevitable](https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT) | 3:39 |
+| 15 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 |
+| 16 | [The Shores of Scotland](https://open.spotify.com/track/5OpuPJiAaSHVovaDLHw6EA) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Mary Queen Of Scots \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10Whlk8FMk3aPNC4FgmBUo) | 1:51 |
+| 17 | [Caught in the Waves](https://open.spotify.com/track/3aWysoJyL6qFWbadYRCkH8) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Everything Else Will Follow](https://open.spotify.com/album/7J8e3AjZc7mN82khAvAI6I) | 2:28 |
+| 18 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 |
+| 19 | [Lord Of The Isles](https://open.spotify.com/track/3zLNU3h0xqTmQylllUa1JS) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:07 |
+| 20 | [Reminiscence](https://open.spotify.com/track/4dIFda2JcPWkM7Y9WsiMx8) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx) | [FANTASYLAND](https://open.spotify.com/album/6A1a30HNAtsFkxrL1qoblV) | 3:08 |
 | 21 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 |
 | 22 | [Partners in Crime](https://open.spotify.com/track/0MC5OUFlsS6wn3tuOYLF5I) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:27 |
 | 23 | [Endeavour](https://open.spotify.com/track/6v3flfFyiewX4uhtefPYKP) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 4:27 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 76 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 77 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 |
 
-Snapshot ID: `AAAAALWYFyWEdx7G9SDH205OkFq8uV6K`
+Snapshot ID: `AAAAAC9ToWjZu30336joJ/h2liCw1cjt`

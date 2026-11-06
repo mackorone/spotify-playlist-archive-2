@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LISA",
+  "description": "\u0e1f\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e43\u0e19\u0e44\u0e17\u0e22 \u0e23\u0e27\u0e21\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e48\u0e19\u0e08\u0e32\u0e01\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICEBLUE",
   "name": "Hot Hits Thailand",
   "tracks": [
     {
@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+    },
+    {
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -782,6 +800,28 @@
       "duration_ms": 155624,
       "name": "DMMA",
       "url": "https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q"
+    },
+    {
+      "album": {
+        "name": "DND (\u0e42\u0e2b\u0e21\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\ud83c\udf19)",
+        "url": "https://open.spotify.com/album/41N8FQilvC33nTjqPmALcL"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "DND (\u0e42\u0e2b\u0e21\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\ud83c\udf19)",
+      "url": "https://open.spotify.com/track/0bwzEJDyFoZYQ3byuS7NPX"
     },
     {
       "album": {
@@ -2922,7 +2962,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 214285,
       "name": "wanna be yours (\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS"
@@ -3940,7 +3980,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 206466,
       "name": "\u0e15\u0e34\u0e14\u0e40\u0e18\u0e2d\u0e0b\u0e30\u0e01\u0e48\u0e2d\u0e19 (Sweet Baby)",
       "url": "https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1"
@@ -3958,7 +3998,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 252000,
       "name": "\u0e15\u0e38\u0e4b\u0e22\u0e14\u0e38\u0e4b\u0e22 (LOSER)",
       "url": "https://open.spotify.com/track/7yjcs9C5m0nRVfc6D2xAJG"
@@ -4383,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e32\u0e40\u0e1f\u0e35\u0e22\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e2d\u0e01",
+        "url": "https://open.spotify.com/album/44TeGl4pymTIPSdD6gmktS"
+      },
+      "artists": [
+        {
+          "name": "\u0e1a\u0e38\u0e4a\u0e04 \u0e28\u0e38\u0e20\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e4c",
+          "url": "https://open.spotify.com/artist/4OkoS4sDi4DJUkJICZ85gX"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292862,
+      "name": "\u0e21\u0e32\u0e40\u0e1f\u0e35\u0e22\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/4dd6gy6OI2WRGHl8MERcJb"
+    },
+    {
+      "album": {
         "name": "Angel Energy",
         "url": "https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt"
       },
@@ -4394,7 +4452,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217058,
       "name": "\u0e21\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (PUT THE GUN DOWN)",
       "url": "https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi"
@@ -5284,6 +5342,28 @@
       "duration_ms": 239683,
       "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
       "url": "https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19 (Crossroads)",
+        "url": "https://open.spotify.com/album/3imU1ZmhUDVMxNcXSmuWlK"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256666,
+      "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19 (Crossroads)",
+      "url": "https://open.spotify.com/track/2LtSM37UtPQnYDNrWyvSfg"
     },
     {
       "album": {

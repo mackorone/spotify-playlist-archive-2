@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 148 songs - 8 hr 54 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 146 | [The One](https://open.spotify.com/track/6mxtqYfKuCLfkNM6WGFwSg) | [The Thundercracks](https://open.spotify.com/artist/7ASdBF3BAerPO7pd4KEs1I) | [The One](https://open.spotify.com/album/7bsjk3OfWA7E3chARN0s6W) | 3:42 |
 | 147 | [НеПізно](https://open.spotify.com/track/0bfqqenwBx8Qb1IAeLbwes) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [НеПізно](https://open.spotify.com/album/6YJDQGUEcAhRtQ6GGiP9BE) | 2:24 |
 | 148 | [Alfonsina Sin Mar](https://open.spotify.com/track/6uQV5Cdwpm91ctXoCw1g8x) | [Diana Ramundey](https://open.spotify.com/artist/1yS8uDIozrGruSrU0SE52v) | [Zamba Madre](https://open.spotify.com/album/7rQNTiqHS8Qwk0EGPtNJyf) | 3:34 |
+| 149 | [I wish you stayed](https://open.spotify.com/track/4MX1Q3Ei03EF5DxcW9kdyU) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [I wish you stayed](https://open.spotify.com/album/45np5eq9SrGD3UmAyy2uiL) | 2:32 |
+| 150 | [Tables Turned](https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh) | [Stella Maria](https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X) | [Tables Turned](https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l) | 2:55 |
 
-Snapshot ID: `AAAZPMzGt4zCVbOddvF/vZxKfdXtVBJ/`
+Snapshot ID: `AAAZPovnVzYq71pOmDq+9N4Cs1mYQNIG`

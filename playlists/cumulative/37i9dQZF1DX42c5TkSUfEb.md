@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-551 songs - 1 day 9 hr 21 min
+553 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [La nuit](https://open.spotify.com/track/4AlhY7cFD946eYQZgW3WSo) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [La nuit](https://open.spotify.com/album/3V75nRjPbeRtz8idxYojm5) | 3:27 | 2026-07-23 |  |
 | [Laisse moi une chance](https://open.spotify.com/track/5HQNcoJ3hnuA568Zysvmmu) | [Mathieu Saïkaly](https://open.spotify.com/artist/5uZp8a7YpLzN4lYzDDu6kE) | [Laisse moi une chance](https://open.spotify.com/album/1nEDE4V9XCoTM3PNj4qn5V) | 2:38 | 2024-04-15 | 2024-05-14 |
 | [Lately](https://open.spotify.com/track/2WRDu73mfK4aZiVucqs0PZ) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:04 | 2022-11-25 | 2024-04-19 |
+| [Lay](https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lay](https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e) | 4:03 | 2026-11-05 |  |
 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 | 2023-01-11 | 2024-04-19 |
 | [Le bateau coule](https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:19 | 2023-03-02 | 2024-04-19 |
 | [Le coeur nous anime](https://open.spotify.com/track/2ZoTMDhc30xptF6GntTLnC) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:44 | 2022-11-25 | 2025-07-04 |
@@ -323,6 +324,7 @@
 | [Moins joli](https://open.spotify.com/track/2fgINBjLf7eCI3ky3n2gnS) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Moins joli](https://open.spotify.com/album/2unO7pvDAYdfm6pzO9zqKM) | 2:59 | 2022-11-25 | 2024-04-19 |
 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2023-02-21 |  |
 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 | 2025-09-25 |  |
+| [mononoke](https://open.spotify.com/track/53oxxT1yPpRlGiF6svD17o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [mononoke](https://open.spotify.com/album/3vAbOmWlcBq56XtkiRcLAm) | 3:59 | 2026-11-05 |  |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-25 | 2026-09-18 |
 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 | 2026-04-30 | 2026-10-03 |
 | [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 | 2025-11-14 | 2025-12-05 |
@@ -503,7 +505,7 @@
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-01-23 | 2025-02-28 |
 | [Times Square Jesus](https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Times Square Jesus](https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX) | 4:15 | 2025-08-14 | 2025-10-18 |
 | [tired](https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [tired](https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE) | 3:13 | 2026-09-17 |  |
-| [tired eyes](https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [tired eyes](https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW) | 3:41 | 2026-09-04 |  |
+| [tired eyes](https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [tired eyes](https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW) | 3:41 | 2026-09-04 | 2026-11-06 |
 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 | 2022-11-25 | 2023-11-17 |
 | [tolerate it](https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:05 | 2022-11-25 | 2023-01-10 |
 | [Tomorrow](https://open.spotify.com/track/2y70NzSl4qa67ZQjf1zlyQ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Tomorrow](https://open.spotify.com/album/72Kj0KxXZBEobZAA3EIIZi) | 4:43 | 2023-11-27 | 2023-12-30 |
@@ -514,7 +516,7 @@
 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 | 2026-05-21 |  |
 | [Two in This Story](https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Two in This Story](https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW) | 3:54 | 2025-05-15 | 2025-08-12 |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2022-11-25 | 2023-01-10 |
-| [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 | 2026-08-21 |  |
+| [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 | 2026-08-21 | 2026-11-06 |
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2024-04-15 | 2025-01-24 |
 | [Undercurrent \(Clean Heart\)](https://open.spotify.com/track/0qEoKoiXF17TblSsDJY0tX) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Undercurrent \(Clean Heart\)](https://open.spotify.com/album/4zhzWqq4gN1DAdMwQHi3UN) | 2:22 | 2026-02-06 | 2026-03-20 |
 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 | 2024-03-27 | 2024-04-16 |

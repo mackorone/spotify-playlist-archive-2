@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "KAMI INSOMNIACKS",
+        "url": "https://open.spotify.com/album/6PHlKw6G1gY3SSuq4rfpxY"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Aku Sedia",
+      "url": "https://open.spotify.com/track/4lWC2Sds3DHnz7juMQv7td"
+    },
+    {
+      "album": {
         "name": "Aku Terluka",
         "url": "https://open.spotify.com/album/2JPX9QMY45CetMKK8xk3TH"
       },
@@ -2542,7 +2560,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 311805,
       "name": "BERDOSA",
       "url": "https://open.spotify.com/track/3GVUHvrFX4sQ1nMEORZSbm"
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 236800,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn"
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 189678,
       "name": "Garah",
       "url": "https://open.spotify.com/track/2Pom25CjFoJ507ABhPcO4q"
@@ -9311,6 +9329,24 @@
     },
     {
       "album": {
+        "name": "Katamu Sekejap",
+        "url": "https://open.spotify.com/album/4BnntrJ4CNd2XeWHg7pDGu"
+      },
+      "artists": [
+        {
+          "name": "Haqiem Rusli",
+          "url": "https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242769,
+      "name": "Katamu Sekejap",
+      "url": "https://open.spotify.com/track/24lhCJmg6sj9tm7Lq35rc1"
+    },
+    {
+      "album": {
         "name": "Kau Aku Satu",
         "url": "https://open.spotify.com/album/4XnnqrZzMc6bxKL1nmMV1V"
       },
@@ -9664,7 +9700,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 224000,
       "name": "Kembali Berjumpa",
       "url": "https://open.spotify.com/track/5i38siirqMGD1rkctirGoe"
@@ -12251,6 +12287,24 @@
     },
     {
       "album": {
+        "name": "Memori Sekuntum Rindu",
+        "url": "https://open.spotify.com/album/34xL8ug7Pd735BBKfSi05Z"
+      },
+      "artists": [
+        {
+          "name": "Usop",
+          "url": "https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336652,
+      "name": "Memori Sekuntum Rindu",
+      "url": "https://open.spotify.com/track/6FhUExy5AMcO2FvNORA6sI"
+    },
+    {
+      "album": {
         "name": "Menamakanmu Cinta",
         "url": "https://open.spotify.com/album/6bIOflYBZHvfWTG1niLv44"
       },
@@ -14056,6 +14110,24 @@
       "duration_ms": 210475,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/2ovmxicVnz3wRxLHSDI3Ns"
+    },
+    {
+      "album": {
+        "name": "Patah Dua",
+        "url": "https://open.spotify.com/album/56S66AvVQ8B1DjX5qcFbP6"
+      },
+      "artists": [
+        {
+          "name": "Luqman Podolski",
+          "url": "https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Patah Dua",
+      "url": "https://open.spotify.com/track/3LsNU9ORUe4n8nK4AezbEt"
     },
     {
       "album": {
@@ -17307,6 +17379,24 @@
     },
     {
       "album": {
+        "name": "Selesa",
+        "url": "https://open.spotify.com/album/232Qa7xuykRTLUblmklKmd"
+      },
+      "artists": [
+        {
+          "name": "Hael Husaini",
+          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202353,
+      "name": "Selesa",
+      "url": "https://open.spotify.com/track/1P3Eyb3d119wA5AH4BhQrj"
+    },
+    {
+      "album": {
         "name": "OFF GUARD",
         "url": "https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s"
       },
@@ -18208,7 +18298,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204564,
       "name": "siapa yang tahan",
       "url": "https://open.spotify.com/track/7dNRyRMvPa5mASrn0PECVg"

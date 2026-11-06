@@ -3959,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "The Day Ahead",
+        "url": "https://open.spotify.com/album/4bMvOJGfkNbKpyYJaxZVUP"
+      },
+      "artists": [
+        {
+          "name": "Axel Valmar",
+          "url": "https://open.spotify.com/artist/2glUgYpeC3L6GwWdp8mlro"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "The Day Ahead",
+      "url": "https://open.spotify.com/track/77AKs4fzvMh7jDHvzPazZW"
+    },
+    {
+      "album": {
         "name": "The Far West",
         "url": "https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ"
       },

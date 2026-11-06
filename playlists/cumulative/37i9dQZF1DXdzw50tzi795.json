@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICEBLUE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran, Sexski",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170322,
       "name": "Benz \u0e14\u0e33",
       "url": "https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU"
@@ -330,6 +330,28 @@
       "duration_ms": 155624,
       "name": "DMMA",
       "url": "https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q"
+    },
+    {
+      "album": {
+        "name": "DND (\u0e42\u0e2b\u0e21\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\ud83c\udf19)",
+        "url": "https://open.spotify.com/album/41N8FQilvC33nTjqPmALcL"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "DND (\u0e42\u0e2b\u0e21\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\ud83c\udf19)",
+      "url": "https://open.spotify.com/track/0bwzEJDyFoZYQ3byuS7NPX"
     },
     {
       "album": {
@@ -1288,6 +1310,24 @@
       "duration_ms": 287000,
       "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
       "url": "https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e25\u0e32\u0e07\u0e21\u0e2b\u0e32\u0e2a\u0e21\u0e38\u0e17\u0e23",
+        "url": "https://open.spotify.com/album/24KlGswQvpqvsgBYOzLZOE"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e25\u0e47\u0e01 \u0e23\u0e31\u0e0a\u0e40\u0e21\u0e28\u0e10\u0e4c",
+          "url": "https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u0e01\u0e25\u0e32\u0e07\u0e21\u0e2b\u0e32\u0e2a\u0e21\u0e38\u0e17\u0e23",
+      "url": "https://open.spotify.com/track/0MkfrwAd9W9MOVRiEpjpvA"
     },
     {
       "album": {
@@ -2378,7 +2418,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 252000,
       "name": "\u0e15\u0e38\u0e4b\u0e22\u0e14\u0e38\u0e4b\u0e22 (LOSER)",
       "url": "https://open.spotify.com/track/7yjcs9C5m0nRVfc6D2xAJG"
@@ -2414,10 +2454,36 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218414,
       "name": "\u0e16\u0e49\u0e32\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (Crossroads)",
       "url": "https://open.spotify.com/track/4NhtEMpFYFW3mb9c2ZQlMH"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/7LcYxSXWNqvrIzYGliK0Nk"
+      },
+      "artists": [
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "2T FLOW",
+          "url": "https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/03NqlCLVasMHXfdqw8dBEL"
     },
     {
       "album": {
@@ -2494,6 +2560,24 @@
       "duration_ms": 318690,
       "name": "\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08",
       "url": "https://open.spotify.com/track/5FjWcmMlwbY6SCGdfuercf"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e0a\u0e2d\u0e1a (Grief Eaters)",
+        "url": "https://open.spotify.com/album/6Xn7mE2Zfgs9Rj8VZl3glo"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224185,
+      "name": "\u0e17\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e0a\u0e2d\u0e1a (Grief Eaters)",
+      "url": "https://open.spotify.com/track/62VsUDl6ZUzR8STxeeoXzB"
     },
     {
       "album": {
@@ -3075,6 +3159,24 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e32\u0e40\u0e1f\u0e35\u0e22\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e2d\u0e01",
+        "url": "https://open.spotify.com/album/44TeGl4pymTIPSdD6gmktS"
+      },
+      "artists": [
+        {
+          "name": "\u0e1a\u0e38\u0e4a\u0e04 \u0e28\u0e38\u0e20\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e4c",
+          "url": "https://open.spotify.com/artist/4OkoS4sDi4DJUkJICZ85gX"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292862,
+      "name": "\u0e21\u0e32\u0e40\u0e1f\u0e35\u0e22\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/4dd6gy6OI2WRGHl8MERcJb"
+    },
+    {
+      "album": {
         "name": "Angel Energy",
         "url": "https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt"
       },
@@ -3086,7 +3188,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217058,
       "name": "\u0e21\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (PUT THE GUN DOWN)",
       "url": "https://open.spotify.com/track/0bHItXcLtqCnlVx6dlflQi"
@@ -3826,7 +3928,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218400,
       "name": "\u0e2a\u0e32\u0e18\u0e38 (Sathu) [feat. \u0e1b\u0e25\u0e32\u0e22 \u0e01\u0e19\u0e01\u0e1e\u0e23]",
       "url": "https://open.spotify.com/track/0pa70WIyVyI3DY4bcL2vZo"
@@ -4294,7 +4396,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 261948,
       "name": "\u0e40\u0e08\u0e34\u0e14\u0e08\u0e23\u0e31\u0e2a",
       "url": "https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA"
@@ -4450,6 +4552,28 @@
       "duration_ms": 239683,
       "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
       "url": "https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19 (Crossroads)",
+        "url": "https://open.spotify.com/album/3imU1ZmhUDVMxNcXSmuWlK"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256666,
+      "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19 (Crossroads)",
+      "url": "https://open.spotify.com/track/2LtSM37UtPQnYDNrWyvSfg"
     },
     {
       "album": {
@@ -4664,7 +4788,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228500,
       "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e40\u0e2d\u0e07\u0e01\u0e31\u0e1a\u0e21\u0e37\u0e2d (Bad Choices)",
       "url": "https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c"
@@ -4812,6 +4936,28 @@
       "duration_ms": 224173,
       "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
       "url": "https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0XqqhAzaXerogBQgniTZpy"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        },
+        {
+          "name": "KT KRATAE",
+          "url": "https://open.spotify.com/artist/6hwQvarRAeFfdCuFjpJZTy"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214427,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/3H1mjWpfQRIvIgP6ogYLkW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-313 songs - 18 hr 1 min
+314 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Electric Night](https://open.spotify.com/track/3LwgXc0qnLMZltJsXKsvjW) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Wastemall](https://open.spotify.com/artist/71pxoY98RFek1bvigR8ON3) | [Memory](https://open.spotify.com/album/237JwE1vurV2zm9dzp32Dy) | 3:27 | 2025-07-11 |  |
 | [Elysium](https://open.spotify.com/track/3SwWCfF9zT1A34ar3iDaaI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq), [MAMI](https://open.spotify.com/artist/5ggst36NN0Gj7JRv5pMKql) | [Elysium](https://open.spotify.com/album/2FWPJEb6I1Qjcy85UCwM4e) | 3:39 | 2026-04-17 |  |
 | [Embers](https://open.spotify.com/track/119ZdQHm45Y2p0mxn6F3zi) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Embers](https://open.spotify.com/album/0ceplJM2SMcot1rjLyTn8v) | 3:52 | 2026-02-27 | 2026-10-10 |
+| [Endlessly](https://open.spotify.com/track/5KJ8iOiVsg1hF4fpJPDEtZ) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Endlessly](https://open.spotify.com/album/7pm6OVEHugLTU7FMb17yIp) | 3:35 | 2026-11-06 |  |
 | [Energy](https://open.spotify.com/track/3PBWpK87pr2Vnvrt7rnedK) | [Damian William](https://open.spotify.com/artist/13ITnPEgGcE7fffUaMr5Se) | [Energy](https://open.spotify.com/album/7b0raTyrYcZDujVAEVEdtn) | 3:48 | 2025-11-28 | 2025-12-13 |
 | [Escape The Fire](https://open.spotify.com/track/28d8E0FHFdLz8k2ffYmcE8) | [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG), [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [Escape The Fire](https://open.spotify.com/album/5HuIMuWBp8ToBIcrDB5RtV) | 3:52 | 2026-02-27 | 2026-08-01 |
 | [Eternal Love](https://open.spotify.com/track/6Ov3Fd5pfglTQtnpNCHKmW) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I), [Emile Battour](https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT) | [Eternal Love](https://open.spotify.com/album/4meV22hoQFMmnhMM8zWZJr) | 4:18 | 2025-07-11 | 2025-09-06 |

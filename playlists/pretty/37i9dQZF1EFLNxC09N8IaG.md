@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,639 likes - 186 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,638 likes - 186 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 86 | [Loverman \(feat\. Priscilla Renea\)](https://open.spotify.com/track/6Cfy5wwz2S0TpF6KhE30er) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [a girl a bottle a boat](https://open.spotify.com/album/26OJfCFh7u9WmHd3Y3q8IS) | 2:41 |
 | 87 | [Chit Chat](https://open.spotify.com/track/02TXRRR6EXFGLnqmHXWI0P) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Heavy Rules Mixtape](https://open.spotify.com/album/7MNdScEmf2wgF9bVLOyXKs) | 3:20 |
 | 88 | [No Signal](https://open.spotify.com/track/5FnIT6GbLmsBQJ907StE5P) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:43 |
-| 89 | [Gentleman](https://open.spotify.com/track/6RRSC5DEiOZAXXe4NCWSC9) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
-| 90 | [Love Spent](https://open.spotify.com/track/51u7mdBemmx8AkZlrFpymj) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe\)](https://open.spotify.com/album/1R6RAlk9KoKbkROcyhBgBK) | 3:45 |
-| 91 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 |
+| 89 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 |
+| 90 | [Gentleman](https://open.spotify.com/track/6RRSC5DEiOZAXXe4NCWSC9) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
+| 91 | [Love Spent](https://open.spotify.com/track/51u7mdBemmx8AkZlrFpymj) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe\)](https://open.spotify.com/album/1R6RAlk9KoKbkROcyhBgBK) | 3:45 |
 | 92 | [Leave My Baby Tonight \(feat\. GloRilla\)](https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
 | 93 | [Polaroid](https://open.spotify.com/track/09fsxyy179DPzPuE7rBfOG) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 4:02 |
 | 94 | [Just Beginning](https://open.spotify.com/track/2Y28t3gwCloTFI3pmZ84YW) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:00 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 185 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 186 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `AcgzgAAAAACAt39j8kDfAmy41DY8YnaE`
+Snapshot ID: `Acg5IAAAAAAdssszbrIR41z9aD9Mazgx`

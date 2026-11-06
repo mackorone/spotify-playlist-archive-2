@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/3nuWQaaxkrXa8bpWVfeSUy"
+      },
+      "artists": [
+        {
+          "name": "melih sar\u0131",
+          "url": "https://open.spotify.com/artist/4jWUd2mZBkpbX6Oj4KQktW"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153259,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/08GLdJkqn0Yl8F7jSfFyW3"
+    },
+    {
+      "album": {
         "name": "Act A Fool",
         "url": "https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID"
       },
@@ -9841,6 +9859,24 @@
     },
     {
       "album": {
+        "name": "I Need Your Lovin'",
+        "url": "https://open.spotify.com/album/6U3tIlC7POyds1KyDXDJjD"
+      },
+      "artists": [
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/3Iqk3dSYSpGl2pDtHpe16p"
+    },
+    {
+      "album": {
         "name": "I Want Your Love",
         "url": "https://open.spotify.com/album/3sEFukZJPoPKptg5FYMeIf"
       },
@@ -11152,6 +11188,24 @@
       "duration_ms": 173592,
       "name": "Jumpstarter",
       "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
+    },
+    {
+      "album": {
+        "name": "Junk Into My Mind",
+        "url": "https://open.spotify.com/album/4hN6FgeHSP9ZxdGpCF65mP"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193285,
+      "name": "Junk Into My Mind",
+      "url": "https://open.spotify.com/track/6NImd5zY0QmImGanmDv1ye"
     },
     {
       "album": {

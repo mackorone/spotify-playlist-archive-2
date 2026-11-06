@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
+  "description": "The pulse of Latin House \ud83c\udf00 featuring Andruss & Juos",
   "name": "Latin House",
   "tracks": [
     {
@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 159045,
       "name": "Claro",
       "url": "https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4"
@@ -8552,6 +8552,28 @@
       "duration_ms": 179527,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+    },
+    {
+      "album": {
+        "name": "Pa' La Calle (Dale)",
+        "url": "https://open.spotify.com/album/6zJImVNmQcPH9Zvim8AbKq"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160644,
+      "name": "Pa' La Calle (Dale)",
+      "url": "https://open.spotify.com/track/2yXPHUvKAa1F4kg9QYWXWO"
     },
     {
       "album": {

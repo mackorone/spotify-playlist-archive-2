@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,531 likes - 33 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,626 likes - 33 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 3 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 |
 | 4 | [Jaws](https://open.spotify.com/track/2GPdGwBnFfruzFbJPd7uQS) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Jaws](https://open.spotify.com/album/2DiX65iiou5VYicpiCnJet) | 5:55 |
 | 5 | [Damocles](https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:24 |
-| 6 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 |
+| 6 | [The Apparition](https://open.spotify.com/track/21eMasL93nEafqRwlI851z) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:28 |
 | 7 | [Give](https://open.spotify.com/track/1LzRiE4LCTF80qZectiltH) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 3:56 |
 | 8 | [Hypnosis](https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 5:35 |
 | 9 | [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 |
-| 10 | [The Apparition](https://open.spotify.com/track/21eMasL93nEafqRwlI851z) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:28 |
+| 10 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 |
 | 11 | [The Offering](https://open.spotify.com/track/1lXAzSbRH4VXrqgFuPQSFp) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 5:49 |
 | 12 | [The Love You Want](https://open.spotify.com/track/4lVVewXw4g8hB7sldQyJiL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:23 |
 | 13 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m0d2h.md) - [plain]
 | 32 | [Calcutta](https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 6:53 |
 | 33 | [Thread the Needle](https://open.spotify.com/track/27ykoata0UDHwDCkfNNmOE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [One](https://open.spotify.com/album/6NJfEwMs0sdtxoDQyAo3jv) | 6:36 |
 
-Snapshot ID: `aufSgAAAAADIMUXZRCr5H6f5437f6oBQ`
+Snapshot ID: `aukkAAAAAADFasPekKnfj+r+qOV2WVG1`

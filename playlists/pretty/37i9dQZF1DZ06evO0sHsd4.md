@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,947 likes - 34 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,974 likes - 34 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 33 | [Se Enfiestó El Carnal](https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Se Enfiestó El Carnal](https://open.spotify.com/album/4SBT3my679xNKekRzXfzef) | 3:29 |
 | 34 | [Mas Alto Que El Everest](https://open.spotify.com/track/6qq8x1UZ1xz5BKzzxwHllU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/2ouqn69x2uZbiqqSyLVMFN) | 3:01 |
 
-Snapshot ID: `aufSgAAAAADsEgdUBI5yIrxbHUWuqr0H`
+Snapshot ID: `aukkAAAAAACUjEPdwhrmdChu0QAILbfV`

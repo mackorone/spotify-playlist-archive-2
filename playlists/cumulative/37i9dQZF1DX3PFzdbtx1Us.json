@@ -3707,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Lavender Haze",
+        "url": "https://open.spotify.com/album/6lpRDy5JYuxJeEzM22Y0HC"
+      },
+      "artists": [
+        {
+          "name": "Ted Lucky",
+          "url": "https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136343,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/1vGxSwfwOrnpcv5xro4G9k"
+    },
+    {
+      "album": {
         "name": "Lavender Lake",
         "url": "https://open.spotify.com/album/6rOyyBrUVTuAn2P47xWoky"
       },

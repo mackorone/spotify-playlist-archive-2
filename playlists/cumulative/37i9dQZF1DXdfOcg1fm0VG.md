@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-211 songs - 12 hr 20 min
+212 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Super Mario Bros: Theme](https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 4:12 | 2021-12-15 |  |
 | [Super Mario Galaxy: Gusty Garden Galaxy](https://open.spotify.com/track/05XPxcgHp4I4CFlOhMnskS) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Mahito Yokota](https://open.spotify.com/artist/3s9zTij1nIF3KY1G6BG1WZ), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 3:49 | 2021-12-15 |  |
 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 | 2022-02-04 |  |
+| [Sword of Despair](https://open.spotify.com/track/1w54cAkBYm5c2K5eq2KQn7) | [Caisheng Bo](https://open.spotify.com/artist/7kg3KmU4yZII8jjFotXrvQ) | [Phantom Blade Zero \(Original Game Soundtrack\)](https://open.spotify.com/album/1d50ZbtuaE7UXoGln0woKQ) | 4:09 | 2026-11-06 |  |
 | [The Drop](https://open.spotify.com/track/6vIL1KWpWZOLhbpJ6xCjGU) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc) | [Death Stranding \(Original Score Volume 2\)](https://open.spotify.com/album/31IhCTqab094HwqAjqGENb) | 1:01 | 2021-12-15 |  |
 | [The Ewer \(Day\)](https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:05 | 2021-12-15 |  |
 | [The Face of Our New Hope \(From "Death Stranding" Score\)](https://open.spotify.com/track/4Er4Eq5De16sKwCV8nx4ej) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc) | [Death Stranding \(Original Score\)](https://open.spotify.com/album/5e4LO7QzLLN6sSs9RlaawU) | 3:25 | 2021-12-15 |  |

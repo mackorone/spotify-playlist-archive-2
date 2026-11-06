@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Shallipopi
+> From the trenches\. Through the streets.<br/>Cover: Santi
 
-552 songs - 1 day 1 hr 9 min
+553 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Express](https://open.spotify.com/track/49ST93zDICBoe4noumugsa) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up](https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY) | 3:00 | 2023-08-17 | 2023-09-29 |
 | [Eyes On Me](https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:47 | 2026-10-02 |  |
 | [Fakosi](https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Fakosi \(Remix\)](https://open.spotify.com/album/3YPNvgCesJrEaLZgZLXzdt) | 3:02 | 2024-02-16 | 2024-07-14 |
-| [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 | 2026-08-14 |  |
+| [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 | 2026-08-14 | 2026-11-06 |
 | [Feel Better](https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL) | 2:23 | 2023-01-12 | 2023-11-23 |
 | [Feel Better](https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD) | 2:23 | 2023-11-17 | 2024-04-04 |
 | [Feeling Funny](https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Feeling Funny](https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j) | 3:18 | 2023-07-07 | 2024-04-01 |
@@ -477,6 +477,7 @@
 | [SHON PE \(Count Your Money\)](https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [SHON PE \(Count Your Money\)](https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk) | 2:38 | 2026-07-24 | 2026-10-16 |
 | [Shuperu](https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:49 | 2026-10-16 |  |
 | [Shutdown](https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shutdown](https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC) | 2:59 | 2024-03-29 | 2025-02-24 |
+| [Siesta \(feat\. Mavo\)](https://open.spotify.com/track/6jz3wcx4mpdL8pcKmOV4kn) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Siesta \(feat\. Mavo\)](https://open.spotify.com/album/3NzR0oTgMm3S56CvjyTHnq) | 2:08 | 2026-11-06 |  |
 | [Sinner Remix \(feat\. Rybeena\)](https://open.spotify.com/track/0MQRgZpFXFGeaXZNx7CSWr) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Sinner Remix \(feat\. Rybeena\)](https://open.spotify.com/album/0XfdNmgoZ6ZwJshH5cAcOv) | 2:27 | 2025-08-08 | 2025-08-15 |
 | [Skilful](https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:03 | 2026-05-01 |  |
 | [Slow](https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Business](https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI) | 3:13 | 2026-07-24 | 2026-08-14 |

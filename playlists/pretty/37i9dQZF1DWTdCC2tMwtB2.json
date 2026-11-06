@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Jubin Nautiyal & Elnaaz Norouzi",
-  "num_followers": 137615,
+  "num_followers": 137652,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -211,30 +211,6 @@
     {
       "added_at": "2026-11-03 07:14:30",
       "album": {
-        "name": "Heeriye (feat. Arijit Singh)",
-        "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Dulquer Salmaan",
-          "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
-        }
-      ],
-      "duration_ms": 194857,
-      "name": "Heeriye (feat. Arijit Singh)",
-      "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
-    },
-    {
-      "added_at": "2026-11-03 07:14:30",
-      "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 159108,
       "name": "Malang Sajna",
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
+    },
+    {
+      "added_at": "2026-11-03 07:14:30",
+      "album": {
+        "name": "Heeriye (feat. Arijit Singh)",
+        "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Dulquer Salmaan",
+          "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
+        }
+      ],
+      "duration_ms": 194857,
+      "name": "Heeriye (feat. Arijit Singh)",
+      "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
     },
     {
       "added_at": "2026-11-03 07:14:30",
@@ -623,8 +623,8 @@
     {
       "added_at": "2026-11-03 07:14:30",
       "album": {
-        "name": "Heer Ranjha",
-        "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
+        "name": "Dilfek",
+        "url": "https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf"
       },
       "artists": [
         {
@@ -632,17 +632,13 @@
           "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
         },
         {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
-        },
-        {
-          "name": "Rana Sotal",
-          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
         }
       ],
-      "duration_ms": 223107,
-      "name": "Heer Ranjha",
-      "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
+      "duration_ms": 173138,
+      "name": "Dilruba Dilnasheen",
+      "url": "https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF"
     },
     {
       "added_at": "2026-11-03 07:14:30",
@@ -715,8 +711,8 @@
     {
       "added_at": "2026-11-03 07:14:30",
       "album": {
-        "name": "Dilfek",
-        "url": "https://open.spotify.com/album/255lUMVCDU6Y9FtI7GmHMf"
+        "name": "Heer Ranjha",
+        "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
       },
       "artists": [
         {
@@ -724,13 +720,17 @@
           "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
         },
         {
-          "name": "Siddhant Kaushal",
-          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
         }
       ],
-      "duration_ms": 173138,
-      "name": "Dilruba Dilnasheen",
-      "url": "https://open.spotify.com/track/3ZhV3K4tmdYofyLKPS5KqF"
+      "duration_ms": 223107,
+      "name": "Heer Ranjha",
+      "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
     },
     {
       "added_at": "2026-11-03 07:14:30",

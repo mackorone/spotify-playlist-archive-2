@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-200 songs - 8 hr 56 min
+201 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2022-02-02 | 2024-12-18 |
 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 | 2022-07-27 |  |
 | [Elara](https://open.spotify.com/track/1pUM7iVm5ErlcnhY1zC3aU) | [Verdame](https://open.spotify.com/artist/0xiNBrTQ3VM9vCPoRQ7ZBY) | [Elara](https://open.spotify.com/album/02jaiIdYIaEoVtGQtj8IsA) | 2:35 | 2026-09-25 |  |
+| [Elsewhere](https://open.spotify.com/track/70nXaGfc5vq5gx6W1CWyq7) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Elsewhere](https://open.spotify.com/album/6VQGHPCQWdBlVDDRH4sy82) | 2:16 | 2026-11-06 |  |
 | [Ember](https://open.spotify.com/track/0UI9vtPrrF4rKVbAyftf6Q) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Ember](https://open.spotify.com/album/6saaWCTWKStjjhJJx3KdMw) | 2:39 | 2025-09-17 |  |
 | [Emotion](https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Emotion](https://open.spotify.com/album/5qBzrhSYA2oc8GUJgty2Pp) | 3:24 | 2022-01-19 |  |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2022-01-19 |  |

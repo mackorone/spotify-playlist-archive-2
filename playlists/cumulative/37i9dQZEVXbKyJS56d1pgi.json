@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 205091,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s"
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -13280,7 +13280,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -13772,7 +13772,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 217845,
       "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
@@ -18665,6 +18665,24 @@
     },
     {
       "album": {
+        "name": "Icey",
+        "url": "https://open.spotify.com/album/2JGhudNYALbOQ3oKNNTB8M"
+      },
+      "artists": [
+        {
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Icey",
+      "url": "https://open.spotify.com/track/3Sn6Wib3xaSfPejHjgXVe7"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -19570,7 +19588,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -23514,7 +23532,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 206210,
       "name": "Mapa Cor de Rosa",
       "url": "https://open.spotify.com/track/4UzqpJRQcimoTGzD1uSqj2"
@@ -30504,7 +30522,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 133563,
       "name": "Pe\u00e3o Todo Tatuado",
       "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
@@ -33514,7 +33532,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 155307,
       "name": "Ritmo Era Uma Vez",
       "url": "https://open.spotify.com/track/3GZfGZMwHkXFGTvRjCSXNb"

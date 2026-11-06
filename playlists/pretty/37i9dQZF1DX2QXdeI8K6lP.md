@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,423 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,444 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 30 | [En Mi Viejo San Juan \(with Javier Solís\)](https://open.spotify.com/track/07dcCkp3Eyx0UrqVRT8k6B) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Dos Idolos Cantando](https://open.spotify.com/album/34xJsekBz5oh2dgmc0tAfy) | 2:53 |
 | 31 | [No Me Platiques Ya](https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 2:50 |
 | 32 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
-| 33 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 |
+| 33 | [Piel Canela](https://open.spotify.com/track/7bd92UGLbcFLMvq9oBFur5) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 1](https://open.spotify.com/album/3h4Htr85x75IWiciJsEfpZ) | 2:33 |
 | 34 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |
 | 35 | [Aquellos ojos verdes \(bolero\)](https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Alma de negro](https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj) | 2:20 |
-| 36 | [Piel Canela](https://open.spotify.com/track/7bd92UGLbcFLMvq9oBFur5) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 1](https://open.spotify.com/album/3h4Htr85x75IWiciJsEfpZ) | 2:33 |
-| 37 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
-| 38 | [Empiezo a Extrañarte](https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U) | [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Personalidad \- Los Grandes Trios \- Las Sombras](https://open.spotify.com/album/7y2WIsOp0LrL9dJjjhDE66) | 2:38 |
+| 36 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 |
+| 37 | [Empiezo a Extrañarte](https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U) | [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Personalidad \- Los Grandes Trios \- Las Sombras](https://open.spotify.com/album/7y2WIsOp0LrL9dJjjhDE66) | 2:38 |
+| 38 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
 | 39 | [Solamente una Vez](https://open.spotify.com/track/3KXT4z3ZtA8yasFoqltxzP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Mi Primer Piano..\. Y Mis Primeras Canciones](https://open.spotify.com/album/2JRYd3QxaIm8bzIpY8V6Ci) | 2:41 |
 | 40 | [Cancionero](https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [15 Exitos De Alvaro Carillo Con Sus Mejors](https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr) | 2:06 |
 | 41 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |

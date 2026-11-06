@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,829 songs - 6 day 20 hr 56 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,830 songs - 6 day 20 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2837,5 +2837,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2827 | [canned applause \- Monica's Cut](https://open.spotify.com/track/1sbMosnyifEz4jEgZseN5d) | [Monica Rhodes](https://open.spotify.com/artist/3jnocdNnBMSnSrlsMpPDps) | [canned applause \(Monica's Cut\)](https://open.spotify.com/album/5gJZGe2jBTrjkhG4FX621N) | 3:27 |
 | 2828 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 |
 | 2829 | [Sail Away](https://open.spotify.com/track/5DtwJEzgU2RPa5mJpEvtAF) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz) | [Sail Away](https://open.spotify.com/album/1VLnaXGhcgXDNjpwW1dQKI) | 2:48 |
+| 2830 | [Fiesta y Calor](https://open.spotify.com/track/4SxxR7sOfxqEiyDC2rLKli) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Fiesta y Calor](https://open.spotify.com/album/3xucEMWLJmvDcsIeMyebeR) | 3:01 |
 
-Snapshot ID: `AAAMC7Y8ohKkjMizFmombPE9xlgvefB3`
+Snapshot ID: `AAAMDCXRn2lTzlHRUr1+P3nxspj6mdXy`

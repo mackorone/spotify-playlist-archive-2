@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 52 | [¿En Qué Estaba Pensando?](https://open.spotify.com/track/6ymHCtK4kTyGPzZxVbuUNn) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Rey del Despecho](https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt) | 2:57 |
 | 53 | [El Migajero](https://open.spotify.com/track/0ie7ujONjpBeKcDs8VoaNW) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Gravedad](https://open.spotify.com/album/2OwsYFE6lN5idbIGI8eFSg) | 3:19 |
 | 54 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
-| 55 | [Íbamos Tan Bien](https://open.spotify.com/track/7vDIOz22TD2kld9oLORFWz) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Íbamos Tan Bien](https://open.spotify.com/album/3k4TedwbtB4Nn74ii8Q50w) | 3:03 |
-| 56 | [El Bolero](https://open.spotify.com/track/1sS6eNZnp8cmgVNd5gnsVm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 3:15 |
+| 55 | [El Bolero](https://open.spotify.com/track/1sS6eNZnp8cmgVNd5gnsVm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MudaH](https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ) | 3:15 |
+| 56 | [Íbamos Tan Bien](https://open.spotify.com/track/7vDIOz22TD2kld9oLORFWz) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Íbamos Tan Bien](https://open.spotify.com/album/3k4TedwbtB4Nn74ii8Q50w) | 3:03 |
 | 57 | [Mentira No Es](https://open.spotify.com/track/5FCgAX7k4f3FxlMWj7WIEw) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Mentira No Es](https://open.spotify.com/album/3ci1tvSNex0gbdl7JwiOSO) | 2:50 |
 | 58 | [Tragos En Mi Mesa](https://open.spotify.com/track/4F8RQF4VdR0WWuv1OfCIW3) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4RmBffeqCWf8nG39vydGv7) | 3:17 |
 | 59 | [Top 3](https://open.spotify.com/track/493nGQfnCmfvxD2s8VC59m) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Top 3](https://open.spotify.com/album/3JOf9ABKYYD2hiCdUMLsDB) | 3:10 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 116 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 117 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcgzlAAAAADauHi7L00BmlhTYuGeuhYO`
+Snapshot ID: `Acg5NAAAAABc1HNbA1QkoxB/D8I+fqNG`

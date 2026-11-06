@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-215 songs - 14 hr 40 min
+216 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 | 2026-03-31 |  |
 | [Broken Arrows \- Portico Quartet Rework](https://open.spotify.com/track/20h3zih9fIOMvupdSsBawu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Broken Arrows \(Portico Quartet Rework\)](https://open.spotify.com/album/3M64RZHX596gZE5KCyhUtd) | 5:52 | 2025-08-28 | 2025-11-13 |
 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 | 2021-10-15 | 2023-08-02 |
+| [Built Upon a Path](https://open.spotify.com/track/2aZfAQZ6h2NATlmygYEfEh) | [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh) | [To Understand The Why](https://open.spotify.com/album/6x2lvuSvHLtdYOxjBxg9Q7) | 2:12 | 2026-11-05 |  |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2021-10-15 |  |
 | [Cardano Circles](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Seme](https://open.spotify.com/album/61qvmOwUqxttEs99FGShmn) | 3:45 | 2024-03-01 | 2024-11-01 |
 | [CARONTE](https://open.spotify.com/track/7FdNsT55XUVcJtPAfNUXhk) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [LP5](https://open.spotify.com/album/5q1fLCH66wHNsoiAVfaPJ8) | 4:40 | 2021-10-15 | 2022-06-25 |
@@ -186,7 +187,7 @@
 | [Tell Me \- Pt\. 1 / Endel Chill Soundscape](https://open.spotify.com/track/1dQEuPyUXdo0UnXXk098DU) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven \(Endel Chillout Soundscape\)](https://open.spotify.com/album/1aNEVZZJsa4nFR9D3N6WXm) | 3:07 | 2023-11-17 | 2024-01-13 |
 | [Temple Deadbeat](https://open.spotify.com/track/4HayGBr8v4oLrS4bd22iWW) | [Bit Cloudy](https://open.spotify.com/artist/7hNjsQs0YPZVgdjkFRGCJX) | [Temple Deadbeat](https://open.spotify.com/album/2Bn0eO0ziBsiQsRcUCnW1s) | 4:45 | 2021-10-15 | 2022-07-29 |
 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 | 2021-10-15 | 2023-11-17 |
-| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-12-13 |  |
+| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-12-13 | 2026-11-06 |
 | [The Power](https://open.spotify.com/track/3dbRz4RjoPFpJP2mKsNdSN) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [The Power](https://open.spotify.com/album/6EFIdOL19pRkRyCjG8O9Pz) | 4:14 | 2021-10-15 | 2022-07-15 |
 | [The Shape Of Memory](https://open.spotify.com/track/2ZpFFr4Sgch7Gd1Z8MCtcB) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Feeling Is Structure](https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps) | 4:38 | 2026-05-07 |  |
 | [Think About What You Love](https://open.spotify.com/track/6pSzOFRKPabWwBq0B3NgJ7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Song For Alpha \(B\-Sides & Remixes\)](https://open.spotify.com/album/3TmEZZRORnWbgpeFKRO6QU) | 4:56 | 2021-10-15 | 2022-07-29 |

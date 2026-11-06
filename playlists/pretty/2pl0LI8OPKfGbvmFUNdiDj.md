@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,325 likes - 57 songs - 3 hr 6 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,327 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 55 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
 | 56 | [Good but not Okay](https://open.spotify.com/track/6hlWLgVkAF5KZzEPs0L1TW) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [Good but not Okay](https://open.spotify.com/album/1VRcZudvyYyffx3Oy4RdPF) | 2:56 |
 | 57 | [Quien Eres Tu](https://open.spotify.com/track/7wLDuGIKohd5uL2XS6aElg) | [Rasir Srv](https://open.spotify.com/artist/7IRwEoQapVLubr4u4KW8g8), [Lui Santana](https://open.spotify.com/artist/34lCY8BwfxQNjwCk61O0S3) | [Kenopsia](https://open.spotify.com/album/6DwiVyuMjmYVilA52OqiBP) | 3:46 |
+| 58 | [Out of Sight Out of Mind](https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf) | [Out of Sight Out of Mind](https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ) | 2:31 |
 
-Snapshot ID: `AAAEnU1a1xUzBtirxP1iAE1tcSq+fSbG`
+Snapshot ID: `AAAEns2yGWbSQuhO4vX1UJd50LpUlxvr`

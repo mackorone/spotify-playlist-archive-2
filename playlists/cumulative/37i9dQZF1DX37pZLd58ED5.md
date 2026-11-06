@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Sfera Ebbasta
 
-398 songs - 20 hr 13 min
+399 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Polvere \(feat\. Capo Plaza\)](https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Vita Vera Mixtape](https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9) | 4:12 | 2022-04-28 | 2026-04-25 |
 | [Polvere Rosa](https://open.spotify.com/track/0fR79MubHtwcEiGJzUw8Au) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:35 | 2026-04-09 |  |
 | [Popolari](https://open.spotify.com/track/6wLykMAs7JTfhvdWmPhGSW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/7pVRdGC80oCPudqzziRSxq) | 3:42 | 2024-03-07 | 2024-06-28 |
+| [Poter scegliere](https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:20 | 2026-11-05 |  |
 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 | 2026-02-25 |  |
 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 | 2022-04-28 | 2026-04-25 |
 | [punto a capo \(feat\. Low\-Red\)](https://open.spotify.com/track/3kZRvhg9rrM7AFRMO8zAcb) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [quore](https://open.spotify.com/album/3jTdiZNoaP6aVyCavTS2to) | 2:43 | 2026-07-30 | 2026-10-30 |

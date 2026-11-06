@@ -1657,6 +1657,28 @@
     },
     {
       "album": {
+        "name": "Melodies of Provence - The Films of Marcel Pagnol",
+        "url": "https://open.spotify.com/album/5JqCyf8DbBy8RWl3SFKX69"
+      },
+      "artists": [
+        {
+          "name": "Orchestre national de Cannes",
+          "url": "https://open.spotify.com/artist/7wStDxALwEwWzga41B7NpR"
+        },
+        {
+          "name": "Benjamin Levy",
+          "url": "https://open.spotify.com/artist/2YOZcFWhvdRmuGSERI0VhF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "Na\u00efs",
+      "url": "https://open.spotify.com/track/386xiYDH51DUHjKBySZ5K6"
+    },
+    {
+      "album": {
         "name": "Nocturne in E-Flat Major, Op. 9, No. 2",
         "url": "https://open.spotify.com/album/03BGb4cBD5kWEg8Dng7pFs"
       },

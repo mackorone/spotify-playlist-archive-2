@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist\. Cover: Issah
 
-939 songs - 1 day 23 hr 5 min
+940 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Bad Behaviour](https://open.spotify.com/track/3lG94qBfaZGcO5Pbz4UTfO) | [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Blow](https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Doris](https://open.spotify.com/album/3Xc09hPzm3HsCtOakaOTOO) | 3:22 | 2024-06-18 | 2024-06-27 |
 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 | 2025-09-15 | 2026-06-09 |
 | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/track/7KF8mOuWc31dUxtPyUng1c) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA) | 2:38 | 2025-07-09 | 2025-10-22 |
-| [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 | 2026-09-24 |  |
+| [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 | 2026-09-24 | 2026-11-06 |
+| [BADDIES IN HOLLANDA](https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [BADDIES IN HOLLANDA](https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5) | 2:05 | 2026-11-05 |  |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-02-23 | 2023-03-07 |
 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 | 2025-05-08 | 2025-11-25 |
 | [Baille](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Baille](https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs) | 2:33 | 2025-05-06 | 2025-10-17 |

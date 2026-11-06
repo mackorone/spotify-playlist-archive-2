@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The voices shaping R&B. Cover: Mahalia",
+  "description": "The voices shaping R&B. Cover: Joyce Wrice",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152727,
       "name": "Critical Condition",
       "url": "https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh"
@@ -10323,6 +10323,24 @@
     },
     {
       "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "album": {
         "name": "Kehlani",
         "url": "https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU"
       },
@@ -13140,10 +13158,32 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191809,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc"
+    },
+    {
+      "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227298,
+      "name": "Wish I Knew - feat. Odeal",
+      "url": "https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2"
     },
     {
       "album": {

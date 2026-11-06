@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 59002,
+  "num_followers": 59010,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADXRrQVg+ycukrIVzNyrk9S",
+  "snapshot_id": "aukkAAAAAACm7mpe0YcxEyZaQ2UsSsDA",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "He's Not On His Knees Yet",
+      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Your Glory",
         "url": "https://open.spotify.com/album/3fNNAjL8EF75DfXo8k8ySZ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 203807,
       "name": "For Your Glory",
       "url": "https://open.spotify.com/track/70VJujLz2uUo28xWNuc7ID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "He's Not On His Knees Yet",
-      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 282426,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "His Strength Is Perfect",
-      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hymns",
         "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 253337,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "His Strength Is Perfect",
+      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 51466,
       "name": "Fill My Cup",
       "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 635360,
-      "name": "King of Glory - Live",
-      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 288866,
       "name": "It Wasn't Easy",
       "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 635360,
+      "name": "King of Glory - Live",
+      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
     },
     {
       "added_at": null,

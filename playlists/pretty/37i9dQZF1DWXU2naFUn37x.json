@@ -1,15 +1,15 @@
 {
   "description": "Nabi e LILCR in cover della playlist dello street rap italiano \u26d3\ufe0f",
-  "num_followers": 918430,
+  "num_followers": 918405,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmPAX/dAeH+cdUkmL2REzqiAULa",
+  "snapshot_id": "AAAAAO+VxUGNJuRF0kt6uS735GXTGgzS",
   "tracks": [
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "KICHTA LOVA (feat. LILCR)",
         "url": "https://open.spotify.com/album/4Hlww8NVHkkijLwDaZu7Pf"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2bnG45ztHV2m26JsN3QyBi"
     },
     {
-      "added_at": "2026-10-22 22:02:36",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2"
     },
     {
-      "added_at": "2026-10-29 23:02:20",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Anche gli Eroi Muoiono Post Mortem",
         "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4inV3hMxNSRxY2gE5FIVMO"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Vangelo",
         "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
@@ -105,7 +105,27 @@
       "url": "https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "CHROME HEARTS (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5"
+    },
+    {
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "JUNKIE MUSIK",
         "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
@@ -129,55 +149,27 @@
       "url": "https://open.spotify.com/track/4tcYbNYBWbhm50IECpySl2"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
-        "name": "Adaver",
-        "url": "https://open.spotify.com/album/6ymcXECKZ5zTBtxG4eccCa"
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
       },
       "artists": [
-        {
-          "name": "Young Hash",
-          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
-        },
-        {
-          "name": "Mothz",
-          "url": "https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu"
-        },
-        {
-          "name": "Ksub",
-          "url": "https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ"
-        },
         {
           "name": "Kid Yugi",
           "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Baghdad (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/2Q4mwPVCB1mtFDnH0R6YqH"
-    },
-    {
-      "added_at": "2026-10-15 22:02:50",
-      "album": {
-        "name": "WAR",
-        "url": "https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
         },
         {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
         }
       ],
-      "duration_ms": 164000,
-      "name": "CHROME HEARTS (feat. Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5"
+      "duration_ms": 178993,
+      "name": "DISOBBEDIRE! (feat. 18K)",
+      "url": "https://open.spotify.com/track/7gOPPSiPMAzVV395MZMicg"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "SENZA IMPEGNO (feat. Gu\u00e8)",
         "url": "https://open.spotify.com/album/4vYsJJ7wmoqcqEx8oPtr8j"
@@ -197,7 +189,7 @@
       "url": "https://open.spotify.com/track/4I49zIYbsUEjINYlPX6E7s"
     },
     {
-      "added_at": "2026-10-29 23:02:20",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Zombieland (feat. Tony Boy, Capo Plaza & Skrilla)",
         "url": "https://open.spotify.com/album/6AAzlNE5T2QMg70rrWt8Rc"
@@ -225,7 +217,7 @@
       "url": "https://open.spotify.com/track/0UEajqGMqE7K6ADUUprM1S"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Players Club '26 (feat. Lubi, Over Lapa, Flaco G, G. Mineiro, 18K, Macello , Enny P & Alkhazar)",
         "url": "https://open.spotify.com/album/4vlDIuxI7J7Fik96MtlrZV"
@@ -273,7 +265,35 @@
       "url": "https://open.spotify.com/track/6uiUHaFq47uTQft7tjWgSr"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
+      "album": {
+        "name": "Adaver",
+        "url": "https://open.spotify.com/album/6ymcXECKZ5zTBtxG4eccCa"
+      },
+      "artists": [
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "Mothz",
+          "url": "https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu"
+        },
+        {
+          "name": "Ksub",
+          "url": "https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Baghdad (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/2Q4mwPVCB1mtFDnH0R6YqH"
+    },
+    {
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "DAL TACCO",
         "url": "https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq"
@@ -289,23 +309,7 @@
       "url": "https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
-      "album": {
-        "name": "Nerissima",
-        "url": "https://open.spotify.com/album/43Aj35vCAMw4FKz25crj6R"
-      },
-      "artists": [
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        }
-      ],
-      "duration_ms": 156551,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/4SOgLhQFW025acXu4HUGMn"
-    },
-    {
-      "added_at": "2026-10-22 22:02:36",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "LA TAVOLA DELL'UMORE",
         "url": "https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra"
@@ -333,7 +337,7 @@
       "url": "https://open.spotify.com/track/4fBp2Ky7Sp0a2XqjCIcvl5"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "SWAG MUSIC",
         "url": "https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10"
@@ -349,23 +353,35 @@
       "url": "https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4"
     },
     {
-      "added_at": "2026-11-02 10:00:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
-        "name": "DEMONIO, IN ATTESA DELLA GRAZIA",
-        "url": "https://open.spotify.com/album/2RMDPRIrOSNsx7xSPDsf5g"
+        "name": "TRE RAVER (feat. Pitta & Macello)",
+        "url": "https://open.spotify.com/album/18oR96XWj2u7rEQUrrrwUM"
       },
       "artists": [
         {
-          "name": "Dagood YL",
-          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "Maska",
+          "url": "https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7"
         }
       ],
-      "duration_ms": 138205,
-      "name": "DENTRO L\u2019AUDI",
-      "url": "https://open.spotify.com/track/2fxBFr29Aftett7pFBb7fK"
+      "duration_ms": 186083,
+      "name": "TRE RAVER (feat. Pitta & Macello)",
+      "url": "https://open.spotify.com/track/6Dz2HTbnieFWlLcoBdvlwV"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "BURRO SALATO",
         "url": "https://open.spotify.com/album/6fNFd6hR0qpHUR4hUKaM3L"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/7qWjf4jwAZKYqtBFqCxvWN"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "DEMONIO",
         "url": "https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "whereimat (feat. Artie 5ive)",
         "url": "https://open.spotify.com/album/2TJrTpi61AGsclH2iIDXbv"
@@ -417,27 +433,23 @@
       "url": "https://open.spotify.com/track/3tTY52nqC2AHVgAoaThfe6"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
-        "name": "A MILANO",
-        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/43Aj35vCAMw4FKz25crj6R"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Promessa",
-          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
         }
       ],
-      "duration_ms": 168881,
-      "name": "DA PALAZZO A PALAZZO (con Promessa)",
-      "url": "https://open.spotify.com/track/7seY4zshB3BNx70uLHqT6a"
+      "duration_ms": 156551,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/4SOgLhQFW025acXu4HUGMn"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "THE GOLDFATHER",
         "url": "https://open.spotify.com/album/1kjxKHn2DY0X7NACBGHsJo"
@@ -457,7 +469,7 @@
       "url": "https://open.spotify.com/track/36GrJGQRZpCi1Imsnz2NkN"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "JUNKIE MUSIK",
         "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
@@ -481,7 +493,27 @@
       "url": "https://open.spotify.com/track/7lQrtVBb0bXC6pFwIHzPaZ"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
+      "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/0IjYusIHjDPk8wvUDlPcvW"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "duration_ms": 168881,
+      "name": "DA PALAZZO A PALAZZO (con Promessa)",
+      "url": "https://open.spotify.com/track/7seY4zshB3BNx70uLHqT6a"
+    },
+    {
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "THE GOLDFATHER GDELUXE",
         "url": "https://open.spotify.com/album/5Zo7IKh9LW3DzHaZRih40f"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/4FDaC2kkKoInQEqaQWQbDj"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Vangelo",
         "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
@@ -517,7 +549,23 @@
       "url": "https://open.spotify.com/track/1V8SElaiJmR7SJiGELr6Rc"
     },
     {
-      "added_at": "2026-10-22 22:02:36",
+      "added_at": "2026-11-05 23:02:39",
+      "album": {
+        "name": "DEMONIO, IN ATTESA DELLA GRAZIA",
+        "url": "https://open.spotify.com/album/2RMDPRIrOSNsx7xSPDsf5g"
+      },
+      "artists": [
+        {
+          "name": "Dagood YL",
+          "url": "https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw"
+        }
+      ],
+      "duration_ms": 138205,
+      "name": "DENTRO L\u2019AUDI",
+      "url": "https://open.spotify.com/track/2fxBFr29Aftett7pFBb7fK"
+    },
+    {
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "STUPIDO (feat. Salmo, 18K, Macello, Dani Faiv, Pitta)",
         "url": "https://open.spotify.com/album/2AxlGwK0dGdC68h6sKDJw7"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/237MIJpSpjNeApDFloqgwg"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Adaver",
         "url": "https://open.spotify.com/album/6ymcXECKZ5zTBtxG4eccCa"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/2Al1pe90XPC5SEN4EqjqHl"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "bandiera rossa #302 (feat. LILCR)",
         "url": "https://open.spotify.com/album/28u6QPHSrQO22FBiFQV0xj"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/4kFGd9eUMejybpvXCw8qHU"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "4 Gambe",
         "url": "https://open.spotify.com/album/3CIAryrsaEFI1hPdPsUPvQ"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "JUNKIE MUSIK",
         "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
@@ -645,7 +693,23 @@
       "url": "https://open.spotify.com/track/4mydj4ouiB2obk6NQZLwGz"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
+      "album": {
+        "name": "KILO2",
+        "url": "https://open.spotify.com/album/2Y6fV8zDcwjj3x8HGhWXfR"
+      },
+      "artists": [
+        {
+          "name": "twentyone21",
+          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
+        }
+      ],
+      "duration_ms": 136719,
+      "name": "PALO",
+      "url": "https://open.spotify.com/track/2mctUmYVnBId0ranZEedmo"
+    },
+    {
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "PUGNO DI FERRO (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/4MlSAvlzXNBHfLCyCQS2i6"
@@ -661,7 +725,7 @@
       "url": "https://open.spotify.com/track/1ZBUgZQjNcn367VktdxdAB"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "SANTISSIMO",
         "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
@@ -681,7 +745,7 @@
       "url": "https://open.spotify.com/track/10nZU1tAX7XepntuYDJUVO"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "MILLION DOLLAR BABE",
         "url": "https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5"
@@ -705,7 +769,7 @@
       "url": "https://open.spotify.com/track/3nZ1pM1DxcfAAf9QxIhnpo"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Guerra 2",
         "url": "https://open.spotify.com/album/0221RjDxkUA2ilJdrjUqke"
@@ -725,23 +789,7 @@
       "url": "https://open.spotify.com/track/41Am9Wf5VPGbKZwzq0mxrT"
     },
     {
-      "added_at": "2026-10-22 22:02:36",
-      "album": {
-        "name": "SUL KILO",
-        "url": "https://open.spotify.com/album/0NNqX9oru5jbkAXLymOeU9"
-      },
-      "artists": [
-        {
-          "name": "twentyone21",
-          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
-        }
-      ],
-      "duration_ms": 177314,
-      "name": "SUL KILO",
-      "url": "https://open.spotify.com/track/7q1jcY9S2RQw83wXopl9LB"
-    },
-    {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Miria",
         "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
@@ -761,23 +809,7 @@
       "url": "https://open.spotify.com/track/1eLDswtuYz5COqLRXyGOcv"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
-      "album": {
-        "name": "64 BARRE DI TERRORE (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/4PnI5eaXxjq92nlWpdifek"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "64 BARRE DI TERRORE (Red Bull 64 Bars)",
-      "url": "https://open.spotify.com/track/3mBdOTUyDnayURcWfUgrXH"
-    },
-    {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Vangelo",
         "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
@@ -797,7 +829,7 @@
       "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Nerissima",
         "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Tocco Pitocco",
         "url": "https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/0gYffd4envdyCft10iF45g"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Blatte",
         "url": "https://open.spotify.com/album/6qnVG5gaUiYY0qaxvXFQ8W"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/2rO2UamSwPb7hgfkHxVIOR"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "KING OF DARK",
         "url": "https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Anche gli Eroi Muoiono",
         "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
@@ -893,7 +925,7 @@
       "url": "https://open.spotify.com/track/4gYOPsRynx7hXQm5q47o04"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh"
@@ -913,23 +945,7 @@
       "url": "https://open.spotify.com/track/6Roni9ASPjKcY7DYz7LAAh"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
-      "album": {
-        "name": "SUV",
-        "url": "https://open.spotify.com/album/4ckE0LUiPGe3qOL4PXxbYb"
-      },
-      "artists": [
-        {
-          "name": "Over Lapa",
-          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
-        }
-      ],
-      "duration_ms": 147744,
-      "name": "SUV",
-      "url": "https://open.spotify.com/track/61N4BUIESLOQ8MGH7ltnAf"
-    },
-    {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Scendo E Cerco Un\u2019Altra",
         "url": "https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "NO REGULAR MUSIC 2",
         "url": "https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Anche gli Eroi Muoiono",
         "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6Nr1XULPuJgumCyXBEfcgx"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
         "url": "https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu"
@@ -1069,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
     },
     {
-      "added_at": "2026-10-15 22:02:50",
+      "added_at": "2026-11-05 23:02:39",
       "album": {
         "name": "Take 6",
         "url": "https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N"

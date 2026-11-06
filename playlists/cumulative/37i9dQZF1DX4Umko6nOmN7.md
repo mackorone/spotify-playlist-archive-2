@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-199 songs - 10 hr 42 min
+200 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [för oss](https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [för oss](https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV) | 3:01 | 2024-06-27 |  |
 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 | 2024-06-27 |  |
 | [Genom livet](https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Genom livet](https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ) | 2:47 | 2024-06-27 |  |
+| [Goodbye To A Lover Again](https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Goodbye To A Lover Again](https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4) | 2:19 | 2026-11-05 |  |
 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 | 2026-03-02 | 2026-04-27 |
 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2024-06-27 |  |
 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 | 2024-06-27 | 2024-07-30 |
@@ -110,7 +111,7 @@
 | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/track/5107Vxr0Cz7tNWf5lY2n6O) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/album/2k9ErKiTKBZZEOszz2g49C) | 3:24 | 2024-08-08 | 2024-10-15 |
 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2024-06-27 |  |
 | [It's a Beautiful Dream](https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 2:53 | 2024-06-27 |  |
-| [It's Not Easy to Write a Love Song](https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [It's Not Easy to Write a Love Song](https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN) | 3:01 | 2024-06-27 |  |
+| [It's Not Easy to Write a Love Song](https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [It's Not Easy to Write a Love Song](https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN) | 3:01 | 2024-06-27 | 2026-11-06 |
 | [It's Not My Fault](https://open.spotify.com/track/759I7gXSRfrXFpXTqovwMa) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Salt](https://open.spotify.com/album/2Qyj2igDUVDUsTiteIIrer) | 2:40 | 2025-02-06 | 2025-03-27 |
 | [Jag borde gå](https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jag borde gå](https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw) | 3:37 | 2024-10-10 | 2025-01-18 |
 | [Jag vet, du är inte min](https://open.spotify.com/track/0KuiK2NQAtpjV6bJMr6zBs) | [Jacub](https://open.spotify.com/artist/7ifEkzjmxo75vYZ6y61NqN) | [Jag vet, du är inte min](https://open.spotify.com/album/2t78jimVrksrBXe0yiP2j3) | 3:19 | 2025-12-09 | 2025-12-18 |

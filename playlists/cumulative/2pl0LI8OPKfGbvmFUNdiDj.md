@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-615 songs - 1 day 10 hr 52 min
+616 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2025-12-22 | 2026-01-15 |
 | [Orbit](https://open.spotify.com/track/73Bv1zWG07mVOuRMY9Hyhx) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [Orbit](https://open.spotify.com/album/7I6IVz3d9uV2G54Hu0hQLh) | 3:58 | 2026-08-25 |  |
 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-12-09 | 2026-01-05 |
+| [Out of Sight Out of Mind](https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf) | [Out of Sight Out of Mind](https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ) | 2:31 | 2026-11-05 |  |
 | [Paranoia](https://open.spotify.com/track/6CM6qw4O87GLSeB3QN5qNK) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Paranoia](https://open.spotify.com/album/2LMkARZTUDgGgbaiexYWsH) | 3:24 | 2025-12-28 | 2026-01-25 |
 | [Paranoia](https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Paranoia](https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR) | 2:45 | 2026-10-05 |  |
 | [Perdu dans ma toile](https://open.spotify.com/track/7MrFMCAUuaOe2qDvzAJJMH) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:43 | 2025-12-23 | 2026-01-15 |

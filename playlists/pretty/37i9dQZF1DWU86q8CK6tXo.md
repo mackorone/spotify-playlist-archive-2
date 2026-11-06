@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Josie Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,660 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,654 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 25 | [Expensive & Difficult](https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:49 |
 | 26 | [Get Hit](https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Get Hit](https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch) | 1:54 |
 | 27 | [Pearl Handled Pistol](https://open.spotify.com/track/41GhpkO9gNs5qtNahVhmhk) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4), [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Cherry Valley Forever](https://open.spotify.com/album/3CSN4KvS0G5KmDXLK8swXU) | 4:19 |
-| 28 | [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 |
-| 29 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 28 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 29 | [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 |
 | 30 | [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 |
 | 31 | [BANDERA BLANCA](https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 3:04 |
 | 32 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 |
 | 50 | [Sleeping with My Boots On](https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Lucky to Be](https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv) | 2:08 |
 | 51 | [8 FEET TALL \(feat\. Rico Nasty\)](https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu) | [ERISTHEPLANET](https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [IT REALLY DO BE THAT DAMN PHONE](https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb) | 1:54 |
-| 52 | [Sugar Trap](https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3) | 3:09 |
-| 53 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 |
+| 52 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 |
+| 53 | [Sugar Trap](https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3) | 3:09 |
 | 54 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
 
 Snapshot ID: `AAAAAB5/WVdA3qazSrIl91D1kOBy0nn+`

@@ -2,9 +2,9 @@
 
 ### [PRIDE France](https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP)
 
-> La playlist des artistes LGBTQIA+\. Photo : Piche
+> La playlist des artistes LGBTQIA+\. Photo : Suzane
 
-143 songs - 7 hr 29 min
+145 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [antidote](https://open.spotify.com/track/0fg5YlwJeWVOruyXuYcLbl) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [antidote](https://open.spotify.com/album/2BSPPL1xSGEUFBDLqeTADD) | 3:18 | 2026-06-21 | 2026-09-14 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-05-26 | 2026-06-08 |
 | [Baise Platine](https://open.spotify.com/track/0rLBY1cGRusn8K39MsKqLC) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Baise Platine](https://open.spotify.com/album/1Vp7l8D5UVUdhM0gEkFM3S) | 3:38 | 2024-06-04 | 2025-05-27 |
+| [baisers puissants](https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [la maison s'effondre](https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP) | 3:09 | 2026-11-05 |  |
 | [BALLERINES DE BOURGE](https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD), [Tess Kirby](https://open.spotify.com/artist/173QAn9N2bN4CJ6LJEoeO3) | [BALLERINES DE BOURGE](https://open.spotify.com/album/1JQxGJxzNukKrEiD6jC2qY) | 2:51 | 2026-06-07 | 2026-06-22 |
-| [Beaucoup](https://open.spotify.com/track/0Ql9OMKwFzW1y8Ljx4XU26) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Beaucoup](https://open.spotify.com/album/6YdzYiE9zEmoBAslQowFBL) | 2:40 | 2026-06-07 |  |
+| [Beaucoup](https://open.spotify.com/track/0Ql9OMKwFzW1y8Ljx4XU26) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Beaucoup](https://open.spotify.com/album/6YdzYiE9zEmoBAslQowFBL) | 2:40 | 2026-06-07 | 2026-11-06 |
 | [Behind A Tree](https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Behind A Tree](https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn) | 4:46 | 2026-06-21 |  |
 | [Belles et Fières](https://open.spotify.com/track/4O9qqrDkmcObUGpBHpcNwy) | [The Cast of Drag Race France](https://open.spotify.com/artist/0I194yud9E8kWYVFBX95mI), [Olivia Stone](https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI) | [Belles et Fières](https://open.spotify.com/album/3cP83ovdSuPppylRN1bgPi) | 3:29 | 2026-07-13 |  |
 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:02 | 2026-06-07 |  |
@@ -73,7 +74,7 @@
 | [I'M READY](https://open.spotify.com/track/1QZXAnAMpys425p19UWlUH) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [I'M READY](https://open.spotify.com/album/0aEO7eknTMcfJJiYk0pYxN) | 3:02 | 2024-07-03 | 2024-10-19 |
 | [In Your Head \(La Di Da Da\)](https://open.spotify.com/track/6hNCCCELgZzldNHCZs4ptk) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [APOLLO • ARTEMIS](https://open.spotify.com/album/4fyP2Rofo56yZLfS1dIOEA) | 2:47 | 2026-06-07 |  |
 | [J'tomberai pas](https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Panorama](https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5) | 3:08 | 2024-06-04 | 2026-06-08 |
-| [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 | 2026-07-13 |  |
+| [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 | 2026-07-13 | 2026-11-06 |
 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 | 2026-06-07 |  |
 | [Je t'accuse](https://open.spotify.com/track/4QPBfQaSKEw56Vvo0i2XsL) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Je t'accuse](https://open.spotify.com/album/5AV57sv3V86WhdZhUTrdEh) | 2:49 | 2025-05-26 | 2026-06-08 |
 | [k.o\. \(sale atterrissage\)](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 3:05 | 2026-10-22 |  |
@@ -129,6 +130,7 @@
 | [Recommence\-moi](https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:16 | 2025-05-26 | 2026-06-08 |
 | [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-06-04 | 2024-10-19 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2024-06-04 | 2025-05-27 |
+| [Safe Place](https://open.spotify.com/track/7jjruEbGo9aLEjzYgECyeb) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Safe Place](https://open.spotify.com/album/0jOs47HDY6ldbiVhtM0ipD) | 3:02 | 2026-11-05 |  |
 | [salt water so sweet](https://open.spotify.com/track/4mvWkf00ysZPqFcBpPKMd8) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [at my softest i am most dangerous](https://open.spotify.com/album/0aWjRhCvvBQgXS8ZOe074m) | 4:01 | 2026-06-07 | 2026-07-14 |
 | [Show Me Love](https://open.spotify.com/track/2S8zGKKeoSwgyrVoW9Wbo3) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Everything Tasteful](https://open.spotify.com/album/5pgnrJou1USLiQ2C1wU30o) | 2:41 | 2024-06-04 | 2025-05-27 |
 | [SLUT \( i just wanna fuck \)](https://open.spotify.com/track/2ewATJlDAVistbrs1gqU7z) | [Yanka](https://open.spotify.com/artist/5yAgNwxoOxbPpKdgaY7Ro6), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [SLUT \( i just wanna fuck \)](https://open.spotify.com/album/5UrdHHdQSdnjqeNB8wz3b7) | 2:50 | 2026-06-21 |  |

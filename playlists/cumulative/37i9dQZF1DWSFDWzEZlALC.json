@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Baumgart",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Mika No\u00e9",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Anders",
+        "url": "https://open.spotify.com/album/6i0YLIOMabvS8sjunavN3i"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "Anders",
+      "url": "https://open.spotify.com/track/3qfrRwgjq4qyb0bywkTWOR"
+    },
+    {
+      "album": {
         "name": "anders",
         "url": "https://open.spotify.com/album/1jRWxXjmujCr4tbC38cuto"
       },
@@ -3666,7 +3684,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150023,
       "name": "Bali Boi",
       "url": "https://open.spotify.com/track/0KgtaX0W8X8qPxP59wea2F"
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140949,
       "name": "BEL AMI",
       "url": "https://open.spotify.com/track/1WCfhEsAlPbZvpFC3ELQb3"
@@ -5036,7 +5054,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 281073,
       "name": "Blue Nacht",
       "url": "https://open.spotify.com/track/4j5P5kT5bnfHgrpRhWoET7"
@@ -6066,6 +6084,24 @@
       "duration_ms": 141500,
       "name": "copyshop",
       "url": "https://open.spotify.com/track/6oZ5yazbBudOJyeY5uMcrc"
+    },
+    {
+      "album": {
+        "name": "Countrysong",
+        "url": "https://open.spotify.com/album/3xaMJ5hWYW32vF6IlNg9Mv"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177019,
+      "name": "Countrysong",
+      "url": "https://open.spotify.com/track/4y0phObRg4w3BceS1BNNFf"
     },
     {
       "album": {
@@ -10526,7 +10562,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 147500,
       "name": "Fang mich doch",
       "url": "https://open.spotify.com/track/2tRnGN7OZUe46vNlu9p5Xg"
@@ -11014,7 +11050,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 216000,
       "name": "Fichtenholz",
       "url": "https://open.spotify.com/track/6RK7JQmE5apBvnDp2JuEvz"
@@ -12334,7 +12370,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179432,
       "name": "F\u00fcr mich da",
       "url": "https://open.spotify.com/track/62uqgOBogBNLWhffFgoALj"
@@ -12572,6 +12608,24 @@
       "duration_ms": 143007,
       "name": "Gefunden (Outro)",
       "url": "https://open.spotify.com/track/2fqoejpJIs9us6pzXT38zl"
+    },
+    {
+      "album": {
+        "name": "Gef\u00e4hrlich",
+        "url": "https://open.spotify.com/album/5sgV50iP36EcpWZJIY8kBI"
+      },
+      "artists": [
+        {
+          "name": "Luftlinie270",
+          "url": "https://open.spotify.com/artist/6SWVilo40Nph8i52kUuAtI"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184011,
+      "name": "Gef\u00e4hrlich",
+      "url": "https://open.spotify.com/track/5DGaVKkuVslScBNxUTfbOO"
     },
     {
       "album": {
@@ -13354,6 +13408,24 @@
       "duration_ms": 153000,
       "name": "gloria",
       "url": "https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ"
+    },
+    {
+      "album": {
+        "name": "GL\u00dcCKLICH",
+        "url": "https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127173,
+      "name": "GL\u00dcCKLICH",
+      "url": "https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7"
     },
     {
       "album": {
@@ -14757,6 +14829,24 @@
     },
     {
       "album": {
+        "name": "hei\u00dfer regen / l\u00fcg mich an",
+        "url": "https://open.spotify.com/album/6CQODghLtkiy8Imw3kp1tU"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "hei\u00dfer regen",
+      "url": "https://open.spotify.com/track/6XPv3jtoikDX7hWrJkUHYI"
+    },
+    {
+      "album": {
         "name": "helden",
         "url": "https://open.spotify.com/album/0sXdARjWxj1EhNxUBOzUXR"
       },
@@ -15482,7 +15572,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140519,
       "name": "Ich bin bereit",
       "url": "https://open.spotify.com/track/6vUGqsRaRej1NzAr2lxtsx"
@@ -15768,7 +15858,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 147986,
       "name": "Ich hab jeder KI von dir erz\u00e4hlt",
       "url": "https://open.spotify.com/track/4VEOgPWhpQYVn3DsBDdCWR"
@@ -16566,6 +16656,24 @@
       "duration_ms": 146347,
       "name": "Immer Noch Wach",
       "url": "https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l"
+    },
+    {
+      "album": {
+        "name": "mehr als?",
+        "url": "https://open.spotify.com/album/0jyIvgzAdV5l0YPJr37qRf"
+      },
+      "artists": [
+        {
+          "name": "doss",
+          "url": "https://open.spotify.com/artist/5GlfABPVozsdDtqLfaNgGK"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111066,
+      "name": "immer so",
+      "url": "https://open.spotify.com/track/70Vrru7QKWFj21pmKMgXRS"
     },
     {
       "album": {
@@ -19112,6 +19220,24 @@
       "duration_ms": 150205,
       "name": "Kleinstadtpropaganda (feat. EALA)",
       "url": "https://open.spotify.com/track/6ZsnJoFt11a0pmmZSaK7ov"
+    },
+    {
+      "album": {
+        "name": "Klettern am Abgrund",
+        "url": "https://open.spotify.com/album/1Q0VhsyHxQb9Lu9CDFpvaH"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ude",
+          "url": "https://open.spotify.com/artist/0gDG1LlsqO4O5w1ilk2iAH"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126340,
+      "name": "Klettern am Abgrund",
+      "url": "https://open.spotify.com/track/550CKj6b9LGPFBuDcypEJa"
     },
     {
       "album": {
@@ -22580,7 +22706,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 181000,
       "name": "Meine Br\u00fcder fallen vom Himmel",
       "url": "https://open.spotify.com/track/1gQkeYQQcxXv0fHUlE1HeJ"
@@ -23556,7 +23682,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 239152,
       "name": "Nach einem Traum",
       "url": "https://open.spotify.com/track/62obwljLHf1rq96SvIoxQB"
@@ -23970,6 +24096,24 @@
       "duration_ms": 221749,
       "name": "Nicht Gern Allein",
       "url": "https://open.spotify.com/track/0zcHQjv29G0w1fwkBTzMOs"
+    },
+    {
+      "album": {
+        "name": "Nichts bleibt gleich",
+        "url": "https://open.spotify.com/album/3I0svSMwd60TskjGuKq1Nx"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Nichts bleibt gleich",
+      "url": "https://open.spotify.com/track/3RPRjDdDn0KYaAhk1y4hr1"
     },
     {
       "album": {
@@ -25198,7 +25342,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 167081,
       "name": "oktober",
       "url": "https://open.spotify.com/track/2HJGbzD9NRvYV9Hs1qOs6a"
@@ -29416,7 +29560,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164172,
       "name": "Similar",
       "url": "https://open.spotify.com/track/5lxWyhOw9HEmcmuhtbuv95"
@@ -29706,6 +29850,24 @@
       "duration_ms": 108207,
       "name": "so lonely",
       "url": "https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi"
+    },
+    {
+      "album": {
+        "name": "so perfekt wie's geht",
+        "url": "https://open.spotify.com/album/3nW064FqYtOiLbqoehGOCu"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94426,
+      "name": "so perfekt wie's geht",
+      "url": "https://open.spotify.com/track/0fOMvPk1n8rQRtlmIidqrd"
     },
     {
       "album": {
@@ -36143,6 +36305,24 @@
     },
     {
       "album": {
+        "name": "wie du lachst",
+        "url": "https://open.spotify.com/album/5cskznnPkSgFUpYCyLZMnd"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162506,
+      "name": "wie du lachst",
+      "url": "https://open.spotify.com/track/4c7K6XPBcG1DEDav64fE38"
+    },
+    {
+      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -36984,7 +37164,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140733,
       "name": "WOHER WILLST DU WISSEN",
       "url": "https://open.spotify.com/track/5ZEaZTMz4LKhwutqg3LUjV"
@@ -37063,6 +37243,24 @@
     },
     {
       "album": {
+        "name": "Wunder",
+        "url": "https://open.spotify.com/album/7HodoBv2arjDktFa7f3rGx"
+      },
+      "artists": [
+        {
+          "name": "ELYAS",
+          "url": "https://open.spotify.com/artist/2mPebAIY8nz5NmweVNGuoT"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152299,
+      "name": "Wunder",
+      "url": "https://open.spotify.com/track/4jqUw6U9hrSA7UaySsZGMl"
+    },
+    {
+      "album": {
         "name": "Wunder gibt es immer wieder (Spotify Singles)",
         "url": "https://open.spotify.com/album/6OAFWDVs1NM4GagxZ3TkcH"
       },
@@ -37078,6 +37276,24 @@
       "duration_ms": 161050,
       "name": "Wunder gibt es immer wieder - Spotify Singles",
       "url": "https://open.spotify.com/track/7MXyYrTviFJafV01ieZsE3"
+    },
+    {
+      "album": {
+        "name": "schwarzweiss",
+        "url": "https://open.spotify.com/album/49HiJJPS2Z9Z81Zh4gxH3X"
+      },
+      "artists": [
+        {
+          "name": "Anderswo",
+          "url": "https://open.spotify.com/artist/5h3y3xLjFKmB8LcL5sM74H"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256363,
+      "name": "Wunderkind",
+      "url": "https://open.spotify.com/track/4jpUlXn1ttb3cnMItmie3J"
     },
     {
       "album": {
@@ -37682,6 +37898,24 @@
       "duration_ms": 153985,
       "name": "zu gut",
       "url": "https://open.spotify.com/track/5TM9lVAjcGNYqaGFqIoAJS"
+    },
+    {
+      "album": {
+        "name": "Zu Hause",
+        "url": "https://open.spotify.com/album/0zi0ZHblNXXUykka7rBe2J"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230774,
+      "name": "Zu Hause",
+      "url": "https://open.spotify.com/track/02o5th4gya3WaAHaepeXSN"
     },
     {
       "album": {

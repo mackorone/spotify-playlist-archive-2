@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 646808,
+  "num_followers": 646824,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,18 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -419,18 +411,26 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
       "artists": [
         {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Ikkimel die Geile EP",
-        "url": "https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN"
-      },
-      "artists": [
-        {
-          "name": "Drunken Masters",
-          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
-        },
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        }
-      ],
-      "duration_ms": 176883,
-      "name": "Kein Kokain",
-      "url": "https://open.spotify.com/track/2j5jkTuP2gmqN7hDPkfDDd"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Fast Cars & Superstars",
         "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 118701,
       "name": "Fast Cars & Superstars",
       "url": "https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Ikkimel die Geile EP",
+        "url": "https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN"
+      },
+      "artists": [
+        {
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        }
+      ],
+      "duration_ms": 176883,
+      "name": "Kein Kokain",
+      "url": "https://open.spotify.com/track/2j5jkTuP2gmqN7hDPkfDDd"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "All of the Lights",
-        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
-      },
-      "artists": [
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "All of the Lights",
-      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "tell you straight (Speed Garage)",
         "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 94344,
       "name": "tell you straight - Sped Up",
       "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "All of the Lights",
+        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "All of the Lights",
+      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
         "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
         "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 136551,
       "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
       "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "The Bad Touch 2k20",
-        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Empyre One",
-          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
-        }
-      ],
-      "duration_ms": 160844,
-      "name": "The Bad Touch 2k20",
-      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
         "name": "Bar Song (Tipsy Techno)",
         "url": "https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI"
       },
@@ -1799,18 +1779,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
-        "name": "K\u00fcss mich (Ivo Martin x Techno Mix)",
-        "url": "https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd"
+        "name": "The Bad Touch 2k20",
+        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
       },
       "artists": [
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
         }
       ],
-      "duration_ms": 140200,
-      "name": "K\u00fcss mich - Ivo Martin x Techno Mix",
-      "url": "https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU"
+      "duration_ms": 160844,
+      "name": "The Bad Touch 2k20",
+      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1831,6 +1815,22 @@
       "duration_ms": 92226,
       "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
       "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
+        "name": "K\u00fcss mich (Ivo Martin x Techno Mix)",
+        "url": "https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "duration_ms": 140200,
+      "name": "K\u00fcss mich - Ivo Martin x Techno Mix",
+      "url": "https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU"
     },
     {
       "added_at": "2026-10-23 06:58:28",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2026-10-23 06:58:28",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121755,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2026-10-23 06:58:28",
+      "album": {
         "name": "HURENSOHN",
         "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 154493,
       "name": "HURENSOHN",
       "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2026-10-23 06:58:28",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121755,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "added_at": "2026-10-23 06:58:28",

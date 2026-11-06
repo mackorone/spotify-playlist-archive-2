@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "Bangers Only",
+        "url": "https://open.spotify.com/album/4PFBs5EF1HUtU4oB6IJTw9"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "K Dot",
+          "url": "https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Bangers Only",
+      "url": "https://open.spotify.com/track/6g7SqCFAF1E3WuYFbLB2QJ"
+    },
+    {
+      "album": {
         "name": "Banzai VIP",
         "url": "https://open.spotify.com/album/6HihMPOfFtq8uSUE7lyvw1"
       },
@@ -5226,7 +5248,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 123242,
       "name": "Moment (feat. Charlotte Plank)",
       "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
@@ -7063,6 +7085,32 @@
     },
     {
       "album": {
+        "name": "Send It (Remix)",
+        "url": "https://open.spotify.com/album/7x4s9afoqCodvSqksGKGnm"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "K Dot",
+          "url": "https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb"
+        },
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126316,
+      "name": "Send It (Remix)",
+      "url": "https://open.spotify.com/track/1BxbPNdexeS8hZfsbgKU7t"
+    },
+    {
+      "album": {
         "name": "Seshame Street / High",
         "url": "https://open.spotify.com/album/6ckvfv9dp7toJkoNreH1UC"
       },
@@ -8406,7 +8454,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"

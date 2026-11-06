@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,990,991 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,990,988 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 31 | [Save Me](https://open.spotify.com/track/5PYTziNGPjz0HohZVm2coE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:47 |
 | 32 | [I Was Born To Love You](https://open.spotify.com/track/62IXvE06fEbcLimzQWRyq8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:49 |
 | 33 | [Innuendo](https://open.spotify.com/track/1TSyv6LI3bGpK2k0WbHxMG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 6:32 |
-| 34 | [Seven Seas of Rhye](https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition\)](https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4) | 2:46 |
-| 35 | [It's A Hard Life](https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition\)](https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV) | 4:08 |
+| 34 | [It's A Hard Life](https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition\)](https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV) | 4:08 |
+| 35 | [Seven Seas of Rhye](https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition\)](https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4) | 2:46 |
 | 36 | [You Don't Fool Me](https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 5:24 |
 | 37 | [Princes Of The Universe](https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 3:31 |
 | 38 | [Breakthru](https://open.spotify.com/track/1ndfs8LA7ss6kNNQ8itvUt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Keep Yourself Alive](https://open.spotify.com/track/4DU4NgVlTkdS9Ce9o8lsZ6) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition\)](https://open.spotify.com/album/16br4ndsgOTnBQTjV0W5aB) | 3:46 |
 | 50 | [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 |
 
-Snapshot ID: `aufSgAAAAAAxVE/HyE3ly+LtWOAcn/km`
+Snapshot ID: `aukkAAAAAAB+Td4CnpyTsWaFJobN1bMA`

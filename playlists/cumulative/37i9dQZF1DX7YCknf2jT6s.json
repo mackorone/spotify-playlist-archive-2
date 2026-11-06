@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Adrian Younge",
+  "description": "New jazz for open minds. Cover: Tyreek McDole",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -8595,6 +8595,24 @@
     },
     {
       "album": {
+        "name": "CHROMA",
+        "url": "https://open.spotify.com/album/0d7riNgkF2SFGfe1IZi0Zs"
+      },
+      "artists": [
+        {
+          "name": "Tyreek McDole",
+          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263137,
+      "name": "CONFESSION",
+      "url": "https://open.spotify.com/track/2HRuHXtTQFmXCRNJZ2aN8S"
+    },
+    {
+      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -10678,6 +10696,28 @@
       "duration_ms": 463133,
       "name": "Django",
       "url": "https://open.spotify.com/track/1ds8EgsVcJyuFnFyfX1vVI"
+    },
+    {
+      "album": {
+        "name": "One Hundred Years Today",
+        "url": "https://open.spotify.com/album/1mA6vkKAXm6FZ7mBM7VBun"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scheinman",
+          "url": "https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "Django In America (feat. Julian Lage)",
+      "url": "https://open.spotify.com/track/2VMrWBBkpewfWXNp9qLJ9p"
     },
     {
       "album": {
@@ -16728,7 +16768,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 297600,
       "name": "Hazy",
       "url": "https://open.spotify.com/track/0BS8ogW9FMliIJfoRNofd6"
@@ -26038,7 +26078,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202147,
       "name": "My Big Break",
       "url": "https://open.spotify.com/track/3d98mX8DJAmkqRN8cIgLe4"
@@ -28932,6 +28972,32 @@
       "duration_ms": 452533,
       "name": "Osawatomie Brown",
       "url": "https://open.spotify.com/track/6xwyZfZeXe5mMi3vg91qxe"
+    },
+    {
+      "album": {
+        "name": "Osmosis",
+        "url": "https://open.spotify.com/album/1pWe5fFtnWMaxFtMU5EStm"
+      },
+      "artists": [
+        {
+          "name": "Zohar & Adam",
+          "url": "https://open.spotify.com/artist/3jrqdkncH6CuK39BaLJ9mj"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        },
+        {
+          "name": "Skylar Tang",
+          "url": "https://open.spotify.com/artist/3i5LkHN45PzgWWyNkzh3nl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384160,
+      "name": "Osmosis",
+      "url": "https://open.spotify.com/track/25xO0lWd0uonFIYE50Wj8R"
     },
     {
       "album": {
@@ -37421,6 +37487,24 @@
     },
     {
       "album": {
+        "name": "Sunlight Arch",
+        "url": "https://open.spotify.com/album/71PhGyohbxgyNfvtKOdxyc"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Sunlight Arch",
+      "url": "https://open.spotify.com/track/2GbbKMrJcyU094JbcvJtMN"
+    },
+    {
+      "album": {
         "name": "Discotheques 001",
         "url": "https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm"
       },
@@ -41944,7 +42028,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 292360,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/29AFgr0uT5aIHGO1RzuAoF"
@@ -45172,7 +45256,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 262653,
       "name": "Wichita Lineman (feat. Nick Cave)",
       "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"

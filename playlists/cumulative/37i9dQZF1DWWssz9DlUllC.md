@@ -2,9 +2,9 @@
 
 ### [afro\-piano](https://open.spotify.com/playlist/37i9dQZF1DWWssz9DlUllC)
 
-> Where afrobeats meets amapiano.<br/>Cover:  Shallipopi
+> Where afrobeats meets amapiano.<br/>Cover:  Didi B
 
-245 songs - 11 hr 50 min
+246 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Hilux](https://open.spotify.com/track/7fxJixThxRS7DdBxcrVJ0s) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Afghanistans](https://open.spotify.com/album/6IbS4932vgFWufdwMxZBkb) | 2:09 | 2026-04-24 | 2026-05-22 |
 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2025-10-24 |  |
 | [Hold Somebody](https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Hold Somebody](https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH) | 2:38 | 2026-09-11 | 2026-10-14 |
-| [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 | 2025-10-24 |  |
+| [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 | 2025-10-24 | 2026-11-06 |
 | [HOW ARE YOU](https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [HOW ARE YOU](https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs) | 2:38 | 2025-11-04 | 2026-09-26 |
 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 | 2026-01-14 | 2026-06-21 |
 | [HOW FAR \- Remix](https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4) | [HOW FAR \(Remix\)](https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC) | 3:20 | 2026-03-06 |  |
@@ -195,6 +195,7 @@
 | [Pami](https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Baby Thug](https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1) | 2:56 | 2026-07-03 | 2026-08-21 |
 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 | 2026-01-14 |  |
 | [Para](https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct) | [XVI](https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Para](https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf) | 2:26 | 2025-10-24 | 2025-12-05 |
+| [PARTY](https://open.spotify.com/track/7CpyeFIWBB4ym9A8jhsD5b) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [PARTY](https://open.spotify.com/album/2H5Lo5fKfJgenaMW2YVj6J) | 2:45 | 2026-11-06 |  |
 | [Party Monster](https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:55 | 2025-10-24 | 2026-03-17 |
 | [PA¥ M€](https://open.spotify.com/track/45DKrbHmJ3gNoTVKQroKDw) | [Kobilou](https://open.spotify.com/artist/2DL38TZNK8x8hxvnxNkQB5), [Aibrid](https://open.spotify.com/artist/6eGNSDjuuUepYdy32k1zXS) | [PA¥ M€](https://open.spotify.com/album/13umdDCSUK4Lls4kNdVosA) | 2:16 | 2026-07-17 | 2026-08-19 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:33 | 2025-10-24 | 2026-05-22 |

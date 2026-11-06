@@ -1,6 +1,6 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 308162,
+  "num_followers": 308200,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "The Best Of Me",
-        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/5nydh0uIcz9gxSoJY6FtTn"
-    },
-    {
-      "added_at": "2026-07-09 17:06:41",
-      "album": {
         "name": "Top Gun Deluxe Edition",
         "url": "https://open.spotify.com/album/1qdpfcCMXTZOichy2EUYwg"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
+        "name": "The Best Of Me",
+        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/5nydh0uIcz9gxSoJY6FtTn"
+    },
+    {
+      "added_at": "2026-07-09 17:06:41",
+      "album": {
         "name": "Eric Carmen",
         "url": "https://open.spotify.com/album/0351W7FeCQal5XzaR161tW"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/2MHIDS8G3Er8PUI7QkgoXi"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2RHaVgBsaXdHOvBTOD0vwq"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 256360,
-      "name": "When Love And Hate Collide",
-      "url": "https://open.spotify.com/track/5HJoLjMetgvuOyvuubDl1g"
+      "duration_ms": 223066,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/003qa9jZ2byfApC0hBnr0G"
     }
   ],
   "unique_name": "Power Ballads",

@@ -4,7 +4,7 @@
 
 > The official playlist of Tomorrowland Festival\. Live today, love tomorrow, unite forever
 
-129 songs - 6 hr 31 min
+130 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Pulse React](https://open.spotify.com/track/45DOs7rSokdaiUDehMUyeS) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Pulse React](https://open.spotify.com/album/57BUAD3aZq1bTB8H6JezV2) | 1:51 | 2026-07-24 | 2026-08-18 |
 | [Rain](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52) | 3:28 | 2026-06-12 | 2026-07-18 |
 | [Rave Never Ends](https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Never Ends](https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX) | 3:27 | 2026-06-12 |  |
+| [RE4SON](https://open.spotify.com/track/6553wCdVuWciRZbLd0T1r5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [4444 OF A KIND](https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [RE4SON](https://open.spotify.com/album/6gXoFS4tXwFCRPWHfvqCKL) | 3:37 | 2026-11-05 |  |
 | [Rising](https://open.spotify.com/track/3K5lP6bkIpF2GThc13GTut) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [DAHR](https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Rising](https://open.spotify.com/album/6ECuML2VBRIkLBSCVvWN7w) | 2:48 | 2026-08-17 | 2026-09-12 |
 | [Rumors](https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF) | [Tomas Grey](https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS) | [Rumors](https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP) | 2:42 | 2026-06-12 | 2026-07-18 |
 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 | 2026-06-12 |  |
@@ -110,7 +111,7 @@
 | [Silence \- John Summit Remix](https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Silence \(John Summit Remix\)](https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p) | 4:34 | 2026-06-12 |  |
 | [Smoke Machine](https://open.spotify.com/track/4G2TIdOadEULlN581cBLSV) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [The One](https://open.spotify.com/album/5j6nS3lE5dyWjrTGGiZ2a2) | 2:14 | 2026-09-11 |  |
 | [So What](https://open.spotify.com/track/7MBqAHCpO3ETl6JpNI8mye) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [So What](https://open.spotify.com/album/0xGrzY3jWCS8CzAEuEC8Jy) | 3:24 | 2026-07-17 | 2026-09-12 |
-| [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7) | 2:28 | 2026-07-24 |  |
+| [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7) | 2:28 | 2026-07-24 | 2026-11-06 |
 | [Step To The Floor](https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P) | [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Step To The Floor](https://open.spotify.com/album/1Vwum4cCMOAyYonYofPF7I) | 3:22 | 2026-09-11 |  |
 | [Taka Taka](https://open.spotify.com/track/4hiiNHbxghXzm8oVw2giKe) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Doriann](https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq) | [Taka Taka](https://open.spotify.com/album/1CAv7XGhUYNWIUEdZDHqFw) | 3:16 | 2026-09-11 |  |
 | [Take Me There](https://open.spotify.com/track/2cgdfL5C5P3xSm4tooGBXu) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Take Me There](https://open.spotify.com/album/1407RKhcxe58TPTwOtp9vF) | 3:21 | 2026-06-12 | 2026-07-18 |

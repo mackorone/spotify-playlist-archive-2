@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 329700,
+  "num_followers": 329715,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAA/ebJUEeYdayg5xRuTPhxa",
+  "snapshot_id": "aukkAAAAAAAUwljrEuckdZT0GbmDQVzh",
   "tracks": [
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message To Love (Live At Berkeley - 1st Show)",
-        "url": "https://open.spotify.com/album/3Mopoz7RPHqwNameTOsCvz"
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 332800,
-      "name": "Message To Love - Live At Berkeley - 1st Show",
-      "url": "https://open.spotify.com/track/1cERuP1cDlK5XFWndnTDWC"
+      "duration_ms": 475373,
+      "name": "Georgia Blues",
+      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "Message To Love (Live At Berkeley - 1st Show)",
+        "url": "https://open.spotify.com/album/3Mopoz7RPHqwNameTOsCvz"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 475373,
-      "name": "Georgia Blues",
-      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
+      "duration_ms": 332800,
+      "name": "Message To Love - Live At Berkeley - 1st Show",
+      "url": "https://open.spotify.com/track/1cERuP1cDlK5XFWndnTDWC"
     },
     {
       "added_at": null,

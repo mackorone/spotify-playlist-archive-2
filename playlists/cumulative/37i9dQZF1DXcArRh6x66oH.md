@@ -2,7 +2,7 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Gabriella Rose
+> roots run deep with Sam Barber
 
 508 songs - 1 day 6 hr 32 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Jordan Davis, HARDY, Koe Wetzel with Stephen Wilson Jr\. and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,990 likes - 71 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,052 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Karol G",
+  "description": "Tous les hits latino du moment sont ici. Photo : Manuel Turizo x J Balvin",
   "name": "Caliente",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213011,
       "name": "ALGO T\u00da",
       "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 147533,
       "name": "Apambichao",
       "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "BODYPAINTING",
+        "url": "https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153059,
+      "name": "BODYPAINTING",
+      "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
+    },
+    {
+      "album": {
         "name": "boomerang",
         "url": "https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD"
       },
@@ -1374,6 +1392,24 @@
       "duration_ms": 254576,
       "name": "BOTERO",
       "url": "https://open.spotify.com/track/09fSdYZ5KlhSY5OqsBevhU"
+    },
+    {
+      "album": {
+        "name": "BRINCAITO",
+        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "BRINCAITO",
+      "url": "https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C"
     },
     {
       "album": {
@@ -1982,7 +2018,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 199456,
       "name": "Choque",
       "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
@@ -2234,6 +2270,28 @@
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
+    },
+    {
+      "album": {
+        "name": "COMO FUERA",
+        "url": "https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168138,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp"
     },
     {
       "album": {
@@ -5540,7 +5598,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 117391,
       "name": "LA SAPI\u00d3",
       "url": "https://open.spotify.com/track/287W0GUGh1IuCcaLBLolzo"
@@ -8015,6 +8073,28 @@
     },
     {
       "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/0mOmaf2ZmkCyE5D8HBq52S"
+    },
+    {
+      "album": {
         "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
@@ -9871,6 +9951,24 @@
     },
     {
       "album": {
+        "name": "TESORIIITO",
+        "url": "https://open.spotify.com/album/7fvVTbNgJjY0jqMOApwqrO"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "TESORIIITO",
+      "url": "https://open.spotify.com/track/3oiFhiHsLKdWjsQpHWmwhz"
+    },
+    {
+      "album": {
         "name": "THANK YOU BB",
         "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
       },
@@ -10482,7 +10580,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180894,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"

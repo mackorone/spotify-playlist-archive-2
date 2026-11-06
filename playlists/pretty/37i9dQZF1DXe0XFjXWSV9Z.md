@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,171 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,181 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 41 | [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 |
 | 42 | [La Niña Cuántica](https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Nixon en la Playa](https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA) | 2:08 |
 | 43 | [El Pinochito Saltarin](https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Legado: Colección Definitiva](https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW) | 2:36 |
-| 44 | [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 |
-| 45 | [Dame Tu Mano](https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Abya Yala](https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2) | 5:44 |
+| 44 | [Dame Tu Mano](https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Abya Yala](https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2) | 5:44 |
+| 45 | [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 |
 | 46 | [Bicicleta Intergalactica](https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU) | [Bacalao Men](https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk) | [El Nuevo Bugalu](https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF) | 4:30 |
 | 47 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 |
-| 48 | [Caminito de mi Pueblo](https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x), [La Sonora Mazurén](https://open.spotify.com/artist/2IsqVzltUoufEu3q1yUmTX) | [Caminito de mi Pueblo](https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo) | 4:03 |
-| 49 | [Cumbia Disco Energy](https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Polymarchs](https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99) | [Cumbia Disco Energy](https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur) | 3:57 |
-| 50 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 |
-| 51 | [La Camisola](https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y) | [Carmelo Torres & Los Toscos](https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ) | [El Chacho](https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn) | 4:01 |
+| 48 | [Cumbia Disco Energy](https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Polymarchs](https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99) | [Cumbia Disco Energy](https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur) | 3:57 |
+| 49 | [La Camisola](https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y) | [Carmelo Torres & Los Toscos](https://open.spotify.com/artist/1N5QujMfmdnmeVnLTIOUJZ) | [El Chacho](https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn) | 4:01 |
+| 50 | [Caminito de mi Pueblo](https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x), [La Sonora Mazurén](https://open.spotify.com/artist/2IsqVzltUoufEu3q1yUmTX) | [Caminito de mi Pueblo](https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo) | 4:03 |
+| 51 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 |
 | 52 | [Another Life](https://open.spotify.com/track/688jOdQWukxAS2bEDlDk3p) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 2:50 |
 | 53 | [Republica Federal de Malphino](https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Lalango](https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg) | 3:29 |
 | 54 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 73 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 |
 | 74 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
 | 75 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
-| 76 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
-| 77 | [Palermo's Grunch](https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Palermo's Grunch](https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj) | 5:08 |
+| 76 | [Palermo's Grunch](https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Palermo's Grunch](https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj) | 5:08 |
+| 77 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
 | 78 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
 | 79 | [BADINERIE](https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [STYNDOUDOU](https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt) | 2:53 |
 | 80 | [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 |

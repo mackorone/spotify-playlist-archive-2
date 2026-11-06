@@ -2,9 +2,9 @@
 
 ### [Pop Rising Korea](https://open.spotify.com/playlist/37i9dQZF1DWVuUd3Ffrcx8)
 
-> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Dominic Fike\)
+> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Rex Orange County\)
 
-982 songs - 2 day 5 hr 24 min
+984 songs - 2 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 | 2025-07-03 | 2025-08-16 |
 | [before we say goodbye](https://open.spotify.com/track/4VbA5rRWGRYnK7QLeE3aAe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [before we say goodbye](https://open.spotify.com/album/0N39VN2rAn2wPJrrC7Pudn) | 2:27 | 2025-12-11 | 2026-02-27 |
 | [Believe in Magic](https://open.spotify.com/track/1dnttHuboWa8BAm9mAIi8Q) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Believe in Magic](https://open.spotify.com/album/4Sgh8gZh2ycOpkpLRW68XX) | 3:01 | 2025-08-28 | 2025-10-10 |
-| [Benz Truck Pt\. 2](https://open.spotify.com/track/6WZsUXp0fCB4OLWRFxjbpc) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Benz Truck Pt\. 2](https://open.spotify.com/album/4ZpjEHPet3Osu8J8wsLUjL) | 2:00 | 2026-08-06 |  |
+| [Benz Truck Pt\. 2](https://open.spotify.com/track/6WZsUXp0fCB4OLWRFxjbpc) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Benz Truck Pt\. 2](https://open.spotify.com/album/4ZpjEHPet3Osu8J8wsLUjL) | 2:00 | 2026-08-06 | 2026-11-06 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-30 | 2026-01-23 |
 | [Better Half \-Japanese ver.\-](https://open.spotify.com/track/2KG4bJIKnzH7ZOEBmKsevL) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B), [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF) | [Pieces](https://open.spotify.com/album/12oRFHOYrtXpgdjGtUa5NM) | 3:56 | 2025-01-31 | 2025-03-05 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 | 2024-10-11 |
@@ -244,6 +244,7 @@
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-29 | 2025-07-18 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2024-11-22 |
 | [Either Way](https://open.spotify.com/track/4sBvS46yWfqvstlvLUf5zW) | [Sayku](https://open.spotify.com/artist/6OWXTHq7myy3irf9oDM4Xb) | [Either Way](https://open.spotify.com/album/5cL61ijH8iXe5KVFyaRiNP) | 2:28 | 2025-01-15 | 2025-02-14 |
+| [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 | 2026-11-06 |  |
 | [Embers](https://open.spotify.com/track/7KgBD9s7Jl2rs1Gs4OQMM8) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Embers](https://open.spotify.com/album/0VIa7h8DSdt4iQQmr8C94z) | 4:15 | 2025-02-14 | 2025-03-28 |
 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 | 2026-08-28 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 | 2025-05-16 |
@@ -301,7 +302,7 @@
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-20 | 2025-08-02 |
 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 | 2026-05-29 | 2026-07-17 |
 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 | 2025-06-26 | 2025-08-08 |
-| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-06 |  |
+| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-06 | 2026-11-06 |
 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-13 | 2025-04-18 |
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-06-28 | 2024-08-13 |
 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 | 2026-09-04 |  |
@@ -378,6 +379,7 @@
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-05 | 2026-04-10 |
 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 | 2024-09-19 | 2024-11-29 |
 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-08-29 | 2024-11-01 |
+| [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni) | 3:36 | 2026-11-06 |  |
 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 | 2026-08-13 |  |
 | [HOPE](https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [HOPE](https://open.spotify.com/album/2vSANlvNVEfUl0maUcNeoD) | 3:23 | 2025-04-26 | 2025-06-06 |
 | [Horses and Divorces \(feat\. Miranda Lambert\)](https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:43 | 2026-04-30 | 2026-06-12 |

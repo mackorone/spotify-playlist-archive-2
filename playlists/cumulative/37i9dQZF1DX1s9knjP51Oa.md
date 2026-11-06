@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-902 songs - 1 day 14 hr 44 min
+904 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,6 +689,7 @@
 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2022-01-04 | 2022-12-22 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2021-12-13 | 2022-05-27 |
 | [Silent Bath](https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Silent Bath](https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv) | 2:35 | 2022-10-13 | 2024-06-01 |
+| [Silent Beachwood](https://open.spotify.com/track/0yW0MuhfGLPdrMsJqNWnzH) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Silent Beachwood](https://open.spotify.com/album/2nyMWwiJAn13CiLCfM0Q5Z) | 2:18 | 2026-11-06 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2021-12-13 | 2022-12-22 |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2021-12-13 | 2022-10-25 |
 | [Silver Clouds](https://open.spotify.com/track/2vQRGbNN8JGoThpNtugCtI) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Silver Clouds](https://open.spotify.com/album/4f2ERyMsQCD7NEtqQKEbnW) | 2:57 | 2022-10-24 | 2024-05-02 |
@@ -835,6 +836,7 @@
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2021-12-13 | 2022-07-22 |
 | [Unless you leave now](https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Unless you leave now](https://open.spotify.com/album/0ArXH6DflLbNkfl8NAOyl0) | 2:30 | 2022-03-17 | 2024-04-04 |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2021-12-13 | 2022-10-25 |
+| [Unspoken Words](https://open.spotify.com/track/2YA8KkWl4Jqew4Yk2yGNLo) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Unspoken Words](https://open.spotify.com/album/1NvHYJV7Sh2XsBBinKyvFN) | 3:00 | 2026-11-06 |  |
 | [Until We Meet Again](https://open.spotify.com/track/2QYem8rVrhWvKTXC3rYypY) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Until We Meet Again](https://open.spotify.com/album/0u2MEx3IaZYcNltnLoV6Wu) | 2:44 | 2022-09-23 | 2024-01-03 |
 | [Up North](https://open.spotify.com/track/3V683fg4xkvLX58ReRRISt) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [Catching The Light](https://open.spotify.com/album/6dTVYbMJ85y2x9f3Qm01JD) | 2:23 | 2022-11-21 | 2024-06-01 |
 | [Uplift](https://open.spotify.com/track/59kaSvcHlyRz0cOp65SYcj) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Uplift](https://open.spotify.com/album/6dCBckNdpmAbw1tg200Phx) | 2:22 | 2026-04-17 |  |

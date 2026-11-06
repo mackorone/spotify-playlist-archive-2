@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal w/ Carla Chanelle
 
-1,020 songs - 2 day 9 hr 28 min
+1,022 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 | 2024-09-06 | 2025-10-11 |
 | [Au bout de la peur](https://open.spotify.com/track/5cfY60saiGhksHU7tzdcsa) | [Huriel](https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K), [VALOIS](https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk) | [Au bout de la peur](https://open.spotify.com/album/2yxVs7b883e0O0CohISiRp) | 3:49 | 2026-10-23 |  |
 | [Aucune fleur](https://open.spotify.com/track/1JydHvzhSmrHsxoTOYhog7) | [Soleil Secret](https://open.spotify.com/artist/4IQCnobNBeEGanSiX0iU1K), [Secret sun](https://open.spotify.com/artist/3v7tbK2VbPQC4A3Isn2G1y) | [Rose lueur](https://open.spotify.com/album/7eVxlt3PfOurJfSNHiFw0m) | 3:18 | 2026-05-04 | 2026-09-12 |
+| [Autumn](https://open.spotify.com/track/2ecyAWrG0b2M2rU7KOvsUz) | [Fleeting Colours](https://open.spotify.com/artist/2PCSx52krNo1ngn9H1tdBB) | [Crystal](https://open.spotify.com/album/1xRLXxn2gvFyHIt1rv9C7C) | 3:29 | 2026-11-06 |  |
 | [Avalanche](https://open.spotify.com/track/0Zk0EvHy7k5U6iQyXwunC6) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avalanche](https://open.spotify.com/album/7BEY4krHDB0JNdY1157peL) | 3:33 | 2025-07-25 | 2025-11-29 |
 | [Avant de redescendre](https://open.spotify.com/track/4UNQK6kvnSFYakfM66LBTI) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x), [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avant de redescendre](https://open.spotify.com/album/7aZwJYADPJHtGypapaMn63) | 4:00 | 2024-03-08 | 2024-08-17 |
 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 | 2023-09-29 | 2025-03-22 |
@@ -830,6 +831,7 @@
 | [Si on allait](https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw) | [Huriel](https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K) | [Si on allait](https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3) | 4:07 | 2026-09-18 |  |
 | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 2:44 | 2023-07-14 | 2024-04-13 |
 | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/3LjbMSSkzPjUTHh1iIBTb3) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ) | 2:44 | 2023-01-27 | 2023-07-16 |
+| [Sigh](https://open.spotify.com/track/5uBsu8EKK5V5xYMn0RHMQg) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Jardim Celeste](https://open.spotify.com/album/0Z68VsoFNwsAMLtacdMZj5) | 2:19 | 2026-11-06 |  |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-18 | 2025-03-08 |
 | [Silver KG](https://open.spotify.com/track/2wirE8KUOJ2cuSK9jE7fRd) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders \(Deluxe\)](https://open.spotify.com/album/5UdubCTBDo5bcT5La0agOb) | 2:18 | 2025-11-14 | 2025-12-04 |
 | [SIN TI](https://open.spotify.com/track/1GZDAFYyeWt4zv8ilqChZl) | [Tommy Lunaire](https://open.spotify.com/artist/0U4t3VhKlzF0gr9dNKoWS2), [BADFORTUUUNE](https://open.spotify.com/artist/3ttCPjr2qWrdfNlbXiBh6e) | [SIN TI](https://open.spotify.com/album/708ZdnSHOkJtu7l8FqY39W) | 2:36 | 2026-04-10 | 2026-06-13 |

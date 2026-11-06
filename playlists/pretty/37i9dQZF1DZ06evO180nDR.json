@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 82872,
+  "num_followers": 82898,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADr7ezPQn971OpWFCjjejBL",
+  "snapshot_id": "aukkAAAAAAC07Kw+R8Z6Lk2jvINJatp3",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 142469,
-      "name": "TU COQUETTE",
-      "url": "https://open.spotify.com/track/2K67yKQzOxyWZPpgEMgnBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 142469,
+      "name": "TU COQUETTE",
+      "url": "https://open.spotify.com/track/2K67yKQzOxyWZPpgEMgnBH"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agua y Jab\u00f3n + Play Mode",
+        "url": "https://open.spotify.com/album/3VS0fKzz7D1bP18ono6VZ4"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 192184,
+      "name": "Play Mode",
+      "url": "https://open.spotify.com/track/69yPXq8mqM7jf8tROVVaU2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 174205,
       "name": "Plata",
       "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agua y Jab\u00f3n + Play Mode",
-        "url": "https://open.spotify.com/album/3VS0fKzz7D1bP18ono6VZ4"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 192184,
-      "name": "Play Mode",
-      "url": "https://open.spotify.com/track/69yPXq8mqM7jf8tROVVaU2"
     },
     {
       "added_at": null,

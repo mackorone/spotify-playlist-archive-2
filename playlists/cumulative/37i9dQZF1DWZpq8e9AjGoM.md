@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-267 songs - 11 hr 37 min
+268 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Te souviens\-tu](https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:10 | 2025-03-11 | 2025-04-17 |
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2025-03-11 | 2026-05-23 |
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2025-03-11 |  |
+| [The Day Ahead](https://open.spotify.com/track/77AKs4fzvMh7jDHvzPazZW) | [Axel Valmar](https://open.spotify.com/artist/2glUgYpeC3L6GwWdp8mlro) | [The Day Ahead](https://open.spotify.com/album/4bMvOJGfkNbKpyYJaxZVUP) | 2:39 | 2026-11-06 |  |
 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 | 2025-03-11 | 2026-05-23 |
 | [The gap in between](https://open.spotify.com/track/3pTpkDdhvrXBdQkkzKqbPo) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [The gap in between](https://open.spotify.com/album/0t3WRiiBshd824LzuaNdzS) | 2:24 | 2026-06-12 |  |
 | [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2025-03-11 | 2026-05-23 |

@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "BLOW UP",
+        "url": "https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "BLOW UP",
+      "url": "https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP"
+    },
+    {
+      "album": {
         "name": "Blow Your Cover",
         "url": "https://open.spotify.com/album/5qxa3A2fmTtqzOFTSD6rgQ"
       },
@@ -14299,6 +14317,28 @@
     },
     {
       "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/7jKeYDo31RwFTmM8qmKmLp"
+      },
+      "artists": [
+        {
+          "name": "EMP",
+          "url": "https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/00smZS7JjMiUMI0hw0KvTs"
+    },
+    {
+      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O"
       },
@@ -18026,7 +18066,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 167000,
       "name": "VELVET",
       "url": "https://open.spotify.com/track/1K57qXujq8bUOrpBjgv8hx"

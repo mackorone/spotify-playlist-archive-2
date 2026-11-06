@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 995208,
+  "num_followers": 995329,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADpFFfMWzSN67IGlWCMdt9V",
+  "snapshot_id": "aukkAAAAAAAUp4GqJBL1Q+HcETB++MnI",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Re: This Is Why",
-        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
       },
       "artists": [
         {
           "name": "Paramore",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 234448,
-      "name": "You First (Re: Remi Wolf)",
-      "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
+      "duration_ms": 228293,
+      "name": "For a Pessimist, I'm Pretty Optimistic",
+      "url": "https://open.spotify.com/track/2IBM7pWht51SaU52GZGiEc"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
       "artists": [
         {
           "name": "Paramore",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 228293,
-      "name": "For a Pessimist, I'm Pretty Optimistic",
-      "url": "https://open.spotify.com/track/2IBM7pWht51SaU52GZGiEc"
+      "duration_ms": 234448,
+      "name": "You First (Re: Remi Wolf)",
+      "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
     },
     {
       "added_at": null,

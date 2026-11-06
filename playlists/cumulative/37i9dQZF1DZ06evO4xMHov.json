@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 326840,
       "name": "Filho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP"
@@ -690,10 +690,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 385280,
       "name": "Gl\u00f3ria & Honra - Ao Vivo",
       "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
+    },
+    {
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TDIE68zeCLRsSFMSzhveu"
     },
     {
       "album": {
@@ -934,10 +952,36 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 575587,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
+    },
+    {
+      "album": {
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/5lANilyr6X0xPXj46K27Ne"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Bruno Gra\u00e7a",
+          "url": "https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx"
+        },
+        {
+          "name": "Coral Black To Black",
+          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575587,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/5CAsqZG4du8AGqXogkid3R"
     },
     {
       "album": {
@@ -1502,7 +1546,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 438280,
       "name": "O Senhor \u00c9 Bom - Ao Vivo",
       "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
@@ -1538,7 +1582,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 826880,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
@@ -1800,6 +1844,24 @@
     {
       "album": {
         "name": "Rei do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3eSLP9NMWsPGWuuA2VdDlP"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360085,
+      "name": "Rei do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1Qv8DqnK0l1TIxlGX0aMDE"
+    },
+    {
+      "album": {
+        "name": "Rei do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
       },
       "artists": [
@@ -1810,10 +1872,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 360085,
       "name": "Rei do Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
+    },
+    {
+      "album": {
+        "name": "Reina Sobre Mim",
+        "url": "https://open.spotify.com/album/5RNak1ZNGL8MASKgGIUoAe"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388200,
+      "name": "Reina Sobre Mim",
+      "url": "https://open.spotify.com/track/43Are8RDOV7afU3nkgUrUf"
     },
     {
       "album": {
@@ -1828,7 +1908,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 388200,
       "name": "Reina Sobre Mim",
       "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
@@ -1846,7 +1926,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 511929,
       "name": "Rio - Ao Vivo",
       "url": "https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V"
@@ -1872,10 +1952,36 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168411,
       "name": "Ruja o Le\u00e3o - M\u00cbDNA - Remix",
       "url": "https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD"
+    },
+    {
+      "album": {
+        "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
+        "url": "https://open.spotify.com/album/4G3EQZf4rs3189zJcszmZQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168411,
+      "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
+      "url": "https://open.spotify.com/track/6LuvaY9Mw1bQpU4gZoJqec"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,083 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,085 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
 | 50 | [Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Inundauswendig](https://open.spotify.com/album/0R7lKm7pMZHjdrY1UVcc02) | 2:41 |
 
-Snapshot ID: `Mn7CyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MoAUSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

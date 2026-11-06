@@ -580,7 +580,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 175626,
       "name": "A Midsummer Nice Dream",
       "url": "https://open.spotify.com/track/2ZqiNwcrUc4Qzlid5DpETd"
@@ -4569,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "Feeling Is Structure",
+        "url": "https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428534,
+      "name": "Four Tones Reflected",
+      "url": "https://open.spotify.com/track/52jkZ55m6m5fcfGh9iwe8k"
+    },
+    {
+      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/4wF8vOTtUdUzSDuRVf0B5V"
       },
@@ -6526,7 +6544,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228320,
       "name": "Lost Map / The Hawk",
       "url": "https://open.spotify.com/track/3wBkDs9bRmlVapJuwBsdB6"
@@ -10162,7 +10180,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 100019,
       "name": "Static Discos 100",
       "url": "https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7"
@@ -12017,6 +12035,24 @@
     },
     {
       "album": {
+        "name": "una mejor versi\u00f3n de mi",
+        "url": "https://open.spotify.com/album/0fC6D0jLW2AHbLk1zNbIem"
+      },
+      "artists": [
+        {
+          "name": "Sonic Emerson",
+          "url": "https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223008,
+      "name": "una mejor versi\u00f3n de mi",
+      "url": "https://open.spotify.com/track/4xP6k6PutvIfMjjg2W7oVP"
+    },
+    {
+      "album": {
         "name": "Irrational Overcast",
         "url": "https://open.spotify.com/album/3mRYK8bya5UUM4JA695PJv"
       },
@@ -12692,6 +12728,32 @@
       "duration_ms": 330000,
       "name": "Well",
       "url": "https://open.spotify.com/track/630GnYjh9pMw7iO9KrCQIG"
+    },
+    {
+      "album": {
+        "name": "When It's Cold I'd Like to Die (John Tejada Remix)",
+        "url": "https://open.spotify.com/album/0SxVw0a7KkMc9cK4BDZZzB"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "When It's Cold I'd Like to Die - John Tejada Remix",
+      "url": "https://open.spotify.com/track/2TL7uFChwyPMkQJwi03dOE"
     },
     {
       "album": {

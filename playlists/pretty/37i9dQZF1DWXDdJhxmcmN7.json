@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37522,
+  "num_followers": 37526,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -607,8 +607,8 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Cumbia Don Juan",
-        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
+        "name": "Ay Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 134451,
-      "name": "Cumbia Don Juan",
-      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
+      "duration_ms": 97931,
+      "name": "Ay Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -759,6 +759,30 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
+      },
+      "artists": [
+        {
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        },
+        {
+          "name": "Lo-Fi Luke",
+          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
+        },
+        {
+          "name": "Marc Brave",
+          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Chupacabras",
         "url": "https://open.spotify.com/album/2V9cxrxeCsfwFmXydznu2B"
       },
@@ -775,26 +799,6 @@
       "duration_ms": 103562,
       "name": "Chupacabras",
       "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Bryan Pelayo",
-          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "Ukelele At Night",
-      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -823,18 +827,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Birria",
-        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
       "artists": [
         {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        },
+        {
+          "name": "Bryan Pelayo",
+          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
         }
       ],
-      "duration_ms": 119527,
-      "name": "Birria",
-      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
+      "duration_ms": 93000,
+      "name": "Ukelele At Night",
+      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -851,6 +859,22 @@
       "duration_ms": 121258,
       "name": "Flores",
       "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Birria",
+        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 119527,
+      "name": "Birria",
+      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -875,30 +899,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
-      },
-      "artists": [
-        {
-          "name": "Goland",
-          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
-        },
-        {
-          "name": "Lo-Fi Luke",
-          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
-        },
-        {
-          "name": "Marc Brave",
-          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "cholula, puebla",
         "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
       },
@@ -915,6 +915,26 @@
       "duration_ms": 124044,
       "name": "cholula, puebla",
       "url": "https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Jardines, Vol.1",
+        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        }
+      ],
+      "duration_ms": 153162,
+      "name": "jazmin",
+      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -943,26 +963,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "La Casa Azul",
-        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
-      },
-      "artists": [
-        {
-          "name": "De la Plante",
-          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
-        },
-        {
-          "name": "Federico Lenarduzzi",
-          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
-        }
-      ],
-      "duration_ms": 131541,
-      "name": "La Casa Azul",
-      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
         "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
       },
@@ -979,22 +979,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Jardines, Vol.1",
-        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
+        "name": "La Casa Azul",
+        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "De la Plante",
+          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
         },
         {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+          "name": "Federico Lenarduzzi",
+          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
         }
       ],
-      "duration_ms": 153162,
-      "name": "jazmin",
-      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
+      "duration_ms": 131541,
+      "name": "La Casa Azul",
+      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Atacama",
+        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Atacama",
+      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Dale Dale",
         "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 148000,
       "name": "Dale Dale",
       "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Atacama",
-        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Atacama",
-      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Dusk Jazz Delight",
+        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Relajante",
+          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Dusk Jazz Delight",
+      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 104013,
       "name": "La Feria",
       "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Dusk Jazz Delight",
-        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
-      },
-      "artists": [
-        {
-          "name": "M\u00fasica Relajante",
-          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Dusk Jazz Delight",
-      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Zer",
         "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 186214,
       "name": "MexFi",
       "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1259,6 +1259,22 @@
       "duration_ms": 156000,
       "name": "Summer Purr",
       "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "wandering through soft colors",
+        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
+      },
+      "artists": [
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "wandering through soft colors",
+      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1315,22 +1331,6 @@
       "duration_ms": 147621,
       "name": "todas las ma\u00f1anas",
       "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "wandering through soft colors",
-        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
-      },
-      "artists": [
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "wandering through soft colors",
-      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/13vOGnEcZFHQMddMlQoRaI"
+      },
+      "artists": [
+        {
+          "name": "IKAAL",
+          "url": "https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1paARPESG5OrZ9eEmKbRej"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 117779,
       "name": "Mi tierra",
       "url": "https://open.spotify.com/track/30bFkZVlFbKsYxRoR1JUmf"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/13vOGnEcZFHQMddMlQoRaI"
-      },
-      "artists": [
-        {
-          "name": "IKAAL",
-          "url": "https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1paARPESG5OrZ9eEmKbRej"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "making out",
-        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "making out",
-      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 197802,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "making out",
+        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "making out",
+      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Moreno",
-        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
-      },
-      "artists": [
-        {
-          "name": "Chill Blunt",
-          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Tres",
-      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Taco Envenenado",
         "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 118285,
       "name": "Taco Envenenado",
       "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/3IVSTr3ARmJXeWlQaVrUYe"
+      },
+      "artists": [
+        {
+          "name": "Chill Blunt",
+          "url": "https://open.spotify.com/artist/5lwo4rPPfp9QPDVTwF1k0f"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Tres",
+      "url": "https://open.spotify.com/track/07HF3nOzSgzGzQVNBbTvIV"
     },
     {
       "added_at": "2026-01-26 05:01:07",

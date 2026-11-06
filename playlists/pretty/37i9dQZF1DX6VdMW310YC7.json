@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4014358,
+  "num_followers": 4014196,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "Staring at the Sun",
+        "url": "https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 212707,
+      "name": "Staring at the Sun",
+      "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 166666,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Staring at the Sun",
-        "url": "https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 212707,
-      "name": "Staring at the Sun",
-      "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Centuries",
         "url": "https://open.spotify.com/album/5a43tQK1iJegXaXKz3QdB6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 287880,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/0nRku7luPk4xnS1SU3S0am"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -807,22 +807,18 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         }
       ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+      "duration_ms": 316097,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -843,6 +839,26 @@
       "duration_ms": 231024,
       "name": "Change of Driver",
       "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Spirit Bird",
         "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
       },
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "NAKED",
         "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 185714,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 195812,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 195812,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "Burning Up",
-        "url": "https://open.spotify.com/album/6wGU0EkcUsdGDTmh9Sri86"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Orem",
-          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
-        }
-      ],
-      "duration_ms": 237172,
-      "name": "Burning Up",
-      "url": "https://open.spotify.com/track/4LJ0y24EWNaEgAfAOLXCHM"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 251303,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "Burning Up",
+        "url": "https://open.spotify.com/album/6wGU0EkcUsdGDTmh9Sri86"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+        }
+      ],
+      "duration_ms": 237172,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/4LJ0y24EWNaEgAfAOLXCHM"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
         "name": "Hiding / Shallow Water",
         "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 232130,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/02U8C8WsPKixJYVQaeV9iF"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-10-30 04:00:29",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-10-30 04:00:29",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-10-30 04:00:29",
+      "album": {
         "name": "Fire To The Water",
         "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 184761,
       "name": "The last dance...",
       "url": "https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn"
-    },
-    {
-      "added_at": "2026-10-30 04:00:29",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
     },
     {
       "added_at": "2026-10-30 04:00:29",

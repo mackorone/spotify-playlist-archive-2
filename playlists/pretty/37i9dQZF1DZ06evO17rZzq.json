@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 5393,
+  "num_followers": 5395,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAAklCqUsjUWIEMPAx6vdHPH",
+  "snapshot_id": "aukkAAAAAADVilWq0sHB7kJK+5zdBYok",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 103436,
+      "name": "Old Me",
+      "url": "https://open.spotify.com/track/4EwoWsIt1lzB6bRHV9jGPT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
         "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wit 3 iii's",
-        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 103436,
-      "name": "Old Me",
-      "url": "https://open.spotify.com/track/4EwoWsIt1lzB6bRHV9jGPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FCK GIRL SZN",
         "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
@@ -317,7 +317,7 @@
         },
         {
           "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/2pZtVGPGN64v6qDGnAUguE"
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         }
       ],
       "duration_ms": 193426,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 142697,
+      "name": "BYB",
+      "url": "https://open.spotify.com/track/3J64O7nqy9ORcZgYRvoA5m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
         "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 190902,
       "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wit 3 iii's",
-        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 142697,
-      "name": "BYB",
-      "url": "https://open.spotify.com/track/3J64O7nqy9ORcZgYRvoA5m"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dat Girl",
-        "url": "https://open.spotify.com/album/6BVqqZYdMGRuixm5myTorO"
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 155839,
-      "name": "Dat Girl",
-      "url": "https://open.spotify.com/track/25Yec8hwjxT2YZbpSrDyBT"
+      "duration_ms": 160000,
+      "name": "Reward",
+      "url": "https://open.spotify.com/track/35fkQcdrVBYiXyeMcTJFCs"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wit 3 iii's",
-        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+        "name": "Dat Girl",
+        "url": "https://open.spotify.com/album/6BVqqZYdMGRuixm5myTorO"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Reward",
-      "url": "https://open.spotify.com/track/35fkQcdrVBYiXyeMcTJFCs"
+      "duration_ms": 155839,
+      "name": "Dat Girl",
+      "url": "https://open.spotify.com/track/25Yec8hwjxT2YZbpSrDyBT"
     },
     {
       "added_at": null,
@@ -715,6 +715,38 @@
       "duration_ms": 148471,
       "name": "Toxic Chocolate",
       "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 163862,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2hLRpT0GeNCpbtAJDPXt1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -739,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Hot Girl Maybach",
+        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
       },
       "artists": [
         {
@@ -748,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 140409,
+      "name": "Hot Girl Maybach",
+      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     },
     {
       "added_at": null,
@@ -764,25 +796,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 163862,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/2hLRpT0GeNCpbtAJDPXt1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Girl Maybach",
-        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 140409,
-      "name": "Hot Girl Maybach",
-      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
+      "duration_ms": 97697,
+      "name": "Still On Dat",
+      "url": "https://open.spotify.com/track/4n0EZATPFiBSZvcsJIUI9W"
     },
     {
       "added_at": null,
@@ -827,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 116506,
+      "name": "Stand On It",
+      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wit 3 iii's",
         "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
       },
@@ -836,9 +868,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 97697,
-      "name": "Still On Dat",
-      "url": "https://open.spotify.com/track/4n0EZATPFiBSZvcsJIUI9W"
+      "duration_ms": 122097,
+      "name": "Don't Worry Bout It",
+      "url": "https://open.spotify.com/track/4s2Q4l9Z9edsSWdjyUEbAP"
     },
     {
       "added_at": null,
@@ -863,54 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 116506,
-      "name": "Stand On It",
-      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do A Bitch (Club Mix)",
-        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 156096,
-      "name": "Do A Bitch - Club Mix",
-      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wit 3 iii's",
-        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 122097,
-      "name": "Don't Worry Bout It",
-      "url": "https://open.spotify.com/track/4s2Q4l9Z9edsSWdjyUEbAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Yours (Remix)",
         "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 130295,
       "name": "Not Yours (Remix)",
       "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do A Bitch (Club Mix)",
+        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 156096,
+      "name": "Do A Bitch - Club Mix",
+      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
     },
     {
       "added_at": null,

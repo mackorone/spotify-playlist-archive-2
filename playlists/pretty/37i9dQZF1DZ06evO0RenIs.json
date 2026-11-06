@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97966,
+  "num_followers": 97969,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAA1bq7XqKu6sagzIMSd08gr",
+  "snapshot_id": "aukkAAAAAADYp9UFMx5JKq2a57Sbq4pP",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Midnight (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
       "artists": [
         {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 188000,
-      "name": "After Midnight (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+      "duration_ms": 178613,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC"
     },
     {
       "added_at": null,
@@ -167,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+        "name": "After Midnight (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
       "artists": [
         {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 178613,
-      "name": "Everything Is Everything",
-      "url": "https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC"
+      "duration_ms": 188000,
+      "name": "After Midnight (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/5DAkzBJ48N7z6lwY4eZ0PP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 273971,
       "name": "UFO",
       "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Artefact",
-      "url": "https://open.spotify.com/track/5DAkzBJ48N7z6lwY4eZ0PP"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Holdin' on Together",
+      "url": "https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Solstice (Braxe + Falcon Remix)",
         "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Holdin' on Together",
-      "url": "https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8"
     },
     {
       "added_at": null,

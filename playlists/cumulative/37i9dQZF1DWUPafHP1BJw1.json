@@ -5189,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "VSQ Performs Donnie Darko",
+        "url": "https://open.spotify.com/album/4FFcL8ZZA8cMAwrk8hK9aP"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/3KufRwzBWm08EdVccZAah2"
+    },
+    {
+      "album": {
         "name": "The Unforgiven",
         "url": "https://open.spotify.com/album/4eyMtJkEyVQCj0eeCOX5xP"
       },

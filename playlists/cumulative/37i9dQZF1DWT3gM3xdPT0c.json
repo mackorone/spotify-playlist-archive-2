@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "As the Days Grow Short",
+        "url": "https://open.spotify.com/album/6PcV1ug8VitW84tGQj6fov"
+      },
+      "artists": [
+        {
+          "name": "Christopher Reiss",
+          "url": "https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138559,
+      "name": "As the Days Grow Short",
+      "url": "https://open.spotify.com/track/220QUSsQ1lRw6x9lRhmHjY"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/7emvnt7GCyMhZvWHUba7pG"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 134411,
       "name": "Brings Understanding",
       "url": "https://open.spotify.com/track/0gUofFMk3CEUZ71Iq8lszw"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 131738,
       "name": "Confianza",
       "url": "https://open.spotify.com/track/0l110LCnGDPOlbiePvONwN"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162705,
       "name": "Evening Glow",
       "url": "https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX"
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170055,
       "name": "From Time Before",
       "url": "https://open.spotify.com/track/6ZyJ4KBxjPg9bsem6xicGH"
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152374,
       "name": "Noches de Verano",
       "url": "https://open.spotify.com/track/6WgdDqNW1gwz1v1VjJkYQ0"
@@ -6310,7 +6328,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 174750,
       "name": "Secret Hero",
       "url": "https://open.spotify.com/track/6kjaY41h1nj7fViaDFd7TV"
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 172250,
       "name": "Sunbeam",
       "url": "https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4"

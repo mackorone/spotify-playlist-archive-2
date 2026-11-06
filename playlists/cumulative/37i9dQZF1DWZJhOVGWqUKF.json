@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Enemy Inside, As Everything Unfolds, Lake Malice",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lonely Spring",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 161098,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/60KsCDvnDQjrFMhiST6AxI"
@@ -9800,7 +9800,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 237384,
       "name": "If Not Now, When",
       "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
@@ -11220,7 +11220,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 249752,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/5K6a7PkYNfxfjd7ZdubipI"
@@ -11909,6 +11909,24 @@
     },
     {
       "album": {
+        "name": "Luca Wanted a Cash Cow but All He Got Was This Song (We Both Deserved Better)",
+        "url": "https://open.spotify.com/album/4C0Fxyba5WGySv6xy8C71r"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177746,
+      "name": "Luca Wanted a Cash Cow but All He Got Was This Song (We Both Deserved Better)",
+      "url": "https://open.spotify.com/track/1ZlgnlatnJnpm0o4cICwmk"
+    },
+    {
+      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL"
       },
@@ -12456,7 +12474,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186585,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/6qE9aKOlsQrXl3UYeMHlss"
@@ -12723,6 +12741,24 @@
     },
     {
       "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/4dICy1P1QDSEY83qSZEsjh"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179881,
+      "name": "Mother Never Told You",
+      "url": "https://open.spotify.com/track/30LAPViPx3cUA8KUGNk4rP"
+    },
+    {
+      "album": {
         "name": "Mother Teresa",
         "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
       },
@@ -12842,7 +12878,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217837,
       "name": "My Confession",
       "url": "https://open.spotify.com/track/1Aj1LDKnOrcuI3YmKZ74pf"
@@ -13622,7 +13658,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205892,
       "name": "Not This Time",
       "url": "https://open.spotify.com/track/0iLOEBYBOcuJJGLRK8Ukhq"
@@ -14912,7 +14948,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205227,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4cCvlFS3brIbgeYUIpzjgl"
@@ -15408,6 +15444,28 @@
       "duration_ms": 205483,
       "name": "Reality II (I Promise)",
       "url": "https://open.spotify.com/track/4sPpl0uOzNe6kzYrt5zc8f"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/3MnAMjcv7m4dPEIUKwIi3K"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        },
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183096,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/2BLQtZ41tplwKFJnDSUhCD"
     },
     {
       "album": {
@@ -16544,6 +16602,24 @@
       "duration_ms": 178166,
       "name": "Shivering",
       "url": "https://open.spotify.com/track/51cAhMu907C41i2IpL4pUy"
+    },
+    {
+      "album": {
+        "name": "Show Me How to Be",
+        "url": "https://open.spotify.com/album/3Mub0pyGw3ARUcRLAsNpf8"
+      },
+      "artists": [
+        {
+          "name": "Pentastone",
+          "url": "https://open.spotify.com/artist/2Ga7dFa3QASOZpORTAUD8l"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188559,
+      "name": "Show Me How to Be",
+      "url": "https://open.spotify.com/track/2g0moilcM4Tc312oxdmkkM"
     },
     {
       "album": {
@@ -19778,7 +19854,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158080,
       "name": "Twist My Neck",
       "url": "https://open.spotify.com/track/2VNPke6MRmTIYhW2mXwVlt"
@@ -19970,7 +20046,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
@@ -20564,7 +20640,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 360216,
       "name": "WE ARE EMPIRE",
       "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"

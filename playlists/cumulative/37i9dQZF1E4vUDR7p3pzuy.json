@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, post-punk'er, Rue Oberkampf and more",
+  "description": "With NUDNIK, JUST LIZZY, DIE DIE BE and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 243498,
       "name": "arzu",
       "url": "https://open.spotify.com/track/4Rmu4WMViki8Qgdy9wLJm3"
@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 265072,
       "name": "C.L.C",
       "url": "https://open.spotify.com/track/79nGNGEJExUcBT80MajWOT"
@@ -6147,6 +6147,24 @@
     },
     {
       "album": {
+        "name": "EATEN OF WORMS",
+        "url": "https://open.spotify.com/album/366Yd5NrWPO87n9PyPQiZN"
+      },
+      "artists": [
+        {
+          "name": "GOSSIP COLLAR",
+          "url": "https://open.spotify.com/artist/6R3KefqcKEPwkM0ltP3PV2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177740,
+      "name": "DISGUISE MY HEART",
+      "url": "https://open.spotify.com/track/1bdBMI9P0WyRCOh8QCExjW"
+    },
+    {
+      "album": {
         "name": "Under The Underground",
         "url": "https://open.spotify.com/album/3HtnoWH5moA5fqDAnzowcQ"
       },
@@ -6374,7 +6392,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 167008,
       "name": "dreadful game",
       "url": "https://open.spotify.com/track/0tsH0PDMF8Xq3XBIKjAZvr"
@@ -6958,7 +6976,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 250136,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/0auX5w6US3LPwAQcpjMygH"
@@ -10130,7 +10148,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 225841,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/3cDjQIa9lWPiEfrWhqPzzY"
@@ -10658,7 +10676,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 212343,
       "name": "I WALK AROUND ON HALLOWEEN (LOOKING FOR YOUR GHOST) - Radio Edit",
       "url": "https://open.spotify.com/track/0CEPIXPoBemKxIJv6Hhwcl"
@@ -12986,7 +13004,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -13682,7 +13700,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 345230,
       "name": "Luvurgurl",
       "url": "https://open.spotify.com/track/05EXjL88NiXSOedFEWhBka"
@@ -13884,6 +13902,24 @@
       "duration_ms": 177720,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1JyTISB7tyTTDBZIYL23ty"
+    },
+    {
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/2jUES1jtQC9YfiBSxfyNG7"
+      },
+      "artists": [
+        {
+          "name": "Moderation",
+          "url": "https://open.spotify.com/artist/0yfUMCYHUaB3Hs9qajAdFw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212423,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6DHvP8Wblrg9XRyNXrsQNi"
     },
     {
       "album": {
@@ -14776,7 +14812,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 277408,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/7M3sWPlXhf3w2hWtLeFSom"
@@ -14794,7 +14830,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 239496,
       "name": "My Pain",
       "url": "https://open.spotify.com/track/6rXmUDj5JyOIgcfzZoU9Lk"
@@ -15196,7 +15232,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220210,
       "name": "New connection",
       "url": "https://open.spotify.com/track/6NdOvAPRug2x8lOeffbboq"
@@ -15272,7 +15308,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 330405,
       "name": "Nighttime Fever",
       "url": "https://open.spotify.com/track/73l79VEOevCdpHRKudlTwy"
@@ -17770,7 +17806,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 292800,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/0aYxlvUA9rMLe9SLc53wtE"
@@ -18910,7 +18946,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 324878,
       "name": "shrew",
       "url": "https://open.spotify.com/track/1cTr2KL6Jrr0LwxnSVkwXV"
@@ -19942,7 +19978,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -19982,7 +20018,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 272533,
       "name": "Spinal Combiner",
       "url": "https://open.spotify.com/track/6fsNj309A8Xc4STeB6xHzT"
@@ -20054,7 +20090,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 199906,
       "name": "St. Vitus' Dance",
       "url": "https://open.spotify.com/track/4m592SxaLeKxghz6vAlY8P"
@@ -20950,7 +20986,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 260136,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/2UW3u6IWZiZwKTVr38gDeP"
@@ -23030,7 +23066,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -25656,7 +25692,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

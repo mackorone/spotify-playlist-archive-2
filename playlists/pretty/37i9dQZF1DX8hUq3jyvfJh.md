@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça BUDAH e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">BUDAH</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,216 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,219 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SALTO 15](https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:49 |
 | 2 | [Ex\-Factor](https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:26 |
 | 3 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
-| 4 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
-| 5 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/5ShqaLCQm38x3Y1K4kQDqm) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 3:35 |
+| 4 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/5ShqaLCQm38x3Y1K4kQDqm) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 3:35 |
+| 5 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 6 | [touch myself](https://open.spotify.com/track/3tyDv1Qwsr7MSZB45ywgj7) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 4:09 |
 | 7 | [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 |
 | 8 | [Caminhador](https://open.spotify.com/track/3fGnaaAry8lj1k65QBiUTp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:03 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 15 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
 | 16 | [MELHOR NOTÍCIA](https://open.spotify.com/track/4DqQqIMiD3YqnUwR13xLmA) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MELHOR NOTÍCIA](https://open.spotify.com/album/0sYPdRHJeo4UYbcoRQMmYK) | 5:02 |
 | 17 | [Pra Lembrar De Mim No Fone](https://open.spotify.com/track/39SHvIYTLxto33v3guCsMh) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Pra Lembrar De Mim No Fone](https://open.spotify.com/album/3n5liuavttAKEBhVjPExHv) | 2:39 |
-| 18 | [7X7 \- Remix](https://open.spotify.com/track/6aMB9PkXiPm4HCL7UNz8N0) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [MAJ'IS'ROCK](https://open.spotify.com/album/7zFKjRfx7HDXa49ameoNIX) | 1:27 |
-| 19 | [Novinho Chora](https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Novinho Chora](https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS) | 3:07 |
+| 18 | [Novinho Chora](https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Novinho Chora](https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS) | 3:07 |
+| 19 | [7X7 \- Remix](https://open.spotify.com/track/6aMB9PkXiPm4HCL7UNz8N0) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [MAJ'IS'ROCK](https://open.spotify.com/album/7zFKjRfx7HDXa49ameoNIX) | 1:27 |
 | 20 | [ARRUME\-SE COMIGO](https://open.spotify.com/track/2sfvrhzNdjTDjQyMROmfHs) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [ARRUME\-SE COMIGO](https://open.spotify.com/album/0n4b1fQXmSrMpbrRijOKUT) | 3:46 |
 | 21 | [Acalanto](https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 |
 | 22 | [Candidato](https://open.spotify.com/track/2ZHoXrDBfOdt3SU0IM7VIW) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Candidato](https://open.spotify.com/album/1Z3veVgOJkNI04eu8ATkr4) | 2:43 |

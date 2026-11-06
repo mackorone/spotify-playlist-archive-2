@@ -1,13 +1,109 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"https://artists.spotify.com/songwriter/0agZf9y9Jb7sG3yPPqvYBN\">Reece Pullinger</a>",
-  "num_followers": 6121,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFHr9lqIT58J2\">Abi Flynn</a>",
+  "num_followers": 6124,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEYzCVmbwRwH3pLMbQtgL5M1swM",
+  "snapshot_id": "AAAAAI6i+mllOsYoLjippMMA/yKZS/6H",
   "tracks": [
+    {
+      "added_at": "2026-11-06 05:00:46",
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 188260,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/44xO8889yUQHn70P73NILS"
+    },
+    {
+      "added_at": "2026-11-06 05:00:46",
+      "album": {
+        "name": "Packs and Potions",
+        "url": "https://open.spotify.com/album/1VkcWtwCE0ktxyiZqjkCzu"
+      },
+      "artists": [
+        {
+          "name": "HAZEY",
+          "url": "https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "Packs and Potions",
+      "url": "https://open.spotify.com/track/1DxRMgLoWXgmIFF2Unp5pD"
+    },
+    {
+      "added_at": "2026-11-06 05:00:46",
+      "album": {
+        "name": "Here In Your Arms",
+        "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 152561,
+      "name": "Here In Your Arms",
+      "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
+    },
+    {
+      "added_at": "2026-11-06 05:00:46",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/5HajT51f4NCbAIANcVrlIe"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Shayan",
+          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
+        }
+      ],
+      "duration_ms": 162651,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:46",
+      "album": {
+        "name": "come aliv3",
+        "url": "https://open.spotify.com/album/6NGo8P8BHmRUJY8uQufDgQ"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "come aliv3",
+      "url": "https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE"
+    },
     {
       "added_at": "2026-10-02 04:01:14",
       "album": {
@@ -859,154 +955,6 @@
       "duration_ms": 219680,
       "name": "surrender",
       "url": "https://open.spotify.com/track/6Iw8RkhQMg0CWBXsOGy1Ls"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "shape of my heart / sugar",
-        "url": "https://open.spotify.com/album/4BQ2iuwNMyPLNros0Vo7I7"
-      },
-      "artists": [
-        {
-          "name": "WRABEL",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 262413,
-      "name": "shape of my heart",
-      "url": "https://open.spotify.com/track/5jsCh0ups4J9HiKGs8OZ1a"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "these words are all for you",
-        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
-      },
-      "artists": [
-        {
-          "name": "WRABEL",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 182187,
-      "name": "wish you well",
-      "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Gold-Diggers Sound",
-        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 401075,
-      "name": "Don't Worry (feat. Ink)",
-      "url": "https://open.spotify.com/track/2MUTyvTF8gnrxz4KKNHkCo"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Don't Check On Me (feat. Justin Bieber & Ink)",
-      "url": "https://open.spotify.com/track/7ILEWkpfdK6AjH2D7jppWk"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "24/7 (feat. Ink)",
-      "url": "https://open.spotify.com/track/4zLSN6kmgyLcxFrk7KH9rR"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Atavista",
-        "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        },
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 392590,
-      "name": "Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet)",
-      "url": "https://open.spotify.com/track/6ajiOUVtxRjYcf1EvBDoV4"
     }
   ],
   "unique_name": "GLOW Songwriters",

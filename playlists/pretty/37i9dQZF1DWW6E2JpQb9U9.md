@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. Foto: Charly García
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,776 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,786 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 56 | [La Rueda Mágica \- En Vivo](https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:07 |
 | 57 | [Nuestro Verano \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:03 |
 | 58 | [Pronta Entrega \- En Vivo](https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:23 |
-| 59 | [Solo Aqui \- En Vivo](https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Solo Aquí \(En Vivo\)](https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0) | 4:07 |
-| 60 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 |
+| 59 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 |
+| 60 | [Solo Aqui \- En Vivo](https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Solo Aquí \(En Vivo\)](https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0) | 4:07 |
 | 61 | [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 |
 | 62 | [Tormenta Roja \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 2:36 |
-| 63 | [Silencio \(Ft\. Fito Páez\) \- En Vivo Teatro Ópera](https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Silencio \(Ft\. Fito Páez\) \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg) | 5:01 |
-| 64 | [Por Mil Noches](https://open.spotify.com/track/40djkWLHFMFKvGJwqAdRIo) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Por Mil Noches](https://open.spotify.com/album/6Mlff91HPW6QhoCCGJK3sR) | 4:55 |
-| 65 | [Ven Aquí \- MTV Unplugged](https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ven Aquí \(MTV Unplugged\)](https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu) | 4:26 |
+| 63 | [Ven Aquí \- MTV Unplugged](https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ven Aquí \(MTV Unplugged\)](https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu) | 4:26 |
+| 64 | [Silencio \(Ft\. Fito Páez\) \- En Vivo Teatro Ópera](https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Silencio \(Ft\. Fito Páez\) \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg) | 5:01 |
+| 65 | [Por Mil Noches](https://open.spotify.com/track/40djkWLHFMFKvGJwqAdRIo) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Por Mil Noches](https://open.spotify.com/album/6Mlff91HPW6QhoCCGJK3sR) | 4:55 |
 | 66 | [DESCARTABLE \- En Vivo Estadio Racing Club](https://open.spotify.com/track/78S8Hb2Z1ERaTjKzxa5l5g) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE \(En Vivo Estadio Racing Club\)](https://open.spotify.com/album/6hO0rzpVAUGNy2h7qKd69p) | 3:06 |
 | 67 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
 | 68 | [Beatle \- Acústico en Vivo](https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:32 |

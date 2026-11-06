@@ -1463,6 +1463,28 @@
     },
     {
       "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/7pm6OVEHugLTU7FMb17yIp"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "Lauren Nicole",
+          "url": "https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215156,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5KJ8iOiVsg1hF4fpJPDEtZ"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/7b0raTyrYcZDujVAEVEdtn"
       },

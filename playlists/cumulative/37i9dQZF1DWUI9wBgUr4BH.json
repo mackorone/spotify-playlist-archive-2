@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Justice",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  RnBoi",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -220,6 +220,24 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/7v4U1UWo5FHd70GRRgzz8c"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5nVnAPXT2kZrNZbA86IWXu"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140026,
+      "name": "4",
+      "url": "https://open.spotify.com/track/0TwQx4EjJbI0WCmnP8n4HO"
     },
     {
       "album": {
@@ -524,7 +542,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -1380,6 +1398,28 @@
       "duration_ms": 164151,
       "name": "Baby (Is it a Crime)",
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/1Uort7z9KdrvMKKOpev0n9"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        },
+        {
+          "name": "Antonio Cipriano",
+          "url": "https://open.spotify.com/artist/0C3GEN7zQmGd5NDw9JTrI4"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178822,
+      "name": "Babydoll feat. Antonio Cipriano",
+      "url": "https://open.spotify.com/track/1UO7xiV3QaRfPXUpiVRsEp"
     },
     {
       "album": {
@@ -3240,7 +3280,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -3848,7 +3888,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 183720,
       "name": "Cuenta (feat. Meryl & Shay)",
       "url": "https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr"
@@ -3892,7 +3932,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 196970,
       "name": "D'or et d'\u00e9tain",
       "url": "https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf"
@@ -5680,7 +5720,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 224877,
       "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
@@ -6554,6 +6594,24 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -8119,6 +8177,24 @@
     },
     {
       "album": {
+        "name": "J'assume",
+        "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178331,
+      "name": "J'assume",
+      "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
+    },
+    {
+      "album": {
         "name": "J'avoue",
         "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
       },
@@ -8228,7 +8304,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186000,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s"
@@ -11560,6 +11636,24 @@
       "duration_ms": 162413,
       "name": "Nice to meet you (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
+    },
+    {
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
       "album": {
@@ -15281,6 +15375,36 @@
     },
     {
       "album": {
+        "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+        "url": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194645,
+      "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+      "url": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
+    },
+    {
+      "album": {
         "name": "Someone To Be Mine",
         "url": "https://open.spotify.com/album/72iHQagmmuV7tzm74PQRJy"
       },
@@ -16997,6 +17121,24 @@
     },
     {
       "album": {
+        "name": "Tricheur",
+        "url": "https://open.spotify.com/album/32ZKihSHtuK9M9ZHJJdqaf"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162626,
+      "name": "Tricheur",
+      "url": "https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U"
+    },
+    {
+      "album": {
         "name": "on s'en rappellera pas",
         "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
       },
@@ -17822,7 +17964,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 117691,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/7DVtpzEq51TFOYufMlMcD8"

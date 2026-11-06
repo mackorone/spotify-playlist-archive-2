@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Gaia Morelli in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Materazi Future Club in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -650,7 +650,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 174789,
       "name": "A Ddhu Mare Te Porta",
       "url": "https://open.spotify.com/track/3sW2mbGWHA4BLRIiuK0iRI"
@@ -816,6 +816,24 @@
       "duration_ms": 203657,
       "name": "a minute a moment",
       "url": "https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC"
+    },
+    {
+      "album": {
+        "name": "A new balance",
+        "url": "https://open.spotify.com/album/79XdgPxEvfBeb1oFkqGj4a"
+      },
+      "artists": [
+        {
+          "name": "Corde Oblique",
+          "url": "https://open.spotify.com/artist/2GjsEox2Zh6hdrFGq8EbUF"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334066,
+      "name": "A new balance",
+      "url": "https://open.spotify.com/track/1tniYf4h0S1JZVPv3jlONa"
     },
     {
       "album": {
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 249887,
       "name": "Almeno novembre",
       "url": "https://open.spotify.com/track/7hIHGPVf4sPm6PK1AXaG3W"
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191925,
       "name": "Before The Fall",
       "url": "https://open.spotify.com/track/09p23iHIwwU43GLgqtRaZq"
@@ -5168,7 +5186,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 171147,
       "name": "candeline",
       "url": "https://open.spotify.com/track/7JnEv0Mxn0AWtjmJtXrO2M"
@@ -5848,6 +5866,28 @@
       "duration_ms": 207298,
       "name": "Cena di famiglia",
       "url": "https://open.spotify.com/track/1CwKHSfKqHywOxnuqbkcvA"
+    },
+    {
+      "album": {
+        "name": "Cerco una ragazza, disperatamente",
+        "url": "https://open.spotify.com/album/7BiIwCTIhykxRlLaHJjV3m"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Ottomano",
+          "url": "https://open.spotify.com/artist/254iU0xjqUkOf7qaFutraU"
+        },
+        {
+          "name": "Topo Nero Rock",
+          "url": "https://open.spotify.com/artist/6yu3yrvAdb3nIC9WqmPWHN"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199389,
+      "name": "Cerco una ragazza, disperatamente",
+      "url": "https://open.spotify.com/track/5dZMGTFtmIfhuEul3bXBhv"
     },
     {
       "album": {
@@ -6920,7 +6960,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182168,
       "name": "Come Fai Tu Con Me",
       "url": "https://open.spotify.com/track/7GJANoNC3m6IrLp3D9rJaB"
@@ -8330,7 +8370,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 209000,
       "name": "Dead Ends",
       "url": "https://open.spotify.com/track/7r8zGW8FS5u3TDqJebluTt"
@@ -9384,6 +9424,24 @@
       "duration_ms": 229150,
       "name": "Domani",
       "url": "https://open.spotify.com/track/1rP1VNE1pdjARdsoknK9YD"
+    },
+    {
+      "album": {
+        "name": "Domani",
+        "url": "https://open.spotify.com/album/2o2o2XN4jwjzya8PusUVFE"
+      },
+      "artists": [
+        {
+          "name": "quattrounoquattro",
+          "url": "https://open.spotify.com/artist/66kqb9gaxY20RusLo9QqEo"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143863,
+      "name": "Domani",
+      "url": "https://open.spotify.com/track/1qcEqEwFIedr7lDnplWxVP"
     },
     {
       "album": {
@@ -12761,6 +12819,24 @@
     },
     {
       "album": {
+        "name": "IL GRANDE OKAY",
+        "url": "https://open.spotify.com/album/3bwEbjiwjMMluK1oLLekl6"
+      },
+      "artists": [
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "FUCILE TREMENDO",
+      "url": "https://open.spotify.com/track/3UUMxnjUyhPm8neNTQbTsk"
+    },
+    {
+      "album": {
         "name": "Fumo Pt.1",
         "url": "https://open.spotify.com/album/0FKMBomD9ZuTFJF2neGDra"
       },
@@ -14888,7 +14964,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 225384,
       "name": "How do they make cry a court jester?",
       "url": "https://open.spotify.com/track/54jNk1QKmtAUQqrRHnuGT6"
@@ -16743,6 +16819,24 @@
     },
     {
       "album": {
+        "name": "Is That So",
+        "url": "https://open.spotify.com/album/3Kdr639fLwN4rIGhZDjF1R"
+      },
+      "artists": [
+        {
+          "name": "MILANOSPORT",
+          "url": "https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173979,
+      "name": "Is That So",
+      "url": "https://open.spotify.com/track/5SKIZ8M0a8TEaRETpKym5B"
+    },
+    {
+      "album": {
         "name": "Ischia",
         "url": "https://open.spotify.com/album/1gv7rljR7gfFy9kxb2Y50v"
       },
@@ -17228,6 +17322,24 @@
       "duration_ms": 435880,
       "name": "Kether",
       "url": "https://open.spotify.com/track/5rj5QQoIexPzUlT9gwWxtG"
+    },
+    {
+      "album": {
+        "name": "Kidnapping",
+        "url": "https://open.spotify.com/album/2irQKDS5Jr4rq4JGu5v85F"
+      },
+      "artists": [
+        {
+          "name": "Lasael",
+          "url": "https://open.spotify.com/artist/2zS67qAnOQTSFCiG6cDOZH"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277332,
+      "name": "Kidnapping",
+      "url": "https://open.spotify.com/track/6UGDcBzn1wCs0JVxodKGUW"
     },
     {
       "album": {
@@ -18552,6 +18664,24 @@
       "duration_ms": 150319,
       "name": "La Tristezza Non Esiste",
       "url": "https://open.spotify.com/track/2jqBsWK8YB0erB288d1QDD"
+    },
+    {
+      "album": {
+        "name": "La violenza intorno",
+        "url": "https://open.spotify.com/album/3wL3nFN2JTcPwaw7wttYa7"
+      },
+      "artists": [
+        {
+          "name": "MANAGEMENT DEL DOLORE POST-OPERATORIO",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192683,
+      "name": "La violenza intorno",
+      "url": "https://open.spotify.com/track/08AdRX8mIejkkstgX8NR9x"
     },
     {
       "album": {
@@ -28683,6 +28813,28 @@
     },
     {
       "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/3MnAMjcv7m4dPEIUKwIi3K"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        },
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183096,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/2BLQtZ41tplwKFJnDSUhCD"
+    },
+    {
+      "album": {
         "name": "This Is How We Dance",
         "url": "https://open.spotify.com/album/3mUOOM6v6ZPfbYmhp0iQH0"
       },
@@ -28886,6 +29038,24 @@
       "duration_ms": 213950,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL"
+    },
+    {
+      "album": {
+        "name": "Rest In Fight",
+        "url": "https://open.spotify.com/album/3kcYI5qf2k0m5ablgKrFo9"
+      },
+      "artists": [
+        {
+          "name": "23 And Beyond The Infinite",
+          "url": "https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146436,
+      "name": "Rest In Fight",
+      "url": "https://open.spotify.com/track/1Ibpqkq11iSRPdOP132Sju"
     },
     {
       "album": {
@@ -33940,7 +34110,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 264000,
       "name": "The Fog",
       "url": "https://open.spotify.com/track/1dRHaqYPUG78Agd8eBCFmk"
@@ -35876,7 +36046,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 241616,
       "name": "Tutto passa",
       "url": "https://open.spotify.com/track/5r9l84bzXIzD4Mv3arpMmb"
@@ -36046,6 +36216,24 @@
       "duration_ms": 127966,
       "name": "Ultima canzone",
       "url": "https://open.spotify.com/track/4ZneAAWMLrUv1SUfIPtPv4"
+    },
+    {
+      "album": {
+        "name": "Ultima Notte",
+        "url": "https://open.spotify.com/album/2QxDLSVEr0MjdB7McTqaL5"
+      },
+      "artists": [
+        {
+          "name": "Talco",
+          "url": "https://open.spotify.com/artist/443KHruraFfm6t1cK8SJCc"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177143,
+      "name": "Ultima Notte",
+      "url": "https://open.spotify.com/track/0e5i1AlyxugslSsAO99LeI"
     },
     {
       "album": {
@@ -37060,7 +37248,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 195881,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/75UrfwJf31x1WCvKWp8BCl"
@@ -38924,6 +39112,24 @@
       "duration_ms": 223200,
       "name": "Zoja",
       "url": "https://open.spotify.com/track/2xyJDO1CSdgn222KdHuTux"
+    },
+    {
+      "album": {
+        "name": "THE ITALIAN JOB",
+        "url": "https://open.spotify.com/album/6onk6Z3JeGGQaelLCJ9wUu"
+      },
+      "artists": [
+        {
+          "name": "Materazi Future Club",
+          "url": "https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "ZOLA (The Italian job, pt.1)",
+      "url": "https://open.spotify.com/track/2r4p0uj9QaQrUAisBU7Acd"
     },
     {
       "album": {

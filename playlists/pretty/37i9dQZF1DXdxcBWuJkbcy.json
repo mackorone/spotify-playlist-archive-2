@@ -1,12 +1,12 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7811197,
+  "num_followers": 7810982,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN8aF9CHkqfWwabDkb2RQDpPpUrN",
+  "snapshot_id": "AAAAAAurvtPF0cdvysTQi0WPyj6gXxsT",
   "tracks": [
     {
       "added_at": "2026-10-29 23:00:54",
@@ -73,24 +73,32 @@
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
-      "added_at": "2026-10-29 23:00:54",
+      "added_at": "2026-11-05 23:00:21",
       "album": {
-        "name": "Voicemail (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/6NeAtmL9sxQga7lc1EOQro"
+        "name": "Reload (swedm\u00ae Remix)",
+        "url": "https://open.spotify.com/album/3S4SOGuORtJXHy45p1Q951"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Voicemail (Ti\u00ebsto Remix)",
-      "url": "https://open.spotify.com/track/6vbQFxIETahvyrcI6N00Cc"
+      "duration_ms": 354375,
+      "name": "Reload - swedm\u00ae Remix",
+      "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
     },
     {
       "added_at": "2026-10-29 23:00:54",
@@ -989,6 +997,26 @@
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
+      "added_at": "2026-11-05 23:00:21",
+      "album": {
+        "name": "OUTTA SPACE",
+        "url": "https://open.spotify.com/album/1eDmNvmGaHaTPuq7fG59SI"
+      },
+      "artists": [
+        {
+          "name": "weirdtechnogirlfriend",
+          "url": "https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC"
+        },
+        {
+          "name": "PAUL LE B\u00c1Y",
+          "url": "https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn"
+        }
+      ],
+      "duration_ms": 169783,
+      "name": "OUTTA SPACE",
+      "url": "https://open.spotify.com/track/4NSS3l3v7GuF137mbFf4x3"
+    },
+    {
       "added_at": "2026-10-29 23:00:54",
       "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
@@ -1271,26 +1299,6 @@
     {
       "added_at": "2026-10-29 23:00:54",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
-    },
-    {
-      "added_at": "2026-10-29 23:00:54",
-      "album": {
         "name": "Dancin (feat. Luvli) [southstar Remix]",
         "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
       },
@@ -1315,18 +1323,22 @@
     {
       "added_at": "2026-10-29 23:00:54",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+      "duration_ms": 194890,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
     },
     {
       "added_at": "2026-10-29 23:00:54",
@@ -1355,6 +1367,22 @@
     {
       "added_at": "2026-10-29 23:00:54",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2026-10-29 23:00:54",
+      "album": {
         "name": "The Less I Know The Better",
         "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
       },
@@ -1367,6 +1395,26 @@
       "duration_ms": 176114,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "added_at": "2026-10-29 23:00:54",
+      "album": {
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2026-10-29 23:00:54",
@@ -1391,26 +1439,6 @@
       "duration_ms": 187686,
       "name": "World Away",
       "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
-    },
-    {
-      "added_at": "2026-10-29 23:00:54",
-      "album": {
-        "name": "Tell Me Why (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Tell Me Why - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2026-10-29 23:00:54",
@@ -1623,26 +1651,6 @@
       "duration_ms": 205190,
       "name": "Orla",
       "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
-    },
-    {
-      "added_at": "2026-10-29 23:00:54",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263767,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
     }
   ],
   "unique_name": "Gym Hits",

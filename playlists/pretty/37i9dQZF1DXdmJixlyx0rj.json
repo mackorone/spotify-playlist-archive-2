@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Yaeji)",
-  "num_followers": 38242,
+  "num_followers": 38244,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
+        "name": "CHU\u2661",
+        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "duration_ms": 99324,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
         "name": "Indigo Garden / Calendula",
         "url": "https://open.spotify.com/album/4aXUSgYCdRpX5e1nQuvSNl"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 224516,
       "name": "Indigo Garden",
       "url": "https://open.spotify.com/track/4Io8HhorQhJULj23RSYsTM"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
-        "name": "CHU\u2661",
-        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
-      },
-      "artists": [
-        {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        }
-      ],
-      "duration_ms": 99324,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "SCIENTIST (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "NO DRUGS",
         "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 146293,
       "name": "DRIFT",
       "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "SCIENTIST (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Dirty Work (Remixes)",
-        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 201454,
-      "name": "Dirty Work - RayRay Remix",
-      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "Photon",
         "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "Dirty Work (Remixes)",
+        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 201454,
+      "name": "Dirty Work - RayRay Remix",
+      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Mushroom House",
-        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
-      },
-      "artists": [
-        {
-          "name": "Tomatomat",
-          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mushroom House",
-      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "K-POP ScreaM 3",
         "url": "https://open.spotify.com/album/5NK2QooMJIctUo0gUX4yfm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 270400,
       "name": "poppop - Arkins Remix",
       "url": "https://open.spotify.com/track/6W5jkQxPErgbTLNcu6QEJb"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "Mushroom House",
+        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
+      },
+      "artists": [
+        {
+          "name": "Tomatomat",
+          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mushroom House",
+      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Bobblehead",
-        "url": "https://open.spotify.com/album/1LRZh4lHqOMMy08pf30KKK"
-      },
-      "artists": [
-        {
-          "name": "Didi Han",
-          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Bobblehead",
-      "url": "https://open.spotify.com/track/05kLvFXcTKqNgQY9wtwqPQ"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "eigensinn",
         "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 261301,
       "name": "homes",
       "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "Bobblehead",
+        "url": "https://open.spotify.com/album/1LRZh4lHqOMMy08pf30KKK"
+      },
+      "artists": [
+        {
+          "name": "Didi Han",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Bobblehead",
+      "url": "https://open.spotify.com/track/05kLvFXcTKqNgQY9wtwqPQ"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
+        "name": "MOLLAK",
+        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
+      },
+      "artists": [
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        },
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Narak",
+      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
         "name": "Lucky Star",
         "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 224640,
       "name": "Armageddon (Mount XLR Remix)",
       "url": "https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
-        "name": "MOLLAK",
-        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
-      },
-      "artists": [
-        {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
-        },
-        {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Narak",
-      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1667,6 +1667,30 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
+        "name": "Atmosphere - SM STATION",
+        "url": "https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ"
+      },
+      "artists": [
+        {
+          "name": "Juncoco",
+          "url": "https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td"
+        },
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        },
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 191654,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
         "name": "Motorskills",
         "url": "https://open.spotify.com/album/3yunGdbhiuxIjgwEBGt4YY"
       },
@@ -1707,46 +1731,6 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Atmosphere - SM STATION",
-        "url": "https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ"
-      },
-      "artists": [
-        {
-          "name": "Juncoco",
-          "url": "https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td"
-        },
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        },
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 191654,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
-    },
-    {
-      "added_at": "2026-11-03 01:21:09",
-      "album": {
         "name": "Good Night Good Morning (GNGM) [minlee Remix]",
         "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
       },
@@ -1771,18 +1755,18 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Murda Dancing",
-        "url": "https://open.spotify.com/album/1tYtUUAkv1e4PCpMSsVRUl"
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
       },
       "artists": [
         {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 286532,
-      "name": "Murda Dancing",
-      "url": "https://open.spotify.com/track/38Zm37YpCdZyZ9D3qBrQYl"
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1803,6 +1787,22 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "added_at": "2026-11-03 01:21:09",
+      "album": {
+        "name": "Murda Dancing",
+        "url": "https://open.spotify.com/album/1tYtUUAkv1e4PCpMSsVRUl"
+      },
+      "artists": [
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        }
+      ],
+      "duration_ms": 286532,
+      "name": "Murda Dancing",
+      "url": "https://open.spotify.com/track/38Zm37YpCdZyZ9D3qBrQYl"
     },
     {
       "added_at": "2026-11-03 01:21:09",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2026-11-03 01:21:09",
       "album": {
-        "name": "Tage",
-        "url": "https://open.spotify.com/album/46B9Y2LqWspCLaydLyaefa"
+        "name": "KPOP B!TCH",
+        "url": "https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk"
       },
       "artists": [
         {
-          "name": "HYPNOSIS THERAPY",
-          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
         }
       ],
-      "duration_ms": 413017,
-      "name": "Tage",
-      "url": "https://open.spotify.com/track/0l7CjPSu1pXGmuudm69DSp"
+      "duration_ms": 172554,
+      "name": "KPOP B!TCH",
+      "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
     }
   ],
   "unique_name": "Electronii[K]",

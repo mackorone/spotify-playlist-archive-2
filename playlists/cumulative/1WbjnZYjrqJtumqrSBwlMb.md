@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,418 songs - 3 day 15 hr 27 min
+1,420 songs - 3 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Dasani \(feat\. DC The Don and SEBii\)](https://open.spotify.com/track/0l6C8iB17ABkRIZ2Yjrw8J) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 3:19 | 2021-11-03 |  |
 | [Days Lie Dormant](https://open.spotify.com/track/3yKIL7niCEJajKlVmMNBZA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:26 | 2025-09-12 |  |
 | [Dead Man Walking](https://open.spotify.com/track/4j6lDQ7Nl4ClcTtur36CMN) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:16 | 2021-12-18 |  |
-| [deadroses](https://open.spotify.com/track/3cuW0sgJND4ZkdN1m7m7Gg) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 3:04 | 2022-05-26 |  |
+| [deadroses](https://open.spotify.com/track/3cuW0sgJND4ZkdN1m7m7Gg) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 3:04 | 2022-05-26 |  |
 | [Dealer](https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:34 | 2021-10-21 |  |
 | [death rolL](https://open.spotify.com/track/2WyamBrb8ICGHr42YxTZt6) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [crystallized & death rolL](https://open.spotify.com/album/1dvP2ORk7syTl4Q72C7VIU) | 4:14 | 2026-10-01 |  |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2023-11-16 |  |
@@ -915,6 +915,7 @@
 | [Peace](https://open.spotify.com/track/1Vh2FuTpnwoGY8nLofQWOF) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Human Error](https://open.spotify.com/album/4eEEu5QHZm3miNdfCrD5ew) | 7:09 | 2026-10-20 |  |
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-05-23 |  |
 | [Peach Pit \- Live](https://open.spotify.com/track/7JJTMPO5F6VFROyjSa8Bcl) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Live in 25](https://open.spotify.com/album/36AMOKwsUCmhh2UtY3epAp) | 5:13 | 2026-04-09 |  |
+| [Penelope](https://open.spotify.com/track/2DRHi6w6vTAlH7pxmlx5WI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 2:54 | 2026-11-06 |  |
 | [People Pleaser \(feat\. Guapdad 4000\)](https://open.spotify.com/track/6BXM0vDgpfYzPe02lJ5Kfu) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 3:22 | 2021-05-31 |  |
 | [Pepsi on the House](https://open.spotify.com/track/2zFfWkjDH9WPvClmhqdCea) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:01 | 2022-03-04 |  |
 | [Perfect Sense](https://open.spotify.com/track/0z5x3VmmQ7cyTeOP7VAf3T) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 2:47 | 2022-10-20 |  |
@@ -1203,6 +1204,7 @@
 | [The Bourne Identity](https://open.spotify.com/track/2QrfU81khdENzp0NcE47q1) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:05 | 2020-09-22 |  |
 | [The Car](https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:18 | 2022-10-20 |  |
 | [The Chamber](https://open.spotify.com/track/1WCPVw8VEZNIBlldlcI6dU) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:39 | 2020-09-22 |  |
+| [The Colosseum \(feat\. Mustafa\)](https://open.spotify.com/track/24FP7CozXv36q27fzHKTYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 2:58 | 2026-11-06 |  |
 | [The Contract](https://open.spotify.com/track/22BA9h34P0Q2PGZudsEBco) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:45 | 2025-09-12 |  |
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-12 |  |
 | [The Craving \(Jenna's version\)](https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 2:54 | 2024-05-23 |  |
@@ -1352,7 +1354,7 @@
 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2024-04-02 |  |
 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 | 2024-04-13 |  |
 | [We're Just Making It Worse](https://open.spotify.com/track/0An092SY8oMh1yOZKVGGfB) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr), [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [We're Just Making It Worse](https://open.spotify.com/album/35eStzoyAzXknYTrsn8xp9) | 4:04 | 2022-08-08 |  |
-| [weak when ur around](https://open.spotify.com/track/3UWkbO4emEOu9YUeOGq3vU) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 2:49 | 2022-03-08 |  |
+| [weak when ur around](https://open.spotify.com/track/3UWkbO4emEOu9YUeOGq3vU) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 2:49 | 2022-03-08 |  |
 | [Web](https://open.spotify.com/track/5AwYKIFP390CdH7XAS4k8z) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 2:06 | 2022-06-05 |  |
 | [Welcome To Heartbreak](https://open.spotify.com/track/5Qhq7GH9AOvpP6h7QkRWTl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [808s & Heartbreak](https://open.spotify.com/album/5ykOQlHaE5ZRxMibfI75YW) | 4:22 | 2022-04-06 |  |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2022-03-02 |  |

@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> LOS DOS DE TAMAULIPAS & Grupo Frontera poniendo la Música Mexicana en alto en la playlist sin fronteras.
+> Grupo Firme y El Esparza poniendo la Música Mexicana en alto en la playlist sin fronteras.
 
-1,238 songs - 2 day 15 hr 24 min
+1,240 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [CUANDO PIENSO EN TI](https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [CUANDO PIENSO EN TI](https://open.spotify.com/album/5OH5uSG2KcwFb4OJODn0NQ) | 2:22 | 2025-09-05 | 2025-12-06 |
 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 | 2022-08-26 | 2023-01-28 |
 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 | 2021-12-21 | 2022-05-07 |
+| [Cuando Yo Me Muera](https://open.spotify.com/track/75MQzeH9gyqCtuOAORQCBe) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Cuando Yo Me Muera](https://open.spotify.com/album/5YEDDnQxM5ebCTsRotIcoy) | 3:09 | 2026-11-06 |  |
 | [CUANTAS VECES](https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:29 | 2025-08-08 | 2025-09-27 |
 | [CUENTO SIN FINAL](https://open.spotify.com/track/5BKcvdTUSon9p2dNZ187jn) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [SILENCIO HABLA](https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS) | 3:21 | 2026-01-23 | 2026-05-02 |
 | [Cuernito Armani](https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:03 | 2024-07-06 | 2024-07-13 |
@@ -688,6 +689,7 @@
 | [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 | 2023-06-30 | 2023-08-25 |
 | [MATCHA](https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 2:36 | 2026-04-17 | 2026-10-17 |
 | [Matcha Latte](https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Matcha Latte](https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV) | 2:47 | 2026-05-08 |  |
+| [MAÑA](https://open.spotify.com/track/1Cu21QoqwsiM1l8Z8cvFVA) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [MAÑA](https://open.spotify.com/album/5wo0yYSspyQB1rmtgJczuM) | 2:01 | 2026-11-06 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2021-12-31 | 2022-12-10 |
 | [Me Acostumbre A Lo Bueno \(Remix\)](https://open.spotify.com/track/31BLeQC9tZ4hTFoAhg3oBw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:18 | 2022-09-16 | 2022-10-08 |
 | [Me Amola](https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Amola](https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY) | 2:54 | 2025-12-05 | 2026-05-02 |

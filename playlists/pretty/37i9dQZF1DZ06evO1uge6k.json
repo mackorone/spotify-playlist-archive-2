@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 264667,
+  "num_followers": 264675,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAACUHgrW/2YepEUbGEDaYgck",
+  "snapshot_id": "aukkAAAAAAC6LggTQBbYguP9WceSQFWX",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Balinese (2005 Remaster)",
-      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
+      "duration_ms": 162346,
+      "name": "Nasty Dogs and Funky Kings (2005 Remaster)",
+      "url": "https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goin' 50",
-        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
+        "name": "The Very Baddest of ZZ Top",
+        "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 284253,
-      "name": "Viva Las Vegas (2019 Remaster)",
-      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
+      "duration_ms": 211773,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0eSfOEuazxnW8q52siYHPG"
     },
     {
       "added_at": null,
@@ -644,15 +644,15 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Nasty Dogs and Funky Kings (2005 Remaster)",
-      "url": "https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj"
+      "duration_ms": 156733,
+      "name": "Balinese (2005 Remaster)",
+      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Very Baddest of ZZ Top",
-        "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
+        "name": "Goin' 50",
+        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 211773,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/0eSfOEuazxnW8q52siYHPG"
+      "duration_ms": 284253,
+      "name": "Viva Las Vegas (2019 Remaster)",
+      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
     },
     {
       "added_at": null,

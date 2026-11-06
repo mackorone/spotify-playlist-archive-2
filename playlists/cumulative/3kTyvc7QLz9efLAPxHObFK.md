@@ -4,7 +4,7 @@
 
 > 
 
-3,251 songs - 6 day 23 hr 6 min
+3,252 songs - 6 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Bassline](https://open.spotify.com/track/6p6PxFeeVuTYjPrsET0Xen) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Bassline](https://open.spotify.com/album/1LZhcdi5mFd0HEmM2BU1xy) | 2:25 | 2023-09-07 |  |
 | [Bassline Breaker](https://open.spotify.com/track/2UsuaSK91xyXRxbjPH8BeN) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr), [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Bassline Breaker](https://open.spotify.com/album/45jLKb3skKjKw5XMKFxOHT) | 2:29 | 2023-05-25 |  |
 | [Bassline Crack](https://open.spotify.com/track/4RCvKi887zSgHQTivwcYgw) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Bassline Crack](https://open.spotify.com/album/2HS0E2a317110c9yYi8mo6) | 2:06 | 2025-12-28 |  |
-| [Bassline Dealer](https://open.spotify.com/track/7uzqiQGmqhxRWpoADhNjGU) | [Mosmoz](https://open.spotify.com/artist/4MyHcRaJ3tAi4DKvNGWXtx) | [Bassline Dealer](https://open.spotify.com/album/1xt1KHxIKMycgKIdhGC9Ut) | 4:09 | 2026-07-29 |  |
+| [Bassline Dealer](https://open.spotify.com/track/7uzqiQGmqhxRWpoADhNjGU) | [Mosmoz](https://open.spotify.com/artist/4MyHcRaJ3tAi4DKvNGWXtx) | [Bassline Dealer](https://open.spotify.com/album/1xt1KHxIKMycgKIdhGC9Ut) | 4:09 | 2026-07-29 | 2026-11-06 |
 | [BASSLINE KILLAH](https://open.spotify.com/track/2f2NbW3VGp5hCwMWuJMrm7) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [BASSLINE KILLAH](https://open.spotify.com/album/3GuU21S3h1Lx6NQAGPlVfE) | 3:18 | 2025-02-01 |  |
 | [Bassride](https://open.spotify.com/track/7Hx4LfiaOZ8O89PVa1RpTl) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Dark Reality](https://open.spotify.com/album/1cOYWau4urMqLvpZGdy0CV) | 3:50 | 2023-10-19 |  |
 | [BATTLE](https://open.spotify.com/track/3zscopCeIVV8yMLJxq0hxI) | [SL Complex](https://open.spotify.com/artist/1K24lyixWU3NZMhevM0UQW) | [BATTLE](https://open.spotify.com/album/4ZOTVLztiBXM588Nuw7VJK) | 3:25 | 2026-02-03 |  |
@@ -1798,6 +1798,7 @@
 | [Luminous](https://open.spotify.com/track/5jujJtZEiK5XTNErbneinV) | [Hpnotic](https://open.spotify.com/artist/3i1UPREmSz63semHZdpq50) | [Luminous](https://open.spotify.com/album/1kOHm8tHAcs8UB9dvbx4Xc) | 3:37 | 2022-03-24 |  |
 | [LUNASIDE](https://open.spotify.com/track/5rJ9r67gmjUdShZhOKzfh5) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LUNASIDE](https://open.spotify.com/album/1ia35KtG2bRvUkveXEnvEg) | 2:51 | 2023-04-14 |  |
 | [LUNATIC](https://open.spotify.com/track/3SuNsy21krPnyMyRuHd2eZ) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LUNATIC](https://open.spotify.com/album/2PvD5AcudTlYxgRnUpxW0K) | 2:45 | 2024-10-11 |  |
+| [LUNATIC](https://open.spotify.com/track/7mTuaYq4dF2DtAMjTIzWbH) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [LUNATIC](https://open.spotify.com/album/5X4Tyjppw5jv8KDT8C9eD3) | 2:25 | 2026-11-05 |  |
 | [Luv Redux](https://open.spotify.com/track/6Ug3vnQRk30sUrOvDWstgI) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i), [Sokudo](https://open.spotify.com/artist/2VUrbKvkJFybQrDZwdUsMK) | [Luv Redux](https://open.spotify.com/album/3nCiAHlpV5CQ3lZaUur0h9) | 4:20 | 2022-02-22 |  |
 | [Luxury](https://open.spotify.com/track/7x83LpD1fFtRXlUjqMcq73) | [Dark Individual](https://open.spotify.com/artist/7bv5tvdTZlKCbsgMzOVC5i), [Luxo](https://open.spotify.com/artist/7h5MIY0DDgKGvb0jT4KZzE) | [Luxury](https://open.spotify.com/album/18TuUSk9IgUAWq9VZIi18a) | 2:20 | 2024-05-16 |  |
 | [M'Lady \- S3RL Remix](https://open.spotify.com/track/67rzHLTwNZoQAJlc2d4QIQ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [My Agenda \(Deluxe\)](https://open.spotify.com/album/1G5F0OJpuuVZ8g3zw3BMEQ) | 2:35 | 2022-07-25 |  |

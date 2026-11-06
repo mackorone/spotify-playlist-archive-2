@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: pami ",
+  "description": "time to strike a couple of poses. cover: HANA",
   "name": "poses",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 242000,
       "name": "10yrs",
       "url": "https://open.spotify.com/track/7smsa7cVPwPteHJJ2Rgpbo"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 266933,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/4ME0r64EIQ0dw8YKIUp4Ay"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 181833,
       "name": "Break The Habit",
       "url": "https://open.spotify.com/track/32SMJKVThDZuGpK2qeQXPr"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 169546,
       "name": "BURNING UP",
       "url": "https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 217696,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 238180,
       "name": "Haru Ni Mau",
       "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 135460,
       "name": "honk!",
       "url": "https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -1024,6 +1024,24 @@
       "duration_ms": 240000,
       "name": "However Long It Takes (Go!)",
       "url": "https://open.spotify.com/track/5Im0t3P370wcX6ntTSvEAi"
+    },
+    {
+      "album": {
+        "name": "Hysteric / Adam",
+        "url": "https://open.spotify.com/album/7dvg5rUzCp9jOguoz8PmFf"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Hysteric",
+      "url": "https://open.spotify.com/track/5cCiqtYFbUNVknlcnjyk8V"
     },
     {
       "album": {
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 189000,
       "name": "ICONIC HEART",
       "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 146204,
       "name": "MEXE",
       "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 203296,
       "name": "My Body",
       "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 141285,
       "name": "Pop Off Pop Off",
       "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 185000,
       "name": "Serenade (KARINA & WINTER)",
       "url": "https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o"
@@ -2096,6 +2114,24 @@
       "duration_ms": 192000,
       "name": "Shake!",
       "url": "https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP"
+    },
+    {
+      "album": {
+        "name": "Slidin",
+        "url": "https://open.spotify.com/album/3nSlGw0nRjALQMGVrvFxew"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159368,
+      "name": "Slidin",
+      "url": "https://open.spotify.com/track/2wNsXxFKjKfiffzEK1RHqs"
     },
     {
       "album": {
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162600,
       "name": "SPEECHLESS",
       "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
@@ -2388,7 +2424,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 130894,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4a1ZYe8ed9cL1NHl7er6Bw"
@@ -2406,7 +2442,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
@@ -2447,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
+    },
+    {
+      "album": {
         "name": "TEA",
         "url": "https://open.spotify.com/album/4n7cIEu4ChiII7yBfCxw2c"
       },
@@ -2462,6 +2516,24 @@
       "duration_ms": 143959,
       "name": "TEA",
       "url": "https://open.spotify.com/track/7bPdIsdwV5u3LWexYRnl1X"
+    },
+    {
+      "album": {
+        "name": "telepathy",
+        "url": "https://open.spotify.com/album/4oCkwriBvj2AwV6ZXzeowh"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151950,
+      "name": "telepathy",
+      "url": "https://open.spotify.com/track/3n0RcjrToafmoJGh3GEAtE"
     },
     {
       "album": {
@@ -2744,7 +2816,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p"
@@ -2788,6 +2860,24 @@
       "duration_ms": 234666,
       "name": "your playlist is a lie",
       "url": "https://open.spotify.com/track/7rtzMVusuwTZtK2crtdtpO"
+    },
+    {
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
     },
     {
       "album": {
@@ -2838,7 +2928,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 239840,
       "name": "\u30b3\u30c8\u30ce\u30cf - Kotonoha",
       "url": "https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R"

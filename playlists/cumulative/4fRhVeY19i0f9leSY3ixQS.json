@@ -9445,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "Curry Dom Jolly (Odb Remix)",
+        "url": "https://open.spotify.com/album/5p60P977ORgK1CeADXVJAG"
+      },
+      "artists": [
+        {
+          "name": "onedaybear",
+          "url": "https://open.spotify.com/artist/5j1EDANHwCyPDspSfLeEtE"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Curry Dom Jolly - Odb Remix",
+      "url": "https://open.spotify.com/track/3vZqVgCsxUF7BHVzntFwFi"
+    },
+    {
+      "album": {
         "name": "curveball",
         "url": "https://open.spotify.com/album/4jcGuHtzWlzpZoGyvmsWfA"
       },
@@ -11110,7 +11128,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 175268,
       "name": "Disappointment Panda",
       "url": "https://open.spotify.com/track/12ehT5XRXyjftkI8WBpnAX"
@@ -15400,7 +15418,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 172712,
       "name": "Forgot Yourself",
       "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
@@ -17472,6 +17490,24 @@
       "duration_ms": 285255,
       "name": "Gravedigger",
       "url": "https://open.spotify.com/track/6NF34BT86sQ1toBRLzzMsl"
+    },
+    {
+      "album": {
+        "name": "gravelord",
+        "url": "https://open.spotify.com/album/0kAQkR6PZQrhrCFrX9xkIh"
+      },
+      "artists": [
+        {
+          "name": "dilute_calico98",
+          "url": "https://open.spotify.com/artist/6B6DUCXa5mpnviu6oo4sUS"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161829,
+      "name": "gravelord",
+      "url": "https://open.spotify.com/track/4T6Q7azFhkmKvamsIFgP96"
     },
     {
       "album": {
@@ -19732,7 +19768,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 259000,
       "name": "I Don't Mind (I Fade Away)",
       "url": "https://open.spotify.com/track/74XXhqsw7q2Kg9OJ3caTZS"
@@ -24767,6 +24803,28 @@
     },
     {
       "album": {
+        "name": "Looking4",
+        "url": "https://open.spotify.com/album/02KI1ennWj9d8qNtphPLZH"
+      },
+      "artists": [
+        {
+          "name": "Jonny Wolf",
+          "url": "https://open.spotify.com/artist/3MaiOklTPIVl516oHzlNlz"
+        },
+        {
+          "name": "The Fato Company",
+          "url": "https://open.spotify.com/artist/5MmLIJ0CLCnsFs7GUQDBrm"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Looking4",
+      "url": "https://open.spotify.com/track/29v8DcMcGyK4NCUHO35xg8"
+    },
+    {
+      "album": {
         "name": "Loose Change",
         "url": "https://open.spotify.com/album/6bgi9118jYzGvzk1TSFXMp"
       },
@@ -27642,6 +27700,24 @@
       "duration_ms": 229277,
       "name": "My New Ceilling Fan",
       "url": "https://open.spotify.com/track/7bXXZRdoFHsxzYRMhR3COK"
+    },
+    {
+      "album": {
+        "name": "My Own Canvas",
+        "url": "https://open.spotify.com/album/7psGyb7NwudnJf8x3h2vHC"
+      },
+      "artists": [
+        {
+          "name": "Salt Mirror",
+          "url": "https://open.spotify.com/artist/1bel5NFAKNnyrJBjxfc0Jy"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "My Own Canvas",
+      "url": "https://open.spotify.com/track/4hBlyuSNH6wss5YH9L3Jev"
     },
     {
       "album": {
@@ -31928,7 +32004,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 264960,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/1It8A5nY868nZi5BvXtVjS"
@@ -43326,7 +43402,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 146117,
       "name": "These Wolves",
       "url": "https://open.spotify.com/track/5iRuO0IPkDnULGwy2kBCmJ"
@@ -43470,7 +43546,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164042,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/3dDbhqYHOGuxr24CFyecPK"
@@ -44864,7 +44940,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 163666,
       "name": "Unburied",
       "url": "https://open.spotify.com/track/0Qu3AgdEPpv3UHiiyVj47X"
@@ -48840,7 +48916,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218687,
       "name": "You're Not Listening",
       "url": "https://open.spotify.com/track/4p3QyVpciaBN8Jd9CkspTh"

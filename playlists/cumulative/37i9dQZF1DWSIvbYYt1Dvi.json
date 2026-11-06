@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180000,
       "name": "Aquele ditado",
       "url": "https://open.spotify.com/track/0wld8ZbWBAgO8gVNPbcwtu"
@@ -4166,6 +4166,28 @@
       "duration_ms": 187283,
       "name": "DissAposta",
       "url": "https://open.spotify.com/track/0826YXDvd2ZnTohSHsiGGB"
+    },
+    {
+      "album": {
+        "name": "Di\u00e1rio de um Menor Calmo",
+        "url": "https://open.spotify.com/album/52bcS8R0L0JKVxQb6MZFmW"
+      },
+      "artists": [
+        {
+          "name": "Malagueta mc",
+          "url": "https://open.spotify.com/artist/0DSySEdxjlahXmxW4x0fak"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Di\u00e1rio de um Menor Calmo",
+      "url": "https://open.spotify.com/track/4R3KyW2k2rNfSWo1wrwqKI"
     },
     {
       "album": {

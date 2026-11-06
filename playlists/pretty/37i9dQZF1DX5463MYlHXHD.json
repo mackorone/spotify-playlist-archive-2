@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 601339,
+  "num_followers": 601427,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Ahi Ahi",
-        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
       "artists": [
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 176796,
-      "name": "Ahi Ahi",
-      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -259,22 +263,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+        "name": "Ahi Ahi",
+        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
         }
       ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+      "duration_ms": 176796,
+      "name": "Ahi Ahi",
+      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 230448,
       "name": "Sigue bailando mi amor",
       "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Su Majestad",
-        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 234864,
       "name": "Triste Palomita",
       "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 157093,
+      "name": "Guampa Chata",
+      "url": "https://open.spotify.com/track/6386yQ4ObRBt7hmPgmTLVA"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 157093,
-      "name": "Guampa Chata",
-      "url": "https://open.spotify.com/track/6386yQ4ObRBt7hmPgmTLVA"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Miguelito (El Angelito Musical)",
-        "url": "https://open.spotify.com/album/1vydlQIHdYUgxg3BWYhlEW"
-      },
-      "artists": [
-        {
-          "name": "Miguelito",
-          "url": "https://open.spotify.com/artist/4IJbOplPSGIRdzgO4fjSdC"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Para que volver",
-      "url": "https://open.spotify.com/track/5wKCkCOPWcJghSdU6aNi5X"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Y Si Est\u00e1s Perseguido...!",
         "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 161410,
       "name": "Te Escapas De Mis Brazos",
       "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Miguelito (El Angelito Musical)",
+        "url": "https://open.spotify.com/album/1vydlQIHdYUgxg3BWYhlEW"
+      },
+      "artists": [
+        {
+          "name": "Miguelito",
+          "url": "https://open.spotify.com/artist/4IJbOplPSGIRdzgO4fjSdC"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Para que volver",
+      "url": "https://open.spotify.com/track/5wKCkCOPWcJghSdU6aNi5X"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1687,6 +1687,22 @@
       "duration_ms": 221333,
       "name": "EXCUSAS",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "La 2\u00ba del Boxeador",
+      "url": "https://open.spotify.com/track/2FzrVCKuS508J1rpdgdfbD"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "La 2\u00ba del Boxeador",
-      "url": "https://open.spotify.com/track/2FzrVCKuS508J1rpdgdfbD"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "6to Sentido (Una Vuelta)",
         "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Entre el Cielo y el Infierno",
-        "url": "https://open.spotify.com/album/250mLLNWXNkT4LrFR2Sfb6"
-      },
-      "artists": [
-        {
-          "name": "El Judas",
-          "url": "https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf"
-        }
-      ],
-      "duration_ms": 188758,
-      "name": "Coraz\u00f3n Part\u00edo",
-      "url": "https://open.spotify.com/track/1qf4VMmKaRIEcCoMpOEGQE"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "La danza del tabl\u00f3n",
         "url": "https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 256866,
       "name": "La danza del tabl\u00f3n",
       "url": "https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Entre el Cielo y el Infierno",
+        "url": "https://open.spotify.com/album/250mLLNWXNkT4LrFR2Sfb6"
+      },
+      "artists": [
+        {
+          "name": "El Judas",
+          "url": "https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf"
+        }
+      ],
+      "duration_ms": 188758,
+      "name": "Coraz\u00f3n Part\u00edo",
+      "url": "https://open.spotify.com/track/1qf4VMmKaRIEcCoMpOEGQE"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1863,18 +1863,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La Gata",
-        "url": "https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa"
+        "name": "DJ ALEX, EL NOBA - TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
       "artists": [
         {
-          "name": "La Rama",
-          "url": "https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm"
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
         }
       ],
-      "duration_ms": 190200,
-      "name": "La Gata",
-      "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
+      "duration_ms": 137500,
+      "name": "DJ ALEX, EL NOBA - TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     }
   ],
   "unique_name": "Cumbia villera",

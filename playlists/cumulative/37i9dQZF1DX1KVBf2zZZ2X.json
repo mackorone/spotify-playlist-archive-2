@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Art of Not Thinking",
+        "url": "https://open.spotify.com/album/49POFabTwqR1iruPVDd0t1"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148514,
+      "name": "Art of Not Thinking",
+      "url": "https://open.spotify.com/track/6WgipQc3u3kHMJZio62NCk"
+    },
+    {
+      "album": {
         "name": "Ashoka",
         "url": "https://open.spotify.com/album/1hStx6RtGqzTbxliOUKELd"
       },
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156800,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf"
@@ -5493,6 +5511,24 @@
     },
     {
       "album": {
+        "name": "Soft Embrace",
+        "url": "https://open.spotify.com/album/68JgLqQGjzoTN4CUmULF60"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "Soft Embrace",
+      "url": "https://open.spotify.com/track/7fdbp2sO9tishNMGSLn8aj"
+    },
+    {
+      "album": {
         "name": "Softly Now",
         "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
       },
@@ -5630,7 +5666,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178976,
       "name": "Soulful Gem",
       "url": "https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98"

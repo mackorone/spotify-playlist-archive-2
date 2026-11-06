@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-169 songs - 12 hr 42 min
+170 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bang Bang Bang Bang](https://open.spotify.com/track/5UnmgwcLKjJI4HXt2loSNv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [If You Miss 'Im \. \. \. I Got 'Im](https://open.spotify.com/album/1yrXO83AmT3Q4O5Y7ZhqrW) | 4:47 | 2026-05-22 |  |
 | [Big Legs, Tight Skirt](https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:17 | 2024-02-03 |  |
 | [Big Legs, Tight Skirt](https://open.spotify.com/track/7iVRdJkeJPDIDAqy7ExRYu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 2:18 | 2022-08-05 | 2024-02-02 |
+| [Bluebird](https://open.spotify.com/track/5kcBIsJ9XsVruGUfkssgjF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Free Beer And Chicken](https://open.spotify.com/album/1MIaKSLBaOAHsPliPEcnut) | 5:25 | 2026-11-06 |  |
 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 | 2022-08-06 |  |
 | [Boogie Chillen](https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:09 | 2022-08-08 | 2024-02-05 |
 | [Boogie Chillen'](https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:10 | 2024-02-08 |  |
@@ -110,7 +111,7 @@
 | [My Dream](https://open.spotify.com/track/1zKEB3xTbdg3UZQHeCMVED) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:07 | 2024-05-15 | 2026-07-23 |
 | [My Dream](https://open.spotify.com/track/6OseBl5wferzmSCyvwVfzo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Healer](https://open.spotify.com/album/2jKj2prskANfjyo13navEs) | 4:07 | 2022-08-05 | 2024-01-15 |
 | [My Name Is Ringing](https://open.spotify.com/track/1DlxERD4bUmjsfU8ymeWHC) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Charcot Sessions](https://open.spotify.com/album/5Dov9przhtB39Xc5dPBmd5) | 5:17 | 2026-05-24 | 2026-06-20 |
-| [My Own Blues](https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:33 | 2022-08-05 |  |
+| [My Own Blues](https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:33 | 2022-08-05 | 2026-11-06 |
 | [Never Get Out Of These Blues Alive](https://open.spotify.com/track/3aIoVIQrgBS6pXRPCfdEoc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Never Get Out Of These Blues Alive](https://open.spotify.com/album/4U96KDWJpqQ64zXddvGib9) | 10:16 | 2022-08-05 | 2022-08-07 |
 | [Never Roam No More](https://open.spotify.com/track/6726edIl6xRsfTuyrtwHRi) | [The Bahama Soul Club](https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Bohemia After Dawn](https://open.spotify.com/album/4dotRnBEHH2pfh4ldApZ4d) | 3:58 | 2022-08-05 |  |
 | [No More Doggin'](https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:44 | 2022-11-23 | 2026-05-24 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "17 Vayasula",
+        "url": "https://open.spotify.com/album/4NP17rs9xYd6Lz4xiBKTky"
+      },
+      "artists": [
+        {
+          "name": "Sai Prashob",
+          "url": "https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206097,
+      "name": "17 Vayasula",
+      "url": "https://open.spotify.com/track/7HzjBwcNJqN4PRpjQsCQYb"
+    },
+    {
+      "album": {
         "name": "20 to 80 (Swan IndieTunes)",
         "url": "https://open.spotify.com/album/6hwapwnC2XmVf44Tnyqg11"
       },
@@ -10234,7 +10252,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205880,
       "name": "Mugathai Surukki",
       "url": "https://open.spotify.com/track/0Unp6q6WWbPfnjB5VJPVVS"
@@ -11050,6 +11068,32 @@
       "duration_ms": 235289,
       "name": "Neeyilla Vaanam",
       "url": "https://open.spotify.com/track/0wHQOJ5iXhKy9M5O5zmOl6"
+    },
+    {
+      "album": {
+        "name": "Neeyum Naanum",
+        "url": "https://open.spotify.com/album/3tI1WBaUhZch9rA4ivwCI1"
+      },
+      "artists": [
+        {
+          "name": "Yuthishtran E",
+          "url": "https://open.spotify.com/artist/2G11Wpg6zyY07eiRGiiTFm"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259320,
+      "name": "Neeyum Naanum",
+      "url": "https://open.spotify.com/track/5GfLlX8UhK0UKKiXZxvC6Z"
     },
     {
       "album": {
@@ -14436,7 +14480,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 244080,
       "name": "Sambalam",
       "url": "https://open.spotify.com/track/5PWMpLJustsfx2RtNOO084"

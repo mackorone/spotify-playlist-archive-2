@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Meesaya Murukku 2",
-  "num_followers": 225267,
+  "num_followers": 225394,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALK/JCJlnqH3+qNr3m8FQwOJH54/",
+  "snapshot_id": "AAAAAAMHNgFCWdQsPdWsl4CRJZt+8pT2",
   "tracks": [
     {
       "added_at": "2026-09-22 06:51:31",
@@ -73,6 +73,30 @@
       "url": "https://open.spotify.com/track/5DM9FesTYD1piLenjk4WBL"
     },
     {
+      "added_at": "2026-11-05 09:21:16",
+      "album": {
+        "name": "Senjudare (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+        "url": "https://open.spotify.com/album/1W38Sp6Wk1bLRLvBQZrazC"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+        }
+      ],
+      "duration_ms": 181294,
+      "name": "Senjudare (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+      "url": "https://open.spotify.com/track/0xy1L9hHUUa6AiHf9v8klp"
+    },
+    {
       "added_at": "2026-06-19 13:18:57",
       "album": {
         "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
@@ -125,6 +149,30 @@
       "url": "https://open.spotify.com/track/6yDTncrJuFg5pIyLS2UwkW"
     },
     {
+      "added_at": "2026-11-05 09:09:12",
+      "album": {
+        "name": "Nooru Kodi Vaanavil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6hhva4L9LK6vjs7myH1bqi"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Kannaatti",
+      "url": "https://open.spotify.com/track/540Z9Era170tRXUMdH5Wgz"
+    },
+    {
       "added_at": "2026-07-17 07:56:05",
       "album": {
         "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
@@ -171,6 +219,26 @@
       "duration_ms": 212000,
       "name": "Po Podhum Po - From \"Nooru Kodi Vaanavil\"",
       "url": "https://open.spotify.com/track/0dd15ZDAt2qt5ASYN8eac6"
+    },
+    {
+      "added_at": "2026-11-05 23:21:16",
+      "album": {
+        "name": "Address Ila Emotion (From \"John Doe\")",
+        "url": "https://open.spotify.com/album/6UyHX1AuS5M1xpbwEr8gUr"
+      },
+      "artists": [
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "The Artist 404",
+          "url": "https://open.spotify.com/artist/2VgzHNExXyOFqa4vhYLSmP"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Address Ila Emotion (From \"John Doe\")",
+      "url": "https://open.spotify.com/track/5ntQ0ESi17hUFReo5deVFp"
     },
     {
       "added_at": "2026-10-21 07:40:19",
@@ -463,30 +531,6 @@
       "duration_ms": 241500,
       "name": "Kalla Nikkiriye",
       "url": "https://open.spotify.com/track/7kWrkdaOjc5nXTwQpIbtuj"
-    },
-    {
-      "added_at": "2026-10-01 11:48:50",
-      "album": {
-        "name": "Yezhu Kadal Yezhu Malai - Side A (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RzVjjwy6eoy8ysB1jyX2Q"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 205285,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/2BsAPORVM3rWX2segrS1Bn"
     },
     {
       "added_at": "2026-08-14 00:34:46",
@@ -1075,54 +1119,6 @@
       "duration_ms": 199132,
       "name": "Yaar Yaarival - From \"Ram and Leela\"",
       "url": "https://open.spotify.com/track/3c2yNVENVB9jgDuFZzxRXs"
-    },
-    {
-      "added_at": "2026-07-17 07:56:05",
-      "album": {
-        "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1f4mJpk8E74sM9tTtj6Xby"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Idhayaa - Extended",
-      "url": "https://open.spotify.com/track/37m2El0eIgXO2cz2BndvOU"
-    },
-    {
-      "added_at": "2026-06-30 11:34:08",
-      "album": {
-        "name": "Saami Thandha Varamea (From \"Arjunan Per Paththu\")",
-        "url": "https://open.spotify.com/album/36lSRr4aroJhLOQbAtF8Gx"
-      },
-      "artists": [
-        {
-          "name": "Malvi Sundaresan",
-          "url": "https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA"
-        },
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Karthik Netha",
-          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
-        }
-      ],
-      "duration_ms": 277532,
-      "name": "Saami Thandha Varamea (From \"Arjunan Per Paththu\")",
-      "url": "https://open.spotify.com/track/1hkz8Puone5K8mEZk2ctDx"
     },
     {
       "added_at": "2026-06-26 05:18:38",

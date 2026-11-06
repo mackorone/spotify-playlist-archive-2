@@ -2129,6 +2129,28 @@
     },
     {
       "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/3xxBGPq9Rw8Uuc0NsAVRJr"
+      },
+      "artists": [
+        {
+          "name": "angelrot",
+          "url": "https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ"
+        },
+        {
+          "name": "skrta",
+          "url": "https://open.spotify.com/artist/1gZR1OO6ifGDdeVos9ZV3O"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/1gIXf8U5XUn9ZON1V9lYrl"
+    },
+    {
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/7i5fZ6T70XUTzkd8xiR3p8"
       },

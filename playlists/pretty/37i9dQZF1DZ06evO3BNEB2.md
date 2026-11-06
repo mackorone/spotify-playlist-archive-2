@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,337 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,345 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 44 | [Beautiful Bliss](https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 5:04 |
 | 45 | [On My Mind](https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:56 |
 | 46 | [My Boy \(feat\. J\. Cole\) \- Freestyle](https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Free Lunch](https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF) | 4:29 |
-| 47 | [The Girls on Drugs](https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:09 |
-| 48 | [You Got It \(feat\. Wale\)](https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 4:46 |
+| 47 | [You Got It \(feat\. Wale\)](https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 4:46 |
+| 48 | [The Girls on Drugs](https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:09 |
 | 49 | [Shotgun \(feat\. Wale\)](https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:38 |
 | 50 | [Chillin](https://open.spotify.com/track/2tQ4R1rTEFrorrBnQU5O5W) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 3:24 |
 
-Snapshot ID: `aufSgAAAAACRobusl83n1SaUwapSnVvv`
+Snapshot ID: `aukkAAAAAACYYyABTQ95pp34PO2MPnta`

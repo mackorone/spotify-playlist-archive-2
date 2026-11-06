@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits! Cover: Oliver Heldens & Will Clarke",
+  "description": "De beste dance hits! Cover: Armin van Buuren & Douwe Bob",
   "name": "360 Dance",
   "tracks": [
     {
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142900,
       "name": "Giving U",
       "url": "https://open.spotify.com/track/1F0IPLyOoXYgRfjpRj1B9P"
@@ -1860,6 +1860,32 @@
       "duration_ms": 230530,
       "name": "Heart Of A Dragon",
       "url": "https://open.spotify.com/track/5FKpVXEuq3qsuKeoAlLpnX"
+    },
+    {
+      "album": {
+        "name": "Heaven Is A Place",
+        "url": "https://open.spotify.com/album/5tnwqfo6Gw5iG9ojYBiAIu"
+      },
+      "artists": [
+        {
+          "name": "Charly Lownoise",
+          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
+        },
+        {
+          "name": "Dune",
+          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150509,
+      "name": "Heaven Is A Place",
+      "url": "https://open.spotify.com/track/5LzyQqk7PFRlmoqHLDi9vG"
     },
     {
       "album": {
@@ -3900,7 +3926,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 211200,
       "name": "Not So Bad",
       "url": "https://open.spotify.com/track/4Fx1Ioc966N56C2y8qOb2t"
@@ -4403,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/3cKlxftKAArUBEa6iPnhIh"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155710,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kGsYldOHe9x5XNSDJbEL6"
+    },
+    {
+      "album": {
         "name": "Reasons EP",
         "url": "https://open.spotify.com/album/7cqwMYtGdmytQ4tga6W6XL"
       },
@@ -4804,7 +4848,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
@@ -4948,7 +4992,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 117570,
       "name": "So Incredible (Remix)",
       "url": "https://open.spotify.com/track/5o9IvdwmVGFqhiWCP67qy2"
@@ -5040,6 +5084,28 @@
       "duration_ms": 187398,
       "name": "Soul Makossa",
       "url": "https://open.spotify.com/track/1SJ9nR9SOJGii00yV6AJaC"
+    },
+    {
+      "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169852,
+      "name": "Spijt Komt Later",
+      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
     },
     {
       "album": {
@@ -5886,6 +5952,28 @@
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
+    },
+    {
+      "album": {
+        "name": "What If I Told You",
+        "url": "https://open.spotify.com/album/0s5dJYJD3Ya9i2bhqvslOl"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174407,
+      "name": "What If I Told You",
+      "url": "https://open.spotify.com/track/1Prjbm3rLgAsp10cI0RVia"
     },
     {
       "album": {

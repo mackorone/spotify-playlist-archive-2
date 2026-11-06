@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1577499,
+  "num_followers": 1577646,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "The Ritual",
-        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 390800,
-      "name": "Return to Serenity",
-      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Chapter V",
         "url": "https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 251013,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 390800,
+      "name": "Return to Serenity",
+      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Balls To Picasso (2001 Remastered Version)",
         "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 384013,
       "name": "Tears of the Dragon - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Hair of the Dog",
-        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Love Hurts - Single Edit",
-      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Get A Grip (Reissue - Remaster)",
         "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Keep The Faith (Remastered)",
-        "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
+        "name": "Hair of the Dog",
+        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
         }
       ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
+      "duration_ms": 232120,
+      "name": "Love Hurts - Single Edit",
+      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1407,6 +1391,22 @@
       "duration_ms": 209246,
       "name": "When A Blind Man Cries - Remastered",
       "url": "https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Keep The Faith (Remastered)",
+        "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Vol. 4 (2009 Remastered Version)",
         "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
       },
@@ -1575,34 +1559,50 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "REISE, REISE",
-        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 271173,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
+      "duration_ms": 229493,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
     },
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/5Y03sZXKSFliRU3S3jn3tW"
+        "name": "Danzig II: Lucifuge",
+        "url": "https://open.spotify.com/album/3g5aDpNWzveOQTKmK8BoSA"
       },
       "artists": [
         {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/43Rqj6NQ8yaoptYcN66UT6"
+      "duration_ms": 259626,
+      "name": "Blood And Tears",
+      "url": "https://open.spotify.com/track/16loP5Zkq8OOwB7HwCl2JH"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Vault: Def Leppard Greatest Hits (1980\u20131995)",
+        "url": "https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 257161,
+      "name": "When Love And Hate Collide",
+      "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "REISE, REISE",
+        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Destiny (Reissue 2016)",
         "url": "https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 359997,
       "name": "4000 Rainy Nights - Remastered 2016",
       "url": "https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "The Essential Aerosmith",
-        "url": "https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh"
     }
   ],
   "unique_name": "Heavy Ballads",

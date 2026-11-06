@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,750 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,752 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 16 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 |
 | 17 | [Let It Rain \(feat\. 김종완\)](https://open.spotify.com/track/3bG8MFdLEqTXFtUkr1UrXW) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 4:40 |
 | 18 | [편의점](https://open.spotify.com/track/2sTdpHxC8VjvxQpkJfQLjU) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:44 |
-| 19 | [남자이야기](https://open.spotify.com/track/66YxX3sVudr6SvgiUAUJgr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:15 |
-| 20 | [U\-turn \(Feat\. Verbal Jint\)](https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:16 |
+| 19 | [U\-turn \(Feat\. Verbal Jint\)](https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:16 |
+| 20 | [남자이야기](https://open.spotify.com/track/66YxX3sVudr6SvgiUAUJgr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:15 |
 | 21 | [Whistle](https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:57 |
 | 22 | [훔쳐 Rob It \(feat\. Double K\)](https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:42 |
 | 23 | [위대한 탄생](https://open.spotify.com/track/6J2PdRIJ7B5PI9vTjjrVFQ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:34 |

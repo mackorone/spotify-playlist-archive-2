@@ -4,7 +4,7 @@
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Canta Fino a Dieci
 
-2,023 songs - 4 day 4 hr 54 min
+2,024 songs - 4 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Can You Fix Your Heart?](https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Can You Fix Your Heart](https://open.spotify.com/album/2f1YeI2ufkpylmc6WmSqmJ) | 3:00 | 2025-08-05 | 2025-10-01 |
 | [Cancellami](https://open.spotify.com/track/10S27JSB5fgrOgexZ8ZRq5) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [KIVI](https://open.spotify.com/artist/6jgyGThYIMlvjw6J9MIggu) | [Cancellami](https://open.spotify.com/album/0Sfv0G9vhU4vPcDyCLR23J) | 2:26 | 2023-04-04 | 2023-05-03 |
 | [candeline](https://open.spotify.com/track/7JnEv0Mxn0AWtjmJtXrO2M) | [Ilaria Kappler](https://open.spotify.com/artist/03s1E1AnbOI5jsZ8CywUBh) | [candeline](https://open.spotify.com/album/6gbb2KQcfYL5hKvAknFIUl) | 2:51 | 2026-06-30 | 2026-09-02 |
-| [CANTILENA](https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [CANTILENA](https://open.spotify.com/album/3ClaRhwmXv4gUZ3TWgtXsx) | 3:30 | 2026-10-07 |  |
+| [CANTILENA](https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [CANTILENA](https://open.spotify.com/album/3ClaRhwmXv4gUZ3TWgtXsx) | 3:30 | 2026-10-07 | 2026-11-06 |
 | [Canzoncina](https://open.spotify.com/track/6aVDiKnJJG3EmETPCBggII) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [Canzoncina](https://open.spotify.com/album/2J752drdiLxgzxqmqavSv5) | 2:56 | 2023-10-03 | 2024-01-10 |
 | [canzone](https://open.spotify.com/track/6kdHVSxzJfi2Iru8ljlEYD) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [canzone](https://open.spotify.com/album/6SHiqPO9WVIKPdQMtTPAH7) | 2:47 | 2023-08-01 | 2023-09-07 |
 | [Canzone d'estate](https://open.spotify.com/track/3j0MqTxm02MzOOPsI3EySu) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Opera Futura](https://open.spotify.com/album/1dnRhKwI2DKNJtzNcewJpQ) | 3:21 | 2023-07-05 | 2023-10-04 |
@@ -593,6 +593,7 @@
 | [Effetti speciali](https://open.spotify.com/track/5mHs2mCbWHytdKgNdBL7jI) | [DESÈ](https://open.spotify.com/artist/5ZGM7ZcrSoxIYIv7fPxyZt) | [Effetti speciali](https://open.spotify.com/album/5FiNwonaFjLuuSLQSueQvZ) | 3:07 | 2023-02-28 | 2023-04-05 |
 | [EFFETTO](https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh), [Scarico](https://open.spotify.com/artist/0liPKMwmHmA0LbtC6wLy47) | [EFFETTO](https://open.spotify.com/album/4Imt4cGkSFmo3p9AJsS6lB) | 2:43 | 2024-07-02 | 2024-10-02 |
 | [Effetto Placebo](https://open.spotify.com/track/4puSpnMkS08ALgnrAXepSU) | [Asja](https://open.spotify.com/artist/1PDspizp7X8CgN7AyAfG5t) | [Effetto Placebo](https://open.spotify.com/album/4IXtuNKKVi8VuIUFvG6X7K) | 3:08 | 2023-05-02 | 2023-06-08 |
+| [Effetto Placebo](https://open.spotify.com/track/1fozJd7DUTXVLfP63qr5mY) | [Joe Elle](https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO) | [Effetto Placebo](https://open.spotify.com/album/4bxpuv89eUjcjrBijnsbIM) | 2:48 | 2026-11-04 |  |
 | [Ego](https://open.spotify.com/track/09x5WkaUurwT7jMzaB2lT4) | [BELS](https://open.spotify.com/artist/4BnYYrUAQAsCLW79DRpNHy) | [Ego](https://open.spotify.com/album/540fbFCM2diRmiizsqMoTs) | 2:15 | 2024-06-04 | 2024-07-03 |
 | [Egoista](https://open.spotify.com/track/1tLF8UaFMkT28AUCOO2ccd) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Egoista](https://open.spotify.com/album/59N9BoP9P35nwB7j7pYVHX) | 2:53 | 2023-02-09 | 2024-01-10 |
 | [Ekokokolisaio](https://open.spotify.com/track/7MjTSu36czA1fnxs80g3CO) | [Sirlene](https://open.spotify.com/artist/53BNmi5BhSHNAFejitkWmF) | [Primitivi Evoluti](https://open.spotify.com/album/7zV1k3aGkOXHuVR0RalgyC) | 2:59 | 2026-11-04 |  |

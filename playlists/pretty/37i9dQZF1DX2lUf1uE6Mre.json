@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 906246,
+  "num_followers": 906214,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "STARBOYZ",
-        "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "GYALDEM",
-      "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Sonne \u00fcber Berlin",
         "url": "https://open.spotify.com/album/27QReVTi8x2TlM819taRAq"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 152459,
       "name": "Sonne \u00fcber Berlin",
       "url": "https://open.spotify.com/track/2dw6tVaptSJwYvKK0hVrge"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "STARBOYZ",
+        "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "GYALDEM",
+      "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -435,18 +435,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "GEH VON HIER",
-        "url": "https://open.spotify.com/album/5QFt31vASR3wn6XkgdB5lF"
+        "name": "Vermisse",
+        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
       },
       "artists": [
         {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
         }
       ],
-      "duration_ms": 136500,
-      "name": "GEH VON HIER",
-      "url": "https://open.spotify.com/track/5mRM1823WjdJzQ12Shibvw"
+      "duration_ms": 154653,
+      "name": "Vermisse",
+      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -471,22 +475,18 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Vermisse",
-        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
+        "name": "GEH VON HIER",
+        "url": "https://open.spotify.com/album/5QFt31vASR3wn6XkgdB5lF"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Vermisse",
-      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
+      "duration_ms": 136500,
+      "name": "GEH VON HIER",
+      "url": "https://open.spotify.com/track/5mRM1823WjdJzQ12Shibvw"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "MON FR\u00c8RE",
-        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
-      },
-      "artists": [
-        {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "MON FR\u00c8RE",
-      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "DRINNE",
         "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 168000,
       "name": "DRINNE",
       "url": "https://open.spotify.com/track/1QZ1Rm9H5ytBhukQbZpaXx"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "MON FR\u00c8RE",
+        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "MON FR\u00c8RE",
+      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/0KDQpQwQ0pHjZIIj0emoOs"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        }
-      ],
-      "duration_ms": 148952,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/6Mmk1gQiShUr1FH2RzSHrH"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Nur Mailbox",
         "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 156000,
       "name": "Nur Mailbox",
       "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/0KDQpQwQ0pHjZIIj0emoOs"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "duration_ms": 148952,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/6Mmk1gQiShUr1FH2RzSHrH"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 151546,
-      "name": "MARIA",
-      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "GTS",
         "url": "https://open.spotify.com/album/41BMJrVVmLUwZ3uAtUv27D"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 119973,
       "name": "GTS",
       "url": "https://open.spotify.com/track/3VKn4mxdxaQNm5Hc5h20BW"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/3kmJhrjqaY1oLLxwfz4rtK"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "duration_ms": 151546,
+      "name": "MARIA",
+      "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
+        "name": "PIANO REEZ (SRT)",
+        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "PIANO REEZ (SRT)",
+      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
         "name": "Art Attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 166896,
       "name": "Art Attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
-        "name": "PIANO REEZ (SRT)",
-        "url": "https://open.spotify.com/album/4DwlD841aeDpBPFZwMTN5J"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "PIANO REEZ (SRT)",
-      "url": "https://open.spotify.com/track/1VQrgjJAcMg7tUwsw0N88n"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "SOMMER 218",
-        "url": "https://open.spotify.com/album/2JXK6ElDFAsWBm9g9yZZC5"
-      },
-      "artists": [
-        {
-          "name": "benno!",
-          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
-        }
-      ],
-      "duration_ms": 123950,
-      "name": "SOMMER 218",
-      "url": "https://open.spotify.com/track/070F9GBGdKgJx49yCKdMsA"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "TURN ME UP",
         "url": "https://open.spotify.com/album/5MqYUz0wVNfzrfHdinE3bo"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 143000,
       "name": "TURN ME UP",
       "url": "https://open.spotify.com/track/3r8VSI9LDM04rYpx45dYvz"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "SOMMER 218",
+        "url": "https://open.spotify.com/album/2JXK6ElDFAsWBm9g9yZZC5"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "duration_ms": 123950,
+      "name": "SOMMER 218",
+      "url": "https://open.spotify.com/track/070F9GBGdKgJx49yCKdMsA"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "V.T.Z.R.",
-        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
-      },
-      "artists": [
-        {
-          "name": "Azu",
-          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Heavyweight",
         "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 145493,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "V.T.Z.R.",
+        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
+      },
+      "artists": [
+        {
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
     },
     {
       "added_at": "2026-10-16 09:20:36",

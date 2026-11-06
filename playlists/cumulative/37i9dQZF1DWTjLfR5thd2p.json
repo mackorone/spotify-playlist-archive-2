@@ -5237,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "Passing Light",
+        "url": "https://open.spotify.com/album/5Fa2RjQcniDMK0PzQchNHb"
+      },
+      "artists": [
+        {
+          "name": "Eldrin",
+          "url": "https://open.spotify.com/artist/25AdefU7uAKNThxAZPuJ1i"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158700,
+      "name": "Passing Light",
+      "url": "https://open.spotify.com/track/5dxdiGh8TIyo0xwKa2Vt5R"
+    },
+    {
+      "album": {
         "name": "Peace In Water",
         "url": "https://open.spotify.com/album/41O9tKGlJ6FIIJemBI5qF1"
       },

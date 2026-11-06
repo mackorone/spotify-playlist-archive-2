@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 115198,
+  "num_followers": 115222,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAAWlXTwYmt6MjD9CCN8Y3hG",
+  "snapshot_id": "aukkAAAAAACG8O9/62+YwgNLOL1cFZtM",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 327013,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
+      "duration_ms": 206374,
+      "name": "Devil's Calling",
+      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 206374,
-      "name": "Devil's Calling",
-      "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
+      "duration_ms": 327013,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
+      "duration_ms": 220346,
+      "name": "Smoke 'Em If You Got 'Em",
+      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 220346,
-      "name": "Smoke 'Em If You Got 'Em",
-      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
+      "duration_ms": 238440,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
     },
     {
       "added_at": null,

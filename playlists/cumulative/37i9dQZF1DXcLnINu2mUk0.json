@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 165333,
       "name": "Amar De Cor",
       "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
@@ -6317,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Falsidade a Bondade",
+        "url": "https://open.spotify.com/album/7rhTCDm7rtfcLTqRrOgs3y"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Abrunhosa",
+          "url": "https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166496,
+      "name": "Falsidade a Bondade",
+      "url": "https://open.spotify.com/track/1Y9LEoev9Y7PhjumRAlLsW"
+    },
+    {
+      "album": {
         "name": "Falta",
         "url": "https://open.spotify.com/album/2IfhQVVGAwd0qndVoS5X6V"
       },
@@ -6994,7 +7012,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 271500,
       "name": "Flexin On U",
       "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
@@ -9242,7 +9260,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207395,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/0JgYpWhoTiuCyMQL02YLWz"
@@ -10184,6 +10202,28 @@
       "duration_ms": 177391,
       "name": "Me perdoa",
       "url": "https://open.spotify.com/track/27uSwzP75h8QwjSKDonTw4"
+    },
+    {
+      "album": {
+        "name": "Medo",
+        "url": "https://open.spotify.com/album/3QMqyrx9ifC6Wjnd9Zwg9w"
+      },
+      "artists": [
+        {
+          "name": "Luana Mesquita",
+          "url": "https://open.spotify.com/artist/4uz0Omfa1uYGLUkesixrQK"
+        },
+        {
+          "name": "Midnight Commander",
+          "url": "https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183101,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/7Eoi8CElwGJbAOVabAzD21"
     },
     {
       "album": {
@@ -14883,6 +14923,28 @@
     },
     {
       "album": {
+        "name": "Sakedu",
+        "url": "https://open.spotify.com/album/0LXlOu9qEDBMTT2ctzFSiI"
+      },
+      "artists": [
+        {
+          "name": "Kady",
+          "url": "https://open.spotify.com/artist/2tR18g0y9MW8OsxxwzqpIz"
+        },
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164197,
+      "name": "Sakedu",
+      "url": "https://open.spotify.com/track/2EU7oWhZ0ZQRH7YG7wjy99"
+    },
+    {
+      "album": {
         "name": "U7",
         "url": "https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT"
       },
@@ -15714,6 +15776,24 @@
       "duration_ms": 193987,
       "name": "show my shine",
       "url": "https://open.spotify.com/track/6O8EiOfOS1eYM4b6Wroxq0"
+    },
+    {
+      "album": {
+        "name": "Sic\u00e1rio",
+        "url": "https://open.spotify.com/album/2EXS6DOMdjJfaTcPdwHmA9"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157094,
+      "name": "Sic\u00e1rio",
+      "url": "https://open.spotify.com/track/41smtvBlYFfq0PPMZ1psdP"
     },
     {
       "album": {
@@ -17332,7 +17412,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200412,
       "name": "Traumas",
       "url": "https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW"

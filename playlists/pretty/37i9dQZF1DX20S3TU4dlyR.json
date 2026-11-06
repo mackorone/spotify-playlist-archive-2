@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 77386,
+  "num_followers": 77391,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 259283,
+      "name": "Quemando Tu Pecho",
+      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
         "name": "La Misi\u00f3n",
         "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 208212,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 259283,
-      "name": "Quemando Tu Pecho",
-      "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -979,42 +979,6 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Cachacoleto",
-        "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 189485,
-      "name": "Vamos Tu y Yo",
-      "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
-        "name": "Rey Mago de las Nubes",
-        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
         "name": "One Drop",
         "url": "https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh"
       },
@@ -1035,6 +999,58 @@
       "duration_ms": 238062,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "Rey Mago de las Nubes",
+        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "Cachacoleto",
+        "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 189485,
+      "name": "Vamos Tu y Yo",
+      "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1067,22 +1083,6 @@
       "duration_ms": 202680,
       "name": "Lo De Siempre",
       "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
+        "name": "Fiesta de Zombis",
+        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
       },
       "artists": [
         {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 258349,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
+      "duration_ms": 254328,
+      "name": "Fiesta de zombis",
+      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Fiesta de Zombis",
-        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 254328,
-      "name": "Fiesta de zombis",
-      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
+      "duration_ms": 258349,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Momento Tiempo",
-        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
-      },
-      "artists": [
-        {
-          "name": "Delfines de Etiopia",
-          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
-        }
-      ],
-      "duration_ms": 259373,
-      "name": "De Tanto Caminar",
-      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
-    },
-    {
-      "added_at": "2026-10-23 13:49:17",
-      "album": {
         "name": "S\u00fabete",
         "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+    },
+    {
+      "added_at": "2026-10-23 13:49:17",
+      "album": {
+        "name": "Momento Tiempo",
+        "url": "https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1"
+      },
+      "artists": [
+        {
+          "name": "Delfines de Etiopia",
+          "url": "https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9"
+        }
+      ],
+      "duration_ms": 259373,
+      "name": "De Tanto Caminar",
+      "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"
     },
     {
       "added_at": "2026-10-23 13:49:17",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-10-23 13:49:17",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 186837,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+      "duration_ms": 251567,
+      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
     }
   ],
   "unique_name": "Reggae al Sur",

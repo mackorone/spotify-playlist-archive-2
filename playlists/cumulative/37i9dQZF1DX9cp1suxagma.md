@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Nanpa Básico, Kapo
 
-392 songs - 20 hr 30 min
+393 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [Si Tu Te Vas](https://open.spotify.com/track/12fN9im0FoCyj2rVVTnzAL) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Si Tu Te Vas](https://open.spotify.com/album/02mOLNpS1PEF8t7o2Tluik) | 2:05 | 2025-12-05 | 2026-03-28 |
 | [Si Tú Estás Conmigo](https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Si Tú Estás Conmigo](https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1) | 4:05 | 2023-09-15 | 2023-10-30 |
 | [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 | 2023-11-24 | 2024-02-03 |
-| [Sigo En Pie](https://open.spotify.com/track/1Va5ef9mtrDn7wBsAk61gD) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Sigo En Pie](https://open.spotify.com/album/0mgfJgagL56wqxnrF1oRQI) | 3:51 | 2026-09-04 |  |
+| [Sigo En Pie](https://open.spotify.com/track/1Va5ef9mtrDn7wBsAk61gD) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Sigo En Pie](https://open.spotify.com/album/0mgfJgagL56wqxnrF1oRQI) | 3:51 | 2026-09-04 | 2026-11-06 |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2023-02-17 |  |
 | [Simples Corazones](https://open.spotify.com/track/6SVEw266UzbkAKfCLeBPGy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Simples Corazones](https://open.spotify.com/album/4nrV5Id8yrr3f8ZvyCgFkG) | 4:01 | 2024-04-12 |  |
 | [Simples Corazones \(feat\. Melendi\)](https://open.spotify.com/track/57AHAfiyk3gR8OBRf3s03U) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 4:03 | 2023-02-17 | 2024-04-19 |
@@ -389,6 +389,7 @@
 | [Y quizás](https://open.spotify.com/track/0Yo6YxKiNFJxDVhxDKEUlX) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Emilio Cabra](https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI) | [Y quizás](https://open.spotify.com/album/5TfyHYFh2Nty66QbHEGJBu) | 2:24 | 2023-11-03 | 2023-11-11 |
 | [YA NO SIENTO FRÍO](https://open.spotify.com/track/1GxmUYppuasIUYvwoTRulN) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [YA NO SIENTO FRÍO](https://open.spotify.com/album/4LgbiGTzIzcXq8Lz8yajqs) | 3:19 | 2024-11-26 | 2025-05-17 |
 | [Ya Para Qué](https://open.spotify.com/track/7HCZWKJmHITV7Pt5YTQDcL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ya Para Qué](https://open.spotify.com/album/0w3QTlwt8mDWQfHW9c4CIz) | 3:26 | 2023-02-17 | 2023-11-25 |
+| [YaYa \- Spotify Singles](https://open.spotify.com/track/3FQvfX18sQAvsS9yBoOtLS) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Lil Silvio](https://open.spotify.com/artist/0iEsMMMvNaDBX3l61sRkok), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [YaYa \- Spotify Singles](https://open.spotify.com/album/0wllvtRNhE7cLQ4Kz6wUow) | 3:41 | 2026-11-06 |  |
 | [Yo Primero](https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Yo Primero](https://open.spotify.com/album/1QLxtuYX7Ojojm8I5zmLmI) | 2:45 | 2023-03-17 | 2023-05-27 |
 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4baS2oyw8UwFMgoZt58vkS) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Dijo Que Era Fácil?](https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7) | 2:40 | 2023-08-25 | 2023-11-04 |
 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4xzoXEyNlodC0yT0i62got) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Es Que Tú?](https://open.spotify.com/album/6AXc9vXxu4vgTrMaeb3jo5) | 2:40 | 2023-02-17 | 2023-03-10 |

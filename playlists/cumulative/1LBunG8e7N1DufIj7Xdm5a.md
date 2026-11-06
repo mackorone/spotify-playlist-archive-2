@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,450 songs - 12 day 16 hr 22 min
+5,453 songs - 12 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2951,6 +2951,7 @@
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2026-11-03 |  |
 | [Memory Card Moments \- Radio Edit](https://open.spotify.com/track/0wCMvP6jojZx738ZOWIEJ6) | [NVRLØST](https://open.spotify.com/artist/5jdHtc5hxhdY9dG2rTS2VE) | [„UNLOCKED:// FILES FROM THE VOID“](https://open.spotify.com/album/6uJTVbOSGms0QLadVQE8Db) | 2:36 | 2025-06-11 |  |
 | [Men](https://open.spotify.com/track/220iiQKMH4ZMfHERBJSRJC) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 4:54 | 2025-09-17 |  |
+| [Mene Kiya](https://open.spotify.com/track/6xQqenRH7b2TmiFAKlsrku) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Mene Kiya](https://open.spotify.com/album/7rX71mVjeu6PNMV1pUumUi) | 3:25 | 2026-11-05 |  |
 | [Mennem Kell Bébi](https://open.spotify.com/track/1KQbyZBSdVgSesQ173OcHj) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Mennem Kell Bébi](https://open.spotify.com/album/5ne2yEwe11OSOohOPTxCII) | 2:29 | 2025-06-04 |  |
 | [Mentir](https://open.spotify.com/track/1t879TEk3XrzWpMFfIuBiq) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR) | [Buscando Salidas](https://open.spotify.com/album/3pkT6ZAnN5DCO9Q8vlA9e4) | 3:13 | 2025-07-25 |  |
 | [Mentre il mondo dorme](https://open.spotify.com/track/7bRvmyZJzWzifAkcbt6Gz8) | [Solary](https://open.spotify.com/artist/0klksJbbpQWOEM47rfwg1u) | [Mentre il mondo dorme](https://open.spotify.com/album/5b3RdVvvhVVpZE64wJJScS) | 3:16 | 2025-06-08 |  |
@@ -3737,6 +3738,7 @@
 | [Qué bonita era La Habana](https://open.spotify.com/track/02AZmqZRqgzs0v1E7H4LpB) | [CAPITÁN MOSCÚ](https://open.spotify.com/artist/2lsoOFuNDdLyToS0R3M05p) | [Qué bonita era La Habana](https://open.spotify.com/album/7LnZ1gBKDGZwKFs5dSmRpj) | 4:10 | 2025-06-25 |  |
 | [Qué Te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué Te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 | 2025-12-29 |  |
 | [R.I.P.](https://open.spotify.com/track/23i0tPsziYDQHC7xjMaQzb) | [Moebius](https://open.spotify.com/artist/7suk59z2jgmu6UhUO0A9q3) | [Something strange in my head](https://open.spotify.com/album/4m0ZB5oBGAem4YAYKhq20u) | 4:26 | 2026-05-15 |  |
+| [Raaton Main](https://open.spotify.com/track/7FZNudaYzSslPVo7UQup8w) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Raaton Main](https://open.spotify.com/album/1GaOQrexSJ6KtWMXZGrNWv) | 2:42 | 2026-11-06 |  |
 | [Rabbia Dolce](https://open.spotify.com/track/7xLNh8pMM8z1vd9A47xn34) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 3:02 | 2025-09-14 |  |
 | [Rabbia Dolce \(another\)](https://open.spotify.com/track/3wEhOGps9QE2vlTRIRKkeQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano, Vol\. 2](https://open.spotify.com/album/4Yp8DTiAygh1xmsyajQFeo) | 2:25 | 2025-09-14 |  |
 | [Rabbia e Fuoco](https://open.spotify.com/track/1KLqaZOb1k4CPKtWbZNiY7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:03 | 2025-09-18 |  |
@@ -4499,7 +4501,7 @@
 | [Sunset Dreams](https://open.spotify.com/track/3q51io20NHg9H8YcZvLHrE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rhythm and blues R'n'b R&B Music](https://open.spotify.com/album/0r83e7hN2UoBKUqtXabikS) | 2:32 | 2025-09-19 |  |
 | [Sunset Dreams \(another\)](https://open.spotify.com/track/3sdCSiAxglzQwnJ3GDqupa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rhythm and blues R'n'b R&B Music](https://open.spotify.com/album/0r83e7hN2UoBKUqtXabikS) | 2:50 | 2025-09-19 |  |
 | [Sunset In My Mind](https://open.spotify.com/track/7H7DIasXCn4KnZSXFUdTms) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [Dave Shaver](https://open.spotify.com/artist/087jzzfUlxQXAXRAgbr3c4) | [Sunset In My Mind](https://open.spotify.com/album/7roKCps2zTXEyDGOICUW4a) | 4:25 | 2026-10-26 |  |
-| [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [Trent Kliner](https://open.spotify.com/artist/1OJS50je1iz1MNiGrLTGoU) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 | 2025-05-02 |  |
+| [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [Trent Kliner](https://open.spotify.com/artist/1uypESHSsP9kgnvUwDjeVa) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 | 2025-05-02 |  |
 | [Sunshine Fiesta](https://open.spotify.com/track/2eROn0LYcrfjjdKpYBCSFt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:10 | 2025-05-27 |  |
 | [Sunshine Fiesta \(another\)](https://open.spotify.com/track/1aY82cXbrV1pme7DZb5OCB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:38 | 2025-09-17 |  |
 | [Sunshine Groove](https://open.spotify.com/track/4oSXMlo2HQisIj5E5U7n4d) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 1:51 | 2025-05-27 |  |
@@ -4743,6 +4745,7 @@
 | [The Tongue of Life](https://open.spotify.com/track/1v1yFR2jLIXZdwsL2WXKuW) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:22 | 2026-09-06 |  |
 | [The Tongue of Life \(fomo mode\)](https://open.spotify.com/track/02r5D5rexaEKffKme4oN4r) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:29 | 2026-09-06 |  |
 | [The Turning Point](https://open.spotify.com/track/5kFgMlMk1wvKenZf1nCDSP) | [VREL](https://open.spotify.com/artist/4VYMhPaNqKnplswQ5GI7ha) | [The Turning Point](https://open.spotify.com/album/5rqqkgOdog8f9wjqZ2htIh) | 3:34 | 2025-11-15 |  |
+| [The Underneath](https://open.spotify.com/track/28rqafGMpbah0vMGwkOzRi) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [The Underneath](https://open.spotify.com/album/6lscr1T7sdX5bnaMd4ISs7) | 3:47 | 2026-11-05 |  |
 | [THE UNRAVELING](https://open.spotify.com/track/20jxpjgdcIEwqYf3w2aVOU) | [fred0](https://open.spotify.com/artist/4U4KH3IhPkIIlGgfQffEZ9) | [THE UNRAVELING](https://open.spotify.com/album/70JyYPvljig5pYCGazHkRY) | 2:52 | 2025-11-05 |  |
 | [The Viper](https://open.spotify.com/track/7GxuxrzpZyCtV9Ha3unC2a) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY \(ICE COLD\)](https://open.spotify.com/album/4IyuAih9GeO1k7ktWPnnDw) | 2:30 | 2025-07-28 |  |
 | [The watchmaker](https://open.spotify.com/track/0Bu9wKlOjpmCOapqIjfAFX) | [Francesco Brancato](https://open.spotify.com/artist/5rdpwGPv9puXZKuwu45Jyt) | [IN MY SOLITUDE](https://open.spotify.com/album/2ZatVea0IhfA19AQ3Ilp3E) | 2:53 | 2025-04-02 |  |

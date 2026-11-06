@@ -671,6 +671,28 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3spera D+",
+        "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Jules Hiero",
+          "url": "https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234576,
+      "name": "B\u00eabada de Feriado",
+      "url": "https://open.spotify.com/track/7ydSfY8sS2HkjvF50OqMog"
+    },
+    {
+      "album": {
         "name": "T\u00e1ssia Reis",
         "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
       },

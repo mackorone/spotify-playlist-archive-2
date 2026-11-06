@@ -4,10 +4,11 @@
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-234 songs - 13 hr 2 min
+237 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Llorar a Otra Parte](https://open.spotify.com/track/3craWcaLfqbErt8EpYtnGp) | [Tunay](https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4) | [A Llorar a Otra Parte](https://open.spotify.com/album/3uQG6Lwg4GFiH7ZThKupcl) | 3:48 | 2026-11-05 |  |
 | [Adios Que Te Vaya Bien](https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 2:37 | 2021-12-31 | 2026-07-21 |
 | [Agüita De Carnaval](https://open.spotify.com/track/0iKcUJQHO1EKpZa8KxYNki) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:50 | 2021-12-31 | 2022-03-12 |
 | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/039sYU2RhmRRZpvkqe7s1O) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Kuntur](https://open.spotify.com/album/6bXTAQzf8QjtXoWdUMbMfe) | 3:27 | 2022-09-02 | 2024-04-19 |
@@ -138,8 +139,10 @@
 | [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 | 2022-03-12 |
 | [Lágrimas Del Palo Cruz](https://open.spotify.com/track/5OB8HtOzT0GwLkcVn2jOmT) | [Angelo Aranda](https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Lágrimas Del Palo Cruz](https://open.spotify.com/album/73uYKGFnRwagfH0L942gJg) | 2:39 | 2026-09-03 |  |
 | [Maravillosa esta noche](https://open.spotify.com/track/07xCDKEuGKAp36L02UPHJe) | [Los Criollos](https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK) | [Bien sencillo](https://open.spotify.com/album/1UOBjv9KaXAY0AKviOgy6D) | 3:27 | 2026-07-20 |  |
+| [Maria](https://open.spotify.com/track/4Ab4xKmv9oDnGG0FggeaRf) | [Los Mellizos Díaz](https://open.spotify.com/artist/4yv1vUg0EhdFfc6sDk5glZ) | [Maria](https://open.spotify.com/album/0gsvIdMzJcK5SKePyNjs44) | 2:48 | 2026-11-05 |  |
 | [Me Dicen La Carbonera](https://open.spotify.com/track/6Fh1wejYBoCiGDsbbkqT3m) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Me Dicen La Carbonera](https://open.spotify.com/album/72iTlanlX1X4kP8cYqv72X) | 2:31 | 2023-11-10 | 2026-07-21 |
 | [Me Duele Que Me Duelas](https://open.spotify.com/track/1ffCdMrIr6EMA0oSrRm38g) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Me Duele Que Me Duelas](https://open.spotify.com/album/0WnPItcpjzY6FjYhKAiNg8) | 3:06 | 2026-07-20 |  |
+| [Mi corazón](https://open.spotify.com/track/5AZ67dJetoSxxDzOeq9iAg) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Mi corazón](https://open.spotify.com/album/1q9KXmX4VPGKdlqmh6yxgz) | 4:21 | 2026-11-05 |  |
 | [Mi Fe](https://open.spotify.com/track/3SeELV9ls4SHFg6bsbNqW6) | [Los Rojas](https://open.spotify.com/artist/2Jro2lFfaK1LiUIIY8Ff48) | [Mi Fe](https://open.spotify.com/album/6OT3Ld1cSlVqhH7VoyYRmj) | 2:13 | 2021-12-31 | 2026-07-21 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 | 2024-10-15 |
 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3KwPOIFTWpcVUop3RQ71xo) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U) | 2:29 | 2022-07-01 | 2023-06-29 |

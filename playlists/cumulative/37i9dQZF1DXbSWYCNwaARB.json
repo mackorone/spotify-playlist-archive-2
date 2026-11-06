@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: Yves)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: UNCHILD)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -4954,7 +4954,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 154493,
       "name": "Hysteric",
       "url": "https://open.spotify.com/track/5cCiqtYFbUNVknlcnjyk8V"
@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/1PdN2pC5LYxnapVB8h6C6r"
@@ -7808,7 +7808,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
@@ -10178,6 +10178,24 @@
       "duration_ms": 184013,
       "name": "TILT",
       "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
+    },
+    {
+      "album": {
+        "name": "TiNG TiNG",
+        "url": "https://open.spotify.com/album/3NJlW5XqmTGt8KC6kRdVIn"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149955,
+      "name": "TiNG TiNG",
+      "url": "https://open.spotify.com/track/7KqEWQkQfeDg0hjqml0WL8"
     },
     {
       "album": {

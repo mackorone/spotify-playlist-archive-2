@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAAAznnbTeGcWXUjaYXSFjQu",
+  "snapshot_id": "aukkAAAAAADdvT2gOeGXgYBmDvQuw6HU",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te solt\u00e9 la rienda",
+        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Te solt\u00e9 la rienda",
+      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Norte\u00f1a",
         "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 227413,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te solt\u00e9 la rienda",
-        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Te solt\u00e9 la rienda",
-      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
     },
     {
       "added_at": null,

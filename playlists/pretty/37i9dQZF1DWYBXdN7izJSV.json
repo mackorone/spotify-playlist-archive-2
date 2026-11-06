@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117579,
+  "num_followers": 117575,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Movie Of The Week",
-        "url": "https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2"
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe"
+      "duration_ms": 278213,
+      "name": "Oneida",
+      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -243,18 +239,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+        "name": "Movie Of The Week",
+        "url": "https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 278213,
-      "name": "Oneida",
-      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "24 Hours A Day",
-        "url": "https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy"
-      },
-      "artists": [
-        {
-          "name": "The Bottle Rockets",
-          "url": "https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Indianapolis",
-      "url": "https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Down By The Old Mainstream",
         "url": "https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Yuma (Remastered)",
-        "url": "https://open.spotify.com/album/7tsNX9x3wzHdCTHNPJFrU9"
+        "name": "24 Hours A Day",
+        "url": "https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy"
       },
       "artists": [
         {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+          "name": "The Bottle Rockets",
+          "url": "https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW"
         }
       ],
-      "duration_ms": 185002,
-      "name": "Yuma - Remastered",
-      "url": "https://open.spotify.com/track/6r674yB7uC3NdEpV5kicsN"
+      "duration_ms": 212000,
+      "name": "Indianapolis",
+      "url": "https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -851,6 +835,22 @@
       "duration_ms": 167360,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Yuma (Remastered)",
+        "url": "https://open.spotify.com/album/7tsNX9x3wzHdCTHNPJFrU9"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Yuma - Remastered",
+      "url": "https://open.spotify.com/track/6r674yB7uC3NdEpV5kicsN"
     },
     {
       "added_at": "2026-06-19 04:01:42",

@@ -2,9 +2,9 @@
 
 ### [VOLUME SWEDEN](https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA)
 
-> Den bästa och största rocklistan i Sverige! Cover: Amon Amarth
+> Den bästa och största rocklistan i Sverige! Cover: Sabaton
 
-516 songs - 1 day 8 hr 26 min
+520 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 | 2025-04-24 | 2025-11-07 |
 | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q) | 3:36 | 2024-06-27 | 2024-09-27 |
 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2024-06-27 | 2025-01-10 |
-| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 | 2025-06-12 |  |
+| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 | 2025-06-12 | 2026-11-06 |
 | [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 | 2025-03-27 | 2025-08-29 |
 | [A Promise \- 09 \| 26](https://open.spotify.com/track/6QmoQoJGxloTzxON0SdjDh) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [A Promise \(09 \| 26\)](https://open.spotify.com/album/1teM6dsJcbLrEts91xEqZu) | 3:40 | 2026-05-04 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Sky Full of Stars](https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS) | 3:22 | 2025-05-29 | 2025-06-27 |
@@ -52,6 +52,7 @@
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 | 2025-10-24 |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2025-11-06 | 2026-10-06 |
 | [Beautiful Disaster](https://open.spotify.com/track/156pbk1UdF3CP6hiG9Szjh) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Beautiful Disaster](https://open.spotify.com/album/42k0w1OlvshAChVmMlYxHS) | 3:32 | 2024-06-27 | 2024-09-20 |
+| [Berserker](https://open.spotify.com/track/36uTmaG8pmYQIPhWVPtPNE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Berserker](https://open.spotify.com/album/7o6KAiSsQvYALUgwSIRjVe) | 3:12 | 2026-11-05 |  |
 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 | 2026-06-18 |  |
 | [Between You, God, the Devil and the Dead](https://open.spotify.com/track/0C01QjJmB1vnld4KsCdKHj) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Between You, God, the Devil and the Dead](https://open.spotify.com/album/31tP8ekB4GHSHdWdDCEgtV) | 5:39 | 2024-09-19 | 2025-03-14 |
 | [Big Buck](https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Big Buck](https://open.spotify.com/album/0u3qKDOok16eC5hkZZMJsE) | 3:33 | 2024-08-22 | 2024-09-20 |
@@ -137,6 +138,7 @@
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 | 2024-10-04 |
 | [Dominate](https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Dominate](https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ) | 3:14 | 2025-06-19 |  |
 | [DON'T B E L O N G](https://open.spotify.com/track/7cBK7AcFMiOhCCfMyA0xba) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [DON'T B E L O N G](https://open.spotify.com/album/0wkzaYR3z1jymcXHyGxPCr) | 3:23 | 2026-04-24 |  |
+| [don't be fooled](https://open.spotify.com/track/6U2dmcIOpqRHPIW2UeqXb3) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [UNWANTED](https://open.spotify.com/album/25RVSt8ZWQSJJ83j9RvfxL) | 1:54 | 2026-11-05 |  |
 | [Don't Go In The Forest](https://open.spotify.com/track/62JAxMtxSgFMUlBgjmi23H) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Don't Go In The Forest](https://open.spotify.com/album/2YMsJDgdWSmK85B2FnvjXh) | 4:50 | 2025-11-05 |  |
 | [Don't Let Me Bring You Down](https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Overdriver](https://open.spotify.com/album/0shNp38H68PQgYidEQm1K7) | 3:15 | 2025-01-31 | 2025-10-03 |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 | 2024-06-27 | 2025-04-25 |
@@ -282,7 +284,7 @@
 | [LOWER](https://open.spotify.com/track/0YMgGp1hrTlBelfbMiB2E8) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LOWER](https://open.spotify.com/album/2H55QVHPf2FSOlta78oKzj) | 3:49 | 2026-06-18 |  |
 | [Lullaby](https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Lullaby](https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC) | 4:03 | 2024-08-22 | 2025-08-15 |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-27 | 2024-08-02 |
-| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-22 |  |
+| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-22 | 2026-11-06 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 | 2025-02-28 |
 | [Man or Machine](https://open.spotify.com/track/67qbDFm5D85FW1SdQdR3zJ) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Man or Machine](https://open.spotify.com/album/47PTlWJZ63K44apcONGkjo) | 2:54 | 2025-02-20 | 2025-04-25 |
 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 | 2026-08-24 |  |
@@ -351,11 +353,12 @@
 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-06-27 | 2024-09-07 |
 | [Running to You](https://open.spotify.com/track/65Rl7g8LMrODfPQoofsepx) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Running to You](https://open.spotify.com/album/5ALki6UvIzJh0velsJFYQn) | 3:03 | 2025-04-03 | 2025-04-25 |
 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 |  |
+| [Sadness Will Reign](https://open.spotify.com/track/25zZRrNIIPeKPXXOd76HWu) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [In the Shadow of Your Shadow](https://open.spotify.com/album/2jo7MOpWqcaorbFYvAhmZL) | 4:47 | 2026-11-05 |  |
 | [Safe And Sound](https://open.spotify.com/track/5Hn4XBLOK9ydSz7iPlRd9F) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Safe And Sound](https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN) | 3:21 | 2026-03-13 | 2026-08-01 |
 | [San Antonio](https://open.spotify.com/track/7JkuYydpzSlK7MYEFvOzCY) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [San Antonio](https://open.spotify.com/album/6POggEzmQS7Egbc8JGAAwS) | 3:03 | 2024-06-27 | 2024-09-27 |
 | [Satanized](https://open.spotify.com/track/2EBZGiYYeIvoaAIHfVsPpn) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/37a1ehu3HGYPA07QFvWIsL) | 3:56 | 2025-11-10 |  |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-05 | 2025-08-22 |
-| [SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [SAVIOR](https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS) | 3:06 | 2025-06-26 |  |
+| [SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [SAVIOR](https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS) | 3:06 | 2025-06-26 | 2026-11-06 |
 | [Say](https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Say](https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM) | 4:22 | 2024-06-27 | 2025-03-14 |
 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 | 2024-12-19 | 2025-06-20 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-07-31 |  |
@@ -363,7 +366,7 @@
 | [Sellout](https://open.spotify.com/track/7zirKNmHLkkBYIPOFIcQuG) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Sellout](https://open.spotify.com/album/6Aw2J1CVHtZyspEQ5bCgsT) | 3:08 | 2025-11-06 |  |
 | [sense](https://open.spotify.com/track/4XTawzxDCoWKWln8SeafHP) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [sense](https://open.spotify.com/album/3itIpvAUsLS1tSZ3QZLf1C) | 3:00 | 2026-05-29 |  |
 | [Set It Free](https://open.spotify.com/track/0Ot51JMkm0YpEjvs2MNfc4) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Set It Free](https://open.spotify.com/album/0HoKHAI0L9m464mk7Q7frg) | 3:29 | 2025-05-15 | 2025-11-07 |
-| [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2025-11-06 |  |
+| [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2025-11-06 | 2026-11-06 |
 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2024-12-19 | 2025-06-20 |
 | [Shadowlife](https://open.spotify.com/track/2Fu1yEQyxVgd12UxPlMJQ4) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Shadowlife](https://open.spotify.com/album/1vbEqGwrV87tJL4m80rEiV) | 4:45 | 2026-06-18 |  |
 | [Shattered Dreams](https://open.spotify.com/track/0SMMRQ4UwTZ6v2k9G9rmrc) | [Marys Creek](https://open.spotify.com/artist/0YZaQHvUtuO0WFAPOTANu6) | [The Beginning Of The End](https://open.spotify.com/album/6fDOFBtjWmO8Gh1lN9G0gU) | 5:06 | 2026-04-13 | 2026-08-01 |
@@ -520,6 +523,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2024-11-07 | 2025-06-20 |
 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-05-29 |  |
 | [Zombie](https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Zombie](https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8) | 3:59 | 2026-02-16 |  |
+| [Zombie Night](https://open.spotify.com/track/4KvuZr7qcx4jzTIEKZRwCO) | [Priest](https://open.spotify.com/artist/6niO7WSbw5n0nD58jPi2Mx) | [Zombie Night](https://open.spotify.com/album/5cqGlDjs37YiiTSd42EdLk) | 4:00 | 2026-11-05 |  |
 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 | 2024-08-01 | 2024-11-22 |
 | [§3](https://open.spotify.com/track/72U6mVliG329C2zGWxDNte) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§3](https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt) | 5:10 | 2024-09-06 | 2024-09-20 |
 | [§4](https://open.spotify.com/track/0XHqEwAU4Nc1s7xeZzjLKb) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [The Last Will And Testament](https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6) | 7:00 | 2024-11-21 | 2025-02-28 |

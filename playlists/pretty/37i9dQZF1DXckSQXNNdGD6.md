@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Dear Joanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,006 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,004 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 33 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |
 | 34 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 | 35 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
-| 36 | [mi vocablo](https://open.spotify.com/track/1durpNnxDajO8jUKJ1eRUW) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [mi vocablo](https://open.spotify.com/album/1KnRJGR5GhoGZDotO7ANIO) | 2:31 |
-| 37 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
+| 36 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
+| 37 | [mi vocablo](https://open.spotify.com/track/1durpNnxDajO8jUKJ1eRUW) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [mi vocablo](https://open.spotify.com/album/1KnRJGR5GhoGZDotO7ANIO) | 2:31 |
 | 38 | [Cuando el sol bese a la luna](https://open.spotify.com/track/4ozZG3Cgiyf17pVda3p02S) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Cuando el sol bese a la luna](https://open.spotify.com/album/69dTwJHcOc4xcmpzpGKKgf) | 2:23 |
 | 39 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 40 | [Se siente fuerte](https://open.spotify.com/track/6AR6FZiCFYeQasbE8PiQUl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Se siente fuerte](https://open.spotify.com/album/1IvfAV0woYVGewg3EI8Ojt) | 2:52 |

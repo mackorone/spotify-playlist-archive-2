@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,925 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,937 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 74 | [Koforidua Flowers](https://open.spotify.com/track/2TnWgysg3OGR3CCf3jKKKC) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [The Return of Kofi B](https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n) | 4:50 |
 | 75 | [Krokro Me](https://open.spotify.com/track/6wnBL3qBxt0PagpBEsluUb) | [Kwaisey Pee](https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT) | [Krokro Me](https://open.spotify.com/album/6qF170KcaSLqamwReuuIh2) | 3:59 |
 | 76 | [Odo Da Baabi](https://open.spotify.com/track/0SJ1NANtFCj6cNbyPXCOdZ) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3) | 5:17 |
-| 77 | [Wogbe](https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg) | [Amanzeba](https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m) | [Demara](https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm) | 4:43 |
+| 77 | [Me Nko Meda](https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3), [Sass Squad](https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx) | [Fakye](https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5) | 6:29 |
 | 78 | [Show Your Love](https://open.spotify.com/track/0cDfFzTnNsLlNuBzKopILl) | [Paapa Yankson](https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8) | [Show Your Love](https://open.spotify.com/album/2VCZ8OBriGGaI2gbjHd3V7) | 6:46 |
-| 79 | [Me Nko Meda](https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3), [Sass Squad](https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx) | [Fakye](https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5) | 6:29 |
+| 79 | [Wogbe](https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg) | [Amanzeba](https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m) | [Demara](https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm) | 4:43 |
 | 80 | [Okwanti Nyi](https://open.spotify.com/track/4B5V4CuWLDxIhvnuTq630f) | [Felix Owusu](https://open.spotify.com/artist/4JUwsChOzwk5vUol3AP4gy) | [E'SHOW ME](https://open.spotify.com/album/6DSdZfJ6QC2UEJVNjuweZk) | 4:47 |
 
 Snapshot ID: `AAAAAH+T59VMK1YSwPI9kwtFyh4pTOHC`

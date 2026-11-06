@@ -2951,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "DHOOL",
+        "url": "https://open.spotify.com/album/1sKAOdUMw7icPkyixLJwUv"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "DHOOL",
+      "url": "https://open.spotify.com/track/0s9WS1TCyUqP8fV0rNlMrv"
+    },
+    {
+      "album": {
         "name": "Dhuni",
         "url": "https://open.spotify.com/album/5nX5LrXewpibmNocAyf1qm"
       },
@@ -4332,7 +4350,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191997,
       "name": "GODLY",
       "url": "https://open.spotify.com/track/0CXrAoAUipEKGI4YpdHCno"
@@ -4928,6 +4946,24 @@
       "duration_ms": 157512,
       "name": "Hey Snehithe",
       "url": "https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3l0lHxcMbHNMS5RbIMV3YU"
+      },
+      "artists": [
+        {
+          "name": "NoKHaP",
+          "url": "https://open.spotify.com/artist/1oybubRGJerWEgszFgYCvj"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139116,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1NoETr6Mgac7iucggSMe66"
     },
     {
       "album": {
@@ -8169,6 +8205,24 @@
     },
     {
       "album": {
+        "name": "Manna Yaana - Echoes of Tulunadu",
+        "url": "https://open.spotify.com/album/1RVVPw66udSkfRHQItxlaf"
+      },
+      "artists": [
+        {
+          "name": "Samarthan S Rao",
+          "url": "https://open.spotify.com/artist/6T4RnZmGSgBDAneg58CVcx"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245124,
+      "name": "Manna Yaana - Echoes of Tulunadu",
+      "url": "https://open.spotify.com/track/0dk8n7WWSzr48rKkboWzwW"
+    },
+    {
+      "album": {
         "name": "Many Me",
         "url": "https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp"
       },
@@ -8803,6 +8857,32 @@
     },
     {
       "album": {
+        "name": "Mohini (Kannada)",
+        "url": "https://open.spotify.com/album/7AWuct7GGCPIHjUxZMzlA2"
+      },
+      "artists": [
+        {
+          "name": "Prabhanjan",
+          "url": "https://open.spotify.com/artist/1G5ur1G4EQjPC5tP6sLYmY"
+        },
+        {
+          "name": "Asha Bhat",
+          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
+        },
+        {
+          "name": "So Fire",
+          "url": "https://open.spotify.com/artist/0kXEmLXvRtkBRsAwMtluDr"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Mohini (Kannada)",
+      "url": "https://open.spotify.com/track/76gKZn43mqIWY3rhqsevEN"
+    },
+    {
+      "album": {
         "name": "Mokee",
         "url": "https://open.spotify.com/album/2kMIE8OMwDqQJIAmH0GiKD"
       },
@@ -9038,7 +9118,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 139641,
       "name": "Mouna Mathagide",
       "url": "https://open.spotify.com/track/29DCeCcblR6C1IfG9NW1cM"
@@ -10658,7 +10738,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132832,
       "name": "Neenillade",
       "url": "https://open.spotify.com/track/11PNGnTBWaIx5qqgDlbb6H"
@@ -11692,7 +11772,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 137005,
       "name": "Nodi Nodi Ninnane",
       "url": "https://open.spotify.com/track/3rYlHY8xp8sOX5MlNkd2kU"
@@ -11736,6 +11816,24 @@
       "duration_ms": 231082,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/3DaHvW5MRZiVisfICBbblu"
+    },
+    {
+      "album": {
+        "name": "Nyaya Beku",
+        "url": "https://open.spotify.com/album/4JiAfa1yZsRMx2gW5fG0Fb"
+      },
+      "artists": [
+        {
+          "name": "Harshith Shetty",
+          "url": "https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206396,
+      "name": "Nyaya Beku",
+      "url": "https://open.spotify.com/track/5r3lk6V3vCmxQe1UQB4fgb"
     },
     {
       "album": {
@@ -15510,7 +15608,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 147878,
       "name": "Yeno Yeno Agide",
       "url": "https://open.spotify.com/track/6s923hPmTz0gWj0l2LJHCU"

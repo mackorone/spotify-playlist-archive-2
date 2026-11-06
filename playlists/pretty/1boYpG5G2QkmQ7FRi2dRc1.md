@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 271,997 likes - 31 songs - 1 hr 55 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 271,971 likes - 31 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 27 | [Adesa](https://open.spotify.com/track/1dxWI3DLYIPbxnJgb4ZwMm) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Alive On Arrival](https://open.spotify.com/album/7ofloReOMVkpkX5PvMd6v3) | 4:19 |
 | 28 | [Lab](https://open.spotify.com/track/6OglTLGpqa4DEwot6v0h7t) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Signals](https://open.spotify.com/album/1XPrbfiYB7OAvdGr22ndjA) | 4:24 |
 | 29 | [Imaginary Voyage](https://open.spotify.com/track/26zhoQD32eQRV84iLpD2c5) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Imaginary Voyage / Red Lining](https://open.spotify.com/album/5E2CWc7yXvQK7ZvIQuNwW7) | 4:05 |
-| 30 | [I Want It](https://open.spotify.com/track/5XOLFr8ok1Vd1zFx4xocLA) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl) | [I Want It](https://open.spotify.com/album/6mn7PWKalRdMwEfTSQWbBZ) | 3:36 |
+| 30 | [I Want It](https://open.spotify.com/track/5XOLFr8ok1Vd1zFx4xocLA) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Scenarios](https://open.spotify.com/artist/67Y8oTELtWBk3MncBMCG1H) | [I Want It](https://open.spotify.com/album/6mn7PWKalRdMwEfTSQWbBZ) | 3:36 |
 | 31 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 |
 
 Snapshot ID: `AAAIwM9iUPey79ApWuhohXipN7lLCXme`

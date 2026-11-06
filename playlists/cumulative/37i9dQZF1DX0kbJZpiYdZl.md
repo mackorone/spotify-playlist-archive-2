@@ -2,7 +2,7 @@
 
 ### [Hot Hits USA](https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl)
 
-> The hottest tracks in the United States\. Cover: KAROL G
+> The hottest tracks in the United States\. Cover: Ella Langley
 
 958 songs - 2 day 4 hr 4 min
 

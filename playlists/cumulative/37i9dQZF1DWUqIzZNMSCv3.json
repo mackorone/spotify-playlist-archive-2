@@ -1811,6 +1811,28 @@
     },
     {
       "album": {
+        "name": "Ropartz: Jeune filles: II. La nonchalante",
+        "url": "https://open.spotify.com/album/3MvW2ijkGr00mKkImOzsJT"
+      },
+      "artists": [
+        {
+          "name": "Guy Ropartz",
+          "url": "https://open.spotify.com/artist/5dPR5LYM2CxXWlZGwntQ5C"
+        },
+        {
+          "name": "Martin Jones",
+          "url": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Jeune filles: II. La nonchalante",
+      "url": "https://open.spotify.com/track/5iBKH6oqgX2dVzguyxfp3i"
+    },
+    {
+      "album": {
         "name": "Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante D\u00e9funte",
         "url": "https://open.spotify.com/album/7ioTFSNJIuTN8YTKqA7eDF"
       },

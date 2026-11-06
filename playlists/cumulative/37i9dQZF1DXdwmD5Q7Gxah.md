@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> dom fike returns with some familiar friends <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
+> untitled halo <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-4,061 songs - 9 day 6 hr 55 min
+4,069 songs - 9 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Any Way You Want Me](https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:31 | 2022-11-18 | 2022-12-24 |
 | [Anybody Else](https://open.spotify.com/track/4fItn7RxUvHIJloefw56DS) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Anybody Else](https://open.spotify.com/album/6b2sqlXepZzriu8shzsIjh) | 4:10 | 2022-03-09 | 2022-04-23 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-29 | 2022-01-08 |
+| [anything for now](https://open.spotify.com/track/2QwF3VizHLkSAuj9KbVGYj) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [anything for now](https://open.spotify.com/album/4mG2lDpJn0RnrXcrBqI22o) | 2:37 | 2026-11-06 |  |
 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 | 2020-02-28 | 2022-08-27 |
 | [Anywhere With You](https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:57 | 2022-07-29 | 2022-10-13 |
 | [Apartment 402](https://open.spotify.com/track/4HHa6HZxKsgTLldpwQPs4D) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:25 | 2021-05-03 | 2021-06-05 |
@@ -846,6 +847,7 @@
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 | 2025-01-14 | 2025-05-14 |
 | [Cuff Your Jeans](https://open.spotify.com/track/0q9v0aM8nBBF045S4lUMJE) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Cuff Your Jeans](https://open.spotify.com/album/7Ety4yx03V4LF6xqNiqL1w) | 2:55 | 2021-01-12 | 2021-08-14 |
 | [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 | 2025-05-20 | 2026-01-24 |
+| [Curse](https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Curse](https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr) | 3:23 | 2026-11-06 |  |
 | [Cut And Bleach My Hair](https://open.spotify.com/track/2eerqlJxHRUqshlJvDSBnq) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Goodbye EP](https://open.spotify.com/album/42LxcYD2smw7UweXna5iTu) | 3:22 | 2020-09-25 | 2020-11-18 |
 | [Cut Slack](https://open.spotify.com/track/2UaAx2e0UFIWE38YGdaNbS) | [Still Blank](https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71) | [Cut Slack](https://open.spotify.com/album/6Gfxlq97PFLwx3Ji4qRSWY) | 2:13 | 2025-09-05 | 2025-10-18 |
 | [cwtch](https://open.spotify.com/track/7kWd8oR4FttOrComtUqpYM) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [cwtch](https://open.spotify.com/album/42caL9I44AXJeQz1nOl5BZ) | 4:51 | 2025-08-01 | 2025-08-16 |
@@ -995,6 +997,7 @@
 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 | 2019-09-20 | 2020-07-29 |
 | [Don’t Let Me Down \- First Rooftop Performance](https://open.spotify.com/track/3CzwTMrxcrEWwDWJpOd8fg) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(2021 Mix\)](https://open.spotify.com/album/0rkNp9nLkAPIoLArGQnjZ8) | 3:29 | 2021-08-28 | 2021-09-09 |
 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 | 2024-08-23 | 2025-01-14 |
+| [Don’t Worry Dynamite](https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn) | [Star's Revenge](https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX) | [Don’t Worry Dynamite](https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk) | 2:47 | 2026-11-06 |  |
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-01-21 | 2021-03-06 |
 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 | 2026-07-17 | 2026-09-19 |
 | [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 | 2025-07-25 | 2026-02-07 |
@@ -1366,6 +1369,7 @@
 | [girl with a problem](https://open.spotify.com/track/3XftKOFKKZKMt36MKV7fH4) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [girl with a problem](https://open.spotify.com/album/47eQy5ZfIwvTxS7t5B9aFp) | 2:51 | 2024-05-03 | 2024-08-02 |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 | 2025-04-13 | 2025-05-03 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-02 | 2023-04-15 |
+| [Girlfriend](https://open.spotify.com/track/1TL63QISHYXzqPPBESPzQf) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [Girlfriend](https://open.spotify.com/album/4CYOeeob1ECLSdMJGRYK02) | 3:07 | 2026-11-06 |  |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2021-06-05 | 2021-12-02 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-08 | 2022-12-24 |
 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 | 2024-07-19 | 2024-10-05 |
@@ -1643,6 +1647,7 @@
 | [How It Goes](https://open.spotify.com/track/1kpneLV28jmwHxVWzU9OGh) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [How It Goes](https://open.spotify.com/album/2ypghiNttUAL29qVRhl7x9) | 2:59 | 2020-12-11 | 2021-04-16 |
 | [HOW LONG CAN YOU KEEP UP A LIE?](https://open.spotify.com/track/1kuu6U409HnaMucNbCcQJU) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:54 | 2025-02-21 | 2025-04-05 |
 | [How Much Is Weed?](https://open.spotify.com/track/44KWbTVZev3SWdv1t5UoYE) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:05 | 2023-08-31 | 2023-12-14 |
+| [how to make your love \(stay\)](https://open.spotify.com/track/0k66KVUV7hzKPsemb6Wmf5) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [untitled \(halo\)](https://open.spotify.com/album/4TKFP2DLk1z8zn1ZGuVbsh) | 2:24 | 2026-11-06 |  |
 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 | 2023-10-06 | 2023-11-11 |
 | [HSB](https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [HSB](https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ) | 2:34 | 2023-08-18 | 2023-08-26 |
 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-01 | 2022-08-13 |
@@ -1659,6 +1664,7 @@
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2020-10-24 | 2022-02-26 |
 | [I Always Wanna Die \(Sometimes\)](https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 5:14 | 2019-07-30\* | 2021-12-02 |
 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 | 2026-10-16 |  |
+| [I Am God](https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [I Am God](https://open.spotify.com/album/7qUhXBrMILFJCFziNaJPOP) | 3:03 | 2026-11-06 |  |
 | [I am not the sun](https://open.spotify.com/track/5LgiT8dSS0vTeyJBq7bS4i) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [I am not the sun](https://open.spotify.com/album/51zKbKuuLFfzBPaKgsobdD) | 3:33 | 2023-05-05 | 2023-08-26 |
 | [I Am So Lucky and Nothing Can Stop Me](https://open.spotify.com/track/3OeetYux56RpE7YsoeSmJs) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 3:01 | 2025-02-26 | 2025-03-29 |
 | [I Been Young](https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [I Been Young](https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh) | 4:59 | 2023-04-18 | 2023-05-13 |
@@ -2014,6 +2020,7 @@
 | [Leaving](https://open.spotify.com/track/2JIKhelt4q9czQlRfdrYQK) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Leaving](https://open.spotify.com/album/6StC4UA89XZ2X8AGvZEd2Y) | 3:36 | 2021-09-09 | 2021-10-06 |
 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 | 2026-08-28 | 2026-10-02 |
 | [Leaving You](https://open.spotify.com/track/6SOmn0HMuY4Lq9XiUo8JZM) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Leaving You](https://open.spotify.com/album/58sphqqoVOzCqMeWGEAv7O) | 1:53 | 2021-08-21 | 2021-09-25 |
+| [leech](https://open.spotify.com/track/5rRQX87a0AQJjEoVfYXO5U) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [leech](https://open.spotify.com/album/3Vkg0wMWXwK0R7bR8t5ds1) | 3:47 | 2026-11-06 |  |
 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 | 2024-10-25 | 2025-05-14 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 | 2024-03-22 |
 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 | 2022-05-27 | 2022-10-26 |
@@ -3815,6 +3822,7 @@
 | [watering can](https://open.spotify.com/track/5C9gcImzMk5AKHyLtfCyn6) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [watering can](https://open.spotify.com/album/06aajlYjOeDFlwfsoNkbSZ) | 2:49 | 2024-11-15 | 2025-01-31 |
 | [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2024-10-02 | 2025-01-18 |
 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 | 2024-10-18 | 2025-02-12 |
+| [Way back to You](https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Way back to You](https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP) | 2:01 | 2026-11-06 |  |
 | [Way You Move](https://open.spotify.com/track/2Ag5V54YBuSbSZtBzN7I0w) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Way You Move](https://open.spotify.com/album/5FBUu5EuGfzHuSeSTO1ql8) | 2:16 | 2020-01-24 | 2020-02-20 |
 | [wayne \(demo\)](https://open.spotify.com/track/2vsiIis8R6s5DdceaTj0rk) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Clean Weird Prone \(Inner World Peace Deluxe\)](https://open.spotify.com/album/7haxpWiYhrr3yLN5yBC5jO) | 2:05 | 2023-04-28 | 2023-06-02 |
 | [We Don't Speak Anymore](https://open.spotify.com/track/7IfarhuPKJeyOotOzlBxfA) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC) | [It’s Lovely, Come On In](https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v) | 3:31 | 2025-09-05 | 2026-03-21 |

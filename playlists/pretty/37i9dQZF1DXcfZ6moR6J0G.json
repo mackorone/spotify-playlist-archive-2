@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2335752,
+  "num_followers": 2336175,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Godsmack",
-        "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Earshot",
+          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
+      "duration_ms": 213000,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
     },
     {
       "added_at": "2026-07-16 22:35:35",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
+        "name": "Godsmack",
+        "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
         "name": "Babylon (Revised Online Music)",
         "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
-      },
-      "artists": [
-        {
-          "name": "Earshot",
-          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
     },
     {
       "added_at": "2026-07-16 22:35:35",

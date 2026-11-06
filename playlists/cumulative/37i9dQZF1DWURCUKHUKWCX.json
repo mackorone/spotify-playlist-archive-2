@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "AUTUMN",
+        "url": "https://open.spotify.com/album/2apVNBxkjBe4IbKFoyuUEI"
+      },
+      "artists": [
+        {
+          "name": "Vulax",
+          "url": "https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157431,
+      "name": "BRUM3",
+      "url": "https://open.spotify.com/track/27Dczt5NLzWYdEwN2ilMN7"
+    },
+    {
+      "album": {
         "name": "Budapest (Solo Piano Version)",
         "url": "https://open.spotify.com/album/2a2scerWKOtCAC1owfdiYU"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 176314,
       "name": "From darkness to light",
       "url": "https://open.spotify.com/track/2zdUIAcCDe5CLiPGc5qPnH"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 133199,
       "name": "La Recherche - Piano Solo Version",
       "url": "https://open.spotify.com/track/2SVVpg9cb44cBFRewo9Cn5"
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145657,
       "name": "Landing",
       "url": "https://open.spotify.com/track/0oyePmjxEEiwBuoVUKBkuw"
@@ -2960,6 +2978,24 @@
       "duration_ms": 185506,
       "name": "Loiste",
       "url": "https://open.spotify.com/track/0QnFEI5XPIXcBdTXglZ6Za"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/00Pl5Bh1mcV5t5gAFmQR1H"
+      },
+      "artists": [
+        {
+          "name": "Dirk Maassen",
+          "url": "https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6FlPPlBm1BvBe3my3dOkh8"
     },
     {
       "album": {
@@ -3356,7 +3392,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 169776,
       "name": "Merry",
       "url": "https://open.spotify.com/track/7qJs05x48Y4qDyTKULTb3s"
@@ -3812,7 +3848,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 312757,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
@@ -5188,7 +5224,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194881,
       "name": "SCORPIO \u201cThe Mysterious\u201d",
       "url": "https://open.spotify.com/track/5C5QA7wrrJguvgycFvTTia"
@@ -5228,6 +5264,24 @@
       "duration_ms": 136346,
       "name": "she (still) - solo piano",
       "url": "https://open.spotify.com/track/2xTZYeS9Rx54c1Zhe2tYEw"
+    },
+    {
+      "album": {
+        "name": "Music for a Film",
+        "url": "https://open.spotify.com/album/3EPZuyTjBkeKlG6bUMAqsf"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131687,
+      "name": "She Draws with Light",
+      "url": "https://open.spotify.com/track/4X6QNGoSKrZfnjZd2enHaG"
     },
     {
       "album": {
@@ -5698,7 +5752,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179062,
       "name": "Summer 1987.",
       "url": "https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1"

@@ -9107,6 +9107,28 @@
     },
     {
       "album": {
+        "name": "Vernacular: Jlin, David Longstreth, Philip Glass",
+        "url": "https://open.spotify.com/album/0baf5ab40M7yJL1FZtKBI7"
+      },
+      "artists": [
+        {
+          "name": "Third Coast Percussion",
+          "url": "https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA"
+        },
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287160,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/5KyZ8b2p8tlogS1jFd9bcI"
+    },
+    {
+      "album": {
         "name": "Echoes In The Valley",
         "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
@@ -10238,7 +10260,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 229877,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU"

@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Sur la piste" d'Eva est le Grand Hit de la semaine.
+> "D'or et d'étain" de Vianney est le Grand Hit de la semaine.
 
 355 songs - 18 hr 9 min
 

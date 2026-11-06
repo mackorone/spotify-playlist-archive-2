@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,790 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,789 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 4 | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/track/2aOgahAZL1biEeqsSgIjJ2) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [มนุษย์ต่างดาว \(WHO R U ? \)](https://open.spotify.com/album/0PdWNkrPQfsnCnidVY7YGf) | 4:28 |
 | 5 | [Sometimes](https://open.spotify.com/track/25ip7ASFEwNGVWW0UVOF4P) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Sometimes](https://open.spotify.com/album/1wyke9pTPOO4l2KN8KhhgK) | 4:02 |
 | 6 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 7 | [Remained](https://open.spotify.com/track/6ZtGGldlHEWeRxB1MEt0RN) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ตั้งแต่วันนั้น \(Remained\)](https://open.spotify.com/album/7f3DLO02e6Pa5ueQsGl4vV) | 4:41 |
+| 7 | [ตั้งแต่วันนั้น \(Remained\)](https://open.spotify.com/track/6ZtGGldlHEWeRxB1MEt0RN) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ตั้งแต่วันนั้น \(Remained\)](https://open.spotify.com/album/7f3DLO02e6Pa5ueQsGl4vV) | 4:41 |
 | 8 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
 | 9 | [ผู้ไม่หวังดี](https://open.spotify.com/track/1LANjQgBx2gec5iC1Y0YrV) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ผู้ไม่หวังดี](https://open.spotify.com/album/6TAJHGXAwz7m3eK0991Af7) | 3:43 |
 | 10 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |

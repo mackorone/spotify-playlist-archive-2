@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,069 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,092 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 49 | [Carteles Unidos](https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 3:49 |
 | 50 | [No Se Diga Más](https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Legado MyM](https://open.spotify.com/artist/6KbZTKwSEJaqJd0UgjhIRz) | [No Se Diga Más](https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ) | 3:18 |
 
-Snapshot ID: `aufSgAAAAAC0htmc3EMtesyxz8o/MoqF`
+Snapshot ID: `aukkAAAAAAAdLQrp3/Rd3HCCRSrcO2Xj`

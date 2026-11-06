@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,365 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,404 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 27 | [Kakonita](https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Solid Ether](https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R) | 4:59 |
 | 28 | [If I should lose you](https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Diane](https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp) | 7:16 |
 | 29 | [Younger Than Springtime](https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:43 |
-| 30 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
-| 31 | [Tune\-Up](https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:53 |
+| 30 | [Tune\-Up](https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:53 |
+| 31 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
 | 32 | [Work Song](https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D), [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb), [Sam Jones](https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV) | [Work Song](https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa) | 4:15 |
 | 33 | [Blue room](https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:40 |
 | 34 | [Rios Negroes](https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4) | [Lester Bowie](https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf) | [The Great Pretender](https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q) | 7:15 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 82 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 |
 | 83 | [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 |
 | 84 | [Squeaky's Blues](https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 3:28 |
-| 85 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
-| 86 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |
+| 85 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |
+| 86 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
 | 87 | [Weather Bird](https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Louis Armstrong: Portrait Of The Artist As A Young Man 1923\-1934](https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm) | 2:41 |
 | 88 | [Just in Time](https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2) | [Cootie Williams](https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o) | [Where or When](https://open.spotify.com/album/6jNlEB9M8Dfmtd2pyCbhfN) | 3:31 |
 | 89 | [You're Getting to Be a Habit with Me](https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7) | [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Wonder Why](https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp) | 6:52 |

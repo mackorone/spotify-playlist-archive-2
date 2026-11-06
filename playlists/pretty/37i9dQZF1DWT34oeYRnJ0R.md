@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Zulia & Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,614 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,515 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 11 | [MAPAS](https://open.spotify.com/track/0HeBgKVkHvDJKSZQhS4M8M) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [MAPAS](https://open.spotify.com/album/5IrdKaPCW0mF9w6LQ9VdRe) | 1:37 |
 | 12 | [CHEFFA](https://open.spotify.com/track/6uj0LD8QVIrTxzq40hgGoW) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [CHEFFA](https://open.spotify.com/album/60RwE4Ke5Vnne6NgXWJtmw) | 2:02 |
 | 13 | [YA TOCA](https://open.spotify.com/track/6JiXNwOQNrEdDH6QvtP9YI) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [SAINT FLAMA I](https://open.spotify.com/album/20mI6frTA01bsQqvNkqhZS) | 3:03 |
-| 14 | [Bendecida](https://open.spotify.com/track/3Ls9XiHTGnfvqqprSYYfoU) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Bendecida](https://open.spotify.com/album/5OK16vusVUgFjpaN5cKQsH) | 2:22 |
+| 14 | [Bendecida](https://open.spotify.com/track/3Ls9XiHTGnfvqqprSYYfoU) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Bendecida](https://open.spotify.com/album/5OK16vusVUgFjpaN5cKQsH) | 2:21 |
 | 15 | [Fuga](https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 3:01 |
 | 16 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 |
 | 17 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan, Simone Mendes
 
-430 songs - 20 hr 9 min
+431 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Pra Sempre](https://open.spotify.com/track/6i1gSXWqwps6kqtDWefV7e) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão 3 \- Vol\. 2](https://open.spotify.com/album/0TnCwnWqlHtB1jbE3QLqRy) | 3:26 | 2025-02-26 | 2025-05-03 |
 | [Pra Você Lembrar De Mim \- Ao Vivo](https://open.spotify.com/track/79nMK3bCPAzKd70WiHCv5S) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Raiz BH \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/5hQtrOJAUKLV1VmdoVv455) | 2:49 | 2026-02-06 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 | 2022-09-24 |
+| [Primavera](https://open.spotify.com/track/3qe1l1SXlr1Vamkt0h3G9b) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Primavera](https://open.spotify.com/album/1rlJ0h1OLB2ebkeg00oUwe) | 4:00 | 2026-11-05 |  |
 | [Princesa \- Ao Vivo](https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Princesa \(Ao Vivo\)](https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH) | 3:28 | 2025-06-13 | 2025-09-13 |
 | [Problemão \- Ao Vivo](https://open.spotify.com/track/5ldOW0wsKwLIfW2BBUuLbe) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Nossa Cara \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/5HIszENJrDZiPqko4CiMdb) | 2:39 | 2025-02-07 | 2025-02-26 |
 | [Problemão \- Ao Vivo](https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Respeita Minha Dupla \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/0U4phq4JCvqNLVYwiHgzG6) | 2:17 | 2022-10-28 | 2023-06-03 |
@@ -388,7 +389,7 @@
 | [Te Amar É Meu Talento \- Ao Vivo](https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Sertanejo Respira \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/0p6IyKCVANLx7knOPSvw2P) | 2:43 | 2026-05-28 | 2026-07-22 |
 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 | 2022-07-22 | 2023-02-17 |
 | [Te Esqueci Sem Querer \- Ao Vivo Em Brasília](https://open.spotify.com/track/5yscNPMHmhqHQX9B9GFzMp) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP3\)](https://open.spotify.com/album/2Tywwz9yenoTruRAZGXVBY) | 2:31 | 2023-05-19 | 2023-11-11 |
-| [Te Perdi Pros Paredão \- Ao Vivo](https://open.spotify.com/track/6iok3n58Pi7tFIaecGKfo5) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Te Perdi Pros Paredão \(Ao Vivo\)](https://open.spotify.com/album/5naJEdqaxhNfXG22fbmkQo) | 2:23 | 2026-03-06 |  |
+| [Te Perdi Pros Paredão \- Ao Vivo](https://open.spotify.com/track/6iok3n58Pi7tFIaecGKfo5) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Te Perdi Pros Paredão \(Ao Vivo\)](https://open.spotify.com/album/5naJEdqaxhNfXG22fbmkQo) | 2:23 | 2026-03-06 | 2026-11-06 |
 | [Tem Amor, Tem Volta \- Ao Vivo](https://open.spotify.com/track/6C5EczmaeIUmf1pTYux9f1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 2:22 | 2025-05-02 | 2025-11-14 |
 | [Termina Comigo Antes](https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Termina Comigo Antes](https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq) | 3:07 | 2022-04-06 | 2022-12-17 |
 | [Terminou Pra Que \- Ao Vivo](https://open.spotify.com/track/4EFCamXHwc9xbjjoTdcQUW) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Terminou Pra Que \(Ao Vivo\)](https://open.spotify.com/album/3mklbgwCNp8rv9zveQxbHJ) | 3:06 | 2025-05-02 | 2025-06-07 |

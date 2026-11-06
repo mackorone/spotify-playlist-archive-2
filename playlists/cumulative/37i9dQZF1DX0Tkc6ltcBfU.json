@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Young Nudy",
+  "description": "The hottest out the South. Cover: Lil Baby",
   "name": "No Cap",
   "tracks": [
     {
@@ -2634,6 +2634,24 @@
       "duration_ms": 223806,
       "name": "Ain't Tha Truth",
       "url": "https://open.spotify.com/track/26wh8LuATljb51e9VJPweT"
+    },
+    {
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160102,
+      "name": "Ain\u2019t Goin",
+      "url": "https://open.spotify.com/track/3pRSJlJultkLi6vxD4VxE7"
     },
     {
       "album": {
@@ -9811,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "Can't Trust",
+        "url": "https://open.spotify.com/album/5ovRIijO2Xo5UkhO0Z1yrN"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130102,
+      "name": "Can't Trust",
+      "url": "https://open.spotify.com/track/2Vel50PdtBOMB6BbDyMBlj"
+    },
+    {
+      "album": {
         "name": "Candy Color (Remix)",
         "url": "https://open.spotify.com/album/7866b7JKCEwb0FMsfnzh6i"
       },
@@ -12762,7 +12798,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 169185,
       "name": "custom MADE. Feat Tink",
       "url": "https://open.spotify.com/track/67SU6am9BkhHTiyJNFvOHK"
@@ -12820,7 +12856,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 149533,
       "name": "DA FUCC (feat. Ro$ama)",
       "url": "https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI"
@@ -13436,7 +13472,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192558,
       "name": "Dear JT",
       "url": "https://open.spotify.com/track/4Ixr7gI57q8rnhGot286vA"
@@ -16778,6 +16814,28 @@
       "duration_ms": 210229,
       "name": "EXIT 9 - with Blxst and Offset",
       "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
+    },
+    {
+      "album": {
+        "name": "EXPOSED. ft Quavo.",
+        "url": "https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195015,
+      "name": "EXPOSED. ft Quavo.",
+      "url": "https://open.spotify.com/track/58Q3J5Pq4u2rsa9MP9wrCo"
     },
     {
       "album": {
@@ -27430,7 +27488,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142421,
       "name": "Is Dat Right?",
       "url": "https://open.spotify.com/track/24wTDPDMxH9aTUqWFPJEpI"
@@ -27918,10 +27976,32 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152380,
       "name": "Jigga Who",
       "url": "https://open.spotify.com/track/0bKaLvWNjxbdmArp66y8Jg"
+    },
+    {
+      "album": {
+        "name": "Jiggly Bow Bow (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "Jiggly Bow Bow (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
     },
     {
       "album": {
@@ -28078,7 +28158,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191266,
       "name": "Judy (feat. JID)",
       "url": "https://open.spotify.com/track/0j7vGHIKjtQmHBeDFCepPS"
@@ -31162,10 +31242,36 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178333,
       "name": "LITE (feat. Belly Gang Kushington)",
       "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+    },
+    {
+      "album": {
+        "name": "LITE (feat. Belly Gang Kushington, Lil Wayne) (remix)",
+        "url": "https://open.spotify.com/album/6ImMGeOTAHPr4sfhf5bUyN"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "LITE (feat. Belly Gang Kushington, Lil Wayne) (remix)",
+      "url": "https://open.spotify.com/track/1AUj4yrSMAGEqglfg3r5kK"
     },
     {
       "album": {
@@ -34931,6 +35037,24 @@
     },
     {
       "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Mr. Do Something",
+      "url": "https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY"
+    },
+    {
+      "album": {
         "name": "Junkie in The Sun",
         "url": "https://open.spotify.com/album/1z2jPthJpowfvopTcmCJnw"
       },
@@ -35036,7 +35160,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 148860,
       "name": "Mrs. Trendsetter",
       "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
@@ -38578,6 +38702,24 @@
     {
       "album": {
         "name": "OK",
+        "url": "https://open.spotify.com/album/2bj93oOTQd7EZkbyA8DXyP"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129700,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/1h35GXVhetKtQU3JfntPpO"
+    },
+    {
+      "album": {
+        "name": "OK",
         "url": "https://open.spotify.com/album/0v6fJDoQxY0jb8BlcJwOab"
       },
       "artists": [
@@ -38610,7 +38752,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 88876,
       "name": "Ok Cool",
       "url": "https://open.spotify.com/track/0IiSL9cjBSZGzWZiimBrnY"
@@ -40978,7 +41120,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 185706,
       "name": "PHILLY (with Travis Scott)",
       "url": "https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc"
@@ -53299,6 +53441,24 @@
     },
     {
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/6cpwZkfEGcWChIxSWcwRNS"
+      },
+      "artists": [
+        {
+          "name": "Lil Boss",
+          "url": "https://open.spotify.com/artist/6cKExR8TKTAZr7pOChcCtG"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110780,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/516uidCNlk9W6eVpYnyohj"
+    },
+    {
+      "album": {
         "name": "THE RIGHT 1",
         "url": "https://open.spotify.com/album/1x3geIQ1BDw84JI6qtLvPN"
       },
@@ -54015,6 +54175,24 @@
     },
     {
       "album": {
+        "name": "Throw That Money",
+        "url": "https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Throw That Money",
+      "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
+    },
+    {
+      "album": {
         "name": "Thug Diary",
         "url": "https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT"
       },
@@ -54368,7 +54546,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 153048,
       "name": "Too Bo$$y",
       "url": "https://open.spotify.com/track/1IFK4fgCXVzl2WmrcXO7J5"
@@ -58210,7 +58388,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 238607,
       "name": "What We On (with Don Toliver)",
       "url": "https://open.spotify.com/track/5euOEb5B1ALxnB06Oto5d8"
@@ -59376,6 +59554,28 @@
       "duration_ms": 137142,
       "name": "withdrawals",
       "url": "https://open.spotify.com/track/2y6DnwKOTiWcbJbiIibryI"
+    },
+    {
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/4yGHrisO5kZlRKv9E06RdJ"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/2frxx1BJjJZQoIQ3Ri9cwA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-365 songs - 21 hr 36 min
+368 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 | 2022-03-24 | 2023-04-14 |
 | [ngunit hindi sapat](https://open.spotify.com/track/1xusvBFG2P3CjqQi7Ez4rb) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [ELHÉVATE](https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0) | 3:08 | 2026-04-06 |  |
 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 | 2025-03-27 | 2026-04-07 |
+| [No Angry Man](https://open.spotify.com/track/1AxZo7iecL3hpXj5HgRUaB) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [No Angry Man](https://open.spotify.com/album/6q9Krp2XyjtOlPf9FtOQ64) | 4:02 | 2026-11-06 |  |
 | [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2024-04-02 | 2025-03-28 |
 | [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 | 2025-03-27 | 2026-04-07 |
 | [Oops I did it again](https://open.spotify.com/track/2j4bnH1sr6vMo8oy0EkdJr) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [Oops I did it again](https://open.spotify.com/album/34xlWUHuizltDK5JEzCdlq) | 1:40 | 2025-12-03 | 2026-01-18 |
@@ -307,6 +308,7 @@
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-28 | 2024-04-03 |
 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 | 2023-04-13 | 2024-04-03 |
 | [SSP \(Saksak Sa Puso\)](https://open.spotify.com/track/4hNKQWQvHOOfxUR0IrGpYG) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [20:20](https://open.spotify.com/album/0TJkShI3cK81IT2dQ70Xbh) | 3:34 | 2024-02-21 | 2024-04-03 |
+| [Still a body](https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [What the Body Remembers](https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb) | 4:14 | 2026-11-06 |  |
 | [Stranger's Funeral](https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Stranger's Funeral](https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l) | 3:43 | 2026-04-13 |  |
 | [Strings](https://open.spotify.com/track/1yja0zSvvgJtbV34B02kLG) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 3:20 | 2022-09-29 | 2022-12-01 |
 | [SUBOMOTO \- Hev Abi Remix](https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [SUBOMOTO \(Hev Abi Remix\)](https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl) | 2:58 | 2024-12-09 | 2026-04-07 |
@@ -366,6 +368,7 @@
 | [When I'm with You](https://open.spotify.com/track/7cUL0JOx3w4uvhEkZJlQam) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/221mR3WaKt3P8PVSbTiZqj) | 3:52 | 2021-11-25 | 2023-04-14 |
 | [Woo Woo](https://open.spotify.com/track/5WnAOIwhl9dxdzNmBhW4hK) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Woo Woo](https://open.spotify.com/album/3oTWydF6FVRShRa2ynHpsm) | 3:16 | 2021-11-25 | 2022-03-25 |
 | [Yakap](https://open.spotify.com/track/4cO62W6CErGU4vrDWF1Ruj) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Yakap](https://open.spotify.com/album/1nBiqfztbH4xqVgPI01HWg) | 3:20 | 2021-11-25 | 2022-03-25 |
+| [YEAH WASAK](https://open.spotify.com/track/2CBYEX3DUR1Jd7tGassVas) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM) | [YEAH WASAK](https://open.spotify.com/album/089XGDPLXogK5BTlE5NjZ5) | 3:10 | 2026-11-06 |  |
 | [Yellow](https://open.spotify.com/track/3pgtS9BeUre18KRaFDa5BM) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Yellow](https://open.spotify.com/album/3M38KwnfVpCSVNayx9Evou) | 4:02 | 2025-03-27 | 2026-04-07 |
 | [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 | 2025-03-27 | 2026-04-07 |
 | [You](https://open.spotify.com/track/4BJa4tHm82NuaRvFPX67CJ) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [You](https://open.spotify.com/album/6RX6AKmLXfFdLi00GdxQUs) | 4:47 | 2021-11-25 | 2022-03-25 |

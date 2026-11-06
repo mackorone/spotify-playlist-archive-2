@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: ILLIT) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: HANRORO) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -42653,6 +42653,24 @@
     },
     {
       "album": {
+        "name": "Calling back",
+        "url": "https://open.spotify.com/album/533hkArJ8h4EfsIUN59qft"
+      },
+      "artists": [
+        {
+          "name": "Dragon Pony",
+          "url": "https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Calling back",
+      "url": "https://open.spotify.com/track/5kyLl24iTiAP2oFwKiR2ff"
+    },
+    {
+      "album": {
         "name": "Not Others, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1pK9IPTpP03y8j18CAH5Wg"
       },
@@ -71774,6 +71792,24 @@
       "duration_ms": 145000,
       "name": "DRUGGED2THRILLS",
       "url": "https://open.spotify.com/track/4PKtQ47ym7rDD75vccLGKJ"
+    },
+    {
+      "album": {
+        "name": "ADAP 1ST MINI ALBUM [ALL DREAMS ARE POSSIBLE]",
+        "url": "https://open.spotify.com/album/7keioMA3ojTcSRyyNti8dP"
+      },
+      "artists": [
+        {
+          "name": "ADAP",
+          "url": "https://open.spotify.com/artist/0Q4fKXp6EjODnfjYrFaKBs"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "DRUM",
+      "url": "https://open.spotify.com/track/0q893Tf2OCVfv6i7j6EXOb"
     },
     {
       "album": {
@@ -144709,6 +144745,28 @@
     },
     {
       "album": {
+        "name": "Kiwi",
+        "url": "https://open.spotify.com/album/1zpQnvZS39YY7UuOdBv8e3"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "chicken97",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/2RiF5y1SoSHR9Qmzf9MvtZ"
+    },
+    {
+      "album": {
         "name": "KIX",
         "url": "https://open.spotify.com/album/4Kdbsj3b3hkvbbnjgaUA16"
       },
@@ -150682,6 +150740,24 @@
       "duration_ms": 195789,
       "name": "Letter to",
       "url": "https://open.spotify.com/track/1gAFzvcyT78qvzt4YworZP"
+    },
+    {
+      "album": {
+        "name": "Letter to me",
+        "url": "https://open.spotify.com/album/037YTTmYAYsDVJvcKVypsE"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Letter to me",
+      "url": "https://open.spotify.com/track/0M3FPjAzIlSz5HVyHMC5gg"
     },
     {
       "album": {
@@ -213699,6 +213775,24 @@
     },
     {
       "album": {
+        "name": "Question Mark",
+        "url": "https://open.spotify.com/album/5eADdEnRGT7yJfaQbbLtqe"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Question Mark",
+      "url": "https://open.spotify.com/track/5Z7D0AssXUHuYFnXsp3RyS"
+    },
+    {
+      "album": {
         "name": "Beyond The Bar OST",
         "url": "https://open.spotify.com/album/6ZiysgLarMeD5J3LI1q7gA"
       },
@@ -237382,6 +237476,24 @@
       "duration_ms": 165882,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/0CNfF7viDNyqTdUo6jwWtM"
+    },
+    {
+      "album": {
+        "name": "Slow Jam",
+        "url": "https://open.spotify.com/album/2FbCvk2jhFevJjmhQm6D9V"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191100,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/3u6sEC67Q2DMVQ7bwlmqcD"
     },
     {
       "album": {
@@ -273695,6 +273807,24 @@
     },
     {
       "album": {
+        "name": "TiNG TiNG",
+        "url": "https://open.spotify.com/album/3NJlW5XqmTGt8KC6kRdVIn"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149955,
+      "name": "TiNG TiNG",
+      "url": "https://open.spotify.com/track/7KqEWQkQfeDg0hjqml0WL8"
+    },
+    {
+      "album": {
         "name": "tinker-ton",
         "url": "https://open.spotify.com/album/2avC99Nl5Mg0BvJwn6mYgZ"
       },
@@ -293494,6 +293624,28 @@
       "duration_ms": 240564,
       "name": "What I learned is love",
       "url": "https://open.spotify.com/track/3ZeyGRMSNkF3AGdt5UE2Ls"
+    },
+    {
+      "album": {
+        "name": "What I Said",
+        "url": "https://open.spotify.com/album/5CPC3z23KLdQBBLQWskeZR"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "What I Said",
+      "url": "https://open.spotify.com/track/23ZQchIwFBZO9iYjipO53o"
     },
     {
       "album": {

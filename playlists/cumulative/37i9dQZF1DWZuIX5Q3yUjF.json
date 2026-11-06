@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 261250,
       "name": "Ascoltami un po'",
       "url": "https://open.spotify.com/track/1v3a9vReiHcYznIlEJ5pER"
@@ -7343,6 +7343,36 @@
     },
     {
       "album": {
+        "name": "FORSE, FORSE (THE OFFICE Live Session)",
+        "url": "https://open.spotify.com/album/1Prwl6lGh5nCapI4sOARzW"
+      },
+      "artists": [
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        },
+        {
+          "name": "SarahJae",
+          "url": "https://open.spotify.com/artist/2FKhMi5mpSqOsMPGmNPYTJ"
+        },
+        {
+          "name": "Mim\u00ec",
+          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
+        },
+        {
+          "name": "Onnah",
+          "url": "https://open.spotify.com/artist/3zM1bATgHaGsLe7vSZyKoP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171090,
+      "name": "FORSE, FORSE - THE OFFICE Live Session",
+      "url": "https://open.spotify.com/track/1plUsFmbbB9uCSdXmeJ2pv"
+    },
+    {
+      "album": {
         "name": "Fossi nato gemelli",
         "url": "https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB"
       },
@@ -8580,7 +8610,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210461,
       "name": "How Long Till I Know?",
       "url": "https://open.spotify.com/track/0KhSDWo1kgn0orQPlNvQJk"
@@ -9152,6 +9182,24 @@
       "duration_ms": 181846,
       "name": "invisibile (feat. Federico Di Napoli)",
       "url": "https://open.spotify.com/track/02jOcdjDq5cFoFA1lug3RL"
+    },
+    {
+      "album": {
+        "name": "Io non sono lei",
+        "url": "https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165029,
+      "name": "Io non sono lei",
+      "url": "https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf"
     },
     {
       "album": {
@@ -10954,7 +11002,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156094,
       "name": "Luciana",
       "url": "https://open.spotify.com/track/5NST2Ocu51skAfdPV7z6r4"
@@ -15190,6 +15238,24 @@
       "duration_ms": 203013,
       "name": "Pelle Viola",
       "url": "https://open.spotify.com/track/6gv0zBiZrGB6VAUbcBcRWN"
+    },
+    {
+      "album": {
+        "name": "pelliccia di giaguaro",
+        "url": "https://open.spotify.com/album/2MYVpW1NzZliK0zqc0fxdm"
+      },
+      "artists": [
+        {
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198292,
+      "name": "pelliccia di giaguaro",
+      "url": "https://open.spotify.com/track/3a0qysReY8rJhCgUPlewPv"
     },
     {
       "album": {

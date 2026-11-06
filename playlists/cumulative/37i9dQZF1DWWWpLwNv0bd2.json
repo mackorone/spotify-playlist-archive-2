@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Address Ila Emotion (From \"John Doe\")",
+        "url": "https://open.spotify.com/album/6UyHX1AuS5M1xpbwEr8gUr"
+      },
+      "artists": [
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "The Artist 404",
+          "url": "https://open.spotify.com/artist/2VgzHNExXyOFqa4vhYLSmP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "Address Ila Emotion (From \"John Doe\")",
+      "url": "https://open.spotify.com/track/5ntQ0ESi17hUFReo5deVFp"
+    },
+    {
+      "album": {
         "name": "Adhirudha (From \"Navarasa\")",
         "url": "https://open.spotify.com/album/4WFgbYD0mb8c6O88sNznVv"
       },
@@ -2870,7 +2892,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 230250,
       "name": "Idhayaa - Extended",
       "url": "https://open.spotify.com/track/37m2El0eIgXO2cz2BndvOU"
@@ -3822,6 +3844,32 @@
       "duration_ms": 206003,
       "name": "Kanmani Nee (From \"Kaantha\")(Tamil)",
       "url": "https://open.spotify.com/track/3PpFju5szHyiSstZgZTWbH"
+    },
+    {
+      "album": {
+        "name": "Nooru Kodi Vaanavil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6hhva4L9LK6vjs7myH1bqi"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201875,
+      "name": "Kannaatti",
+      "url": "https://open.spotify.com/track/540Z9Era170tRXUMdH5Wgz"
     },
     {
       "album": {
@@ -5088,7 +5136,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205285,
       "name": "Maria",
       "url": "https://open.spotify.com/track/2BsAPORVM3rWX2segrS1Bn"
@@ -7970,7 +8018,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 277532,
       "name": "Saami Thandha Varamea (From \"Arjunan Per Paththu\")",
       "url": "https://open.spotify.com/track/1hkz8Puone5K8mEZk2ctDx"
@@ -8204,6 +8252,32 @@
       "duration_ms": 206600,
       "name": "Sengathiye (From \"Delivery Boy\")",
       "url": "https://open.spotify.com/track/3vj0s7dBf0WmYQONf3iRs0"
+    },
+    {
+      "album": {
+        "name": "Senjudare (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+        "url": "https://open.spotify.com/album/1W38Sp6Wk1bLRLvBQZrazC"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181294,
+      "name": "Senjudare (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+      "url": "https://open.spotify.com/track/0xy1L9hHUUa6AiHf9v8klp"
     },
     {
       "album": {

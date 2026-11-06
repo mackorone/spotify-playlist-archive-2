@@ -1,12 +1,12 @@
 {
   "description": "Weekly new Hardstyle releases! Cover: Darren Styles & TOZA",
-  "num_followers": 305610,
+  "num_followers": 305721,
   "original_name": "Hardstyle Adrenaline! 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWjEabbHYjO4PE9Tq5atTZH3tyy",
+  "snapshot_id": "AAAAAGS408dtX5U6yiPTXfZSBNaeyaJz",
   "tracks": [
     {
       "added_at": "2026-11-03 10:05:50",
@@ -83,6 +83,34 @@
       "duration_ms": 162955,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/0S51t2Lz2wwwiy2J9MRAmx"
+    },
+    {
+      "added_at": "2026-11-03 10:05:50",
+      "album": {
+        "name": "Rave Cave",
+        "url": "https://open.spotify.com/album/4hUmmfk7QEvwBZTtbGQbcN"
+      },
+      "artists": [
+        {
+          "name": "Crude Intentions",
+          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Ruthless",
+          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
+        },
+        {
+          "name": "Dr Ruthless",
+          "url": "https://open.spotify.com/artist/5QP1280ktW7Zq1eIQjwxgK"
+        }
+      ],
+      "duration_ms": 171096,
+      "name": "Rave Cave",
+      "url": "https://open.spotify.com/track/0IhoQnO36CL45Y20kIwHEQ"
     },
     {
       "added_at": "2026-11-03 10:05:50",
@@ -391,34 +419,6 @@
       "duration_ms": 183483,
       "name": "G.I. Joe",
       "url": "https://open.spotify.com/track/3I9VMDA9FsWIPML9lTjSwV"
-    },
-    {
-      "added_at": "2026-11-03 10:05:50",
-      "album": {
-        "name": "Rave Cave",
-        "url": "https://open.spotify.com/album/4hUmmfk7QEvwBZTtbGQbcN"
-      },
-      "artists": [
-        {
-          "name": "Crude Intentions",
-          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Ruthless",
-          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
-        },
-        {
-          "name": "Dr Ruthless",
-          "url": "https://open.spotify.com/artist/5QP1280ktW7Zq1eIQjwxgK"
-        }
-      ],
-      "duration_ms": 171096,
-      "name": "Rave Cave",
-      "url": "https://open.spotify.com/track/0IhoQnO36CL45Y20kIwHEQ"
     },
     {
       "added_at": "2026-11-03 10:05:50",

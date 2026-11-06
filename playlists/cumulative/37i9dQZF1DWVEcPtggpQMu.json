@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Blue Pappi",
+  "description": "Only the hottest South African rap. \nCover: Buzzi Lee",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -728,6 +728,32 @@
       "duration_ms": 95007,
       "name": "Aberfeldy Avenue",
       "url": "https://open.spotify.com/track/3rFo0UVfynxesJZMOHntfM"
+    },
+    {
+      "album": {
+        "name": "Bontle",
+        "url": "https://open.spotify.com/album/3RvtILZr9p53CVm4DWo7lV"
+      },
+      "artists": [
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        },
+        {
+          "name": "Mochen",
+          "url": "https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg"
+        },
+        {
+          "name": "ReasonHD",
+          "url": "https://open.spotify.com/artist/5TnRfMYYlRqpLPRRmQngDO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206798,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5IcBKkOHvT76FMcRZWIgYH"
     },
     {
       "album": {
@@ -2147,6 +2173,44 @@
     },
     {
       "album": {
+        "name": "Ballon d'Or Remix",
+        "url": "https://open.spotify.com/album/3d5kNScAcLbzZJz1u0qaLX"
+      },
+      "artists": [
+        {
+          "name": "Rush-Awa",
+          "url": "https://open.spotify.com/artist/19EhZztnQppJEafanhneB2"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Giftinperson",
+          "url": "https://open.spotify.com/artist/2PLL5lJn6C9CrNMgeoUsKk"
+        },
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "MfanaTouchLine",
+          "url": "https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158679,
+      "name": "Ballon d'Or Remix",
+      "url": "https://open.spotify.com/track/3iUF81GHyMqYeWKxan2KeZ"
+    },
+    {
+      "album": {
         "name": "Solomon",
         "url": "https://open.spotify.com/album/3Yx3a2caBpL5Id5c6hkaru"
       },
@@ -3496,7 +3560,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 151682,
       "name": "BRAZIL 3 (feat. jaykatana)",
       "url": "https://open.spotify.com/track/5kP2wHl65c5vnWJ4Hp7l9z"
@@ -5116,6 +5180,24 @@
       "duration_ms": 192048,
       "name": "Dairy (feat. Kane Keid)",
       "url": "https://open.spotify.com/track/6K8C2A17okx5cFU6dG0nud"
+    },
+    {
+      "album": {
+        "name": "Something Lekker",
+        "url": "https://open.spotify.com/album/76n06WS07VTkKP4vUhOE6G"
+      },
+      "artists": [
+        {
+          "name": "ZULO",
+          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194370,
+      "name": "dala",
+      "url": "https://open.spotify.com/track/58OWca2kaMVZtxIWqAqNFX"
     },
     {
       "album": {
@@ -10644,7 +10726,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 151591,
       "name": "Isthende (feat. Blxckie)",
       "url": "https://open.spotify.com/track/0UW2Gkw9Ic4DjEqTjFbzoY"
@@ -10802,7 +10884,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 119172,
       "name": "ITEA NE SONKA",
       "url": "https://open.spotify.com/track/0eIeto5Xsd41UEnhtGeRmd"
@@ -11414,7 +11496,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 198974,
       "name": "Khukhumele",
       "url": "https://open.spotify.com/track/633atCw2V4NjU8M5j4D6Py"
@@ -14092,7 +14174,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202121,
       "name": "Mission Man",
       "url": "https://open.spotify.com/track/1CRVWJj1uHBwFz6mJewstr"
@@ -14991,6 +15073,28 @@
     },
     {
       "album": {
+        "name": "Ngale (feat. CowBoii)",
+        "url": "https://open.spotify.com/album/6waMc894MZvbA8w3eLIObN"
+      },
+      "artists": [
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230504,
+      "name": "Ngale (feat. CowBoii)",
+      "url": "https://open.spotify.com/track/2WHQ7rvhW0KroReNfUzaEK"
+    },
+    {
+      "album": {
         "name": "Gennge Tshedzani",
         "url": "https://open.spotify.com/album/0QG40HKyZWZrJFxAxJUGvv"
       },
@@ -15502,7 +15606,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 148454,
       "name": "No Posts",
       "url": "https://open.spotify.com/track/13P1lEyWA48DorLtYhkQQW"
@@ -16788,6 +16892,32 @@
       "duration_ms": 213000,
       "name": "Phone-Hello.",
       "url": "https://open.spotify.com/track/5CnZoLBaQ3j2OfhpzDKfyg"
+    },
+    {
+      "album": {
+        "name": "Phumela",
+        "url": "https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "Brotherkupa",
+          "url": "https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180927,
+      "name": "Phumela",
+      "url": "https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl"
     },
     {
       "album": {
@@ -19122,7 +19252,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 163626,
       "name": "Shake",
       "url": "https://open.spotify.com/track/20X6IV5Qo7UsXM31kKOIVH"
@@ -23017,6 +23147,24 @@
     },
     {
       "album": {
+        "name": "gxthepavilion",
+        "url": "https://open.spotify.com/album/5thF4Q4KI6y4c6NuE63wwh"
+      },
+      "artists": [
+        {
+          "name": "gxthestallion",
+          "url": "https://open.spotify.com/artist/1srfB16BTHEcl3r0SupcCx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150929,
+      "name": "TRAPJUMP",
+      "url": "https://open.spotify.com/track/5ldbr2N51YrgylQ8Rcurbo"
+    },
+    {
+      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/5nCr0uVuT8whS1wrM8QNo7"
       },
@@ -24042,6 +24190,36 @@
       "duration_ms": 209454,
       "name": "VIBE ON 10",
       "url": "https://open.spotify.com/track/5shJtAMdfjAzlA87Chk5OP"
+    },
+    {
+      "album": {
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/1e34OnA24rInkvMg7XDsSb"
+      },
+      "artists": [
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        },
+        {
+          "name": "JustSam",
+          "url": "https://open.spotify.com/artist/2Ao8EyQwyG0jjPcr3t4d9o"
+        },
+        {
+          "name": "Apu Sebekedi",
+          "url": "https://open.spotify.com/artist/0zKk6d6A89gsoJIa5SELoE"
+        },
+        {
+          "name": "Akili blaq",
+          "url": "https://open.spotify.com/artist/3Pn9QsKo2XiRye65mlIzZY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/3g8cO76RkJyeZZzuoXRf7H"
     },
     {
       "album": {

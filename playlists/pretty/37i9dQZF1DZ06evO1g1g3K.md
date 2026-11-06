@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,007 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,010 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 7 | [baby, can we?](https://open.spotify.com/track/4vHLyuoUvHyGNjny1go5kj) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [creole culture](https://open.spotify.com/album/0PPQdpgWAtQvtHzITEOIgG) | 4:06 |
 | 8 | [Weird \(feat\. Durand Bernarr\)](https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:27 |
 | 9 | [EFFORT.](https://open.spotify.com/track/2eK5ODmsvglPGZJlPoIm5Y) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 |
-| 10 | [Mango Butter](https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:42 |
-| 11 | [STUCK.](https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:21 |
-| 12 | [GODSPEED!](https://open.spotify.com/track/13cdpEgEmq6mFazocM0oTX) | [Terrell Grice](https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [THE PHENOMENON](https://open.spotify.com/album/5SgA10pJ2eWb47Q4eu0SNH) | 4:03 |
+| 10 | [GODSPEED!](https://open.spotify.com/track/13cdpEgEmq6mFazocM0oTX) | [Terrell Grice](https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [THE PHENOMENON](https://open.spotify.com/album/5SgA10pJ2eWb47Q4eu0SNH) | 4:03 |
+| 11 | [Mango Butter](https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:42 |
+| 12 | [STUCK.](https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:21 |
 | 13 | [Sam’s Vibe](https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Unblocked](https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5) | 5:15 |
 | 14 | [Cruise](https://open.spotify.com/track/03qjmu9lOiZBOBR0hG1b0s) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [The Full Fantasy](https://open.spotify.com/album/1BL1x8oYdln586INNJ98jL) | 3:02 |
 | 15 | [No Business](https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:17 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 27 | [I Like It](https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN) | [Terrell Grice](https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [The Terrell One Million Show](https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1) | 4:51 |
 | 28 | [Waiting](https://open.spotify.com/track/6ObpVLf935hlJOIEpr70cx) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:03 |
 | 29 | [READY!](https://open.spotify.com/track/3sw0DdToI9uCMTZmTzsBwE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Charlie Vettuno](https://open.spotify.com/artist/6SjBIWfrxSzMxeQb0pu9k0) | [READY!](https://open.spotify.com/album/0wVKhisY1iT0Enm2dOQzQi) | 3:29 |
-| 30 | [Reaching](https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:30 |
+| 30 | [GENEROUS](https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 6:09 |
 | 31 | [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 |
 | 32 | [Company](https://open.spotify.com/track/1SxojyK5aAEHRS2mnNgVhU) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 5:05 |
 | 33 | [Get Paid \(feat\. Durand Bernarr\)](https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Humo en la Trampa 3](https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci) | 2:41 |
-| 34 | [GENEROUS](https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 6:09 |
+| 34 | [Reaching](https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:30 |
 | 35 | [Antidote](https://open.spotify.com/track/1FNH1V63OdaLf69OvEvQBK) | [James Bambu](https://open.spotify.com/artist/2afGhKp80uOinsYCrDr2Wn), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Antidote](https://open.spotify.com/album/4qMSxLQ4cw8ZsQgX0V3o2R) | 3:47 |
 | 36 | [Rollin’](https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:38 |
 | 37 | [PIT STOP](https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [DeShawn Jenkins](https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 49 | [minding\_my business](https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 4:28 |
 | 50 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
 
-Snapshot ID: `aufSgAAAAADvaKXdO5Dj5Zlt9rrbKvG8`
+Snapshot ID: `aukkAAAAAAA/v/FAoYWJCDcvTwrCRe8t`

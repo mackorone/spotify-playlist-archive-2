@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Tron Austin
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,505 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,573 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 34 | [Crescents and the Torch](https://open.spotify.com/track/64XDJcykwUPjYXSvSHbhXv) | [Freeze the Fall](https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc) | [Crescents and the Torch](https://open.spotify.com/album/1D0mQRBUl9PevW91nZLmFj) | 3:40 |
 | 35 | [Crucified](https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Crucified](https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A) | 3:10 |
 | 36 | [SLAVIC BITCHES](https://open.spotify.com/track/5qHLGokRgdzqMYJII7Ct45) | [Malina Scar](https://open.spotify.com/artist/3tnyEYhffKHMzUxZSOhT18) | [SLAVIC BITCHES](https://open.spotify.com/album/2mnYESp16rtFQv78wvTwam) | 2:18 |
-| 37 | [PARASITE](https://open.spotify.com/track/73pnl2Lzc5prMCpQAeKbNz) | [Without a Sin](https://open.spotify.com/artist/1rEYZRLmcuq6HDNv91Gubk), [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [PARASITE](https://open.spotify.com/album/3PCEtHHLigYETJmg8yiipo) | 2:49 |
+| 37 | [PARASITE](https://open.spotify.com/track/73pnl2Lzc5prMCpQAeKbNz) | [Without a Sin](https://open.spotify.com/artist/1rEYZRLmcuq6HDNv91Gubk), [Hoshikuma Minami](https://open.spotify.com/artist/5KpPKb9Jbj8K6C3dMSI9jQ) | [PARASITE](https://open.spotify.com/album/3PCEtHHLigYETJmg8yiipo) | 2:49 |
 | 38 | [supervillain](https://open.spotify.com/track/39yWeIKjw8NoVIHlZ0DEa5) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [supervillain](https://open.spotify.com/album/4uCFvVltDcqLz94JmChd9f) | 2:45 |
 | 39 | [Rapture](https://open.spotify.com/track/6GLi42W53ShZz9MemDfCSb) | [ACCVSED](https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS) | [Rapture](https://open.spotify.com/album/6AlQx2C5UFjXOVT2xZ1JRb) | 4:09 |
 | 40 | [RIP//IT](https://open.spotify.com/track/4HPUotuXkHJSSN6hNoIhHU) | [nightlight](https://open.spotify.com/artist/1jtVPXmV16w4YF8CHEndWK) | [RIP//IT](https://open.spotify.com/album/3PkoWBv3ADYu227ai44m2I) | 3:41 |

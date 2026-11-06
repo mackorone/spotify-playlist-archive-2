@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,735 likes - 156 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,730 likes - 156 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 82 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 |
 | 83 | [SECOND CHOICE](https://open.spotify.com/track/0XlVPorVm4pLt7lJNr3I4f) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [SECOND CHOICE](https://open.spotify.com/album/0Mc94Okie9yCWJ3hSwdIM2) | 3:12 |
 | 84 | [OVA SO](https://open.spotify.com/track/1HhWXkYa4qnE8J4F11lswX) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [OVA SO](https://open.spotify.com/album/3cevsKFOsZKs0qzgnZPtj7) | 3:14 |
-| 85 | [GODDESS \(feat\. Lojay\)](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
+| 85 | [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
 | 86 | [Shuperu](https://open.spotify.com/track/1OQsbva3p2g1ycxCVPC2gc) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:49 |
 | 87 | [If You Like](https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 2:42 |
 | 88 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |

@@ -3683,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "AmorMENdigo",
+        "url": "https://open.spotify.com/album/6gkNNvjMrKptiUQLDIBYPW"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200348,
+      "name": "AmorMENdigo",
+      "url": "https://open.spotify.com/track/4ARcbaRXM0IMAnNpuyPcQY"
+    },
+    {
+      "album": {
         "name": "Am\u00e1ndote",
         "url": "https://open.spotify.com/album/6w2pnh2vzWKjHyYADoNB0J"
       },
@@ -31280,6 +31302,24 @@
       "duration_ms": 154268,
       "name": "MI SANTA PHOBIA",
       "url": "https://open.spotify.com/track/12IsSTHsNJLSJfbYNxSWQ1"
+    },
+    {
+      "album": {
+        "name": "MI UNIVERSO",
+        "url": "https://open.spotify.com/album/3BknEPjclxIah2BT2GL6IP"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Art\u00e9s",
+          "url": "https://open.spotify.com/artist/4gI6T5h1UQPf5hA3FdJULt"
+        }
+      ],
+      "date_added": "2026-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "MI UNIVERSO",
+      "url": "https://open.spotify.com/track/2b2LEjFG2ONlwz7QxMaLvl"
     },
     {
       "album": {

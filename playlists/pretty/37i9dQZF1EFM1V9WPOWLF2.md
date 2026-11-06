@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 117 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 115 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 113 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 | 114 | [LIKE A CHAMPION](https://open.spotify.com/track/73mViHQE6N08rInBWkyaiw) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:12 |
 | 115 | [UWU](https://open.spotify.com/track/1cEhypJFllfBA5sGVZFtq3) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [UWU](https://open.spotify.com/album/2DmiIfiNVVEEoPp1gIU7jx) | 2:22 |
-| 116 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
-| 117 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `AcgzgAAAAADrLFXR3uJnbPD4eYZoxxa3`
+Snapshot ID: `Acg5IAAAAAAKoC2ETamZG5DtgDpsGrUP`

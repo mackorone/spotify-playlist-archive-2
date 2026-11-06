@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: In\u00eas \u00e9 Morta",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Janeiro Industrial",
   "name": "alt BR",
   "tracks": [
     {
@@ -3735,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Coisa Do Al\u00e9m",
+        "url": "https://open.spotify.com/album/4yXyHZCT6uscl9Vabu7Prh"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Coisa Do Al\u00e9m",
+      "url": "https://open.spotify.com/track/1UO4odsECP3MIq1DDivvmL"
+    },
+    {
+      "album": {
         "name": "White Elephant",
         "url": "https://open.spotify.com/album/7wbNnaR5gOhzjyMQCyQcZI"
       },
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187000,
       "name": "Colch\u00e3o",
       "url": "https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi"
@@ -7088,7 +7106,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194603,
       "name": "Faz Tanto Tempo",
       "url": "https://open.spotify.com/track/4QLHR9sNJDPwNX0pAjkPp0"
@@ -7424,6 +7442,40 @@
       "duration_ms": 247625,
       "name": "Fome de Gritar",
       "url": "https://open.spotify.com/track/0wO8onUZub0Y38b1NJhV96"
+    },
+    {
+      "album": {
+        "name": "As Ondas Est\u00e3o no Ar",
+        "url": "https://open.spotify.com/album/7jK7hBkibbDS3esCrrLU82"
+      },
+      "artists": [
+        {
+          "name": "Edgard Scandurra",
+          "url": "https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF"
+        },
+        {
+          "name": "Benzina aka Scandurra",
+          "url": "https://open.spotify.com/artist/3Graw2y2nCA7hFdwMdoSLc"
+        },
+        {
+          "name": "Tartamudo",
+          "url": "https://open.spotify.com/artist/78YW10XELJVUfFF6pQxkLQ"
+        },
+        {
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+        },
+        {
+          "name": "Fausto Fawcett",
+          "url": "https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221044,
+      "name": "Fora do Radar",
+      "url": "https://open.spotify.com/track/7f2BEqyNpXM1eAycAQOSn1"
     },
     {
       "album": {
@@ -10909,6 +10961,24 @@
     },
     {
       "album": {
+        "name": "M\u00e3e Solo",
+        "url": "https://open.spotify.com/album/2Vtoo4qGMD9LBXM6Asncqa"
+      },
+      "artists": [
+        {
+          "name": "Janeiro Industrial",
+          "url": "https://open.spotify.com/artist/1TkhUfHCRQIeyFCWRFhG1A"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252705,
+      "name": "M\u00e3e Solo",
+      "url": "https://open.spotify.com/track/7DU3dc9TiwVENru8ZzbnCn"
+    },
+    {
+      "album": {
         "name": "M\u00e3ezinha",
         "url": "https://open.spotify.com/album/5MPqMjZfJDiki2lbH6Bujf"
       },
@@ -12972,7 +13042,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210000,
       "name": "Palavra de Amigo",
       "url": "https://open.spotify.com/track/1eceS7epAB4s1U4TRD1FyC"
@@ -17376,7 +17446,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 244180,
       "name": "Trailers do futuro",
       "url": "https://open.spotify.com/track/5fXO4FNwekuKXWjpaxhuEP"
@@ -17470,6 +17540,24 @@
       "duration_ms": 201501,
       "name": "Trincheira N\u00ba 02",
       "url": "https://open.spotify.com/track/6QmfwUIedEkpYkzTyAPX5s"
+    },
+    {
+      "album": {
+        "name": "Tristes Olhos Verdes",
+        "url": "https://open.spotify.com/album/5QNCxI2TD9gIWekWBg6DVr"
+      },
+      "artists": [
+        {
+          "name": "Carmino",
+          "url": "https://open.spotify.com/artist/2q4wKrkDhx0s9zhcZxlIX2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270694,
+      "name": "Tristes Olhos Verdes",
+      "url": "https://open.spotify.com/track/19BO2UB9k4ounW4RE1DdoA"
     },
     {
       "album": {

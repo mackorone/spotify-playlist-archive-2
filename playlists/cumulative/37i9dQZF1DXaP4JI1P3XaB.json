@@ -191,6 +191,40 @@
     },
     {
       "album": {
+        "name": "as it tilts",
+        "url": "https://open.spotify.com/album/0nBB9kRqeOxucPEgOwuGin"
+      },
+      "artists": [
+        {
+          "name": "al.so",
+          "url": "https://open.spotify.com/artist/2UzGCNmaCAKmITtDdjUBdL"
+        },
+        {
+          "name": "Moses Yoofee",
+          "url": "https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ"
+        },
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6w4kDiIXFWEtuLHLbd9zSC"
+        },
+        {
+          "name": "Marius Max",
+          "url": "https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs"
+        },
+        {
+          "name": "Miriam Adefris",
+          "url": "https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176810,
+      "name": "as it tilts",
+      "url": "https://open.spotify.com/track/2BAqRjeyNCzsUtVptGDX0n"
+    },
+    {
+      "album": {
         "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
         "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
       },
@@ -224,6 +258,24 @@
       "duration_ms": 315827,
       "name": "Azimuth (John Taylor)",
       "url": "https://open.spotify.com/track/6lxxvqCJT0Bbd7i919biu1"
+    },
+    {
+      "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178870,
+      "name": "Azurit",
+      "url": "https://open.spotify.com/track/13CmQg0AH6TSLez3OpCQFg"
     },
     {
       "album": {
@@ -414,7 +466,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 420041,
       "name": "Creation",
       "url": "https://open.spotify.com/track/4skLFsoPeLjR07ua8JGx9P"
@@ -1050,7 +1102,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213000,
       "name": "Lost Fawn",
       "url": "https://open.spotify.com/track/0UCOuHoTh2XYLRdSuUn9v5"
@@ -1108,6 +1160,66 @@
       "duration_ms": 308461,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78HjrvBXufAxc4Fdx1XMBO"
+    },
+    {
+      "album": {
+        "name": "Moraines",
+        "url": "https://open.spotify.com/album/2767TnYKqoXJwVe5vL7Xz8"
+      },
+      "artists": [
+        {
+          "name": "Sha",
+          "url": "https://open.spotify.com/artist/4F4kkO0k46EEIFD0m5AnxS"
+        },
+        {
+          "name": "Stuart Bogie",
+          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519850,
+      "name": "Miniature 8",
+      "url": "https://open.spotify.com/track/6YT8DkYYeMdxWU3rFGp07p"
+    },
+    {
+      "album": {
+        "name": "Muriel Grossmann, T\u00f5nu Naissoo",
+        "url": "https://open.spotify.com/album/4uWtJHZ9Ypyny7gFqVy6Kg"
+      },
+      "artists": [
+        {
+          "name": "Muriel Grossmann",
+          "url": "https://open.spotify.com/artist/1r212Pvjn3jYwvHUNej9FP"
+        },
+        {
+          "name": "T\u00f5nu Naissoo",
+          "url": "https://open.spotify.com/artist/20zfjm7Y1RvBhEcf1lDrW5"
+        },
+        {
+          "name": "Radomir Milojkovic",
+          "url": "https://open.spotify.com/artist/1lFfVz8JXRYM0UXV3kbeUY"
+        },
+        {
+          "name": "Uro\u0161 Stamenkovi\u0107",
+          "url": "https://open.spotify.com/artist/3nzfyPrsbBvFVPcGRIQ2EB"
+        },
+        {
+          "name": "Kristjan J\u00f5em\u00e4gi",
+          "url": "https://open.spotify.com/artist/6xQPQtO2MBTwt1XpN8Mfqh"
+        },
+        {
+          "name": "Abel Boquera",
+          "url": "https://open.spotify.com/artist/4fg0xf3LtqQW4uXaC2Qzbz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318026,
+      "name": "Mirage No.5",
+      "url": "https://open.spotify.com/track/6yNoraLnrCJbUMZVVSZncT"
     },
     {
       "album": {
@@ -1818,7 +1930,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 97876,
       "name": "Untitled 7",
       "url": "https://open.spotify.com/track/4oAMTQjWK3APisU7CBAeYR"
@@ -1848,7 +1960,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 283990,
       "name": "Venere",
       "url": "https://open.spotify.com/track/49AavYj2lqPuYDE3HQ0uS6"

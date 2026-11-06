@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium con Soziedad Alkoholika.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,674 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,690 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 35 | [Perdóname, Madre](https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Perdóname, Madre](https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV) | 4:06 |
 | 36 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
 | 37 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
-| 38 | [Dispárame](https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Todos Amigos](https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr) | 3:27 |
-| 39 | [No Quiero Escuchar](https://open.spotify.com/track/7CLqQbnMST28Vstn5wbgKP) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [No Quiero Escuchar](https://open.spotify.com/album/6oHQWOgONDhsEXJUaL1q6Y) | 3:34 |
+| 38 | [No Quiero Escuchar](https://open.spotify.com/track/7CLqQbnMST28Vstn5wbgKP) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [No Quiero Escuchar](https://open.spotify.com/album/6oHQWOgONDhsEXJUaL1q6Y) | 3:34 |
+| 39 | [Dispárame](https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Todos Amigos](https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr) | 3:27 |
 | 40 | [Quiero que sepas](https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Quiero que sepas](https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz) | 2:50 |
-| 41 | [Los Chicos No Están Bien](https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Los Chicos No Están Bien](https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8) | 3:22 |
-| 42 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
-| 43 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
-| 44 | [Guiri Style](https://open.spotify.com/track/2hGuIIsnQyAWc1GzEUVMmG) | [Punk Sailor](https://open.spotify.com/artist/4r9UwmrPx85eon7CA4Oj4B), [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Guiri Style](https://open.spotify.com/album/2w1urFWsbcPc7tFDGnJzTj) | 2:54 |
+| 41 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
+| 42 | [Guiri Style](https://open.spotify.com/track/2hGuIIsnQyAWc1GzEUVMmG) | [Punk Sailor](https://open.spotify.com/artist/4r9UwmrPx85eon7CA4Oj4B), [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Guiri Style](https://open.spotify.com/album/2w1urFWsbcPc7tFDGnJzTj) | 2:54 |
+| 43 | [Los Chicos No Están Bien](https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Los Chicos No Están Bien](https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8) | 3:22 |
+| 44 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 45 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 46 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
 | 47 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 |

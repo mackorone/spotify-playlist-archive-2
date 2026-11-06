@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover:dia",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover:Kaleb J",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 236810,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6NT1C7sOxWRVsUykEJ6one"
@@ -4156,7 +4156,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204615,
       "name": "Berdua Lebih Baik",
       "url": "https://open.spotify.com/track/5YUAUPCkpCS248DBtpPSLl"
@@ -6793,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "CingCong",
+        "url": "https://open.spotify.com/album/4yfJRriD7CMxPLJEBPmRHj"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cil Yang",
+          "url": "https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196245,
+      "name": "CingCong",
+      "url": "https://open.spotify.com/track/24iV1DaDT2yGXzrMHZx8bz"
+    },
+    {
+      "album": {
         "name": "Cinta",
         "url": "https://open.spotify.com/album/4pPZf44vGGfWj5CAiwyybi"
       },
@@ -8803,6 +8821,32 @@
     },
     {
       "album": {
+        "name": "Dogs Are Always True",
+        "url": "https://open.spotify.com/album/4jgjGVmRo4IoGyUfMPRqPa"
+      },
+      "artists": [
+        {
+          "name": "Lafa Pratomo",
+          "url": "https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud"
+        },
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207701,
+      "name": "Dogs Are Always True",
+      "url": "https://open.spotify.com/track/41XeJOtOSCjEg0ftYg6aO2"
+    },
+    {
+      "album": {
         "name": "Don't Fall In Love With A Rockstar",
         "url": "https://open.spotify.com/album/6sIn2kBU20TFGKkocQYiRi"
       },
@@ -9204,7 +9248,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187826,
       "name": "Eh Becanda",
       "url": "https://open.spotify.com/track/0RJ5u7L2qpogHXMtbgGTsE"
@@ -9694,7 +9738,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 154528,
       "name": "Fokus",
       "url": "https://open.spotify.com/track/3RqXodRPqg7u0aMWYlLm0t"
@@ -9756,6 +9800,24 @@
       "duration_ms": 191659,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/3MiTqCP3PMxkSlbYGe9kmC"
+    },
+    {
+      "album": {
+        "name": "Tanda Cinta",
+        "url": "https://open.spotify.com/album/71ofL0fZ0GGGovQlvJYFGO"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222597,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/7yfQ8eVnOio6Y14LdIW35Q"
     },
     {
       "album": {
@@ -10664,7 +10726,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 230329,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1hFbdiVz5BcR39jwSdvqq5"
@@ -12210,7 +12272,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 223800,
       "name": "Ini Belum Selesai",
       "url": "https://open.spotify.com/track/3RAKByYr2goRPYhlD1ID4m"
@@ -16557,6 +16619,24 @@
     },
     {
       "album": {
+        "name": "Lali Rasane",
+        "url": "https://open.spotify.com/album/28dQ6H66vmaLTOL3BKRDI4"
+      },
+      "artists": [
+        {
+          "name": "Nica Felice",
+          "url": "https://open.spotify.com/artist/1vRm7KB1ljJYfkw6wc2Mx8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Lali Rasane",
+      "url": "https://open.spotify.com/track/3ebjEb5ZSyIAwPAJpIIegA"
+    },
+    {
+      "album": {
         "name": "Lama Tak Bermalam Minggu",
         "url": "https://open.spotify.com/album/6pyeBXxRVlFHukNTtTmrkI"
       },
@@ -17290,6 +17370,28 @@
       "duration_ms": 171968,
       "name": "Liga Baru",
       "url": "https://open.spotify.com/track/0XrtmwvIsJllIexIH9sQ4t"
+    },
+    {
+      "album": {
+        "name": "LIGUE",
+        "url": "https://open.spotify.com/album/3eTa03hXzTihqH5vanuuqF"
+      },
+      "artists": [
+        {
+          "name": "BAHA",
+          "url": "https://open.spotify.com/artist/7pMCmB0nZudHCcVLUJAdR8"
+        },
+        {
+          "name": "T. Rucira",
+          "url": "https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232297,
+      "name": "LIGUE",
+      "url": "https://open.spotify.com/track/79g2RMzZhnqprH1rzLrbpw"
     },
     {
       "album": {
@@ -20917,6 +21019,24 @@
     },
     {
       "album": {
+        "name": "Mungkin Itu Dia",
+        "url": "https://open.spotify.com/album/5bkB2yUQRQ0CQNlxzPwfs1"
+      },
+      "artists": [
+        {
+          "name": "Abubakar",
+          "url": "https://open.spotify.com/artist/7LJnb06rYAI0Rb7R1yRCL9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284814,
+      "name": "Mungkin Itu Dia",
+      "url": "https://open.spotify.com/track/1GiaZejkj0NF9G2jZWzKrP"
+    },
+    {
+      "album": {
         "name": "Mungkinkah Kembali",
         "url": "https://open.spotify.com/album/2VmU4MzdQk4M2181laWe0O"
       },
@@ -21347,6 +21467,24 @@
     },
     {
       "album": {
+        "name": "next time",
+        "url": "https://open.spotify.com/album/4cl0D6s5QsAHIA0ZgulfUf"
+      },
+      "artists": [
+        {
+          "name": "Agatha Chelsea",
+          "url": "https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180481,
+      "name": "next time",
+      "url": "https://open.spotify.com/track/1VWvnlKQxfn58CsqmkTwVB"
+    },
+    {
+      "album": {
         "name": "Ngeluwihi",
         "url": "https://open.spotify.com/album/09OTA5eXLEKQAMnrvOJgq3"
       },
@@ -21554,6 +21692,24 @@
       "duration_ms": 192690,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/567bsnN1XBNwSsDanWlN3l"
+    },
+    {
+      "album": {
+        "name": "Nona Centil",
+        "url": "https://open.spotify.com/album/7wbubXfe4ZMVuwlU4Y7IeH"
+      },
+      "artists": [
+        {
+          "name": "Glenn Samuel",
+          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228223,
+      "name": "Nona Centil",
+      "url": "https://open.spotify.com/track/7JD4Y7Wmga9BhkVKVKoWru"
     },
     {
       "album": {
@@ -23250,7 +23406,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 190243,
       "name": "permata hatiku",
       "url": "https://open.spotify.com/track/6nvLNYD1IUxv4vJUcIfOJy"
@@ -28839,6 +28995,24 @@
     },
     {
       "album": {
+        "name": "Setengahku Dirimu",
+        "url": "https://open.spotify.com/album/1H1gY73TAEgT6FZwL0kfW5"
+      },
+      "artists": [
+        {
+          "name": "Waode",
+          "url": "https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Setengahku Dirimu",
+      "url": "https://open.spotify.com/track/0oufzXiYrT79nKbre1AmWM"
+    },
+    {
+      "album": {
         "name": "Setia",
         "url": "https://open.spotify.com/album/7xZeCDDpE6SHQI3qZBPT0B"
       },
@@ -31010,7 +31184,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191489,
       "name": "Tak Akan Mati Sia Sia",
       "url": "https://open.spotify.com/track/2bdrnzspivUynDakjRMvb9"

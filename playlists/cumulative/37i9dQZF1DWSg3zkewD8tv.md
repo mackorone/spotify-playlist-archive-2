@@ -4,7 +4,7 @@
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-110 songs - 7 hr 9 min
+111 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Australia Street](https://open.spotify.com/track/2e9OK4HiyXyAH5oEtaxnIc) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 3:39 | 2022-07-12 | 2025-03-28 |
 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 | 2022-07-12 |  |
 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-11-13 | 2026-01-30 |
-| [Back to Strange](https://open.spotify.com/track/0Q5RwM0XUjY4Y3HJ7LumyY) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Yada Yada](https://open.spotify.com/album/7AXG51Dt0jN5dtBeNghFg9) | 3:47 | 2026-10-15 |  |
+| [Back to Strange](https://open.spotify.com/track/0Q5RwM0XUjY4Y3HJ7LumyY) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Yada Yada](https://open.spotify.com/album/7AXG51Dt0jN5dtBeNghFg9) | 3:47 | 2026-10-15 | 2026-11-06 |
 | [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 | 2025-06-05 | 2025-07-25 |
 | [Beautiful Country](https://open.spotify.com/track/1W1hUUuDko94HVziWmaLUh) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Beautiful Country](https://open.spotify.com/album/0FxmyJliJRVYem01DaFhdJ) | 4:07 | 2026-02-12 | 2026-08-28 |
 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 | 2022-07-12 |  |
@@ -103,6 +103,7 @@
 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 | 2022-07-12 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-07-12 |  |
 | [These Days](https://open.spotify.com/track/75POD9WZXaGavNVyR0LHt4) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:58 | 2022-07-12 |  |
+| [Threads](https://open.spotify.com/track/2ef3FqqLb4MVMrj79r1CUY) | [Bite My Tongue](https://open.spotify.com/artist/7CbAVTK8CqlzZVUpFtNo0k) | [This Is Never Gonna Last](https://open.spotify.com/album/1qE8Aj22yErpHlvS4f1GZS) | 3:59 | 2026-11-05 |  |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2022-07-12 |  |
 | [Tightrope](https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Cinematic](https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz) | 4:52 | 2026-02-12 | 2026-09-18 |
 | [Til The Morning](https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 3:32 | 2024-12-12 | 2026-01-30 |

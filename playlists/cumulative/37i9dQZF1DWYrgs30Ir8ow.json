@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Dominic Fike",
+  "description": "Altijd frisse hits! Cover: Armin van Buuren & Douwe Bob",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 125536,
       "name": "BADDIES IN BELGICA",
       "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
@@ -5466,7 +5466,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
@@ -7082,7 +7082,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 149760,
       "name": "DJ",
       "url": "https://open.spotify.com/track/4l8JVJZKAjvCd4Uo45ueiY"
@@ -7134,6 +7134,32 @@
       "duration_ms": 155748,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847"
+    },
+    {
+      "album": {
+        "name": "DOE HET",
+        "url": "https://open.spotify.com/album/2ET6qVidGj5s8wiao4JkHj"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "DOE HET",
+      "url": "https://open.spotify.com/track/6QVOdWVwR9pBio5aTCv7BK"
     },
     {
       "album": {
@@ -11325,6 +11351,24 @@
     },
     {
       "album": {
+        "name": "Here You Come, There You Go",
+        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170582,
+      "name": "Here You Come, There You Go",
+      "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
+    },
+    {
+      "album": {
         "name": "Herinnering",
         "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
       },
@@ -14610,7 +14654,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 167890,
       "name": "Kom Naar Huis",
       "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
@@ -15248,7 +15292,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 216104,
       "name": "Let\u2019s Get Married",
       "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
@@ -15394,7 +15438,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220588,
       "name": "Lies (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
@@ -18474,6 +18518,24 @@
       "duration_ms": 147116,
       "name": "Niet Genoeg (feat. Idaly)",
       "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
+    },
+    {
+      "album": {
+        "name": "NIET MEER",
+        "url": "https://open.spotify.com/album/1ZfPIviWyaUohJORBDznkD"
+      },
+      "artists": [
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148160,
+      "name": "NIET MEER",
+      "url": "https://open.spotify.com/track/34jfwpytzPDiUqd3Q11NGz"
     },
     {
       "album": {
@@ -22454,7 +22516,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 188531,
       "name": "SaWaDiKa",
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
@@ -24110,7 +24172,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 169852,
       "name": "Spijt Komt Later",
       "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
@@ -28556,6 +28618,24 @@
       "duration_ms": 155643,
       "name": "Wat Is Er Gebeurd",
       "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
+    },
+    {
+      "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138782,
+      "name": "Wat Zou Je Doen",
+      "url": "https://open.spotify.com/track/0czJd9NMIXgWynWNlHa3US"
     },
     {
       "album": {

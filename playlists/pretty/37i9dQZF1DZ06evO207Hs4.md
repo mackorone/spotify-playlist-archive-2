@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,852 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,849 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 29 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/0eOWjvKQunKXGy3eKmqwFn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:05 |
 | 30 | [Struggling Man](https://open.spotify.com/track/4c6qeQX0bIejYckXYaz4gO) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 3:27 |
 | 31 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 |
-| 32 | [John Crow](https://open.spotify.com/track/63CePn4RnA7iH6I2OoW82w) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Oneness Band](https://open.spotify.com/artist/48p7x7OPQCyMlI7JWx3b3i), [Steven Seagal](https://open.spotify.com/artist/1jgRWeREJTbx96zhcn8vgx) | [Marked For Death \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vWg5H7yPW7oYfosL0AFil) | 3:47 |
-| 33 | [Born to Win](https://open.spotify.com/track/2n0uoqw6J3aaiQ4cFzkKeb) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:52 |
+| 32 | [Born to Win](https://open.spotify.com/track/2n0uoqw6J3aaiQ4cFzkKeb) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:52 |
+| 33 | [John Crow](https://open.spotify.com/track/63CePn4RnA7iH6I2OoW82w) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Oneness Band](https://open.spotify.com/artist/48p7x7OPQCyMlI7JWx3b3i), [Steven Seagal](https://open.spotify.com/artist/1jgRWeREJTbx96zhcn8vgx) | [Marked For Death \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vWg5H7yPW7oYfosL0AFil) | 3:47 |
 | 34 | [Treat the Youths Right](https://open.spotify.com/track/0wdGFydtOYUrQhcYChzImr) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:40 |
 | 35 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 |
 | 36 | [Samba Reggae](https://open.spotify.com/track/5AEgVBPGMpx4jojTTSKEtJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [War a Africa](https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX) | 3:56 |
-| 37 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 |
-| 38 | [Raggae Down Babylon](https://open.spotify.com/track/37qZu3pX5kEslguZYdzM4e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Hanging Fire](https://open.spotify.com/album/3f2XkrjIF5F5c1JPfcOl5n) | 4:25 |
+| 37 | [Raggae Down Babylon](https://open.spotify.com/track/37qZu3pX5kEslguZYdzM4e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Hanging Fire](https://open.spotify.com/album/3f2XkrjIF5F5c1JPfcOl5n) | 4:25 |
+| 38 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 |
 | 39 | [Hot Shot](https://open.spotify.com/track/6Spf2fk9iQpuVLH94FVB60) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:24 |
 | 40 | [Rub\-A\-Dub Partners](https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 2:57 |
 | 41 | [Going Back West](https://open.spotify.com/track/5paYwzyK9zv73ss0jxHW5P) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 4:47 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 47 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 |
 | 48 | [Peace Officer](https://open.spotify.com/track/36sW72NlM0xaqjBAEzuy2S) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 4:11 |
 | 49 | [On My Life](https://open.spotify.com/track/1wuQ2yrSS8mqtX9oWHs2Lg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:46 |
-| 50 | [7 X 7 Seven Times To Rise Seven Times To Fall](https://open.spotify.com/track/2GygAhrGmVoub7xzhDh6nA) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [7 X 7 Seven Times To Rise Seven Times To Fall](https://open.spotify.com/album/6LX24tQeRPPb9aIZu3sMZC) | 5:30 |
+| 50 | [Better Days Are Coming](https://open.spotify.com/track/6QQ0g7WvIUyXygp5kcPWrJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 3:15 |
 
-Snapshot ID: `aufSgAAAAADd1zBLSismVC3iptIMxEXC`
+Snapshot ID: `aukkAAAAAADXlFFsBSahE/Qi6Ywsg+Ki`

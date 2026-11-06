@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,771 songs - 6 day 17 hr 24 min
+2,772 songs - 6 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -785,6 +785,7 @@
 | [Feelings](https://open.spotify.com/track/2u6Qy7B4heQkPZVuMt3L40) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings](https://open.spotify.com/album/6fvAeDQnOGcP2PQqnKAZeB) | 4:04 | 2025-11-02 |  |
 | [Feliz vivir](https://open.spotify.com/track/6FA5KvEM5rmQFxrQDGh9Hp) | [MentalSounds](https://open.spotify.com/artist/35oZLv7wqPTzafToMbMQDN) | [Brutal Storm](https://open.spotify.com/album/6zimDKuBMMBcrkuxGvl8uV) | 2:02 | 2026-02-07 |  |
 | [Fibonacci Sequence](https://open.spotify.com/track/0PwBg5BqEGtVXcuaM9BdP7) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The Mix Up Bonus Tracks](https://open.spotify.com/album/2a3nLwXuIKhmRQdoeTqrUZ) | 3:13 | 2026-02-07 |  |
+| [Fiesta y Calor](https://open.spotify.com/track/4SxxR7sOfxqEiyDC2rLKli) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Fiesta y Calor](https://open.spotify.com/album/3xucEMWLJmvDcsIeMyebeR) | 3:01 | 2026-11-05 |  |
 | [Fight For Your Rights](https://open.spotify.com/track/5siGfDa7QVNg7kFYQ0U9VD) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 4:18 | 2024-03-10 |  |
 | [Figure Myself Out \(feat\. Dream Wayve\)](https://open.spotify.com/track/2hoV4zImleSilILebStsEr) | [Austicated](https://open.spotify.com/artist/5DXPuoGFyeYHINmbXW7aeA), [Dream Wayve](https://open.spotify.com/artist/0YKrG9B13uPpItvUakN3wh) | [Figure Myself Out \(feat\. Dream Wayve\)](https://open.spotify.com/album/5rZJ7T59vHRnKm88QQkswZ) | 2:16 | 2026-09-16 |  |
 | [Filtros](https://open.spotify.com/track/2w6Vf7RMtvWOMXV6HTalL5) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Filtros](https://open.spotify.com/album/41cTBLBHm96ebgJUiVlVaA) | 2:31 | 2025-12-06 |  |

@@ -230,6 +230,24 @@
     {
       "album": {
         "name": "Surprise",
+        "url": "https://open.spotify.com/album/4UVbWJCUvpL5GQkT9Q8PjW"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273412,
+      "name": "Aye Nreti Eleya",
+      "url": "https://open.spotify.com/track/2HJUAxuVa3a5MBiQpv0n1m"
+    },
+    {
+      "album": {
+        "name": "Surprise",
         "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
       },
       "artists": [
@@ -240,7 +258,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 273412,
       "name": "Aye Nreti Eleya",
       "url": "https://open.spotify.com/track/6VFE6YpWM90aNqKwzuBBLg"
@@ -356,6 +374,24 @@
       "duration_ms": 464549,
       "name": "Chief George Oyedele",
       "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
+    },
+    {
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1126132,
+      "name": "Chief M.K.O. Abiola",
+      "url": "https://open.spotify.com/track/79OF704Zj6Sia23MmL8AHC"
     },
     {
       "album": {

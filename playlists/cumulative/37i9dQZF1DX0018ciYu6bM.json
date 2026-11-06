@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: NMIXX)",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: UNCHILD)",
   "name": "KimBops!",
   "tracks": [
     {
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -8474,7 +8474,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168358,
       "name": "LIKE THAT",
       "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
@@ -9992,7 +9992,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 251669,
       "name": "MOYA",
       "url": "https://open.spotify.com/track/1ACzcLe7HPprJQng3lu6qQ"
@@ -15599,6 +15599,24 @@
     },
     {
       "album": {
+        "name": "TiNG TiNG",
+        "url": "https://open.spotify.com/album/3NJlW5XqmTGt8KC6kRdVIn"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149955,
+      "name": "TiNG TiNG",
+      "url": "https://open.spotify.com/track/7KqEWQkQfeDg0hjqml0WL8"
+    },
+    {
+      "album": {
         "name": "Tiramisu Cake (The Last 10 Years X 10CM)",
         "url": "https://open.spotify.com/album/6MD3fe4HBpcEp2Mk7fTwkT"
       },
@@ -16708,7 +16726,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
@@ -17814,7 +17832,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200000,
       "name": "\uae34 \uc18c\uc6d0 (Birthday Wish)",
       "url": "https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv"

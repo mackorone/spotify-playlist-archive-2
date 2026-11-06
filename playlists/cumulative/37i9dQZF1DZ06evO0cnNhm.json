@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Wildwood: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287838,
+      "name": "Alexei's Story",
+      "url": "https://open.spotify.com/track/0Bs3Xje1pdhzdouDzyd6Vb"
+    },
+    {
+      "album": {
         "name": "Kubo and the Two Strings (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145626,
       "name": "Dog Happiness",
       "url": "https://open.spotify.com/track/2aZSMrTw9h6DxgehuX58u5"
@@ -410,7 +428,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 133424,
       "name": "Here\u2019s the Thing",
       "url": "https://open.spotify.com/track/1U6YfrDGIFte8rZYTJflzz"
@@ -428,7 +446,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 198986,
       "name": "I Understood Something",
       "url": "https://open.spotify.com/track/7xfz3AV1BBySRTRdFMYnl8"
@@ -508,7 +526,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 83853,
       "name": "Life on the Moors (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/2S7YHUo7zIXxgmM9LoKcsv"
@@ -874,6 +892,32 @@
       "duration_ms": 75960,
       "name": "Two Figures By A Fountain",
       "url": "https://open.spotify.com/track/2wUB5n1Kxm2d1d1TSuzjqX"
+    },
+    {
+      "album": {
+        "name": "Jane Eyre - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jack Liebeck",
+          "url": "https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Wandering Jane (feat. Jack Liebeck)",
+      "url": "https://open.spotify.com/track/36SQrVxIeTBayrrFFyFTaB"
     },
     {
       "album": {

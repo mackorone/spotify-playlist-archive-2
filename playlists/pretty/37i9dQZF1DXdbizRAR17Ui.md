@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,918 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,924 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 29 | [pull u right thru](https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [pull u right thru](https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB) | 3:37 |
 | 30 | [think about you](https://open.spotify.com/track/4CqNwzL5J0IYeh0HWhq9mA) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [SoLow](https://open.spotify.com/artist/3l2gXSj6vB1lvMsrAEG7WU) | [think about you](https://open.spotify.com/album/71ivYTmevXYJsCLcoFIxoD) | 2:40 |
 | 31 | [2Love \(feat\. FAUZIA\)](https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [FAUZIA](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Confirmation!](https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g) | 2:44 |
-| 32 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
-| 33 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 32 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 33 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
 | 34 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 35 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 36 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
 | 37 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
-| 38 | [Waterline](https://open.spotify.com/track/45CkkypF9pXqefE6QNaMr5) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Waterline](https://open.spotify.com/album/7lHKm1kyFaKMdz02ZMkIzW) | 4:05 |
-| 39 | [Ghost in My Stereo](https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Ghost in My Stereo](https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN) | 1:58 |
+| 38 | [Ghost in My Stereo](https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Ghost in My Stereo](https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN) | 1:58 |
+| 39 | [Waterline](https://open.spotify.com/track/45CkkypF9pXqefE6QNaMr5) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Waterline](https://open.spotify.com/album/7lHKm1kyFaKMdz02ZMkIzW) | 4:05 |
 | 40 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
 | 41 | [Solo](https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [Solo](https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX) | 3:06 |
 | 42 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |

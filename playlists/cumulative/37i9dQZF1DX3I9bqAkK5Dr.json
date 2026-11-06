@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Manisha Eerabathini",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Mangli",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -2418,6 +2418,28 @@
       "duration_ms": 328208,
       "name": "Emone",
       "url": "https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh"
+    },
+    {
+      "album": {
+        "name": "Empty Promises",
+        "url": "https://open.spotify.com/album/2eVRWG79Xu2vMGM3wdadL0"
+      },
+      "artists": [
+        {
+          "name": "Saloni",
+          "url": "https://open.spotify.com/artist/0FBuuG9cTMxcXgo4y7tudu"
+        },
+        {
+          "name": "Inertia",
+          "url": "https://open.spotify.com/artist/1doaBzj87cvua0NVJDGbYs"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175939,
+      "name": "Empty Promises",
+      "url": "https://open.spotify.com/track/1s2RulbmJuWuaPPbxfgKh7"
     },
     {
       "album": {
@@ -6484,7 +6506,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194851,
       "name": "Nalla Addhal",
       "url": "https://open.spotify.com/track/7atlt82FhkVXvZ40OyvltP"
@@ -7905,6 +7927,32 @@
     },
     {
       "album": {
+        "name": "O Surya Kumari",
+        "url": "https://open.spotify.com/album/3irmM0cS0ZDoYOO8m3j65F"
+      },
+      "artists": [
+        {
+          "name": "K Phanindra Kumar",
+          "url": "https://open.spotify.com/artist/0sxUF5jWFnoLMv0rgcd6i2"
+        },
+        {
+          "name": "Premchand Kancharla",
+          "url": "https://open.spotify.com/artist/1QUhgE5qQTC0b3asusvSUi"
+        },
+        {
+          "name": "Abhijith Rao",
+          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262040,
+      "name": "O Surya Kumari",
+      "url": "https://open.spotify.com/track/3C6XKVNOGecVNZH0ifoOvI"
+    },
+    {
+      "album": {
         "name": "OG x Masaka Masaka",
         "url": "https://open.spotify.com/album/5lrVb481Qn1xvUPD62Z1Eq"
       },
@@ -8922,6 +8970,32 @@
       "duration_ms": 198372,
       "name": "Po Ve Po Ve",
       "url": "https://open.spotify.com/track/2ULcLS1AhtAvTwSPEw2VHu"
+    },
+    {
+      "album": {
+        "name": "Poda O Chandu (Maati S2)",
+        "url": "https://open.spotify.com/album/2rrkBeKABEnQ1RmHql3zy8"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Suresh Bobbili",
+          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281941,
+      "name": "Poda O Chandu - Maati S2",
+      "url": "https://open.spotify.com/track/7pmWu4HT73Ictu2TKEj9Hg"
     },
     {
       "album": {
@@ -10593,6 +10667,28 @@
     },
     {
       "album": {
+        "name": "Siddham",
+        "url": "https://open.spotify.com/album/1fJy5rKijHcjCF5G8kAhE5"
+      },
+      "artists": [
+        {
+          "name": "Roots Zombie",
+          "url": "https://open.spotify.com/artist/5EuToKPPl4hmqXj04uFGci"
+        },
+        {
+          "name": "Lady Skavya",
+          "url": "https://open.spotify.com/artist/5QeNGb11QgU6msarwbkI2I"
+        }
+      ],
+      "date_added": "2026-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243866,
+      "name": "Siddham",
+      "url": "https://open.spotify.com/track/2y1UEVe4lwh8cViIUkc8BQ"
+    },
+    {
+      "album": {
         "name": "Silakamma",
         "url": "https://open.spotify.com/album/6y5dRvQhZ7ETFpZQNBkqAo"
       },
@@ -11924,7 +12020,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 154848,
       "name": "V7 MODE - Extended Mix",
       "url": "https://open.spotify.com/track/3uipLwrYb1sEwgSjVg7cE2"

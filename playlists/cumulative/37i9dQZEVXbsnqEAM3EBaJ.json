@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 428570,
       "name": "A man from the future",
       "url": "https://open.spotify.com/track/5zUdFy3giiWAj1KaO4ztP8"
@@ -2816,6 +2816,40 @@
       "duration_ms": 223000,
       "name": "A Waltz",
       "url": "https://open.spotify.com/track/12NyC360WQb7BPQIrC2mqN"
+    },
+    {
+      "album": {
+        "name": "The Eternal Sonata",
+        "url": "https://open.spotify.com/album/06h3q31nxLcGZE8HQzqrJp"
+      },
+      "artists": [
+        {
+          "name": "Max D",
+          "url": "https://open.spotify.com/artist/3IQvdTXmUP6kAyBnJ5rbsp"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "A Waltz Beneath the Chandeliers",
+      "url": "https://open.spotify.com/track/3OA7ZRO0IuCv3TV3mzK29l"
     },
     {
       "album": {
@@ -4230,6 +4264,24 @@
       "duration_ms": 250191,
       "name": "Alfil, Ella No Cambia Nada - Remasterizado 2025",
       "url": "https://open.spotify.com/track/2FZEEykFbpHD9nZ1VQXYCW"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n de L\u00e1grimas y Amores",
+        "url": "https://open.spotify.com/album/3ys7D9FNGCECqx5klEqCd8"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/4BearO2qqGiD6usNX7hBQk"
     },
     {
       "album": {
@@ -11166,7 +11218,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 149674,
       "name": "Brutta Sensazione",
       "url": "https://open.spotify.com/track/1ov8H60x1tpiVZwYTEH7fT"
@@ -14071,6 +14123,28 @@
     },
     {
       "album": {
+        "name": "Closer (En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0UHPk8s5kziOTMEBQAmPbC"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Closer - En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3F9v8PJas3OHN5W5zrpAfv"
+    },
+    {
+      "album": {
         "name": "Gaudi (Sessions)",
         "url": "https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu"
       },
@@ -14532,7 +14606,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162302,
       "name": "Coming For You - Hometown Remix",
       "url": "https://open.spotify.com/track/1W7CnNSMlOTGQezT8NlgUl"
@@ -16993,6 +17067,28 @@
     },
     {
       "album": {
+        "name": "DEAD SILENT",
+        "url": "https://open.spotify.com/album/2P1sxAoxUcj4AvcrUwYvxH"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        },
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205961,
+      "name": "DEAD SILENT",
+      "url": "https://open.spotify.com/track/3JJr1Ws0CybwNYxfY5SgH5"
+    },
+    {
+      "album": {
         "name": "Dead To The World",
         "url": "https://open.spotify.com/album/3SVwQmt2Eu8Hr63m3rT3zn"
       },
@@ -17026,6 +17122,24 @@
       "duration_ms": 294160,
       "name": "Deadlight",
       "url": "https://open.spotify.com/track/3fKJwJDb0xZzWmoveGDnEV"
+    },
+    {
+      "album": {
+        "name": "Orgasmatron (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3DAjWuihHWYhgtcXpGitiO"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265746,
+      "name": "Deaf Forever - Cameron Webb 40th Anniversary Remix",
+      "url": "https://open.spotify.com/track/05NwbopOX3gYWSh3JVolht"
     },
     {
       "album": {
@@ -20758,7 +20872,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 290194,
       "name": "El amor espera",
       "url": "https://open.spotify.com/track/4KCTos1Dz6SsdstZxpK7Us"
@@ -22415,6 +22529,28 @@
     },
     {
       "album": {
+        "name": "Continuum II",
+        "url": "https://open.spotify.com/album/5idy1U5VVBtpGRbGZL2YZe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337827,
+      "name": "Erbarm dich mein, o Herre Gott, BWV 721 (Performed on Piano)",
+      "url": "https://open.spotify.com/track/3VA5Ba50BV9teYFJdgrPGG"
+    },
+    {
+      "album": {
         "name": "VSQ Performs Prince",
         "url": "https://open.spotify.com/album/1ar4vW8uFoF3r9dJAQSpe6"
       },
@@ -22928,6 +23064,32 @@
       "duration_ms": 342600,
       "name": "Ethereal Sleep",
       "url": "https://open.spotify.com/track/2EJa8t1E8fx0p1vrDLJDDA"
+    },
+    {
+      "album": {
+        "name": "Ethukur",
+        "url": "https://open.spotify.com/album/5Dg8K73ePRXE1OGAHXuOj2"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Oc\u00e1tvio Cabuata",
+          "url": "https://open.spotify.com/artist/21dZ2negaw5kiWvlS662Fm"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ethukur",
+      "url": "https://open.spotify.com/track/1Ejp9Stt51z9CB4AlYy4qs"
     },
     {
       "album": {
@@ -23724,7 +23886,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 209531,
       "name": "FADED - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/4OX7pQdm43EtAiBIEWlUnA"
@@ -27739,6 +27901,24 @@
     },
     {
       "album": {
+        "name": "Go Man Go / Dig for Fire (Albini Version)",
+        "url": "https://open.spotify.com/album/3jsZ7w3pEMDC09LDdk2k3l"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168789,
+      "name": "Go Man Go",
+      "url": "https://open.spotify.com/track/7JLLi5uTXX6fgqZOxwMWVq"
+    },
+    {
+      "album": {
         "name": "Breadcrumbs",
         "url": "https://open.spotify.com/album/5STTMINKxheEifPb6aUPMO"
       },
@@ -29794,7 +29974,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 366108,
       "name": "He dreamed of machines",
       "url": "https://open.spotify.com/track/0F4M2od11z4xwxp2oDHfNY"
@@ -34358,7 +34538,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 206440,
       "name": "Ich ruf zu dir, Herr Jesu Christ, BWV 639 (Arr. Busoni for Piano)",
       "url": "https://open.spotify.com/track/3umQoYu0iSKXBMM9QgE8dn"
@@ -36605,6 +36785,46 @@
     },
     {
       "album": {
+        "name": "On the Record",
+        "url": "https://open.spotify.com/album/3ykupZLGmqwhdVSATDPNv8"
+      },
+      "artists": [
+        {
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
+        },
+        {
+          "name": "Andrea Corr",
+          "url": "https://open.spotify.com/artist/1BmPsOK2Q7dn39KzD5gLnv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262213,
+      "name": "Is That You? (feat. Andrea Corr)",
+      "url": "https://open.spotify.com/track/153QHC0zeiJF9yWJUX28eb"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/4QpGo7C1ZrpHGTcLzJd5Wr"
+      },
+      "artists": [
+        {
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "Is This The Life?",
+      "url": "https://open.spotify.com/track/2jrHJpIgWU9msysaAaDQjV"
+    },
+    {
+      "album": {
         "name": "The Last Ship (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ITQq1FrdjSUxkw0VktNr6"
       },
@@ -37212,6 +37432,32 @@
       "duration_ms": 229994,
       "name": "Jealous Lover",
       "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+    },
+    {
+      "album": {
+        "name": "Greetings From California (Deluxe)",
+        "url": "https://open.spotify.com/album/73zy95doej9RGgCkTgryf2"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "The Madden Brothers",
+          "url": "https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195118,
+      "name": "Jealousy (All Your Friends In Silverlake) [With Eyedress]",
+      "url": "https://open.spotify.com/track/4aTQxRhxRwws11gVNhBA6k"
     },
     {
       "album": {
@@ -41374,7 +41620,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 462093,
       "name": "Licking Love From A Knife",
       "url": "https://open.spotify.com/track/7sucuTPOCKPKYDNIz66IDt"
@@ -42058,6 +42304,28 @@
       "duration_ms": 249500,
       "name": "Live Is Life - 40 Years Anniversary Mix",
       "url": "https://open.spotify.com/track/5REFjZqZ4VeOJ8jfMakkZb"
+    },
+    {
+      "album": {
+        "name": "Live Is Life (Sirtaki Version Auf Griechisch-Wienerisch)",
+        "url": "https://open.spotify.com/album/4F0cmoUuXvB5ZzVLDWoCzK"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        },
+        {
+          "name": "SirtakiSchrammeln",
+          "url": "https://open.spotify.com/artist/3BopxgJl6KKSv8Lz86Eg2z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175587,
+      "name": "Live Is Life - Sirtaki Version Auf Griechisch-Wienerisch",
+      "url": "https://open.spotify.com/track/4f0aYqzVVyfwe0z55okgJR"
     },
     {
       "album": {
@@ -42756,7 +43024,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 212302,
       "name": "Los dinosaurios",
       "url": "https://open.spotify.com/track/4QkfesUSZqpsnjXOL6SZN7"
@@ -43036,6 +43304,24 @@
       "duration_ms": 240591,
       "name": "Lost In The Grandeur - Requiem Mass",
       "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
+    },
+    {
+      "album": {
+        "name": "Origins 1971-1978",
+        "url": "https://open.spotify.com/album/2yADEJKwZP4vta8iEKmG8z"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298760,
+      "name": "Lost In Your Eyes",
+      "url": "https://open.spotify.com/track/0MS0GHiOMtj51vJrv12YPJ"
     },
     {
       "album": {
@@ -44219,6 +44505,24 @@
     },
     {
       "album": {
+        "name": "Celtic Fairy Gift",
+        "url": "https://open.spotify.com/album/5ApTVI8lHfqjrwF8jehciJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Stadler",
+          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142740,
+      "name": "Magical Faerie Kiss",
+      "url": "https://open.spotify.com/track/36CoX0rDPpjgd8euYc2ybz"
+    },
+    {
+      "album": {
         "name": "Magical Mystery Tour",
         "url": "https://open.spotify.com/album/5VJWGEc9eVnU3NsAYvJdYk"
       },
@@ -44390,6 +44694,24 @@
       "duration_ms": 153970,
       "name": "Make Your Exit",
       "url": "https://open.spotify.com/track/08ITA9gnwYlLKw31HuBqLu"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/3VTPu8P2jlMLwCMY0wWIVr"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Makin' Love - Outtake",
+      "url": "https://open.spotify.com/track/3qSlX0NSLUOl85vAiGRu8S"
     },
     {
       "album": {
@@ -46028,6 +46350,24 @@
       "duration_ms": 237350,
       "name": "Mighty Morphin Power Rangers",
       "url": "https://open.spotify.com/track/4Ny1W1E3BqgA8k7KcMn3eN"
+    },
+    {
+      "album": {
+        "name": "Are You Ready: The First Studio Recording (Inner Ear - March 1979)",
+        "url": "https://open.spotify.com/album/7qcpklmKEmd7Fv6hqJGJLp"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109301,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/2GsryzdbgqWWGjq5ODlSNv"
     },
     {
       "album": {
@@ -47788,6 +48128,24 @@
       "duration_ms": 216124,
       "name": "My War - Live",
       "url": "https://open.spotify.com/track/4JnMxVOWWBf49qOgzlHm2E"
+    },
+    {
+      "album": {
+        "name": "My Worst Enemy",
+        "url": "https://open.spotify.com/album/5AsA5Yr4aoZwVUw4xT7pVU"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172904,
+      "name": "My Worst Enemy",
+      "url": "https://open.spotify.com/track/1uuQ7csANJi7GpYfCvHqAE"
     },
     {
       "album": {
@@ -50641,6 +50999,28 @@
     },
     {
       "album": {
+        "name": "Obsessed x",
+        "url": "https://open.spotify.com/album/6YG28dpEYwU2KugYYxWGgu"
+      },
+      "artists": [
+        {
+          "name": "Nylist",
+          "url": "https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw"
+        },
+        {
+          "name": "All Shall Perish",
+          "url": "https://open.spotify.com/artist/7GkGdNLPzWw4e6ctwKvI2x"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208624,
+      "name": "Obsessed x",
+      "url": "https://open.spotify.com/track/6hZPwHN4aiLTmT02tplA1K"
+    },
+    {
+      "album": {
         "name": "VSQ Performs Billie Eilish",
         "url": "https://open.spotify.com/album/3FE9wRDUSXqZ2qfLWBdsBl"
       },
@@ -50774,6 +51154,24 @@
       "duration_ms": 172592,
       "name": "Oh, Dolores - From \"The Horror of Dolores Roach\"",
       "url": "https://open.spotify.com/track/22zLM7Qgh4Y6bmxb7ejpSy"
+    },
+    {
+      "album": {
+        "name": "Oi To The World!",
+        "url": "https://open.spotify.com/album/6s81qm6WEHANwpcC8HHekk"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148663,
+      "name": "Oi To The World!",
+      "url": "https://open.spotify.com/track/3PCNP6H9g7NxgAXh6CG76S"
     },
     {
       "album": {
@@ -57336,7 +57734,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179028,
       "name": "Reach For The Stars",
       "url": "https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO"
@@ -60187,6 +60585,28 @@
     },
     {
       "album": {
+        "name": "Sadness Will Reign",
+        "url": "https://open.spotify.com/album/1SKwChtsQdSNkv88AW6F8c"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        },
+        {
+          "name": "Joe Duplantier",
+          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287268,
+      "name": "Sadness Will Reign",
+      "url": "https://open.spotify.com/track/1IGVmPuyttwxqNnbbD9Goj"
+    },
+    {
+      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG"
       },
@@ -62673,6 +63093,24 @@
     },
     {
       "album": {
+        "name": "Animals 50",
+        "url": "https://open.spotify.com/album/1Zqw48CJBRv5BcsvFWRrXX"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263293,
+      "name": "Sheep - Original Radio Edit",
+      "url": "https://open.spotify.com/track/454Q1iqhAAyZyV5ZGDzzGj"
+    },
+    {
+      "album": {
         "name": "The Live Series: Songs Of Character",
         "url": "https://open.spotify.com/album/5Do6bS6vnJqvAC9b3mJ1fi"
       },
@@ -63070,7 +63508,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 189817,
       "name": "Siempre los Mismos",
       "url": "https://open.spotify.com/track/4yQZt6YGpxZSSeKHSzFHKI"
@@ -63202,6 +63640,24 @@
       "duration_ms": 253722,
       "name": "Simp\u00e1tico Holgaz\u00e1n",
       "url": "https://open.spotify.com/track/2WEdUIU7vXymKEVMXFFR54"
+    },
+    {
+      "album": {
+        "name": "No Sleep Til L.A.",
+        "url": "https://open.spotify.com/album/5y6CE4cFDzGnJ7EaLQXUv9"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/1TJ7znkrgtsdguQVOuUDxt"
     },
     {
       "album": {
@@ -65348,6 +65804,24 @@
       "duration_ms": 318106,
       "name": "Soul Burn - 2026 Remastered",
       "url": "https://open.spotify.com/track/63YGuQEqYCKuROeX8UoBYe"
+    },
+    {
+      "album": {
+        "name": "Soul Destruction",
+        "url": "https://open.spotify.com/album/1UxdXXo3mbavC8irIRMCdq"
+      },
+      "artists": [
+        {
+          "name": "Sankara",
+          "url": "https://open.spotify.com/artist/10jQiHjeqG2iYmFO9MhGR6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212424,
+      "name": "Soul Destruction",
+      "url": "https://open.spotify.com/track/1UxI5V2yBsOAOCNHQl3587"
     },
     {
       "album": {
@@ -70631,6 +71105,24 @@
     },
     {
       "album": {
+        "name": "The Cost to Stay",
+        "url": "https://open.spotify.com/album/6jH7S9ZtJCwYhVntqqOxkt"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221410,
+      "name": "The Cost To Stay",
+      "url": "https://open.spotify.com/track/709PquzjskkVjT2VIMlTfH"
+    },
+    {
+      "album": {
         "name": "The Court (Bright-Side Mix)",
         "url": "https://open.spotify.com/album/5OtdpKy8Ck7tF7b3TdFNwP"
       },
@@ -72832,6 +73324,32 @@
       "duration_ms": 296440,
       "name": "The Poetry of the Real World",
       "url": "https://open.spotify.com/track/2EX3tA289WH6k4iqiF791p"
+    },
+    {
+      "album": {
+        "name": "More Than Misery",
+        "url": "https://open.spotify.com/album/4qrt6Dxmo2t9BwHt8fB75Q"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        },
+        {
+          "name": "Chaney Crabb",
+          "url": "https://open.spotify.com/artist/5XyQ4rRjIxhVpaOrXlZ1jJ"
+        },
+        {
+          "name": "Entheos",
+          "url": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242520,
+      "name": "The Process Of Pain",
+      "url": "https://open.spotify.com/track/5lOx0RyEsz3XbGtC3HT30x"
     },
     {
       "album": {
@@ -82000,7 +82518,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 185809,
       "name": "where did you go? \u25cb",
       "url": "https://open.spotify.com/track/0wJEyazi5l1hKV2UeBj4i9"
@@ -84943,6 +85461,24 @@
     },
     {
       "album": {
+        "name": "Home Again--The Complete United Artists Recordings",
+        "url": "https://open.spotify.com/album/2u7XYh4b2ClUL6Z2w1j9rD"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226185,
+      "name": "You\u2019ve Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/6lBKHjzElEVauEOJLmRngY"
+    },
+    {
+      "album": {
         "name": "Z0mbie",
         "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
       },
@@ -85878,6 +86414,24 @@
       "duration_ms": 229160,
       "name": "\u6975\u591c\u884c",
       "url": "https://open.spotify.com/track/19dVVMvToKKIUuThb8t3V2"
+    },
+    {
+      "album": {
+        "name": "\u6b69\u5e45",
+        "url": "https://open.spotify.com/album/6wIeQGCAMwMFgtWw6iHVAz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340648,
+      "name": "\u6b69\u5e45",
+      "url": "https://open.spotify.com/track/3oKvVl5AEH2GyHmwHSof8p"
     },
     {
       "album": {

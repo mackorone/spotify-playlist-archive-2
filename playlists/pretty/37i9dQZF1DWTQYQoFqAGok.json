@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 66021,
+  "num_followers": 66028,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
+        "name": "La Instituci\u00f3n Te Reclama",
+        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
+      },
+      "artists": [
+        {
+          "name": "David Chanson",
+          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
+        }
+      ],
+      "duration_ms": 349008,
+      "name": "Entronque",
+      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
-        "name": "La Instituci\u00f3n Te Reclama",
-        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
-      },
-      "artists": [
-        {
-          "name": "David Chanson",
-          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
-        }
-      ],
-      "duration_ms": 349008,
-      "name": "Entronque",
-      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
     },
     {
       "added_at": "2026-09-04 06:00:34",

@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 167030,
       "name": "4 Life",
       "url": "https://open.spotify.com/track/68see4bhyZShDiF4D1ShID"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 199877,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -6248,7 +6248,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
@@ -8444,7 +8444,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 178289,
       "name": "DE MEDALLO PA MOROVIS",
       "url": "https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf"
@@ -11094,7 +11094,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -12220,7 +12220,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 281545,
       "name": "Esclava - Remix",
       "url": "https://open.spotify.com/track/2Mgur7BKnpr7OG3izSNFTA"
@@ -18360,7 +18360,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -19074,6 +19074,32 @@
       "duration_ms": 48520,
       "name": "LEGENDADDY",
       "url": "https://open.spotify.com/track/4jzz1dFGn1osftEfcKSAeV"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3XsikNMTSZMajYvNj8JS7U"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        },
+        {
+          "name": "1cewayz",
+          "url": "https://open.spotify.com/artist/074nZ9lE8oOR6Amfoyacyp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7rg67FsjKopV6WXvJYF8uM"
     },
     {
       "album": {
@@ -24696,7 +24722,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156470,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/3YSkiK0JAaWvZVh0rFa3ja"
@@ -30952,7 +30978,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 250226,
       "name": "Sexo, Sudor y Calor",
       "url": "https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1"
@@ -31702,7 +31728,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 322466,
       "name": "Siempre Sere",
       "url": "https://open.spotify.com/track/4ZGk5h0sIfeunWEKzXEoHr"
@@ -38328,7 +38354,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 183535,
       "name": "YOGURCITO",
       "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"

@@ -30026,7 +30026,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 131103,
       "name": "One More Page",
       "url": "https://open.spotify.com/track/3ubrObqREfUKohaeVQx5Ac"
@@ -34020,6 +34020,24 @@
       "duration_ms": 76000,
       "name": "Remote View",
       "url": "https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC"
+    },
+    {
+      "album": {
+        "name": "RESOLUTION",
+        "url": "https://open.spotify.com/album/6xoUy0MGLiN4egMmpkQWrG"
+      },
+      "artists": [
+        {
+          "name": "SLOWIFI",
+          "url": "https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146142,
+      "name": "RESOLUTION",
+      "url": "https://open.spotify.com/track/7lFW8mhko9rb4ZCGooRy5t"
     },
     {
       "album": {

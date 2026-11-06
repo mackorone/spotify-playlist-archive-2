@@ -83,6 +83,28 @@
     },
     {
       "album": {
+        "name": "A Case of You (Arr. Osborne for Piano)",
+        "url": "https://open.spotify.com/album/6GqWEiG7xcQsKiYuSdUuMY"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "A Case of You (Arr. Osborne for Piano)",
+      "url": "https://open.spotify.com/track/0epa1JlvGlpKXFMG1A828N"
+    },
+    {
+      "album": {
         "name": "A Colour Field (Piano Version)",
         "url": "https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn"
       },
@@ -954,6 +976,24 @@
       "duration_ms": 184875,
       "name": "Howl's Moving Castle - Merry-Go-Round of Life",
       "url": "https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ"
+    },
+    {
+      "album": {
+        "name": "Hydrangea",
+        "url": "https://open.spotify.com/album/3yutG38AhTfKNBkeFJU27y"
+      },
+      "artists": [
+        {
+          "name": "Lora Chow",
+          "url": "https://open.spotify.com/artist/6MJOgQHX7hHj9lox0jDWgI"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105626,
+      "name": "Hydrangea",
+      "url": "https://open.spotify.com/track/5FiqVyMvFzsmbTHaYtL3xM"
     },
     {
       "album": {

@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215585,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
+    },
+    {
+      "album": {
         "name": "Good To You",
         "url": "https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg"
       },
@@ -1346,7 +1368,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 190854,
       "name": "Hoe Zou Het Nu Gaan?",
       "url": "https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz"
@@ -2242,7 +2264,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 224844,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
@@ -3630,7 +3652,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 199074,
       "name": "Tranen",
       "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"

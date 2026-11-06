@@ -1,12 +1,12 @@
 {
   "description": "This is DESTIN CONRAD. The essential tracks, all in one playlist.",
-  "num_followers": 3618,
+  "num_followers": 3620,
   "original_name": "This Is DESTIN CONRAD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADy+W9IR/5cHfDdH9SeMkwg",
+  "snapshot_id": "aukkAAAAAABhyBYXEiaO+4ShNl4oSlvp",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "HARD!",
+      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAKE IT UP - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2UEQ0AO6afLtXm4URqzl1m"
       },
@@ -471,38 +503,6 @@
       "duration_ms": 172931,
       "name": "MAKE IT UP - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5w7epjCisok9TojZEtU4CG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "PARTY WIT U",
-      "url": "https://open.spotify.com/track/0JuVJPstXUiXNFbBw7jwqq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "HARD!",
-      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 118666,
-      "name": "DELUSIONAL",
-      "url": "https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT"
+      "duration_ms": 146206,
+      "name": "PARTY WIT U",
+      "url": "https://open.spotify.com/track/0JuVJPstXUiXNFbBw7jwqq"
     },
     {
       "added_at": null,

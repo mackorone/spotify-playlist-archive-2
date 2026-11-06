@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
   "name": "R&Bae",
   "tracks": [
     {
@@ -360,6 +360,24 @@
       "duration_ms": 198252,
       "name": "Aller retour",
       "url": "https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6"
+    },
+    {
+      "album": {
+        "name": "Aller sans retour - Music Monday",
+        "url": "https://open.spotify.com/album/5g2gva6enwPlPvvIQojcj6"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144160,
+      "name": "Aller sans retour",
+      "url": "https://open.spotify.com/track/1ePJ1gQbI6qVkQcfqtn0Lv"
     },
     {
       "album": {
@@ -1040,6 +1058,28 @@
       "duration_ms": 167500,
       "name": "BABYMAMA",
       "url": "https://open.spotify.com/track/6oEDg2yw9M0NtWAWtPxEca"
+    },
+    {
+      "album": {
+        "name": "MOI, JEUNE & M\u00c9CHANT",
+        "url": "https://open.spotify.com/album/7tvIctDQ5pMUpKMhHKUaS5"
+      },
+      "artists": [
+        {
+          "name": "El Mvnolo",
+          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
+        },
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138467,
+      "name": "BAD & BOUJEE",
+      "url": "https://open.spotify.com/track/5gjNOJQF085su5WY7yL1yl"
     },
     {
       "album": {
@@ -2186,6 +2226,24 @@
       "duration_ms": 135319,
       "name": "Ceux D'Avant",
       "url": "https://open.spotify.com/track/5EwfJvQJGc1JuNn5ox7FkE"
+    },
+    {
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/3DszGRTMjdrzn2QQLNAh9d"
     },
     {
       "album": {
@@ -3919,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Don\u2018t tell me",
+        "url": "https://open.spotify.com/album/5bmlgb60OzvS8NMGsZfmkn"
+      },
+      "artists": [
+        {
+          "name": "7iaa",
+          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Don\u2018t tell me",
+      "url": "https://open.spotify.com/track/0bnCNxHiSRqwwLrC5ZRBnU"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1TihwEVRCTG3DusEz0Rlr4"
       },
@@ -4028,7 +4104,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187000,
       "name": "Doutes",
       "url": "https://open.spotify.com/track/1fuB5rU71L5QEr93oM4x1V"
@@ -5833,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "Illico Presto",
+        "url": "https://open.spotify.com/album/1iGuhzQb12kuiecslqQdTM"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Illico Presto",
+      "url": "https://open.spotify.com/track/7duoBm6ju6M0A6ozHAGLqe"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/5B6CEnpuYmtWpgcWJ5SIRC"
       },
@@ -7177,6 +7271,24 @@
     },
     {
       "album": {
+        "name": "La guerre",
+        "url": "https://open.spotify.com/album/0m34805p0crcjHeLE8pbmq"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192958,
+      "name": "La guerre",
+      "url": "https://open.spotify.com/track/3PEwWCwgsc3qnYcDgNOuq0"
+    },
+    {
+      "album": {
         "name": "La guitare suit la m\u00e9lo",
         "url": "https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz"
       },
@@ -7388,6 +7500,28 @@
       "duration_ms": 207760,
       "name": "Le coeur ou la raison",
       "url": "https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609"
+    },
+    {
+      "album": {
+        "name": "Le Deal",
+        "url": "https://open.spotify.com/album/2WwAXT0esfsDWsNUjrGWvi"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        },
+        {
+          "name": "Jewel Usain",
+          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181508,
+      "name": "Le Deal",
+      "url": "https://open.spotify.com/track/74BWydeH0rlWAjM9BLxcl1"
     },
     {
       "album": {
@@ -7688,7 +7822,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 163800,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4bRaeEqCtTevan9rq3NomZ"
@@ -7982,7 +8116,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 197499,
       "name": "Ma pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
@@ -8148,7 +8282,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 165333,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/734vgILhukoLD4s1z0kS5h"
@@ -8670,6 +8804,24 @@
       "duration_ms": 144066,
       "name": "Menteur (feat. Ronisia)",
       "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
+    },
+    {
+      "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/6EA7192nG5dzrraJ2ohXDU"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195316,
+      "name": "Merci",
+      "url": "https://open.spotify.com/track/0w0INM1KnJXEcyFvFw6LzY"
     },
     {
       "album": {
@@ -10690,7 +10842,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187500,
       "name": "PAS NORMAL",
       "url": "https://open.spotify.com/track/2gY4kMs36D5lFtAuU5KXjT"
@@ -11870,7 +12022,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145188,
       "name": "REINE",
       "url": "https://open.spotify.com/track/7enUPe7HAWaeGsI2G7S3gk"
@@ -11900,6 +12052,24 @@
       "duration_ms": 148800,
       "name": "RendezVOUS",
       "url": "https://open.spotify.com/track/0ZRjsqlzK08NTuIAJPBC4w"
+    },
+    {
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153614,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/38bfxRHZXxdIgikV4xFYuP"
     },
     {
       "album": {
@@ -13532,7 +13702,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162426,
       "name": "STP",
       "url": "https://open.spotify.com/track/45wawSnD0yNSzqbkhOUdRx"
@@ -13572,6 +13742,24 @@
       "duration_ms": 197538,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/4FEpnieqYKr3Eedt3ifzAe"
+    },
+    {
+      "album": {
+        "name": "Sweet Flick",
+        "url": "https://open.spotify.com/album/09y7RxFJU2Mv5L4iZKgUVo"
+      },
+      "artists": [
+        {
+          "name": "Mocaris",
+          "url": "https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sweet Flick",
+      "url": "https://open.spotify.com/track/5n5oMheJepImS9whrKTbaD"
     },
     {
       "album": {
@@ -13928,7 +14116,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 113750,
       "name": "TASTY MON\u20acY",
       "url": "https://open.spotify.com/track/3nmO717fhPd3RHi1um3ddt"
@@ -14794,7 +14982,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 169212,
       "name": "une autre",
       "url": "https://open.spotify.com/track/2ZcjKLZkEYseB3gQMwA06p"
@@ -15420,7 +15608,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145263,
       "name": "\u00c0 Fleur De Peau",
       "url": "https://open.spotify.com/track/36nwb4DeKA4Y8IxXJYatTG"

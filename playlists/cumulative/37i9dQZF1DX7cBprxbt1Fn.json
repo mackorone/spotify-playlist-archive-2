@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "14 Romances, Op.34: No.14, Vocalise (Arr. for Piano by Alan Richardson)",
+        "url": "https://open.spotify.com/album/47tc6C4hgUxXQN69ZrJktt"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377826,
+      "name": "14 Romances, Op.34: No.14, Vocalise (Arr. for Piano by Alan Richardson)",
+      "url": "https://open.spotify.com/track/5TLeFA3zb2tQTPTspFCU07"
+    },
+    {
+      "album": {
         "name": "Scandinavian String Music",
         "url": "https://open.spotify.com/album/2NjYZgqo88TbE5bPD6fLmF"
       },
@@ -2354,6 +2376,24 @@
       "duration_ms": 249905,
       "name": "The Art of Falling",
       "url": "https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG"
+    },
+    {
+      "album": {
+        "name": "The Arts and the Hours",
+        "url": "https://open.spotify.com/album/3ILipIT7xgLevEHlTewebN"
+      },
+      "artists": [
+        {
+          "name": "Valentin",
+          "url": "https://open.spotify.com/artist/1Ae9PmAz3fnjsmlVI0BwEV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190528,
+      "name": "The Arts and the Hours",
+      "url": "https://open.spotify.com/track/4ESOJYByN6CCfnAIq3dttX"
     },
     {
       "album": {

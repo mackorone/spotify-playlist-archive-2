@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 595220,
+  "num_followers": 595249,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
+        "name": "Life 2",
+        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "Life 2",
+      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -435,54 +451,34 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Life 2",
-        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
         }
       ],
-      "duration_ms": 203157,
-      "name": "Life 2",
-      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+        "name": "Ridin' (Deluxe)",
+        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 222400,
-      "name": "I'll Come Too",
-      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+      "duration_ms": 233051,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -527,34 +523,38 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Ridin' (Deluxe)",
-        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 233051,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
+      "duration_ms": 222400,
+      "name": "I'll Come Too",
+      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Honora",
         "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
         "name": "you loved me like a fool",
         "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 214638,
       "name": "you loved me like a fool",
       "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 160695,
       "name": "el sur",
       "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
-        "name": "To Unknownia",
-        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 243872,
-      "name": "To Unknownia",
-      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 135900,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "Colores Del Mar",
-      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Virtual U",
         "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 302190,
       "name": "Virtual U",
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "Colores Del Mar",
+      "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 210922,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
     },
     {
       "added_at": "2026-09-30 22:47:28",
@@ -1595,30 +1595,6 @@
     {
       "added_at": "2026-09-30 22:47:28",
       "album": {
-        "name": "Porvenir",
-        "url": "https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 180388,
-      "name": "Porvenir",
-      "url": "https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI"
-    },
-    {
-      "added_at": "2026-09-30 22:47:28",
-      "album": {
         "name": "Drifting Out EP",
         "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1443h65ZxXtPgl4t2c9ijS"
+    },
+    {
+      "added_at": "2026-09-30 22:47:28",
+      "album": {
+        "name": "Porvenir",
+        "url": "https://open.spotify.com/album/26QGGhsiHOsXfCGpWwf9Dh"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "duration_ms": 180388,
+      "name": "Porvenir",
+      "url": "https://open.spotify.com/track/2LKZIwpZK8TwlTsmzBW6ZI"
     },
     {
       "added_at": "2026-09-30 22:47:28",

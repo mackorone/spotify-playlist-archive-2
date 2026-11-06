@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,551 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,549 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Boogiepop Blitzkrieg Blob](https://open.spotify.com/track/0InsWMLpmFodDsg4fPTn2e) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 1:40 |
 | 15 | [eigentlich](https://open.spotify.com/track/3yAHXk7dPNgbWEWiTLNQAz) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [eigentlich](https://open.spotify.com/album/3Min0vu9TVb5r6A1kETvai) | 2:24 |
 | 16 | [Fotzeigemutter](https://open.spotify.com/track/3EetiB98Gm5t8Lq6jlYtYU) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Fotzeigemutter](https://open.spotify.com/album/4oYM3onjdy6TYnibQzdNNO) | 2:23 |
-| 17 | [Leiser](https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Leiser](https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY) | 3:00 |
-| 18 | [In Da Zone](https://open.spotify.com/track/74EYuSfkYh7EKzyqWXys3d) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [In Da Zone](https://open.spotify.com/album/3ZaJg7VrjUqQS21VOV2Xgo) | 2:48 |
+| 17 | [In Da Zone](https://open.spotify.com/track/74EYuSfkYh7EKzyqWXys3d) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [In Da Zone](https://open.spotify.com/album/3ZaJg7VrjUqQS21VOV2Xgo) | 2:48 |
+| 18 | [Leiser](https://open.spotify.com/track/6GYEi9LziCOWOatIircFLS) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Leiser](https://open.spotify.com/album/70xvlvuhKUmzJoFxNjt0yY) | 3:00 |
 | 19 | [New Era](https://open.spotify.com/track/0sF1TJMDGYxKvu9pp1JQkQ) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [New Era](https://open.spotify.com/album/1f1cgIxZCWi855mvJUDkcv) | 3:13 |
 | 20 | [ich fühle was, was du nicht siehst](https://open.spotify.com/track/0ZScxPE2OcZtD60S5h3yBk) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [ich fühle was, was du nicht siehst](https://open.spotify.com/album/0mdC0loh3n4GEkBl2wCi8W) | 2:57 |
 | 21 | [Hübsche Männer](https://open.spotify.com/track/1ceWR2v9LDAu2KmEEo9Eob) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Hübsche Männer](https://open.spotify.com/album/6WW83esKtgVmttusi4AVpG) | 1:48 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 31 | [bad taste](https://open.spotify.com/track/4d2t86B0mgOwm2hUbnFFLF) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [bad taste](https://open.spotify.com/album/0f31DxqbFb3KaZLvfOMK19) | 2:43 |
 | 32 | [Neues Leben](https://open.spotify.com/track/0ur7C1YPpvtcrUMTQD9Zq5) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Typologie eines Lebens](https://open.spotify.com/album/03TXUJcq5aC52Eusx5g6VB) | 3:01 |
 | 33 | [Le Vol](https://open.spotify.com/track/56zTp6H6QQ9A9RreEvOZWz) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Le Vol](https://open.spotify.com/album/5Qzl6dr6ufoO2LTUVjodsR) | 3:51 |
-| 34 | [Cette fille](https://open.spotify.com/track/2L7ztl8IsIqV8gqT5aC9K6) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Cette fille](https://open.spotify.com/album/0Q6XIIxtQPNCREd3RlA2ks) | 2:42 |
-| 35 | [Breaking Me](https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Breaking Me](https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy) | 2:37 |
+| 34 | [Breaking Me](https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Breaking Me](https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy) | 2:37 |
+| 35 | [Cette fille](https://open.spotify.com/track/2L7ztl8IsIqV8gqT5aC9K6) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Cette fille](https://open.spotify.com/album/0Q6XIIxtQPNCREd3RlA2ks) | 2:42 |
 | 36 | [crocodile tears](https://open.spotify.com/track/7KLVwQ5aDg5V2SI6cknRrn) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [crocodile tears](https://open.spotify.com/album/34EWrOMyFRJWTiP3BRtV6o) | 2:50 |
-| 37 | [Again & Again](https://open.spotify.com/track/6skvajckE4Edfz9dF7A9GS) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ) | [Again & Again](https://open.spotify.com/album/6Edcf68syzdUAK2IvwEq7O) | 2:09 |
-| 38 | [Silver Screen](https://open.spotify.com/track/3IzKadWjjSBDA5WpINZO2r) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Silver Screen](https://open.spotify.com/album/5dAU1B52eefzuiJHBlHroP) | 2:37 |
-| 39 | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/track/5LMrjomC6YqJslM3yjE3Bj) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/album/6qcFf9GgBhfz4NXeT384CK) | 3:09 |
+| 37 | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/track/5LMrjomC6YqJslM3yjE3Bj) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Nur zu Besuch \(feat\. Emma Rose\)](https://open.spotify.com/album/6qcFf9GgBhfz4NXeT384CK) | 3:09 |
+| 38 | [Again & Again](https://open.spotify.com/track/6skvajckE4Edfz9dF7A9GS) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ) | [Again & Again](https://open.spotify.com/album/6Edcf68syzdUAK2IvwEq7O) | 2:09 |
+| 39 | [Silver Screen](https://open.spotify.com/track/3IzKadWjjSBDA5WpINZO2r) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Silver Screen](https://open.spotify.com/album/5dAU1B52eefzuiJHBlHroP) | 2:37 |
 | 40 | [be something](https://open.spotify.com/track/5uv6ABamjf6Xzjc5Kb2Z3W) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [BODYSCANNER](https://open.spotify.com/album/60qluYjAHDpgyFzVV0gXdG) | 4:54 |
 | 41 | [The Pretender](https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Apply Autonomy](https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh) | 3:32 |
 | 42 | [nebelschwadengrau](https://open.spotify.com/track/3BmSV3De4VMcUpICTFjlFQ) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [nebelschwadengrau](https://open.spotify.com/album/4dfRHYoDIZuCZ5nYfYhbSu) | 3:16 |

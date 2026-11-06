@@ -206,7 +206,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 209032,
       "name": "A New Scene",
       "url": "https://open.spotify.com/track/1CTluSuzcHA8K8tznIp84v"
@@ -6887,6 +6887,24 @@
     },
     {
       "album": {
+        "name": "Crescens",
+        "url": "https://open.spotify.com/album/1woS8KhzK6jKRAIyJJDyJr"
+      },
+      "artists": [
+        {
+          "name": "Will Martin",
+          "url": "https://open.spotify.com/artist/2oSCtkjgfqomZVDOh5gCpP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Crescens",
+      "url": "https://open.spotify.com/track/7wtlMSZa22qD7H9hl5Wry9"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/07YqX2VltvsZBi1ACp3sfy"
       },
@@ -10154,7 +10172,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180500,
       "name": "Every Car Crash",
       "url": "https://open.spotify.com/track/0hzjfxRDn3HiZQhgfQdFpp"
@@ -13852,7 +13870,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 139241,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/1p7qoEL0HKp0Xp2jrruXQB"
@@ -17751,6 +17769,24 @@
     },
     {
       "album": {
+        "name": "Incandescent",
+        "url": "https://open.spotify.com/album/4wgBFc4hMk2cAsgUuHi0uL"
+      },
+      "artists": [
+        {
+          "name": "Lovely Trees",
+          "url": "https://open.spotify.com/artist/6eimcTPFqPZjsVqhTCuVUX"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Incandescent",
+      "url": "https://open.spotify.com/track/5MHD7E3EAsUxDUvXl4TIXX"
+    },
+    {
+      "album": {
         "name": "Indefinitely",
         "url": "https://open.spotify.com/album/7wV5gISx5CR1CRO9Cqncj0"
       },
@@ -20692,6 +20728,24 @@
       "duration_ms": 145750,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/4dQvbXG3qNj0RbTn56SDya"
+    },
+    {
+      "album": {
+        "name": "Lose You Once",
+        "url": "https://open.spotify.com/album/6TcdDUKOmoQeJJANMa9Ti1"
+      },
+      "artists": [
+        {
+          "name": "Maro Hollis",
+          "url": "https://open.spotify.com/artist/3SR5y2dV8V2UYdDuWe1YF0"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Lose You Once",
+      "url": "https://open.spotify.com/track/6mihmJnu2tdAUT7qdac1ij"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Wantch\u00e9",
+  "description": "Le meilleur du rap africain francophone. Photo : Philipayne",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150812,
       "name": "3X SAINT",
       "url": "https://open.spotify.com/track/0ueLdzRWqNM8mSc9sUYQcu"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202000,
       "name": "A.B.F",
       "url": "https://open.spotify.com/track/2HiqlqRAiboJS4sBKg7Nyg"
@@ -789,6 +789,28 @@
     },
     {
       "album": {
+        "name": "BABI TRAP",
+        "url": "https://open.spotify.com/album/3FVxweo004NnmdblwQba7l"
+      },
+      "artists": [
+        {
+          "name": "PurppX",
+          "url": "https://open.spotify.com/artist/5fCtEFSypD573BbrNOF6XS"
+        },
+        {
+          "name": "La b 7",
+          "url": "https://open.spotify.com/artist/0AgkuOCod2BoKY3KKmasf9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141929,
+      "name": "BABI TRAP",
+      "url": "https://open.spotify.com/track/4ar5dV03RJ23W87YZVl4T0"
+    },
+    {
+      "album": {
         "name": "Baby Bash",
         "url": "https://open.spotify.com/album/6qiBTiNu1cTpdpayaNuwmz"
       },
@@ -1298,6 +1320,28 @@
       "duration_ms": 162461,
       "name": "BRAMOGO",
       "url": "https://open.spotify.com/track/6I7jDDtu8qKPpiBITFv7nt"
+    },
+    {
+      "album": {
+        "name": "BRAND NEW",
+        "url": "https://open.spotify.com/album/1tmap2Rtc9TQmtLjX8hPoe"
+      },
+      "artists": [
+        {
+          "name": "Wantch\u00e9",
+          "url": "https://open.spotify.com/artist/12IHM2ppR26NmIUesKOGZQ"
+        },
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131495,
+      "name": "BRAND NEW",
+      "url": "https://open.spotify.com/track/5qYAdm0GCganxCPKlbMlgS"
     },
     {
       "album": {
@@ -2454,7 +2498,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 122880,
       "name": "DAISHI RAGE : Act 1",
       "url": "https://open.spotify.com/track/5TrCYKoY7DO1UYDqJBhlrM"
@@ -2614,6 +2658,28 @@
       "duration_ms": 151447,
       "name": "Deutsche Qualitat",
       "url": "https://open.spotify.com/track/4IFW2hiijkI8nTyhGhWMET"
+    },
+    {
+      "album": {
+        "name": "BLACK OPPS",
+        "url": "https://open.spotify.com/album/2SKk6bDFo29JTHklRuxEk0"
+      },
+      "artists": [
+        {
+          "name": "Philipayne",
+          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
+        },
+        {
+          "name": "THB",
+          "url": "https://open.spotify.com/artist/3j8UeECAXgsoZNWuf2DFK4"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "DEUX MONDES",
+      "url": "https://open.spotify.com/track/1OASDRE3jG5eZT81HIkcVQ"
     },
     {
       "album": {
@@ -4173,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/50L0Y1UjqLn7TtmjEGOUky"
+      },
+      "artists": [
+        {
+          "name": "Miss kala kala",
+          "url": "https://open.spotify.com/artist/73vwqIImTdACRMndLzff9a"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/6y3eM48BvzpMCk9DaiFarx"
+    },
+    {
+      "album": {
         "name": "LE PROPHETE",
         "url": "https://open.spotify.com/album/2I8WYFT4P5oKArcRsbZ6Kw"
       },
@@ -4312,7 +4396,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 211069,
       "name": "Il ne s'agit que de \u00e7a",
       "url": "https://open.spotify.com/track/0EDRILx03sIkT0OdDv5coM"
@@ -4330,7 +4414,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179384,
       "name": "Ines",
       "url": "https://open.spotify.com/track/5TzZbOyVxBli5WGXG6BIO7"
@@ -4352,6 +4436,28 @@
       "duration_ms": 140617,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/74Ii9tHNc3wIOf8PoAIUYv"
+    },
+    {
+      "album": {
+        "name": "INGU\u00c9RISSABLE",
+        "url": "https://open.spotify.com/album/57u2uKWSBm69T7hXwRdn5O"
+      },
+      "artists": [
+        {
+          "name": "Le Petit Mandelha",
+          "url": "https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166231,
+      "name": "INGU\u00c9RISSABLE",
+      "url": "https://open.spotify.com/track/24m2Obg80M1GjazM572TU7"
     },
     {
       "album": {
@@ -6973,6 +7079,24 @@
     },
     {
       "album": {
+        "name": "Le Dilemme",
+        "url": "https://open.spotify.com/album/33A3DWW63WjdXz30lGe9j9"
+      },
+      "artists": [
+        {
+          "name": "CJ Tell'm",
+          "url": "https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "PETIT NGA",
+      "url": "https://open.spotify.com/track/7rrvgbzE9rYi69V2pJEJqc"
+    },
+    {
+      "album": {
         "name": "Pilier",
         "url": "https://open.spotify.com/album/11xX1psH3Q0hIUV1E5o6v6"
       },
@@ -7804,7 +7928,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 171692,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/6YcPRiDag7CaH0A4x7r0dx"
@@ -9284,7 +9408,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 120411,
       "name": "YANN DIOMANDE",
       "url": "https://open.spotify.com/track/3WR288jjGiowHovOaX1qm3"
@@ -9328,6 +9452,32 @@
       "duration_ms": 136956,
       "name": "Ye Wanda",
       "url": "https://open.spotify.com/track/4uQMxL1rGFNzprVxIBF8TW"
+    },
+    {
+      "album": {
+        "name": "YESSU PAS DEDANS",
+        "url": "https://open.spotify.com/album/2LV2fBtHr7Ga5e8ozU1XY0"
+      },
+      "artists": [
+        {
+          "name": "Mister Z",
+          "url": "https://open.spotify.com/artist/307x3tnqwLKdaFiDcK5s7t"
+        },
+        {
+          "name": "Given Beatz",
+          "url": "https://open.spotify.com/artist/6yEx2AO2FJJrlcK8PYducR"
+        },
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "YESSU PAS DEDANS - YESSU PAS DEDANS",
+      "url": "https://open.spotify.com/track/0LvjfvkvcEirTySlxclmDx"
     },
     {
       "album": {

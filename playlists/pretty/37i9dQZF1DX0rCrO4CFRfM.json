@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1102300,
+  "num_followers": 1102328,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Bad Life (acoustic)",
-        "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 220239,
-      "name": "Bad Life - acoustic",
-      "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "My Heart Will Always Be the B-Side to My Tongue",
         "url": "https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Bad Life (acoustic)",
+        "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 220239,
+      "name": "Bad Life - acoustic",
+      "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
     },
     {
       "added_at": "2026-04-08 19:46:17",

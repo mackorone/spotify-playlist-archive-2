@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-296 songs - 17 hr 15 min
+297 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Thank You Bruce](https://open.spotify.com/track/58s8IcZgunOrevqKl6Cz4x) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Christmas is Cancelled](https://open.spotify.com/album/6j1izZ3gWtFntdOFo6tSd7) | 3:49 | 2022-12-02 | 2022-12-08 |
 | [Thank You Bruce](https://open.spotify.com/track/72ivBx0IV4zJ2R5dMKTeJz) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Christmas is Cancelled](https://open.spotify.com/album/39DWV95LYxnj5FbJYOZeMs) | 3:49 | 2022-12-02 | 2023-01-22 |
 | [That Christmasy Feeling](https://open.spotify.com/track/7dJuHrYrSeqCDaGgordYhl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Classic Christmas Album](https://open.spotify.com/album/0oVkzRJmRZ3cIdvKAxZc6U) | 2:13 | 2021-12-24 |  |
+| [The Bells of Christmas Eve](https://open.spotify.com/track/6YwstWaPT9u5LL4z0ZMWNw) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [The Bells of Christmas Eve](https://open.spotify.com/album/5kYTi8o4MHdZB5Ubg1FUNf) | 3:22 | 2026-11-06 |  |
 | [The Blizzard](https://open.spotify.com/track/1KKhlceVUkfqqtpAJmAtmy) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/13pEnTBkpAE5S8Y2uZextr) | 4:14 | 2021-12-24 |  |
 | [The Blizzard](https://open.spotify.com/track/4iykPMYOPGgIRu3G8oicHo) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/5unn4URn3OrLsgpdUJblN4) | 4:14 | 2021-12-24 | 2024-04-19 |
 | [The Blizzard](https://open.spotify.com/track/5cY5R8VBdQ4El198z6Juwa) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Making Money \(4AD B\-Sides and Rarities\)](https://open.spotify.com/album/7y9ILmRJUNgwYj1MMmWD9P) | 4:14 | 2021-12-24 | 2022-11-13 |

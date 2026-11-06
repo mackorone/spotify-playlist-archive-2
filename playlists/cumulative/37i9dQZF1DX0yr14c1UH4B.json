@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udfa7 cover: M\u00e9av",
+  "description": "It's all about the song \ud83c\udfa7 Cover: Dermot Henry",
   "name": "Common Thread",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 256718,
       "name": "143",
       "url": "https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207840,
       "name": "Alexandra",
       "url": "https://open.spotify.com/track/2vQarojxRqNttTMenT5DBL"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191422,
       "name": "all my favourite people are sad",
       "url": "https://open.spotify.com/track/73teKlQSNXkhFn4rBxETwI"
@@ -8657,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "Big Pain, Big Change",
+        "url": "https://open.spotify.com/album/5KxdIlN1Sk2UxKimKBfq6v"
+      },
+      "artists": [
+        {
+          "name": "Eve Christina",
+          "url": "https://open.spotify.com/artist/74oRMKKXB7a2h9LDK7zrB5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235504,
+      "name": "In Four, Out Five",
+      "url": "https://open.spotify.com/track/3c6n5hbtC1AmslW4oqctTx"
+    },
+    {
+      "album": {
         "name": "In My Gut",
         "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
       },
@@ -12857,6 +12875,24 @@
     },
     {
       "album": {
+        "name": "Pilots Licence / Cliffs Of Dooneen",
+        "url": "https://open.spotify.com/album/1qua0b2Z6gMiRPLyTBLGsu"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219981,
+      "name": "Pilots Licence",
+      "url": "https://open.spotify.com/track/7czDMYoS1wy02sqmvI46mR"
+    },
+    {
+      "album": {
         "name": "Pined For You My Whole Life",
         "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
       },
@@ -13586,6 +13622,24 @@
       "duration_ms": 255477,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx"
+    },
+    {
+      "album": {
+        "name": "Albatross",
+        "url": "https://open.spotify.com/album/12SfDOkQd1tzCneyV5MgqX"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255626,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/1dHttvTWyZpPzy6gInyZmj"
     },
     {
       "album": {
@@ -18977,6 +19031,24 @@
     },
     {
       "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/2t2kNA7bPj0AtHC8ZjizKu"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/1I0sZGVFzmh4OgrpMNHEZP"
+    },
+    {
+      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
@@ -19306,7 +19378,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194228,
       "name": "Won't Stop Believing",
       "url": "https://open.spotify.com/track/6XOiCIj6f6lybM9Id1UAWI"

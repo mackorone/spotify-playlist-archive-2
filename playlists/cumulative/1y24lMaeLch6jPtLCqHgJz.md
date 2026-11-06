@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-512 songs - 1 day 1 hr 35 min
+514 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Coming Alive \- Jeffrey Sutorius Remix](https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jone Fields](https://open.spotify.com/artist/1rvAjW0q7tpURqrgvoCtj5), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [Coming Alive \(Jeffrey Sutorius Remix\)](https://open.spotify.com/album/1vzfRQBPtwFuI7IyRmvPXX) | 3:53 | 2023-01-26 | 2023-09-09 |
 | [Control](https://open.spotify.com/track/3GWeeuS0rRQ8oUfjmqZ8fw) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [Control](https://open.spotify.com/album/2IANfZ2LtHRMVRfClATewD) | 2:36 | 2023-06-23 | 2023-07-29 |
 | [Create Yourself](https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3) | [Oskah](https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk) | [Create Yourself](https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk) | 2:54 | 2023-08-11 | 2024-09-28 |
+| [Crush](https://open.spotify.com/track/4URj3iP4o0dh4TloplaeXp) | [Detmex](https://open.spotify.com/artist/4wBopwyJ1F228LOOFb6qT8), [Dave Fantasy](https://open.spotify.com/artist/6fQqqtZexWIW4MjRgPW2ye), [DJ \- itao](https://open.spotify.com/artist/6kc9Q1LoAxJRgrAaevKieM) | [Crush](https://open.spotify.com/album/7k2ee5DvVmYPBSoFA219Ka) | 2:22 | 2026-11-05 |  |
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 | 2022-09-10 |
 | [Curura](https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Curura](https://open.spotify.com/album/5ownYiFYYBZXWGQJ4txRKf) | 2:22 | 2023-08-21 | 2023-10-14 |
 | [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-10-09 | 2025-10-30 |
@@ -356,6 +357,7 @@
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-11-21 |  |
 | [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-03-28 |  |
 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 | 2024-05-06 | 2024-06-22 |
+| [RE4SON](https://open.spotify.com/track/6553wCdVuWciRZbLd0T1r5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [4444 OF A KIND](https://open.spotify.com/artist/69aOmjpvxqUDUaZUvuw6Di), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [RE4SON](https://open.spotify.com/album/6gXoFS4tXwFCRPWHfvqCKL) | 3:37 | 2026-11-05 |  |
 | [Ready To Go](https://open.spotify.com/track/5kGsYldOHe9x5XNSDJbEL6) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Ready To Go](https://open.spotify.com/album/3cKlxftKAArUBEa6iPnhIh) | 2:35 | 2026-10-29 |  |
 | [Reality](https://open.spotify.com/track/5FDLBL5PJKSXdMsMIU7FRw) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Reality](https://open.spotify.com/album/4VVZ1mVS2f9erPqAQhVoXh) | 2:19 | 2024-11-08 | 2025-03-13 |
 | [Reality](https://open.spotify.com/track/3zelZrqVfNqt2YQU0bGrNk) | [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Reality](https://open.spotify.com/album/3waoqzcmu9L04AUQa3koe2) | 3:20 | 2024-02-15 | 2024-09-26 |

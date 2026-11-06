@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! A.B Quintanilla III y Majo Aguilar en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,717 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,720 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 34 | [Luna](https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Luna](https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2) | 2:52 |
 | 35 | [la del proceso](https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [la del proceso](https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY) | 2:35 |
 | 36 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
-| 37 | [Tu Falta De Querer](https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Falta De Querer](https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW) | 3:13 |
-| 38 | [Bar de corazones rotos](https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 3:26 |
+| 37 | [Bar de corazones rotos](https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 3:26 |
+| 38 | [Tu Falta De Querer](https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Falta De Querer](https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW) | 3:13 |
 | 39 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
 | 40 | [Chance](https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Chance](https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9) | 2:36 |
 | 41 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
-| 42 | [Caer y Levantarse](https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Caer y Levantarse](https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa) | 4:30 |
-| 43 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
+| 42 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
+| 43 | [Caer y Levantarse](https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Caer y Levantarse](https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa) | 4:30 |
 | 44 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 45 | [MISIÓN IMPOSIBLE](https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [MISIÓN IMPOSIBLE](https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO) | 2:46 |
 | 46 | [Mismo Equipo](https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Mismo Equipo](https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O) | 4:40 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 61 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 | 62 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
 | 63 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
-| 64 | [Paisajes](https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(Vol\. 1\)](https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo) | 2:52 |
-| 65 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 64 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 65 | [Paisajes](https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(Vol\. 1\)](https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo) | 2:52 |
 | 66 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 |
 | 67 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |
 | 68 | [así eres tú](https://open.spotify.com/track/0PTWNq1YbL9XTbDf2P7v6d) | [Nathan Bank](https://open.spotify.com/artist/0OIuQgMshMZn2tMQEMULYD), [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [así eres tú](https://open.spotify.com/album/1HRPSK8c5x45irt5w5fJUa) | 2:53 |

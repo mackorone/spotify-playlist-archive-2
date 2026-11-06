@@ -14634,7 +14634,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 177587,
       "name": "STARSTRUCK",
       "url": "https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M"
@@ -17084,6 +17084,28 @@
       "duration_ms": 209074,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj"
+    },
+    {
+      "album": {
+        "name": "What I Said",
+        "url": "https://open.spotify.com/album/5CPC3z23KLdQBBLQWskeZR"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "What I Said",
+      "url": "https://open.spotify.com/track/23ZQchIwFBZO9iYjipO53o"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 361005,
+  "num_followers": 361110,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Ragini Mms 2",
-        "url": "https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId"
-      },
-      "artists": [
-        {
-          "name": "Meet Bros Anjjan",
-          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
-        },
-        {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-        }
-      ],
-      "duration_ms": 213887,
-      "name": "Baby Doll",
-      "url": "https://open.spotify.com/track/5c3mUtkS8FvumKaVkcpB0H"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Namaste England (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 178604,
       "name": "Proper Patola",
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Ragini Mms 2",
+        "url": "https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros Anjjan",
+          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+        },
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        }
+      ],
+      "duration_ms": 213887,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/5c3mUtkS8FvumKaVkcpB0H"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -759,22 +759,22 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Tabaahi (From \"Toxic\")",
-        "url": "https://open.spotify.com/album/3DP9Ds4OfCIkacLBsmJYOg"
+        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
         },
         {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
         }
       ],
-      "duration_ms": 257604,
-      "name": "Tabaahi - From \"Toxic\"",
-      "url": "https://open.spotify.com/track/0bRRLtD0Tmfg8ZaP9Qf1Sq"
+      "duration_ms": 210857,
+      "name": "Zinda",
+      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -815,22 +815,22 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+        "name": "Tabaahi (From \"Toxic\")",
+        "url": "https://open.spotify.com/album/3DP9Ds4OfCIkacLBsmJYOg"
       },
       "artists": [
         {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
         },
         {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Zinda",
-      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
+      "duration_ms": 257604,
+      "name": "Tabaahi - From \"Toxic\"",
+      "url": "https://open.spotify.com/track/0bRRLtD0Tmfg8ZaP9Qf1Sq"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1815,6 +1815,38 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
+        "name": "One Name (From \"Rajini The Jailer 2\")",
+        "url": "https://open.spotify.com/album/4ozLDcJr1VbnHuNgUPa8AE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Saatvik G Rao",
+          "url": "https://open.spotify.com/artist/5Fgnpse5iLW3pcocaxZThz"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "duration_ms": 204130,
+      "name": "One Name (From \"Rajini The Jailer 2\")",
+      "url": "https://open.spotify.com/track/7oiSJDOwRvdkYb18oDo436"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
         "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
         "url": "https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC"
       },
@@ -1871,38 +1903,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "One Name (From \"Rajini The Jailer 2\")",
-        "url": "https://open.spotify.com/album/4ozLDcJr1VbnHuNgUPa8AE"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Saatvik G Rao",
-          "url": "https://open.spotify.com/artist/5Fgnpse5iLW3pcocaxZThz"
-        },
-        {
-          "name": "Raqueeb Alam",
-          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
-        },
-        {
-          "name": "J.V. Sudhanshu",
-          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
-        },
-        {
-          "name": "Lakshmi Meghana",
-          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
-        }
-      ],
-      "duration_ms": 204130,
-      "name": "One Name (From \"Rajini The Jailer 2\")",
-      "url": "https://open.spotify.com/track/7oiSJDOwRvdkYb18oDo436"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1951,26 +1951,22 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Aisi Meri Vibe (From \"Vibe\")",
-        "url": "https://open.spotify.com/album/47IGZKKNfWRNKJQHTYOu5V"
+        "name": "They Call Him KING - King Theme (From \"King\")",
+        "url": "https://open.spotify.com/album/2KZaoN2wG6Vm0hSrptLXSJ"
       },
       "artists": [
         {
-          "name": "Kanfuzion",
-          "url": "https://open.spotify.com/artist/6180gHTzNY9WFnBXPtIK7N"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Irfana",
-          "url": "https://open.spotify.com/artist/2yjjNifzaKhrRnHlOx2YH1"
-        },
-        {
-          "name": "KHILLARI",
-          "url": "https://open.spotify.com/artist/57i3gH8eXXsBYPHBre63v1"
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Aisi Meri Vibe (From \"Vibe\")",
-      "url": "https://open.spotify.com/track/0n1mgzR7ARULz0mfvJhxQQ"
+      "duration_ms": 75093,
+      "name": "They Call Him KING - King Theme (From \"King\")",
+      "url": "https://open.spotify.com/track/7KKXCjrcxlLf69F3p9theL"
     }
   ],
   "unique_name": "Bollywood Workout",

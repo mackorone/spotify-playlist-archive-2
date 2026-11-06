@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 99582,
+  "num_followers": 99585,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAACXtYw9fDu+r46bFH23S+xQ",
+  "snapshot_id": "aukkAAAAAAAXWkpFG1wGOTQPDsm4+UGT",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fed Baby\u2019s",
-        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 134675,
-      "name": "Tampering With Evidence",
-      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 185213,
       "name": "Trust Nothing (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fed Baby\u2019s",
+        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 134675,
+      "name": "Tampering With Evidence",
+      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
       },
       "artists": [
         {
@@ -956,17 +956,13 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Fall Down (feat. Kevin Gates & Rvssian)",
-      "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

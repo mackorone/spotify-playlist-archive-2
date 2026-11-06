@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 461000,
+  "num_followers": 461024,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 254862,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -627,38 +627,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Mil y Pico Vol. 2",
         "url": "https://open.spotify.com/album/0O6e2jGnwRaTV8pGit4ltL"
       },
@@ -683,6 +651,38 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "Banda Peque\u00f1os Musical",
         "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
       },
@@ -695,38 +695,6 @@
       "duration_ms": 174146,
       "name": "La nena",
       "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -747,6 +715,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Dominando y Controlando",
-        "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "El baile del gavil\u00e1n",
-      "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Quisiera regresar a t\u00ed",
         "url": "https://open.spotify.com/album/0GM50rb8wZkUxA29aqWJPg"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 249498,
       "name": "Quisiera regresar a t\u00ed",
       "url": "https://open.spotify.com/track/2o722RzlVedUkzKRjr01IN"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Dominando y Controlando",
+        "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
+      },
+      "artists": [
+        {
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "El baile del gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
         "name": "Sin Salsa No Hay Para\u00edso",
         "url": "https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 281546,
       "name": "Achilip\u00fa",
       "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "Gran Encuentro",
+        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo G",
+          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Cumbia De Los Monjes",
+      "url": "https://open.spotify.com/track/1fNN9x0yE5x2CBdt2DZj8q"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 197000,
       "name": "Me Va, Me Va (En Vivo)",
       "url": "https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "Gran Encuentro",
-        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo G",
-          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Cumbia De Los Monjes",
-      "url": "https://open.spotify.com/track/1fNN9x0yE5x2CBdt2DZj8q"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "Mas Control",
+        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "Desde Estacion Corral Hasta Los Hornos Sonora",
         "url": "https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 170500,
       "name": "Sera El Amor",
       "url": "https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "Mas Control",
-        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
     },
     {
       "added_at": "2026-10-02 06:00:16",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2026-10-02 06:00:16",
       "album": {
+        "name": "20vo Aniversario",
+        "url": "https://open.spotify.com/album/79bgGXUJ95LrJ7uL4o8unR"
+      },
+      "artists": [
+        {
+          "name": "Tropical Del Bravo",
+          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "Peque\u00f1a y Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/3IbfRWQ9IFrK2Lwd0lmxaE"
+    },
+    {
+      "added_at": "2026-10-02 06:00:16",
+      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 202029,
       "name": "Me Voy al Amanecer",
       "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
-    },
-    {
-      "added_at": "2026-10-02 06:00:16",
-      "album": {
-        "name": "20vo Aniversario",
-        "url": "https://open.spotify.com/album/79bgGXUJ95LrJ7uL4o8unR"
-      },
-      "artists": [
-        {
-          "name": "Tropical Del Bravo",
-          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "Peque\u00f1a y Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/3IbfRWQ9IFrK2Lwd0lmxaE"
     },
     {
       "added_at": "2026-10-02 06:00:16",

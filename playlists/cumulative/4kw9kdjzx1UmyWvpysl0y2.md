@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,332 songs - 3 day 1 hr 48 min
+1,333 songs - 3 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1143,6 +1143,7 @@
 | [TELL ME](https://open.spotify.com/track/18ZCeMWBE8cZjrybSqIo69) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [WIMBO](https://open.spotify.com/artist/4UvTMZplahiJPeTH60gEOq) | [TELL ME](https://open.spotify.com/album/1i227PMtdLpeA03UfEmvc8) | 3:23 | 2025-11-28 | 2026-03-10 |
 | [Tell Me Why](https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Tell Me Why](https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz) | 3:21 | 2023-08-08 | 2023-12-14 |
 | [Tell Me Why You're Here](https://open.spotify.com/track/4afjY6JvNTwb4qBWQjFI2n) | [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Tell Me Why You're Here](https://open.spotify.com/album/1UixKcpQcJrPAC70crSRXI) | 2:41 | 2025-11-27 | 2026-03-10 |
+| [Ten Thousand Times](https://open.spotify.com/track/4uMysPrBfE2pDVwAoSV4gn) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Ten Thousand Times](https://open.spotify.com/album/4HdG0KGivcReGFndMFFdA8) | 3:14 | 2026-11-05 |  |
 | [Tender](https://open.spotify.com/track/1Wb6hywune5SXJTczRgSk7) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV) | [Inner Voices](https://open.spotify.com/album/3YpG3KwKKLRjyJezGvSN3Z) | 3:14 | 2023-04-24 | 2023-07-22 |
 | [Tension](https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Tension](https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU) | 3:41 | 2023-04-10 | 2023-07-05 |
 | [Terminal](https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Terminal](https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma) | 3:10 | 2024-09-09 | 2024-12-03 |

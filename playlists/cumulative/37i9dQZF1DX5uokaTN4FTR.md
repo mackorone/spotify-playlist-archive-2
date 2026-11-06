@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! KETTAMA, Prospa
+> The UK's biggest dance playlist! Chris Lorenzo
 
 798 songs - 1 day 17 hr 28 min
 

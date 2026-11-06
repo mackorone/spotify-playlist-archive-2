@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Theodora",
+  "description": "Photo : Soolking x Alonzo x TK",
   "name": "Best Life",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180026,
       "name": "18 Carats",
       "url": "https://open.spotify.com/track/2ovfSyXEj6RgIx6Ks5eIWr"
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Avenue Montaigne",
+        "url": "https://open.spotify.com/album/2N5ztQFk5uzsOaRy2gvktv"
+      },
+      "artists": [
+        {
+          "name": "Nakry",
+          "url": "https://open.spotify.com/artist/1uS3NoifQsUXbWBOF3xIPg"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141967,
+      "name": "Avenue Montaigne",
+      "url": "https://open.spotify.com/track/7dMy8dr2igFPcth14CsTqs"
+    },
+    {
+      "album": {
         "name": "Avion de chasse",
         "url": "https://open.spotify.com/album/6oyWoLRcGvrLpjo1BFqAT9"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142278,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3HarvlUiTyATgnZit9xgvN"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145536,
       "name": "BELLAGIO",
       "url": "https://open.spotify.com/track/2SvKMsz2OOhQZ6mFhFmh5Y"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 151400,
       "name": "Cantona",
       "url": "https://open.spotify.com/track/4y0gmOKAJQv34IWhLNuF3w"
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166000,
       "name": "CHOUCHOU",
       "url": "https://open.spotify.com/track/3uXidY01yR5pKdk7xTGSn4"
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 146718,
       "name": "D\u00c9SACCORD",
       "url": "https://open.spotify.com/track/2RNJPwQ5XEqvcylsulXQGz"
@@ -4350,7 +4368,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186871,
       "name": "EN PILOTANT",
       "url": "https://open.spotify.com/track/158XZNsakcXfI5B5iQ0zzS"
@@ -4951,6 +4969,28 @@
     },
     {
       "album": {
+        "name": "Gigi Lolo",
+        "url": "https://open.spotify.com/album/5GSaKxuZqJnP3cmCbq1yNm"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Gigi Lolo",
+      "url": "https://open.spotify.com/track/5zDNdOzH4Jc0qTmVW4H4ZR"
+    },
+    {
+      "album": {
         "name": "Givenchy",
         "url": "https://open.spotify.com/album/5Wsk8NJw80xYb5pKR90zz2"
       },
@@ -5060,7 +5100,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164571,
       "name": "Griselda",
       "url": "https://open.spotify.com/track/2py973X1DW6o68WwUTEly7"
@@ -5532,6 +5572,24 @@
       "duration_ms": 173036,
       "name": "Je remplace mes exs",
       "url": "https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI"
+    },
+    {
+      "album": {
+        "name": "Je reste seul",
+        "url": "https://open.spotify.com/album/1P4fMDWMaJrXGUPeoG3exx"
+      },
+      "artists": [
+        {
+          "name": "Nada",
+          "url": "https://open.spotify.com/artist/3ITEeeUF199eEtg4xg3mzB"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178050,
+      "name": "Je reste seul",
+      "url": "https://open.spotify.com/track/3oCciZWVkoP9y5xkzyeoi9"
     },
     {
       "album": {
@@ -6246,7 +6304,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 163268,
       "name": "Laisse moi",
       "url": "https://open.spotify.com/track/76zKf5U7hmZjwTU2RewEw3"
@@ -6370,7 +6428,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160110,
       "name": "Le G",
       "url": "https://open.spotify.com/track/61Rdre8hZFyLvcYQu3a1Dw"
@@ -6538,7 +6596,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 199028,
       "name": "Longue vie \u00e0 nous",
       "url": "https://open.spotify.com/track/1IsosHLLJlLuCLsrIIhqfc"
@@ -7036,10 +7094,36 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 172647,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/5HH2jUG1eNWuMbTxgomFAO"
+    },
+    {
+      "album": {
+        "name": "DRAKKAR",
+        "url": "https://open.spotify.com/album/39fAEz67Yp9izokfE8Jo5N"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144843,
+      "name": "MAMACITA (feat. Soolking & TK)",
+      "url": "https://open.spotify.com/track/3P5OHOfqUZ2xjeUbyDnl4X"
     },
     {
       "album": {
@@ -8287,6 +8371,24 @@
     },
     {
       "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/0NoNQnzOM4izhmB0qMtYvy"
+      },
+      "artists": [
+        {
+          "name": "BNVM",
+          "url": "https://open.spotify.com/artist/2ax7EITTn2BrwIdLKW9ll3"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1HwNzXn0471wRU6697XNqN"
+    },
+    {
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
@@ -8996,7 +9098,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200905,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/7h1tB4DIanO22TlRxbnTcc"
@@ -12434,7 +12536,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166249,
       "name": "Triple S",
       "url": "https://open.spotify.com/track/42UJesDEHtemfRPwy23nKj"

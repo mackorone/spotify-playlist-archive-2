@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Mikhal\u00e9 Jones",
+  "description": "The best in South African and international R&B. Cover: KLA",
   "name": "R&Beats",
   "tracks": [
     {
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 185368,
       "name": "Boy Bye",
       "url": "https://open.spotify.com/track/1qHfALx9TOCooQQ8uzILzc"
@@ -3769,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "Here I Go Again",
+        "url": "https://open.spotify.com/album/1plTKl8NLgovl2mrFAlrCO"
+      },
+      "artists": [
+        {
+          "name": "KLA",
+          "url": "https://open.spotify.com/artist/1LUV99kWKMrRaP1bViUquo"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184158,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1YJEJBI6bt4v29CeN9f9Pd"
+    },
+    {
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/3AYsgCOHt0Gv7nVYQBH2zD"
       },
@@ -6016,6 +6034,24 @@
       "duration_ms": 108832,
       "name": "Intentions - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn"
+    },
+    {
+      "album": {
+        "name": "Only For A While",
+        "url": "https://open.spotify.com/album/5d649NfmfBEFL1flx5pPEs"
+      },
+      "artists": [
+        {
+          "name": "Altair Sa\u00efd",
+          "url": "https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/46jLzeCoS4lgVRQjdrRCI8"
     },
     {
       "album": {
@@ -11822,7 +11858,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 146315,
       "name": "sweet talk",
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"

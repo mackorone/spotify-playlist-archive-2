@@ -1,6 +1,6 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 296327,
+  "num_followers": 296314,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        }
-      ],
-      "duration_ms": 120513,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Do I (Remix)",
         "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 138857,
       "name": "Jersey King",
       "url": "https://open.spotify.com/track/6kzk0q8DGUFKEkn9BHf13P"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "duration_ms": 120513,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy"
     },
     {
       "added_at": "2025-11-14 00:00:23",

@@ -2,9 +2,9 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> ❤️ No one dies from love ❤️
+> be my own housewife!!!
 
-1,753 songs - 3 day 20 hr 34 min
+1,757 songs - 3 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [All Eyes On Me \(Song Only\)](https://open.spotify.com/track/47emsK4Cj4dMqctYq18U03) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [All Eyes On Me \(Song Only\)](https://open.spotify.com/album/18Y1q1NM3YQT5pEjbHiy5T) | 3:32 | 2022-05-19 | 2022-10-07 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2022-05-19 | 2025-01-08 |
 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 | 2025-03-20 | 2026-09-11 |
-| [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2022-11-01 | 2022-12-25 |
+| [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2022-11-01 |  |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-08-29 | 2025-01-08 |
 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 | 2023-10-27 | 2025-01-08 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-23 | 2026-01-15 |
@@ -443,6 +443,7 @@
 | [Eat Your Salad](https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/6W0RNAULq6QYSf6cjPl7U2) | 3:01 | 2022-05-19 | 2025-01-08 |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-09-20 | 2025-01-08 |
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2022-05-19 | 2022-10-29 |
+| [Ego](https://open.spotify.com/track/14cUJSFOYxnCVWG9HTnsoD) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Skön](https://open.spotify.com/album/1T4ojvcpKVBjhnmFCMMf8F) | 2:32 | 2026-11-05 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/0Dza4b9cnbssw47fu5rfVX) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Symphony Sessions](https://open.spotify.com/album/5EiQd7YNy6rt0qyaOg0iPt) | 4:40 | 2022-05-19 | 2022-10-29 |
 | [Eleanor Rigby](https://open.spotify.com/track/62P3CMQAknHW4iftsBD41Y) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Eleanor Rigby](https://open.spotify.com/album/1oQNR5BeygfHcPOEKjkPU6) | 4:40 | 2022-05-19 | 2022-08-11 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-05-24 | 2025-01-08 |
@@ -758,6 +759,7 @@
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-06-24 | 2026-09-11 |
 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-03-12 | 2026-09-11 |
 | [ilu](https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [ilu](https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0) | 2:49 | 2022-06-09 | 2025-01-08 |
+| [IMPULSIVE](https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [IMPULSIVE](https://open.spotify.com/album/1kO4Cbjb4fLeHsUDq5PbyC) | 2:36 | 2026-11-05 |  |
 | [In Cold Light \- One Day Version](https://open.spotify.com/track/75cMBXM2yJBmT6jYauZt4q) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [One Day \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/7iMdkPMckam6GaiORAEzNl) | 5:40 | 2024-02-23 | 2024-03-08 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-02-06 | 2025-01-08 |
 | [in heat.](https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt) | [Hentai Xander](https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW) | [in heat.](https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7) | 1:56 | 2022-05-19 | 2022-10-29 |
@@ -982,6 +984,7 @@
 | [Maybe My Soulmate Died](https://open.spotify.com/track/5NBCTiyU4o57c3ClTFI3Wk) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/7AHXqAmIXflf6V96wJ33Q9) | 1:54 | 2023-03-23 | 2023-08-12 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi) | 1:54 | 2022-11-24 | 2023-04-06 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-06-15 | 2025-01-08 |
+| [Mayday](https://open.spotify.com/track/7vIfj1zbmxoJpfByPsLAfa) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Mayday](https://open.spotify.com/album/1NyyxjsHYiCIheYOjjsFMQ) | 3:02 | 2026-11-05 |  |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-19 | 2025-01-08 |
 | [Me and Your Mama](https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 6:19 | 2022-10-06 | 2024-04-19 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-19 | 2025-01-08 |
@@ -1636,6 +1639,7 @@
 | [Vanilj](https://open.spotify.com/track/2CBuonjhTSzjzDBKNhjxlF) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Vanilj](https://open.spotify.com/album/5QuG1YYAkTFUF7DETHLleW) | 2:19 | 2024-10-04 | 2026-01-15 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-06-16 | 2025-01-08 |
 | [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 | 2026-09-10 |  |
+| [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 | 2026-11-05 |  |
 | [Vem är jag utan dig](https://open.spotify.com/track/7AsJ01kktOQwx6Ud1281TC) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:17 | 2024-09-19 | 2026-01-15 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2023-01-05 | 2025-01-08 |
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-06 | 2024-04-19 |

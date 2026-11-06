@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: BOL4) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: O.WHEN) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -150,6 +150,28 @@
       "duration_ms": 303026,
       "name": "2025 Monthly Yoon Repair May - A Year",
       "url": "https://open.spotify.com/track/5RdBOgpkT7aZcXJWTTQfYx"
+    },
+    {
+      "album": {
+        "name": "2026 Monthly Yoon Repair October - Tear Drops (with Gwyn Dorado)",
+        "url": "https://open.spotify.com/album/77168fOD0uqxPAup8dZxpd"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        },
+        {
+          "name": "Gwyn Dorado",
+          "url": "https://open.spotify.com/artist/7pZ42lLRSlDnoPCfINXCn9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "2026 Monthly Yoon Repair October - Tear Drops (with Gwyn Dorado)",
+      "url": "https://open.spotify.com/track/1IfgjnlzmJi547MEpCmuQF"
     },
     {
       "album": {
@@ -4427,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "Pile of Paper",
+        "url": "https://open.spotify.com/album/0pMYW0itM0jyAPGFtKOvD5"
+      },
+      "artists": [
+        {
+          "name": "JI SUYEON",
+          "url": "https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Chance & Fate",
+      "url": "https://open.spotify.com/track/48iDGNDxoOFCSDSpmpuNAK"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/01SstNr2NESSMRU11yvCpQ"
       },
@@ -5352,6 +5392,24 @@
       "duration_ms": 187733,
       "name": "Dear my X",
       "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "album": {
+        "name": "Dear. My Fool",
+        "url": "https://open.spotify.com/album/5W5Xx5VoxrRpnsCpZ9HIN4"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Dear. My Fool",
+      "url": "https://open.spotify.com/track/3K3qkJSnicuNOLOBkC055j"
     },
     {
       "album": {
@@ -12606,6 +12664,24 @@
       "duration_ms": 223400,
       "name": "I'm Not Okay",
       "url": "https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Smiling",
+        "url": "https://open.spotify.com/album/1332sfyw9EFIKQCwnOBZI6"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249341,
+      "name": "I'm Smiling",
+      "url": "https://open.spotify.com/track/33CdhpJJkNDZOBmOkmTShB"
     },
     {
       "album": {
@@ -31318,6 +31394,24 @@
       "duration_ms": 244386,
       "name": "You will shine",
       "url": "https://open.spotify.com/track/2QnzKVxbZSiunJYCmHvt5G"
+    },
+    {
+      "album": {
+        "name": "You Will Shine (begin again)",
+        "url": "https://open.spotify.com/album/1b19syphbwg8FhdKnvsfSW"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Seo",
+          "url": "https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248233,
+      "name": "You Will Shine (begin again)",
+      "url": "https://open.spotify.com/track/1pY226XB197R5qWjrl4oYQ"
     },
     {
       "album": {

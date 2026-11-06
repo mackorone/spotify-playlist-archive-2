@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring OK MICKEY",
-  "num_followers": 228037,
+  "num_followers": 228028,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZLHEjPwA+7ycx+ofCcMVBSp0DV",
+  "snapshot_id": "AAAAALkNYt3VhBOBa4foJmwFr0ed/5+c",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:26",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
     },
     {
+      "added_at": "2026-11-06 05:01:53",
+      "album": {
+        "name": "bleach (with bonus track)",
+        "url": "https://open.spotify.com/album/13smoUJ9V9xxNQIDgbMbsL"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 173698,
+      "name": "big fat crush - bonus track",
+      "url": "https://open.spotify.com/track/2yqg5GHkV8KDhx3QUwAxCg"
+    },
+    {
       "added_at": "2026-10-30 04:00:38",
       "album": {
         "name": "could this be forever?",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/6pJzH5GrCZv7iCw3R2XDTp"
     },
     {
+      "added_at": "2026-11-06 05:01:53",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/68BTIBgW5y8rWV6K9gPjH9"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/51RgPzTTfxdtAZvmqPxUSx"
+    },
+    {
       "added_at": "2026-10-23 04:01:26",
       "album": {
         "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
@@ -55,6 +87,38 @@
       "duration_ms": 193538,
       "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
       "url": "https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw"
+    },
+    {
+      "added_at": "2026-11-06 05:01:53",
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/6DfbnghYgqoOJ4mx0Ib6M1"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 134146,
+      "name": "Worth The Wait",
+      "url": "https://open.spotify.com/track/1g1lOyn9cocWqokdNBFEMM"
+    },
+    {
+      "added_at": "2026-11-06 05:01:53",
+      "album": {
+        "name": "IDKW",
+        "url": "https://open.spotify.com/album/0endo3MeMmhqz8GU7AkoMd"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 221079,
+      "name": "IDKW",
+      "url": "https://open.spotify.com/track/6NxoYOYCpurmaGsA8VFvmW"
     },
     {
       "added_at": "2026-10-30 04:00:38",
@@ -359,22 +423,6 @@
       "duration_ms": 208555,
       "name": "Fuck Without Feelings",
       "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
-    },
-    {
-      "added_at": "2026-10-09 04:01:11",
-      "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/0CNblkgX2Yk2XMJbgsinzd"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/7uVKsaboyMOXI8SUnVXE4D"
     },
     {
       "added_at": "2026-09-18 04:17:46",
@@ -767,54 +815,6 @@
       "duration_ms": 177924,
       "name": "hit and run",
       "url": "https://open.spotify.com/track/3xlzKZ81ldMzbVIXIrnR4H"
-    },
-    {
-      "added_at": "2026-07-24 04:02:41",
-      "album": {
-        "name": "See You in the Summer",
-        "url": "https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Stembridge",
-          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
-        }
-      ],
-      "duration_ms": 185301,
-      "name": "See You in the Summer",
-      "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
-    },
-    {
-      "added_at": "2026-08-07 04:24:23",
-      "album": {
-        "name": "That's a Year",
-        "url": "https://open.spotify.com/album/6U7cekaGWJ3dSMaWaXaNfA"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 159171,
-      "name": "That's a Year",
-      "url": "https://open.spotify.com/track/0kZM3WMqxlJiIU43CkASer"
-    },
-    {
-      "added_at": "2026-07-24 04:02:41",
-      "album": {
-        "name": "SUN FROM BOTH SIDES",
-        "url": "https://open.spotify.com/album/4FaVqDP2br0TqNX6Kb4tQQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Apolline",
-          "url": "https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "SUN FROM BOTH SIDES",
-      "url": "https://open.spotify.com/track/6NYNsVgVEFLlV1A3fHyEiD"
     },
     {
       "added_at": "2026-08-07 04:24:23",

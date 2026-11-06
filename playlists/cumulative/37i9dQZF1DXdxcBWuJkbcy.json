@@ -6938,7 +6938,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 263767,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
@@ -15523,6 +15523,28 @@
     },
     {
       "album": {
+        "name": "OUTTA SPACE",
+        "url": "https://open.spotify.com/album/1eDmNvmGaHaTPuq7fG59SI"
+      },
+      "artists": [
+        {
+          "name": "weirdtechnogirlfriend",
+          "url": "https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC"
+        },
+        {
+          "name": "PAUL LE B\u00c1Y",
+          "url": "https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169783,
+      "name": "OUTTA SPACE",
+      "url": "https://open.spotify.com/track/4NSS3l3v7GuF137mbFf4x3"
+    },
+    {
+      "album": {
         "name": "Overdose Of Bass",
         "url": "https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN"
       },
@@ -16770,6 +16792,36 @@
       "duration_ms": 203668,
       "name": "Release The Pressure",
       "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
+    },
+    {
+      "album": {
+        "name": "Reload (swedm\u00ae Remix)",
+        "url": "https://open.spotify.com/album/3S4SOGuORtJXHy45p1Q951"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354375,
+      "name": "Reload - swedm\u00ae Remix",
+      "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
     },
     {
       "album": {
@@ -22186,7 +22238,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184000,
       "name": "Voicemail (Ti\u00ebsto Remix)",
       "url": "https://open.spotify.com/track/6vbQFxIETahvyrcI6N00Cc"

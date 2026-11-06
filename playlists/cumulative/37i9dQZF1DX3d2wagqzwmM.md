@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: AFROJACK
 
-757 songs - 1 day 14 hr 6 min
+758 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-12-27 | 2023-01-03 |
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-04 | 2024-04-19 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-20 | 2024-01-05 |
+| [Midnight Dealer](https://open.spotify.com/track/2U9qyKZQAMEytsYjtRaypd) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Midnight Dealer](https://open.spotify.com/album/6rYkfc6zaOoUmLIPFP7X6o) | 2:53 | 2026-11-05 |  |
 | [MIND CONTROL](https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [MIND CONTROL](https://open.spotify.com/album/3BiMWVo79A0eBXjU3ftPrT) | 4:08 | 2022-06-30 | 2023-01-03 |
 | [Mind Dimension \- Tiësto Remix](https://open.spotify.com/track/7aEivHwZvqNHoqsXoNKcWL) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Mind Dimension \(Tiësto Remix\)](https://open.spotify.com/album/3CX2LjhZKJ0ERvdKW0t5YV) | 3:40 | 2022-12-27 | 2023-01-03 |
 | [Mind Illuminate](https://open.spotify.com/track/5p7hNVYvzfrdb4wOiWtcNo) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Mind Illuminate](https://open.spotify.com/album/1hC1LUMQUyiBYxCUbVDkt3) | 2:51 | 2026-03-07 | 2026-06-09 |
@@ -697,7 +698,7 @@
 | [Tokyo Drift](https://open.spotify.com/track/4pjRWk1NWcAkPndod5Ai0x) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG) | [Tokyo Drift](https://open.spotify.com/album/3iYooV7ZPKlf0Nh28G4WCv) | 2:43 | 2026-11-02 |  |
 | [Told You So \- Agents Of Time Remix](https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Told You So \(Remixes Vol\. 2\)](https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY) | 3:41 | 2025-01-10 | 2026-04-03 |
 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 | 2022-04-14 | 2022-09-02 |
-| [Tonight The Devil Is a DJ](https://open.spotify.com/track/0t8Qtcn4EcCVy4SG0f8Fba) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Tonight The Devil Is a DJ](https://open.spotify.com/album/6uxTGgpBzvv4upJUM1gU1u) | 2:51 | 2025-12-11 |  |
+| [Tonight The Devil Is a DJ](https://open.spotify.com/track/0t8Qtcn4EcCVy4SG0f8Fba) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Tonight The Devil Is a DJ](https://open.spotify.com/album/6uxTGgpBzvv4upJUM1gU1u) | 2:51 | 2025-12-11 | 2026-11-06 |
 | [Toxic](https://open.spotify.com/track/4ANHKkQXnqEuyEobhBdlfi) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Toxic](https://open.spotify.com/album/11p6rT98tDVDchI7h9XbYU) | 2:58 | 2022-10-27 | 2023-04-11 |
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-04-27 | 2024-09-20 |
 | [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 | 2024-06-13 | 2024-11-15 |

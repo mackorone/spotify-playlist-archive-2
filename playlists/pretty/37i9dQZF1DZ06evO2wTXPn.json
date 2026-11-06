@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31981,
+  "num_followers": 31983,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADTJWRCcqW0k4hOgHEcvICy",
+  "snapshot_id": "aukkAAAAAAAlrwxZAXDLeXpJz1srEwHS",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Antes De Nacer",
-        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+        "name": "Despierto",
+        "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
       },
       "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 166104,
-      "name": "Desde Antes De Nacer",
-      "url": "https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf"
+      "duration_ms": 189013,
+      "name": "Encima De Mil",
+      "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
     },
     {
       "added_at": null,
@@ -319,26 +323,6 @@
       "duration_ms": 207986,
       "name": "Los D\u00edas Que Vendr\u00e1n",
       "url": "https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Despierto",
-        "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "Encima De Mil",
-      "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
     },
     {
       "added_at": null,
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 198576,
-      "name": "Espectador",
-      "url": "https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv"
+      "duration_ms": 166104,
+      "name": "Desde Antes De Nacer",
+      "url": "https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf"
     },
     {
       "added_at": null,
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 184764,
-      "name": "Cuando Te Duele El Alma",
-      "url": "https://open.spotify.com/track/4dPizCyaoZ4W72WwLhCPF5"
+      "duration_ms": 198576,
+      "name": "Espectador",
+      "url": "https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv"
     },
     {
       "added_at": null,
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 127933,
-      "name": "Si Te Volviera A Conocer",
-      "url": "https://open.spotify.com/track/5ihj6KU1TyKH6ie6izhLEi"
+      "duration_ms": 184764,
+      "name": "Cuando Te Duele El Alma",
+      "url": "https://open.spotify.com/track/4dPizCyaoZ4W72WwLhCPF5"
     },
     {
       "added_at": null,
@@ -631,6 +615,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luz Prendida",
+        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "Luz Prendida",
+      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Si Te Volviera A Conocer",
+      "url": "https://open.spotify.com/track/5ihj6KU1TyKH6ie6izhLEi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "unas ac\u00fasticas",
         "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
       },
@@ -651,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz Prendida",
-        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 173386,
-      "name": "Luz Prendida",
-      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
+      "duration_ms": 156480,
+      "name": "Lolis",
+      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 175320,
       "name": "Un Pedacito de Ti",
       "url": "https://open.spotify.com/track/65rNTveNX91Df29bbplB09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Lolis",
-      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALOS Y BUENOS RECUERDOS",
-        "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 215872,
-      "name": "la vida viene y va",
-      "url": "https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -799,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "MALOS Y BUENOS RECUERDOS",
+        "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 215872,
+      "name": "la vida viene y va",
+      "url": "https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Dealer",
         "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 184986,
-      "name": "A Un Minuto",
-      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Medio De Este Ruido (Deluxe)",
         "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
@@ -851,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Lo Est\u00e1s Logrando",
-        "url": "https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
       },
       "artists": [
         {
@@ -860,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 183706,
-      "name": "No Lo Est\u00e1s Logrando",
-      "url": "https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn"
+      "duration_ms": 184986,
+      "name": "A Un Minuto",
+      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
     },
     {
       "added_at": null,
@@ -887,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+        "name": "No Lo Est\u00e1s Logrando",
+        "url": "https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U"
       },
       "artists": [
         {
@@ -896,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 148666,
-      "name": "Volver A Verte",
-      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
+      "duration_ms": 183706,
+      "name": "No Lo Est\u00e1s Logrando",
+      "url": "https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
       "duration_ms": 187693,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 148666,
+      "name": "Volver A Verte",
+      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
     }
   ],
   "unique_name": "This Is KURT",

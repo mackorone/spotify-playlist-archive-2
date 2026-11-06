@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 112 | [Head To Head](https://open.spotify.com/track/6RVYfaLq4SmoNONX5irBw1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Ivory](https://open.spotify.com/album/0hdZJH49Zo6sQzdhN0Y5dQ) | 2:58 |
 | 113 | [I'll Lock Up](https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:11 |
 | 114 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 |
-| 115 | [222](https://open.spotify.com/track/2n8sQRvylAvSM4bjE6yyw0) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:05 |
-| 116 | [When I Was](https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:55 |
+| 115 | [When I Was](https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:55 |
+| 116 | [222](https://open.spotify.com/track/2n8sQRvylAvSM4bjE6yyw0) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:05 |
 | 117 | [Be My Yoko](https://open.spotify.com/track/2VxJ6xBdt83j9vSbMaZiKl) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Grizfolk](https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R) | 3:10 |
 | 118 | [Grandma's Place](https://open.spotify.com/track/5srYPPlHusmKgK2Akwr4UW) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:31 |
 | 119 | [Spiritual](https://open.spotify.com/track/1XYCF26x4HITjEyxMxZ01U) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Prelude](https://open.spotify.com/album/7rLrvPpkdkDXtocOwOXbVS) | 3:26 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 189 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 190 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `AcgzlAAAAABjJTuNOWugL9gan0Pr28ZT`
+Snapshot ID: `Acg5NAAAAAAp6omUubhd2Xtn63VXm7RF`

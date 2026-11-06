@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-176 songs - 10 hr 30 min
+177 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Vacation](https://open.spotify.com/track/326ICMkp2gWSYcJdba9s7d) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Vacation](https://open.spotify.com/album/1CPu7lwOIp84AQyBtQvbpg) | 3:37 | 2024-02-27 |  |
 | [Wasted Youth](https://open.spotify.com/track/4NPmLPLdVys0TtrsUUVGRo) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic \(Play Hard Edition\)](https://open.spotify.com/album/2wxjqSACJVvxCe09Id9JjC) | 4:09 | 2025-07-06 |  |
 | [Wasted Youth](https://open.spotify.com/track/6u2GjEYlRJ1INFD11twSFh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 4:09 | 2024-02-27 | 2025-07-07 |
-| [When I'm All Alone](https://open.spotify.com/track/4WssjrZrY6n5YGNsXIczv5) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 2:44 | 2024-02-27 |  |
+| [When I'm All Alone](https://open.spotify.com/track/4WssjrZrY6n5YGNsXIczv5) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 2:44 | 2024-02-27 | 2026-11-06 |
+| [When I'm All Alone](https://open.spotify.com/track/59nlD0j9eZCAxGZVlQ7UJ8) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/6fJyUNSVHYr4UmBi0oRBX2) | 2:44 | 2026-11-05 |  |
 | [When It All Comes Down](https://open.spotify.com/track/10ex5Q9A8WrtaeJ0fjMQHd) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:05 | 2024-02-27 |  |
 | [When I’m Alone](https://open.spotify.com/track/5lNMIRdkJZn2Wzvel1SMH2) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:23 | 2024-02-27 |  |
 | [Wide Awake](https://open.spotify.com/track/1rUQmXEy41tXwHIKFECNTa) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 3:40 | 2024-02-27 |  |

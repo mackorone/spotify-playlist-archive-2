@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua ",
-  "num_followers": 879043,
+  "num_followers": 879089,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "No Quiere Salir",
+        "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "No Quiere Salir",
+      "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "No Quiere Salir",
-        "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Asmed",
-          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "No Quiere Salir",
-      "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Ll\u00e9vala a La Luna",
-        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 164214,
-      "name": "Ll\u00e9vala a La Luna",
-      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Dr. Doctor",
         "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 158769,
       "name": "Dr. Doctor",
       "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Ll\u00e9vala a La Luna",
+        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 164214,
+      "name": "Ll\u00e9vala a La Luna",
+      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Hombre De Bien",
-        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+        "name": "Baj\u00f3n Emocional",
+        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Hombre De Bien",
-      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
+      "duration_ms": 197000,
+      "name": "Baj\u00f3n Emocional",
+      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Baj\u00f3n Emocional",
-        "url": "https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm"
+        "name": "Hombre De Bien",
+        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Baj\u00f3n Emocional",
-      "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
+      "duration_ms": 181714,
+      "name": "Hombre De Bien",
+      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
       "added_at": "2026-10-23 06:00:45",

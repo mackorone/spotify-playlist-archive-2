@@ -26,7 +26,7 @@
 | [Run the World \(Girls\)](https://open.spotify.com/track/7EdEUnekGCkChJzJyGp6TB) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/7cvVgT5RXbcUo9Qw4nq31D) | 3:56 | 2013-06-28 |  |
 | [Sexy And I Know It \- Mord Fustang](https://open.spotify.com/track/6lDFCh4v5nQrYiDpQ8WJ54) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Mord Fustang](https://open.spotify.com/artist/0eGG8QTo4Yifq5FrDF11WG) | [Sexy And I Know It \(Remixes\)](https://open.spotify.com/album/7BfLW29u9eA2c4sAd5uE10) | 5:19 | 2013-06-28 |  |
 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 | 2013-06-28 |  |
-| [White Christmas](https://open.spotify.com/track/5PybR3wmpl2bJaOZED0caY) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Polar Express \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4iEg2hitHOT0fRpsReCqAH) | 3:04 | 2013-06-28 |  |
+| [White Christmas](https://open.spotify.com/track/5PybR3wmpl2bJaOZED0caY) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Polar Express \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4iEg2hitHOT0fRpsReCqAH) | 3:03 | 2013-06-28 |  |
 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 | 2013-06-28 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

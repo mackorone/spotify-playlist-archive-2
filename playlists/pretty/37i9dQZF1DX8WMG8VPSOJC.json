@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1739671,
+  "num_followers": 1739590,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 199438,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0DM63CJEklNPKu6kHGyuEl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "Who Needs Pictures",
         "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 199438,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0DM63CJEklNPKu6kHGyuEl"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "All On Me",
-      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "American Saturday Night",
         "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 321616,
       "name": "Then",
       "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "All On Me",
+      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Hell Of A View",
-        "url": "https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "For You 2",
         "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
       },
@@ -1015,18 +999,34 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Trisha Yearwood",
-        "url": "https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI"
+        "name": "Hell Of A View",
+        "url": "https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW"
       },
       "artists": [
         {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 248200,
-      "name": "She's In Love With The Boy - Single Version",
-      "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
+      "duration_ms": 175280,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "Worth the Wait",
+        "url": "https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 189875,
+      "name": "Worth the Wait",
+      "url": "https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Worth the Wait",
-        "url": "https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC"
+        "name": "Trisha Yearwood",
+        "url": "https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI"
       },
       "artists": [
         {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
         }
       ],
-      "duration_ms": 189875,
-      "name": "Worth the Wait",
-      "url": "https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs"
+      "duration_ms": 248200,
+      "name": "She's In Love With The Boy - Single Version",
+      "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "The Otherside",
-        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Till There's Nothing Left",
-      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 183542,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Till There's Nothing Left",
+      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
     },
     {
       "added_at": "2026-10-23 04:01:17",

@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 142662,
+  "num_followers": 142639,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 259146,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 307400,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Holiday in Lily Dale",
-        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
-      },
-      "artists": [
-        {
-          "name": "Get Well Soon",
-          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
-        }
-      ],
-      "duration_ms": 293901,
-      "name": "Holiday in Lily Dale",
-      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Shake, Shook, Shaken",
-        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
-      },
-      "artists": [
-        {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
-        }
-      ],
-      "duration_ms": 173300,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Peanuts EP",
         "url": "https://open.spotify.com/album/4AWfbUBoDN3p3WCjc0z1Sw"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
+        "name": "Shake, Shook, Shaken",
+        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
+      },
+      "artists": [
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "duration_ms": 173300,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
         "name": "Screen Violence: Director's Cut",
         "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 269640,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Attack Of The Ghost Riders",
+        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
+      },
+      "artists": [
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1291,22 +1307,6 @@
       "duration_ms": 152000,
       "name": "Knock Knock! (It's Halloween)",
       "url": "https://open.spotify.com/track/37K6U3mGV0JsJFcaIRGYpp"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
-        "name": "Attack Of The Ghost Riders",
-        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
-      },
-      "artists": [
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
     },
     {
       "added_at": "2026-11-01 20:21:50",

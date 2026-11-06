@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "The Restoration: iNkosi Yinhle Futhi Ilungile",
+        "url": "https://open.spotify.com/album/3wcglw5PxVmpNwDRLBbiV4"
+      },
+      "artists": [
+        {
+          "name": "Sneziey",
+          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321538,
+      "name": "iNkosi Yinhle Futhi Ilungile",
+      "url": "https://open.spotify.com/track/6oDmWhaSLEe3kdgdwD5hI0"
+    },
+    {
+      "album": {
         "name": "Moments in Time (Live)",
         "url": "https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG"
       },
@@ -5242,6 +5260,28 @@
       "duration_ms": 900820,
       "name": "We Need Revival (Medley) [Live]",
       "url": "https://open.spotify.com/track/1Ry5TY3JvJXodMzupCdMuV"
+    },
+    {
+      "album": {
+        "name": "We Worship You (Live)",
+        "url": "https://open.spotify.com/album/38SX4K8l81X2H4aiu6RBqN"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599600,
+      "name": "We Worship You - Live",
+      "url": "https://open.spotify.com/track/3Q3k5ttc0uBXEFjELdjPUQ"
     },
     {
       "album": {

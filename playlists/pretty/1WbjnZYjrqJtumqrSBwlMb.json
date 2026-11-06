@@ -6,7 +6,7 @@
     "name": "BennyE456",
     "url": "https://open.spotify.com/user/bennyellison4"
   },
-  "snapshot_id": "AAAKOII/5RTCHSyQWXiwx0Bh+CoeV9Ju",
+  "snapshot_id": "AAAKOl4hMjVNO6zQqqfUnSUATXBCB6ni",
   "tracks": [
     {
       "added_at": "2019-06-08 21:56:13",
@@ -4909,7 +4909,7 @@
       "artists": [
         {
           "name": "blackbear",
-          "url": "https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4"
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
       "duration_ms": 169500,
@@ -6293,7 +6293,7 @@
       "artists": [
         {
           "name": "blackbear",
-          "url": "https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4"
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
       "duration_ms": 184636,
@@ -22959,6 +22959,42 @@
       "duration_ms": 288466,
       "name": "traitoR",
       "url": "https://open.spotify.com/track/3EQ6LTNoHOGIWVJjAGkLyD"
+    },
+    {
+      "added_at": "2026-11-06 02:32:19",
+      "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/2DRHi6w6vTAlH7pxmlx5WI"
+    },
+    {
+      "added_at": "2026-11-06 02:51:15",
+      "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "The Colosseum (feat. Mustafa)",
+      "url": "https://open.spotify.com/track/24FP7CozXv36q27fzHKTYS"
     }
   ],
   "unique_name": "The True Benny Mix",

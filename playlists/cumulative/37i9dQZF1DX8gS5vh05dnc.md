@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-408 songs - 21 hr 47 min
+409 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-08-21 |  |
 | [Lobby](https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Lobby](https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu) | 2:37 | 2022-08-22 | 2022-11-13 |
 | [Loser](https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:24 | 2022-10-10 |  |
-| [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-21 |  |
+| [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-21 | 2026-11-06 |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-06-06 | 2022-07-29 |
 | [Love Me Like A](https://open.spotify.com/track/7u2ByUPEnGHCEZEoFfrTXU) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [Love Me Like A](https://open.spotify.com/album/3JSvBoaIaAlxW9lvbVkEn1) | 3:04 | 2022-06-06 | 2022-07-29 |
 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 | 2025-10-12 |  |
@@ -387,6 +387,7 @@
 | [To the Moon](https://open.spotify.com/track/2stihimvRIhZHr5m7McSku) | [RYAN ANDERS](https://open.spotify.com/artist/3iYsK6Jqr2MxPcUvcFt478) | [To the Moon](https://open.spotify.com/album/3MsdARcsBo02leLqVMPxJw) | 2:50 | 2022-06-06 | 2022-07-29 |
 | [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 | 2025-10-12 | 2025-10-20 |
 | [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 | 2025-05-25 | 2025-06-09 |
+| [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 | 2026-02-15 |  |
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-29 | 2022-12-06 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-22 | 2024-05-19 |
 | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Triple A \(feat\. NLE Choppa\)](https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9) | 2:38 | 2023-06-05 | 2023-08-08 |

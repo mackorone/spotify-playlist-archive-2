@@ -1,6 +1,6 @@
 {
   "description": "mindful genieten \ud83c\udf31. Cover: Sarah Julia",
-  "num_followers": 97981,
+  "num_followers": 97983,
   "original_name": "Touching Grass",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
+        "name": "Bungalow",
+        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
+    },
+    {
+      "added_at": "2026-10-15 22:00:32",
+      "album": {
         "name": "Old Lovers (feat. The Lumineers)",
         "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 213188,
       "name": "Old Lovers (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
-    },
-    {
-      "added_at": "2026-10-15 22:00:32",
-      "album": {
-        "name": "Bungalow",
-        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Younger Days",
-      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
     },
     {
       "added_at": "2026-10-15 22:00:32",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
-        "name": "Anything He Was",
-        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Anything He Was",
-      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
-    },
-    {
-      "added_at": "2026-10-15 22:00:32",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
+    },
+    {
+      "added_at": "2026-10-15 22:00:32",
+      "album": {
+        "name": "Anything He Was",
+        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Anything He Was",
+      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
     },
     {
       "added_at": "2026-10-15 22:00:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
-    },
-    {
-      "added_at": "2026-10-15 22:00:32",
-      "album": {
         "name": "Underwear",
         "url": "https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
-        "name": "Figure Me Out",
-        "url": "https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb"
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
       },
       "artists": [
         {
-          "name": "Julia Adriana",
-          "url": "https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc"
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
         }
       ],
-      "duration_ms": 166949,
-      "name": "Figure Me Out",
-      "url": "https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm"
+      "duration_ms": 256000,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
     },
     {
       "added_at": "2026-10-15 22:00:32",
@@ -915,6 +899,22 @@
       "duration_ms": 198000,
       "name": "A Little Lost",
       "url": "https://open.spotify.com/track/1ToKOSrvlMVSPvFyvU9FvX"
+    },
+    {
+      "added_at": "2026-10-15 22:00:32",
+      "album": {
+        "name": "Figure Me Out",
+        "url": "https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb"
+      },
+      "artists": [
+        {
+          "name": "Julia Adriana",
+          "url": "https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc"
+        }
+      ],
+      "duration_ms": 166949,
+      "name": "Figure Me Out",
+      "url": "https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm"
     },
     {
       "added_at": "2026-10-15 22:00:32",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
-    },
-    {
-      "added_at": "2026-10-15 22:00:32",
-      "album": {
         "name": "happiness (live)",
         "url": "https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 208180,
       "name": "happiness - live",
       "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
+    },
+    {
+      "added_at": "2026-10-15 22:00:32",
+      "album": {
+        "name": "Speaking of You",
+        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Speaking of You",
+      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     },
     {
       "added_at": "2026-10-15 22:00:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
-        "name": "Daughters",
-        "url": "https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 217616,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:32",
-      "album": {
         "name": "Colour On The Wall",
         "url": "https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 198189,
       "name": "Colour On The Wall",
       "url": "https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV"
+    },
+    {
+      "added_at": "2026-10-15 22:00:32",
+      "album": {
+        "name": "Daughters",
+        "url": "https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 217616,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg"
     },
     {
       "added_at": "2026-10-15 22:00:32",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
-        "name": "Beauty Land",
-        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
-      },
-      "artists": [
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        }
-      ],
-      "duration_ms": 179422,
-      "name": "So Mean",
-      "url": "https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB"
-    },
-    {
-      "added_at": "2026-10-15 22:00:32",
-      "album": {
         "name": "In Between Station",
         "url": "https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 206083,
       "name": "In Between Station",
       "url": "https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:32",
+      "album": {
+        "name": "Beauty Land",
+        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
+      },
+      "artists": [
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        }
+      ],
+      "duration_ms": 179422,
+      "name": "So Mean",
+      "url": "https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB"
     },
     {
       "added_at": "2026-10-15 22:00:32",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-10-15 22:00:32",
       "album": {
-        "name": "Seeing You",
-        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 198727,
-      "name": "Seeing You",
-      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
-    },
-    {
-      "added_at": "2026-10-15 22:00:32",
-      "album": {
         "name": "green",
         "url": "https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 186435,
       "name": "green",
       "url": "https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG"
+    },
+    {
+      "added_at": "2026-10-15 22:00:32",
+      "album": {
+        "name": "Seeing You",
+        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 198727,
+      "name": "Seeing You",
+      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
     },
     {
       "added_at": "2026-10-15 22:00:32",

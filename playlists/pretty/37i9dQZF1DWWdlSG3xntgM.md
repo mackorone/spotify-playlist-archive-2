@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,430 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,436 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 36 | [Nhớ người yêu](https://open.spotify.com/track/3szQt0d2anhP4ToXZqULJa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Nhớ người yêu](https://open.spotify.com/album/3vKakPmZ5zqWlod0zuOndQ) | 5:19 |
 | 37 | [Hàn Mặc Tử](https://open.spotify.com/track/4m8gBw5Xhey2WFVGaXm8lB) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 1](https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp) | 7:10 |
 | 38 | [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 |
-| 39 | [Qua Cơn Mê](https://open.spotify.com/track/5Fs1rIE9L830HIij2cuHyX) | [Vũ Như Nguyệt](https://open.spotify.com/artist/1TGqWkBXJUXQ8LofwIwNmE), [Duy Phương](https://open.spotify.com/artist/6MYzSoIOq4WYIbTBOZJDWI) | [Bóng Nhỏ Đường Chiều](https://open.spotify.com/album/5tMjBqFvfnVr1Jaz8txfJU) | 4:50 |
-| 40 | [Ly Cafe Cuoi Cung](https://open.spotify.com/track/6TwpsTNZfnFCV8GrjhgBsy) | [Duy Trường](https://open.spotify.com/artist/3jWhTLaDkAnRGPhXl02MJ8), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Thanh Phong](https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc) | [Em Hau Phuong Anh Tien Tuyen](https://open.spotify.com/album/5ECwUF50JZfbEEf0wsznu2) | 4:50 |
-| 41 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
-| 42 | [Tạ Từ Trong Đêm](https://open.spotify.com/track/7J1Np3eRmXmLAbzVadZewG) | [Huỳnh Phi Tiễn](https://open.spotify.com/artist/7an9uvbh1rC2bflIvcwRRL), [Ái Ni](https://open.spotify.com/artist/1GONsfBOY2JpOBbJsVBaaL) | [Tạ Từ Trong Đêm](https://open.spotify.com/album/3EU1OeCxTUL4X6o7OZyoCq) | 7:05 |
+| 39 | [Tạ Từ Trong Đêm](https://open.spotify.com/track/7J1Np3eRmXmLAbzVadZewG) | [Huỳnh Phi Tiễn](https://open.spotify.com/artist/7an9uvbh1rC2bflIvcwRRL), [Ái Ni](https://open.spotify.com/artist/1GONsfBOY2JpOBbJsVBaaL) | [Tạ Từ Trong Đêm](https://open.spotify.com/album/3EU1OeCxTUL4X6o7OZyoCq) | 7:05 |
+| 40 | [Qua Cơn Mê](https://open.spotify.com/track/5Fs1rIE9L830HIij2cuHyX) | [Vũ Như Nguyệt](https://open.spotify.com/artist/1TGqWkBXJUXQ8LofwIwNmE), [Duy Phương](https://open.spotify.com/artist/6MYzSoIOq4WYIbTBOZJDWI) | [Bóng Nhỏ Đường Chiều](https://open.spotify.com/album/5tMjBqFvfnVr1Jaz8txfJU) | 4:50 |
+| 41 | [Ly Cafe Cuoi Cung](https://open.spotify.com/track/6TwpsTNZfnFCV8GrjhgBsy) | [Duy Trường](https://open.spotify.com/artist/3jWhTLaDkAnRGPhXl02MJ8), [Tường Khuê](https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Thanh Phong](https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc) | [Em Hau Phuong Anh Tien Tuyen](https://open.spotify.com/album/5ECwUF50JZfbEEf0wsznu2) | 4:50 |
+| 42 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
 | 43 | [Thành phố sau lưng](https://open.spotify.com/track/2Si7rKSCdOnMdMUGzObLzl) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 4:58 |
 | 44 | [Tình Chàng Ý Thiếp](https://open.spotify.com/track/3AF7iZrrmE5Tb1Tw9WnrFT) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Tình Chàng Ý Thiếp](https://open.spotify.com/album/70jAa1F8ItR0NerYSmmMpi) | 5:55 |
 | 45 | [Qua Ngõ Nhà Anh](https://open.spotify.com/track/41t4yWDcIa4vQQ5NIwL7Rk) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Rừng Lá Thay Chưa](https://open.spotify.com/album/6KJ9jm4HTPwsW3ydfDHGJ6) | 3:55 |

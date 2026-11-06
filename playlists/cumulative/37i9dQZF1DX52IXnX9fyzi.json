@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Before Silence",
+        "url": "https://open.spotify.com/album/7kHhV0e3M6qbfMSLpnhUSJ"
+      },
+      "artists": [
+        {
+          "name": "Anselm Grey",
+          "url": "https://open.spotify.com/artist/2I4PIUpe16abRASGdiUai6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155876,
+      "name": "Before Silence",
+      "url": "https://open.spotify.com/track/7jmdN4Xs8OJkh1UFeqaC2R"
+    },
+    {
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/3YWnsWU3eLy31v9dG1qr5t"
       },
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 144888,
       "name": "Coastlines",
       "url": "https://open.spotify.com/track/7of61zdicsdOIVMowtY6OJ"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158374,
       "name": "Elegy Of Solace",
       "url": "https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u"
@@ -3703,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "hearth",
+        "url": "https://open.spotify.com/album/42eBskhYz6Jkqai6spK9JW"
+      },
+      "artists": [
+        {
+          "name": "rein\u00eb",
+          "url": "https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158145,
+      "name": "hearth",
+      "url": "https://open.spotify.com/track/7aRlZmmoJina3nbJlyq4z8"
+    },
+    {
+      "album": {
         "name": "Heartsease",
         "url": "https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE"
       },
@@ -4092,7 +4128,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 212250,
       "name": "Ignis",
       "url": "https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK"
@@ -9762,7 +9798,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 122105,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii"
@@ -10662,7 +10698,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 149929,
       "name": "Wishing",
       "url": "https://open.spotify.com/track/6DmakgjxCyZ5idLg6lbX1J"

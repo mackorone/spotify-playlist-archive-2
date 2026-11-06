@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Ari Lesmana",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Glenn Samuel",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 287341,
       "name": "Api & Mimpi",
       "url": "https://open.spotify.com/track/1yWsyGf3RB7iyJ2lDrScGy"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 263125,
       "name": "Berhenti Sejenak, atau Selamanya?",
       "url": "https://open.spotify.com/track/0kJdTIqA1axZN8MCyw9Q4m"
@@ -4449,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "CingCong",
+        "url": "https://open.spotify.com/album/4yfJRriD7CMxPLJEBPmRHj"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cil Yang",
+          "url": "https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196245,
+      "name": "CingCong",
+      "url": "https://open.spotify.com/track/24iV1DaDT2yGXzrMHZx8bz"
+    },
+    {
+      "album": {
         "name": "Cinta",
         "url": "https://open.spotify.com/album/4pPZf44vGGfWj5CAiwyybi"
       },
@@ -6007,6 +6025,32 @@
     },
     {
       "album": {
+        "name": "Dogs Are Always True",
+        "url": "https://open.spotify.com/album/4jgjGVmRo4IoGyUfMPRqPa"
+      },
+      "artists": [
+        {
+          "name": "Lafa Pratomo",
+          "url": "https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud"
+        },
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207701,
+      "name": "Dogs Are Always True",
+      "url": "https://open.spotify.com/track/41XeJOtOSCjEg0ftYg6aO2"
+    },
+    {
+      "album": {
         "name": "Forever In The Air",
         "url": "https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ"
       },
@@ -6404,6 +6448,24 @@
       "duration_ms": 259122,
       "name": "Forevermine",
       "url": "https://open.spotify.com/track/0jLrKtnBL9lzcWA5M0tO9A"
+    },
+    {
+      "album": {
+        "name": "Tanda Cinta",
+        "url": "https://open.spotify.com/album/71ofL0fZ0GGGovQlvJYFGO"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222597,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/7yfQ8eVnOio6Y14LdIW35Q"
     },
     {
       "album": {
@@ -7430,7 +7492,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 215725,
       "name": "Hingga Kau Kembali",
       "url": "https://open.spotify.com/track/6DWr8S7NFcFscSPBVuTaOe"
@@ -9174,7 +9236,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204069,
       "name": "Kan",
       "url": "https://open.spotify.com/track/1wFes72GQ7pyuW4dEZzNi8"
@@ -9698,7 +9760,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 257385,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/5LBuf9W1EUwluR2MU8XB0x"
@@ -10476,7 +10538,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 289750,
       "name": "Kuingin Kau Tau",
       "url": "https://open.spotify.com/track/5BWHwIlnNoH4HYVe7Ysi7C"
@@ -12148,7 +12210,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186203,
       "name": "Memendam Suka",
       "url": "https://open.spotify.com/track/0ngSrlTyfVnGCVYcXRcGcK"
@@ -13288,7 +13350,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 190150,
       "name": "Mulai Ingin Memilih",
       "url": "https://open.spotify.com/track/2b5zT6ObkFOlWkxd9lR6Qy"
@@ -13603,6 +13665,24 @@
     },
     {
       "album": {
+        "name": "next time",
+        "url": "https://open.spotify.com/album/4cl0D6s5QsAHIA0ZgulfUf"
+      },
+      "artists": [
+        {
+          "name": "Agatha Chelsea",
+          "url": "https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180481,
+      "name": "next time",
+      "url": "https://open.spotify.com/track/1VWvnlKQxfn58CsqmkTwVB"
+    },
+    {
+      "album": {
         "name": "Nikah Sempurna",
         "url": "https://open.spotify.com/album/50k5gWGBVJALWvmfXPHE4V"
       },
@@ -13680,6 +13760,24 @@
       "duration_ms": 230571,
       "name": "Nomor Satu",
       "url": "https://open.spotify.com/track/57EvfEDG4agFn1a0SLbHbk"
+    },
+    {
+      "album": {
+        "name": "Nona Centil",
+        "url": "https://open.spotify.com/album/7wbubXfe4ZMVuwlU4Y7IeH"
+      },
+      "artists": [
+        {
+          "name": "Glenn Samuel",
+          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228223,
+      "name": "Nona Centil",
+      "url": "https://open.spotify.com/track/7JD4Y7Wmga9BhkVKVKoWru"
     },
     {
       "album": {
@@ -14306,7 +14404,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 300705,
       "name": "Pemberani",
       "url": "https://open.spotify.com/track/14yht0hUiPC3ZzUJ6y9hhS"
@@ -17761,6 +17859,24 @@
     },
     {
       "album": {
+        "name": "Tutur Hayat",
+        "url": "https://open.spotify.com/album/1mfgNdtNyaxHBcg7pJ1PcR"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266884,
+      "name": "Semasa",
+      "url": "https://open.spotify.com/track/0PFqDqzBZrYyvJi5RHeZDf"
+    },
+    {
+      "album": {
         "name": "Sembuh Dulu",
         "url": "https://open.spotify.com/album/6NvoZg9ppeeHpNYHz6q4Jn"
       },
@@ -18500,7 +18616,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207888,
       "name": "Sepuluh Tahun",
       "url": "https://open.spotify.com/track/0ak5p3SyiAHNuXSh2hOECB"
@@ -19962,7 +20078,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191489,
       "name": "Tak Akan Mati Sia Sia",
       "url": "https://open.spotify.com/track/2bdrnzspivUynDakjRMvb9"

@@ -4,7 +4,7 @@
 
 > put a little yee haw in your laid back
 
-211 songs - 12 hr 42 min
+212 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd) | 3:14 | 2025-01-13 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-04-03 |  |
 | [Bite My Tongue \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Bite My Tongue \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/681qv0Au08NIjJwh72luYf) | 3:38 | 2025-10-31 |  |
-| [Born Wicked](https://open.spotify.com/track/4sa1m3H5Aoxo21etGRBFIb) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Born Wicked](https://open.spotify.com/album/4uThGfX50aFL3O8CgkxmBT) | 2:43 | 2026-01-09 |  |
+| [blue hour](https://open.spotify.com/track/2wGuLEMIyRWg3SbFmJqN3O) | [Ha Vay](https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt) | [blue hour](https://open.spotify.com/album/1t8S1KKUABFJEIi79JYLuC) | 3:26 | 2026-11-06 |  |
+| [Born Wicked](https://open.spotify.com/track/4sa1m3H5Aoxo21etGRBFIb) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Born Wicked](https://open.spotify.com/album/4uThGfX50aFL3O8CgkxmBT) | 2:43 | 2026-01-09 | 2026-11-06 |
 | [Brand New Key](https://open.spotify.com/track/3tm6LVXZJg0lG4hQm5ytrT) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Beautiful People: The Greatest Hits of Melanie](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS) | 2:24 | 2023-04-03 | 2024-08-03 |
 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 | 2023-07-21 | 2026-04-21 |
 | [Bullets](https://open.spotify.com/track/2mi8K8wuSDRQ3h7k9lROsv) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Bullets](https://open.spotify.com/album/5je7oJCztUuHgjhOPyECgm) | 3:48 | 2026-08-21 |  |

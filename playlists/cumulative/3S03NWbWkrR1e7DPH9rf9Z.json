@@ -1211,6 +1211,32 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/7k2ee5DvVmYPBSoFA219Ka"
+      },
+      "artists": [
+        {
+          "name": "Detmex",
+          "url": "https://open.spotify.com/artist/4wBopwyJ1F228LOOFb6qT8"
+        },
+        {
+          "name": "Dave Fantasy",
+          "url": "https://open.spotify.com/artist/6fQqqtZexWIW4MjRgPW2ye"
+        },
+        {
+          "name": "DJ - itao",
+          "url": "https://open.spotify.com/artist/6kc9Q1LoAxJRgrAaevKieM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142995,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4URj3iP4o0dh4TloplaeXp"
+    },
+    {
+      "album": {
         "name": "D.O.M.",
         "url": "https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP"
       },

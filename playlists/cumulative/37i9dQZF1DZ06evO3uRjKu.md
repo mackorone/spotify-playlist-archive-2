@@ -4,7 +4,7 @@
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 43 min
+99 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Lluvia de Acido](https://open.spotify.com/track/49zgzRHhydB595Y1uJHkXE) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 3:22 | 2025-03-22 | 2025-03-24 |
 | [Lo Que Pienso de Vos \- En Vivo](https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Que Pienso de Vos \(En Vivo\)](https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r) | 3:12 | 2024-08-31 | 2026-05-08 |
 | [Lo Que Pienso de Vos \- En Vivo](https://open.spotify.com/track/3LiYI9owzjKP8jf239x53q) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Que Pienso de Vos \(En Vivo\)](https://open.spotify.com/album/1M20GUHWHxe2b5tI0RKMYu) | 3:12 | 2026-05-08 |  |
+| [Mañana a la Noche](https://open.spotify.com/track/0ASoRAn7RZn3U5ltBcnXii) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 4:09 | 2026-11-06 |  |
 | [Mañana a la Noche](https://open.spotify.com/track/2j4LpLRbVCpW48bM9gSPgs) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 4:09 | 2026-04-27 | 2026-04-30 |
 | [Me Siento Loco](https://open.spotify.com/track/01TJE0vRdTfmFjcj2Z6Q4U) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Me Siento Loco](https://open.spotify.com/album/1sDQ7rlBAHZZAt8AJfNzzT) | 4:03 | 2026-05-09 |  |
 | [Me Siento Loco](https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Me Siento Loco](https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b) | 4:03 | 2024-02-27 | 2026-05-09 |

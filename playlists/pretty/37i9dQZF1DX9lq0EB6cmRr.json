@@ -1,6 +1,6 @@
 {
   "description": "Discover the latest Korean classical & new age music! (Cover: \uc724\ud55c(YOONHAN)) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5928,
+  "num_followers": 5934,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Connected",
-        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        },
-        {
-          "name": "Cho Yoonseung",
-          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
-        }
-      ],
-      "duration_ms": 289613,
-      "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
-      "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "breathe",
         "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 267085,
       "name": "for such a gaze of wonder",
       "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        },
+        {
+          "name": "Cho Yoonseung",
+          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
+        }
+      ],
+      "duration_ms": 289613,
+      "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
+      "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "THE WAR",
         "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
-        "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
       },
       "artists": [
         {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
-        },
-        {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 280687,
-      "name": "It's okay - Orchestra Version",
-      "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
+      "duration_ms": 234000,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1211,8 +1191,28 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Hello Future (Orchestra Version)",
-        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
+        "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
+        "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        },
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "duration_ms": 280687,
+      "name": "It's okay - Orchestra Version",
+      "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Make A Wish (Birthday Song) (Orchestra Version)",
+        "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 265120,
-      "name": "Hello Future - Orchestra Version",
-      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
+      "duration_ms": 273346,
+      "name": "Make A Wish (Birthday Song) - Orchestra Version",
+      "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Make A Wish (Birthday Song) (Orchestra Version)",
-        "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
+        "name": "Hello Future (Orchestra Version)",
+        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
       },
       "artists": [
         {
@@ -1328,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 273346,
-      "name": "Make A Wish (Birthday Song) - Orchestra Version",
-      "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
+      "duration_ms": 265120,
+      "name": "Hello Future - Orchestra Version",
+      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 323600,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-      "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
-      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
+      "duration_ms": 323600,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
     },
     {
       "added_at": "2026-09-23 08:12:22",
@@ -1975,30 +1975,6 @@
     {
       "added_at": "2026-09-23 08:12:22",
       "album": {
-        "name": "Beethoven: Variations for violoncello and piano",
-        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jungin Huh",
-          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
-        }
-      ],
-      "duration_ms": 40906,
-      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
-      "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
-    },
-    {
-      "added_at": "2026-09-23 08:12:22",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
       },
@@ -2011,6 +1987,26 @@
       "duration_ms": 246546,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
+    },
+    {
+      "added_at": "2026-09-23 08:12:22",
+      "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "duration_ms": 516492,
+      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
+      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
     },
     {
       "added_at": "2026-09-23 08:12:22",

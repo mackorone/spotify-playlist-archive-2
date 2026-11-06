@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 148345,
       "name": "Faded Love",
       "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
@@ -1050,6 +1050,28 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP"
+    },
+    {
+      "album": {
+        "name": "Golden Summer",
+        "url": "https://open.spotify.com/album/41zJcI0x5a9UMb42BSS2lS"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        },
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141417,
+      "name": "Golden Summer",
+      "url": "https://open.spotify.com/track/3lYgqouLKmlQTjkzzP16pZ"
     },
     {
       "album": {
@@ -2650,6 +2672,24 @@
       "duration_ms": 225893,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
+    },
+    {
+      "album": {
+        "name": "eiskalte engel",
+        "url": "https://open.spotify.com/album/6WujacP0Ddr6ASOTkZ3yTX"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "skeletons",
+      "url": "https://open.spotify.com/track/78VR84NFVbTwgZSkalSpxP"
     },
     {
       "album": {

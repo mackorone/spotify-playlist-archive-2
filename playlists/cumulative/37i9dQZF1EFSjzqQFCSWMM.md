@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-149 songs - 6 hr 56 min
+150 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Vintage](https://open.spotify.com/track/4zW3mmZIAd5n7dGkHOJB2m) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:02 | 2023-12-13 |  |
 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 | 2023-12-13 |  |
 | [WALK IN](https://open.spotify.com/track/6G3SpOQw2lInNobvvgfMIW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:13 | 2023-12-13 |  |
-| [Washing Machine](https://open.spotify.com/track/2W6zBqZSsoeGgBHmXNvLER) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Washing Machine](https://open.spotify.com/album/0QyvrkxKHVpxDckhyAjNMP) | 2:52 | 2023-12-13 |  |
+| [Washing Machine](https://open.spotify.com/track/2W6zBqZSsoeGgBHmXNvLER) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Washing Machine](https://open.spotify.com/album/0QyvrkxKHVpxDckhyAjNMP) | 2:52 | 2023-12-13 | 2026-11-06 |
+| [Washing Machine](https://open.spotify.com/track/73ZtPk8rjVZ5vWPt8H10nh) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Washing Machine](https://open.spotify.com/album/3Ec2JjS73sIPa9l6Yg2MSf) | 2:52 | 2026-11-05 |  |
 | [Webb](https://open.spotify.com/track/4gbpSebHKlYXN64gj8k7XN) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [534RCH](https://open.spotify.com/album/0nZVVuTqGDbBnhBdLI8mJn) | 2:35 | 2025-06-14 |  |
 | [Webb](https://open.spotify.com/track/4ejCNPGH9DCpNzP0EViZ4w) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [Webb](https://open.spotify.com/album/2UhPwewlKdNzT2WRlVH82Q) | 2:36 | 2023-12-13 | 2025-06-15 |
 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 | 2024-08-14 |  |

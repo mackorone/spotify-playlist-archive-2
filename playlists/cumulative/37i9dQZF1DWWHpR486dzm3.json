@@ -3833,6 +3833,32 @@
     },
     {
       "album": {
+        "name": "Few And Far Between (Remixed)",
+        "url": "https://open.spotify.com/album/6hB1RSRQUTU5Udhnw291JX"
+      },
+      "artists": [
+        {
+          "name": "Niko Demus",
+          "url": "https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD"
+        },
+        {
+          "name": "Merely",
+          "url": "https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7"
+        },
+        {
+          "name": "Placid Angles",
+          "url": "https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Few And Far Between - Placid Angles Remix",
+      "url": "https://open.spotify.com/track/4c4xXVoY2842pp6pxpUaiR"
+    },
+    {
+      "album": {
         "name": "Plenty",
         "url": "https://open.spotify.com/album/1mK53QazuVzxpUoaqiJVfq"
       },
@@ -5032,6 +5058,24 @@
       "duration_ms": 189498,
       "name": "Hetkeksi sun luo",
       "url": "https://open.spotify.com/track/1mpttyiiqcBDisdDhGp23q"
+    },
+    {
+      "album": {
+        "name": "Hetki ikuisuudessa",
+        "url": "https://open.spotify.com/album/1nwluNMld1AgBs7OnkaEuw"
+      },
+      "artists": [
+        {
+          "name": "JAVE",
+          "url": "https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180444,
+      "name": "Hetki ikuisuudessa",
+      "url": "https://open.spotify.com/track/5rHYxh5NHU6JFVKvJviR0m"
     },
     {
       "album": {
@@ -6262,6 +6306,28 @@
       "duration_ms": 231289,
       "name": "Ilotalo",
       "url": "https://open.spotify.com/track/3gDuesuKOYlgYj4a2QTmN6"
+    },
+    {
+      "album": {
+        "name": "ILYB",
+        "url": "https://open.spotify.com/album/6tahpUnciA3mbYbuO9cqgl"
+      },
+      "artists": [
+        {
+          "name": "OK NIKO",
+          "url": "https://open.spotify.com/artist/1CClLLJ0cirtUzoqw3UA1p"
+        },
+        {
+          "name": "RNZO",
+          "url": "https://open.spotify.com/artist/10MhipMwRwAVzUy7hy5fgd"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215520,
+      "name": "ILYB",
+      "url": "https://open.spotify.com/track/52be3rpMjwX7whqcjyyVCR"
     },
     {
       "album": {
@@ -8088,7 +8154,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 195770,
       "name": "kerro kerro kuvastin",
       "url": "https://open.spotify.com/track/7H93gPvGL8uwKZkUB6zVDH"
@@ -16946,7 +17012,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 247599,
       "name": "Silkkikukkia",
       "url": "https://open.spotify.com/track/66IKcVrL3DlhpFvrHaJmN7"
@@ -18292,7 +18358,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 223285,
       "name": "Syd\u00e4n sanoo seis",
       "url": "https://open.spotify.com/track/7z27jQoDK5CyER7z1OHUk2"
@@ -19512,7 +19578,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 219169,
       "name": "Tilaisuus teki varkaan",
       "url": "https://open.spotify.com/track/6Sa7iRnnkQEXkRsh2e5MfO"
@@ -19775,6 +19841,24 @@
     },
     {
       "album": {
+        "name": "Pyhi\u00e4 voimia",
+        "url": "https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH"
+      },
+      "artists": [
+        {
+          "name": "Rosi",
+          "url": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy"
       },
@@ -19966,7 +20050,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 203602,
       "name": "Tuolta se nyt k\u00e4velee",
       "url": "https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx"
@@ -22464,6 +22548,24 @@
       "duration_ms": 213196,
       "name": "Your Home",
       "url": "https://open.spotify.com/track/1zhAUIQiyRNetn2VplgrCK"
+    },
+    {
+      "album": {
+        "name": "aman lauluja",
+        "url": "https://open.spotify.com/album/0JTrXm6aDfKv5yKPCeIT96"
+      },
+      "artists": [
+        {
+          "name": "ama",
+          "url": "https://open.spotify.com/artist/1sAg7IqfaJWUFIeJRHXA6v"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214064,
+      "name": "yrit\u00e4n",
+      "url": "https://open.spotify.com/track/6q6D0gFFd22nNFIiSvonVg"
     },
     {
       "album": {

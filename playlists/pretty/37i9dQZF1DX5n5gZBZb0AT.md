@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,716 likes - 40 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,762 likes - 40 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 25 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 26 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
 | 27 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
-| 28 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 |
-| 29 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:50 |
+| 28 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:50 |
+| 29 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 |
 | 30 | [DERNIERE DANCE FUNK](https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [Sachin SSS](https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [MC KRAKEN](https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq) | [DERNIERE DANCE FUNK](https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT) | 1:31 |
 | 31 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 32 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
 | 33 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
 | 34 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 35 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
-| 36 | [MONTAGEM LADRAO](https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Itamar Mc](https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ) | [MONTAGEM LADRAO](https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO) | 1:15 |
-| 37 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
+| 36 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
+| 37 | [MONTAGEM LADRAO](https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Itamar Mc](https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ) | [MONTAGEM LADRAO](https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO) | 1:15 |
 | 38 | [PSL \- Slowed](https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PSL](https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq) | 2:21 |
-| 39 | [THIS FEELING](https://open.spotify.com/track/7oncLeIzUPgJf4a6jm1c3e) | [DJ Anemia](https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [THIS FEELING](https://open.spotify.com/album/4QbF9gd2zeyd3Vxg29NbWS) | 2:02 |
-| 40 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 1:57 |
+| 39 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 1:57 |
+| 40 | [Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 3:09 |
 
 Snapshot ID: `AAAAAPKPSl01EtuiEnSJdcY+vSje8Hrw`

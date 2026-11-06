@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Elohim Adonai",
+        "url": "https://open.spotify.com/album/0RDPsoxIm2lqTyebb4G77X"
+      },
+      "artists": [
+        {
+          "name": "Aderoju Tojola",
+          "url": "https://open.spotify.com/artist/0CCMdfxDLJ3ntsUN2qq7vs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281137,
+      "name": "Elohim Adonai",
+      "url": "https://open.spotify.com/track/0ZMglvm7PYZUw0RbwKfBnL"
+    },
+    {
+      "album": {
         "name": "Elohim You Are Beautiful (Live)",
         "url": "https://open.spotify.com/album/6opi4KqzaB89vn9tSqG9Lr"
       },
@@ -6214,7 +6232,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 135554,
       "name": "Nwaturu Chukwu",
       "url": "https://open.spotify.com/track/0gLmHxgE408gBRoNZVn7Bw"

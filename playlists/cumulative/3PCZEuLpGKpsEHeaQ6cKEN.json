@@ -13321,6 +13321,24 @@
     },
     {
       "album": {
+        "name": "Giving It Up",
+        "url": "https://open.spotify.com/album/31EtaKwDJPoOkh7Hdg67DB"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Giving It Up",
+      "url": "https://open.spotify.com/track/3fbjcTsHFp2e93nvsWkgvH"
+    },
+    {
+      "album": {
         "name": "Glamorous",
         "url": "https://open.spotify.com/album/6NCaB3ZXx02DQ9oGCqHvgY"
       },
@@ -28055,6 +28073,28 @@
     },
     {
       "album": {
+        "name": "Pleasure From The Bass (Rool\u00e9h Remix)",
+        "url": "https://open.spotify.com/album/40M7G1oMZxbo7ElauG2rnX"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213661,
+      "name": "Pleasure From The Bass - Rool\u00e9h Remix",
+      "url": "https://open.spotify.com/track/4rCPvpaFKvdJQRFhyCYGPF"
+    },
+    {
+      "album": {
         "name": "Pop That",
         "url": "https://open.spotify.com/album/40brUtZEu1GE9QWjNykxFU"
       },
@@ -40772,6 +40812,32 @@
       "duration_ms": 174407,
       "name": "What If I Told You",
       "url": "https://open.spotify.com/track/1vyW6Xjn8fWDJaMSKGIX7U"
+    },
+    {
+      "album": {
+        "name": "What If I Told You (Incl. Rising Star Remix)",
+        "url": "https://open.spotify.com/album/5cHd36qaFB9S9mzXqpXJu0"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        },
+        {
+          "name": "Rising Star",
+          "url": "https://open.spotify.com/artist/3HYUBCT2pYtoo0JHztEsRJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184748,
+      "name": "What If I Told You - Rising Star Remix",
+      "url": "https://open.spotify.com/track/6GVEnmt20y1NQH8bl4YEhu"
     },
     {
       "album": {

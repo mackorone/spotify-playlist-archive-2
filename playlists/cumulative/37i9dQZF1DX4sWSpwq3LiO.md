@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,878 songs - 3 day 11 hr 11 min
+1,879 songs - 3 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1679,6 +1679,7 @@
 | [Tokka](https://open.spotify.com/track/22bk8cz4FrIpxR166zmXFk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 1:29 | 2019-05-26\* | 2019-06-27 |
 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-02-03 | 2025-05-14 |
 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 | 2024-12-12 |  |
+| [Totem](https://open.spotify.com/track/7grvfZ55ccHnQNhay3cVwK) | [Eldur Hættu](https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8) | [Totem](https://open.spotify.com/album/4cqFLRiPDoThLKCYozyaQA) | 2:41 | 2026-11-06 |  |
 | [Touch](https://open.spotify.com/track/5KqPklnt0motIzsG1mJkWc) | [Caye Skye](https://open.spotify.com/artist/3ocLLPDmkfgvjHZ5Yn10oW) | [Touch](https://open.spotify.com/album/6RJGBTIExhdmcKAThYYNuy) | 2:23 | 2026-07-03 |  |
 | [Toujours](https://open.spotify.com/track/1GGPUkn7gZtsxoMdLqwHms) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Toujours](https://open.spotify.com/album/3RRJibUMp8rm9ypwvnPYMs) | 2:14 | 2021-12-15 | 2022-07-07 |
 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 | 2019-06-27 | 2021-01-05 |

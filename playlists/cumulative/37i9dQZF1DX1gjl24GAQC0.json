@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: RIIZE) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: P1Harmony) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -1718,6 +1718,24 @@
       "duration_ms": 183000,
       "name": "Blooming CROWN",
       "url": "https://open.spotify.com/track/7LrmZENqrRtHOJPrlipqXK"
+    },
+    {
+      "album": {
+        "name": "BLOW UP",
+        "url": "https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "BLOW UP",
+      "url": "https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP"
     },
     {
       "album": {
@@ -12389,6 +12407,24 @@
     },
     {
       "album": {
+        "name": "SHOCK",
+        "url": "https://open.spotify.com/album/33q3b2UtHK0JW4RbzI86KJ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "SHOCK",
+      "url": "https://open.spotify.com/track/2svjqad0qwiEYps5QLR7rZ"
+    },
+    {
+      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
       },
@@ -13610,7 +13646,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -13736,7 +13772,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150200,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw"

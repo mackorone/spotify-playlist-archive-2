@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 116 | [Learn To Love Myself](https://open.spotify.com/track/0FQ9ML5Is7CRKHGoVDdrKi) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Left In Your Love](https://open.spotify.com/album/7ha3cuKSuE1edlTUbMH2lb) | 3:02 |
 | 117 | [Lonely Nights](https://open.spotify.com/track/198mIqbxkeeGcWJvmLOMbt) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 2:56 |
 | 118 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 |
-| 119 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
-| 120 | [Guessing Games](https://open.spotify.com/track/4ArkpqGXudgNakSV1EGQcx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Guessing Games](https://open.spotify.com/album/5zvspX4vCnEUO4UazyiAmB) | 2:47 |
+| 119 | [Guessing Games](https://open.spotify.com/track/4ArkpqGXudgNakSV1EGQcx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Guessing Games](https://open.spotify.com/album/5zvspX4vCnEUO4UazyiAmB) | 2:47 |
+| 120 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
 | 121 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
 | 122 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 |
 | 123 | [All Night Long](https://open.spotify.com/track/55IEdCXiAa3A7Mcy8t9n2v) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 2:41 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 147 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 148 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcgzlAAAAADo0Tb7TbpZVYy2yFZFn8o6`
+Snapshot ID: `Acg5NAAAAAAILqzlDnuzTbeKo3BBXV6X`

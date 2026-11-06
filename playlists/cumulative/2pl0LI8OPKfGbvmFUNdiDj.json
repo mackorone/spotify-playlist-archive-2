@@ -7321,6 +7321,28 @@
     },
     {
       "album": {
+        "name": "Out of Sight Out of Mind",
+        "url": "https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ"
+      },
+      "artists": [
+        {
+          "name": "SEY.MOUR.",
+          "url": "https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE"
+        },
+        {
+          "name": "The Misses",
+          "url": "https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151451,
+      "name": "Out of Sight Out of Mind",
+      "url": "https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/2LMkARZTUDgGgbaiexYWsH"
       },

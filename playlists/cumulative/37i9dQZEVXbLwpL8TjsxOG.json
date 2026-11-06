@@ -606,7 +606,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179062,
       "name": "ADDICTED",
       "url": "https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -9790,7 +9790,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 171696,
       "name": "It\u2019s \u016a",
       "url": "https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj"
@@ -10416,7 +10416,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 244018,
       "name": "Kong",
       "url": "https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf"
@@ -18618,7 +18618,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -21125,6 +21125,24 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/0OttvVI4SPZ9DbvEmlDceI"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "With",
+      "url": "https://open.spotify.com/track/6GNvsmhrkdPp5skYLq42nY"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
       },
@@ -21760,6 +21778,24 @@
       "duration_ms": 177560,
       "name": "\u2060\u6211\u5f88\u5c0f\u670b\u53cb",
       "url": "https://open.spotify.com/track/3ND61PaujUQeITpan0QDrt"
+    },
+    {
+      "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/42ZYQpGKQMStoKcAnn6D6T"
+      },
+      "artists": [
+        {
+          "name": "Zpecial",
+          "url": "https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236574,
+      "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
+      "url": "https://open.spotify.com/track/13tIxAkljab9gj8spOmz9P"
     },
     {
       "album": {
@@ -24220,7 +24256,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "\u56db",
       "url": "https://open.spotify.com/track/0Mdym6sYES65bYALdGQJE4"
@@ -24692,7 +24728,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 235800,
       "name": "\u5927\u54e5",
       "url": "https://open.spotify.com/track/2HR81zMSX5uRGIVO5oerjr"
@@ -25060,7 +25096,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 259133,
       "name": "\u5bcc\u58eb\u5c71\u4e0b",
       "url": "https://open.spotify.com/track/3cthRwQ2X0SNTaauD7tjn5"
@@ -26814,7 +26850,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 266333,
       "name": "\u6628\u9072\u4eba",
       "url": "https://open.spotify.com/track/0JaChJKM1XYJE48rKaUvG8"
@@ -30056,7 +30092,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220933,
       "name": "\u803f\u803f\u65bc\u61f7",
       "url": "https://open.spotify.com/track/027DJzimsjm1M1hflEWLnv"

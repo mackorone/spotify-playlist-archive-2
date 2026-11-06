@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217206,
       "name": "Devout",
       "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
@@ -9562,6 +9562,24 @@
       "duration_ms": 133761,
       "name": "Tell Your Friends You Love Them",
       "url": "https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ"
+    },
+    {
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2026-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285882,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
     },
     {
       "album": {

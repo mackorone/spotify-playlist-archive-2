@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Just Look Around",
+        "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132506,
+      "name": "Shut Me Out",
+      "url": "https://open.spotify.com/track/4dksuobarzFXwunwiyriAT"
+    },
+    {
+      "album": {
         "name": "Scratch the Surface",
         "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
       },

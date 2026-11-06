@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 241479,
+  "num_followers": 241505,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Fresh Wind (Retain Remix)",
+        "url": "https://open.spotify.com/album/0rhdkcw1Q3ix7n5bxZPqpi"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        },
+        {
+          "name": "Sanne Hak",
+          "url": "https://open.spotify.com/artist/0w82Kfvi0syYUnxmLd2lrr"
+        }
+      ],
+      "duration_ms": 190159,
+      "name": "Fresh Wind - Retain Remix",
+      "url": "https://open.spotify.com/track/71QukHVaKdnRBC6isGYZuK"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Praying Out Loud (Arknn Remix)",
         "url": "https://open.spotify.com/album/6zSWdkEdXc4hiR4mmUdrd6"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 184000,
       "name": "Praying Out Loud - Arknn Remix",
       "url": "https://open.spotify.com/track/0TN6lBoupsiKJJpDPgi5af"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Fresh Wind (Retain Remix)",
-        "url": "https://open.spotify.com/album/0rhdkcw1Q3ix7n5bxZPqpi"
-      },
-      "artists": [
-        {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
-        },
-        {
-          "name": "Sanne Hak",
-          "url": "https://open.spotify.com/artist/0w82Kfvi0syYUnxmLd2lrr"
-        }
-      ],
-      "duration_ms": 190159,
-      "name": "Fresh Wind - Retain Remix",
-      "url": "https://open.spotify.com/track/71QukHVaKdnRBC6isGYZuK"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Nothing Can Separate Us",
-        "url": "https://open.spotify.com/album/5cWHi1MR4DWBFiM1rgrwSz"
-      },
-      "artists": [
-        {
-          "name": "Divine Vibes",
-          "url": "https://open.spotify.com/artist/1kFqhDKe9gxlRWrrgZxtt7"
-        },
-        {
-          "name": "Bervmen",
-          "url": "https://open.spotify.com/artist/1qOKeEcAge0VWbmh1MDlBP"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Nothing Can Separate Us",
-      "url": "https://open.spotify.com/track/5XgJNkeYDX999GC2S5flBY"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "all i need is God",
         "url": "https://open.spotify.com/album/3OKM1CeCwQY1aeqmLeuh0K"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 127877,
       "name": "all i need is God",
       "url": "https://open.spotify.com/track/0lEw9va6qgMmLazeGWnbFK"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Nothing Can Separate Us",
+        "url": "https://open.spotify.com/album/5cWHi1MR4DWBFiM1rgrwSz"
+      },
+      "artists": [
+        {
+          "name": "Divine Vibes",
+          "url": "https://open.spotify.com/artist/1kFqhDKe9gxlRWrrgZxtt7"
+        },
+        {
+          "name": "Bervmen",
+          "url": "https://open.spotify.com/artist/1qOKeEcAge0VWbmh1MDlBP"
+        }
+      ],
+      "duration_ms": 198460,
+      "name": "Nothing Can Separate Us",
+      "url": "https://open.spotify.com/track/5XgJNkeYDX999GC2S5flBY"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "ANOTHER WAY (26th Junction Remix)",
         "url": "https://open.spotify.com/album/3YN1YjzsFHqSHaaNnCy9rz"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 157888,
       "name": "ANOTHER WAY - 26th Junction Remix",
       "url": "https://open.spotify.com/track/02viqOQ3MaOKTyaHRcjHBA"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Perfect Duet",
-        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
-      },
-      "artists": [
-        {
-          "name": "LZ7",
-          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
-        },
-        {
-          "name": "Gracie",
-          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
-        }
-      ],
-      "duration_ms": 219418,
-      "name": "Perfect Duet",
-      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Everything (Progressive Remix)",
         "url": "https://open.spotify.com/album/4YYYMUckau0xrBQ7Jvgkv3"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 134400,
       "name": "Everything - Progressive Remix",
       "url": "https://open.spotify.com/track/0LYt0oGLWLZTU0OFhmF4V5"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Perfect Duet",
+        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
+      },
+      "artists": [
+        {
+          "name": "LZ7",
+          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
+        },
+        {
+          "name": "Gracie",
+          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
+        }
+      ],
+      "duration_ms": 219418,
+      "name": "Perfect Duet",
+      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
+        "name": "Like Me Better (LJ1 Remix)",
+        "url": "https://open.spotify.com/album/2bGiuJ0zFQBaj7uh8MM1VA"
       },
       "artists": [
         {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+          "name": "Evelyn Cormier",
+          "url": "https://open.spotify.com/artist/6oOuy3kZ9Sk07JEER1C7En"
         }
       ],
-      "duration_ms": 188793,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
+      "duration_ms": 205161,
+      "name": "Like Me Better - LJ1 Remix",
+      "url": "https://open.spotify.com/track/05lsQcHOYFcGXI1Gttj3vu"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Like Me Better (LJ1 Remix)",
-        "url": "https://open.spotify.com/album/2bGiuJ0zFQBaj7uh8MM1VA"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
       },
       "artists": [
         {
-          "name": "Evelyn Cormier",
-          "url": "https://open.spotify.com/artist/6oOuy3kZ9Sk07JEER1C7En"
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        },
+        {
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Like Me Better - LJ1 Remix",
-      "url": "https://open.spotify.com/track/05lsQcHOYFcGXI1Gttj3vu"
+      "duration_ms": 188793,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "S150",
+        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
+      },
+      "artists": [
+        {
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        },
+        {
+          "name": "Lairos",
+          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
+        }
+      ],
+      "duration_ms": 194296,
+      "name": "Correr\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "ELIJAH LEVEL EP",
         "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 243180,
       "name": "Angels - Original Vocal Mix",
       "url": "https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "S150",
-        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
-      },
-      "artists": [
-        {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        },
-        {
-          "name": "Lairos",
-          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
-        }
-      ],
-      "duration_ms": 194296,
-      "name": "Correr\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Reign Jesus (House Remix)",
-        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
-      },
-      "artists": [
-        {
-          "name": "Shekinah Glory Ministry",
-          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
-        },
-        {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
-        }
-      ],
-      "duration_ms": 405691,
-      "name": "Reign Jesus - House Remix",
-      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Better Off (Ok Evan Remix)",
         "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 174720,
       "name": "Better Off (Ok Evan Remix)",
       "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Reign Jesus (House Remix)",
+        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        },
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        }
+      ],
+      "duration_ms": 405691,
+      "name": "Reign Jesus - House Remix",
+      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
     },
     {
       "added_at": "2026-10-30 04:00:37",

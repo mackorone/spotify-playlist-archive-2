@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Benjamin Dube
 
-277 songs - 1 day 6 hr 21 min
+279 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Imvuselelo](https://open.spotify.com/track/6vmZvINU62URwde6DM1apO) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Therapy: The Other Side \(Deluxe\)](https://open.spotify.com/album/3zHTehJ25hIpjN6fl5yjbF) | 6:22 | 2026-10-16 |  |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 | 2025-08-06 |
 | [Inceba \- Live](https://open.spotify.com/track/0gY3XhFFRVJpNbd4z0J7wa) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Kept by Grace \(Live\)](https://open.spotify.com/album/1B6aBvOv8EE3oXhj5CpTqX) | 8:21 | 2024-11-16 |  |
+| [iNkosi Yinhle Futhi Ilungile](https://open.spotify.com/track/6oDmWhaSLEe3kdgdwD5hI0) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [The Restoration: iNkosi Yinhle Futhi Ilungile](https://open.spotify.com/album/3wcglw5PxVmpNwDRLBbiV4) | 5:21 | 2026-11-06 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2024-10-11 | 2026-09-04 |
 | [Intliziyo](https://open.spotify.com/track/0ZEDp3TQtDvQ28t5DKNTwa) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Manyan\-nyan](https://open.spotify.com/album/4cLXQxAwec5h5NlekHWxxZ) | 5:47 | 2025-08-01 | 2025-08-06 |
 | [Intro \(Mudzimu Uyavhuya\) \[feat\. Lebo Sekgobela\]](https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Miracle Child](https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V) | 6:14 | 2024-10-04 | 2025-04-20 |
@@ -268,6 +269,7 @@
 | [Wash'Umlilo](https://open.spotify.com/track/1cpEKqRRI4O7U5tQyS1DeC) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 6:15 | 2025-08-01 | 2025-08-06 |
 | [Wayekhona](https://open.spotify.com/track/68V1UG1Jx42cflLoTQ7eAD) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wayekhona](https://open.spotify.com/album/1N6h6jtN6arTTFihVnQofV) | 4:00 | 2025-11-07 | 2026-02-14 |
 | [We Need Revival \(Medley\) \[Live\]](https://open.spotify.com/track/1Ry5TY3JvJXodMzupCdMuV) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [We Need Revival \(Medley\) \[Live\]](https://open.spotify.com/album/6dOtsPFsoEgXpdbNqaIYKW) | 15:00 | 2025-08-01 | 2025-08-06 |
+| [We Worship You \- Live](https://open.spotify.com/track/3Q3k5ttc0uBXEFjELdjPUQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [We Worship You \(Live\)](https://open.spotify.com/album/38SX4K8l81X2H4aiu6RBqN) | 9:59 | 2026-11-06 |  |
 | [WEMBHTHE](https://open.spotify.com/track/4t8zkYbesoYNLv6b94Lkuh) | [Umlazi Gospel Choir The Original](https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02) | [BANDLA LAKITHI](https://open.spotify.com/album/7esumreMtD9vadIsdRF7bf) | 5:44 | 2026-02-20 | 2026-03-27 |
 | [Wenzile \- Live](https://open.spotify.com/track/2wQEpdV8eh06s1H5OSGhLv) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 22: All For You \(Live\)](https://open.spotify.com/album/1V8rJMpD0XtsBBCgAC4uU3) | 8:38 | 2024-10-11 |  |
 | [Wubani O zo Pepeza](https://open.spotify.com/track/13Upyibdp5rgnRkG8Jbsoy) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Wubani O zo Pepeza](https://open.spotify.com/album/01XauFW5LraNVO4CP2BoNm) | 4:50 | 2024-10-15 | 2024-11-15 |

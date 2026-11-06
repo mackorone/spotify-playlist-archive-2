@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Michael Kaneko
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,089 likes - 99 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,104 likes - 99 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

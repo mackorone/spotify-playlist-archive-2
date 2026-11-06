@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 198797,
+  "num_followers": 198822,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADYcZ/IIvqPOz3ujDFmf4sK",
+  "snapshot_id": "aukkAAAAAABptFGQvHKJz8CWo4B+rFcz",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
       "artists": [
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
+      "duration_ms": 185533,
+      "name": "Hay Una Luz Dentro De Ti",
+      "url": "https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK"
     },
     {
       "added_at": null,
@@ -283,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
       "artists": [
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Hay Una Luz Dentro De Ti",
-      "url": "https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK"
+      "duration_ms": 191866,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucho M\u00e1s Que Ayer",
-        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Mucho M\u00e1s Que Ayer",
-      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
+      "duration_ms": 142253,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
+        "name": "Mucho M\u00e1s Que Ayer",
+        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 142253,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f"
+      "duration_ms": 222400,
+      "name": "Mucho M\u00e1s Que Ayer",
+      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Serpiente",
+      "url": "https://open.spotify.com/track/03BmpPex7wowkAhdPgFEeG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Este Momento",
         "url": "https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 206778,
       "name": "Este Momento",
       "url": "https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Serpiente",
-      "url": "https://open.spotify.com/track/03BmpPex7wowkAhdPgFEeG"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 199933,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/5tU9ASFW06aP69DNB5ewP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "added_at": null,
@@ -866,11 +866,15 @@
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         }
       ],
-      "duration_ms": 141626,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
+      "duration_ms": 158066,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0CJda26IErl5WHolNeXiW7"
     }
   ],
   "unique_name": "This Is Manuel Medrano",

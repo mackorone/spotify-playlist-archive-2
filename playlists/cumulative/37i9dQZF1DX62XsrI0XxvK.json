@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Kaleb J",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Teddy Adhitya",
   "name": "JIVVA",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202314,
       "name": "Ada",
       "url": "https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 171500,
       "name": "fokusku kedelay",
       "url": "https://open.spotify.com/track/0I9XRB2ibh4uijHSk7IgyF"
@@ -1726,6 +1726,24 @@
       "duration_ms": 228932,
       "name": "FORE 5",
       "url": "https://open.spotify.com/track/64WxX6FZICVtrFEV487lbR"
+    },
+    {
+      "album": {
+        "name": "Tanda Cinta",
+        "url": "https://open.spotify.com/album/71ofL0fZ0GGGovQlvJYFGO"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222597,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/7yfQ8eVnOio6Y14LdIW35Q"
     },
     {
       "album": {
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192126,
       "name": "Harap Dan Ragu",
       "url": "https://open.spotify.com/track/2FBPuxsygz2z5ZWOPe66Le"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 283714,
       "name": "Kau Yang Ku Tunggu",
       "url": "https://open.spotify.com/track/3cfcNcSHFCocpMJuKaKBIy"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 233333,
       "name": "Kubuka Pintu",
       "url": "https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm"
@@ -3649,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Nona Centil",
+        "url": "https://open.spotify.com/album/7wbubXfe4ZMVuwlU4Y7IeH"
+      },
+      "artists": [
+        {
+          "name": "Glenn Samuel",
+          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228223,
+      "name": "Nona Centil",
+      "url": "https://open.spotify.com/track/7JD4Y7Wmga9BhkVKVKoWru"
+    },
+    {
+      "album": {
         "name": "Nona Manise",
         "url": "https://open.spotify.com/album/5wYPstAbsv2TXDl3UgZe2K"
       },
@@ -3964,6 +4000,24 @@
       "duration_ms": 235920,
       "name": "Pesona",
       "url": "https://open.spotify.com/track/37cZnP06JGqD2jK01JQyfe"
+    },
+    {
+      "album": {
+        "name": "Pesona Rahasia",
+        "url": "https://open.spotify.com/album/4fgeQlMD0UMLKQya68HJDV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Pesona Rahasia",
+      "url": "https://open.spotify.com/track/7lRTISHzDAvEuYZct1NKL5"
     },
     {
       "album": {
@@ -4346,8 +4400,8 @@
           "url": "https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR"
         },
         {
-          "name": "NADI",
-          "url": "https://open.spotify.com/artist/3lDdNlDuMRyFbCTWplIrOq"
+          "name": "Nadi",
+          "url": "https://open.spotify.com/artist/1JIXRkf7WdKTG6185OjfHJ"
         }
       ],
       "date_added": "2026-10-09",
@@ -4654,6 +4708,24 @@
       "duration_ms": 231325,
       "name": "Senyam-Senyum",
       "url": "https://open.spotify.com/track/0fLY6LDkqU8UsryD54gFnV"
+    },
+    {
+      "album": {
+        "name": "Sesakit Itu",
+        "url": "https://open.spotify.com/album/09d2PCROaKhQFFPwu4klEk"
+      },
+      "artists": [
+        {
+          "name": "KELJO",
+          "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222260,
+      "name": "Sesakit Itu",
+      "url": "https://open.spotify.com/track/0jeAbhHtQkwKbVT7I2PZ2G"
     },
     {
       "album": {
@@ -5536,7 +5608,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218000,
       "name": "Tunggu Aku",
       "url": "https://open.spotify.com/track/0jCDcmdQ4IjqLNH8qv9x5U"

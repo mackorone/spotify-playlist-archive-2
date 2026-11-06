@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,348 songs - 3 day 11 hr 14 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,350 songs - 3 day 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,7 +302,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 292 | [Drips on a Wire](https://open.spotify.com/track/2yqfvgPuKuPbCm2y1rJr0X) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:09 |
 | 293 | [2015](https://open.spotify.com/track/42oBtzPU4fA5Vtfw2Xilgf) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:01 |
 | 294 | [From 2 to 3](https://open.spotify.com/track/2BXKIOSiQb4FqPmhb05mWw) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:44 |
-| 295 | [weak when ur around](https://open.spotify.com/track/3UWkbO4emEOu9YUeOGq3vU) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 2:49 |
+| 295 | [weak when ur around](https://open.spotify.com/track/3UWkbO4emEOu9YUeOGq3vU) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 2:49 |
 | 296 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 |
 | 297 | [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 |
 | 298 | [Cemetery Drive](https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:08 |
@@ -382,7 +382,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 372 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 |
 | 373 | [The Sharpest Lives](https://open.spotify.com/track/2kMjk14RmYyYhhSbipoa9U) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:20 |
 | 374 | [I Don't Love You](https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:58 |
-| 375 | [deadroses](https://open.spotify.com/track/3cuW0sgJND4ZkdN1m7m7Gg) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 3:04 |
+| 375 | [deadroses](https://open.spotify.com/track/3cuW0sgJND4ZkdN1m7m7Gg) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 3:04 |
 | 376 | [Nothing's Ever Gonna Be Good Enough \- Acoustic Version](https://open.spotify.com/track/7lsLfmXAPGsagJ8VBu3lxY) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Nothing's Ever Gonna Be Good Enough \(Acoustic Version\)](https://open.spotify.com/album/17NaICM9pSfhztgEto3ljj) | 2:54 |
 | 377 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 | 378 | [Knee Socks](https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:17 |
@@ -1356,5 +1356,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1346 | [ice the bruise](https://open.spotify.com/track/4NoF85jfketuY00NXa5Mro) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 2:55 |
 | 1347 | [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 |
 | 1348 | [traitoR](https://open.spotify.com/track/3EQ6LTNoHOGIWVJjAGkLyD) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 4:48 |
+| 1349 | [Penelope](https://open.spotify.com/track/2DRHi6w6vTAlH7pxmlx5WI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 2:54 |
+| 1350 | [The Colosseum \(feat\. Mustafa\)](https://open.spotify.com/track/24FP7CozXv36q27fzHKTYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 2:58 |
 
-Snapshot ID: `AAAKOII/5RTCHSyQWXiwx0Bh+CoeV9Ju`
+Snapshot ID: `AAAKOl4hMjVNO6zQqqfUnSUATXBCB6ni`

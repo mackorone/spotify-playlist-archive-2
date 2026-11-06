@@ -2,9 +2,9 @@
 
 ### [Latin House](https://open.spotify.com/playlist/37i9dQZF1DXcAPgsGLgd43)
 
-> The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
+> The pulse of Latin House 🌀 featuring Andruss & Juos
 
-589 songs - 1 day 7 hr 24 min
+590 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Chimba](https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB) | [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [BIG KAPOH](https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8) | [Chimba](https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp) | 3:27 | 2026-01-14 |  |
 | [Ciempiés](https://open.spotify.com/track/7J9xvKV5Pbbnkf3YUDFIDD) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [LATIN HOUSE GANG](https://open.spotify.com/artist/7L2xCq0Mc82JvdEYFydl9H) | [Ciempiés](https://open.spotify.com/album/64lEVztoenFon4IPHRR4Pp) | 2:53 | 2026-03-20 | 2026-05-09 |
 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 | 2023-11-10 | 2025-03-08 |
-| [Claro](https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [Claro](https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA) | 2:39 | 2026-03-27 |  |
+| [Claro](https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [Claro](https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA) | 2:39 | 2026-03-27 | 2026-11-06 |
 | [Claro](https://open.spotify.com/track/4KnVflzNO186OAqsc3AbLn) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [De Qualite](https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu) | [Claro](https://open.spotify.com/album/2l44I0N3YeYrsIGzPx1C5Q) | 2:38 | 2024-01-26 | 2024-06-01 |
 | [Coco Loco](https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Tekkman](https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm) | [Coco Loco](https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis) | 2:36 | 2025-10-10 | 2026-03-28 |
 | [Coge El Paso](https://open.spotify.com/track/7IUGkB1cmE78vv9wlYtfER) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DERON](https://open.spotify.com/artist/7F8pPpfBuhZJF1F622KD5J), [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8) | [Coge El Paso](https://open.spotify.com/album/4okzussR5U0O0WqBM50BIH) | 2:28 | 2025-03-07 | 2025-06-07 |
@@ -401,6 +401,7 @@
 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 | 2021-12-03 | 2023-11-11 |
 | [Oye Manita](https://open.spotify.com/track/2TdF6zvbYsehxKHh7hgkn9) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Haxhia](https://open.spotify.com/artist/0pRaEEq4Vd95gC39v8Pg27) | [Oye Manita](https://open.spotify.com/album/1c7WyeBcYxMaSBwz4isThL) | 2:11 | 2026-05-15 | 2026-07-11 |
 | [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Bautista](https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 | 2023-11-10 | 2025-01-11 |
+| [Pa' La Calle \(Dale\)](https://open.spotify.com/track/2yXPHUvKAa1F4kg9QYWXWO) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Pa' La Calle \(Dale\)](https://open.spotify.com/album/6zJImVNmQcPH9Zvim8AbKq) | 2:40 | 2026-11-06 |  |
 | [PACHAMAMA](https://open.spotify.com/track/3p576qISnAn3OnqfS9AsrI) | [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0), [Nick Duque](https://open.spotify.com/artist/0vzAelcfyQ5eep2iVZBFQm) | [PACHAMAMA](https://open.spotify.com/album/3w2kvZ6buzIzWUQHu74fQV) | 3:20 | 2024-06-21 | 2024-08-24 |
 | [Pachuco](https://open.spotify.com/track/7AOTRIjLg70ALz46yeWk2h) | [Broz](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0) | [Pachuco](https://open.spotify.com/album/7gnCSYZGh8zZOzy5qCINDh) | 2:03 | 2025-06-13 | 2026-03-14 |
 | [Palma Da Mao](https://open.spotify.com/track/640VxwbcxFTspknfTVKDst) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [Palma Da Mao](https://open.spotify.com/album/3ht5Rn336mOmlAeULPqPsN) | 2:53 | 2025-05-16 | 2026-09-05 |

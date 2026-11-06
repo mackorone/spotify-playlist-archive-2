@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Ni\u00f1os Del Cerro en portada.",
+  "description": "Anttonias en portada.",
   "name": "alt/chile",
   "tracks": [
     {
@@ -4736,6 +4736,24 @@
       "duration_ms": 200715,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 tan rom\u00e1ntica ser\u00e1 la muerte?",
+        "url": "https://open.spotify.com/album/4NDUtUv69zoHBJ4iusBzzD"
+      },
+      "artists": [
+        {
+          "name": "Anttonias",
+          "url": "https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217169,
+      "name": "Honestidad",
+      "url": "https://open.spotify.com/track/1Kujat540VXHBRX2vT7vlB"
     },
     {
       "album": {

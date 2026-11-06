@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Luna Elle from Mississauga, ON.",
+  "description": "Your guide to R&B in Canada, with Jessie Reyez from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -484,6 +484,28 @@
       "duration_ms": 244000,
       "name": "4 Letter Word",
       "url": "https://open.spotify.com/track/1us5FXqtcrJUAaIINwMOhs"
+    },
+    {
+      "album": {
+        "name": "cherrytapes, Vol. 1",
+        "url": "https://open.spotify.com/album/5EjpV3LKJdIK9n5cTWOWBD"
+      },
+      "artists": [
+        {
+          "name": "Cherrykim",
+          "url": "https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l"
+        },
+        {
+          "name": "TAKES A VILLAGE",
+          "url": "https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285405,
+      "name": "405",
+      "url": "https://open.spotify.com/track/2vIPNCjH3Mr9GYSj3Hq5kE"
     },
     {
       "album": {
@@ -3172,7 +3194,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 193080,
       "name": "BELONG (I Thank God)",
       "url": "https://open.spotify.com/track/007eHIrjbJ5sRQOGsWxZxy"
@@ -3574,6 +3596,28 @@
       "duration_ms": 200441,
       "name": "Big Mistake",
       "url": "https://open.spotify.com/track/043bwUOxMoxTIPvjkvHAwS"
+    },
+    {
+      "album": {
+        "name": "U, Me & My Ego (Deluxe)",
+        "url": "https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ"
     },
     {
       "album": {
@@ -8522,7 +8566,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 193373,
       "name": "DUSTY (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
@@ -8776,6 +8820,24 @@
       "duration_ms": 227684,
       "name": "En deux mots",
       "url": "https://open.spotify.com/track/1qB60w534lMjIHtih7n6CV"
+    },
+    {
+      "album": {
+        "name": "NOIIR&B: Deux",
+        "url": "https://open.spotify.com/album/4nLgfm4lAdB1JyPTOVbQvF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noiir",
+          "url": "https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "end w/ u",
+      "url": "https://open.spotify.com/track/1OrOopXSctWnpVwQVfEHf1"
     },
     {
       "album": {
@@ -11353,6 +11415,24 @@
     },
     {
       "album": {
+        "name": "A LITTLE VENGEANCE (is more human than no vengeance at all)",
+        "url": "https://open.spotify.com/album/3finUPTcL6mUIReFK2TxA8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170020,
+      "name": "GO 2 WAR",
+      "url": "https://open.spotify.com/track/4MOPyeRAt2S2VobQjA47f3"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -11806,7 +11886,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150201,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
@@ -16520,7 +16600,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 201000,
       "name": "LET ME GO",
       "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
@@ -19333,6 +19413,24 @@
     },
     {
       "album": {
+        "name": "Sensitive Baddie",
+        "url": "https://open.spotify.com/album/2AiMumUD6ZAQv6aVMjosly"
+      },
+      "artists": [
+        {
+          "name": "G\u00e4elle",
+          "url": "https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164134,
+      "name": "move",
+      "url": "https://open.spotify.com/track/2FRMNjtg4cwKyMafdHl6uY"
+    },
+    {
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
       },
@@ -19434,7 +19532,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 90124,
       "name": "Moving Different",
       "url": "https://open.spotify.com/track/4qtMEo7RTuYKbrHI4g4dbP"
@@ -21223,6 +21321,24 @@
     },
     {
       "album": {
+        "name": "Summer's Over Vol. 1. The Fall",
+        "url": "https://open.spotify.com/album/1GH3wsRyd52q5Fxa54mmBj"
+      },
+      "artists": [
+        {
+          "name": "Quincy Isaiah",
+          "url": "https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Off Lately",
+      "url": "https://open.spotify.com/track/409vjn5xXkgdTwNFFXcuG9"
+    },
+    {
+      "album": {
         "name": "Off The Edge",
         "url": "https://open.spotify.com/album/5o7L4vWaMRwpAaqivA8YoU"
       },
@@ -21644,7 +21760,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 172268,
       "name": "ON THE ROCKS",
       "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
@@ -21684,7 +21800,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142608,
       "name": "on track",
       "url": "https://open.spotify.com/track/48nR9SnsbxUFA3pnrg3JuI"
@@ -22996,7 +23112,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 359500,
       "name": "PEARLS & PLUMS",
       "url": "https://open.spotify.com/track/1uXRu2YJVs5t6Gd3nGetD3"
@@ -24492,6 +24608,28 @@
       "duration_ms": 216293,
       "name": "Reasons To Stay",
       "url": "https://open.spotify.com/track/1wcjZRnXu86UIWh0tPY5xd"
+    },
+    {
+      "album": {
+        "name": "Receipts",
+        "url": "https://open.spotify.com/album/7ykYjFty4BGs2rMzNYmeBB"
+      },
+      "artists": [
+        {
+          "name": "Maya Killtron",
+          "url": "https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2"
+        },
+        {
+          "name": "Aquakultre",
+          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239758,
+      "name": "Receipts",
+      "url": "https://open.spotify.com/track/6qOUT3WReNzcjwB1uLgAAK"
     },
     {
       "album": {
@@ -26548,7 +26686,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 173026,
       "name": "Shallow Waters",
       "url": "https://open.spotify.com/track/11fachBOe6xytRlYNV0V67"
@@ -26812,6 +26950,24 @@
       "duration_ms": 127058,
       "name": "SHOW ME LOVE (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo"
+    },
+    {
+      "album": {
+        "name": "Show Me Show Me",
+        "url": "https://open.spotify.com/album/2qzFh3IHOuRGvp1jQ4oqlc"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207462,
+      "name": "Show Me Show Me",
+      "url": "https://open.spotify.com/track/7LJjwNg329JMrzDI4Z1uAj"
     },
     {
       "album": {
@@ -27582,7 +27738,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 271699,
       "name": "SO NICE",
       "url": "https://open.spotify.com/track/3cQrfgbFE3Zvk7bkFzKAAw"
@@ -30689,6 +30845,24 @@
     },
     {
       "album": {
+        "name": "MISS UNDERSTOOD",
+        "url": "https://open.spotify.com/album/15qL3Bv2NqMY6yaNn5PGnu"
+      },
+      "artists": [
+        {
+          "name": "AHSIA",
+          "url": "https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115800,
+      "name": "the in between (interlude)",
+      "url": "https://open.spotify.com/track/7qXt7t4LsJSf5Yh2u73QUW"
+    },
+    {
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1"
       },
@@ -31858,6 +32032,24 @@
       "duration_ms": 140068,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP"
+    },
+    {
+      "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL (DELUXE)",
+        "url": "https://open.spotify.com/album/6qVzB5GJrWScu2kZUkfVwn"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222697,
+      "name": "TRAIL OF BROKEN HEARTS",
+      "url": "https://open.spotify.com/track/7FOOCtzEzy31Z6JJpdeW7O"
     },
     {
       "album": {

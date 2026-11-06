@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Marina Sena, Baco Exu do Blues",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "A \u00daltima Noite - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GE1K8tRqjmujrVa2O6lAp"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578878,
+      "name": "A \u00daltima Noite - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tTqvfNm8KKU40bPjqXKwJ"
+    },
+    {
+      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -462,6 +480,24 @@
       "duration_ms": 144175,
       "name": "Ai Que Calor",
       "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
+    },
+    {
+      "album": {
+        "name": "Ainda Te Amo - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45IDAO27kgg0V6q4ysOdN0"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441699,
+      "name": "Ainda Te Amo - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Xj5rryATpPuq7InaCrmrJ"
     },
     {
       "album": {
@@ -1124,7 +1160,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 177130,
       "name": "BABY",
       "url": "https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO"
@@ -5772,7 +5808,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150618,
       "name": "Melhor Amiga do Tempo (com Maru2D)",
       "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
@@ -6162,6 +6198,28 @@
       "duration_ms": 130434,
       "name": "Mole",
       "url": "https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/7CGVeBieYqzryYS7HIUwQB"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269600,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/69lnNVsVKJs3yrfv06UZtI"
     },
     {
       "album": {
@@ -6996,6 +7054,36 @@
       "duration_ms": 151606,
       "name": "O Caf\u00e9 Num Esfriou",
       "url": "https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL"
+    },
+    {
+      "album": {
+        "name": "O CH\u00c1 (SABOR DANCEHALL)",
+        "url": "https://open.spotify.com/album/0eZomnECQIgYwReD3RI0dd"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        },
+        {
+          "name": "Morello",
+          "url": "https://open.spotify.com/artist/3jN7rWlaFiav4uc7e1BmYR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "O CH\u00c1 (SABOR DANCEHALL)",
+      "url": "https://open.spotify.com/track/2mt9kakvo6mV8iqwZStoRd"
     },
     {
       "album": {
@@ -9718,7 +9806,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182750,
       "name": "Solo T\u00fa y Yo - Ao Vivo",
       "url": "https://open.spotify.com/track/0zMfZA6AyRkTMhzUcq8v6Q"

@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 79339,
+  "num_followers": 79359,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAB3lc+B+l9qhUhPLI+3HaE7",
+  "snapshot_id": "aukkAAAAAACjZYpAyOwMwNFJaSOtTjJ7",
   "tracks": [
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+        "name": "Tical 2000: Judgement Day",
+        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
       },
       "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 355320,
-      "name": "Betray My Heart",
-      "url": "https://open.spotify.com/track/3RXr49TkL3wYHB7JJTnyn5"
+      "duration_ms": 233933,
+      "name": "Break Ups 2 Make Ups",
+      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
     },
     {
       "added_at": null,
@@ -307,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tical 2000: Judgement Day",
-        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
       "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 233933,
-      "name": "Break Ups 2 Make Ups",
-      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
+      "duration_ms": 355320,
+      "name": "Betray My Heart",
+      "url": "https://open.spotify.com/track/3RXr49TkL3wYHB7JJTnyn5"
     },
     {
       "added_at": null,

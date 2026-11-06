@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: HARDY",
+  "description": "Break them in, wear them out. Cover: Mack Geiger",
   "name": "New Boots",
   "tracks": [
     {
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 214814,
       "name": "Ain't Lying To Myself",
       "url": "https://open.spotify.com/track/2U42y9QMsrLVtZ7ezgeVXR"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 225588,
       "name": "Audrey",
       "url": "https://open.spotify.com/track/5y3XP454ZRLBPVexyMzPBw"
@@ -5152,7 +5152,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 226108,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/6XErs5DE9VHzlNBng2mdVr"
@@ -5639,6 +5639,24 @@
     },
     {
       "album": {
+        "name": "Blue Bayou",
+        "url": "https://open.spotify.com/album/3SBdUPAKbNZ30WpHsAekFX"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197621,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/19aThwvapI5lEEWO0FICXE"
+    },
+    {
+      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/5gZP9GdBmQljja486HZYa0"
       },
@@ -5986,7 +6004,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 198253,
       "name": "Born and Raised Hell (Feat. Cody Johnson) - EDIT",
       "url": "https://open.spotify.com/track/62HZVrw8exZifnARvHEpAt"
@@ -14032,7 +14050,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210232,
       "name": "Drive Me Around",
       "url": "https://open.spotify.com/track/0t6JMQfTLRWsXBntk62zDd"
@@ -14368,6 +14386,24 @@
       "duration_ms": 174473,
       "name": "Dyin' Flame",
       "url": "https://open.spotify.com/track/1DNG22ZpedEFqCkJoj4Ibs"
+    },
+    {
+      "album": {
+        "name": "Dying In This House",
+        "url": "https://open.spotify.com/album/2RnDoWbeBUohjqVR8CZzQw"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247480,
+      "name": "Dying In This House",
+      "url": "https://open.spotify.com/track/3K33BYes6bVzZAsCiavBVT"
     },
     {
       "album": {
@@ -14778,7 +14814,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194230,
       "name": "Escatawpa Hollow",
       "url": "https://open.spotify.com/track/3VoSdvNjnaI8ctALtv0joL"
@@ -19161,6 +19197,24 @@
     },
     {
       "album": {
+        "name": "Gone Fishing",
+        "url": "https://open.spotify.com/album/2kQtpnDA8xZjXKs4A8864Q"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "Gone Fishing",
+      "url": "https://open.spotify.com/track/18eNC45EfsWS78gqCEUxVi"
+    },
+    {
+      "album": {
         "name": "Gone Like That",
         "url": "https://open.spotify.com/album/0rr3yUAKUZ6QkN2b0EYNsg"
       },
@@ -19414,6 +19468,24 @@
       "duration_ms": 165699,
       "name": "Good Die Young",
       "url": "https://open.spotify.com/track/4HCe2Bw3ApLwGQ28rb2yEi"
+    },
+    {
+      "album": {
+        "name": "Outlier",
+        "url": "https://open.spotify.com/album/79zGm562qzMTvoxJtoHRn5"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224601,
+      "name": "Good Faith",
+      "url": "https://open.spotify.com/track/57QLRAvrHOIkoU8yAU5WnZ"
     },
     {
       "album": {
@@ -24736,7 +24808,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 221429,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/2mAg9WpZyXO0F6zMdL1MiC"
@@ -28294,7 +28366,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 174286,
       "name": "In This Boat",
       "url": "https://open.spotify.com/track/6IxUtFAuPbPWuTwTv3H8oH"
@@ -30290,6 +30362,24 @@
       "duration_ms": 199507,
       "name": "Leave It Alone",
       "url": "https://open.spotify.com/track/6TX8mxag15va36jeDlg70s"
+    },
+    {
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/1wULfWbrYlOLTNf9DJQuji"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213399,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/1wroyCSejeHUoCo4QtXqs0"
     },
     {
       "album": {
@@ -32725,6 +32815,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262401,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
+    },
+    {
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -33328,6 +33436,24 @@
       "duration_ms": 252733,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy"
+    },
+    {
+      "album": {
+        "name": "Drive Me Around",
+        "url": "https://open.spotify.com/album/69qDkGbaJxnvHgcgghY5KJ"
+      },
+      "artists": [
+        {
+          "name": "Maddie Font",
+          "url": "https://open.spotify.com/artist/15ZhybxXDhvrIFloE2oFLx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166255,
+      "name": "Make It Up To Me",
+      "url": "https://open.spotify.com/track/4IOaw8H2IAmzOS35yoAfiX"
     },
     {
       "album": {
@@ -38509,6 +38635,24 @@
     },
     {
       "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/0o5QXB6ERxxTMAD2ertsi2"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202819,
+      "name": "Nowhere Bound",
+      "url": "https://open.spotify.com/track/0WvGHCpwn8nqHYJK7kzG8z"
+    },
+    {
+      "album": {
         "name": "Number in My Phone",
         "url": "https://open.spotify.com/album/7qXHAsZXXsI2TQj4iv7teb"
       },
@@ -41150,6 +41294,24 @@
       "duration_ms": 151670,
       "name": "Platonic",
       "url": "https://open.spotify.com/track/4qbfKWLMnYXdhhQ8Q3uRXn"
+    },
+    {
+      "album": {
+        "name": "Playin It Cool",
+        "url": "https://open.spotify.com/album/0MP4msEVMyuEjiHgyc4PvC"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169826,
+      "name": "Playin It Cool",
+      "url": "https://open.spotify.com/track/5nq38CwAntBAffMWgRQztp"
     },
     {
       "album": {
@@ -45198,6 +45360,24 @@
       "duration_ms": 185562,
       "name": "Shooting Star (with Restless Road)",
       "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
+    },
+    {
+      "album": {
+        "name": "Dylan Marlowe",
+        "url": "https://open.spotify.com/album/1F0mesEH5vtp1x0AVobXH0"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192518,
+      "name": "Shotgun Seat",
+      "url": "https://open.spotify.com/track/1720JYpe0qFATCIiVDa4NP"
     },
     {
       "album": {
@@ -51806,7 +51986,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 175088,
       "name": "The Ringer",
       "url": "https://open.spotify.com/track/4oeWr1xwXLLDx3sWvyeewp"
@@ -52346,7 +52526,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194892,
       "name": "Thin Ice",
       "url": "https://open.spotify.com/track/1M7DTAw3hcEF8jftCzr0DC"
@@ -58870,7 +59050,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 283723,
       "name": "Wilson Silverstar 402 Blues",
       "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"

@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407105,
+  "num_followers": 407111,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 236737,
       "name": "Alexander Hamilton",
       "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 194848,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -755,42 +755,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Eva Noblezada",
-          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
-        },
-        {
-          "name": "Jewelle Blackman",
-          "url": "https://open.spotify.com/artist/4TBsKdA7190eaHM5E2HQI9"
-        },
-        {
-          "name": "Yvette Gonzalez-Nacer",
-          "url": "https://open.spotify.com/artist/5wUluB4hpO7rTnPSUCqJNT"
-        },
-        {
-          "name": "Kay Trinidad",
-          "url": "https://open.spotify.com/artist/7yWvIWQVF6Cfj5YTsrHIin"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        },
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        }
-      ],
-      "duration_ms": 225805,
-      "name": "Any Way the Wind Blows",
-      "url": "https://open.spotify.com/track/0HZq47ubBTbuUUPGSueUOh"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -827,6 +791,42 @@
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Eva Noblezada",
+          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
+        },
+        {
+          "name": "Jewelle Blackman",
+          "url": "https://open.spotify.com/artist/4TBsKdA7190eaHM5E2HQI9"
+        },
+        {
+          "name": "Yvette Gonzalez-Nacer",
+          "url": "https://open.spotify.com/artist/5wUluB4hpO7rTnPSUCqJNT"
+        },
+        {
+          "name": "Kay Trinidad",
+          "url": "https://open.spotify.com/artist/7yWvIWQVF6Cfj5YTsrHIin"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        }
+      ],
+      "duration_ms": 225805,
+      "name": "Any Way the Wind Blows",
+      "url": "https://open.spotify.com/track/0HZq47ubBTbuUUPGSueUOh"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -895,34 +895,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Eva Noblezada",
-          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
-        },
-        {
-          "name": "Reeve Carney",
-          "url": "https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        },
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        }
-      ],
-      "duration_ms": 243331,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "RENT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
       },
@@ -963,6 +935,34 @@
       "duration_ms": 182746,
       "name": "Seasons of Love",
       "url": "https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Eva Noblezada",
+          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
+        },
+        {
+          "name": "Reeve Carney",
+          "url": "https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        }
+      ],
+      "duration_ms": 243331,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 231233,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
         "name": "Legally Blonde The Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 346813,
       "name": "Omigod You Guys",
       "url": "https://open.spotify.com/track/2av1BBGdN9DW1u7rvoRhMM"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 231233,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
     },
     {
       "added_at": "2026-07-29 10:41:14",

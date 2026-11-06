@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3957,
+  "num_followers": 3958,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAACQVHVI5jRi8cOVje+yF6+Z",
+  "snapshot_id": "aukkAAAAAAA7qwJQ3cp/3jaZIqqj32yc",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 232055,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/1BIp43EWLRLfxydsnjeMrL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 388777,
       "name": "Pride - Main Mix",
       "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 232055,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/1BIp43EWLRLfxydsnjeMrL"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Revisited",
-        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "A Time To Remember - Remix",
-      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chocolate Puddin'",
         "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 388272,
       "name": "Chocolate Puddin' - FNX Omar Remix",
       "url": "https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Note Revisited",
+        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "A Time To Remember - Remix",
+      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starbase 17",
-        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 375128,
-      "name": "YOUniversal Love",
-      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exit Music - Songs with Radio Heads EP 4",
         "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 398320,
       "name": "Everything in Its Right Place",
       "url": "https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starbase 17",
+        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 375128,
+      "name": "YOUniversal Love",
+      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
     },
     {
       "added_at": null,
@@ -615,6 +615,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 200647,
+      "name": "FLWN",
+      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ache'",
+        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 97141,
+      "name": "Poh's Devotion",
+      "url": "https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
@@ -631,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
       },
       "artists": [
         {
@@ -640,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 200647,
-      "name": "FLWN",
-      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,
@@ -679,34 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+        "name": "Chill Out (Sit Back And Relax)",
+        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ache'",
-        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
-      },
-      "artists": [
+        },
         {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 97141,
-      "name": "Poh's Devotion",
-      "url": "https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC"
+      "duration_ms": 229268,
+      "name": "Envisions - \u00c2me Acoustic Remix",
+      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
     },
     {
       "added_at": null,
@@ -727,26 +747,6 @@
       "duration_ms": 379160,
       "name": "Same Thing - Vocal Mix",
       "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out (Sit Back And Relax)",
-        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 229268,
-      "name": "Envisions - \u00c2me Acoustic Remix",
-      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+      "duration_ms": 340792,
+      "name": "Sistagurl",
+      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
       "artists": [
         {
@@ -844,9 +844,25 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquarian Moon",
+        "url": "https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 400480,
+      "name": "Music For The Gods",
+      "url": "https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd"
     },
     {
       "added_at": null,
@@ -895,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquarian Moon",
-        "url": "https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy"
+        "name": "Ache'",
+        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
       },
       "artists": [
         {
@@ -904,29 +920,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 400480,
-      "name": "Music For The Gods",
-      "url": "https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tbt3 (Osunlade Remix)",
-        "url": "https://open.spotify.com/album/0SqpD1eHDWweAg6Y7vrF79"
-      },
-      "artists": [
-        {
-          "name": "Rocco Rodamaal",
-          "url": "https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 373024,
-      "name": "Tbt3 - Osunlade Remix",
-      "url": "https://open.spotify.com/track/1F30llzy5fYkhFo28fDfDb"
+      "duration_ms": 281604,
+      "name": "Comin' Around",
+      "url": "https://open.spotify.com/track/2TLAATjDGstuELmuUKnfoW"
     }
   ],
   "unique_name": "This Is Osunlade",

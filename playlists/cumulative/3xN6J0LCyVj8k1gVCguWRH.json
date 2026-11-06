@@ -9033,6 +9033,24 @@
     },
     {
       "album": {
+        "name": "Back to the Country (Side A)",
+        "url": "https://open.spotify.com/album/40eDIXf0rY1S960Bf87Dvz"
+      },
+      "artists": [
+        {
+          "name": "Catt McCreary",
+          "url": "https://open.spotify.com/artist/3kazNNxWucsWpONl39pc8H"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169283,
+      "name": "Back to the Country",
+      "url": "https://open.spotify.com/track/3Y9booTNB3UsndGTJmajwo"
+    },
+    {
+      "album": {
         "name": "Back to U",
         "url": "https://open.spotify.com/album/1HxygMphg2XS1bMv6j2AO7"
       },
@@ -22298,7 +22316,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 146853,
       "name": "Comparison Ford",
       "url": "https://open.spotify.com/track/0UAiPuL3xVvMbP9LqBOsNx"
@@ -22614,7 +22632,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 172500,
       "name": "Connection",
       "url": "https://open.spotify.com/track/7oEkUm79Yr7LXpda0pzpv9"
@@ -31735,6 +31753,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jala",
+        "url": "https://open.spotify.com/album/4Qfnd4CB4kqVXjeSaj1rTy"
+      },
+      "artists": [
+        {
+          "name": "Making Movies",
+          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
+        },
+        {
+          "name": "Lilo Sanchez",
+          "url": "https://open.spotify.com/artist/1ohlrNR8M2EuGToe0qxt6y"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "D\u00e9jala",
+      "url": "https://open.spotify.com/track/09ybqo2HOs4LOgj2vrnWZ8"
+    },
+    {
+      "album": {
         "name": "D\u00e9tente",
         "url": "https://open.spotify.com/album/0zlMPSiBz0y5OvsoiAvUvK"
       },
@@ -35912,6 +35952,24 @@
       "duration_ms": 184125,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3PyophwfgOqcTcL9ZTmfXk"
+    },
+    {
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/0iHzof4d2U0Wxkg9z87v2Q"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZWALD",
+          "url": "https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/45XZQr4X4IXm0nolTdM8Ab"
     },
     {
       "album": {
@@ -63463,6 +63521,24 @@
     },
     {
       "album": {
+        "name": "Lil bit of me",
+        "url": "https://open.spotify.com/album/1vWSxom5o4zlxDN9XioDab"
+      },
+      "artists": [
+        {
+          "name": "Timothy James",
+          "url": "https://open.spotify.com/artist/6YnUDR9o9w6zj104IQECfg"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210509,
+      "name": "Lil bit of me",
+      "url": "https://open.spotify.com/track/0Fb5FzCzmyKfMU5faN1tHk"
+    },
+    {
+      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -86538,6 +86614,24 @@
       "duration_ms": 226753,
       "name": "Promise U",
       "url": "https://open.spotify.com/track/61HzZXOygQY5qtRgDRlDqO"
+    },
+    {
+      "album": {
+        "name": "Promise Yourself",
+        "url": "https://open.spotify.com/album/3P9ILLHUA6lBjJNp2wtXdr"
+      },
+      "artists": [
+        {
+          "name": "Louise Goffin",
+          "url": "https://open.spotify.com/artist/03sAQYI6xlXSc3bsFU9RCC"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215937,
+      "name": "Promise Yourself",
+      "url": "https://open.spotify.com/track/7K6scboqSPOpAJ5eHIjK4v"
     },
     {
       "album": {

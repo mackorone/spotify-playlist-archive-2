@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 183502,
+  "num_followers": 183504,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "W.O.R.K.S.",
         "url": "https://open.spotify.com/album/5edBDvzGuHBa6PtdhSclis"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 199173,
       "name": "\u9000\u8077\u4ee3\u884c",
       "url": "https://open.spotify.com/track/5RrsQErSWsXL4wwLOPtzwK"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u30a8\u30d6\u30ea\u30fc\u30fb\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/2ZKNURaFGJjGHyKQMDKoi0"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 191032,
-      "name": "\u30a8\u30d6\u30ea\u30fc\u30fb\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/7L9lVzjA38YyzwHkkfnQl5"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "\u30a8\u30d6\u30ea\u30fc\u30fb\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/2ZKNURaFGJjGHyKQMDKoi0"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "\u30a8\u30d6\u30ea\u30fc\u30fb\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7L9lVzjA38YyzwHkkfnQl5"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u5fae\u70ad\u9178",
-        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 180441,
-      "name": "\u5fae\u70ad\u9178",
-      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "RELOADING CITY",
         "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 264360,
       "name": "\u30a2\u30dd\u30ed",
       "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "\u5fae\u70ad\u9178",
+        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 180441,
+      "name": "\u5fae\u70ad\u9178",
+      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
+        "name": "RIDE ON TIME",
+        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
+        }
+      ],
+      "duration_ms": 244752,
+      "name": "RIDE ON TIME",
+      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
         "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
       },
@@ -1135,34 +1151,18 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "We won't last forever",
-        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
+        "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
       },
       "artists": [
         {
-          "name": "lili maua",
-          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
+          "name": "RYUSENKEI",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
         }
       ],
-      "duration_ms": 183862,
-      "name": "We won't last forever",
-      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
-        "name": "RIDE ON TIME",
-        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
-        }
-      ],
-      "duration_ms": 244752,
-      "name": "RIDE ON TIME",
-      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
+      "duration_ms": 125294,
+      "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
+        "name": "We won't last forever",
+        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
       },
       "artists": [
         {
-          "name": "RYUSENKEI",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+          "name": "lili maua",
+          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
         }
       ],
-      "duration_ms": 125294,
-      "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
+      "duration_ms": 183862,
+      "name": "We won't last forever",
+      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u30ab \u30df \u30ca \u30ea",
-        "url": "https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 213164,
-      "name": "\u30ab \u30df \u30ca \u30ea",
-      "url": "https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "cherish",
         "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 279120,
       "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
       "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "\u30ab \u30df \u30ca \u30ea",
+        "url": "https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 213164,
+      "name": "\u30ab \u30df \u30ca \u30ea",
+      "url": "https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 168353,
-      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "\u304a\u306f\u3088\u3046",
         "url": "https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU"
       },
@@ -1371,6 +1355,54 @@
       "duration_ms": 228865,
       "name": "\u304a\u306f\u3088\u3046",
       "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 168353,
+      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1395,38 +1427,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "Fools in the Rain",
         "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
       },
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "sucola",
+          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+      "duration_ms": 225746,
+      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
       },
       "artists": [
         {
-          "name": "sucola",
-          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 225746,
-      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+        "name": "\u771f\u590f\u306e\u77ac\u9593",
+        "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "RYUSENKEI",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
         }
       ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+      "duration_ms": 233596,
+      "name": "\u771f\u590f\u306e\u77ac\u9593",
+      "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1611,22 +1627,6 @@
       "duration_ms": 225680,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
-        "name": "\u771f\u590f\u306e\u77ac\u9593",
-        "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
-      },
-      "artists": [
-        {
-          "name": "RYUSENKEI",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
-        }
-      ],
-      "duration_ms": 233596,
-      "name": "\u771f\u590f\u306e\u77ac\u9593",
-      "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
     },
     {
       "added_at": "2026-10-20 15:00:16",

@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1487805,
+  "num_followers": 1487854,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
+        "name": "In This Bih'",
+        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "In This Bih'",
+      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
         "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
         "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
-        "name": "In This Bih'",
-        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "In This Bih'",
-      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
         "name": "Actin' Tough",
         "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
       },
@@ -555,18 +571,22 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -591,26 +611,6 @@
       "duration_ms": 193846,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "Addicted To Bass (Dom Dolla Relapse)",
-      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
         "name": "POP DAT THANG (David Guetta Mix)",
         "url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "Addicted To Bass (Dom Dolla Relapse)",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 204285,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
-        "name": "Make You Fight",
-        "url": "https://open.spotify.com/album/5mAR9SiDOEYuO4sHZwXBtK"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 175899,
-      "name": "Make You Fight",
-      "url": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1007,6 +987,26 @@
       "duration_ms": 192209,
       "name": "Come To Life",
       "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
+        "name": "Make You Fight",
+        "url": "https://open.spotify.com/album/5mAR9SiDOEYuO4sHZwXBtK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 175899,
+      "name": "Make You Fight",
+      "url": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1851,6 +1851,30 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
+        "name": "Off Your Mind (feat. Last Lights)",
+        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Last Lights",
+          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Off Your Mind (feat. Last Lights)",
+      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
@@ -1879,30 +1903,6 @@
       "duration_ms": 154898,
       "name": "$MONEY",
       "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
-        "name": "Off Your Mind (feat. Last Lights)",
-        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Last Lights",
-          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Off Your Mind (feat. Last Lights)",
-      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
     },
     {
       "added_at": "2026-10-23 04:00:52",

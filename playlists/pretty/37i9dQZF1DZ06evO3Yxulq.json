@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAD83njfM9S3QQqu473nmQUS",
+  "snapshot_id": "aukkAAAAAABi+77QQi5t8/PvCJ+8wCVs",
   "tracks": [
     {
       "added_at": null,
@@ -271,54 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 632006,
-      "name": "Admirable",
-      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 296986,
-      "name": "Fidelidad / Grande Es Tu Fidelidad",
-      "url": "https://open.spotify.com/track/3SGMCcxDGJDOnRJFyCmsrS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 298584,
-      "name": "Aleluya, \u00c9l Viene Ya",
-      "url": "https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lugar Secreto (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV"
       },
@@ -339,6 +291,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 632006,
+      "name": "Admirable",
+      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 298584,
+      "name": "Aleluya, \u00c9l Viene Ya",
+      "url": "https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 296986,
+      "name": "Fidelidad / Grande Es Tu Fidelidad",
+      "url": "https://open.spotify.com/track/3SGMCcxDGJDOnRJFyCmsrS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 326974,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/1mAFnZcwyrQD93RX5jLJBj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 513870,
-      "name": "Dios de Maravillas",
-      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 633065,
       "name": "C\u00f3mo No Voy A Creer",
       "url": "https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 513870,
+      "name": "Dios de Maravillas",
+      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
     },
     {
       "added_at": null,
@@ -579,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
       },
       "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 346071,
-      "name": "Respirar del Cielo",
-      "url": "https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL"
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
       },
       "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 612133,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/5IYKwuRkJ0xiorPxu0PBqV"
+      "duration_ms": 346071,
+      "name": "Respirar del Cielo",
+      "url": "https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
+      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrar\u00e9 (Live)",
         "url": "https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 458993,
-      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
-      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -779,6 +779,26 @@
       "duration_ms": 344549,
       "name": "Me Amaste a M\u00ed",
       "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "duration_ms": 339673,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
     },
     {
       "added_at": null,
@@ -823,26 +843,6 @@
       "duration_ms": 266253,
       "name": "Por la Eternidad",
       "url": "https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 339673,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAK6nNU4giPJJcluvO9RIhDkX0iqoV+",
+  "snapshot_id": "AAAK7ZH3tK/yeUPYUXNE10ubZkXSLRwX",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -9721,7 +9721,7 @@
       "artists": [
         {
           "name": "Trent Kliner",
-          "url": "https://open.spotify.com/artist/1OJS50je1iz1MNiGrLTGoU"
+          "url": "https://open.spotify.com/artist/1uypESHSsP9kgnvUwDjeVa"
         }
       ],
       "duration_ms": 338000,
@@ -89847,6 +89847,54 @@
       "duration_ms": 197848,
       "name": "Sad Song - Single Version",
       "url": "https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ"
+    },
+    {
+      "added_at": "2026-11-05 15:08:08",
+      "album": {
+        "name": "The Underneath",
+        "url": "https://open.spotify.com/album/6lscr1T7sdX5bnaMd4ISs7"
+      },
+      "artists": [
+        {
+          "name": "Evil Creek",
+          "url": "https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM"
+        }
+      ],
+      "duration_ms": 227630,
+      "name": "The Underneath",
+      "url": "https://open.spotify.com/track/28rqafGMpbah0vMGwkOzRi"
+    },
+    {
+      "added_at": "2026-11-05 19:42:07",
+      "album": {
+        "name": "Mene Kiya",
+        "url": "https://open.spotify.com/album/7rX71mVjeu6PNMV1pUumUi"
+      },
+      "artists": [
+        {
+          "name": "Sidharth Arun",
+          "url": "https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Mene Kiya",
+      "url": "https://open.spotify.com/track/6xQqenRH7b2TmiFAKlsrku"
+    },
+    {
+      "added_at": "2026-11-06 01:37:30",
+      "album": {
+        "name": "Raaton Main",
+        "url": "https://open.spotify.com/album/1GaOQrexSJ6KtWMXZGrNWv"
+      },
+      "artists": [
+        {
+          "name": "Sidharth Arun",
+          "url": "https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM"
+        }
+      ],
+      "duration_ms": 162901,
+      "name": "Raaton Main",
+      "url": "https://open.spotify.com/track/7FZNudaYzSslPVo7UQup8w"
     }
   ],
   "unique_name": "playlist spotify free",

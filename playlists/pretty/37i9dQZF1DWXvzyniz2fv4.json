@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157904,
+  "num_followers": 157900,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -431,30 +431,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Brisa Errada",
-        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "DaluzzZ",
-          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "Brisa Errada",
-      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "A Casa \u00c9 Tua",
         "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 198667,
       "name": "A Casa \u00c9 Tua",
       "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Brisa Errada",
+        "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DaluzzZ",
+          "url": "https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "Brisa Errada",
+      "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Tira, Coloca De Volta",
-        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
-        }
-      ],
-      "duration_ms": 144117,
-      "name": "Tira, Coloca De Volta",
-      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "AIRBNB",
         "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 146000,
       "name": "AIRBNB",
       "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Tira, Coloca De Volta",
+        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        }
+      ],
+      "duration_ms": 144117,
+      "name": "Tira, Coloca De Volta",
+      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
     },
     {
       "added_at": "2026-10-19 15:52:42",

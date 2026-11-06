@@ -274,7 +274,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168574,
       "name": "ADRENALINE",
       "url": "https://open.spotify.com/track/47S6IrIjawDVtTTRQ7v5D5"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220781,
       "name": "Around You",
       "url": "https://open.spotify.com/track/6oox0upuGz8JH5XqDShOjS"
@@ -3660,6 +3660,28 @@
     {
       "album": {
         "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0n2Li7uErWOT5Pq4ieeqU3"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "RYOS",
+          "url": "https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176417,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3OhADJ9CKTfEFOTfYBEGMg"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
         "url": "https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F"
       },
       "artists": [
@@ -3806,7 +3828,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 183750,
       "name": "Crossing The Line",
       "url": "https://open.spotify.com/track/4XEadPTujBpAnsgTuLxSOk"
@@ -5473,6 +5495,28 @@
     },
     {
       "album": {
+        "name": "Another Eden",
+        "url": "https://open.spotify.com/album/1YqLq7nb05rncYBumJcCi9"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "Lauren Nicole",
+          "url": "https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215156,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/7kqHv0SGTJSCMQeJeUZrEd"
+    },
+    {
+      "album": {
         "name": "Enjoy the Silence",
         "url": "https://open.spotify.com/album/4BRmWsSzXnjit1n43RxhD8"
       },
@@ -6176,6 +6220,32 @@
       "duration_ms": 200347,
       "name": "Feel Like",
       "url": "https://open.spotify.com/track/06PBQ4rDmHRVfWsszDwLTa"
+    },
+    {
+      "album": {
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/7mB3L3Upfmf3pxZTO5sEkV"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/2ffwFnl1u908rXQ8qBTdIf"
     },
     {
       "album": {
@@ -8518,7 +8588,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 216000,
       "name": "Heavenbound",
       "url": "https://open.spotify.com/track/65TZ3FJKohRKiVp0x42NRQ"
@@ -9666,6 +9736,28 @@
       "duration_ms": 146756,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3UExKPe8Ybd93WHQBc4PlM"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Jerry Davila",
+          "url": "https://open.spotify.com/artist/3t76hexN6ZnQZWhvjhp1Jz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4IsJVbJjscNVm9Vrf9l6et"
     },
     {
       "album": {
@@ -12835,6 +12927,24 @@
     },
     {
       "album": {
+        "name": "Echoes & Returns",
+        "url": "https://open.spotify.com/album/4Pe5vre5ppkysusGLu3KFf"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155156,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/05RmNQgmLqKIJur03jWqJJ"
+    },
+    {
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/0Ntw26ASZDaNWzSY9KcFTt"
       },
@@ -12960,6 +13070,32 @@
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/1HIErToMnLsPxdZkoO8nYm"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "7 SKIES",
+          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/2lqIo3RA26lhBY2DMDSZxG"
     },
     {
       "album": {
@@ -14120,7 +14256,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 215414,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/2C6TqcCfE2T6mgHSQUi5AA"
@@ -16262,7 +16398,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228000,
       "name": "Quicksand (Don't Go) - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/3zTLnTQepJ10LR4stXkAlD"
@@ -16722,6 +16858,36 @@
       "duration_ms": 177142,
       "name": "Relight My Love",
       "url": "https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS"
+    },
+    {
+      "album": {
+        "name": "Reload (swedm\u00ae Remix)",
+        "url": "https://open.spotify.com/album/3S4SOGuORtJXHy45p1Q951"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354375,
+      "name": "Reload - swedm\u00ae Remix",
+      "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
     },
     {
       "album": {
@@ -17436,7 +17602,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 223448,
       "name": "Sandstorm - Dimension Remix",
       "url": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq"
@@ -21458,7 +21624,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 135483,
       "name": "Turn The Tide (ft. Sylver)",
       "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
@@ -23410,7 +23576,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 196190,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"

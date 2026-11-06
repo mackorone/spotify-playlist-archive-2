@@ -5896,7 +5896,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 231988,
       "name": "Sigo En Pie",
       "url": "https://open.spotify.com/track/1Va5ef9mtrDn7wBsAk61gD"
@@ -7420,6 +7420,36 @@
       "duration_ms": 206573,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/7HCZWKJmHITV7Pt5YTQDcL"
+    },
+    {
+      "album": {
+        "name": "YaYa - Spotify Singles",
+        "url": "https://open.spotify.com/album/0wllvtRNhE7cLQ4Kz6wUow"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Lil Silvio",
+          "url": "https://open.spotify.com/artist/0iEsMMMvNaDBX3l61sRkok"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "YaYa - Spotify Singles",
+      "url": "https://open.spotify.com/track/3FQvfX18sQAvsS9yBoOtLS"
     },
     {
       "album": {

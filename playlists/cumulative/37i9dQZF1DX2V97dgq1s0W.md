@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: Mahalia
+> The voices shaping R&B\. Cover: Joyce Wrice
 
-686 songs - 1 day 12 hr 29 min
+688 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 | 2026-04-30 | 2026-10-09 |
 | [CRASH OUT \(feat\. FLO\)](https://open.spotify.com/track/2zdtD5GCrveirY80k2C9gm) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:50 | 2025-10-09 | 2026-04-25 |
 | [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 | 2026-06-04 | 2026-10-16 |
-| [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 | 2026-03-27 |  |
+| [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 | 2026-03-27 | 2026-11-06 |
 | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2024-11-01 | 2025-05-30 |
 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 | 2025-12-05 | 2026-03-27 |
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-19 | 2025-04-25 |
@@ -541,6 +541,7 @@
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-27 | 2024-05-21 |
 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 | 2023-09-29 | 2024-02-28 |
 | [Shook One](https://open.spotify.com/track/1hh3cYtGRm5z9EfxLbQ9qv) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Shook One](https://open.spotify.com/album/3wHRQBJuMSZpDs7muwVAUV) | 3:13 | 2025-08-21 | 2026-03-13 |
+| [Shotta's.](https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo) | [Season 25](https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat) | [Shotta's.](https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p) | 2:22 | 2026-11-06 |  |
 | [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/7vZK5QMKDqTkpmkRNjzoem) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 3:06 | 2026-04-24 |  |
 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 | 2024-11-22 | 2025-08-08 |
 | [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 | 2023-02-23 | 2023-09-30 |
@@ -684,7 +685,8 @@
 | [Whole New Wardrobe](https://open.spotify.com/track/0h8KtXkpdruN69pSj6Jeav) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Whole New Wardrobe](https://open.spotify.com/album/6pECjeAHgRpfrukDkAJd8P) | 2:00 | 2025-01-17 | 2025-07-11 |
 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2024-11-29 | 2026-02-13 |
 | [Why \(Remix\)](https://open.spotify.com/track/4dZFTl643shQonFdi0jDmT) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [On The Bus](https://open.spotify.com/album/55vLlU2XBXuOkEOFV03XyF) | 2:41 | 2024-07-24 | 2025-02-28 |
-| [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-03 |  |
+| [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-03 | 2026-11-06 |
+| [Wish I Knew \- feat\. Odeal](https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [MACHIKO](https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc) | 3:47 | 2026-11-06 |  |
 | [Wish You Well \(Hablot Brown Remix\)](https://open.spotify.com/track/3bo87BOzyCPK6ZsrhIatMq) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Wish You Well \(Hablot Brown Remix\)](https://open.spotify.com/album/2nUt6mPVMwCos2tLRVOxXU) | 2:48 | 2023-02-23 | 2023-05-15 |
 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 | 2024-04-19 | 2025-01-24 |
 | [Wish You Wouldn't](https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Wish You Wouldn't](https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD) | 3:17 | 2023-11-24 | 2025-01-31 |

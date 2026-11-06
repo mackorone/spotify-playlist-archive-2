@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: RIIZE\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: P1Harmony\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-892 songs - 2 day 0 hr 4 min
+894 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Blind](https://open.spotify.com/track/6WjOw0KjfTtLM9VYm3CFYh) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [BLIND](https://open.spotify.com/album/2HCVBzFcSE6NU7C2HIahqx) | 3:28 | 2022-03-31 | 2022-05-24 |
 | [BLIND FOR LOVE](https://open.spotify.com/track/4bUkJxCgAY9e9Tb0r4vOoy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:36 | 2022-03-31 | 2022-04-18 |
 | [Blooming CROWN](https://open.spotify.com/track/7LrmZENqrRtHOJPrlipqXK) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [I did it.](https://open.spotify.com/album/2wuV69PYaXXXG1NVC4wlcs) | 3:03 | 2025-09-16 | 2025-09-18 |
+| [BLOW UP](https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [BLOW UP](https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS) | 2:45 | 2026-11-06 |  |
 | [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [DxS 1st Mini Album 'Serenade'](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-14 | 2026-03-19 |
 | [Blue Flame](https://open.spotify.com/track/6DTeLNeutILDk51f5IZN7d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [BLUE FLAME](https://open.spotify.com/album/4fjvLKlsbalQp5Z8gDpk4l) | 3:14 | 2021-12-08 | 2022-07-27 |
 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 | 2021-12-08 | 2025-07-17 |
@@ -688,6 +689,7 @@
 | [SHE BAD](https://open.spotify.com/track/7k1YG4KliiXCVawNyvwT7X) | [MYTEEN](https://open.spotify.com/artist/0Jy5VMwm7X25fOaYh0PyXK) | [F;UZZLE](https://open.spotify.com/album/65Bt7vUBjsEpWv11eNMol5) | 3:27 | 2022-03-31 | 2022-04-20 |
 | [She′s Smiling](https://open.spotify.com/track/6FrwYUcP7qM4TccrPtwOg8) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [She's Smiling](https://open.spotify.com/album/3tQnUoE2Y1QV0VrB1WLPEF) | 3:53 | 2024-12-04 | 2024-12-10 |
 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2022-01-03 | 2023-06-13 |
+| [SHOCK](https://open.spotify.com/track/2svjqad0qwiEYps5QLR7rZ) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SHOCK](https://open.spotify.com/album/33q3b2UtHK0JW4RbzI86KJ) | 2:51 | 2026-11-06 |  |
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 3:25 | 2024-04-18 | 2025-01-09 |
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-26 | 2024-04-09 |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2021-12-08 | 2022-06-07 |
@@ -753,14 +755,14 @@
 | [SWEAT](https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG) | 3:11 | 2024-04-24 | 2024-07-19 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-07-04 | 2022-07-08 |
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-11-21 | 2025-01-30 |
-| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-20 |  |
+| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-20 | 2026-11-06 |
 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-04-26 | 2023-06-02 |
 | [Tag Tag Tag](https://open.spotify.com/track/6HMR9w1ORta3CXI9r4ptpE) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-CHILL](https://open.spotify.com/album/0SQHVWNdrujtaHAodFG99C) | 3:05 | 2022-03-30 | 2022-04-19 |
 | [TAKE A SHOT](https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [TAKE A SHOT](https://open.spotify.com/album/06qgEuyha6pNcBJvglOGha) | 2:28 | 2025-09-17 | 2025-09-30 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 | 2026-04-09 |
 | [TAKEOVER](https://open.spotify.com/track/2wW53eqOu1AG50Uwi5c3D8) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [SILENCE SYNDROME](https://open.spotify.com/album/2Z00o0quhfUOA9HY57Msb8) | 3:08 | 2025-04-14 | 2025-05-20 |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-29 | 2024-02-22 |
-| [Talk to You](https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 01](https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF) | 2:30 | 2025-11-07 |  |
+| [Talk to You](https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 01](https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF) | 2:30 | 2025-11-07 | 2026-11-06 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-08 | 2023-10-26 |
 | [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [구공탄 \(비투비\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 | 2024-07-31 | 2024-08-09 |
 | [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-26 | 2023-05-01 |

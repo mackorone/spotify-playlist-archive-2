@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21296,
+  "num_followers": 21302,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "A-TEEN Part. 2",
-        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
       },
       "artists": [
         {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 204942,
-      "name": "I'II be your star",
-      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+      "duration_ms": 220506,
+      "name": "FRR",
+      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -371,18 +371,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+        "name": "A-TEEN Part. 2",
+        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
         }
       ],
-      "duration_ms": 220506,
-      "name": "FRR",
-      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
+      "duration_ms": 204942,
+      "name": "I'II be your star",
+      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -583,38 +583,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "Boyfriend on Demand Part 1 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/6GTkQ4tpmiGEPNd2WN8Wz6"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
         "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
       },
@@ -631,6 +599,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "Boyfriend on Demand Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/6GTkQ4tpmiGEPNd2WN8Wz6"
     },
     {
       "added_at": "2026-06-25 15:51:09",

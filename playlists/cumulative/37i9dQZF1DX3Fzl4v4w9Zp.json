@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Madeline Edwards",
+  "description": "Where roots meet what\u2019s next. Cover: Eddie 9V",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 227441,
       "name": "August",
       "url": "https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr"
@@ -4524,6 +4524,24 @@
       "duration_ms": 221302,
       "name": "Dooley's Farm (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd"
+    },
+    {
+      "album": {
+        "name": "Down Here",
+        "url": "https://open.spotify.com/album/6aNtquB86AnGd2d8fIbKhe"
+      },
+      "artists": [
+        {
+          "name": "Eddie 9V",
+          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212076,
+      "name": "Down Here",
+      "url": "https://open.spotify.com/track/2LMv9Bbz87tffChQOqKN5G"
     },
     {
       "album": {
@@ -8458,7 +8476,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160065,
       "name": "I Will Lead You Home",
       "url": "https://open.spotify.com/track/61nwg1Te3RAPKPmxvpwVbW"
@@ -10457,6 +10475,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3WilUQCyrwSCmiZ0mLZ9yi"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262401,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
+    },
+    {
+      "album": {
         "name": "Something Borrowed, Something New: A Tribute to John Anderson",
         "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
       },
@@ -10706,7 +10742,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162290,
       "name": "Man's World",
       "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
@@ -12154,6 +12190,24 @@
       "duration_ms": 230579,
       "name": "Old History",
       "url": "https://open.spotify.com/track/0efnKvG3CCqweCGxgfpZkr"
+    },
+    {
+      "album": {
+        "name": "Old-Fashioned Love Song",
+        "url": "https://open.spotify.com/album/5SnS6yKukeKSU2jbXgt92C"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264125,
+      "name": "Old-Fashioned Love Song",
+      "url": "https://open.spotify.com/track/5UFbRkSIHF5ONf7iibz4pr"
     },
     {
       "album": {

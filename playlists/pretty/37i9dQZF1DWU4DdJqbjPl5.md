@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,046 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,057 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 63 | [What You Need](https://open.spotify.com/track/1i2uHUxvikWIzvzFpSv207) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [What You Need](https://open.spotify.com/album/1WhSFf4nH91MNgp7wwcYY9) | 3:54 |
 | 64 | [2FRESH](https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:34 |
 | 65 | [Baggage](https://open.spotify.com/track/44A3D6wFzNHMBS5RenZRfe) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Baggage](https://open.spotify.com/album/1DOzQHmdMjRKcIpihuf89s) | 3:01 |
-| 66 | [GODDESS \(feat\. Lojay\)](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
+| 66 | [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
 | 67 | [Throw Something](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 5:07 |
 | 68 | [Hurts 2b Reminded](https://open.spotify.com/track/7epfsvfTAOcYmExhWtSPG1) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Hurts 2b Reminded](https://open.spotify.com/album/1IJYY1v0FO4pXB0C9ggOLd) | 2:55 |
 | 69 | [Higher](https://open.spotify.com/track/2Tzbw4crgP5K6npcQg7dy8) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 3:24 |

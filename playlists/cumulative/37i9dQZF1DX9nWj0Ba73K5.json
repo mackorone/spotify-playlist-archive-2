@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "In loving memory of songwriter <a href=\"https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iM06L\"> Brett James</a>.",
+  "description": "Featuring the talented songwriters behind your favorite country songs. Cover: Jessi Alexander",
   "name": "Country Songwriters",
   "tracks": [
     {
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 279533,
       "name": "I Hold On",
       "url": "https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 226492,
       "name": "Jesus, Take the Wheel",
       "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
@@ -3881,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Southern",
+        "url": "https://open.spotify.com/album/4xW9PD4F9AmdJsxRASmXfv"
+      },
+      "artists": [
+        {
+          "name": "Jessi Alexander",
+          "url": "https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184369,
+      "name": "Southern",
+      "url": "https://open.spotify.com/track/0nk8exOG5p58zMBFS0pDez"
+    },
+    {
+      "album": {
         "name": "Southern Curiosity",
         "url": "https://open.spotify.com/album/0itAyqe94khJz3D1mIPQ6l"
       },
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 238413,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/0NwdiZqOIoxVBdqng7Ik7p"
@@ -4482,6 +4500,28 @@
       "duration_ms": 292880,
       "name": "The Tunnel",
       "url": "https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J"
+    },
+    {
+      "album": {
+        "name": "Southern",
+        "url": "https://open.spotify.com/album/4xW9PD4F9AmdJsxRASmXfv"
+      },
+      "artists": [
+        {
+          "name": "Jessi Alexander",
+          "url": "https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS"
+        },
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204529,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/5oHSesb0ued0ZbARRem4Pm"
     },
     {
       "album": {
@@ -5120,7 +5160,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 290520,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
@@ -5254,7 +5294,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 255233,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq"

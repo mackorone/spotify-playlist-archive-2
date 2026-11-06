@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > grumpy on the cover :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,232 likes - 145 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,227 likes - 145 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

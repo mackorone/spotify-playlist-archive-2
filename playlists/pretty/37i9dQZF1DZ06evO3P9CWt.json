@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280027,
+  "num_followers": 280019,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAASUHbUaD1A0OiyND1/FYnP",
+  "snapshot_id": "aukkAAAAAADd6F+8VIbjqXjGREvM8on5",
   "tracks": [
     {
       "added_at": null,
@@ -306,11 +306,15 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 135419,
-      "name": "ATTENTION",
-      "url": "https://open.spotify.com/track/6JcMLSSUp3TO5bnTMLxOAj"
+      "duration_ms": 140687,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/2R7MOxoTCMgx724NcZ6IXK"
     },
     {
       "added_at": null,
@@ -378,15 +382,11 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 140687,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/2R7MOxoTCMgx724NcZ6IXK"
+      "duration_ms": 135419,
+      "name": "ATTENTION",
+      "url": "https://open.spotify.com/track/6JcMLSSUp3TO5bnTMLxOAj"
     },
     {
       "added_at": null,
@@ -435,6 +435,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "S\u00e3o Amores",
+      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOST IN LUST",
+        "url": "https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 119371,
+      "name": "FRIENDS WITH...",
+      "url": "https://open.spotify.com/track/1tiFkvnbKIqabnR9aHqm6E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FREQU\u00caNCIA LUNAR",
         "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
       },
@@ -451,38 +483,6 @@
       "duration_ms": 170073,
       "name": "VAMPIRA",
       "url": "https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOST IN LUST",
-        "url": "https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 176296,
-      "name": "ALONE",
-      "url": "https://open.spotify.com/track/5VVX7yDLiFd7aoNE8F9obU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "S\u00e3o Amores",
-      "url": "https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prazer, Mam\u00e3e Noel",
         "url": "https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 172896,
       "name": "A Ceia",
       "url": "https://open.spotify.com/track/3fk20rAk1r0sD4KDh3Ws07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
       "added_at": null,

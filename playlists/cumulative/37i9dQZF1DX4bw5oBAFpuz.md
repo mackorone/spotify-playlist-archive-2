@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-682 songs - 1 day 14 hr 42 min
+683 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 | 2023-02-23 | 2023-07-19 |
 | [I Won't Let Go](https://open.spotify.com/track/5PR3cK0y8Y8XikFxLnDkrm) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Higher](https://open.spotify.com/album/2Yfh7AQ5WbJFv6RwIAbJck) | 3:43 | 2025-03-20 | 2025-05-10 |
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-12-04 |  |
-| [I'm Coming Over](https://open.spotify.com/track/3jJFEDl5iPkxwYoHGcSztW) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [I'm Coming Over](https://open.spotify.com/album/6lzL0TZtncmBdU02TWlTcl) | 3:42 | 2026-08-20 |  |
+| [I'm Coming Over](https://open.spotify.com/track/3jJFEDl5iPkxwYoHGcSztW) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [I'm Coming Over](https://open.spotify.com/album/6lzL0TZtncmBdU02TWlTcl) | 3:42 | 2026-08-20 | 2026-11-06 |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2024-03-21 | 2024-08-30 |
 | [I've Seen It](https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:06 | 2025-12-18 |  |
 | [Icarus & The Sun](https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd) | [Neil Hollyn](https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0) | [Icarus & The Sun](https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba) | 3:08 | 2023-04-25 |  |
@@ -686,6 +686,7 @@
 | [You Don't Have To Stay](https://open.spotify.com/track/2Kt8OMRNO40i42Cxf2KO4H) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Born In A Storm](https://open.spotify.com/album/7i7i0cvJwTsw1ILF6Gy5Lt) | 2:26 | 2023-02-23 | 2024-12-21 |
 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2023-02-23 | 2023-04-26 |
 | [You Got Me Hurt](https://open.spotify.com/track/0OYaJlbQOL5L2IhDt7OlAD) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt](https://open.spotify.com/album/7HWpd9LdCKeqfbUI92bygI) | 3:29 | 2025-09-08 |  |
+| [You Make It Make Sense](https://open.spotify.com/track/0evRhqpMd7JfuNszB8Np1S) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Make It Make Sense](https://open.spotify.com/album/6C7FqS0rJW6MQL5rMkxx1p) | 2:56 | 2026-11-05 |  |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2023-02-23 | 2023-04-26 |
 | [Young Ones](https://open.spotify.com/track/1e9ec75rofTKNnaAC5885Y) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Time Will Heal Our Senses](https://open.spotify.com/album/2rMPYckv6JT8YOXjECPCfA) | 3:55 | 2024-04-11 | 2026-02-07 |
 | [Young Ones](https://open.spotify.com/track/1p5rkJjrlNhewXpCNuNwfl) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Summer Hits 2011](https://open.spotify.com/album/0ZyAIkXXHhQZw8uW0A1hyh) | 3:55 | 2023-04-25 | 2024-01-17 |

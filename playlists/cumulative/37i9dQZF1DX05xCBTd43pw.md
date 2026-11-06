@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Zoë Më
 
-603 songs - 1 day 7 hr 17 min
+606 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 | 2024-06-27 | 2026-03-27 |
 | [all night](https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9) | [outofhere](https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf) | [all night](https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F) | 2:09 | 2024-11-14 | 2024-12-31 |
 | [Alles was ich will](https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Alles was ich will](https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa) | 2:56 | 2024-06-27 | 2024-10-04 |
-| [Alma Mia](https://open.spotify.com/track/0UbHQ7wLwqGetrn2dOVBVc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329) | 3:14 | 2026-09-25 |  |
+| [Alma Mia](https://open.spotify.com/track/0UbHQ7wLwqGetrn2dOVBVc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329) | 3:14 | 2026-09-25 | 2026-11-06 |
 | [Alright](https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Alright](https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM) | 3:22 | 2024-06-27 | 2024-10-04 |
 | [Ancient](https://open.spotify.com/track/0Rq1Ml0FBjO2NsLVYwfQ5z) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Ancient](https://open.spotify.com/album/03XKuGjq8upDPtlc5rsLoa) | 3:00 | 2026-06-25 | 2026-07-17 |
 | [Angelina](https://open.spotify.com/track/7diSzKYr6oXl8YlIHfvLrg) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Drinks](https://open.spotify.com/album/05IO5tRFtJE3yDlRbykmdH) | 2:58 | 2025-05-08 | 2025-05-16 |
@@ -401,8 +401,8 @@
 | [Over](https://open.spotify.com/track/6oblIFG6oGnTH2b1qeERnO) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Over](https://open.spotify.com/album/2D6qLRICcR35S5O2c6qCEp) | 3:02 | 2024-06-27 | 2024-08-20 |
 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 | 2024-09-27 |  |
 | [Paperhearts](https://open.spotify.com/track/2g32bDB4sA3zGuQ5iyqewv) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Paperhearts](https://open.spotify.com/album/7lqC3fVa3AQhI7aF5lkwuj) | 3:03 | 2025-01-10 | 2025-03-08 |
-| [Partir pour de vrai](https://open.spotify.com/track/3DZvq5aQjEgEYFd73kyyt1) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Partir pour de vrai](https://open.spotify.com/album/1J9373rRjiv8lrQSXJAXuq) | 2:42 | 2026-08-27 |  |
-| [People Pleaser](https://open.spotify.com/track/7v5GZwJfcjg0ZRUWkkdVpp) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [People Pleaser](https://open.spotify.com/album/3OcME429LpUx8j5240BnKX) | 2:24 | 2026-10-15 |  |
+| [Partir pour de vrai](https://open.spotify.com/track/3DZvq5aQjEgEYFd73kyyt1) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Partir pour de vrai](https://open.spotify.com/album/1J9373rRjiv8lrQSXJAXuq) | 2:42 | 2026-08-27 | 2026-11-06 |
+| [People Pleaser](https://open.spotify.com/track/7v5GZwJfcjg0ZRUWkkdVpp) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [People Pleaser](https://open.spotify.com/album/3OcME429LpUx8j5240BnKX) | 2:24 | 2026-10-15 | 2026-11-06 |
 | [perles de sang](https://open.spotify.com/track/0lbCihT7AYHcGBe0tsXDzi) | [Mané](https://open.spotify.com/artist/4pvp9ohkSsRCGFNhE2ZkR1) | [perles de sang](https://open.spotify.com/album/34kGclNjhV06a3yc2KH02M) | 4:24 | 2026-04-23 | 2026-05-08 |
 | [Petra Sturzenegger](https://open.spotify.com/track/79fkcZ3Fa04MA5ydqCMVQb) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Stubete Gäng](https://open.spotify.com/album/0Kt0oARMyCDq8I053zVNlU) | 3:30 | 2025-05-08 | 2025-05-16 |
 | [Pillow Song](https://open.spotify.com/track/2PGr4xCiAFnH9o1MIr5oza) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Pillow Song](https://open.spotify.com/album/70EOvr61gUGqUOvNYyEBRQ) | 3:33 | 2024-10-03 | 2024-10-06 |
@@ -424,6 +424,7 @@
 | [redwhite \(Offical Swiss Women’s National Team Song\)](https://open.spotify.com/track/4BkvyubYBez4o0uHGkhE71) | [LOU KAENA](https://open.spotify.com/artist/69Tf6ABMtbfliXm4FHNhUH), [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [redwhite \(Offical Swiss Women’s National Team Song\)](https://open.spotify.com/album/09GIdZLuPhRNZAJIuIW2yr) | 3:26 | 2025-06-05 | 2026-08-03 |
 | [Release Me](https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Release Me](https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR) | 3:10 | 2025-06-26 | 2025-12-06 |
 | [Remind Me \(feat\. Amanda Collis\) \- Radio Edit](https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Remind Me \(feat\. Amanda Collis\) \[Radio Edit\]](https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16) | 3:07 | 2024-07-04 | 2024-07-23 |
+| [Rends\-moi mes secondes](https://open.spotify.com/track/7Fib92j6rWWhyIkN8goIxg) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Re:Naissance Part\. 1](https://open.spotify.com/album/4WdMh8A2LAf4RATENEXu9a) | 2:31 | 2026-11-05 |  |
 | [Reverie](https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Reverie](https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc) | 2:40 | 2026-10-22 |  |
 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 | 2024-08-10 |
 | [River](https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Backyard By The River](https://open.spotify.com/album/7kdKVcRUFsPY4AagcozeXt) | 2:49 | 2026-03-26 |  |
@@ -436,6 +437,7 @@
 | [Roots](https://open.spotify.com/track/3BvKDfgNEGmFymfKMLpykK) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Roots](https://open.spotify.com/album/4CLjl1IBmqvO2y56O5ljYF) | 2:34 | 2025-02-21 | 2025-06-09 |
 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 | 2025-04-17 | 2025-05-09 |
 | [Run](https://open.spotify.com/track/6pvoD1YUUSiHYc4Mo3qfYr) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l) | 3:16 | 2025-05-15 | 2025-05-23 |
+| [Run Away](https://open.spotify.com/track/5OuOFB0a5Aw0xE6cQE7ryI) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Run Away](https://open.spotify.com/album/3hwDt5jYTXnfQPRo8Lorig) | 2:44 | 2026-11-05 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
 | [Russian Blue](https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Russian Blue](https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL) | 3:29 | 2024-12-07 | 2025-03-29 |
 | [Ruth](https://open.spotify.com/track/1RI2qxSeqmZNdA3arPMOTQ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Ruth](https://open.spotify.com/album/0fIg1hefvvsgnUUm94qiZn) | 5:08 | 2025-10-24 | 2026-02-20 |
@@ -527,6 +529,7 @@
 | [TikTak](https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [TikTak](https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk) | 2:43 | 2024-06-27 | 2024-09-28 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-14 |
 | [Time to Shine](https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Time to Shine](https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt) | 2:43 | 2025-09-08 |  |
+| [Tiptoes](https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Tiptoes](https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3) | 3:28 | 2026-11-05 |  |
 | [Todas Las Flores](https://open.spotify.com/track/3nUMWn4xuHsP3gM23lVvZr) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Las Flores De Mi Barrio](https://open.spotify.com/album/1aXrU0R7Xgf3YYqPNlFx60) | 2:52 | 2025-04-24 | 2025-05-02 |
 | [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 | 2026-08-28 |
 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 | 2025-10-05 |

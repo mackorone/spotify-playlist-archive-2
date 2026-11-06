@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 447895,
+  "num_followers": 447924,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Tanto para dar",
-        "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
-      },
-      "artists": [
-        {
-          "name": "Meritxell Neddermann",
-          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Tanto para dar",
-      "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "I Had a Dream She Took My Hand",
         "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
@@ -883,6 +863,22 @@
       "duration_ms": 220291,
       "name": "I Had a Dream She Took My Hand",
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -903,18 +899,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+        "name": "Tanto para dar",
+        "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Meritxell Neddermann",
+          "url": "https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+      "duration_ms": 174225,
+      "name": "Tanto para dar",
+      "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Cat Fun",
-        "url": "https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm"
-      },
-      "artists": [
-        {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
-        }
-      ],
-      "duration_ms": 208700,
-      "name": "Cat Fun",
-      "url": "https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Te perd\u00ed",
         "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+        "name": "Cat Fun",
+        "url": "https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm"
       },
       "artists": [
         {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
+      "duration_ms": 208700,
+      "name": "Cat Fun",
+      "url": "https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 357956,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Pladur",
         "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "La Chica del Norte",
-        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
       },
       "artists": [
         {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 221600,
-      "name": "La Chica del Norte",
-      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
+      "duration_ms": 357956,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1635,6 +1619,22 @@
       "duration_ms": 278373,
       "name": "Ada Road",
       "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "La Chica del Norte",
+        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "La Chica del Norte",
+      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "talvez",
-        "url": "https://open.spotify.com/album/2jAD6mAa04Y4cUt4GtAUYW"
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
       },
       "artists": [
         {
-          "name": "AMYNATA",
-          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 128846,
-      "name": "talvez",
-      "url": "https://open.spotify.com/track/6Az9wDLwMpLGDxJ5dmln3D"
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1747,6 +1731,22 @@
       "duration_ms": 236494,
       "name": "Cerrar los ojos - Directo en Casa Grito",
       "url": "https://open.spotify.com/track/6ieYVrQHg9GCobjcCVE021"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "talvez",
+        "url": "https://open.spotify.com/album/2jAD6mAa04Y4cUt4GtAUYW"
+      },
+      "artists": [
+        {
+          "name": "AMYNATA",
+          "url": "https://open.spotify.com/artist/1OfMb4DATw7yp7zMBjUuLg"
+        }
+      ],
+      "duration_ms": 128846,
+      "name": "talvez",
+      "url": "https://open.spotify.com/track/6Az9wDLwMpLGDxJ5dmln3D"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "0MG!",
-        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
-      },
-      "artists": [
-        {
-          "name": "Mira Paula",
-          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
-        }
-      ],
-      "duration_ms": 166621,
-      "name": "0MG!",
-      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Tan brillant",
         "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
       },
@@ -1851,22 +1835,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "El Noi de la Mare",
-        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
         }
       ],
-      "duration_ms": 243020,
-      "name": "El Noi de la Mare",
-      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1891,26 +1871,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "esa cara",
-        "url": "https://open.spotify.com/album/5mj39NSYk6TGy5VzA2x9kX"
+        "name": "El Noi de la Mare",
+        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
       },
       "artists": [
         {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
         },
         {
-          "name": "diego vega",
-          "url": "https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7"
-        },
-        {
-          "name": "Rotea",
-          "url": "https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN"
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
         }
       ],
-      "duration_ms": 151821,
-      "name": "esa cara",
-      "url": "https://open.spotify.com/track/4aN7X1buWStoLqvJrZgIWC"
+      "duration_ms": 243020,
+      "name": "El Noi de la Mare",
+      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1951,18 +1927,26 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "San Antonio",
-        "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
+        "name": "esa cara",
+        "url": "https://open.spotify.com/album/5mj39NSYk6TGy5VzA2x9kX"
       },
       "artists": [
         {
-          "name": "caracazador",
-          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        },
+        {
+          "name": "diego vega",
+          "url": "https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7"
+        },
+        {
+          "name": "Rotea",
+          "url": "https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN"
         }
       ],
-      "duration_ms": 238208,
-      "name": "San Antonio",
-      "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
+      "duration_ms": 151821,
+      "name": "esa cara",
+      "url": "https://open.spotify.com/track/4aN7X1buWStoLqvJrZgIWC"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1983,18 +1967,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Hasta los Glaciares",
-        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
+        "name": "San Antonio",
+        "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
       },
       "artists": [
         {
-          "name": "Daga Voladora",
-          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+          "name": "caracazador",
+          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
         }
       ],
-      "duration_ms": 201381,
-      "name": "Hasta los Glaciares",
-      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
+      "duration_ms": 238208,
+      "name": "San Antonio",
+      "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -2027,6 +2011,22 @@
       "duration_ms": 167386,
       "name": "Algo F\u00edsico",
       "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Hasta los Glaciares",
+        "url": "https://open.spotify.com/album/7pZHutsAlnuMmp59NncmBs"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 201381,
+      "name": "Hasta los Glaciares",
+      "url": "https://open.spotify.com/track/1ZKFxPfx7zcFWrp7Dh3Oql"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
-      },
-      "artists": [
-        {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
-        }
-      ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Lim\u00e3o",
         "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 217043,
       "name": "Lim\u00e3o",
       "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        }
+      ],
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
     }
   ],
   "unique_name": "Relax en casa",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Bebe Stockwell",
+  "description": "Featuring that new vintage. Cover: Blu DeTiger",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160538,
       "name": "Broke Bitch Boogie",
       "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205046,
       "name": "Charlie's Garden",
       "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184642,
       "name": "Didn't See It Coming",
       "url": "https://open.spotify.com/track/3BktKdXTbl1Zoip0I4s9gb"
@@ -3934,6 +3934,24 @@
       "duration_ms": 204827,
       "name": "Heartblush",
       "url": "https://open.spotify.com/track/0AGcI0jKRUFTlVF0dpffsk"
+    },
+    {
+      "album": {
+        "name": "N.Y. Baby",
+        "url": "https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208720,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN"
     },
     {
       "album": {
@@ -5835,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "Lonely Guy",
+        "url": "https://open.spotify.com/album/0RuMs1QX1Koe3oAGxmMLrT"
+      },
+      "artists": [
+        {
+          "name": "Tiger Lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "Lonely Guy",
+      "url": "https://open.spotify.com/track/1sd7RBCgu3CbV8QiiB7jn0"
+    },
+    {
+      "album": {
         "name": "Love Lines",
         "url": "https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97"
       },
@@ -6684,6 +6720,24 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "album": {
+        "name": "Mine! Mine! Mine!",
+        "url": "https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185991,
+      "name": "Mine! Mine! Mine!",
+      "url": "https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0"
     },
     {
       "album": {
@@ -9370,7 +9424,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 169430,
       "name": "something like this",
       "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
@@ -10664,6 +10718,24 @@
       "duration_ms": 229289,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
+    },
+    {
+      "album": {
+        "name": "Unearth",
+        "url": "https://open.spotify.com/album/06qrAbtaNAiHB3jneCtoeD"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219034,
+      "name": "Unearth",
+      "url": "https://open.spotify.com/track/0ctmCRc8SmNQoMSLUv3tzC"
     },
     {
       "album": {

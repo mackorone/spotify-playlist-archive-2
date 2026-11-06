@@ -4,7 +4,7 @@
 
 > This is Sick Of It All\. The essential tracks, all in one playlist.
 
-53 songs - 1 hr 57 min
+54 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Sanctuary](https://open.spotify.com/track/3TPcpHQ0LWUdP7x2ZIQCzZ) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 1:54 | 2026-07-26 |  |
 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 | 2026-07-26 |  |
 | [Self Important Shithead](https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 0:58 | 2026-07-26 |  |
+| [Shut Me Out](https://open.spotify.com/track/4dksuobarzFXwunwiyriAT) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Just Look Around](https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74) | 2:12 | 2026-11-06 |  |
 | [Step Down](https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 3:09 | 2026-07-26 |  |
 | [Survival of the Fittest](https://open.spotify.com/track/6EPqSI3uKjZ4M8f9BkjjN4) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU), [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 3:46 | 2026-07-26 | 2026-07-27 |
 | [Take The Night Off](https://open.spotify.com/track/4ALA7Nd0JcRHSvcffGjnym) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 2:42 | 2026-07-26 |  |

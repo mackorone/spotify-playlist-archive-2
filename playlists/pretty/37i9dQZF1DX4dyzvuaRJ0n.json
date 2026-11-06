@@ -1,13 +1,33 @@
 {
-  "description": "The world's biggest dance & electronic hits. Cover: Funk Tribu",
-  "num_followers": 5431503,
+  "description": "The world's biggest dance & electronic hits. Cover: Carlita",
+  "num_followers": 5430581,
   "original_name": "mint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALqm/NZC7FQjHeLRd09x8aVV2AUs",
+  "snapshot_id": "AAAAAKIC/e3sAPcP9Wqf1Q4NzvoJTWVm",
   "tracks": [
+    {
+      "added_at": "2026-11-06 05:01:43",
+      "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Cleo Simone",
+          "url": "https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Rising Up",
+      "url": "https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH"
+    },
     {
       "added_at": "2026-10-23 04:00:50",
       "album": {
@@ -23,70 +43,6 @@
       "duration_ms": 236927,
       "name": "Repeaty",
       "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
-    },
-    {
-      "added_at": "2026-10-30 04:01:03",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
-        "name": "Think of You",
-        "url": "https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Rohan Pinnock-Hamilton",
-          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
-        }
-      ],
-      "duration_ms": 204884,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
-        "name": "Are You Still You?",
-        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
-        }
-      ],
-      "duration_ms": 164322,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4TCzyYDyqYbLlNC1Z8Ewiu"
     },
     {
       "added_at": "2026-10-16 04:00:36",
@@ -115,26 +71,70 @@
     {
       "added_at": "2026-10-16 04:00:36",
       "album": {
-        "name": "Divine Intervention",
-        "url": "https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC"
+        "name": "Think of You",
+        "url": "https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         },
         {
-          "name": "Alt8",
-          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         },
         {
-          "name": "Saint Monet",
-          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
-      "duration_ms": 287933,
-      "name": "Feel 4 U (feat. Saint Monet)",
-      "url": "https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"
+      "duration_ms": 204884,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
+    },
+    {
+      "added_at": "2026-10-16 04:00:36",
+      "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-10-16 04:00:36",
+      "album": {
+        "name": "Are You Still You?",
+        "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 164322,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4TCzyYDyqYbLlNC1Z8Ewiu"
     },
     {
       "added_at": "2026-10-16 04:00:36",
@@ -151,6 +151,22 @@
       "duration_ms": 214038,
       "name": "Just A Little Bit More",
       "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+    },
+    {
+      "added_at": "2026-11-06 05:01:43",
+      "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og"
     },
     {
       "added_at": "2026-10-16 04:00:36",
@@ -199,6 +215,90 @@
     {
       "added_at": "2026-10-30 04:01:03",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu"
+    },
+    {
+      "added_at": "2026-10-16 04:00:36",
+      "album": {
+        "name": "Divine Intervention",
+        "url": "https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Feel 4 U (feat. Saint Monet)",
+      "url": "https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"
+    },
+    {
+      "added_at": "2026-10-23 04:00:50",
+      "album": {
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/4uUYfu9Qtnt5RiTZnPDceK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 201255,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/7J0kkgb99OIb3a7IJb6SDT"
+    },
+    {
+      "added_at": "2026-11-06 05:01:43",
+      "album": {
+        "name": "Rinse & Repeat (Again)",
+        "url": "https://open.spotify.com/album/6Be8HD5xgudGGLvAdZsLfP"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        },
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Rinse & Repeat (Again)",
+      "url": "https://open.spotify.com/track/1LIpl58FE75TGjyTz7AKTY"
+    },
+    {
+      "added_at": "2026-10-30 04:01:03",
+      "album": {
         "name": "PEOPLE IN THE PLACE",
         "url": "https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ"
       },
@@ -243,46 +343,6 @@
     {
       "added_at": "2026-10-16 04:00:36",
       "album": {
-        "name": "ORIGIN //",
-        "url": "https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Brieanna Grace",
-          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
-        }
-      ],
-      "duration_ms": 274090,
-      "name": "Stay For Love",
-      "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"
-    },
-    {
-      "added_at": "2026-10-23 04:00:50",
-      "album": {
-        "name": "Staring At The Sun",
-        "url": "https://open.spotify.com/album/4uUYfu9Qtnt5RiTZnPDceK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 201255,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/7J0kkgb99OIb3a7IJb6SDT"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
         "name": "Sexy Magic (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg"
       },
@@ -311,6 +371,54 @@
       "duration_ms": 195840,
       "name": "Sexy Magic (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
+    },
+    {
+      "added_at": "2026-11-06 05:01:43",
+      "album": {
+        "name": "All The People",
+        "url": "https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Something Else",
+          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "All The People",
+      "url": "https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx"
+    },
+    {
+      "added_at": "2026-10-16 04:00:36",
+      "album": {
+        "name": "ORIGIN //",
+        "url": "https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 274090,
+      "name": "Stay For Love",
+      "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"
     },
     {
       "added_at": "2026-10-16 04:00:36",
@@ -351,6 +459,26 @@
     {
       "added_at": "2026-10-16 04:00:36",
       "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
+      "added_at": "2026-10-16 04:00:36",
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/4h8MJzl1FvwqLizmx8OuCA"
       },
@@ -385,64 +513,24 @@
       "url": "https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR"
     },
     {
-      "added_at": "2026-10-16 04:00:36",
+      "added_at": "2026-11-06 05:01:43",
       "album": {
-        "name": "Fancy Footwork",
-        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+        "name": "In The Night Again",
+        "url": "https://open.spotify.com/album/5ksPonDhSmzZqcS6O5pV45"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
         }
       ],
-      "duration_ms": 192195,
-      "name": "Fancy Footwork",
-      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
-        "name": "Can I Ride",
-        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "95 South",
-          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
-        }
-      ],
-      "duration_ms": 163888,
-      "name": "Can I Ride",
-      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
-        "name": "I Could Be Madonna",
-        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "I Could Be Madonna",
-      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
+      "duration_ms": 172500,
+      "name": "Choice (feat. Kareen Lomax)",
+      "url": "https://open.spotify.com/track/5kwAm6VbIDwDiEo6WYiuAh"
     },
     {
       "added_at": "2026-10-16 04:00:36",
@@ -527,6 +615,22 @@
       "duration_ms": 147692,
       "name": "Neckwear",
       "url": "https://open.spotify.com/track/3BgLZtFdHRKKtC9Gvpsgzk"
+    },
+    {
+      "added_at": "2026-11-06 05:01:43",
+      "album": {
+        "name": "Zoolander",
+        "url": "https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 178238,
+      "name": "Zoolander",
+      "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
     },
     {
       "added_at": "2026-10-16 04:00:36",
@@ -787,30 +891,6 @@
     {
       "added_at": "2026-10-16 04:00:36",
       "album": {
-        "name": "Not A Problem",
-        "url": "https://open.spotify.com/album/4lck2TEXJQ94JSgv3Mhf5p"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Nafe Smallz",
-          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 247272,
-      "name": "Not A Problem",
-      "url": "https://open.spotify.com/track/34cGRbu2sg9mXm8fcUWlTw"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
         "name": "U know me",
         "url": "https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw"
       },
@@ -827,30 +907,6 @@
       "duration_ms": 194910,
       "name": "U know me",
       "url": "https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
-        "name": "MYSTERY OF RAW",
-        "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "MYSTERY OF RAW",
-      "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
     },
     {
       "added_at": "2026-10-16 04:00:36",
@@ -1139,22 +1195,6 @@
     {
       "added_at": "2026-10-16 04:00:36",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/1bfjSRpS2OWgxFRmxiaQWO"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 230294,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
         "name": "Reason Why",
         "url": "https://open.spotify.com/album/4pYuKuFoNdNFOpMayYE8Yg"
       },
@@ -1403,22 +1443,6 @@
     {
       "added_at": "2026-10-16 04:00:36",
       "album": {
-        "name": "I Never Knew",
-        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
       },
@@ -1431,22 +1455,6 @@
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
-    },
-    {
-      "added_at": "2026-10-16 04:00:36",
-      "album": {
-        "name": "back 2 u",
-        "url": "https://open.spotify.com/album/60WUf9hGNkNUJfFCjp33zX"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "oh my yuma!",
-      "url": "https://open.spotify.com/track/0gCVfzNzYGBk95GBLQ6US4"
     },
     {
       "added_at": "2026-10-16 04:00:36",

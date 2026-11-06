@@ -2,9 +2,9 @@
 
 ### [Ginja](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> Sweet afro melodies\. Cover: Chella
+> Sweet afro melodies\. Cover: Joeboy
 
-1,081 songs - 2 day 4 hr 16 min
+1,082 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Go Harder](https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Go Harder](https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj) | 2:20 | 2024-06-07 | 2024-09-14 |
 | [Gobe](https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Before I Blow](https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr) | 2:40 | 2026-04-17 |  |
 | [God Design](https://open.spotify.com/track/4lFPM3Nstjkh7yQlTNO8dn) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [God Design](https://open.spotify.com/album/7IWLmZBAMG52YhYJUvbTwv) | 2:06 | 2026-08-21 | 2026-08-28 |
-| [GODDESS \(feat\. Lojay\)](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 | 2026-10-16 |  |
+| [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 | 2026-10-16 |  |
 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 | 2025-09-05 | 2026-10-23 |
 | [Gone Back](https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Gone Back](https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo) | 2:36 | 2023-05-19 | 2023-05-27 |
 | [Gone Girl](https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/4LIZDD51I8rr6OpdEX7S9a) | 4:13 | 2021-10-14 | 2022-04-22 |
@@ -636,7 +636,7 @@
 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 | 2026-10-09 |
 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 | 2023-03-11 |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 | 2024-10-01 |
-| [Mental](https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Mental](https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS) | 2:46 | 2026-09-25 |  |
+| [Mental](https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Mental](https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS) | 2:46 | 2026-09-25 | 2026-11-06 |
 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 | 2024-10-12 | 2024-12-05 |
 | [MENU](https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [MENU](https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt) | 2:39 | 2025-10-03 |  |
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-01-21 | 2023-01-12 |
@@ -795,6 +795,7 @@
 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 | 2024-08-02 | 2024-08-31 |
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-23 | 2026-08-21 |
 | [Pressure \(feat\. Leon Thomas\)](https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:24 | 2026-08-14 |  |
+| [Pretty Girls](https://open.spotify.com/track/59DqgKpSKsyCc2VE8h1SvD) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Pretty Girls](https://open.spotify.com/album/6qzU45BjfmPKlGK0KH5nxW) | 2:16 | 2026-11-06 |  |
 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 | 2023-04-27 | 2024-02-23 |
 | [Pretty Nun](https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Pretty Nun](https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB) | 3:31 | 2026-10-23 |  |
 | [Punish You](https://open.spotify.com/track/1L8LtnJ4DCIm9TG3he7Msg) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Sh!t I Never Finished](https://open.spotify.com/album/0CQUMzUcAmp83gZjdMDiMv) | 2:28 | 2025-12-05 | 2025-12-19 |

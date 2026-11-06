@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Nickelback",
+  "description": "The best rock songs of the moment. Cover: Kings of Leon",
   "name": "Rock Now",
   "tracks": [
     {
@@ -2268,6 +2268,24 @@
       "duration_ms": 235092,
       "name": "ANYTHING > HUMAN",
       "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
+    },
+    {
+      "album": {
+        "name": "Cash Out in Kid Gloves",
+        "url": "https://open.spotify.com/album/7mgjT6V80UvBskMsePaZCn"
+      },
+      "artists": [
+        {
+          "name": "clay pigeon",
+          "url": "https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321064,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/1i0vXf5V0rZEKPIZQoQDlJ"
     },
     {
       "album": {
@@ -5334,7 +5352,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210910,
       "name": "Bright Lights, Big City (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2X67K1KTLBg9EU2dMUQC42"
@@ -6909,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "Chosen Hell",
+        "url": "https://open.spotify.com/album/3fyjKkQ2wddiOa8DR8Ef1L"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158413,
+      "name": "Chosen Hell",
+      "url": "https://open.spotify.com/track/0nB2uJYB5ujn2xVwmyLXz1"
+    },
+    {
+      "album": {
         "name": "Chow Mein",
         "url": "https://open.spotify.com/album/5ExnO8v8OcdR2fHWVhBY3T"
       },
@@ -7612,7 +7648,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 167906,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/7slWyXCqYjStw4zapVAZL0"
@@ -7934,6 +7970,24 @@
       "duration_ms": 219678,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/1QQsgLecQ0pakWP3vBdQnf"
+    },
+    {
+      "album": {
+        "name": "Cruella",
+        "url": "https://open.spotify.com/album/00R5o0EkxAnsmYxHQcs4oU"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222427,
+      "name": "Cruella",
+      "url": "https://open.spotify.com/track/6euLgwOjqK9VStkm4B4gzt"
     },
     {
       "album": {
@@ -8366,7 +8420,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 214723,
       "name": "Dance Away",
       "url": "https://open.spotify.com/track/0t0bHrtoKf05PV83yV2snt"
@@ -8886,6 +8940,24 @@
       "duration_ms": 160882,
       "name": "Death Valley High",
       "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
+    },
+    {
+      "album": {
+        "name": "HEIST",
+        "url": "https://open.spotify.com/album/13UcgIiZFiyybfxaVLNqIm"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137415,
+      "name": "DEATHWISH",
+      "url": "https://open.spotify.com/track/5dJAVGODW1unXkRmW0oHXU"
     },
     {
       "album": {
@@ -12230,7 +12302,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 199253,
       "name": "Faulty",
       "url": "https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR"
@@ -12414,6 +12486,24 @@
       "duration_ms": 253373,
       "name": "feminine adornments",
       "url": "https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO"
+    },
+    {
+      "album": {
+        "name": "QWERTY III",
+        "url": "https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159618,
+      "name": "FERAL CHILD ;-0",
+      "url": "https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW"
     },
     {
       "album": {
@@ -14110,7 +14200,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186219,
       "name": "Girls Like Us",
       "url": "https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h"
@@ -15127,6 +15217,24 @@
     },
     {
       "album": {
+        "name": "Handshake Thugs",
+        "url": "https://open.spotify.com/album/70RNMKbbN9LHtCiz3jyKzA"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240239,
+      "name": "Handshake Thugs",
+      "url": "https://open.spotify.com/track/1uQjiH5ny1RHsIMSvhLm7T"
+    },
+    {
+      "album": {
         "name": "Die About It (Deluxe)",
         "url": "https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G"
       },
@@ -15240,6 +15348,24 @@
       "duration_ms": 161352,
       "name": "HAPPY HOUR (feat. Knox)",
       "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
+    },
+    {
+      "album": {
+        "name": "New Entertainment",
+        "url": "https://open.spotify.com/album/1nNZEWRU7yPKzcspP9EWAL"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200298,
+      "name": "Hard Rock",
+      "url": "https://open.spotify.com/track/3vlHkohkAGM9BpisshPbrI"
     },
     {
       "album": {
@@ -18030,7 +18156,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 226403,
       "name": "If The Sun Burns Out Tonight",
       "url": "https://open.spotify.com/track/6XZ5emkGiXmX3T77PhIKam"
@@ -18892,6 +19018,24 @@
       "duration_ms": 212008,
       "name": "Jocelyn",
       "url": "https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ"
+    },
+    {
+      "album": {
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/40a1v9kfK7wrFJzgZj0iRd"
+      },
+      "artists": [
+        {
+          "name": "Wizaard",
+          "url": "https://open.spotify.com/artist/1z4KX6U3ieDwUjKDwMz4IK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190179,
+      "name": "Joey",
+      "url": "https://open.spotify.com/track/6w36CLMZhG5kyyKR6K44QS"
     },
     {
       "album": {
@@ -20302,7 +20446,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220702,
       "name": "Lapsang",
       "url": "https://open.spotify.com/track/44zPIwW8byLP5RMV2y5W8s"
@@ -21466,7 +21610,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 206156,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/0IUYykKJTfBq0i5yQLH957"
@@ -22550,7 +22694,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 240494,
       "name": "Machine",
       "url": "https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq"
@@ -23557,6 +23701,24 @@
     },
     {
       "album": {
+        "name": "Nir Wactenama",
+        "url": "https://open.spotify.com/album/3OdRlIQltc3XXbk4YhsKlB"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "Mikwetc",
+      "url": "https://open.spotify.com/track/3daYKjZMOiV2ZYou1zHGXP"
+    },
+    {
+      "album": {
         "name": "milk of the madonna",
         "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
       },
@@ -23770,6 +23932,28 @@
       "duration_ms": 189146,
       "name": "miss melancholy",
       "url": "https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d"
+    },
+    {
+      "album": {
+        "name": "The Pleasure and the Greed (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/77igXj4yOoRfKIHCfMXxKD"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        },
+        {
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277394,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/1wO4GjVmMRjF3cga2Dt9bA"
     },
     {
       "album": {
@@ -24012,6 +24196,24 @@
       "duration_ms": 196465,
       "name": "more than life (feat. glaive)",
       "url": "https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM"
+    },
+    {
+      "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/4dICy1P1QDSEY83qSZEsjh"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179881,
+      "name": "Mother Never Told You",
+      "url": "https://open.spotify.com/track/30LAPViPx3cUA8KUGNk4rP"
     },
     {
       "album": {
@@ -29838,7 +30040,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 117000,
       "name": "Roll Me Up",
       "url": "https://open.spotify.com/track/7dVHIpLEhfliytziFe7Iai"
@@ -29878,6 +30080,24 @@
       "duration_ms": 227147,
       "name": "Romanticize The Dive (from the Netflix Series \"Nobody Wants This\" Season 3)",
       "url": "https://open.spotify.com/track/0RujnCpGGpWBzrcaMRIRqp"
+    },
+    {
+      "album": {
+        "name": "O My Beloved",
+        "url": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205741,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn"
     },
     {
       "album": {
@@ -31144,7 +31364,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 212770,
       "name": "She's Got My Last Name",
       "url": "https://open.spotify.com/track/4HTiNjUDBOr0GjHXLdwMf9"
@@ -31494,7 +31714,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 237586,
       "name": "Shut Out",
       "url": "https://open.spotify.com/track/5zGTcOcS7yjmJlZi47XiGU"
@@ -32624,6 +32844,24 @@
       "duration_ms": 213688,
       "name": "Something To Be Said",
       "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
+    },
+    {
+      "album": {
+        "name": "Something Wicked",
+        "url": "https://open.spotify.com/album/1DwGTH60Dbx9V13sjs5UbG"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203534,
+      "name": "Something Wicked",
+      "url": "https://open.spotify.com/track/29isDnKpq9Xvzin15AzoGl"
     },
     {
       "album": {
@@ -34824,7 +35062,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 263727,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
@@ -35904,7 +36142,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184013,
       "name": "The Line",
       "url": "https://open.spotify.com/track/60hZUc0qM9VNOlKoBOSw5q"
@@ -36052,6 +36290,24 @@
       "duration_ms": 204145,
       "name": "The Muck",
       "url": "https://open.spotify.com/track/3djb619fSC1QBOm2Lqgs1c"
+    },
+    {
+      "album": {
+        "name": "The Needle and the Damage Done (Studio Session)",
+        "url": "https://open.spotify.com/album/02D0ADMpSHajOd1nQag3Th"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142669,
+      "name": "The Needle and the Damage Done - Studio Session",
+      "url": "https://open.spotify.com/track/5b27HW4pYZm3XwNCeb9jGV"
     },
     {
       "album": {
@@ -38054,6 +38310,32 @@
       "duration_ms": 161982,
       "name": "U Love It",
       "url": "https://open.spotify.com/track/5Kc6XXmFWTRjoPEaOBv0Mm"
+    },
+    {
+      "album": {
+        "name": "Greetings From California (Deluxe)",
+        "url": "https://open.spotify.com/album/73zy95doej9RGgCkTgryf2"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "The Madden Brothers",
+          "url": "https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "U R (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/344IM3lb8yYFaxGnK0ZRrm"
     },
     {
       "album": {
@@ -41270,7 +41552,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194103,
       "name": "Write Me A Letter",
       "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"

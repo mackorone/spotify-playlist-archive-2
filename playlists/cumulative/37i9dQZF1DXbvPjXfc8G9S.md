@@ -4,7 +4,7 @@
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Feid
 
-581 songs - 1 day 8 hr 4 min
+582 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 | 2025-11-14 | 2026-01-30 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-19 | 2026-08-22 |
 | [DALLAX](https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DALLAX](https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM) | 2:30 | 2025-03-28 | 2025-05-31 |
+| [Dame Hombro](https://open.spotify.com/track/1FXksRH3lFxHPlBauolc3C) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Kevin Wai](https://open.spotify.com/artist/51juLUSUPiiS1aWyVPbd2o), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Dame Hombro](https://open.spotify.com/album/3jQsz4uZDT3oZJEzcxKUjq) | 2:04 | 2026-11-06 |  |
 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 | 2026-04-17 | 2026-05-22 |
 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 | 2026-06-12 | 2026-07-04 |
 | [DE MEDALLO PA MOROVIS](https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LA AMENAZA](https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ) | 2:58 | 2026-10-02 |  |
@@ -499,7 +500,7 @@
 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-27 | 2026-04-24 |
 | [TE CANTO BAJITO](https://open.spotify.com/track/3I1jcOmPwnzUR5yduDK3yb) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [TE CANTO BAJITO](https://open.spotify.com/album/7BATLek9MLvWQmb6BWGzJh) | 2:58 | 2025-03-21 | 2025-04-12 |
 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 | 2026-05-01 | 2026-08-28 |
-| [Te Estoy Correteando](https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:13 | 2026-08-21 |  |
+| [Te Estoy Correteando](https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:13 | 2026-08-21 | 2026-11-06 |
 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 | 2026-04-10 | 2026-07-04 |
 | [Te Imagino](https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Te Imagino](https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN) | 4:11 | 2026-10-30 |  |
 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 | 2024-05-09 | 2024-06-01 |

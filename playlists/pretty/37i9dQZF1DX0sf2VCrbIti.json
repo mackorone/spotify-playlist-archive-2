@@ -1,6 +1,6 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos.",
-  "num_followers": 2901,
+  "num_followers": 2904,
   "original_name": "\u00a1Felices Fiestas!",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "El Chucu Chucu",
-        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
+        "name": "30th Anniversary",
+        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 163865,
-      "name": "El Chucu Chucu",
-      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
+      "duration_ms": 237253,
+      "name": "La Fiesta de Pilito",
+      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -787,18 +779,26 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "30th Anniversary",
-        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
+        "name": "El Chucu Chucu",
+        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 237253,
-      "name": "La Fiesta de Pilito",
-      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
+      "duration_ms": 163865,
+      "name": "El Chucu Chucu",
+      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
     },
     {
       "added_at": "2025-10-24 15:29:30",

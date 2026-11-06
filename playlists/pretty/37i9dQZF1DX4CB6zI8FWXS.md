@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,235 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,236 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SOVEREIGN LAND](https://open.spotify.com/track/3akNcl19u2UUXBtXmRWLxe) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOVEREIGN LAND](https://open.spotify.com/album/6nedzUexHeu5kEYuRmD4PU) | 2:13 |
 | 2 | [BEEN HERE BEFORE](https://open.spotify.com/track/5sD01JnvvAOWCgrr5UzMBW) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [BEEN HERE BEFORE](https://open.spotify.com/album/3ynfbKWAnghUZitU9jP6Fd) | 3:20 |
 | 3 | [Talk To Me](https://open.spotify.com/track/2BCoCVN64DUwGlz9qnAaVM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Talk To Me](https://open.spotify.com/album/6MApwcu8R5B6q0nRsPmraC) | 3:33 |
-| 4 | [GODDESS \(feat\. Lojay\)](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
+| 4 | [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
 | 5 | [Bodies On The Floor \(feat\. Clipse\)](https://open.spotify.com/track/58MoSwpvzOxZAgk7dMb3ci) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Muse](https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9) | 3:48 |
 | 6 | [That's Why I Love You \(feat\. Bruno Mars\)](https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Frequency Of Love](https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw) | 4:38 |
 | 7 | [You \(feat\. UMI\)](https://open.spotify.com/track/4OZgLTWdsiogtoDdZVEtpZ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [You \(feat\. UMI\)](https://open.spotify.com/album/7xOQiLuhEGZBiEYgzmpveZ) | 4:41 |

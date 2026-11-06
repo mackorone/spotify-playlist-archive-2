@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 914917,
+  "num_followers": 914965,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Bad Wolf (feat. UNIIQU3)",
         "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 221280,
       "name": "She Can Love U",
       "url": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Oracle (feat. Jem Cooke)",
+        "url": "https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 217309,
+      "name": "Oracle",
+      "url": "https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "My Temptations",
         "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 191657,
       "name": "My Temptations",
       "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Oracle (feat. Jem Cooke)",
-        "url": "https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 217309,
-      "name": "Oracle",
-      "url": "https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/51Zm9rqVaFJss3lBKkSbpF"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 182445,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3KAbbvbVa1SdKkpzdy2sLG"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 163890,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/51Zm9rqVaFJss3lBKkSbpF"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 182445,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3KAbbvbVa1SdKkpzdy2sLG"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Take Our Time",
-        "url": "https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
-        }
-      ],
-      "duration_ms": 179962,
-      "name": "Take Our Time",
-      "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Gator Boots",
         "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 141309,
       "name": "Gator Boots",
       "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+        }
+      ],
+      "duration_ms": 179962,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Groovin'",
+        "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 198931,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Energy Crew Pt. 2",
         "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 194198,
       "name": "Dream or Fantasy",
       "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Groovin'",
-        "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 198931,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "The Montana Girl",
         "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 221538,
       "name": "The Montana Girl",
       "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224911,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Like An Angel (Touch Me) / Word Play",
         "url": "https://open.spotify.com/album/3U86BRtfgVbBnuX0ZVgl7Z"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 183636,
       "name": "Like An Angel (Touch Me)",
       "url": "https://open.spotify.com/track/69NLfaFQrL1sSwEMHpHEoT"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224911,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/4Bfkxlb2mIQMiwvyWZvVe7"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/4MS7dkKHDKY8cZ9zwGEjDg"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Energy Crew Pt. 1",
         "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 207272,
       "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/4Bfkxlb2mIQMiwvyWZvVe7"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/4MS7dkKHDKY8cZ9zwGEjDg"
     },
     {
       "added_at": "2026-10-01 23:00:26",

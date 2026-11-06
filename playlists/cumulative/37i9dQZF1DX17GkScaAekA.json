@@ -1319,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "Fantasy in C Major, Op. 17/III. Langsam getragen. Durchweg leise zu halten",
+        "url": "https://open.spotify.com/album/51LC7Ob8wiUu32rTSReSlm"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 793944,
+      "name": "Fantasy in C Major, Op. 17: III. Langsam getragen. Durchweg leise zu halten",
+      "url": "https://open.spotify.com/track/0CnxFbLdjY3RAg0ebtmCDb"
+    },
+    {
+      "album": {
         "name": "Vivaldi: Four Seasons Winter Variation (After Violin Concerto in F Minor, Op. 8, No. 4, RV 297, III. Allegro-Lento)",
         "url": "https://open.spotify.com/album/2l4Qv7ErSsOLMm4Jx6W4pC"
       },

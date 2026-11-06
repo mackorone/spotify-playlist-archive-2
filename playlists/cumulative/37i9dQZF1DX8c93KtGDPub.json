@@ -4439,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "The Bells of Christmas Eve",
+        "url": "https://open.spotify.com/album/5kYTi8o4MHdZB5Ubg1FUNf"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202482,
+      "name": "The Bells of Christmas Eve",
+      "url": "https://open.spotify.com/track/6YwstWaPT9u5LL4z0ZMWNw"
+    },
+    {
+      "album": {
         "name": "The Blizzard",
         "url": "https://open.spotify.com/album/13pEnTBkpAE5S8Y2uZextr"
       },

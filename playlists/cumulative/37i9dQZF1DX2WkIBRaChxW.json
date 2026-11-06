@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Avenoir.",
+  "description": "What's happening in r&b, right now \u2013 featuring THEHONESTGUY.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -3265,6 +3265,28 @@
     },
     {
       "album": {
+        "name": "U, Me & My Ego (Deluxe)",
+        "url": "https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ"
+    },
+    {
+      "album": {
         "name": "Big Vibez",
         "url": "https://open.spotify.com/album/7xO5Ggc0dlOfWwxy0a1kZB"
       },
@@ -5692,6 +5714,24 @@
       "duration_ms": 174109,
       "name": "cOoL WATeR foR thE nIGHT",
       "url": "https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4"
+    },
+    {
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/4h2UN34CkdfK5uAIFirDZx"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241347,
+      "name": "COSIGN",
+      "url": "https://open.spotify.com/track/46ZpuuR68f8hb4vtoRLE3P"
     },
     {
       "album": {
@@ -10470,6 +10510,24 @@
       "duration_ms": 115207,
       "name": "GMFU",
       "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
+    },
+    {
+      "album": {
+        "name": "A LITTLE VENGEANCE (is more human than no vengeance at all)",
+        "url": "https://open.spotify.com/album/3finUPTcL6mUIReFK2TxA8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170020,
+      "name": "GO 2 WAR",
+      "url": "https://open.spotify.com/track/4MOPyeRAt2S2VobQjA47f3"
     },
     {
       "album": {
@@ -26814,7 +26872,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178702,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
@@ -28038,7 +28096,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 147326,
       "name": "To Me",
       "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"
@@ -28508,6 +28566,24 @@
       "duration_ms": 140068,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP"
+    },
+    {
+      "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL (DELUXE)",
+        "url": "https://open.spotify.com/album/6qVzB5GJrWScu2kZUkfVwn"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222697,
+      "name": "TRAIL OF BROKEN HEARTS",
+      "url": "https://open.spotify.com/track/7FOOCtzEzy31Z6JJpdeW7O"
     },
     {
       "album": {
@@ -31366,7 +31442,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 173868,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"

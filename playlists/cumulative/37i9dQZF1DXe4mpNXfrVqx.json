@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes MCs do hip hop nacional. Foto: Muse Maya",
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes MCs do hip hop nacional. Foto: Hanifah",
   "name": "S\u00f3 as Minas",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
@@ -1766,6 +1766,28 @@
       "duration_ms": 130000,
       "name": "EX MARIDO",
       "url": "https://open.spotify.com/track/2OjIbetfVaFByTPHvFY0zD"
+    },
+    {
+      "album": {
+        "name": "EXKROTOS",
+        "url": "https://open.spotify.com/album/6cV0OL5lroIW5TKEU5kcZi"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/2OJMqf5cRB8DJwnmyw4UQb"
+        },
+        {
+          "name": "SART\u00d8R",
+          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187970,
+      "name": "EXKROTOS",
+      "url": "https://open.spotify.com/track/0PKUZy3qMxY58AE5BBkqCX"
     },
     {
       "album": {
@@ -3699,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "meu sil\u00eancio \u00e9 minha vingan\u00e7a",
+        "url": "https://open.spotify.com/album/66lm4fh8kLwndtTqaAMOTG"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "meu sil\u00eancio \u00e9 minha vingan\u00e7a",
+      "url": "https://open.spotify.com/track/6YvcrSBl8NvO8Sf0hXEO4z"
+    },
+    {
+      "album": {
         "name": "MINA QUENTE",
         "url": "https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE"
       },
@@ -4074,6 +4114,28 @@
       "duration_ms": 193041,
       "name": "N\u00e3o Sei Falar de Amor",
       "url": "https://open.spotify.com/track/3S0W6s64EFFjz9sGwJYFBn"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o toca na lace",
+        "url": "https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9"
+      },
+      "artists": [
+        {
+          "name": "Kisha zO",
+          "url": "https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu"
+        },
+        {
+          "name": "LINS",
+          "url": "https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132771,
+      "name": "N\u00e3o toca na lace",
+      "url": "https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO"
     },
     {
       "album": {
@@ -4456,7 +4518,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 123076,
       "name": "Plug Do Sol",
       "url": "https://open.spotify.com/track/4ZKAYCnLPm3e0CnWONyO1j"

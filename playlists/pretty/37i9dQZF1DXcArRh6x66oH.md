@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Gabriella Rose
+> roots run deep with Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,469 likes - 204 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,515 likes - 204 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Scoreboard](https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [I Just Wanna Be Loved](https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg) | 3:24 |
-| 2 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 |
+| 1 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 |
+| 2 | [Scoreboard](https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [I Just Wanna Be Loved](https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg) | 3:24 |
 | 3 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 4 | [Here Lies the Fool](https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Here Lies the Fool](https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj) | 4:12 |
 | 5 | [Cross Country Blues \(demo\)](https://open.spotify.com/track/5FaOcZMqAm2zxduqrfbR3n) | [Center Mid](https://open.spotify.com/artist/4zPGRxbsiwHe6nVHaL1hlN) | [Cross Country Blues \(demo\)](https://open.spotify.com/album/5AAVsGOxVB1EZ3jtUhffkm) | 3:30 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 203 | [Drinkin' Alone](https://open.spotify.com/track/3Ni91Z7QsnmgEUwgdaVZV0) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Drinkin' Alone](https://open.spotify.com/album/5r1SZ8EYMUKGyyNX1qhKhT) | 4:14 |
 | 204 | [You Don't Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 
-Snapshot ID: `AAAAAJVy1yaRuU5xaZGEmKJvYLus+jbQ`
+Snapshot ID: `AAAAAIsMRlp/3ee7+pKNlX6gHTVr+CmS`

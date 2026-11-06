@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "2BL",
+        "url": "https://open.spotify.com/album/4E8hVwEh55usj2mIdawxzV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261010,
+      "name": "2BL",
+      "url": "https://open.spotify.com/track/22pEbo1EUf5EV78Iq8gLzX"
+    },
+    {
+      "album": {
         "name": "(les) m\u00e9andres de la soif",
         "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
       },
@@ -1840,7 +1858,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202025,
       "name": "Dahlia",
       "url": "https://open.spotify.com/track/3agckIPLw6x61oiODAdth4"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178168,
       "name": "Dis-moi, dis-moi",
       "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
@@ -9904,6 +9922,28 @@
       "duration_ms": 204013,
       "name": "Si tu reviens",
       "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+    },
+    {
+      "album": {
+        "name": "Jardim Celeste",
+        "url": "https://open.spotify.com/album/0Z68VsoFNwsAMLtacdMZj5"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        },
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139180,
+      "name": "Sigh",
+      "url": "https://open.spotify.com/track/5uBsu8EKK5V5xYMn0RHMQg"
     },
     {
       "album": {

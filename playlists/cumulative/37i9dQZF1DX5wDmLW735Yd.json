@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Andromedik",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: goddard",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -5969,6 +5969,28 @@
     },
     {
       "album": {
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7fJ08otTyWUyR4HvnhdGPI"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Dark Nights",
+      "url": "https://open.spotify.com/track/5rzVkfsJdOtlSNZ0oPLMbi"
+    },
+    {
+      "album": {
         "name": "dark place",
         "url": "https://open.spotify.com/album/2H6TvilDrWYC0qs9rNrJtg"
       },
@@ -8658,7 +8680,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 134651,
       "name": "Feels Like Gold",
       "url": "https://open.spotify.com/track/1P0quCN1djnD973xY3n4tg"
@@ -8988,6 +9010,28 @@
       "duration_ms": 171034,
       "name": "First Time (feat. Elipsa)",
       "url": "https://open.spotify.com/track/6NpWE90aJJ9ERQPcExCdvd"
+    },
+    {
+      "album": {
+        "name": "Five Star Funk",
+        "url": "https://open.spotify.com/album/3V8xXfBad3PNQQHAqOdTd2"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267686,
+      "name": "Five Star Funk",
+      "url": "https://open.spotify.com/track/2V4Y1t6Hzs7Cy1dnDT0l3d"
     },
     {
       "album": {
@@ -10148,7 +10192,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194038,
       "name": "Get Me Down (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
@@ -11155,6 +11199,32 @@
     },
     {
       "album": {
+        "name": "Hardline",
+        "url": "https://open.spotify.com/album/477uKNBh9N8oCzxiLzG4Bb"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Hardline",
+      "url": "https://open.spotify.com/track/6xtiQUTzdMMN5H7reFU57a"
+    },
+    {
+      "album": {
         "name": "Hardwired",
         "url": "https://open.spotify.com/album/0WOZTd7IXPhBzhvF1K5WJc"
       },
@@ -11362,7 +11432,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202595,
       "name": "hEarTbeAt",
       "url": "https://open.spotify.com/track/3YpqLGnBlMTqCDT4QdxWnJ"
@@ -18417,6 +18487,24 @@
     },
     {
       "album": {
+        "name": "Ocean's Eleven",
+        "url": "https://open.spotify.com/album/0cW6SLaYcvB84LQFGXbNqu"
+      },
+      "artists": [
+        {
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404000,
+      "name": "Ocean's Eleven",
+      "url": "https://open.spotify.com/track/46O9UPqb9RIcjhWGCJ836P"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2LnUaVH1eMDkaabtvU42yp"
       },
@@ -20306,7 +20394,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 123428,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
@@ -24454,6 +24542,28 @@
       "duration_ms": 174374,
       "name": "stargirl",
       "url": "https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb"
+    },
+    {
+      "album": {
+        "name": "Stars Align",
+        "url": "https://open.spotify.com/album/3RlsefkAjlaJxYKxEPCng0"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/30XyoSeZQXJiP6y0fCeUWx"
     },
     {
       "album": {

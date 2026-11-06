@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187266,
       "name": "But, Nvm",
       "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
@@ -5428,7 +5428,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 223729,
       "name": "One and the Same",
       "url": "https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY"
@@ -7751,6 +7751,24 @@
     },
     {
       "album": {
+        "name": "MISS UNDERSTOOD",
+        "url": "https://open.spotify.com/album/15qL3Bv2NqMY6yaNn5PGnu"
+      },
+      "artists": [
+        {
+          "name": "AHSIA",
+          "url": "https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115800,
+      "name": "the in between (interlude)",
+      "url": "https://open.spotify.com/track/7qXt7t4LsJSf5Yh2u73QUW"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
       },
@@ -8532,6 +8550,24 @@
       "duration_ms": 206421,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
+    },
+    {
+      "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/0SU94xgKeZccltp7hn3yWi"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "When I Get To You",
+      "url": "https://open.spotify.com/track/1c8GCfu9GbCHoax0Vfsbmu"
     },
     {
       "album": {

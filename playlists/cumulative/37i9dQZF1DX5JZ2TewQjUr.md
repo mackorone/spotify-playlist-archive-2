@@ -2,7 +2,7 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Vincy 蘇詠淳
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula
 
 1,770 songs - 4 day 3 hr 56 min
 

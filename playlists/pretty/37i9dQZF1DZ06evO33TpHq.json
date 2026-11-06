@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 67719,
+  "num_followers": 67741,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAAUDbxQlXa+Ukt2aWGi54Td",
+  "snapshot_id": "aukkAAAAAAAYIh3pOa65UBgVAqjigIbf",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "His Name Is Jesus",
+      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+        "name": "Fear Has No Power",
+        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 321000,
-      "name": "His Name Is Jesus",
-      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
+      "duration_ms": 257266,
+      "name": "Fear Has No Power",
+      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 227810,
       "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear Has No Power",
-        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Fear Has No Power",
-      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Fabian
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Lasso
 
-620 songs - 1 day 8 hr 13 min
+622 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,9 +91,10 @@
 | [blackout 🧊](https://open.spotify.com/track/1KaXG7dVdwMH3gCtiAU39t) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 3:02 | 2026-03-18 | 2026-03-27 |
 | [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:31 | 2024-02-23 | 2024-05-11 |
 | [Boca a Boca](https://open.spotify.com/track/1GvDIXN7AxrtoTjrxg8hR2) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Boca a Boca](https://open.spotify.com/album/66cnlRnSTxKP5MYPFvAoSm) | 2:31 | 2023-10-20 | 2023-12-09 |
-| [BODYPAINTING](https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [BODYPAINTING](https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M) | 2:33 | 2026-10-30 |  |
+| [BODYPAINTING](https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [BODYPAINTING](https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M) | 2:33 | 2026-10-30 | 2026-11-06 |
 | [Bolerito \- Remix](https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Bolerito \(Remix\)](https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl) | 2:45 | 2024-10-11 | 2025-03-08 |
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-03-17 | 2023-09-02 |
+| [Borracho Otra Vez](https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Objetos Frágiles en Ambientes Hostiles](https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP) | 2:47 | 2026-11-06 |  |
 | [Brinca \(Acuario\)](https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl) | 3:39 | 2025-03-07 | 2026-10-31 |
 | [Brindo](https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Brindo](https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5) | 4:44 | 2023-10-06 | 2023-11-06 |
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2023-09-22 | 2024-06-15 |
@@ -212,6 +213,7 @@
 | [Empinar El Codo](https://open.spotify.com/track/6JS8j9BbguW0HUiF6liE5k) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Lo Que Nos Faltó Decir](https://open.spotify.com/album/5LdhTgOjLoLxIR03KbN0RB) | 3:45 | 2025-06-06 | 2026-01-31 |
 | [En El 320](https://open.spotify.com/track/4OdprcAthLvkMkH149Fsgu) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [En El 320](https://open.spotify.com/album/1MyRCxfh0rHcAUIBQseLX2) | 3:04 | 2024-10-25 | 2024-11-23 |
 | [en el pasado](https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [en el pasado](https://open.spotify.com/album/78EFQKhgET0w845QMun4na) | 3:43 | 2023-09-01 | 2023-10-01 |
+| [EN ITALIA](https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp) | [BOM](https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAILAR O MORIR](https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP) | 2:25 | 2026-11-06 |  |
 | [En La Misma Cama](https://open.spotify.com/track/4mknaB6EEmN3noSR71073a) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:51 | 2026-05-08 | 2026-07-25 |
 | [En Qué Planeta](https://open.spotify.com/track/4oEfPKL5ccBOR0wQhhpNX0) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [En Qué Planeta](https://open.spotify.com/album/5aCkxf8INZurAEDGBDk6Ur) | 2:52 | 2023-03-17 | 2023-04-29 |
 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 | 2025-07-11 | 2026-01-31 |
@@ -568,7 +570,7 @@
 | [Triste \(Arial 1\)](https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Triste \(Arial 1\)](https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj) | 2:57 | 2024-02-02 | 2024-03-02 |
 | [Tsunami](https://open.spotify.com/track/5iRYgPCd8JyI0EiBxYKUyN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Tsunami](https://open.spotify.com/album/4bPksqNkTRThMVUpD1bl5u) | 3:02 | 2026-03-18 | 2026-03-27 |
 | [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-03-17 | 2023-04-29 |
-| [Tu lunar](https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Tu lunar](https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT) | 2:18 | 2026-08-21 |  |
+| [Tu lunar](https://open.spotify.com/track/6IVFgWwTxe3pBwNqC1Mpiw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Tu lunar](https://open.spotify.com/album/5n5GfmjH1zHT8htiBsjKOT) | 2:18 | 2026-08-21 | 2026-11-06 |
 | [Tu Nombre](https://open.spotify.com/track/6c6aFBltYq4R4mxVLLFQnt) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Tu Nombre](https://open.spotify.com/album/7Ik0l5XGybeZyfBB2qWWHH) | 2:48 | 2024-01-26 | 2024-03-02 |
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2023-03-17 | 2023-10-30 |
 | [TUTUTU](https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [TUTUTU](https://open.spotify.com/album/3kFpwjt0z3L2mRM0ms38sT) | 2:16 | 2026-03-27 | 2026-08-01 |

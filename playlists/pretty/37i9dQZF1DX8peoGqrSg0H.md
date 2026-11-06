@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: TACE
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,693 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,713 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv) | 3:23 |
-| 2 | [ที่ชอบที่ชอบ \(Grief Eaters\)](https://open.spotify.com/track/62VsUDl6ZUzR8STxeeoXzB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ที่ชอบที่ชอบ \(Grief Eaters\)](https://open.spotify.com/album/6Xn7mE2Zfgs9Rj8VZl3glo) | 3:44 |
-| 3 | [รอ SIS \(TER\)](https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6) | [DICEBLUE](https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [รอ SIS \(TER\)](https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K) | 4:00 |
-| 4 | [Tippy](https://open.spotify.com/track/47IHdImbWol8u0WpVUgccT) | [TACE](https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5) | [Tippy](https://open.spotify.com/album/3PVcOMkCmZOnTKPTGJYN6T) | 2:58 |
-| 5 | [แฟนใครปะคะ \(Final Call\)](https://open.spotify.com/track/3NoLOb2z1kWZCNNQDO9eE3) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [Girly Berry](https://open.spotify.com/artist/01HDNDrV3oXyU78MNW4qrZ) | [แฟนใครปะคะ \(Final Call\)](https://open.spotify.com/album/7gbhdy8uyq1zThUAKVTYM8) | 2:51 |
-| 6 | [ล็อกเป้า \(LOCK PAO\)](https://open.spotify.com/track/2Cdz4c8sEn6IEmtyBjGlZA) | [DICERED](https://open.spotify.com/artist/1UgsiornRZh1v7TRs7DNH5), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ล็อกเป้า \(LOCK PAO\)](https://open.spotify.com/album/3F4UHU0p4px4Ibm0jegCHn) | 3:16 |
-| 7 | [Baby Girl](https://open.spotify.com/track/1waM1iX8oDT7PnR5Abr5IZ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Girl](https://open.spotify.com/album/7cZJQRTTktip0yQx3t8sSs) | 2:35 |
-| 8 | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG) | 4:15 |
-| 9 | [ไม่อยากอวด \(Brag\)](https://open.spotify.com/track/5FNJjTdpQf9EZ2pK3pcQCw) | [NAMP](https://open.spotify.com/artist/3PswRd4t5e69N3OEMZrzSA) | [ไม่อยากอวด \(Brag\)](https://open.spotify.com/album/3beWd9imC937eGZWHC98PN) | 3:07 |
-| 10 | [ไม่ไหวแล้ว \(Officially\) \[feat\. JAOKHUN\]](https://open.spotify.com/track/7BCtBwJry326NG7LT62eNe) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ), [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ไม่ไหวแล้ว \(Officially\) \[feat\. JAOKHUN\]](https://open.spotify.com/album/54jtyXt7gl0FNBJIQSzC88) | 2:49 |
-| 11 | [BOPPiNG](https://open.spotify.com/track/1LPAeqix3MUQjaxXjKQBo1) | [FAVIQ](https://open.spotify.com/artist/0hBsY2QdtUQZIbPMajvLYM) | [BOPPiNG](https://open.spotify.com/album/3rSMaS94aUcUFnjpMPIYpE) | 3:20 |
-| 12 | [ไม่รวยไม่คุย \(Rich\)](https://open.spotify.com/track/6MMQz5ctjNNEE7CWKoEDrM) | [LEGO](https://open.spotify.com/artist/3GSFe2yYu6yHS0hI1k4ElL) | [ไม่รวยไม่คุย \(Rich\)](https://open.spotify.com/album/25COxcFDIkLHGpZiXohhb5) | 3:36 |
-| 13 | [ขอแค่นี้ \(Forever n ever\)](https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [While I'm away](https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W) | 3:39 |
+| 1 | [รอ SIS \(TER\)](https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6) | [DICEBLUE](https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [รอ SIS \(TER\)](https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K) | 4:00 |
+| 2 | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv) | 3:23 |
+| 3 | [ครั้งแรกพอทน \(Not Again\) \[feat\. Joke iScream\]](https://open.spotify.com/track/2V7d0gYkRRdxNeASMJpIbq) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Joke iScream](https://open.spotify.com/artist/4HDJErNF2CAJadmCAaCVnM) | [ครั้งแรกพอทน \(Not Again\) \[feat\. Joke iScream\]](https://open.spotify.com/album/7tkvZLmKFa42G60kAG37pS) | 3:37 |
+| 4 | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG) | 4:15 |
+| 5 | [ที่ชอบที่ชอบ \(Grief Eaters\)](https://open.spotify.com/track/62VsUDl6ZUzR8STxeeoXzB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ที่ชอบที่ชอบ \(Grief Eaters\)](https://open.spotify.com/album/6Xn7mE2Zfgs9Rj8VZl3glo) | 3:44 |
+| 6 | [คู่บุญ \(Soulmate\) \- From "เขมจิราต้องรอดตลอดกาล Khemjira Forever Series"](https://open.spotify.com/track/2B7iNb2KlRaX86cWdFzTee) | [KENG HARIT](https://open.spotify.com/artist/1WSgf7mAZ7E1Fj7toVGXPe), [Namping](https://open.spotify.com/artist/1d8tWDFKXg0gQviMl05GSc) | [คู่บุญ \(Soulmate\) \(From "เขมจิราต้องรอดตลอดกาล Khemjira Forever Series"\)](https://open.spotify.com/album/6EqbNhCdz42XweU8WnLaGB) | 3:44 |
+| 7 | [แฟนใครปะคะ \(Final Call\)](https://open.spotify.com/track/3NoLOb2z1kWZCNNQDO9eE3) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [Girly Berry](https://open.spotify.com/artist/01HDNDrV3oXyU78MNW4qrZ) | [แฟนใครปะคะ \(Final Call\)](https://open.spotify.com/album/7gbhdy8uyq1zThUAKVTYM8) | 2:51 |
+| 8 | [ล็อกเป้า \(LOCK PAO\)](https://open.spotify.com/track/2Cdz4c8sEn6IEmtyBjGlZA) | [DICERED](https://open.spotify.com/artist/1UgsiornRZh1v7TRs7DNH5), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ล็อกเป้า \(LOCK PAO\)](https://open.spotify.com/album/3F4UHU0p4px4Ibm0jegCHn) | 3:16 |
+| 9 | [Baby Girl](https://open.spotify.com/track/1waM1iX8oDT7PnR5Abr5IZ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Girl](https://open.spotify.com/album/7cZJQRTTktip0yQx3t8sSs) | 2:35 |
+| 10 | [Tippy](https://open.spotify.com/track/47IHdImbWol8u0WpVUgccT) | [TACE](https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5) | [Tippy](https://open.spotify.com/album/3PVcOMkCmZOnTKPTGJYN6T) | 2:58 |
+| 11 | [ขอแค่นี้ \(Forever n ever\)](https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [While I'm away](https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W) | 3:39 |
+| 12 | [ไม่ไหวแล้ว \(Officially\) \[feat\. JAOKHUN\]](https://open.spotify.com/track/7BCtBwJry326NG7LT62eNe) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ), [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ไม่ไหวแล้ว \(Officially\) \[feat\. JAOKHUN\]](https://open.spotify.com/album/54jtyXt7gl0FNBJIQSzC88) | 2:49 |
+| 13 | [ไม่รวยไม่คุย \(Rich\)](https://open.spotify.com/track/6MMQz5ctjNNEE7CWKoEDrM) | [LEGO](https://open.spotify.com/artist/3GSFe2yYu6yHS0hI1k4ElL) | [ไม่รวยไม่คุย \(Rich\)](https://open.spotify.com/album/25COxcFDIkLHGpZiXohhb5) | 3:36 |
 | 14 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
 | 15 | [นาฬิกาทราย \(sign\)](https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [นาฬิกาทราย \(sign\)](https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW) | 4:15 |
 | 16 | [รักกันตอนเลิกกัน \(Too Late\)](https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DUST](https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 
-Snapshot ID: `AAAAAGvEr7RqxNlqnnRXIYugGj/NH+d4`
+Snapshot ID: `AAAAAKtZBzaY0I1MUr5Ien7sk0+O26iL`

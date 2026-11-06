@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Machete Bomb",
+  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Zander",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -706,7 +706,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207756,
       "name": "Alma (Que Falta Que Me Hac\u00e9s)",
       "url": "https://open.spotify.com/track/4YOAMCoImdlzG9MUUOr2ax"
@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Calafrio",
+        "url": "https://open.spotify.com/album/20ypcWLM4LTe68UQMGsitr"
+      },
+      "artists": [
+        {
+          "name": "The M\u00f6nic",
+          "url": "https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197962,
+      "name": "Calafrio",
+      "url": "https://open.spotify.com/track/7HMBxLDyhG4MytIKExGAjW"
+    },
+    {
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/6wNhe6Elxu9ln8639pGb20"
       },
@@ -2709,6 +2727,40 @@
     },
     {
       "album": {
+        "name": "CRUELAS VOL.1",
+        "url": "https://open.spotify.com/album/2Ati293ZFwl3ZXpvecj1Gc"
+      },
+      "artists": [
+        {
+          "name": "MASTROBISO",
+          "url": "https://open.spotify.com/artist/1DAJ7yDvlSdkILcxygMvQq"
+        },
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "Scarlett Wolf",
+          "url": "https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p"
+        },
+        {
+          "name": "Dani Buarque",
+          "url": "https://open.spotify.com/artist/28omWSbFEu4nJT9ASXWp7r"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "CRUELAS VOL.1",
+      "url": "https://open.spotify.com/track/0mizv28yNmcc9h3uUCD4GW"
+    },
+    {
+      "album": {
         "name": "cuida de mim",
         "url": "https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE"
       },
@@ -3478,7 +3530,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 230086,
       "name": "Dispara",
       "url": "https://open.spotify.com/track/2P5FdfGXE9ADHzfBUGQ0M0"
@@ -6727,6 +6779,24 @@
     },
     {
       "album": {
+        "name": "Sugar Kane vs. Zander",
+        "url": "https://open.spotify.com/album/7oTSf4P8iDfGNOkV2QlugP"
+      },
+      "artists": [
+        {
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/2U9BIqZBwHMRy5KspZpzt9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213141,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/4x7AHvVJU9VeA6noBzoT7w"
+    },
+    {
+      "album": {
         "name": "Melhor Fingir",
         "url": "https://open.spotify.com/album/0ek1smYwF8dc5kvkhfPPlA"
       },
@@ -9582,7 +9652,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 216800,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3qSTFvsXUauZw10z9R3STE"

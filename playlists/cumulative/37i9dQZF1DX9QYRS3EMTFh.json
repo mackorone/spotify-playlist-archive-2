@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta, bouyon & dembow du moment. Photo : Shay x Ronisia x Meryl",
+  "description": "Les hits dancehall, shatta, bouyon & dembow du moment. Photo : Stefflon Don x Leto",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 198006,
       "name": "Assez",
       "url": "https://open.spotify.com/track/3EuFxQMsnPWGcH1EfbKgxv"
@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 118972,
       "name": "Bora Bora",
       "url": "https://open.spotify.com/track/23MwMhAO8cHJmNFiDgthuT"
@@ -3875,6 +3875,28 @@
     },
     {
       "album": {
+        "name": "TRIPLE CHEESE",
+        "url": "https://open.spotify.com/album/4bsixOsEZBKxByDIPpwbzn"
+      },
+      "artists": [
+        {
+          "name": "N'Dji",
+          "url": "https://open.spotify.com/artist/6pgmPrwPhaUCAVYxDvDr4I"
+        },
+        {
+          "name": "SMITH",
+          "url": "https://open.spotify.com/artist/2HsYKHZpnzUm2yimeGT8K1"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Bsx bye",
+      "url": "https://open.spotify.com/track/6ip77MuGD8pRfI6k2mwQUx"
+    },
+    {
+      "album": {
         "name": "Bubble It",
         "url": "https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC"
       },
@@ -4208,6 +4230,28 @@
       "duration_ms": 122400,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR"
+    },
+    {
+      "album": {
+        "name": "Buzzomane #\u00c7aPasse",
+        "url": "https://open.spotify.com/album/3Smn2A0YOKBzKzTCBek8AP"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Buzzomane #\u00c7aPasse",
+      "url": "https://open.spotify.com/track/7nL8cU9yNmluk8usSXGefo"
     },
     {
       "album": {
@@ -5364,7 +5408,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 113111,
       "name": "Collimateur",
       "url": "https://open.spotify.com/track/0eeWVhG6tOfT7XWhevCAoO"
@@ -6506,7 +6550,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184329,
       "name": "Dolla sign",
       "url": "https://open.spotify.com/track/4m2qQkpEx9zUMVpkPW9vEd"
@@ -6828,6 +6872,28 @@
       "duration_ms": 183529,
       "name": "Drink & Wine",
       "url": "https://open.spotify.com/track/6uOzcRbWHmNowFtg9AAi9U"
+    },
+    {
+      "album": {
+        "name": "Dtak",
+        "url": "https://open.spotify.com/album/2e09tmwuzBlWVOSYPbWbrw"
+      },
+      "artists": [
+        {
+          "name": "SUEILO",
+          "url": "https://open.spotify.com/artist/3MeK3kaFCmsYOIcWjjXpbO"
+        },
+        {
+          "name": "Surprise Beats",
+          "url": "https://open.spotify.com/artist/6uIDtppgYgCTxfbT9CFTQZ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117338,
+      "name": "Dtak",
+      "url": "https://open.spotify.com/track/5rYnxvKYP9mxesHFurbdSn"
     },
     {
       "album": {
@@ -8236,7 +8302,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132692,
       "name": "Full Baddies",
       "url": "https://open.spotify.com/track/4UmBt7P9JnAdk1ECmGOA5u"
@@ -11607,6 +11673,32 @@
     },
     {
       "album": {
+        "name": "L'Argent des Z'Hommes",
+        "url": "https://open.spotify.com/album/0FAic1HUgSHrRK6GWlDyJf"
+      },
+      "artists": [
+        {
+          "name": "Lybro",
+          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
+          "name": "JD",
+          "url": "https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "L'Argent des Z'Hommes",
+      "url": "https://open.spotify.com/track/5hLwSwW6H41oblv7RQ7cik"
+    },
+    {
+      "album": {
         "name": "L'or",
         "url": "https://open.spotify.com/album/6y9JbOuSe9uzd5B7UwVmJT"
       },
@@ -13087,6 +13179,24 @@
     },
     {
       "album": {
+        "name": "Maloki",
+        "url": "https://open.spotify.com/album/2yFjyTazspuqJDsqUs6hPW"
+      },
+      "artists": [
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Maloki",
+      "url": "https://open.spotify.com/track/1eAqsJFUaeLMgzD206nP5p"
+    },
+    {
+      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/4pzoPkl1Xu5WyRVM8KGdNL"
       },
@@ -13138,6 +13248,24 @@
       "duration_ms": 114946,
       "name": "MAMAN M'A DIT NON",
       "url": "https://open.spotify.com/track/5CR23EycKSh9W9LG7XaEZL"
+    },
+    {
+      "album": {
+        "name": "Mamie",
+        "url": "https://open.spotify.com/album/3FxtSc65QFqATTFxC1RHB1"
+      },
+      "artists": [
+        {
+          "name": "LIANKY",
+          "url": "https://open.spotify.com/artist/7sFXoYRHKDhA5YvYvjM6HU"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204535,
+      "name": "Mamie",
+      "url": "https://open.spotify.com/track/7rQ2oM7BVDAPaTQgiXhQ2g"
     },
     {
       "album": {
@@ -14396,7 +14524,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 130289,
       "name": "M\u00e9chant",
       "url": "https://open.spotify.com/track/70isOAWcjtEI3olrMlS9u9"
@@ -14657,6 +14785,24 @@
     },
     {
       "album": {
+        "name": "NEW MODEL",
+        "url": "https://open.spotify.com/album/5SjCeKtfMXbM23AkkcbksY"
+      },
+      "artists": [
+        {
+          "name": "Mista",
+          "url": "https://open.spotify.com/artist/0Pcw3wCSeBbuBsnnh4Vlma"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146956,
+      "name": "NEW MODEL",
+      "url": "https://open.spotify.com/track/1FBsD0wIN0lNHTuBbo3iSh"
+    },
+    {
+      "album": {
         "name": "Next To Me (feat. Toni-Ann Singh)",
         "url": "https://open.spotify.com/album/7joy1NA5tfuo0exE4KVZLk"
       },
@@ -14800,7 +14946,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 129411,
       "name": "NO EX NO STRESS (feat. Tiitof)",
       "url": "https://open.spotify.com/track/5ang7xKx9vHiPlByHGuyR1"
@@ -15164,7 +15310,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 141714,
       "name": "Nou Sav",
       "url": "https://open.spotify.com/track/1OYgfIguCaVJfDMR7MUR48"
@@ -16888,7 +17034,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 112856,
       "name": "PLOK",
       "url": "https://open.spotify.com/track/5UIVZ2jj4u3Azlq93Vl3Hx"
@@ -18281,6 +18427,28 @@
     },
     {
       "album": {
+        "name": "Roll It",
+        "url": "https://open.spotify.com/album/1AmV1yWwuOrn38M5V5dKu9"
+      },
+      "artists": [
+        {
+          "name": "Rytikal",
+          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "Roll It",
+      "url": "https://open.spotify.com/track/7IJSbFW4h3G1t4v0W5QTTj"
+    },
+    {
+      "album": {
         "name": "40 Degr\u00e9s",
         "url": "https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq"
       },
@@ -18476,6 +18644,32 @@
       "duration_ms": 124157,
       "name": "R\u00d2F",
       "url": "https://open.spotify.com/track/1dubXvWIvaXigxfvQBX6MO"
+    },
+    {
+      "album": {
+        "name": "S.L.S",
+        "url": "https://open.spotify.com/album/2YcCMcs7UJorJEvpS91B5k"
+      },
+      "artists": [
+        {
+          "name": "Mr 1920",
+          "url": "https://open.spotify.com/artist/0D3CL41RptEJHJLukYgaNJ"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "S.L.S",
+      "url": "https://open.spotify.com/track/5yQPgapPMfGR6ktp0eodTK"
     },
     {
       "album": {
@@ -18700,6 +18894,32 @@
       "duration_ms": 119478,
       "name": "San kilot",
       "url": "https://open.spotify.com/track/5kdgBsapGdYNUFY3xDP0el"
+    },
+    {
+      "album": {
+        "name": "San Ou (Sans Toi)",
+        "url": "https://open.spotify.com/album/3gYtoYS6C7PAksbI9x5lUK"
+      },
+      "artists": [
+        {
+          "name": "DJ TFIISH",
+          "url": "https://open.spotify.com/artist/5BqbVPzkQxOSlCEGswwFyf"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "N'Ken",
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135976,
+      "name": "San Ou (Sans Toi)",
+      "url": "https://open.spotify.com/track/5nqQ1vA6oDMK5xUjVXGlE3"
     },
     {
       "album": {
@@ -21832,7 +22052,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162500,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/2FdKThGyfjl2fgD7q61BCg"
@@ -22490,6 +22710,28 @@
       "duration_ms": 181224,
       "name": "Vittel",
       "url": "https://open.spotify.com/track/3DTxlimEbPNOQXcR7xmTSo"
+    },
+    {
+      "album": {
+        "name": "Vou \u00e9 Mwen",
+        "url": "https://open.spotify.com/album/5QzhYnY3VVBYp77hkjxqhh"
+      },
+      "artists": [
+        {
+          "name": "Lov'nee",
+          "url": "https://open.spotify.com/artist/2XHk8hsNkttV09BnFR7rTG"
+        },
+        {
+          "name": "DJ Jyz",
+          "url": "https://open.spotify.com/artist/7HMdFIeGnqwPKBRgpJF3gI"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Vou \u00e9 Mwen",
+      "url": "https://open.spotify.com/track/0bml9zujCemaVXWXpcQdHc"
     },
     {
       "album": {
@@ -23638,7 +23880,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 127179,
       "name": "You Call Me",
       "url": "https://open.spotify.com/track/2tW6K69VIv6r1c38sLcn9e"

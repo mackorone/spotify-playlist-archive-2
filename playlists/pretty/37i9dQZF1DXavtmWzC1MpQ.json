@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154916,
+  "num_followers": 154909,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Noise Of The Forest",
+        "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
+      },
+      "artists": [
+        {
+          "name": "Mind & Body",
+          "url": "https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Noise Of The Forest",
+      "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "The Sound Of Rain",
         "url": "https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Noise Of The Forest",
-        "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
+        "name": "Nature Hideout",
+        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
       },
       "artists": [
         {
-          "name": "Mind & Body",
-          "url": "https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz"
+          "name": "mahogany",
+          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Noise Of The Forest",
-      "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
+      "duration_ms": 192000,
+      "name": "Nature Night-time",
+      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -451,18 +467,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Nature Hideout",
-        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
+        "name": "Lastovo Island Summer Bird Song",
+        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
       },
       "artists": [
         {
-          "name": "mahogany",
-          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Nature Night-time",
-      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
+      "duration_ms": 194995,
+      "name": "Lastovo Island Summer Bird Song",
+      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -479,22 +495,6 @@
       "duration_ms": 241374,
       "name": "Chill Waves & Wind in Leaves",
       "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Lastovo Island Summer Bird Song",
-        "url": "https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt"
-      },
-      "artists": [
-        {
-          "name": "Natural Song",
-          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
-        }
-      ],
-      "duration_ms": 194995,
-      "name": "Lastovo Island Summer Bird Song",
-      "url": "https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Rainmaker",
-        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
-      },
-      "artists": [
-        {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
-        }
-      ],
-      "duration_ms": 230983,
-      "name": "Rain Forest Meditation",
-      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "The Millpond XI",
         "url": "https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 125610,
       "name": "The Millpond XI",
       "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Rainmaker",
+        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 230983,
+      "name": "Rain Forest Meditation",
+      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Still the River Flows",
+        "url": "https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0"
+      },
+      "artists": [
+        {
+          "name": "The Land Seven",
+          "url": "https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Still the River Flows",
+      "url": "https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Tr\u00f3pico",
         "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Still the River Flows",
-        "url": "https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0"
+        "name": "Jungle Dusk at Pha Phum National Park",
+        "url": "https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3"
       },
       "artists": [
         {
-          "name": "The Land Seven",
-          "url": "https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ"
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
         }
       ],
-      "duration_ms": 153488,
-      "name": "Still the River Flows",
-      "url": "https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P"
+      "duration_ms": 134511,
+      "name": "Jungle Dusk at Pha Phum National Park",
+      "url": "https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -743,22 +759,6 @@
       "duration_ms": 228500,
       "name": "Dripping Wet Leaves and Thunder",
       "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Jungle Dusk at Pha Phum National Park",
-        "url": "https://open.spotify.com/album/3OB5IzUaQvdDudL0lExpw3"
-      },
-      "artists": [
-        {
-          "name": "Natural Song",
-          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
-        }
-      ],
-      "duration_ms": 134511,
-      "name": "Jungle Dusk at Pha Phum National Park",
-      "url": "https://open.spotify.com/track/3xNme2mdtGrdxfsK5MHnDl"
     },
     {
       "added_at": "2026-04-02 09:58:26",

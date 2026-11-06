@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-922 songs - 1 day 21 hr 52 min
+923 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Bot Fight](https://open.spotify.com/track/29g0FD7lk8B3Qj2VXKihLt) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Bot Fight](https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg) | 4:35 | 2022-08-05 | 2023-04-28 |
 | [Bounce On Da Riddim](https://open.spotify.com/track/3ImaliOmdU6OCSz0TRdWIj) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v) | [Bounce On Da Riddim](https://open.spotify.com/album/171BUjZ0T7stAAIgICWklK) | 2:39 | 2025-03-21 |  |
 | [BOUNCE!](https://open.spotify.com/track/0tDQdGzAuoz7H21SYlAyCj) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [BOUNCE!](https://open.spotify.com/album/2W9hlXiWGgzaeZ3N6LavPE) | 2:30 | 2022-06-17 | 2023-04-28 |
+| [brb](https://open.spotify.com/track/1gIXf8U5XUn9ZON1V9lYrl) | [angelrot](https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ), [skrta](https://open.spotify.com/artist/1gZR1OO6ifGDdeVos9ZV3O) | [brb](https://open.spotify.com/album/3xxBGPq9Rw8Uuc0NsAVRJr) | 2:52 | 2026-11-05 |  |
 | [Break My Heart](https://open.spotify.com/track/7f4Gk0qPZ3kOYLE1Nngilx) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [Break My Heart](https://open.spotify.com/album/7i5fZ6T70XUTzkd8xiR3p8) | 3:03 | 2024-10-18 |  |
 | [Break My Heart \- Rameses B Remix](https://open.spotify.com/track/3DdPuaXAXkZdSz63LWBQ1K) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Break My Heart \(Rameses B Remix\)](https://open.spotify.com/album/6pVHTzBF1mudj2ANSaZekz) | 3:07 | 2025-02-18 |  |
 | [Brighter Days](https://open.spotify.com/track/1gWDGqu0uFwZNTwRUj0uBa) | [HESTER](https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG) | [Brighter Days](https://open.spotify.com/album/04xWEBsF7o2LPP01DVffP3) | 3:00 | 2026-08-21 |  |

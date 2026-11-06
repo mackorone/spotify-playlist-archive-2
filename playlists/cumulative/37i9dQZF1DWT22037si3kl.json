@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
+  "description": "pral\u00e9m de outfit. AURA. Foto: Klisman",
   "name": "O Drip",
   "tracks": [
     {
@@ -542,6 +542,28 @@
       "duration_ms": 154576,
       "name": "Alexa",
       "url": "https://open.spotify.com/track/5Nv8Xh8UTH8cY8YF1SIX0N"
+    },
+    {
+      "album": {
+        "name": "MINHA VIDA \u00c9 UM FILME",
+        "url": "https://open.spotify.com/album/6CotXWudVAAlGGMZAHn5a8"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Drummond",
+          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150861,
+      "name": "ALEXA 2",
+      "url": "https://open.spotify.com/track/6kaoeiLnbEP6eBbc02x7zL"
     },
     {
       "album": {
@@ -4862,7 +4884,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 128007,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/13ByvyMCrQs5zPnhIFpIYN"
@@ -7664,7 +7686,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166015,
       "name": "MOTIVO",
       "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
@@ -8414,6 +8436,28 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o toca na lace",
+        "url": "https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9"
+      },
+      "artists": [
+        {
+          "name": "Kisha zO",
+          "url": "https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu"
+        },
+        {
+          "name": "LINS",
+          "url": "https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132771,
+      "name": "N\u00e3o toca na lace",
+      "url": "https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO"
     },
     {
       "album": {
@@ -9538,7 +9582,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 176511,
       "name": "placo no pulso",
       "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
@@ -10609,6 +10653,44 @@
     },
     {
       "album": {
+        "name": "A ESTRELA DA RUA.",
+        "url": "https://open.spotify.com/album/1iHxJSHd5qnUptRP02739v"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Daz Ruas",
+          "url": "https://open.spotify.com/artist/5WURr8RWBNzVG0TCJQI2Yw"
+        },
+        {
+          "name": "saboya",
+          "url": "https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ"
+        },
+        {
+          "name": "Del Jay",
+          "url": "https://open.spotify.com/artist/65m0g6XjsnSYsalksAnkz8"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161245,
+      "name": "SANGUE",
+      "url": "https://open.spotify.com/track/5PaGd2z3v3dQciu0GD7DGs"
+    },
+    {
+      "album": {
         "name": "Santa F\u00e9",
         "url": "https://open.spotify.com/album/2Jzpbx6aNhCZc7eFy6CmRa"
       },
@@ -11222,6 +11304,32 @@
       "duration_ms": 243000,
       "name": "SUV",
       "url": "https://open.spotify.com/track/2hgoEGNNefWMveRlpLDiSG"
+    },
+    {
+      "album": {
+        "name": "A ESTRELA DA RUA.",
+        "url": "https://open.spotify.com/album/1iHxJSHd5qnUptRP02739v"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Nicholas Arashiro",
+          "url": "https://open.spotify.com/artist/5Cx8TEzo0BysMcJpfbH09m"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165539,
+      "name": "SUV 2027",
+      "url": "https://open.spotify.com/track/7G3u0N9kyjba68YevFhMws"
     },
     {
       "album": {
@@ -12776,7 +12884,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145655,
       "name": "\u00c9 Que os Menino \u00c9 Bom",
       "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"

@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-332 songs - 14 hr 34 min
+333 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Broken Wings](https://open.spotify.com/track/7utddC5JpZO80mzyvMDAUn) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Broken Wings](https://open.spotify.com/album/792Bau5O5lhW3swyI4pEiA) | 2:29 | 2025-02-21 |  |
 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 | 2022-05-27 | 2024-04-10 |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-05-27 | 2025-01-23 |
+| [Celeste Divine](https://open.spotify.com/track/7BJfzMaFNsPW0bICWZJbqk) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Celeste Divine](https://open.spotify.com/album/2lLPSCGptfSwx5HD3A9shj) | 2:37 | 2026-11-06 |  |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-18 |  |
 | [Changes](https://open.spotify.com/track/5HDOvDkZSeVGiaNb4lPSPN) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Changes](https://open.spotify.com/album/6hxm9ZZL3y6A5WoFynQtSp) | 3:05 | 2024-01-05 | 2026-05-16 |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2022-05-27 | 2025-01-23 |
@@ -272,7 +273,7 @@
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-05-27 | 2022-07-28 |
 | [Subtilité](https://open.spotify.com/track/4XAWOAaJmeKM2NIW0sgsf4) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Subtilité](https://open.spotify.com/album/7FkDLH5UgeB61WWgIfgN3s) | 2:55 | 2024-07-15 |  |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2022-05-27 | 2025-01-23 |
-| [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 | 2023-07-12 |  |
+| [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 | 2023-07-12 | 2026-11-06 |
 | [Sunflower](https://open.spotify.com/track/1tIQyfinoLja3OM6ngi6SX) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Sunflower](https://open.spotify.com/album/4SEWwKpSJutByuepk1Oqzk) | 2:57 | 2026-07-17 |  |
 | [Synchronicity](https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Synchronicity](https://open.spotify.com/album/3K5o4pXNsxdxW8MEn2jtel) | 2:30 | 2022-05-27 | 2024-04-10 |
 | [Take Me Back](https://open.spotify.com/track/4u8aNYQTJdyBvpsSwz05I6) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Take Me Back](https://open.spotify.com/album/69tYSDWT80qmZXsBRaYlhG) | 2:21 | 2022-05-27 | 2024-03-26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andia",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Juno, AMI",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -576,6 +576,24 @@
       "duration_ms": 153401,
       "name": "Aleg S\u0103 Z\u00e2mbesc",
       "url": "https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG"
+    },
+    {
+      "album": {
+        "name": "Alexandra",
+        "url": "https://open.spotify.com/album/1iYZiOIlT8lwvmrfDdPVUq"
+      },
+      "artists": [
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Alexandra",
+      "url": "https://open.spotify.com/track/1vAw6gF5luHa2mPNVwtzm4"
     },
     {
       "album": {
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 138750,
       "name": "Baila Morena",
       "url": "https://open.spotify.com/track/3g2Bow34JQwxfluQFvPcmy"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 161538,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3nk0rATAea3bUXN74anmsH"
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 173478,
       "name": "Cine te sun\u0103?",
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184285,
       "name": "Dream Out Loud",
       "url": "https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ"
@@ -4995,6 +5013,28 @@
     },
     {
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6pxi6WQPuaIlaoGVRUrmFc"
+      },
+      "artists": [
+        {
+          "name": "Raluka",
+          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175581,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5eOeBAbaYllbvLEgeGi490"
+    },
+    {
+      "album": {
         "name": "Hora fetelor",
         "url": "https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO"
       },
@@ -6081,6 +6121,28 @@
     },
     {
       "album": {
+        "name": "Lucruri Simple",
+        "url": "https://open.spotify.com/album/7j4CNML1IFmZYUzZ4xHYv1"
+      },
+      "artists": [
+        {
+          "name": "Maddie",
+          "url": "https://open.spotify.com/artist/57YmVYhEp40JTSUttWTiRh"
+        },
+        {
+          "name": "Florin Ristei",
+          "url": "https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137428,
+      "name": "Lucruri Simple",
+      "url": "https://open.spotify.com/track/2xJPy07XsBWtr1CDDDDbyE"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/3FU4yAZqPp6iOY04H0Iy1p"
       },
@@ -6706,7 +6768,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 177142,
       "name": "Miss Cali (Hallelujah)",
       "url": "https://open.spotify.com/track/48jQWwzGdUPfz3uov5L3uK"
@@ -7137,6 +7199,24 @@
     },
     {
       "album": {
+        "name": "Nadia",
+        "url": "https://open.spotify.com/album/1mi8tmv3ktd0PcRppLGEh9"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152957,
+      "name": "Nadia",
+      "url": "https://open.spotify.com/track/4uM5UUwLnNGNK4vOcBjALz"
+    },
+    {
+      "album": {
         "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
         "url": "https://open.spotify.com/album/4QoZF7wvuvlBpNz9fZzUSF"
       },
@@ -7258,6 +7338,28 @@
       "duration_ms": 195000,
       "name": "Niciodat\u0103",
       "url": "https://open.spotify.com/track/1ad3VcBShCyHo43vLq75JB"
+    },
+    {
+      "album": {
+        "name": "Nimeni",
+        "url": "https://open.spotify.com/album/41uRLG8YoDy5qdCHmstc5D"
+      },
+      "artists": [
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        },
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172903,
+      "name": "Nimeni",
+      "url": "https://open.spotify.com/track/1doBChDNuCHRRXKqaMuT9u"
     },
     {
       "album": {
@@ -7792,7 +7894,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200930,
       "name": "Numa' bun\u0103 de iubit",
       "url": "https://open.spotify.com/track/6vTisLvT3qEJGYL4aq1Mck"
@@ -8891,6 +8993,24 @@
     },
     {
       "album": {
+        "name": "Prin ploi",
+        "url": "https://open.spotify.com/album/5eMRNfgyxYgi4e4RkaDTVS"
+      },
+      "artists": [
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175764,
+      "name": "Prin ploi",
+      "url": "https://open.spotify.com/track/5WwRJeqMAxHjahReLGbVCj"
+    },
+    {
+      "album": {
         "name": "Prin\u021bul din Belair",
         "url": "https://open.spotify.com/album/0EQhQplPIxWq0m9hkAQkGI"
       },
@@ -9930,7 +10050,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186420,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5k1RYTRsmi9EUdK6tYgPJB"
@@ -10980,6 +11100,28 @@
       "duration_ms": 172500,
       "name": "Ultimul s\u0103rut",
       "url": "https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2"
+    },
+    {
+      "album": {
+        "name": "Umbrela Mea",
+        "url": "https://open.spotify.com/album/6qpfuV1g61Qk6pbSzNvaR5"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        },
+        {
+          "name": "AMI",
+          "url": "https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Umbrela Mea",
+      "url": "https://open.spotify.com/track/1r5zizCK7qVsyhdHa8IVYf"
     },
     {
       "album": {

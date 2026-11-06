@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,021 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,028 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 42 | [Temporary Insanity](https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL) | [Joe d'Etienne Big Band](https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M) | [What's The Rush? \(Remastered\)](https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi) | 6:43 |
 | 43 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
 | 44 | [Madrugada](https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv) | [Cha/Co Project](https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK) | [Claroscuro](https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o) | 6:24 |
-| 45 | [Once I Loved](https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K) | [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Alberto Medina](https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z), [Pablo Prieto](https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25) | [Triology](https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS) | 7:08 |
-| 46 | [Entronque](https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf) | [David Chanson](https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK) | [La Institución Te Reclama](https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ) | 5:49 |
+| 45 | [Entronque](https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf) | [David Chanson](https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK) | [La Institución Te Reclama](https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ) | 5:49 |
+| 46 | [Once I Loved](https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K) | [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Alberto Medina](https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z), [Pablo Prieto](https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25) | [Triology](https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS) | 7:08 |
 | 47 | [Mosquita Muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita Muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 |
 | 48 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 | 49 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |

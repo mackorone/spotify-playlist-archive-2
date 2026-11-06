@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-424 songs - 17 hr 8 min
+425 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Lanterns](https://open.spotify.com/track/4rk9U1jbpCh5Nqu1HTCKJ5) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [In Dreams](https://open.spotify.com/album/0c7ajzexctemP0dby48zn4) | 3:20 | 2021-06-27 | 2022-07-29 |
 | [Lanterns](https://open.spotify.com/track/5XAhkF2eINdZ8wGp7dGvr1) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [In Dreams](https://open.spotify.com/album/7neT7lywXFsJeZMKlSIjg3) | 3:20 | 2022-07-05 | 2023-05-16 |
 | [Lanterns Ascending](https://open.spotify.com/track/1q4LgMZguHvaPnmihuL62s) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Lanterns Ascending](https://open.spotify.com/album/4DN6WfnwvhROng2D9dV0SR) | 3:07 | 2023-05-15 | 2025-04-10 |
+| [Lavender Haze](https://open.spotify.com/track/1vGxSwfwOrnpcv5xro4G9k) | [Ted Lucky](https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg) | [Lavender Haze](https://open.spotify.com/album/6lpRDy5JYuxJeEzM22Y0HC) | 2:16 | 2026-11-06 |  |
 | [Lavender Lake](https://open.spotify.com/track/6fFYOKxM2mFdPNyVRIUyR9) | [Anthony Ashley\-Jones](https://open.spotify.com/artist/0TzCuBsid1h1aj7ZRSa8JX) | [Lavender Lake](https://open.spotify.com/album/6rOyyBrUVTuAn2P47xWoky) | 3:02 | 2026-07-03 |  |
 | [Le marchand de sable est passé](https://open.spotify.com/track/4ZHotLx5jX1MPDixEhEakI) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Le marchand de sable est passé](https://open.spotify.com/album/6sPS38qm4ZftAtfS8C9iKH) | 3:45 | 2021-06-27 | 2023-05-16 |
 | [Le Mistral](https://open.spotify.com/track/5QQ2pX7NqNl6rVS6aqCwGA) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Le Mistral](https://open.spotify.com/album/1NTvCYztfNHAfo15pgILsk) | 2:41 | 2021-06-27 | 2023-05-16 |

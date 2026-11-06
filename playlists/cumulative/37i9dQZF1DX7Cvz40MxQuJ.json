@@ -787,6 +787,28 @@
     },
     {
       "album": {
+        "name": "Hijo de la Luna (Arr. for Harp by Oksana Sidyagina)",
+        "url": "https://open.spotify.com/album/3lSOOgSmHNZOrvcfN9uG4X"
+      },
+      "artists": [
+        {
+          "name": "Jose Mar\u00eda Cano",
+          "url": "https://open.spotify.com/artist/7mzk8wJJpj8xczROCpXQyk"
+        },
+        {
+          "name": "Oksana Sidyagina",
+          "url": "https://open.spotify.com/artist/3hf2wVzYZQzQyMV8BZO6Fz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137269,
+      "name": "Hijo de la Luna (Arr. for Harp by Oksana Sidyagina)",
+      "url": "https://open.spotify.com/track/3wbhijvSdSI9JO8Yrgf21u"
+    },
+    {
+      "album": {
         "name": "Mist Without",
         "url": "https://open.spotify.com/album/4ggQY7MLMNv5N1ksGzSl8l"
       },

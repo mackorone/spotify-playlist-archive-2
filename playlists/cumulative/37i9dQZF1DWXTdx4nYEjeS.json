@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213600,
       "name": "50 Horas",
       "url": "https://open.spotify.com/track/5xiH2wHtpuOaNbxm9PAofT"
@@ -20668,6 +20668,24 @@
       "duration_ms": 201770,
       "name": "\u00a1Gracias!",
       "url": "https://open.spotify.com/track/0mWxVghJRM3kwzIosQCxY1"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Make My Daddy Proud",
+        "url": "https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "\u00a1Pop!",
+      "url": "https://open.spotify.com/track/1Wqw1spmVG9hmU8MeKH402"
     },
     {
       "album": {

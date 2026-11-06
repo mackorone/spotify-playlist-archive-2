@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Chuwi.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con ZUCO OMG.
 
-1,068 songs - 2 day 9 hr 19 min
+1,069 songs - 2 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 | 2022-02-09 | 2023-02-17 |
 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:20 | 2023-09-29 | 2023-10-14 |
 | [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 | 2025-03-14 | 2025-07-09 |
-| [Alone In Roma \(feat\. French Braids\)](https://open.spotify.com/track/0HYHy6kaZ8ospkqYOeYLYw) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Alone In Roma \(feat\. French Braids\)](https://open.spotify.com/album/0phNiAwsxluRkaQkzdzIPW) | 3:27 | 2026-02-13 |  |
+| [Alone In Roma \(feat\. French Braids\)](https://open.spotify.com/track/0HYHy6kaZ8ospkqYOeYLYw) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Alone In Roma \(feat\. French Braids\)](https://open.spotify.com/album/0phNiAwsxluRkaQkzdzIPW) | 3:27 | 2026-02-13 | 2026-11-06 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 | 2026-06-27 |
 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 | 2023-08-25 | 2023-09-16 |
 | [Amantes](https://open.spotify.com/track/2c4gYuETFB1Uf6gEwblpl5) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Amantes](https://open.spotify.com/album/5gHluRiuI1E8gmV2fTGCat) | 3:41 | 2025-09-05 | 2025-11-23 |
@@ -604,6 +604,7 @@
 | [Mentira](https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Mentira](https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M) | 2:11 | 2026-08-28 |  |
 | [Mentirasmentiras](https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Mentirasmentiras](https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef) | 4:08 | 2026-08-07 |  |
 | [MENTIRNOS HOY](https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb), [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [YORU](https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs) | 2:48 | 2026-03-13 |  |
+| [Mercedes Rosa](https://open.spotify.com/track/0w9KWawjDKyw9p8Otdouq9) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [El Más Feliz de los Tristes](https://open.spotify.com/album/3xCb1oxClCtTvz0TdQj8I0) | 3:00 | 2026-11-06 |  |
 | [Mercy](https://open.spotify.com/track/0PPPGxrAwxqiwPVV01TquS) | [June Jissle](https://open.spotify.com/artist/6mM6fIONY6SX76YutA1ue7), [Heyssis](https://open.spotify.com/artist/7olZ1BADnsM8bWzMEL1uQ1) | [888](https://open.spotify.com/album/0hCvcso6vh9KuWSRivWxyf) | 2:00 | 2021-12-02 | 2022-01-25 |
 | [Merengue Pa' Cintura](https://open.spotify.com/track/2uKEXlmNA5udK76QrH5tSe) | [Joel Martínez](https://open.spotify.com/artist/2uBYMzBnnY93Re3yRpJKdq) | [Mirando De Lejos](https://open.spotify.com/album/6KrJSUAjmGrrW4IFW1WOfz) | 5:54 | 2023-09-29 | 2023-10-14 |
 | [Metamorphosis \(with Ambar Lucid\)](https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:08 | 2024-02-23 | 2024-05-25 |

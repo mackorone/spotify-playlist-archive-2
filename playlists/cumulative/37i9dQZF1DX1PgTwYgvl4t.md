@@ -4,7 +4,7 @@
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-479 songs - 2 day 12 hr 35 min
+480 songs - 2 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Ekwueme \(In Your Class\)](https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ekwueme \(In Your Class\)](https://open.spotify.com/album/4aKFnqCvKz4ZDo2apxay1I) | 12:53 | 2024-08-23 | 2025-02-21 |
 | [El Roi](https://open.spotify.com/track/73slZeHzp4jRUt3hwXoagJ) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk) | [El Roi](https://open.spotify.com/album/2cn25qvHogjamZNBt9q5i2) | 7:54 | 2025-03-28 | 2025-04-11 |
 | [Eledumare \- Live](https://open.spotify.com/track/26UUHxn7Mhbav9oJIwhqYc) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Eledumare \(Live\)](https://open.spotify.com/album/4ikbG2W4WG6spfFQ6fNrTc) | 7:07 | 2025-08-22 | 2025-09-19 |
+| [Elohim Adonai](https://open.spotify.com/track/0ZMglvm7PYZUw0RbwKfBnL) | [Aderoju Tojola](https://open.spotify.com/artist/0CCMdfxDLJ3ntsUN2qq7vs) | [Elohim Adonai](https://open.spotify.com/album/0RDPsoxIm2lqTyebb4G77X) | 4:41 | 2026-11-06 |  |
 | [Elohim You Are Beautiful \- Live](https://open.spotify.com/track/3Sgg0KTjSB3MKOWt3agB0Y) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Wura Mercé](https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN) | [Elohim You Are Beautiful \(Live\)](https://open.spotify.com/album/6opi4KqzaB89vn9tSqG9Lr) | 12:44 | 2024-12-13 | 2025-02-14 |
 | [Elohim You Are Beautiful \- Remix](https://open.spotify.com/track/5DdDxKedT3JIYmUBIRyDFA) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Elohim You Are Beautiful \(Remix\)](https://open.spotify.com/album/1PZrESGeCmtZvmcHNbDSkd) | 4:48 | 2025-12-12 | 2026-01-30 |
 | [Elshaddai](https://open.spotify.com/track/0cgMhBiowzRrrtDKl8KW7I) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Elshaddai](https://open.spotify.com/album/5F2aaUqBT7CVRB8reEi69R) | 5:20 | 2025-09-05 | 2025-10-31 |
@@ -319,7 +320,7 @@
 | [Not My Will \( Live \)](https://open.spotify.com/track/2SKJFXD7b31nX4yD8W41ZT) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Not My Will \( Live \)](https://open.spotify.com/album/2MC1vGGqfZWGLBFKnIIYPd) | 9:44 | 2025-01-24 | 2025-03-07 |
 | [Nothing Without You \- Live](https://open.spotify.com/track/3c14NjEO3dR6bGZpCl7VBp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Nothing Without You \(Live\)](https://open.spotify.com/album/1jQQP8xN0197YhIRumYCia) | 6:35 | 2024-05-31 | 2025-02-21 |
 | [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/65qGdBDvU2MNQSidVL4Hxh), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 | 2026-08-28 | 2026-10-30 |
-| [Nwaturu Chukwu](https://open.spotify.com/track/0gLmHxgE408gBRoNZVn7Bw) | [Cheemah](https://open.spotify.com/artist/6vHRbHLaqOoAfLHEB7yF0r) | [Nwaturu Chukwu](https://open.spotify.com/album/6mGa3maxydY3tqX0YeHSOA) | 2:15 | 2026-08-14 |  |
+| [Nwaturu Chukwu](https://open.spotify.com/track/0gLmHxgE408gBRoNZVn7Bw) | [Cheemah](https://open.spotify.com/artist/6vHRbHLaqOoAfLHEB7yF0r) | [Nwaturu Chukwu](https://open.spotify.com/album/6mGa3maxydY3tqX0YeHSOA) | 2:15 | 2026-08-14 | 2026-11-06 |
 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 | 2024-06-14 |  |
 | [Obuka \(Mighty\)](https://open.spotify.com/track/3IsW3qsjkkVyzr2SjPYYUw) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Obuka \(Mighty\)](https://open.spotify.com/album/0EDY4ohvUrbcxf4rp3Nhms) | 4:38 | 2025-10-24 | 2026-01-02 |
 | [Odaju \- Live](https://open.spotify.com/track/6Cz4scuNSdC9w9qETfL19H) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Odaju \(Live\)](https://open.spotify.com/album/1xTAicswkf5FXd59OrAVh6) | 14:19 | 2026-07-03 |  |

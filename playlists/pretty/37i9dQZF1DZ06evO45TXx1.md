@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,337 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,335 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 44 | [SERENATA](https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:49 |
 | 45 | [Rude](https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Vitin.wav](https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 2:43 |
 | 46 | [Sucessagem](https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb) | [Mulambo](https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu), [ykymani](https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Sucessagem](https://open.spotify.com/album/5PFd9qeZkm2U9DjHxWNb7F) | 2:27 |
-| 47 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
-| 48 | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ) | 2:27 |
+| 47 | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ) | 2:27 |
+| 48 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 49 | [Medley 4x4](https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS) | [PAPEL DE OTÁRIA \| MEDLEY 4X4](https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF) | 3:00 |
 | 50 | [Donas do Jogo 2](https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Donas do Jogo 2](https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo) | 3:17 |
 
-Snapshot ID: `aufSgAAAAADlAL5+FxtJKTsFsMxxqB08`
+Snapshot ID: `aukkAAAAAABc/Rnj83FoqFuzpC4e3ETo`

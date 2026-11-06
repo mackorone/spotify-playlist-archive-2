@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: KickFlip, iann dior)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: DPR ARTIC, Miggy Dela Rosa)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180000,
       "name": "Kick Off The Wall (Feat. iann dior)",
       "url": "https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc"
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 146204,
       "name": "MEXE",
       "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
@@ -5496,7 +5496,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
@@ -5788,6 +5788,28 @@
       "duration_ms": 163809,
       "name": "What Are We Out Here For",
       "url": "https://open.spotify.com/track/7vGdYiKibgTMvPvcYZetex"
+    },
+    {
+      "album": {
+        "name": "What I Said",
+        "url": "https://open.spotify.com/album/5CPC3z23KLdQBBLQWskeZR"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "What I Said",
+      "url": "https://open.spotify.com/track/23ZQchIwFBZO9iYjipO53o"
     },
     {
       "album": {

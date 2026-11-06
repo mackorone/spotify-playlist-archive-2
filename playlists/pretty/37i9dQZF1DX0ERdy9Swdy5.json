@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 815518,
+  "num_followers": 815573,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Amor Y Control",
-        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Amor y Control",
-      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 274733,
       "name": "Casi un Hechizo",
       "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Amor Y Control",
+        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Amor y Control",
+      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292653,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Cara De Ni\u00f1o",
         "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 296026,
       "name": "Cara de Ni\u00f1o",
       "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 292653,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Una Aventura...La Historia",
         "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 294280,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Si Te Preguntan",
-      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 354093,
       "name": "Busca Por Dentro",
       "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Si Te Preguntan",
+      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
-      },
-      "artists": [
-        {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "Cinco Noches",
-      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 277706,
       "name": "Me Mata La Soledad",
       "url": "https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+      },
+      "artists": [
+        {
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "Cinco Noches",
+      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "No Morir\u00e1 - No Matter What",
-      "url": "https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Por Derecho Propio",
         "url": "https://open.spotify.com/album/519dNSSpFOivv1krsuQnC2"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 317293,
       "name": "Esperandote",
       "url": "https://open.spotify.com/track/6ZAtxAnkwup5qX814jyYIe"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "No Morir\u00e1 - No Matter What",
+      "url": "https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN"
     },
     {
       "added_at": "2024-07-12 19:20:44",

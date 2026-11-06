@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Clau
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Lagum
 
-1,009 songs - 2 day 2 hr 41 min
+1,011 songs - 2 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Absorvendo Tudo](https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [ABSORVENDO TUDO](https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv) | 2:35 | 2023-11-17 | 2024-03-30 |
 | [Acabou](https://open.spotify.com/track/3502SF6xTXvq6GNJ380me6) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Acabou](https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim) | 2:58 | 2023-05-26 | 2023-06-17 |
 | [acende essa ponta](https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre o Nada e o Infinito](https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H) | 2:55 | 2024-07-26 | 2026-01-24 |
+| [Acontece \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/1V8ZAy7X8N09WHXFQYAwcl) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Acontece \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/5Z4tS64NHxdbhnxY6nN26Q) | 4:04 | 2026-11-06 |  |
 | [Acorda Amor](https://open.spotify.com/track/3wcfLGyG8FRCWxZOO7NsII) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX) | [Acorda Amor](https://open.spotify.com/album/5qCDzPx6lP6XKlYO6sbHBx) | 2:27 | 2022-05-13 | 2022-06-15 |
 | [Acordar Com Você](https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai), [Marina Aquino](https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr) | [Acordar Com Você](https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU) | 3:02 | 2025-08-15 | 2026-04-18 |
 | [Adolescente](https://open.spotify.com/track/4v84TqBjgpA027CgOYKvE9) | [Phil](https://open.spotify.com/artist/5gZF5DAcbjAJ9ZfOAFzVCH) | [Adolescente](https://open.spotify.com/album/7Gpy5nKEfivZZFUMootNGo) | 3:18 | 2022-12-02 | 2022-12-24 |
@@ -134,6 +135,7 @@
 | [Boate Qualquer](https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Paixão Nacional](https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz) | 3:07 | 2023-05-26 | 2023-08-26 |
 | [Bobagem Amor](https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:21 | 2024-05-31 | 2024-10-12 |
 | [BOCA GOSTOSA](https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BOCA GOSTOSA](https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs) | 2:22 | 2026-02-23 |  |
+| [Bom Demais](https://open.spotify.com/track/5kciT7CeO02juq6AKXHDQO) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bom Demais](https://open.spotify.com/album/1MLFl6DHYLIihucJD7vOnW) | 3:11 | 2026-11-06 |  |
 | [BONITA](https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE \(PARTE 1\)](https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn) | 2:42 | 2024-04-26 | 2024-07-19 |
 | [Bonjour](https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Bonjour](https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2) | 3:10 | 2025-06-13 | 2025-07-26 |
 | [Bora Se Pegar \- Ao Vivo](https://open.spotify.com/track/6ijwpIpePgnwSAON00jDpf) | [Rafa Almeida](https://open.spotify.com/artist/7vnlJ5bdedonMAORNPB72Y) | [Impacto, Ep\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3Q6q4nxY87NqQrlq6WYYfl) | 3:30 | 2022-06-14 | 2022-06-18 |
@@ -426,7 +428,7 @@
 | [giz de cera](https://open.spotify.com/track/0JnwmpK3A3FCJNMjy0y56r) | [Faria](https://open.spotify.com/artist/4zfzBqS0U8lWOTPOdYlUhC), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [giz de cera](https://open.spotify.com/album/2Yz4JPqKxo52SinbfGyHmr) | 2:48 | 2023-01-13 | 2023-04-29 |
 | [Golden Hour](https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Golden Hour](https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ) | 2:48 | 2022-11-11 | 2023-03-25 |
 | [Good Feeling About You \(Brazilian Version\)](https://open.spotify.com/track/50Q5FldbFCv25ymPI0UqAo) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c), [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Good Feeling About You \(Brazilian Version\)](https://open.spotify.com/album/3nZSdqzaXWAQiqpR3gMcOR) | 3:16 | 2024-08-09 | 2024-10-12 |
-| [gosto de gostar](https://open.spotify.com/track/41wHtU4pHeeaaAB5HFQu2k) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [gosto de gostar](https://open.spotify.com/album/01AQXivCzaBbmtMDVYtm4Y) | 2:43 | 2026-10-02 |  |
+| [gosto de gostar](https://open.spotify.com/track/41wHtU4pHeeaaAB5HFQu2k) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [gosto de gostar](https://open.spotify.com/album/01AQXivCzaBbmtMDVYtm4Y) | 2:43 | 2026-10-02 | 2026-11-06 |
 | [gostosa](https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [gostosa](https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK) | 2:34 | 2022-08-19 | 2023-01-28 |
 | [GRAÇAS A DEUS](https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0) | [GRAÇAS A DEUS](https://open.spotify.com/album/2ZIi7Xi8gPWO2FSdL5yiEE) | 2:06 | 2023-07-28 | 2023-08-26 |
 | [Guaecá](https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw) | [LUAU](https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg) | [Guaecá](https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0) | 2:36 | 2024-05-31 | 2024-10-05 |
@@ -704,7 +706,7 @@
 | [Porta Retrato \- Ao Vivo](https://open.spotify.com/track/0zZwVM8UrXq1ahEnMGuXEo) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Porta Retrato \(Ao Vivo\)](https://open.spotify.com/album/23WdEjWnQx1NJSyTRnSCcH) | 2:57 | 2023-06-16 | 2023-07-08 |
 | [Pq Vc Me Odeia Assim?](https://open.spotify.com/track/1Fvm656VZ9qfjhcrcqRKP5) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Pq Vc Me Odeia Assim?](https://open.spotify.com/album/1mm56Eg2srSHWb4RyQpRZm) | 2:57 | 2024-09-27 | 2024-10-18 |
 | [Pra Casar](https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Pra Casar](https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ) | 2:42 | 2024-11-22 | 2025-05-17 |
-| [Pra Lembrar De Mim No Fone](https://open.spotify.com/track/39SHvIYTLxto33v3guCsMh) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Pra Lembrar De Mim No Fone](https://open.spotify.com/album/3n5liuavttAKEBhVjPExHv) | 2:39 | 2026-07-24 |  |
+| [Pra Lembrar De Mim No Fone](https://open.spotify.com/track/39SHvIYTLxto33v3guCsMh) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Pra Lembrar De Mim No Fone](https://open.spotify.com/album/3n5liuavttAKEBhVjPExHv) | 2:39 | 2026-07-24 | 2026-11-06 |
 | [pra onde vai o amor](https://open.spotify.com/track/6Jjm1Gej7GoQWbFCNH40VX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:28 | 2023-06-09 | 2023-07-01 |
 | [Pra Ser Nós Dois](https://open.spotify.com/track/3NiReFiFiszuUxrrVtmmOI) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [O Teatro Mágico](https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ) | [Pra Ser Nós Dois](https://open.spotify.com/album/07dmfzKWDrSH4fBKc3TSXz) | 3:14 | 2023-01-20 | 2023-07-22 |
 | [Pra Te Conquistar](https://open.spotify.com/track/7vocZ3kbuEbt9ry3Gnic7E) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Pra Te Conquistar](https://open.spotify.com/album/03Pg25mTyw4O9HmKnph5ro) | 2:48 | 2022-05-13 | 2022-06-15 |

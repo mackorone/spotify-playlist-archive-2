@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-295 songs - 14 hr 15 min
+296 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Countdown 2026](https://open.spotify.com/track/2uAXkhR8wqW2w4KJAPvP7I) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Countdown 2026](https://open.spotify.com/album/2zee40b02OzVUC0afnvHX5) | 3:18 | 2026-06-04 |  |
 | [Crash The Party](https://open.spotify.com/track/4eHvUvkbJlSIFhOTJL5yjh) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Crash The Party](https://open.spotify.com/album/17aS7AUf72mLWcKN9ju3hf) | 2:55 | 2025-07-04 |  |
 | [Crowd Control](https://open.spotify.com/track/74ygo72Fscvw9ccTbDI0RI) | [Kom](https://open.spotify.com/artist/0udaLZnmQEU84poE2cbrlR), [Amber Na](https://open.spotify.com/artist/4Gi7SM27OSfhOHCjiK4Xeo), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Crowd Control](https://open.spotify.com/album/6rW011CXPpWSzuJUtgekgj) | 2:22 | 2025-07-04 |  |
+| [Crush](https://open.spotify.com/track/4URj3iP4o0dh4TloplaeXp) | [Detmex](https://open.spotify.com/artist/4wBopwyJ1F228LOOFb6qT8), [Dave Fantasy](https://open.spotify.com/artist/6fQqqtZexWIW4MjRgPW2ye), [DJ \- itao](https://open.spotify.com/artist/6kc9Q1LoAxJRgrAaevKieM) | [Crush](https://open.spotify.com/album/7k2ee5DvVmYPBSoFA219Ka) | 2:22 | 2026-11-05 |  |
 | [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 |  |
 | [Dance With Romance](https://open.spotify.com/track/69SUKBULZigUveocU7MkDV) | [Noz Cate](https://open.spotify.com/artist/2nhjBKSJ2wpxLGM5PDQ1lt) | [For The Love Of Progressive EP](https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs) | 3:15 | 2025-07-04 |  |
 | [Dangerous](https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm) | [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Dangerous](https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ) | 2:32 | 2025-07-04 | 2026-08-14 |

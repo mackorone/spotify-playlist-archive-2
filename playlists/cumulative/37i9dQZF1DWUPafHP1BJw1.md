@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-320 songs - 18 hr 19 min
+321 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 | 2021-11-19 |  |
 | [The Cranberries: Dreams](https://open.spotify.com/track/1yozEEHkRL2cotRpmAEpLs) | [Camille Berthollet](https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI) | [Dreams](https://open.spotify.com/album/50dPKN4y7TcqtaAvHUVbh4) | 3:20 | 2025-09-12 |  |
 | [The Door \(Arr\. Piano\)](https://open.spotify.com/track/2cJTpzCZDUmQ2NtY5lAisl) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [The Door \(Arr\. Piano\)](https://open.spotify.com/album/4H1vTwlmGDI1m1QH8vmQdW) | 3:02 | 2025-03-08 |  |
+| [The Killing Moon](https://open.spotify.com/track/3KufRwzBWm08EdVccZAah2) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Donnie Darko](https://open.spotify.com/album/4FFcL8ZZA8cMAwrk8hK9aP) | 3:46 | 2026-11-06 |  |
 | [The Unforgiven](https://open.spotify.com/track/3mIjX3Z3jh99AS7YWE5CsP) | [Rock Me Classical](https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [The Unforgiven](https://open.spotify.com/album/4eyMtJkEyVQCj0eeCOX5xP) | 3:07 | 2025-01-10 |  |
 | [The Wicked Witch of the East \(Arr\. Piano\) \- From "Wicked"](https://open.spotify.com/track/1q788yNg05YyyboAXB5MSZ) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [The Wicked Witch of the East \(Arr\. Piano\) \[From "Wicked"\]](https://open.spotify.com/album/5Fd2NyBKWSFWfHXTlMssMq) | 2:09 | 2025-11-26 | 2026-02-03 |
 | [Thinkin Bout You](https://open.spotify.com/track/3wMVL7iZdvszycJRjf3B5u) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Frank Ocean](https://open.spotify.com/album/5avXjcLakcGZFsVSDfE4m3) | 3:09 | 2025-04-25 |  |

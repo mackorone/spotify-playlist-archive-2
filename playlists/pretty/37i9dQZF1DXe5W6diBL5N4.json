@@ -1,28 +1,128 @@
 {
-  "description": "Enjoy the freshest K-Pop new releases (Cover: ILLIT) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 364387,
+  "description": "Enjoy the freshest K-Pop new releases (Cover: HANRORO) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 364443,
   "original_name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGl5jITXuZu9RhQSvk4TqDqlXiYi",
+  "snapshot_id": "AAAAAHbsHU4KiwEMMqyTnUDj0ZLlRjXk",
   "tracks": [
     {
-      "added_at": "2026-10-26 09:00:22",
+      "added_at": "2026-11-05 09:11:30",
       "album": {
-        "name": "BREAK EVEN",
-        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+        "name": "Question Mark",
+        "url": "https://open.spotify.com/album/5eADdEnRGT7yJfaQbbLtqe"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 181911,
-      "name": "You\u2019re Under Arrest",
-      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+      "duration_ms": 219000,
+      "name": "Question Mark",
+      "url": "https://open.spotify.com/track/5Z7D0AssXUHuYFnXsp3RyS"
+    },
+    {
+      "added_at": "2026-11-05 09:11:30",
+      "album": {
+        "name": "Calling back",
+        "url": "https://open.spotify.com/album/533hkArJ8h4EfsIUN59qft"
+      },
+      "artists": [
+        {
+          "name": "Dragon Pony",
+          "url": "https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Calling back",
+      "url": "https://open.spotify.com/track/5kyLl24iTiAP2oFwKiR2ff"
+    },
+    {
+      "added_at": "2026-11-05 09:11:30",
+      "album": {
+        "name": "TiNG TiNG",
+        "url": "https://open.spotify.com/album/3NJlW5XqmTGt8KC6kRdVIn"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "duration_ms": 149955,
+      "name": "TiNG TiNG",
+      "url": "https://open.spotify.com/track/7KqEWQkQfeDg0hjqml0WL8"
+    },
+    {
+      "added_at": "2026-11-05 09:11:30",
+      "album": {
+        "name": "Slow Jam",
+        "url": "https://open.spotify.com/album/2FbCvk2jhFevJjmhQm6D9V"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 191100,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/3u6sEC67Q2DMVQ7bwlmqcD"
+    },
+    {
+      "added_at": "2026-11-05 09:11:30",
+      "album": {
+        "name": "Letter to me",
+        "url": "https://open.spotify.com/album/037YTTmYAYsDVJvcKVypsE"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Letter to me",
+      "url": "https://open.spotify.com/track/0M3FPjAzIlSz5HVyHMC5gg"
+    },
+    {
+      "added_at": "2026-11-05 09:11:30",
+      "album": {
+        "name": "Kiwi",
+        "url": "https://open.spotify.com/album/1zpQnvZS39YY7UuOdBv8e3"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "chicken97",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/2RiF5y1SoSHR9Qmzf9MvtZ"
+    },
+    {
+      "added_at": "2026-11-05 09:11:30",
+      "album": {
+        "name": "ADAP 1ST MINI ALBUM [ALL DREAMS ARE POSSIBLE]",
+        "url": "https://open.spotify.com/album/7keioMA3ojTcSRyyNti8dP"
+      },
+      "artists": [
+        {
+          "name": "ADAP",
+          "url": "https://open.spotify.com/artist/0Q4fKXp6EjODnfjYrFaKBs"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "DRUM",
+      "url": "https://open.spotify.com/track/0q893Tf2OCVfv6i7j6EXOb"
     },
     {
       "added_at": "2026-11-05 01:59:32",
@@ -83,6 +183,26 @@
       "duration_ms": 240000,
       "name": "To Life, My Friend",
       "url": "https://open.spotify.com/track/72KKL4C4GsyMdmYQMqqiJc"
+    },
+    {
+      "added_at": "2026-11-05 09:11:30",
+      "album": {
+        "name": "What I Said",
+        "url": "https://open.spotify.com/album/5CPC3z23KLdQBBLQWskeZR"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "What I Said",
+      "url": "https://open.spotify.com/track/23ZQchIwFBZO9iYjipO53o"
     },
     {
       "added_at": "2026-11-05 01:59:32",
@@ -711,6 +831,22 @@
       "duration_ms": 150232,
       "name": "SINGIN' 4 YOU",
       "url": "https://open.spotify.com/track/7znaq7PCcz4UmzAifemy0d"
+    },
+    {
+      "added_at": "2026-10-26 09:00:22",
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
     },
     {
       "added_at": "2026-10-26 09:00:22",

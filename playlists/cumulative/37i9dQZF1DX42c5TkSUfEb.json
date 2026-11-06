@@ -4943,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243096,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8"
+    },
+    {
+      "album": {
         "name": "Son Little (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
       },
@@ -5904,6 +5922,24 @@
       "duration_ms": 157116,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
+    },
+    {
+      "album": {
+        "name": "mononoke",
+        "url": "https://open.spotify.com/album/3vAbOmWlcBq56XtkiRcLAm"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "mononoke",
+      "url": "https://open.spotify.com/track/53oxxT1yPpRlGiF6svD17o"
     },
     {
       "album": {
@@ -9270,7 +9306,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 221441,
       "name": "tired eyes",
       "url": "https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB"
@@ -9472,7 +9508,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 209924,
       "name": "Ugly things",
       "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"

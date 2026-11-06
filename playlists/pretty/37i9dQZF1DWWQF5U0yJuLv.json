@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 201786,
+  "num_followers": 201807,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Royal Astronomy",
         "url": "https://open.spotify.com/album/6wderqhoGndjyEC1rODumX"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 247373,
       "name": "Goodbye, Goodbye",
       "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Theory of Colours",
+        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
+      },
+      "artists": [
+        {
+          "name": "Dauwd",
+          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+        }
+      ],
+      "duration_ms": 327576,
+      "name": "Theory of Colours",
+      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 108800,
       "name": "Polyghost",
       "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Theory of Colours",
-        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
-      },
-      "artists": [
-        {
-          "name": "Dauwd",
-          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
-        }
-      ],
-      "duration_ms": 327576,
-      "name": "Theory of Colours",
-      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -239,18 +239,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+        "name": "Lunatic Harness",
+        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
         }
       ],
-      "duration_ms": 306970,
-      "name": "Parallel 6",
-      "url": "https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C"
+      "duration_ms": 382373,
+      "name": "Brace Yourself Jason",
+      "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Lunatic Harness",
-        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
       "artists": [
         {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 382373,
-      "name": "Brace Yourself Jason",
-      "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
+      "duration_ms": 306970,
+      "name": "Parallel 6",
+      "url": "https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "The Elephant Never Forgets",
-      "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "3D Reworks 001",
         "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 296250,
       "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "The Elephant Never Forgets",
+      "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 420066,
-      "name": "Sci-Fi Staircase",
-      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Lunatic Harness",
         "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 420066,
+      "name": "Sci-Fi Staircase",
+      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Time to Recover",
         "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 136383,
       "name": "Stranger to One",
       "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -819,22 +835,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
         "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Pure, Impure",
         "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 347800,
       "name": "Moodswing",
       "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Puzzlewood",
         "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Coasting",
         "url": "https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Body Riddle (Remastered)",
         "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 174560,
       "name": "Ted",
       "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "William Shatner Has Been",
+        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
+      },
+      "artists": [
+        {
+          "name": "William Shatner",
+          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1487,22 +1503,6 @@
       "duration_ms": 196547,
       "name": "Echo Boomed",
       "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "William Shatner Has Been",
-        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
-      },
-      "artists": [
-        {
-          "name": "William Shatner",
-          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Das Ist Ein Groovybeat, Ja",
-        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
-      },
-      "artists": [
-        {
-          "name": "Jake Slazenger",
-          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
-        }
-      ],
-      "duration_ms": 379266,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Bubbles",
         "url": "https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Kpm 1000 Series: Atmospheres",
-        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
+        "name": "Das Ist Ein Groovybeat, Ja",
+        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
       },
       "artists": [
         {
-          "name": "Ron Geesin",
-          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
+          "name": "Jake Slazenger",
+          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
         }
       ],
-      "duration_ms": 129549,
-      "name": "Jolly Pranks",
-      "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
+      "duration_ms": 379266,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1831,6 +1815,22 @@
       "duration_ms": 188802,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Kpm 1000 Series: Atmospheres",
+        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
+      },
+      "artists": [
+        {
+          "name": "Ron Geesin",
+          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
+        }
+      ],
+      "duration_ms": 129549,
+      "name": "Jolly Pranks",
+      "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 107745,
-      "name": "Merry-Go-Round",
-      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Sabresonic",
         "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 107745,
+      "name": "Merry-Go-Round",
+      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2255,8 +2255,8 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "We Are Reasonable People",
-        "url": "https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR"
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
       "artists": [
         {
@@ -2264,9 +2264,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 291293,
-      "name": "Orange Romeda",
-      "url": "https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T"
+      "duration_ms": 358080,
+      "name": "Aquarius",
+      "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
     },
     {
       "added_at": "2025-11-07 05:00:56",

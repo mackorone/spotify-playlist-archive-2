@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring Akalex. Curated with love by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring Emily Nash. Curated with love by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 353617,
       "name": "20smth",
       "url": "https://open.spotify.com/track/1thFpbGcSQZuTNNQTcl9g6"
@@ -7990,7 +7990,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 282431,
       "name": "Boombox",
       "url": "https://open.spotify.com/track/2Bjbh92ZGKdWugmlroHJSY"
@@ -17953,6 +17953,24 @@
     },
     {
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/3nwEwmA4jrGVKeMk9WWnB0"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229484,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb"
+    },
+    {
+      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL"
       },
@@ -19507,6 +19525,24 @@
     },
     {
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/4TNQ25B1pzIYnB62jSmxw9"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218260,
+      "name": "ESPOIR",
+      "url": "https://open.spotify.com/track/5kQ4PsjOxKx9krM47EB9WE"
+    },
+    {
+      "album": {
         "name": "Essa Mina",
         "url": "https://open.spotify.com/album/3eaQmIHdcfnwCq68lJzKYH"
       },
@@ -20651,6 +20687,24 @@
     },
     {
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/3MRa4WJuwYOPdUEwPunFI2"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210692,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/3eCZVp9RZChgSLzC5aYiJL"
+    },
+    {
+      "album": {
         "name": "fall in love with the dj",
         "url": "https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ"
       },
@@ -21198,7 +21252,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145822,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
@@ -21624,7 +21678,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 216040,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/3lL5wyXmzyU3aXSs4ndFwK"
@@ -23680,6 +23734,24 @@
       "duration_ms": 214153,
       "name": "Free in this House",
       "url": "https://open.spotify.com/track/4WTBMXwdrklK66gC3h68DR"
+    },
+    {
+      "album": {
+        "name": "Free Me",
+        "url": "https://open.spotify.com/album/3FY4Nc7gKzulN79DHLmaD3"
+      },
+      "artists": [
+        {
+          "name": "Trainer RED",
+          "url": "https://open.spotify.com/artist/37QmZi7QK4Jegd9eldaQ1J"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/26G3BbPvgQk2ExxY0oJqsf"
     },
     {
       "album": {
@@ -28692,7 +28764,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220250,
       "name": "HOLD IT DOWN",
       "url": "https://open.spotify.com/track/1kVJOGzaO7kqiXaq8yp9WP"
@@ -32428,6 +32500,24 @@
       "duration_ms": 260000,
       "name": "In The Lights",
       "url": "https://open.spotify.com/track/17gufJUkfkS3OeBKe7vPAZ"
+    },
+    {
+      "album": {
+        "name": "In Ur Arms",
+        "url": "https://open.spotify.com/album/2B7DSd0aBnpPBiiEECDIgm"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224349,
+      "name": "In Ur Arms",
+      "url": "https://open.spotify.com/track/68SGA10js9ZvDIDQb3YsLU"
     },
     {
       "album": {
@@ -38266,7 +38356,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218500,
       "name": "Luire",
       "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
@@ -50578,7 +50668,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 148837,
       "name": "Recoil - Radio Edit",
       "url": "https://open.spotify.com/track/1OoxghVJA3YkWvrH7f1jBn"
@@ -55040,7 +55130,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 146564,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
@@ -66256,7 +66346,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166867,
       "name": "Wait What - Radio Edit",
       "url": "https://open.spotify.com/track/0WlHGeH7JsqBHRzL4t7Ld1"
@@ -68180,7 +68270,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 231800,
       "name": "When Love Takes Over (edit)",
       "url": "https://open.spotify.com/track/5Ouf4ITCDxrgrgcYrRxFoz"

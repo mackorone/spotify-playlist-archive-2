@@ -1585,6 +1585,32 @@
     },
     {
       "album": {
+        "name": "Nickel: Echo of Tranquility: I.",
+        "url": "https://open.spotify.com/album/0SiAACV4uqjumj20qBAU0r"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tyler Nickel",
+          "url": "https://open.spotify.com/artist/2Tu3X41C5J0sCHYIgN8Csr"
+        },
+        {
+          "name": "Christoph Crois\u00e9",
+          "url": "https://open.spotify.com/artist/4y3g3ztBiagwuJYyHSDZLK"
+        },
+        {
+          "name": "Oxana Shevchenko",
+          "url": "https://open.spotify.com/artist/3Xq5O3YE5UCoPq2vzM0sNT"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197084,
+      "name": "Echo of Tranquility: I",
+      "url": "https://open.spotify.com/track/4uO1PeDADNqoLkNubY3IFj"
+    },
+    {
+      "album": {
         "name": "Emotions - Einaudi: Una mattina",
         "url": "https://open.spotify.com/album/5qurLB4HSufAFQVEQVHMPD"
       },
@@ -1710,6 +1736,32 @@
       "duration_ms": 223538,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6ETiqLUzBgn8dvNmCYjpoG"
+    },
+    {
+      "album": {
+        "name": "Falla: Asturiana",
+        "url": "https://open.spotify.com/album/3JBq9TPG6sw5wmzGkr1WhW"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Lyam Chenaux",
+          "url": "https://open.spotify.com/artist/1eLO1VqRkExc2n0UvQRmd2"
+        },
+        {
+          "name": "Tatiana Korsunskaya",
+          "url": "https://open.spotify.com/artist/5hdyMnPtVOLsZI2iQZQpsh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158213,
+      "name": "Falla: Suite populaire espagnole: No 5, Asturiana (Arr. Mar\u00e9chal & Kochanski for Cello and Piano)",
+      "url": "https://open.spotify.com/track/6Lkdrt10lyZEA3ni4Gm5mo"
     },
     {
       "album": {
@@ -4202,6 +4254,40 @@
       "duration_ms": 359266,
       "name": "Vocalise, Op 34, No.14",
       "url": "https://open.spotify.com/track/7uKbelCBbJk2tp6w7JkpM3"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6J7niMITKeqE5q0FuWICMI"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Max Knoth",
+          "url": "https://open.spotify.com/artist/3oOwCfYWWE9hAamvqY0rwD"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Gordon Hamilton",
+          "url": "https://open.spotify.com/artist/5AW6V3aR82UfioCptMQ9p9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117610,
+      "name": "Weihnachtsgef\u00fchl Variation (After Weihnachtsgef\u00fchl, \"Naht die jubelvolle Zeit\", TrV198/AV94)",
+      "url": "https://open.spotify.com/track/4Nryaj4uq0hxunLtcw7tZX"
     },
     {
       "album": {

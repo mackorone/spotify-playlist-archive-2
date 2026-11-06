@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Alcal\u00e1 Norte.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 248863,
       "name": "Amor",
       "url": "https://open.spotify.com/track/4VQL3vGXuYHxArNX1Gf9so"
@@ -1991,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "Carne con patatas",
+        "url": "https://open.spotify.com/album/5pzOeB0WHon4aswxCs0srO"
+      },
+      "artists": [
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        },
+        {
+          "name": "Miguelito Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0hGbfFHeG8GY5idG4PO31p"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "Caminos habituales",
+      "url": "https://open.spotify.com/track/1twpRMpEbfhVd5KUQPx9Z0"
+    },
+    {
+      "album": {
         "name": "Camiseta de Rokanrol",
         "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
       },
@@ -2010,6 +2032,24 @@
       "duration_ms": 229832,
       "name": "Camiseta de Rokanrol",
       "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
+    },
+    {
+      "album": {
+        "name": "Dej\u00e9moslo Como Estaba",
+        "url": "https://open.spotify.com/album/5DdqS1tEM2HzExhj0fXK1G"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Campos De Golf",
+      "url": "https://open.spotify.com/track/2POzBe7i64yZF0ngCST3MG"
     },
     {
       "album": {
@@ -2408,7 +2448,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 185166,
       "name": "Colocado por ti",
       "url": "https://open.spotify.com/track/5hcVSGDdgUcqE7r84ctEml"
@@ -3374,7 +3414,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 211000,
       "name": "DE MOMENTO",
       "url": "https://open.spotify.com/track/36BPEKUIFzlkqbkraLzfuQ"
@@ -5139,6 +5179,28 @@
     },
     {
       "album": {
+        "name": "El rey que rabi\u00f3 (Introducci\u00f3n)",
+        "url": "https://open.spotify.com/album/43VAmaup3v2VnxXvkDwx05"
+      },
+      "artists": [
+        {
+          "name": "Tu Otra Bonita",
+          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+        },
+        {
+          "name": "Ni\u00f1o de Elche",
+          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97194,
+      "name": "El rey que rabi\u00f3 - Introducci\u00f3n",
+      "url": "https://open.spotify.com/track/2Ntx2CLUFKQ3VKDhYaBbiw"
+    },
+    {
+      "album": {
         "name": "Heroes De Los 80",
         "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
@@ -5692,7 +5754,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218037,
       "name": "Esa boca de cristal - Cap.II",
       "url": "https://open.spotify.com/track/2NYpZFuDFLoAe34BJSq4ev"
@@ -6534,7 +6596,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 252874,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
@@ -10045,6 +10107,24 @@
     },
     {
       "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/678FTHMnoKJOwVE1JH56Jw"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248292,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/10K0kDK6vrxIfaButo3K2s"
+    },
+    {
+      "album": {
         "name": "Menquitofla",
         "url": "https://open.spotify.com/album/1tYP36OUuRPJUwRk0a0XVB"
       },
@@ -10350,6 +10430,24 @@
       "duration_ms": 156112,
       "name": "Moloko",
       "url": "https://open.spotify.com/track/4BXfoFnpXmsNfmaAerB3JT"
+    },
+    {
+      "album": {
+        "name": "MOSQUITO",
+        "url": "https://open.spotify.com/album/44WGd1h2MnCkO1Sa3mzKwB"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "MOSQUITO",
+      "url": "https://open.spotify.com/track/1so0w64iWBDvUDqjinTXAl"
     },
     {
       "album": {
@@ -11845,6 +11943,24 @@
     },
     {
       "album": {
+        "name": "Para Todos",
+        "url": "https://open.spotify.com/album/4hShJmTUqqtFhLdqAqe8G1"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Para Todos",
+      "url": "https://open.spotify.com/track/2FIOnDyX60sRK1FG2ywfcd"
+    },
+    {
+      "album": {
         "name": "Para volverte a decir",
         "url": "https://open.spotify.com/album/4MKKOwt0Lw7susoIuMBo5s"
       },
@@ -12489,6 +12605,24 @@
     },
     {
       "album": {
+        "name": "Puro Sudor",
+        "url": "https://open.spotify.com/album/2NsJYtKczJuQpwgBtG6z4B"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240027,
+      "name": "Puro Sudor",
+      "url": "https://open.spotify.com/track/5oFlQ9KS8qxtGB1vxms7io"
+    },
+    {
+      "album": {
         "name": "Pu\u00f1o",
         "url": "https://open.spotify.com/album/6aVHxdAzvCCdanJeDsvj35"
       },
@@ -12764,7 +12898,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
@@ -12920,6 +13054,24 @@
       "duration_ms": 252586,
       "name": "Redenci\u00f3n",
       "url": "https://open.spotify.com/track/6OrbWWolcd6EoVuf6MeYgQ"
+    },
+    {
+      "album": {
+        "name": "RELICARIO",
+        "url": "https://open.spotify.com/album/4dBs1UaYnxq4JJVzEDvDKV"
+      },
+      "artists": [
+        {
+          "name": "El Barrio",
+          "url": "https://open.spotify.com/artist/0fM3rWsshliRFUmJlBP6QZ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250807,
+      "name": "Relicario",
+      "url": "https://open.spotify.com/track/0REvOionLxkTE4LDyZloMI"
     },
     {
       "album": {
@@ -13224,7 +13376,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180927,
       "name": "Roto",
       "url": "https://open.spotify.com/track/41PuLD8ngwwucn2i2fRTQh"
@@ -13664,7 +13816,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182464,
       "name": "Si vuelves",
       "url": "https://open.spotify.com/track/6SqCkJiVsOlHcsczQrVtFE"
@@ -14128,6 +14280,28 @@
       "duration_ms": 207986,
       "name": "Stand By",
       "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"
+    },
+    {
+      "album": {
+        "name": "FURIA Y CALMA",
+        "url": "https://open.spotify.com/album/6NcwnbgfvsUNt3z1BmZGfU"
+      },
+      "artists": [
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207470,
+      "name": "SU CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/2BcOdf6ufiaHY1mc02yygk"
     },
     {
       "album": {
@@ -15272,7 +15446,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 293547,
       "name": "Un minuto de emoci\u00f3n",
       "url": "https://open.spotify.com/track/6jcjC9YEy14mmzsMPhpsvQ"

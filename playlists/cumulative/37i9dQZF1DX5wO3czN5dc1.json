@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House, curated by Shamiso.",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Shimza, Ayra Starr, Alok",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -32,7 +32,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 187083,
       "name": "2 This",
       "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
@@ -72,7 +72,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 166707,
       "name": "A.I.E.",
       "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 413368,
       "name": "ABANJANI (feat. MR GEE SA & LIL M\u00d6)",
       "url": "https://open.spotify.com/track/5u0jurzJSs6DnwNjBlhiPG"
@@ -228,10 +228,40 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 379972,
       "name": "Aja",
       "url": "https://open.spotify.com/track/0p2mP0ewJGDWn9Y5ZI5eJn"
+    },
+    {
+      "album": {
+        "name": "All The People",
+        "url": "https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Something Else",
+          "url": "https://open.spotify.com/artist/0MpLB95CWqk4AjCDaYWZyX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "All The People",
+      "url": "https://open.spotify.com/track/4lYmmth0qGELlYGE5LPzkx"
     },
     {
       "album": {
@@ -284,7 +314,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 398675,
       "name": "Ama Cup (feat. Thukuthela)",
       "url": "https://open.spotify.com/track/7LUGphbGEbXJKbLuREzocI"
@@ -524,7 +554,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228750,
       "name": "Apogaye",
       "url": "https://open.spotify.com/track/0aFzHUFfc8HVIUaHVvmCpD"
@@ -812,7 +842,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 418000,
       "name": "Banjuka",
       "url": "https://open.spotify.com/track/6IAvcYvqzgYlmWgPVDsdiE"
@@ -984,7 +1014,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 377755,
       "name": "Between Malawi & Zambia - Mixed",
       "url": "https://open.spotify.com/track/6lNWdI0Rfx7KYFcTZXmcVk"
@@ -1032,7 +1062,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 210491,
       "name": "Bittersweet Memories",
       "url": "https://open.spotify.com/track/6rRNr6g4UwF4gPnajJsvLT"
@@ -1080,7 +1110,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 196133,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/6xkcVBMYJKWMPAihIB8L7E"
@@ -1120,7 +1150,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 120500,
       "name": "Bun Is Bun!",
       "url": "https://open.spotify.com/track/03fFGoob44yTJstYZkpkXG"
@@ -1264,7 +1294,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE"
@@ -1368,7 +1398,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 327951,
       "name": "Come To Me (My Love)",
       "url": "https://open.spotify.com/track/1ZCRAO91HC9X8d4WloR59a"
@@ -1452,7 +1482,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 198341,
       "name": "Da Dome",
       "url": "https://open.spotify.com/track/2PkSgEntVjw5hOQhcZQU0s"
@@ -1522,7 +1552,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 263606,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/56OZupQJnoEfzjUwi9Ygkn"
@@ -1622,7 +1652,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 477762,
       "name": "Diaspora - Laolu Remix",
       "url": "https://open.spotify.com/track/1nPRqBrpUrTnT1v0XmTRt3"
@@ -1756,7 +1786,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 280099,
       "name": "Dubdogs",
       "url": "https://open.spotify.com/track/4G9LO9dfw9MN81dMfFjYHa"
@@ -1792,7 +1822,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 349320,
       "name": "Ebaba - Main Mix",
       "url": "https://open.spotify.com/track/0dcPM8zeNN8eHm6CSxPUi4"
@@ -1836,7 +1866,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 133177,
       "name": "Elumelu",
       "url": "https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd"
@@ -1956,7 +1986,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210491,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/3368nB00QVs4L0gLt0V3kS"
@@ -2034,7 +2064,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 242132,
       "name": "Farafina",
       "url": "https://open.spotify.com/track/5nwxbKNEzGPtuU3KgCAhmr"
@@ -2082,7 +2112,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 230376,
       "name": "Fatuma",
       "url": "https://open.spotify.com/track/6ZQVVlR9FNOX4mV3XryDIM"
@@ -2222,7 +2252,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 406912,
       "name": "Fitii",
       "url": "https://open.spotify.com/track/1eX7eRXViPUGipimCDs3wc"
@@ -2476,7 +2506,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 445719,
       "name": "Go Around - Mpho.Wav Remix",
       "url": "https://open.spotify.com/track/7M8AxNEbOl9kv5mIPlZcNF"
@@ -2516,7 +2546,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 312052,
       "name": "Golden Horizon (feat. Kitchen Mess)",
       "url": "https://open.spotify.com/track/2qMzjzammwsmi3uj6ghVYX"
@@ -2568,7 +2598,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 425084,
       "name": "Guqa (My Prayer)",
       "url": "https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo"
@@ -2598,7 +2628,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "G\u00e2i tama",
       "url": "https://open.spotify.com/track/6CavqsBFAGPBw5cL7p68et"
@@ -2668,7 +2698,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 372005,
       "name": "Hamba Nawe",
       "url": "https://open.spotify.com/track/2wehBHqjisx7V17lBLHGSZ"
@@ -2734,7 +2764,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 364275,
       "name": "HD-K",
       "url": "https://open.spotify.com/track/1TxOzF23hCUL4g7ix2slnK"
@@ -2814,7 +2844,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 413053,
       "name": "Hondo - Original mix",
       "url": "https://open.spotify.com/track/6jqMATbR9KZuu1Vq88gXnK"
@@ -2848,7 +2878,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 538000,
       "name": "Humans (feat. Lyrik Shoxen and KJM Cornetist) - Black Motion Remix",
       "url": "https://open.spotify.com/track/3S7knamDnPAI1D4SbqxoUO"
@@ -3030,7 +3060,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 236079,
       "name": "Ijoya",
       "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
@@ -3156,7 +3186,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213196,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/7hRFu8gdtmYz0zX19fRRK9"
@@ -3476,7 +3506,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 328797,
       "name": "INtombi Entsha (feat. Essa Kay, Mnqobi Yazo & Mpumi)",
       "url": "https://open.spotify.com/track/7CI6r9oceCzafniw8Yq739"
@@ -3636,7 +3666,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213000,
       "name": "Isinkwa",
       "url": "https://open.spotify.com/track/35NunXJ3n3kkHD54dgD8E4"
@@ -3858,7 +3888,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 212584,
       "name": "jozi to paris - Radio Edit",
       "url": "https://open.spotify.com/track/7BWJYw0FwLzXM0zO51Mikx"
@@ -3898,7 +3928,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 352423,
       "name": "Kaltron",
       "url": "https://open.spotify.com/track/1FK4IcCtkvkmkqb7n18PfI"
@@ -3942,7 +3972,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 492478,
       "name": "Kemet",
       "url": "https://open.spotify.com/track/0Fj98mq9rhN3jkLt59VySN"
@@ -4098,6 +4128,28 @@
       "duration_ms": 136252,
       "name": "Kila Wakati - Original Mix",
       "url": "https://open.spotify.com/track/6UZSB8Zabicv1S6RKW9tCV"
+    },
+    {
+      "album": {
+        "name": "KILI",
+        "url": "https://open.spotify.com/album/4MxHBMtItZCMLxHJzuJ4i4"
+      },
+      "artists": [
+        {
+          "name": "Ghenda",
+          "url": "https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160575,
+      "name": "KILI",
+      "url": "https://open.spotify.com/track/3w53pOjQoWWfx5agM8IPph"
     },
     {
       "album": {
@@ -4385,6 +4437,44 @@
     },
     {
       "album": {
+        "name": "Lala Ngedwa",
+        "url": "https://open.spotify.com/album/6fruFyL4FGcxyHoZkNWGzE"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
+          "name": "Smilo",
+          "url": "https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL"
+        },
+        {
+          "name": "DJ LESA",
+          "url": "https://open.spotify.com/artist/28L7mwxPmO9y0mVflyGHXD"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325434,
+      "name": "Lala Ngedwa",
+      "url": "https://open.spotify.com/track/5E8rgGm8q8oYXi9Fo4XA9x"
+    },
+    {
+      "album": {
         "name": "Le Royal",
         "url": "https://open.spotify.com/album/64qjm8LJ6lMBF5Sm0vILrS"
       },
@@ -4400,7 +4490,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 349180,
       "name": "Le Royal",
       "url": "https://open.spotify.com/track/1h0uxbGd0vEwFzu80A3ufy"
@@ -4492,7 +4582,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 432004,
       "name": "Linda",
       "url": "https://open.spotify.com/track/0dxPMZmxekQXkJYjNDKrw3"
@@ -4758,7 +4848,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Makuhia",
       "url": "https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw"
@@ -4844,7 +4934,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 291428,
       "name": "Mama",
       "url": "https://open.spotify.com/track/5uzwVxFxINbWYG0tqBKqXo"
@@ -4888,10 +4978,36 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 354000,
       "name": "mamano",
       "url": "https://open.spotify.com/track/7yvVwarW0NDyJBWV3kRo64"
+    },
+    {
+      "album": {
+        "name": "Mamela",
+        "url": "https://open.spotify.com/album/1K6w6LpieKogeU1njbcMOg"
+      },
+      "artists": [
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "TWO SHADES (AT)",
+          "url": "https://open.spotify.com/artist/0g2VRwayEtuxd0cT8I5RtM"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276446,
+      "name": "Mamela",
+      "url": "https://open.spotify.com/track/0YNW9Xa5GBTLYWArKNbCNC"
     },
     {
       "album": {
@@ -4958,7 +5074,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 403585,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/1IQ15KUCsWvL6QN8xJzlxA"
@@ -5002,7 +5118,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Mayawa",
       "url": "https://open.spotify.com/track/4vHm6K2I6xNuzRbLB9956w"
@@ -5146,7 +5262,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 427160,
       "name": "Mohigan Sun",
       "url": "https://open.spotify.com/track/3YRn1mX5zrwTNXIbk09N6c"
@@ -5202,7 +5318,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "morwa masingilo",
       "url": "https://open.spotify.com/track/4q6vQCmpu7y47ChMkgJNl9"
@@ -5250,7 +5366,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 132250,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/1eqmsKOw0XVBb33lywCRFw"
@@ -5552,7 +5668,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 347514,
       "name": "NALA",
       "url": "https://open.spotify.com/track/1Ki95fAh0UZpHGLiofTRuw"
@@ -5656,7 +5772,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 298640,
       "name": "Ndeto",
       "url": "https://open.spotify.com/track/0gyzBUV6bkfmJuVWXw4KF7"
@@ -5894,7 +6010,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 214576,
       "name": "Ngizwile",
       "url": "https://open.spotify.com/track/5Q4AIvjuZZojCAWiLKJ5Sn"
@@ -6204,7 +6320,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "One More Dance (feat. Mpho.Wav & Atmos Blaq)",
       "url": "https://open.spotify.com/track/13WESMIfueri5XdNagRGBg"
@@ -6222,10 +6338,36 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 230852,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/22qpuBNvo3l6FH7QsOBlbG"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/1xroOaQnl6wnNAXkO1aFBY"
+      },
+      "artists": [
+        {
+          "name": "Heliograph",
+          "url": "https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        },
+        {
+          "name": "Palau",
+          "url": "https://open.spotify.com/artist/7pa93DbAufiYadT6QY8VKY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7HbDSetqJOlt6tE9jHDswT"
     },
     {
       "album": {
@@ -6248,7 +6390,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 345783,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/3UULJclAe788mLrvRENNtV"
@@ -6278,7 +6420,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 130819,
       "name": "OVERDOSE",
       "url": "https://open.spotify.com/track/7HsKGTw3iucFfAg6Pk2sFD"
@@ -6362,10 +6504,36 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 357966,
       "name": "Phepha Abanye",
       "url": "https://open.spotify.com/track/0yZW9QMpdl4GibZvDwgmw3"
+    },
+    {
+      "album": {
+        "name": "No Foot Print",
+        "url": "https://open.spotify.com/album/0msCqqmsBwKZzcLsFXiUaR"
+      },
+      "artists": [
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "BOKKIEULT",
+          "url": "https://open.spotify.com/artist/3OrezIU15I7bCrXN7NAijo"
+        },
+        {
+          "name": "Yandisa Ntusi",
+          "url": "https://open.spotify.com/artist/0eu01tynJje0xf2NvbXcmc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Phumelela",
+      "url": "https://open.spotify.com/track/64Vy69RxJ6qVkfRj4EG51D"
     },
     {
       "album": {
@@ -6465,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "Night Transmission",
+        "url": "https://open.spotify.com/album/3rB31EdNNkSXDHrwD2OPJg"
+      },
+      "artists": [
+        {
+          "name": "Sef Kombo",
+          "url": "https://open.spotify.com/artist/56XJ3AzNbn80hG19T3HqrN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277685,
+      "name": "Project 41",
+      "url": "https://open.spotify.com/track/7eZX8l4VQIPCx3cuwM1Wab"
+    },
+    {
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/4GS3IubzN6BPUOfJq5UiEM"
       },
@@ -6480,7 +6666,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 403307,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/4kALCorFtDztgahH2sfl1m"
@@ -6632,7 +6818,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 456000,
       "name": "Re-Amathambo - Remix",
       "url": "https://open.spotify.com/track/2AyLWsRNFbkjq4wAqPqyrX"
@@ -6658,7 +6844,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 456000,
       "name": "Re-Amathambo - Remix",
       "url": "https://open.spotify.com/track/3JLdmk7hp61k5i0SOwpDmY"
@@ -6706,7 +6892,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 441621,
       "name": "Refine Me",
       "url": "https://open.spotify.com/track/3GDskmwAR8Ne611zV8wNoi"
@@ -6724,7 +6910,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 331530,
       "name": "Release & Sustain",
       "url": "https://open.spotify.com/track/46gQLaEhYe19d35VMwsuHD"
@@ -6764,7 +6950,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 243994,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/08OAZX1dbQh8bRbJbJWqEk"
@@ -6860,7 +7046,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 404751,
       "name": "Rider",
       "url": "https://open.spotify.com/track/769m7qPNAXYNSWUB2GSvKG"
@@ -6938,7 +7124,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "Run",
       "url": "https://open.spotify.com/track/1nhVskO05VfB7wY7IdHS5I"
@@ -6960,7 +7146,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Rundo Wiya (Reconstructed)",
       "url": "https://open.spotify.com/track/4YDZHuMG5Tee1EJudOrbh6"
@@ -7012,7 +7198,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 453000,
       "name": "Safe",
       "url": "https://open.spotify.com/track/2qb2Svkc5FG0ecNIPTJQom"
@@ -7034,7 +7220,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 220527,
       "name": "SAWA",
       "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
@@ -7210,7 +7396,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 381874,
       "name": "Shukuma",
       "url": "https://open.spotify.com/track/5DfN1lOvoPQlkySYTbTgHy"
@@ -7228,7 +7414,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 238983,
       "name": "Sikelela",
       "url": "https://open.spotify.com/track/7deG3pJ8Gn6Kfo2VjR66Fa"
@@ -7338,7 +7524,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 416413,
       "name": "Solus",
       "url": "https://open.spotify.com/track/39l2wF3mb9W2WL39aQ9NLB"
@@ -7356,7 +7542,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 321374,
       "name": "Sommerset - Original Mix",
       "url": "https://open.spotify.com/track/76wOyuwYYlz0Qdp66oKfbC"
@@ -7498,7 +7684,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 228722,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H"
@@ -7546,7 +7732,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 396694,
       "name": "Sunmomi",
       "url": "https://open.spotify.com/track/0EcaDZI13CJ85e8XBP8kYP"
@@ -7568,7 +7754,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 238032,
       "name": "Sunset In Pretoria",
       "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
@@ -7684,7 +7870,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 293389,
       "name": "Thando Yini (feat. MSA, Sami'Kay & Ze2)",
       "url": "https://open.spotify.com/track/1dIpI1o79ytxZ79WpgEqOb"
@@ -7728,7 +7914,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 197829,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
@@ -7768,7 +7954,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 333559,
       "name": "The Road Before You",
       "url": "https://open.spotify.com/track/3atKTgUQQqg3qb61mXxksS"
@@ -7786,7 +7972,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 403200,
       "name": "The Spiker",
       "url": "https://open.spotify.com/track/7LYeYkN82e5g5vdbQkNOrb"
@@ -7808,7 +7994,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 505573,
       "name": "The Spiker - Manoo Abstrakt Remix",
       "url": "https://open.spotify.com/track/3uYwo9U7JRkAE8Zl0jrOmf"
@@ -7830,7 +8016,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 212302,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/0F7VIl2pS58IFwFTwenXc3"
@@ -7920,7 +8106,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 190447,
       "name": "Tiki Tiki 2.0",
       "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
@@ -7942,7 +8128,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 354343,
       "name": "Total Eclipse",
       "url": "https://open.spotify.com/track/4xsBAEIcdKZ7kLgCJgQICf"
@@ -8248,7 +8434,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 236127,
       "name": "Ukuphila",
       "url": "https://open.spotify.com/track/1esaAFgWpqwLaeeaJZTDty"
@@ -8334,6 +8520,28 @@
       "duration_ms": 396629,
       "name": "uMA weNGANE",
       "url": "https://open.spotify.com/track/0BWHYs2o4OGjJlvhFlrmTS"
+    },
+    {
+      "album": {
+        "name": "Auti",
+        "url": "https://open.spotify.com/album/6OHf6fjaYPqLioGUd0YShE"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371500,
+      "name": "Umera",
+      "url": "https://open.spotify.com/track/2rBRse333stY03AnJyOcR5"
     },
     {
       "album": {
@@ -9084,17 +9292,17 @@
           "url": "https://open.spotify.com/artist/48wweHFvLUo6XiShthVrAm"
         },
         {
-          "name": "Treasure",
-          "url": "https://open.spotify.com/artist/6Ri0KzsnWF769wntsCPU7l"
+          "name": "V3",
+          "url": "https://open.spotify.com/artist/1IDI0TNhiQAuiczesE76rE"
         },
         {
-          "name": "V3",
-          "url": "https://open.spotify.com/artist/4xagn0YxAGuzFesJr09Cyb"
+          "name": "TreasureWilde",
+          "url": "https://open.spotify.com/artist/0y30dG9oO5WzjBWpWxNI5r"
         }
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 467692,
       "name": "Weka Ngoma",
       "url": "https://open.spotify.com/track/6tQJboVdvKhGVgHyhzT4H0"
@@ -9112,7 +9320,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 232000,
       "name": "West African",
       "url": "https://open.spotify.com/track/2cOOl9OkUhsCKmPpzxbFTb"
@@ -9160,7 +9368,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 184203,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
@@ -9230,7 +9438,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 187317,
       "name": "Wicked Games (Kususa Surreal Mix)",
       "url": "https://open.spotify.com/track/6wcOJxbgVc176p42armrJu"
@@ -9314,7 +9522,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 173114,
       "name": "WOLF - ORIGINAL MIX",
       "url": "https://open.spotify.com/track/1oUF81YBm6Li0jCGSJ6qEg"
@@ -9384,7 +9592,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 299277,
       "name": "Yang'Bhampela (feat. Zee Nxumalo)",
       "url": "https://open.spotify.com/track/6kXy6Uij3LJO7QnNhOdy9I"
@@ -9466,7 +9674,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 230550,
       "name": "YELE",
       "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
@@ -9514,7 +9722,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "You're My Ecstasy",
       "url": "https://open.spotify.com/track/2EzQpVKYq0iipGMlgmTPmQ"
@@ -9644,7 +9852,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 450000,
       "name": "Zonga - DJEFF Remix",
       "url": "https://open.spotify.com/track/0Z0lIhas6pyPvq8xtNbirE"

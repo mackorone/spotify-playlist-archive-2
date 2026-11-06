@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369331,
+  "num_followers": 369325,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAArI5UZEegA2RwnAT0tfZNm",
+  "snapshot_id": "aukkAAAAAADSBrFPFjhgYwEQ94WxufAT",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
+        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
+        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
       },
       "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 319574,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
+      "duration_ms": 251569,
+      "name": "Then I Will - From The Motion Picture Bonhoeffer",
+      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
-        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
       "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 251569,
-      "name": "Then I Will - From The Motion Picture Bonhoeffer",
-      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
+      "duration_ms": 319574,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
     },
     {
       "added_at": null,

@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 174246,
       "name": "74",
       "url": "https://open.spotify.com/track/0Q3OH3cBM3pZLU8vaPtsL6"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 136217,
       "name": "azur",
       "url": "https://open.spotify.com/track/2px8SIGbY3eYlOY08DKVtz"
@@ -3829,6 +3829,28 @@
     },
     {
       "album": {
+        "name": "Never Too Soon",
+        "url": "https://open.spotify.com/album/7M2ejpwYLTDP204rVnMFp1"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        },
+        {
+          "name": "Toninho Horta",
+          "url": "https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244570,
+      "name": "Chovendo Na Horta (For My Brother Toninho)",
+      "url": "https://open.spotify.com/track/6kYtjS1HpbXczssthox6zV"
+    },
+    {
+      "album": {
         "name": "christmas dream",
         "url": "https://open.spotify.com/album/3GfxOp7lWpOstaJl1UwSNN"
       },
@@ -5672,7 +5694,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 159340,
       "name": "Eco do Futuro",
       "url": "https://open.spotify.com/track/08NXZbmhDroOdEDOdvud7K"
@@ -5802,6 +5824,24 @@
       "duration_ms": 218466,
       "name": "Ela E Carioca",
       "url": "https://open.spotify.com/track/7AzWgXu2tfrcNx9sQaCjBx"
+    },
+    {
+      "album": {
+        "name": "Elene's Song",
+        "url": "https://open.spotify.com/album/6NfCNtv2UyO0Cvw4WQCygX"
+      },
+      "artists": [
+        {
+          "name": "Giorgi Mikadze",
+          "url": "https://open.spotify.com/artist/6JS9KZNBZNM7q7EASDnQCK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353853,
+      "name": "Elene's Song",
+      "url": "https://open.spotify.com/track/14t7xCPRRnceHUWGS5fEC5"
     },
     {
       "album": {
@@ -8142,7 +8182,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 247567,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/2TjZA5tBaK0JBQyL0cZcDb"
@@ -9092,7 +9132,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 265533,
       "name": "If It's Magic",
       "url": "https://open.spotify.com/track/20CpGtjnNhin6QYpJ4ry03"
@@ -9274,7 +9314,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 274303,
       "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
       "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
@@ -10300,6 +10340,32 @@
       "duration_ms": 171106,
       "name": "Kickin' Your Ass",
       "url": "https://open.spotify.com/track/1qJcz6jKktqsLMZNuertZf"
+    },
+    {
+      "album": {
+        "name": "Kicks",
+        "url": "https://open.spotify.com/album/6r1iGGR9nHIdGJItNdAK8K"
+      },
+      "artists": [
+        {
+          "name": "Clothing Club",
+          "url": "https://open.spotify.com/artist/2Pk5ezzsGVBfmR0bH4gxBJ"
+        },
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134831,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/6WR4wTQm5UPPhG1dtn3MCC"
     },
     {
       "album": {
@@ -12454,7 +12520,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 230000,
       "name": "Marcie",
       "url": "https://open.spotify.com/track/51GJ93JbGXWRWJeKXeoIcZ"
@@ -15363,6 +15429,24 @@
     },
     {
       "album": {
+        "name": "PEACE",
+        "url": "https://open.spotify.com/album/40mjCuZ1UH54SlsYK4aA8a"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287001,
+      "name": "PEACE",
+      "url": "https://open.spotify.com/track/0dPwt6abax3nZ6LrIQzhzG"
+    },
+    {
+      "album": {
         "name": "Peach Velvet Sky",
         "url": "https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9"
       },
@@ -16258,6 +16342,24 @@
       "duration_ms": 239493,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/5uOOqzmhFT5bnwjbQtSJ9k"
+    },
+    {
+      "album": {
+        "name": "reverie",
+        "url": "https://open.spotify.com/album/5bco4xpKFuybfx6JmbVDvj"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273653,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/6odzoNsTI3mBcjKnmNaoRJ"
     },
     {
       "album": {
@@ -18628,6 +18730,24 @@
       "duration_ms": 317236,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1nLpyQdbAAQAfMNwPhyYoQ"
+    },
+    {
+      "album": {
+        "name": "SUPER 8",
+        "url": "https://open.spotify.com/album/0XUQkhd1tr4focNZXmXolD"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340800,
+      "name": "SUPER 8",
+      "url": "https://open.spotify.com/track/3f9opbbcdyOetdkMu5K1R9"
     },
     {
       "album": {
@@ -21028,7 +21148,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 267586,
       "name": "Une ligne",
       "url": "https://open.spotify.com/track/4ltGjmraUL5LVtG17mvtvg"
@@ -21576,6 +21696,24 @@
       "duration_ms": 372213,
       "name": "W 48th street",
       "url": "https://open.spotify.com/track/6ntInnVcDKeuZkwZInjv47"
+    },
+    {
+      "album": {
+        "name": "Wainui Beach",
+        "url": "https://open.spotify.com/album/6lg71RQM8jO1DfDIE6EKpo"
+      },
+      "artists": [
+        {
+          "name": "Desmond Cheese",
+          "url": "https://open.spotify.com/artist/4fpbUiU0gUoOO2S3JGRbXA"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244487,
+      "name": "Wainui Beach",
+      "url": "https://open.spotify.com/track/4uaD45cvop4sT5DmtVN6c9"
     },
     {
       "album": {
@@ -22658,6 +22796,28 @@
       "duration_ms": 246946,
       "name": "Years Ago",
       "url": "https://open.spotify.com/track/1UDVHg7pt5G5KWJTvlkjJx"
+    },
+    {
+      "album": {
+        "name": "Yekwini",
+        "url": "https://open.spotify.com/album/6fbrUU0GsxpZT5EZghfOWM"
+      },
+      "artists": [
+        {
+          "name": "Thomas Naim",
+          "url": "https://open.spotify.com/artist/7a1kUVqfVog6WvCtb65X6W"
+        },
+        {
+          "name": "Sch\u00e9razade",
+          "url": "https://open.spotify.com/artist/3ma9rtafrCvASmUy7WHsUh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Yekwini",
+      "url": "https://open.spotify.com/track/39lb8ajAZM5EOCmSRY4kc1"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: PISS
+> The UK's biggest rock playlist\. Cover: Royal Blood
 
-1,619 songs - 3 day 19 hr 36 min
+1,622 songs - 3 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Date Night](https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Date Night](https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv) | 3:47 | 2026-07-30 | 2026-09-25 |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-11 | 2023-07-14 |
 | [Dead](https://open.spotify.com/track/1azjlMBgaOen4ctyYzpAQG) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Dead](https://open.spotify.com/album/1ZHbB5s4CyCtjYQ0PnuJUg) | 2:57 | 2025-04-17 | 2025-05-16 |
-| [Dead Company](https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir) | 3:19 | 2026-10-08 |  |
+| [Dead Company](https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir) | 3:19 | 2026-10-08 | 2026-11-06 |
 | [DEAD GIRL WALKING](https://open.spotify.com/track/7MzYunk9yPyDsJjSPTppuH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DEAD GIRL WALKING](https://open.spotify.com/album/6R64PFVwmrQhursPSFi2u2) | 3:29 | 2025-11-21 | 2026-04-10 |
 | [Dead Man Walking](https://open.spotify.com/track/2OcU15ZQuDPn1CmbZQ9uWv) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Till Death & Back](https://open.spotify.com/album/29TMANIfiWJdR3qzjjdP9h) | 3:02 | 2026-10-30 |  |
 | [Dead To Me](https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dead To Me](https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG) | 3:49 | 2023-12-01 | 2024-01-12 |
@@ -788,7 +788,7 @@
 | [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-15 | 2024-07-12 |
 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 | 2023-03-10 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-08 | 2024-04-19 |
-| [KOYSAR](https://open.spotify.com/track/6XqaHX17LC5y80yWz5fUnv) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [O My Beloved](https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy) | 3:17 | 2026-10-15 |  |
+| [KOYSAR](https://open.spotify.com/track/6XqaHX17LC5y80yWz5fUnv) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [O My Beloved](https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy) | 3:17 | 2026-10-15 | 2026-11-06 |
 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-10-03 | 2024-11-22 |
 | [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 | 2025-06-27 |
 | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP) | 2:24 | 2026-09-11 |  |
@@ -862,6 +862,7 @@
 | [Magnificent Seven](https://open.spotify.com/track/0RUvT91RC8FCmueE2xTYxj) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Magnificent Seven](https://open.spotify.com/album/5sHMsGf22ASJYjV7XC9mO8) | 2:46 | 2026-02-13 | 2026-04-24 |
 | [Major Threat](https://open.spotify.com/track/3b1yLTfE5MHVspXc8rjfoy) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Major Threat](https://open.spotify.com/album/2jyj424eT7lDvqCLcVDtRT) | 2:56 | 2025-10-02 | 2026-02-26 |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-06 | 2024-08-30 |
+| [Make It Easy](https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Make It Easy](https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk) | 3:17 | 2026-11-06 |  |
 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-09-11 | 2025-11-21 |
 | [Man Of The Hour](https://open.spotify.com/track/3c6UDCA6oRifiwLJMkTgfh) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Man Of The Hour](https://open.spotify.com/album/7nFTofjLPNkUkRAqRWM0O5) | 3:01 | 2023-09-29 | 2023-11-17 |
 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-06-19 | 2025-08-08 |
@@ -921,6 +922,7 @@
 | [More Than This](https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/4xENjLbcy7IdEHA3JQzYRx) | 3:02 | 2023-01-13 | 2023-02-24 |
 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 | 2024-10-24 | 2025-03-07 |
 | [MOTHER](https://open.spotify.com/track/6TR3ctxDFwD7B2Xwn5FpyR) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [MOTHER](https://open.spotify.com/album/3gfOzIpfrHh2e8F3BAQvu4) | 4:05 | 2025-09-01 | 2025-10-17 |
+| [Mother Never Told You](https://open.spotify.com/track/30LAPViPx3cUA8KUGNk4rP) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/4dICy1P1QDSEY83qSZEsjh) | 2:59 | 2026-11-06 |  |
 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 | 2024-12-20 | 2025-03-14 |
 | [Moto](https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 2:45 | 2023-01-13 | 2023-02-03 |
 | [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 | 2024-09-20 | 2024-10-11 |
@@ -1171,6 +1173,7 @@
 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 | 2025-10-02 | 2026-01-30 |
 | [Romance Is A Desert](https://open.spotify.com/track/5TST4kEA5XGYK6OvUcjCVY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Romance Is A Desert](https://open.spotify.com/album/5mfOMu4CWKTntFIKWhtpND) | 2:55 | 2026-08-27 | 2026-10-02 |
 | [Roobosh](https://open.spotify.com/track/4SGcQ6xwzsSPhugTOgcp7n) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Roobosh](https://open.spotify.com/album/3NZo87MKa0nCKlqbk6BoR5) | 3:20 | 2025-07-10 | 2025-09-12 |
+| [Rose](https://open.spotify.com/track/0yQKZCTATuLTAeg89LccWn) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [O My Beloved](https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy) | 3:25 | 2026-11-06 |  |
 | [Roses n Poses](https://open.spotify.com/track/62CqS44jOqQSSf0RfCrWHQ) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Pull Like a Dog](https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy) | 3:30 | 2026-03-13 | 2026-05-29 |
 | [Rote Zora\. “Resistance is Possible.” Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/track/4RhzATKCn3I11zThqRc27o) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [you made me / skin on linen](https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN) | 2:54 | 2026-10-15 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2023-03-08 | 2023-03-09 |
@@ -1607,7 +1610,7 @@
 | [Would You Come To My Funeral](https://open.spotify.com/track/5EXsCJyxIM8Mv1KruQgsq9) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Would You Come To My Funeral](https://open.spotify.com/album/44DQfthWsCBD3K5wCTDjq9) | 4:32 | 2023-09-21 | 2023-11-17 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 | 2024-06-07 |
 | [Wristwatch](https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Wristwatch](https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF) | 3:42 | 2024-09-05 | 2024-11-22 |
-| [Yeah I Guess](https://open.spotify.com/track/4WCHu8S9Ft3b5N5St0TSfr) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Yeah I Guess](https://open.spotify.com/album/0S7IG0zCJOtLSqHcKYAAL1) | 3:04 | 2026-09-11 |  |
+| [Yeah I Guess](https://open.spotify.com/track/4WCHu8S9Ft3b5N5St0TSfr) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Yeah I Guess](https://open.spotify.com/album/0S7IG0zCJOtLSqHcKYAAL1) | 3:04 | 2026-09-11 | 2026-11-06 |
 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 | 2025-10-09 | 2026-03-20 |
 | [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 | 2025-11-07 | 2026-02-06 |
 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 | 2024-08-08 | 2024-10-25 |

@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\. Foto: Alaska.
 
-3,007 songs - 6 day 6 hr 4 min
+3,009 songs - 6 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Amor Sincero](https://open.spotify.com/track/2vvzgh2NyfoFi1jquAIDPq) | [Paula Díez](https://open.spotify.com/artist/5xWeE1UfjyjAdzfL2EMznx) | [Amor Sincero](https://open.spotify.com/album/0P3zPz6fVpEOL7el49dzqj) | 2:46 | 2026-11-03 |  |
 | [Amore mio](https://open.spotify.com/track/3P0fHsKT4Csvmbjd2bCyf4) | [GREX](https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt) | [Amore mio](https://open.spotify.com/album/2cspUEz83qnxCogZ5XSYod) | 2:34 | 2026-11-03 |  |
 | [Amores Peligrosos](https://open.spotify.com/track/2CxuFwGJseohJWAR0Un2H8) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O) | [Amores Peligrosos](https://open.spotify.com/album/2F6B2Z7HDqTRGO7ypCNzTY) | 3:08 | 2025-03-04 | 2025-04-02 |
+| [AmorMENdigo](https://open.spotify.com/track/4ARcbaRXM0IMAnNpuyPcQY) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [AmorMENdigo](https://open.spotify.com/album/6gkNNvjMrKptiUQLDIBYPW) | 3:20 | 2026-11-03 |  |
 | [Amándote](https://open.spotify.com/track/3L9YDDTfapwfkqiTAqmwL4) | [Las Rodes](https://open.spotify.com/artist/3ZNLwVLzrOCDyWMaqiaQoc) | [Amándote](https://open.spotify.com/album/6w2pnh2vzWKjHyYADoNB0J) | 3:06 | 2025-03-04 | 2025-04-02 |
 | [AMÉ](https://open.spotify.com/track/1SFxf3rAJXABlo9IQYY7ED) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [AMÉ](https://open.spotify.com/album/6unj06Yig8gkRI9J0khrfL) | 2:11 | 2024-08-06 | 2024-09-04 |
 | [Amén](https://open.spotify.com/track/7flMnsxSGlXKssXrWzW6JC) | [Anaju](https://open.spotify.com/artist/5gFFncjKaCnI9IkEs2POwj) | [Amén](https://open.spotify.com/album/06msPwvu8xVLyvOVL5PVMx) | 2:32 | 2023-04-04 | 2023-05-03 |
@@ -1663,6 +1664,7 @@
 | [Mi Revolución](https://open.spotify.com/track/4fyPBpGHttCaDzekMFdrWx) | [Lola Serrano](https://open.spotify.com/artist/4GfM7g9rOR73aS8Iu7zRvi) | [Mi Revolución](https://open.spotify.com/album/5w9wpgCBndoTcblVDB4VE4) | 2:46 | 2022-02-01 | 2022-03-08 |
 | [Mi Salvavidas](https://open.spotify.com/track/0mqbVQDnZiaTI1OF1kLEQf) | [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [Mi Salvavidas](https://open.spotify.com/album/22V1iwSlSofMGzudtk8RuG) | 4:06 | 2026-03-03 | 2026-03-20 |
 | [MI SANTA PHOBIA](https://open.spotify.com/track/12IsSTHsNJLSJfbYNxSWQ1) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [MI SANTA PHOBIA](https://open.spotify.com/album/5lrgeNkGmSiVDwiNMwb6ek) | 2:34 | 2025-11-04 | 2025-12-04 |
+| [MI UNIVERSO](https://open.spotify.com/track/2b2LEjFG2ONlwz7QxMaLvl) | [María Artés](https://open.spotify.com/artist/4gI6T5h1UQPf5hA3FdJULt) | [MI UNIVERSO](https://open.spotify.com/album/3BknEPjclxIah2BT2GL6IP) | 3:39 | 2026-11-03 |  |
 | [Mi Vida Es Para Mí](https://open.spotify.com/track/7vg3fq6K96f9zkBvgaWMTy) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Mi Vida Es Para Mí](https://open.spotify.com/album/3RfC2pHjNVs1HvjnuRnkxa) | 3:15 | 2024-04-30 | 2024-06-06 |
 | [Mi vida huele a flor \(un poema de Elvira Sastre\)](https://open.spotify.com/track/4wiJZp4e3wOhfEbL37JpYT) | [IDOIA](https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC) | [de amar y desandar](https://open.spotify.com/album/6bCPUu2cXzHjXFo2Q1Cr3U) | 4:19 | 2024-04-02 | 2024-05-01 |
 | [mi vocablo](https://open.spotify.com/track/1durpNnxDajO8jUKJ1eRUW) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [mi vocablo](https://open.spotify.com/album/1KnRJGR5GhoGZDotO7ANIO) | 2:31 | 2026-10-07 | 2026-11-04 |

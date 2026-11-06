@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 127187,
       "name": "Blazing",
       "url": "https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV"
@@ -2594,6 +2594,24 @@
       "duration_ms": 123892,
       "name": "Fjardsdal",
       "url": "https://open.spotify.com/track/1ccLHt0aEkckZKgysxn134"
+    },
+    {
+      "album": {
+        "name": "Fjord",
+        "url": "https://open.spotify.com/album/6UaW8DRTKG39222CtBVCBp"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Fjord",
+      "url": "https://open.spotify.com/track/6S0FzWRZlhyCno85HnWzD4"
     },
     {
       "album": {
@@ -5363,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/5yg1SkBOvaRaRoZKGomL3Y"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/2wAIdgeOIqpFr4ARZAWvcB"
+    },
+    {
+      "album": {
         "name": "Melyon",
         "url": "https://open.spotify.com/album/0nqmkSYvVmtmUBWHohz73E"
       },
@@ -5518,7 +5554,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 212073,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG"
@@ -7145,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/2BZdgLiMB57P9RHBHmjmjI"
+      },
+      "artists": [
+        {
+          "name": "Thiago Hernan",
+          "url": "https://open.spotify.com/artist/2HbMVXQwDL2R3QfZIIMXfv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167848,
+      "name": "Remain",
+      "url": "https://open.spotify.com/track/6593N3zd8Z0RlMHngPraq5"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3sjka7Lq2ZUoBJGZSdRJxQ"
       },
@@ -7228,7 +7282,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187041,
       "name": "Returning Home",
       "url": "https://open.spotify.com/track/5KVFLNcGq5JH0TPfRLLmZZ"
@@ -7678,7 +7732,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145411,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/5c68IobzsE09d120gRvKW4"
@@ -8528,7 +8582,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 129975,
       "name": "The Last Days Of Summer",
       "url": "https://open.spotify.com/track/2YBz1rKIDo0VCY1y7n76sC"
@@ -9932,7 +9986,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 198649,
       "name": "Wind Song",
       "url": "https://open.spotify.com/track/48i1p3R9l9f7zjcHPJysZZ"
@@ -10058,7 +10112,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 134740,
       "name": "Yasashii",
       "url": "https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6"
@@ -10112,7 +10166,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145876,
       "name": "You",
       "url": "https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv"

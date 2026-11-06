@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,506 songs - 12 day 19 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,509 songs - 12 day 19 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -600,7 +600,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 590 | [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 |
 | 591 | [Haunted](https://open.spotify.com/track/7C18GnwmUsqVc8CBryrRBK) | [Accepting the Aftermath](https://open.spotify.com/artist/0YhMvjnauPn9WZwqwk4K91) | [Haunted](https://open.spotify.com/album/13Uw7ZPVktSLe9qEWssOYx) | 3:21 |
 | 592 | [Lover Undiscovered](https://open.spotify.com/track/3fGhIji5gQMUucZ7gEyBpy) | [The Groundswell](https://open.spotify.com/artist/4MiMzugMniyd4PBZsxbDqj) | [No Goodbyes](https://open.spotify.com/album/1q4DnWJLO4aHsxpqtDbFbV) | 3:04 |
-| 593 | [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [Trent Kliner](https://open.spotify.com/artist/1OJS50je1iz1MNiGrLTGoU) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 |
+| 593 | [sunshine](https://open.spotify.com/track/7s96r2JBcLK6kJ70I72l20) | [Trent Kliner](https://open.spotify.com/artist/1uypESHSsP9kgnvUwDjeVa) | [sunshine](https://open.spotify.com/album/3iIgB5cAgdfXZQCSSgZcjl) | 5:38 |
 | 594 | [wildflower](https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [wildflower](https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw) | 2:54 |
 | 595 | [Minha Canção Vai Te Tocar](https://open.spotify.com/track/2DNdccmDGY4UUtXSeOhbBN) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Dueto](https://open.spotify.com/album/6od0qOZJPuGeXp1Bi5y3vX) | 4:29 |
 | 596 | [Him No Mo'](https://open.spotify.com/track/01SweO27JhNzVPloM9D7CB) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Fired](https://open.spotify.com/album/2EivIAIZlquQIg6boBa3br) | 2:03 |
@@ -5514,5 +5514,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5504 | [A Real Love](https://open.spotify.com/track/4CMmHYNydoPl196FXQDr67) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [A Real Love](https://open.spotify.com/album/48fU2MtDmQrHJj56BiJIvR) | 4:32 |
 | 5505 | [THE HOUSE OF THOUSAND PAIN OV \- ORCHESTRAL VERSION](https://open.spotify.com/track/4yVFx1Lu3RsJ5J9yXp5RZ8) | [Angelo Russo](https://open.spotify.com/artist/0GywbVtR6D2TDG98mvYaZH), [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [FOUND THE LOST SYMPHONY \(ORCHESTRAL VERSION\)](https://open.spotify.com/album/6Cy5x1ynzzgfVYDolz7uiP) | 3:11 |
 | 5506 | [Sad Song \- Single Version](https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz), [Amiri](https://open.spotify.com/artist/2Ll5uRPghBt8yLaI44FJU7) | [Sad Song](https://open.spotify.com/album/1s5tdq4L8q8EvE0MfZ0ph6) | 3:17 |
+| 5507 | [The Underneath](https://open.spotify.com/track/28rqafGMpbah0vMGwkOzRi) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [The Underneath](https://open.spotify.com/album/6lscr1T7sdX5bnaMd4ISs7) | 3:47 |
+| 5508 | [Mene Kiya](https://open.spotify.com/track/6xQqenRH7b2TmiFAKlsrku) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Mene Kiya](https://open.spotify.com/album/7rX71mVjeu6PNMV1pUumUi) | 3:25 |
+| 5509 | [Raaton Main](https://open.spotify.com/track/7FZNudaYzSslPVo7UQup8w) | [Sidharth Arun](https://open.spotify.com/artist/25CoCzWysxGpvbMGdWYalM) | [Raaton Main](https://open.spotify.com/album/1GaOQrexSJ6KtWMXZGrNWv) | 2:42 |
 
-Snapshot ID: `AAAK6nNU4giPJJcluvO9RIhDkX0iqoV+`
+Snapshot ID: `AAAK7ZH3tK/yeUPYUXNE10ubZkXSLRwX`

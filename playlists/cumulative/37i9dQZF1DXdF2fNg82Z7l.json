@@ -2046,7 +2046,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171436,
-      "name": "GODDESS (feat. Lojay)",
+      "name": "GODDESS",
       "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217215,
       "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
       "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
@@ -5285,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224690,
+      "name": "SO MUCH, SO MUCH",
+      "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
+    },
+    {
+      "album": {
         "name": "Something Strong",
         "url": "https://open.spotify.com/album/1gwVDP26kNJ6lwiPryOxOE"
       },
@@ -5370,7 +5388,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164470,
       "name": "Spaceship (feat. Luhh Dyl)",
       "url": "https://open.spotify.com/track/0SjoSiBd6jG9Bb85Zhh9P6"
@@ -5410,6 +5428,24 @@
       "duration_ms": 163232,
       "name": "SPEED",
       "url": "https://open.spotify.com/track/6rCQgg6rV7ng7yoQV1c9Si"
+    },
+    {
+      "album": {
+        "name": "Spin Back",
+        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192396,
+      "name": "Spin Back",
+      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
     },
     {
       "album": {
@@ -6075,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Throw That Money",
+        "url": "https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Throw That Money",
+      "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
+    },
+    {
+      "album": {
         "name": "217",
         "url": "https://open.spotify.com/album/0uQO08Ozj3ErvZoperout7"
       },
@@ -6438,7 +6492,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194473,
       "name": "waiting for me",
       "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"

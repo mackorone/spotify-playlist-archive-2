@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bres, Light, Quervo",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 133500,
       "name": "123",
       "url": "https://open.spotify.com/track/2kvgUHSXAmdz1K3x8D7Kkc"
@@ -240,6 +240,28 @@
       "duration_ms": 177066,
       "name": "24ora",
       "url": "https://open.spotify.com/track/3zZDBxEvVTFbkyLgBzpYSv"
+    },
+    {
+      "album": {
+        "name": "2FACE",
+        "url": "https://open.spotify.com/album/4Zxx7Zqk2zgqd5nUdoOu7x"
+      },
+      "artists": [
+        {
+          "name": "RRESKO",
+          "url": "https://open.spotify.com/artist/3hqLFrjiMY2RRoqxNganOe"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "2FACE",
+      "url": "https://open.spotify.com/track/1uJPiVJMaDdtNfLWGqFs2B"
     },
     {
       "album": {
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 146381,
       "name": "BAPHOMET",
       "url": "https://open.spotify.com/track/4IzTaIl9LOXdO3Y7hfH8tL"
@@ -3058,7 +3080,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152368,
       "name": "BLUE CURACAO",
       "url": "https://open.spotify.com/track/5tLBF4O1yatzdf8lQeQibM"
@@ -3400,6 +3422,24 @@
       "duration_ms": 148500,
       "name": "Bsns",
       "url": "https://open.spotify.com/track/25ER2jHtzsrxXyem0I37vO"
+    },
+    {
+      "album": {
+        "name": "BTF",
+        "url": "https://open.spotify.com/album/46MhiVqO9KAeaagW2qanjt"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219100,
+      "name": "BTF",
+      "url": "https://open.spotify.com/track/2rvf9qEEw2CCR5juZU1TGN"
     },
     {
       "album": {
@@ -4146,7 +4186,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213750,
       "name": "CON CALMA",
       "url": "https://open.spotify.com/track/3vXDf3EBZ0gmz6rkMkM3po"
@@ -4220,6 +4260,28 @@
       "duration_ms": 296103,
       "name": "CREW",
       "url": "https://open.spotify.com/track/3lbghNkai2tumaspE76feA"
+    },
+    {
+      "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/6WNLAs2Ny2NATIsEQIkem1"
+      },
+      "artists": [
+        {
+          "name": "Megrel",
+          "url": "https://open.spotify.com/artist/1K4CMTKtUibci2mZOIqFqx"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/08RvkFmqoOWMdRiGWeLoV1"
     },
     {
       "album": {
@@ -5180,7 +5242,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 121250,
       "name": "DRAKOS",
       "url": "https://open.spotify.com/track/4YKJlKApPEaLf7Ba2etctU"
@@ -7607,6 +7669,28 @@
     },
     {
       "album": {
+        "name": "GOURI",
+        "url": "https://open.spotify.com/album/2cprn8WOgZV7GlAR8xrmzV"
+      },
+      "artists": [
+        {
+          "name": "Silly Slime",
+          "url": "https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl"
+        },
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115400,
+      "name": "GOURI",
+      "url": "https://open.spotify.com/track/4tbwYf1pYmFPMuNnWu6C2k"
+    },
+    {
+      "album": {
         "name": "GOUSTAREI",
         "url": "https://open.spotify.com/album/0DK32gaYIFI0EUazkxq4Aj"
       },
@@ -8704,7 +8788,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 129531,
       "name": "JALAPENOS",
       "url": "https://open.spotify.com/track/1SRW4kHjz0DcjnSfnLHbAs"
@@ -9672,7 +9756,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 141714,
       "name": "KREVATI",
       "url": "https://open.spotify.com/track/4udZmfC739lFkAHL9MXw4c"
@@ -11301,6 +11385,28 @@
     },
     {
       "album": {
+        "name": "Medallion",
+        "url": "https://open.spotify.com/album/5etpD9LDjp2MgWg1PayD8E"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Medallion",
+      "url": "https://open.spotify.com/track/7H7dHzMQGXLl1NveKglZ1E"
+    },
+    {
+      "album": {
         "name": "Medellin Baby",
         "url": "https://open.spotify.com/album/4JbwsUOIn8Xy1wEl2dQ6tG"
       },
@@ -12901,6 +13007,28 @@
     },
     {
       "album": {
+        "name": "OLA",
+        "url": "https://open.spotify.com/album/592UOi281fiNmo0RGtvKGM"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159660,
+      "name": "OLA",
+      "url": "https://open.spotify.com/track/10HdOwmrZ9IrX9vYIfXNKZ"
+    },
+    {
+      "album": {
         "name": "OLA GYRNANE",
         "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
       },
@@ -13182,7 +13310,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 133600,
       "name": "ON TOP",
       "url": "https://open.spotify.com/track/63uhSjqx8phbSu0EUbRzoR"
@@ -14606,7 +14734,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 155520,
       "name": "PINOCCHIO",
       "url": "https://open.spotify.com/track/6CJziZEAirW4XRUzKtipzX"
@@ -16800,7 +16928,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204736,
       "name": "SKONI TIS SELINIS",
       "url": "https://open.spotify.com/track/0Q3l36g28MxaSk4jSxnwBE"
@@ -17148,7 +17276,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 292181,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/3dyhUzVahVbOFj1fMNgI3o"
@@ -17511,6 +17639,32 @@
     },
     {
       "album": {
+        "name": "SUVS",
+        "url": "https://open.spotify.com/album/2KE8q640Y4z16ZWE2xfD9R"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Quervo",
+          "url": "https://open.spotify.com/artist/4SEFbvxDiWfU8ucxo1kymr"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "SUVS",
+      "url": "https://open.spotify.com/track/6YfzIZmyRO420cwXoq8sUF"
+    },
+    {
+      "album": {
         "name": "SYBANTIKO",
         "url": "https://open.spotify.com/album/3diM9Y033SMzBITO06ZIZ3"
       },
@@ -17582,6 +17736,28 @@
       "duration_ms": 128000,
       "name": "TA EXW PANW MOU",
       "url": "https://open.spotify.com/track/6c0Mv6NHqLAJQ2mZxiVjGB"
+    },
+    {
+      "album": {
+        "name": "Ta Paidia Tis Skonis",
+        "url": "https://open.spotify.com/album/1ckk4AfCu0eToYn4HW96pX"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165017,
+      "name": "Ta Paidia Tis Skonis",
+      "url": "https://open.spotify.com/track/2TrY7JObDgtkXxsZbUuvHr"
     },
     {
       "album": {
@@ -18797,6 +18973,24 @@
     },
     {
       "album": {
+        "name": "Green Devil",
+        "url": "https://open.spotify.com/album/7zaC1WqDo5MAeXE848jfhl"
+      },
+      "artists": [
+        {
+          "name": "Ggreco",
+          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102298,
+      "name": "U Need People Like Me",
+      "url": "https://open.spotify.com/track/0Z7DPv64Ksdvbpz0YLFGHG"
+    },
+    {
+      "album": {
         "name": "ZOUGLA",
         "url": "https://open.spotify.com/album/6UDER5XBSxxfPUipBFXKua"
       },
@@ -19034,7 +19228,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 196363,
       "name": "VERSACE",
       "url": "https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I"
@@ -19144,7 +19338,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162175,
       "name": "VILLA MES STO GHETTO",
       "url": "https://open.spotify.com/track/4aQ6fqmQZJm4ATChiGzdtU"
@@ -19466,6 +19660,32 @@
       "duration_ms": 180718,
       "name": "WOOO",
       "url": "https://open.spotify.com/track/1GWM7OGnw8821PkyaAJU20"
+    },
+    {
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/3s9Clp9uXr3iHTOKZTPLvI"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125510,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3QBJHQh5yaDS2pzMZMQI1R"
     },
     {
       "album": {

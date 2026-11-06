@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-292 songs - 12 hr 48 min
+293 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-08-03 |  |
 | [Endlich](https://open.spotify.com/track/0QzBw7xBO5q6plc8hX5z7B) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Endlich](https://open.spotify.com/album/6EYlet7J4aCY3zTqqhl8eB) | 2:10 | 2024-04-03 |  |
 | [Entering](https://open.spotify.com/track/0PNGMJaRWetzMOir1QAKoC) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Entering](https://open.spotify.com/album/2EoKBXAOzplEACZ4PXmK4I) | 1:49 | 2022-12-21 | 2025-04-09 |
-| [Equinoxe](https://open.spotify.com/track/58xUMSrmEvYUyHzGR9tYtL) | [Koëlíne](https://open.spotify.com/artist/1HytzswsY9X9XTD2Douni6) | [Equinoxe](https://open.spotify.com/album/4DWD8YqJ3S8NAVsTImbZ23) | 2:55 | 2022-08-03 |  |
+| [Equinoxe](https://open.spotify.com/track/58xUMSrmEvYUyHzGR9tYtL) | [Koëlíne](https://open.spotify.com/artist/1HytzswsY9X9XTD2Douni6) | [Equinoxe](https://open.spotify.com/album/4DWD8YqJ3S8NAVsTImbZ23) | 2:55 | 2022-08-03 | 2026-11-06 |
 | [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 | 2026-05-16 |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-08-26 |  |
 | [Eternal Moon](https://open.spotify.com/track/2hegfLKqobbWtYPg0Z31vm) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Eternal Moon](https://open.spotify.com/album/5UVS5hHLLxQgH22bXKrFUi) | 2:28 | 2025-07-22 |  |
@@ -165,6 +165,7 @@
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-06 | 2025-05-14 |
 | [Midnight Horizon](https://open.spotify.com/track/3ZdCCny1fap4DkOIGiqRI0) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Midnight Horizon](https://open.spotify.com/album/4YyJ9wC29wBGhfGOSNNrsP) | 2:11 | 2024-11-05 |  |
 | [Midnight Mist](https://open.spotify.com/track/3jMUrvAsei6RjXEtgRwACv) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Midnight Mist](https://open.spotify.com/album/5ELlOqi110QS5PKK3YQDoJ) | 2:55 | 2026-04-17 |  |
+| [Midnight Romance](https://open.spotify.com/track/4v8ew88QBzfZaZuagsltmL) | [Flian](https://open.spotify.com/artist/2zRtU0pBKJEvw0xx0dIyvq) | [Midnight Romance](https://open.spotify.com/album/0pQZRjb8EhUmocjdSGs6u3) | 2:27 | 2026-11-06 |  |
 | [Mimetismo](https://open.spotify.com/track/1iGMUpV6h0zA6pUSXfQJVr) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Mimetismo](https://open.spotify.com/album/1I1H1XcRBbl0KfUeVFSSA3) | 2:22 | 2022-08-03 |  |
 | [Mirror Lake](https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/5tTymJqGUyFkmklHSyRRRU) | 4:31 | 2022-10-04 | 2024-04-19 |
 | [Mirror Lake](https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Mirror Lake](https://open.spotify.com/album/6nLZCWMmgvuvIL54FspRll) | 4:31 | 2022-08-03 | 2025-01-22 |

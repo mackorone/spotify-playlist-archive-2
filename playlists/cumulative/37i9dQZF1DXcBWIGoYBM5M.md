@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Tame Impala
+> The hottest 50\. Cover: Ashe
 
 1,441 songs - 3 day 5 hr 19 min
 

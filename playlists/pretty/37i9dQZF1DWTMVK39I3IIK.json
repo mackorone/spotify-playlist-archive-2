@@ -1,6 +1,6 @@
 {
   "description": "unge kniv \ud83d\udd2a @\u00d8sten",
-  "num_followers": 47182,
+  "num_followers": 47184,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
+        "name": "Lille hus i Jylland (feat. Dahlin)",
+        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
+      },
+      "artists": [
+        {
+          "name": "Albert Heath",
+          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
+        },
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 164805,
+      "name": "Lille hus i Jylland (feat. Dahlin)",
+      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
         "name": "p\u00e5 en m\u00e5de er det rart",
         "url": "https://open.spotify.com/album/7EdU9BjQTvrm80SumtTPFK"
       },
@@ -483,26 +503,6 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Lille hus i Jylland (feat. Dahlin)",
-        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
-      },
-      "artists": [
-        {
-          "name": "Albert Heath",
-          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
-        },
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 164805,
-      "name": "Lille hus i Jylland (feat. Dahlin)",
-      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
         "name": "Det Hele Handler Om Dig",
         "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 198452,
       "name": "Det Hele Handler Om Dig",
       "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
-        "name": "F\u00f8r du siger farvel",
-        "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
-      },
-      "artists": [
-        {
-          "name": "Loui Henderson",
-          "url": "https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "F\u00f8r du siger farvel",
-      "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -551,22 +535,18 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "I Made It (feat. Andreas Odbjerg)",
-        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+        "name": "F\u00f8r du siger farvel",
+        "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
       },
       "artists": [
         {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+          "name": "Loui Henderson",
+          "url": "https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0"
         }
       ],
-      "duration_ms": 209923,
-      "name": "I Made It (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
+      "duration_ms": 185719,
+      "name": "F\u00f8r du siger farvel",
+      "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -583,6 +563,26 @@
       "duration_ms": 195748,
       "name": "Tag Mig Som Jeg Er",
       "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "I Made It (feat. Andreas Odbjerg)",
+        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 209923,
+      "name": "I Made It (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Alt hvad jeg vil",
-        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 224980,
-      "name": "Alt hvad jeg vil",
-      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
         "name": "Synger Bare",
         "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168000,
       "name": "Bider Det I Mig",
       "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "lao shi",
-        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
       "artists": [
         {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
         }
       ],
-      "duration_ms": 131440,
-      "name": "lao shi",
-      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -807,18 +807,34 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+        "name": "lao shi",
+        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
         }
       ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+      "duration_ms": 131440,
+      "name": "lao shi",
+      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -855,34 +871,18 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Going about my day",
-        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
+        "name": "S\u00f8vnl\u00f8s",
+        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
       },
       "artists": [
         {
-          "name": "Lola Hammerich",
-          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
+          "name": "Fri\u00f0a Saiya",
+          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
         }
       ],
-      "duration_ms": 357000,
-      "name": "Going about my day",
-      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+      "duration_ms": 149304,
+      "name": "S\u00f8vnl\u00f8s",
+      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -903,18 +903,50 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "S\u00f8vnl\u00f8s",
-        "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
+        "name": "Going about my day",
+        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
       },
       "artists": [
         {
-          "name": "Fri\u00f0a Saiya",
-          "url": "https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm"
+          "name": "Lola Hammerich",
+          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
         }
       ],
-      "duration_ms": 149304,
-      "name": "S\u00f8vnl\u00f8s",
-      "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
+      "duration_ms": 357000,
+      "name": "Going about my day",
+      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "En Stor Lykkelig Familie",
+        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 195777,
+      "name": "En Stor Lykkelig Familie",
+      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -939,38 +971,6 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "En Stor Lykkelig Familie",
-        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
-      },
-      "artists": [
-        {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        }
-      ],
-      "duration_ms": 195777,
-      "name": "En Stor Lykkelig Familie",
-      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
         "name": "Kitchen",
         "url": "https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 175578,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
-        "name": "4CANTOS",
-        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 140676,
-      "name": "Ender Altid Hos Dig",
-      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -1019,6 +1003,22 @@
       "duration_ms": 168469,
       "name": "Jeg h\u00e5ber (feat. Mekdes)",
       "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "4CANTOS",
+        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 140676,
+      "name": "Ender Altid Hos Dig",
+      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "I'm On It",
-        "url": "https://open.spotify.com/album/02v2Ccm0N5Tzzg9Bk4TIoj"
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
       },
       "artists": [
         {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
         }
       ],
-      "duration_ms": 187083,
-      "name": "I'm On It",
-      "url": "https://open.spotify.com/track/30ZRH8KqoY6G6nmbMKODl9"
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+        "name": "H\u00e6ng En Mand",
+        "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
       "artists": [
         {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
         }
       ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
+      "duration_ms": 312000,
+      "name": "H\u00e6ng En Mand",
+      "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
     },
     {
       "added_at": "2026-10-23 08:39:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-10-23 08:39:37",
       "album": {
-        "name": "H\u00e6ng En Mand",
-        "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "H\u00e6ng En Mand",
-      "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
-    },
-    {
-      "added_at": "2026-10-23 08:39:37",
-      "album": {
         "name": "Sputnik",
         "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 171200,
       "name": "Walmart",
       "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
+    },
+    {
+      "added_at": "2026-10-23 08:39:37",
+      "album": {
+        "name": "I'm On It",
+        "url": "https://open.spotify.com/album/02v2Ccm0N5Tzzg9Bk4TIoj"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 187083,
+      "name": "I'm On It",
+      "url": "https://open.spotify.com/track/30ZRH8KqoY6G6nmbMKODl9"
     }
   ],
   "unique_name": "ung kniv ",

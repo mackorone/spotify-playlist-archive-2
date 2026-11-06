@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 780989,
+  "num_followers": 781056,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAACrxzJnwo4zeXKaAcm/ycak",
+  "snapshot_id": "aukkAAAAAADsDIPzs43PEn3lLwvxkrp7",
   "tracks": [
     {
       "added_at": null,
@@ -456,21 +456,17 @@
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
       },
       "artists": [
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Only Thing That\u2019s Gone",
-      "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
+      "duration_ms": 185280,
+      "name": "This Bar",
+      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
     },
     {
       "added_at": null,
@@ -544,17 +540,21 @@
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
       "artists": [
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 185280,
-      "name": "This Bar",
-      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
+      "duration_ms": 196706,
+      "name": "Only Thing That\u2019s Gone",
+      "url": "https://open.spotify.com/track/0cLZboiFzp3rgYnPz33IJX"
     },
     {
       "added_at": null,

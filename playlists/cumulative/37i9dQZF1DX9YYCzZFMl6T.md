@@ -4,7 +4,7 @@
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-83 songs - 4 hr 29 min
+84 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 | 2024-09-02 |  |
 | [Just One Stocking](https://open.spotify.com/track/3TP9RhnXEYT8YiiR4l7Ksb) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [A Very Carper Christmas](https://open.spotify.com/album/2C2l9Jvfk5fxKrBX0mTHrv) | 3:15 | 2025-11-28 | 2025-12-13 |
 | [Kid At Christmas](https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Kid At Christmas](https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS) | 3:23 | 2024-09-02 | 2024-12-21 |
-| [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 | 2024-12-20 |  |
+| [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 | 2024-12-20 | 2026-11-06 |
 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2024-09-02 | 2025-11-06 |
 | [Layaway Momma](https://open.spotify.com/track/52mQXs8ivWJ31OWWe17n4v) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Layaway Momma](https://open.spotify.com/album/7pvVSeTgNaPQOalWPBNfCr) | 2:59 | 2025-10-24 | 2026-10-24 |
 | [Let It Snow](https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Let It Snow](https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo) | 3:02 | 2024-09-02 | 2025-11-28 |
@@ -64,6 +64,7 @@
 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 | 2025-11-28 |  |
 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 | 2024-09-02 |  |
 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 | 2024-09-02 |  |
+| [River](https://open.spotify.com/track/6FRp7oWjxIVbFSAjYQjgKv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [River](https://open.spotify.com/album/5lP3w4pppBEKlKhTKbahvz) | 4:03 | 2026-11-06 |  |
 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 | 2024-09-02 |  |
 | [Run Run Rudolph](https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4), [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR), [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Run Run Rudolph](https://open.spotify.com/album/0EqYc3ksSCvtYEAvDKL8XU) | 2:54 | 2025-10-24 |  |
 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 | 2024-09-02 |  |

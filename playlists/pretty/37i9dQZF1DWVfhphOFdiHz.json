@@ -1,6 +1,6 @@
 {
   "description": "Bops on repeat from LGBTQIA+ artists only. Cover: Chlo\u00e9 Caillet",
-  "num_followers": 23863,
+  "num_followers": 23872,
   "original_name": "GLOW US & Canada",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-10-30 04:02:54",
       "album": {
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
+    },
+    {
+      "added_at": "2026-10-30 04:02:54",
+      "album": {
         "name": "Tied Up",
         "url": "https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 176107,
       "name": "Tied Up",
       "url": "https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws"
-    },
-    {
-      "added_at": "2026-10-30 04:02:54",
-      "album": {
-        "name": "PEYOTE",
-        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 187438,
-      "name": "The Art Of Letting Go",
-      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
       "added_at": "2026-10-30 04:02:54",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-30 04:02:54",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB"
-      },
-      "artists": [
-        {
-          "name": "Ja\u00efr Faria",
-          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "August",
-      "url": "https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0"
-    },
-    {
-      "added_at": "2026-10-30 04:02:54",
-      "album": {
         "name": "collide",
         "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
       },
@@ -711,18 +695,34 @@
     {
       "added_at": "2026-10-30 04:02:54",
       "album": {
-        "name": "First Times",
-        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+        "name": "August",
+        "url": "https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB"
       },
       "artists": [
         {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+          "name": "Ja\u00efr Faria",
+          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
         }
       ],
-      "duration_ms": 196433,
-      "name": "Vivian",
-      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
+      "duration_ms": 213000,
+      "name": "August",
+      "url": "https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0"
+    },
+    {
+      "added_at": "2026-10-30 04:02:54",
+      "album": {
+        "name": "Stage Girl (Not A Dream Anymore)",
+        "url": "https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "F**k the DJ",
+      "url": "https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj"
     },
     {
       "added_at": "2026-10-30 04:02:54",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-10-30 04:02:54",
       "album": {
-        "name": "Stage Girl (Not A Dream Anymore)",
-        "url": "https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI"
+        "name": "First Times",
+        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
       },
       "artists": [
         {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
         }
       ],
-      "duration_ms": 177746,
-      "name": "F**k the DJ",
-      "url": "https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj"
+      "duration_ms": 196433,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
     },
     {
       "added_at": "2026-10-30 04:02:54",

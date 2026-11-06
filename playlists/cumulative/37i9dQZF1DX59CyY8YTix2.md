@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 35.7
 
-2,114 songs - 5 day 10 hr 51 min
+2,115 songs - 5 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,7 +731,7 @@
 | [PUKAPUKA](https://open.spotify.com/track/1r8ayvaFXkqsipf2wLQ69S) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2yOcrZKDBPIGESP3Clk1Ax) | 3:25 | 2022-12-13 | 2023-01-14 |
 | [PUKAPUKA](https://open.spotify.com/track/34XEP2iAR98bY2KXDYjOjA) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:25 | 2023-01-12 | 2023-01-18 |
 | [Punk Rock Princess](https://open.spotify.com/track/6Bg2rAfxpfWtRYVykDeMv7) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:12 | 2023-05-04 | 2023-06-07 |
-| [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 | 2026-01-27 |  |
+| [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 | 2026-01-27 | 2026-11-06 |
 | [Purple](https://open.spotify.com/track/10Ipr7AR8CGspcIERaSTNO) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [THINK WISELY](https://open.spotify.com/album/6WdMLccynx5EqCuI8elJZ5) | 4:15 | 2022-10-11 | 2022-11-16 |
 | [Q&A](https://open.spotify.com/track/1LxBNrw3vXh6U87t8kV3l0) | [ソールドシュガー](https://open.spotify.com/artist/2g7ZNRIgwT0g7zRx3CrU28) | [Q&A](https://open.spotify.com/album/65XfFPPFiOGkYgrmMjSJcB) | 4:26 | 2022-06-02 | 2022-06-07 |
 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 | 2024-10-15 |  |
@@ -1908,6 +1908,7 @@
 | [灯火](https://open.spotify.com/track/6xWGQ5t0P3SGs6rKJGSC2Q) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [されど空の青さを知る](https://open.spotify.com/album/0wpmHZXMyCYcBVfLel16gH) | 3:00 | 2024-03-19 | 2024-03-27 |
 | [灯火](https://open.spotify.com/track/1q0b773vAkUqP7yik1EDXB) | [Miwaku Halation](https://open.spotify.com/artist/7qaK9fGoRNLwwiC7sFQTz3) | [灯火](https://open.spotify.com/album/6xytXzBWr7gbn8U9RiRjZm) | 2:56 | 2022-06-07 | 2022-06-14 |
 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 | 2023-01-26 | 2024-04-03 |
+| [無礼な！](https://open.spotify.com/track/3jon0WlH0JjYRm6gEq6cY4) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [無礼な！](https://open.spotify.com/album/4xafNHau4Vni9TMBfsXnPk) | 2:46 | 2026-11-03 |  |
 | [無花果](https://open.spotify.com/track/0cRQm7cakITTEtdl9FEAYJ) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [無花果](https://open.spotify.com/album/28pLgFhi7pTzRKFbdBoXzB) | 3:15 | 2026-03-31 | 2026-11-04 |
 | [無題](https://open.spotify.com/track/2hbHJG0sHLmu7aMKkzKeLU) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [無題](https://open.spotify.com/album/4wLX3Pv3g9b8FjEb2A5Ti8) | 4:59 | 2023-01-10 | 2023-01-25 |
 | [焦がれ](https://open.spotify.com/track/3uC4O1Wllm31hQmi24QVWH) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [焦がれ](https://open.spotify.com/album/5vUfQSAUBhlOWPL2nv1G83) | 3:50 | 2022-05-31 | 2022-07-01 |

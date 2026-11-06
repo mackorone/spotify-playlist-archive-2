@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "NO, Thank You!",
+        "url": "https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0"
+      },
+      "artists": [
+        {
+          "name": "Ho - Kago Tea Time",
+          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257493,
+      "name": "NO, Thank You!",
+      "url": "https://open.spotify.com/track/2l7kjbDVtqivr8yMhOSWH4"
+    },
+    {
+      "album": {
         "name": "No, Thank You! (From \"K-On!!\")",
         "url": "https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 257493,
       "name": "No, Thank You! (From \"K-On!!\")",
       "url": "https://open.spotify.com/track/73RtKhKwyw31Nk2XMXN4uQ"

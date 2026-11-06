@@ -840,6 +840,24 @@
     {
       "album": {
         "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249720,
+      "name": "Ma\u00f1ana a la Noche",
+      "url": "https://open.spotify.com/track/0ASoRAn7RZn3U5ltBcnXii"
+    },
+    {
+      "album": {
+        "name": "Agarrate Fuerte",
         "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,699 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,700 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [New Lat](https://open.spotify.com/track/3jojiJ4Acs3LldIzqbImqJ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [New Lat](https://open.spotify.com/album/1H1i8QbwJUR4vjiTVQvtV9) | 1:52 |
 | 2 | [Gooi Dit Af](https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Gooi Dit Af](https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc) | 2:57 |
-| 3 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
+| 3 | [Hoeveel](https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC) | [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Hoeveel](https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD) | 2:03 |
 | 4 | [Real Lyfe](https://open.spotify.com/track/1CpgfoRZqeQTEseUV6TegV) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Young & Wreckless](https://open.spotify.com/album/10h8RUTPJjpQOOjY5BTFVv) | 1:48 |
-| 5 | [Hoeveel](https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC) | [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Hoeveel](https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD) | 2:03 |
+| 5 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
 | 6 | [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \(Remix\)](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 |
 | 7 | [Miniete](https://open.spotify.com/track/4AfQGFZ2zYdIHYwqBhYx37) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [Miniete](https://open.spotify.com/album/6FpisY6waijVL2IdW1Rsgd) | 2:36 |
 | 8 | [Tolgevang](https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Tolgevang](https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc) | 2:40 |

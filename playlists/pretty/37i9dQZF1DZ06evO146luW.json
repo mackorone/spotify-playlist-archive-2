@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 53751,
+  "num_followers": 53760,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADcofhfWSK4U7xeihGqcXnA",
+  "snapshot_id": "aukkAAAAAAD4/vy/TLLPxA6ADckjjeNT",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
       "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Rocky Mountain Low - feat. Koe Wetzel",
-      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
     },
     {
       "added_at": null,
@@ -255,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
       },
       "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+      "duration_ms": 168333,
+      "name": "Rocky Mountain Low - feat. Koe Wetzel",
+      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 211277,
-      "name": "Good Times (Bonus Track)",
-      "url": "https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 224704,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 211277,
+      "name": "Good Times (Bonus Track)",
+      "url": "https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 224695,
-      "name": "Damn Near Normal",
-      "url": "https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 216160,
       "name": "Oklahoma Sun",
       "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 224695,
+      "name": "Damn Near Normal",
+      "url": "https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 389972,
-      "name": "Too High to Cry",
-      "url": "https://open.spotify.com/track/3MntWcPyUZDILLsMCSrqTD"
+      "duration_ms": 180558,
+      "name": "Nothing Left to Say",
+      "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 146657,
-      "name": "College",
-      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 146657,
+      "name": "College",
+      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 180558,
-      "name": "Nothing Left to Say",
-      "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
+      "duration_ms": 389972,
+      "name": "Too High to Cry",
+      "url": "https://open.spotify.com/track/3MntWcPyUZDILLsMCSrqTD"
     },
     {
       "added_at": null,

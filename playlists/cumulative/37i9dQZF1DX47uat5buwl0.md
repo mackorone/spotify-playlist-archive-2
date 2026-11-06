@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Def & brittneySGAT 🔥
 
-244 songs - 10 hr 55 min
+245 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Française](https://open.spotify.com/track/3XdNLqN4nyNyYALXivzyuv) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Française + Fingerspitzengefühl](https://open.spotify.com/album/6oRD1xA4tfn69g2PjN5dvz) | 2:30 | 2026-10-08 |  |
 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-20 |  |
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-17 | 2025-09-26 |
+| [Gele Ferrari](https://open.spotify.com/track/7pEAaR3p9CVZGmBnpV2yfs) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Gele Ferrari](https://open.spotify.com/album/1MTgh7djiwrVTtQIyf4g0F) | 2:14 | 2026-11-05 |  |
 | [Get Motivated ft\. jstlbby](https://open.spotify.com/track/3Z2Fv9bPjtEdKpxVUzAToD) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN), [jstlbby](https://open.spotify.com/artist/5BLDZvqf1kjdGL4jwFhAk5) | [Get Motivated ft\. jstlbby](https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG) | 2:24 | 2025-07-17 | 2025-12-12 |
 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 | 2025-08-25 | 2026-05-29 |
 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 | 2025-07-17 | 2025-10-14 |
@@ -171,7 +172,7 @@
 | [onsportief.](https://open.spotify.com/track/6W5DFQUHwSad1q1ddYpVef) | [MANUEL&GEZA](https://open.spotify.com/artist/6fnPjHWdsz5fMFSikcmRdM), [GEZA](https://open.spotify.com/artist/07muF3TcFnHQgGHBT7A0mV), [Manuel Broekman](https://open.spotify.com/artist/3OwIcjU2rTf7nVll84Xu9R) | [onsportief.](https://open.spotify.com/album/7GHS6giQdBzegtU2DQwGHN) | 3:19 | 2026-04-02 | 2026-05-29 |
 | [Op Zoek Naar Jou](https://open.spotify.com/track/42Z1xSYU3naHsv2UmprqUT) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [An Ming Hauptmeijer](https://open.spotify.com/artist/6q2zZvgo9fpEyCsBf75Jzw), [Cas Moerdijk](https://open.spotify.com/artist/5ZlS27qbkEokBSp8ShheP0) | [ANNO ONS](https://open.spotify.com/album/5iIkKAfIrIqcUNxQWS8mLf) | 2:25 | 2025-12-05 | 2026-01-06 |
 | [Ordinair](https://open.spotify.com/track/033bjiKl7ytbU1W9XRvZD8) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Ordinair](https://open.spotify.com/album/4ZlMuABcza8aefzN5yxfL4) | 2:34 | 2025-11-06 | 2025-11-25 |
-| [Palermo](https://open.spotify.com/track/1KU4DCpFnKz3HWvLsZZAKQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Palermo](https://open.spotify.com/album/4FtF3YXYt84Wo44Q6kKdPA) | 2:38 | 2026-03-12 |  |
+| [Palermo](https://open.spotify.com/track/1KU4DCpFnKz3HWvLsZZAKQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Palermo](https://open.spotify.com/album/4FtF3YXYt84Wo44Q6kKdPA) | 2:38 | 2026-03-12 | 2026-11-06 |
 | [Play Hard \(feat\. Ne\-Yo & Akon\) \- New Edit](https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Play Hard \(feat\. Ne\-Yo & Akon\) \[New Edit\]](https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7) | 3:28 | 2025-12-05 | 2026-09-22 |
 | [POLSKA JUMPSTYLE](https://open.spotify.com/track/2mShDoJYcOa4OdO2MFatxz) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [POLSKA JUMPSTYLE](https://open.spotify.com/album/49SXqW0HBJZOT22uaHEKZ1) | 2:20 | 2026-10-12 |  |
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-12-15 | 2026-07-03 |

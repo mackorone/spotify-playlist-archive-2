@@ -144,6 +144,24 @@
     {
       "album": {
         "name": "boys lie",
+        "url": "https://open.spotify.com/album/7u79RtCjM1KNE6IDBiNsQi"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/3WueDZQh5JdW5dR1cGZ4Xk"
+    },
+    {
+      "album": {
+        "name": "boys lie",
         "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
       },
       "artists": [
@@ -154,7 +172,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 145857,
       "name": "boys lie",
       "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
@@ -386,6 +404,24 @@
     {
       "album": {
         "name": "stories from new york",
+        "url": "https://open.spotify.com/album/2qk0vagquh5WnBcF54E8oI"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157802,
+      "name": "foreigner",
+      "url": "https://open.spotify.com/track/47WQxbmq9SEe7BC5ksgVJ0"
+    },
+    {
+      "album": {
+        "name": "stories from new york",
         "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
       "artists": [
@@ -396,7 +432,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 157802,
       "name": "foreigner",
       "url": "https://open.spotify.com/track/5W8Bhbhy33PBeEeCeQtsAx"
@@ -962,6 +998,24 @@
     {
       "album": {
         "name": "sushi for breakfast",
+        "url": "https://open.spotify.com/album/6UedFShxAuOMdhcdnLNyt8"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127037,
+      "name": "sushi for breakfast",
+      "url": "https://open.spotify.com/track/1tXi8DZG7q0eg9idatC5Zv"
+    },
+    {
+      "album": {
+        "name": "sushi for breakfast",
         "url": "https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy"
       },
       "artists": [
@@ -972,7 +1026,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 127037,
       "name": "sushi for breakfast",
       "url": "https://open.spotify.com/track/6sNxPUqycedL5qKgzUClVs"

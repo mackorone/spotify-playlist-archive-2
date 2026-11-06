@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1957,
+  "num_followers": 1960,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAB9n6PVA4T9lH+XrcWgS4n0",
+  "snapshot_id": "aukkAAAAAABT6lpRho7thmgYwVXFKFm1",
   "tracks": [
     {
       "added_at": null,
@@ -471,30 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jogo Sujo",
-        "url": "https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 205718,
-      "name": "Jogo Sujo",
-      "url": "https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recebi Meu Salario",
         "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 147691,
       "name": "Recebi Meu Salario",
       "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogo Sujo",
+        "url": "https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 205718,
+      "name": "Jogo Sujo",
+      "url": "https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq"
     },
     {
       "added_at": null,
@@ -615,6 +615,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Xananan",
+        "url": "https://open.spotify.com/album/39XOZZGnYYysgVClF0FoRH"
+      },
+      "artists": [
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Xananan",
+      "url": "https://open.spotify.com/track/6GpqSODR8pCWbrL2g1e9hc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rua do Ouro (Eletrofunk)",
+        "url": "https://open.spotify.com/album/4ksbVadLWPcc6Bx6QBjsaJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Apollo Oficial",
+          "url": "https://open.spotify.com/artist/4CVVlMzyW5oKy7SEmkKPSA"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        }
+      ],
+      "duration_ms": 139392,
+      "name": "Rua do Ouro (Eletrofunk)",
+      "url": "https://open.spotify.com/track/4AcpXH1WQUJSKSsGjbI63a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Safada Gostosa",
         "url": "https://open.spotify.com/album/7H5ttQp4QcDWGxIJCEiAOt"
       },
@@ -663,54 +711,6 @@
       "duration_ms": 236330,
       "name": "Maresias",
       "url": "https://open.spotify.com/track/7ucgou5K8ab9WjMzJnvImn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xananan",
-        "url": "https://open.spotify.com/album/39XOZZGnYYysgVClF0FoRH"
-      },
-      "artists": [
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Fabinho da Osk",
-          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Xananan",
-      "url": "https://open.spotify.com/track/6GpqSODR8pCWbrL2g1e9hc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rua do Ouro (Eletrofunk)",
-        "url": "https://open.spotify.com/album/4ksbVadLWPcc6Bx6QBjsaJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Apollo Oficial",
-          "url": "https://open.spotify.com/artist/4CVVlMzyW5oKy7SEmkKPSA"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
-        }
-      ],
-      "duration_ms": 139392,
-      "name": "Rua do Ouro (Eletrofunk)",
-      "url": "https://open.spotify.com/track/4AcpXH1WQUJSKSsGjbI63a"
     },
     {
       "added_at": null,
@@ -1155,26 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Papo 10",
         "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 153545,
       "name": "Papo 10",
       "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -1219,26 +1219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ajoelhou",
         "url": "https://open.spotify.com/album/5275f9LV6XsLAHoc4tqQeR"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 121846,
       "name": "Ajoelhou",
       "url": "https://open.spotify.com/track/3gmimtzSVq82cgTwwb0w6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

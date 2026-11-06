@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/6VQGHPCQWdBlVDDRH4sy82"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136058,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/70nXaGfc5vq5gx6W1CWyq7"
+    },
+    {
+      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/6saaWCTWKStjjhJJx3KdMw"
       },

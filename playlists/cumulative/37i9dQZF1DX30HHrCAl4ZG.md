@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Fontaines D.C.
 
-2,270 songs - 5 day 8 hr 45 min
+2,275 songs - 5 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-22 | 2022-07-26 |
 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 | 2023-02-15 | 2023-04-15 |
 | [Anybody Can Sing](https://open.spotify.com/track/7cD6dBCmPPPX1dwMSI2TTw) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [Into the Way](https://open.spotify.com/album/5kdlklOcoPBkltbdiZsL8t) | 4:03 | 2024-09-20 | 2024-12-14 |
+| [anything for now](https://open.spotify.com/track/2QwF3VizHLkSAuj9KbVGYj) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [anything for now](https://open.spotify.com/album/4mG2lDpJn0RnrXcrBqI22o) | 2:37 | 2026-11-06 |  |
 | [Anywhere Girls](https://open.spotify.com/track/3H0l9xfSQ9L6URfh23jpZi) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Anywhere Girls](https://open.spotify.com/album/1vnnJdscQwakuigvaOvXax) | 1:49 | 2026-08-28 |  |
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-04-15 | 2022-09-03 |
 | [apartment402](https://open.spotify.com/track/3tzhG9Y64aTdoQj9p2pije) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [apartment402](https://open.spotify.com/album/2qLK5cRG3do78g2y8RFjpn) | 4:16 | 2023-09-08 | 2023-09-16 |
@@ -521,6 +522,7 @@
 | [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 | 2025-07-18 | 2026-03-14 |
 | [Dang](https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Dang](https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv) | 3:22 | 2025-07-18 | 2025-12-13 |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-07 | 2023-07-22 |
+| [Dare Me](https://open.spotify.com/track/7hXHa6zkI2g4UEe5LEN3fE) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [ZIRP!](https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT) | 4:03 | 2026-11-06 |  |
 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 | 2024-03-22 | 2024-06-01 |
 | [Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/7vLW18eOsIVNFMqiBGXafe) | 6:15 | 2022-03-22 | 2022-05-28 |
 | [Dash of Speed](https://open.spotify.com/track/2sael07xH56q0Y1DsFkaJ1) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Dash of Speed](https://open.spotify.com/album/7lXxi7fVkC9yr1087PMLQs) | 2:55 | 2023-08-11 | 2023-12-02 |
@@ -991,6 +993,7 @@
 | [I Punched Through The Wall](https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:08 | 2025-04-18 | 2025-08-29 |
 | [I See Myself](https://open.spotify.com/track/4TPEq6x5AKefHfLyyyfEu5) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [I See Myself](https://open.spotify.com/album/5ojArqyhIj2WI9z4TBuCgL) | 3:00 | 2023-06-23 | 2023-08-26 |
 | [I Should've Known](https://open.spotify.com/track/3EWIsGwuh6wxxyA1HeBSnb) | [INOHA](https://open.spotify.com/artist/0uoN6ea8SXzhV7WxyrvT1h) | [I Should've Known](https://open.spotify.com/album/6r5PZPQ3QIZj7FM69kzfhk) | 3:29 | 2024-10-25 | 2025-02-01 |
+| [I Spend My Time Crying](https://open.spotify.com/track/6bvcSEgoD9I42gqqi0UjyM) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [The Holy Cross Tigers](https://open.spotify.com/album/34rN1EeWCYWzPCwIaUXqQr) | 2:57 | 2026-11-06 |  |
 | [I Think I](https://open.spotify.com/track/3ubTScTReBYihSnVuRD81D) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [I Think I](https://open.spotify.com/album/2aWox1fQIfpJyzpIN5SsG3) | 3:22 | 2023-03-31 | 2023-06-24 |
 | [I Think I Hate It Here](https://open.spotify.com/track/6VIzm0I0kImumEsXJ4FIty) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [I Think I Hate It Here](https://open.spotify.com/album/1VNIsmdBhaPXIuhNuQXklR) | 2:32 | 2022-04-15 | 2022-06-15 |
 | [I Think I Left the Stove On](https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [I Think I Left the Stove On](https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5) | 3:22 | 2022-07-15 | 2022-09-09 |
@@ -1108,6 +1111,7 @@
 | [JFK](https://open.spotify.com/track/56uGt5agaLDUWApEM4PZ7W) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [JFK](https://open.spotify.com/album/0Z3gNNJPHuJUdtz8c5kRAd) | 1:36 | 2022-11-11 | 2022-12-08 |
 | [Joangeline](https://open.spotify.com/track/3ZAVeIbgPBF868Y18fNlyv) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Joangeline](https://open.spotify.com/album/62ISWp8LwE6RXj4khnmZn3) | 4:12 | 2023-04-21 | 2023-05-20 |
 | [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 | 2024-09-20 | 2025-02-01 |
+| [john dearly](https://open.spotify.com/track/3v34PIRb54ovlyHu8y0qhA) | [smush](https://open.spotify.com/artist/0X7rdOQMhW5OjD3cdxdEoU) | [john dearly](https://open.spotify.com/album/5sfUXzimsgIO3srUNQzMe3) | 2:59 | 2026-11-06 |  |
 | [John, Take Me With You](https://open.spotify.com/track/0iwrY94pDzlxpPoZA7PT6K) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [John, Take Me With You](https://open.spotify.com/album/0rVue0Gp2p7I9c46J75E83) | 3:30 | 2021-06-07 | 2022-04-20 |
 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 | 2022-07-01 | 2022-09-03 |
 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 | 2023-01-27 | 2023-04-09 |
@@ -1258,6 +1262,7 @@
 | [Lunch](https://open.spotify.com/track/62R3oYh4gzAkBmEDN3qquI) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Shirt Expansion Pack](https://open.spotify.com/album/5yxwJLd5dNGSN4VFNVNt3i) | 2:09 | 2025-04-11 | 2025-08-09 |
 | [Lung](https://open.spotify.com/track/4Pi72tLDcxfsIlYgoDYlcY) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lung](https://open.spotify.com/album/0pnr5IIqUTcYdHx2wGGxAw) | 2:49 | 2022-02-11 | 2022-04-14 |
 | [Lying Through Their Teeth](https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Lying Through Their Teeth](https://open.spotify.com/album/2v0B167eqQ3tplIIk7ZK24) | 2:37 | 2022-10-07 | 2023-03-04 |
+| [lyre](https://open.spotify.com/track/21NqnGe9Qfc4rSJkCSKHQP) | [Her New Knife](https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg) | [lyre](https://open.spotify.com/album/5Nqa0C4Z2vvZz6bZb2pKoC) | 2:43 | 2026-11-06 |  |
 | [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 | 2024-08-02 | 2024-10-05 |
 | [Macaroon](https://open.spotify.com/track/4htHe9CbVRTYlzjdM09rE7) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 3:07 | 2023-05-19 | 2023-07-29 |
 | [Madalena](https://open.spotify.com/track/1Ozum56jPgmDr9ZoJpRnY0) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Chain Yer Dragon](https://open.spotify.com/album/05uRcYOGz0uLOMXEXI90xc) | 4:35 | 2025-08-15 | 2026-03-14 |

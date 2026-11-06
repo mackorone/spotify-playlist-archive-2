@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-856 songs - 2 day 5 hr 17 min
+860 songs - 2 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A ralentí](https://open.spotify.com/track/5d9ZbyfXEKs5lErqOH23M8) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:48 | 2025-12-08 | 2026-04-21 |
 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 | 2025-11-28 | 2025-12-17 |
 | [A Wall of Amber](https://open.spotify.com/track/0zvjfyctKZS4ovfyuM3ElL) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 4:17 | 2026-04-03 | 2026-04-21 |
+| [A World Unworthy](https://open.spotify.com/track/0P9JvhaP1lhIjyNW05sXmS) | [At First Light](https://open.spotify.com/artist/2ts6Mf4W62omG4A0Nq7rPC) | [A World Unworthy](https://open.spotify.com/album/0AN1545siaaLj6E0TrL1Re) | 5:14 | 2026-11-05 |  |
 | [Abandono](https://open.spotify.com/track/6R993gafBxnGWUwymORDml) | [Condoizelles](https://open.spotify.com/artist/5zltVdFyM13oCtomjbvwme) | [Considerações sobre a paisagem](https://open.spotify.com/album/4vQzOdbdQ9ttVKoFdOCJK4) | 5:18 | 2026-04-15 | 2026-06-25 |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-11-26 | 2025-12-17 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-24 | 2025-12-17 |
@@ -86,6 +87,7 @@
 | [Big Momma's Door](https://open.spotify.com/track/7E1RuXLuvhrfr42uvYe3lj) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 5:13 | 2026-04-23 | 2026-06-25 |
 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-08-31 | 2026-09-20 |
 | [Bitch \- Live](https://open.spotify.com/track/2u5Kvn12kWyOzL9D6aWXRb) | [The Jay Howie Trio](https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh), [Jay Howie](https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD) | [Live in Halls Gap](https://open.spotify.com/album/7bZM8wuUwI8adikXR78mrW) | 3:07 | 2026-04-23 | 2026-06-25 |
+| [Black Sorcery](https://open.spotify.com/track/26snts5ounwV0cAckqZNL4) | [Ivan Joy](https://open.spotify.com/artist/6KkXS1Bvq4jwdbC2yOQbCQ), [Joy Gomez](https://open.spotify.com/artist/2MUg67gw6NHTc3epu5WYqK), [Ivan Pons](https://open.spotify.com/artist/5GuC332HEfDWXoVXTGFGFJ) | [Black Sorcery](https://open.spotify.com/album/5NAln1HvVVSQKHftxm6iP7) | 5:06 | 2026-11-05 |  |
 | [Blacktop and Burnt Rubber](https://open.spotify.com/track/4YJorBOy38zLV1KaoBSDYA) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:16 | 2026-03-16 | 2026-04-21 |
 | [Blacktop Mojo](https://open.spotify.com/track/1YUuT3I4JDrFi24YwJQ0xS) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 3:48 | 2026-01-27 | 2026-03-18 |
 | [Bled Dry \(Shamisen\)](https://open.spotify.com/track/2XCq0XGy96fW9D8onfffHd) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Bled Dry \(Shamisen\)](https://open.spotify.com/album/6QhmTPqo6c8Gb9Tka9P1EX) | 3:32 | 2026-07-14 | 2026-08-01 |
@@ -602,6 +604,7 @@
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
 | [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
 | [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 | 2026-04-21 |
+| [Rest In Fight](https://open.spotify.com/track/1Ibpqkq11iSRPdOP132Sju) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Rest In Fight](https://open.spotify.com/album/3kcYI5qf2k0m5ablgKrFo9) | 2:26 | 2026-11-05 |  |
 | [Restless Alibi](https://open.spotify.com/track/5SGbLM7YQ1GdXJ2B3K4FVG) | [Echoviolet](https://open.spotify.com/artist/5Jrx7jtjiSPI8FAsjfqy3l) | [Restless Alibi](https://open.spotify.com/album/4yesKLWzqTfQ2yFPQOm1WA) | 3:20 | 2026-10-23 |  |
 | [Retro Blonde](https://open.spotify.com/track/2jDTCQurwYsjoaUSeWApOf) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Retro Blonde](https://open.spotify.com/album/0DvHilEkBl7OCZ87Hsxeam) | 3:33 | 2026-03-23 | 2026-04-21 |
 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-02-16 | 2026-03-18 |
@@ -613,6 +616,7 @@
 | [River](https://open.spotify.com/track/1lrSxSQ1xJhtOjQJyhpKOb) | [The Blue Marmalades](https://open.spotify.com/artist/0Cch3HVBzCsI5YUGMcAva9) | [River](https://open.spotify.com/album/3t8Xr8iT7VMJ5iD4M1uk6m) | 7:15 | 2026-03-16 | 2026-04-21 |
 | [Road home](https://open.spotify.com/track/3vWWVcx1tuc841jkIC7WHb) | [JJ Llombart](https://open.spotify.com/artist/3nUhOA1UIN29SP7hggslu9) | [Road home](https://open.spotify.com/album/0UMHEvnwS5ybVhdTXu4444) | 4:48 | 2026-01-27 | 2026-03-18 |
 | [Roadkill Restaurant](https://open.spotify.com/track/1zLd7KMysA9gpu1OPB3IDI) | [Parlour Creepers](https://open.spotify.com/artist/6kRPePqhwCE1t7JIwmEXnd) | [Roadkill Restaurant](https://open.spotify.com/album/0NWM7dlb6tB799edJnikxn) | 3:04 | 2026-06-09 | 2026-06-25 |
+| [Roadside Redemption](https://open.spotify.com/track/5pEux62430TmWm3wdPFrPW) | [Carl Speaks](https://open.spotify.com/artist/4kYWW4xqLmYW5ocMbp2xwY) | [Roadside Redemption](https://open.spotify.com/album/65COFrUhjq4wXjInsXPVQc) | 3:42 | 2026-11-05 |  |
 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 | 2026-03-18 |
 | [Rock\-A\-Doodle\-Doo](https://open.spotify.com/track/1mYro7PZazULimirLpa6gE) | [Kelvin Butcher](https://open.spotify.com/artist/6KFY7vyX7g3AmvUJbZdraP) | [Rock\-A\-Doodle\-Doo](https://open.spotify.com/album/4IcXQu2ZWLEHSjtyupDntX) | 2:43 | 2026-11-04 |  |
 | [RockPaperScissors](https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [RockPaperScissors](https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6) | 3:25 | 2026-05-07 | 2026-05-26 |

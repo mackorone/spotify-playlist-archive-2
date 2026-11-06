@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: Yves Berendse",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Rutger van Barneveld",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -6418,7 +6418,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187734,
       "name": "Ik Ben Niets Zonder Jou",
       "url": "https://open.spotify.com/track/2pbMWX9o7UWzrG9VQJM23b"
@@ -6696,6 +6696,24 @@
       "duration_ms": 182222,
       "name": "Ik heb me eventjes flink laten gaan",
       "url": "https://open.spotify.com/track/7GVIsuE4FdvG1yF27LVko5"
+    },
+    {
+      "album": {
+        "name": "Ik Heb Ons Bed Op Marktplaats Gezet",
+        "url": "https://open.spotify.com/album/3X1fZ31lO0WUL8JwP17O3X"
+      },
+      "artists": [
+        {
+          "name": "Jessy Arjaans",
+          "url": "https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ik Heb Ons Bed Op Marktplaats Gezet",
+      "url": "https://open.spotify.com/track/3jZ2ifOVMHEXv8nnYICa7p"
     },
     {
       "album": {
@@ -7270,7 +7288,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160985,
       "name": "Ik Weet Niet Waarom",
       "url": "https://open.spotify.com/track/5gLAbNaOOaH7rCxc74t9CY"
@@ -8126,7 +8144,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180322,
       "name": "Jij",
       "url": "https://open.spotify.com/track/5eNFNNZwywwe1jOoUxjYo2"
@@ -8884,7 +8902,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 188583,
       "name": "Korrel Zout",
       "url": "https://open.spotify.com/track/0xrTOuws4YRRO4Nr3rGqRn"
@@ -9581,6 +9599,28 @@
     },
     {
       "album": {
+        "name": "Leuke Dingen Doen (feat. Frank van Etten)",
+        "url": "https://open.spotify.com/album/04ZhUtqJ4zEiS7qHQph3o8"
+      },
+      "artists": [
+        {
+          "name": "Sjorleone",
+          "url": "https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4"
+        },
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136248,
+      "name": "Leuke Dingen Doen (feat. Frank van Etten)",
+      "url": "https://open.spotify.com/track/6Rkcpb23SaT06PwMhXuyrB"
+    },
+    {
+      "album": {
         "name": "Liefde en geluk",
         "url": "https://open.spotify.com/album/4CHTmI294VBzs2C3IW48yw"
       },
@@ -9712,7 +9752,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 151546,
       "name": "Likkie Likkie",
       "url": "https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U"
@@ -10400,6 +10440,24 @@
       "duration_ms": 172218,
       "name": "Mijn Hart Is Geen Hotel",
       "url": "https://open.spotify.com/track/3Xymr3jr9Kjx90KWXbjKg7"
+    },
+    {
+      "album": {
+        "name": "Mijn Jongen",
+        "url": "https://open.spotify.com/album/5QK53RLtI2ALiIs5AMewru"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Ophof",
+          "url": "https://open.spotify.com/artist/1WPZn8qRmT7tFIeEmm1szs"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169377,
+      "name": "Mijn Jongen",
+      "url": "https://open.spotify.com/track/4U7VKqY43DgWwSC00tGjUk"
     },
     {
       "album": {
@@ -11357,6 +11415,24 @@
     },
     {
       "album": {
+        "name": "Onderweg",
+        "url": "https://open.spotify.com/album/2u5c3GvKrTaEoWAr9XmKSH"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153947,
+      "name": "Onderweg",
+      "url": "https://open.spotify.com/track/1M2eFR96x0IwVDD2G6Gdns"
+    },
+    {
+      "album": {
         "name": "Onderweg naar jou",
         "url": "https://open.spotify.com/album/2qLtFTUse1S8plx7ZK9ic8"
       },
@@ -11802,7 +11878,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142271,
       "name": "Papa's Geld",
       "url": "https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT"
@@ -13119,6 +13195,24 @@
     },
     {
       "album": {
+        "name": "Tijdmachine",
+        "url": "https://open.spotify.com/album/2wkR4izGobDdty3PAHOn2f"
+      },
+      "artists": [
+        {
+          "name": "EMANUEL",
+          "url": "https://open.spotify.com/artist/1P8t6HwyHr1RLzWBnxhjCd"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168352,
+      "name": "Tijdmachine",
+      "url": "https://open.spotify.com/track/06002juDNBuy3dpBm4OBm6"
+    },
+    {
+      "album": {
         "name": "Tinto de Verano",
         "url": "https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p"
       },
@@ -13991,6 +14085,24 @@
     },
     {
       "album": {
+        "name": "Verstand Op Nul",
+        "url": "https://open.spotify.com/album/5jBJOyaf5FgUeTzG2XU15E"
+      },
+      "artists": [
+        {
+          "name": "Mara Julia",
+          "url": "https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143726,
+      "name": "Verstand Op Nul",
+      "url": "https://open.spotify.com/track/79LahQP0yARLnQyQs2Fvt6"
+    },
+    {
+      "album": {
         "name": "Vespa",
         "url": "https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb"
       },
@@ -14272,7 +14384,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142335,
       "name": "Voor Me Winnen",
       "url": "https://open.spotify.com/track/1P45vESjHqo8t4RPAVR9DM"
@@ -14370,6 +14482,24 @@
       "duration_ms": 184800,
       "name": "Vuurwerk",
       "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
+    },
+    {
+      "album": {
+        "name": "Waar Ben Jij",
+        "url": "https://open.spotify.com/album/1oaWbAqd6MMkVmYXTer7a5"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "Waar Ben Jij",
+      "url": "https://open.spotify.com/track/3urXPhe8sZOz3yVAr3Z1H4"
     },
     {
       "album": {

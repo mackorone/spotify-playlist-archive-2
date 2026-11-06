@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132480,
       "name": "Pictures at an Exhibition (Orch. Ravel): I. Gnomus",
       "url": "https://open.spotify.com/track/4gKrD45pSLOwGndDsmtisn"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 340200,
       "name": "Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev",
       "url": "https://open.spotify.com/track/0LA9d83t4o38aoXfFRIwJz"
@@ -674,6 +674,32 @@
       "duration_ms": 151466,
       "name": "Pr\u00e9ludes, Book 1, CD 125: VIII. La fille aux cheveux de lin (Arr. Spindler for Violin & Orchestra)",
       "url": "https://open.spotify.com/track/3F9BW0Y8JB7tmTRNZrIfIz"
+    },
+    {
+      "album": {
+        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
+        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss I",
+          "url": "https://open.spotify.com/artist/4WMHJgeJCssiGW3ssUT7eb"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214946,
+      "name": "Radetzky-Marsch, Op. 228",
+      "url": "https://open.spotify.com/track/0AuMBvPEM7o3U3xvfErFt7"
     },
     {
       "album": {

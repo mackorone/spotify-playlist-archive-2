@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Shallipopi",
+  "description": "From the trenches. Through the streets.\nCover: Santi",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -3726,7 +3726,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 135549,
       "name": "Fast and Furious",
       "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
@@ -9660,6 +9660,28 @@
       "duration_ms": 179272,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
+    },
+    {
+      "album": {
+        "name": "Siesta (feat. Mavo)",
+        "url": "https://open.spotify.com/album/3NzR0oTgMm3S56CvjyTHnq"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128048,
+      "name": "Siesta (feat. Mavo)",
+      "url": "https://open.spotify.com/track/6jz3wcx4mpdL8pcKmOV4kn"
     },
     {
       "album": {

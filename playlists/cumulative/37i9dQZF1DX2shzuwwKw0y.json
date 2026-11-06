@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Jaziel Avilez",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Clave Especial ",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192768,
       "name": "Compa Primo",
       "url": "https://open.spotify.com/track/2DdaY2TLmJU8MlTqCLG8lg"
@@ -3170,6 +3170,28 @@
       "duration_ms": 142236,
       "name": "Cuando Me Faltaban",
       "url": "https://open.spotify.com/track/1pxQsLorDosjCezMhnYZn3"
+    },
+    {
+      "album": {
+        "name": "Cuando Yo Me Muera",
+        "url": "https://open.spotify.com/album/5YEDDnQxM5ebCTsRotIcoy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Esparza",
+          "url": "https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Cuando Yo Me Muera",
+      "url": "https://open.spotify.com/track/75MQzeH9gyqCtuOAORQCBe"
     },
     {
       "album": {
@@ -5593,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "Blanco y Negro Vol. 1",
+        "url": "https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223998,
+      "name": "El Hombre Del Equipo",
+      "url": "https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2"
+    },
+    {
+      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
@@ -5742,7 +5782,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218162,
       "name": "El Jefe de las Plazas",
       "url": "https://open.spotify.com/track/3CyCK4IXTHHz5ablmO72ny"
@@ -5978,7 +6018,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156512,
       "name": "El Mentado",
       "url": "https://open.spotify.com/track/4qZfObHdk6sphLcReDazoq"
@@ -6760,6 +6800,24 @@
       "duration_ms": 136375,
       "name": "El Toro de Jalisco",
       "url": "https://open.spotify.com/track/4cpqvZXUBLCL4Na9FuO0Sn"
+    },
+    {
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166868,
+      "name": "El Toro Encartado",
+      "url": "https://open.spotify.com/track/572KOXYeHP69vqpcgvOKGh"
     },
     {
       "album": {
@@ -11127,6 +11185,24 @@
     },
     {
       "album": {
+        "name": "MA\u00d1A",
+        "url": "https://open.spotify.com/album/5wo0yYSspyQB1rmtgJczuM"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121267,
+      "name": "MA\u00d1A",
+      "url": "https://open.spotify.com/track/1Cu21QoqwsiM1l8Z8cvFVA"
+    },
+    {
+      "album": {
         "name": "McGregor",
         "url": "https://open.spotify.com/album/3QHadlcvH5AkKl5QNTa8ul"
       },
@@ -11834,7 +11910,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 177540,
       "name": "MJ",
       "url": "https://open.spotify.com/track/71N2IlXaxkOAqyci6tjwES"
@@ -14860,7 +14936,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205746,
       "name": "Somos Mas Americanos",
       "url": "https://open.spotify.com/track/1grsm6TpzFbgxXEVa2PmmS"
@@ -15386,6 +15462,28 @@
       "duration_ms": 262356,
       "name": "The Magic Man",
       "url": "https://open.spotify.com/track/1iUJ5K2eTf2GVb9mHP5NwX"
+    },
+    {
+      "album": {
+        "name": "Tic Tic Tak",
+        "url": "https://open.spotify.com/album/3J1yk6JSDrngBtigQE45Po"
+      },
+      "artists": [
+        {
+          "name": "Grupo MM",
+          "url": "https://open.spotify.com/artist/6B8hu42GbDNo6uvQfxPJJY"
+        },
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149079,
+      "name": "Tic Tic Tak",
+      "url": "https://open.spotify.com/track/5F1hLOdiH5p7G01b7dYHFG"
     },
     {
       "album": {

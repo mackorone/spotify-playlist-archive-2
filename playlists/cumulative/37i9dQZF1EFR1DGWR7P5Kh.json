@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 40893,
       "name": "All My Life - Pt. 1",
       "url": "https://open.spotify.com/track/1qXu9T7d1EJ23tqc4cLKcu"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 40493,
       "name": "All My Life - Pt. 2",
       "url": "https://open.spotify.com/track/0SEwGE9vNsQsoyO6CxBjMA"
@@ -88,10 +88,82 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 39173,
       "name": "All My Life - Pt. 3",
       "url": "https://open.spotify.com/track/2JZRFfvZd8PmZftsGRwb1I"
+    },
+    {
+      "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40896,
+      "name": "All My Life, Pt. 1",
+      "url": "https://open.spotify.com/track/5AyLVyytWzhKotCIUUgCUd"
+    },
+    {
+      "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40496,
+      "name": "All My Life, Pt. 2",
+      "url": "https://open.spotify.com/track/2VYFEg132riNwwqeb3AzHM"
+    },
+    {
+      "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39176,
+      "name": "All My Life, Pt. 3",
+      "url": "https://open.spotify.com/track/1RS0Zz1rDnCGp6Uf8SdX4s"
+    },
+    {
+      "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194916,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/0o5KNWdr8v3gsmLTq6hegF"
     },
     {
       "album": {
@@ -110,7 +182,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 194893,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/2vF4tAlCnTCQnIFWLQ2VbL"
@@ -234,10 +306,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 312453,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3Yrmzj5kIcASKndfutrJjC"
+    },
+    {
+      "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312459,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/1Akv2eZgYgprB8yaoCOMGL"
     },
     {
       "album": {
@@ -317,6 +407,24 @@
     },
     {
       "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158278,
+      "name": "High Heels",
+      "url": "https://open.spotify.com/track/0Zn61kJe4MaKVMvSri4LQR"
+    },
+    {
+      "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
       },
@@ -332,7 +440,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158280,
       "name": "High Heels",
       "url": "https://open.spotify.com/track/2NwS0Ki7W63Ls4GEMxPP8T"
@@ -459,6 +567,24 @@
     },
     {
       "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221492,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/4BoJwzrTu8XZwj1NIMjgkr"
+    },
+    {
+      "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
       },
@@ -470,7 +596,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 221493,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/3TxvjfiCEb27MXPXGAW8JZ"

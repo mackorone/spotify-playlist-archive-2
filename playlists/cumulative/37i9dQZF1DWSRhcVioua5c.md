@@ -4,7 +4,7 @@
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-169 songs - 10 hr 37 min
+170 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Angélica](https://open.spotify.com/track/22MtFu7CYyj0pPjEFHOSgG) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven por Mi \(Sesiones 2020\)](https://open.spotify.com/album/1hGf9vvJOi3ULdTSTRcPpW) | 3:29 | 2021-10-08 | 2022-07-29 |
 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/662TlFJMCYeaSOBEQ4K5es) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 | 2021-10-08 | 2026-08-22 |
 | [Antes De Ti](https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le) | [Los Santiagueños del Río](https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2) | [Antes De Ti](https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV) | 4:23 | 2021-10-08 | 2025-07-26 |
+| [Aroma de mandarinas](https://open.spotify.com/track/7jVXNTrLSEao6ZtFU3eeDH) | [Gala de Folklore](https://open.spotify.com/artist/2MyizEvxeg6TttdaWHPYFl), [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Nacho Cuellar](https://open.spotify.com/artist/2HAKG08eaXUZIWbmRjIWUQ) | [Aroma de mandarinas](https://open.spotify.com/album/0sXLw36CboVIEgXbKXIqhK) | 2:55 | 2026-11-05 |  |
 | [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 | 2021-10-08 | 2026-08-22 |
 | [Ausencia](https://open.spotify.com/track/2RNfWFgY8Zd2ipPGtKAtPv) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:14 | 2021-10-08 | 2022-07-29 |
 | [Aventura](https://open.spotify.com/track/01yql5Z187oXNK51jhbPJZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:29 | 2021-10-08 |  |
@@ -147,7 +148,7 @@
 | [Te Olvidé](https://open.spotify.com/track/4VBU0MiVxJuypbNGJeTVCx) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/3d89y9lBXzyZhFU6rEO1I5) | 3:00 | 2021-10-08 | 2022-07-29 |
 | [Te Olvidé](https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Te Olvidé](https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU) | 3:00 | 2022-07-15 | 2024-04-19 |
 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 | 2021-10-08 |  |
-| [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 | 2023-06-09 |  |
+| [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 | 2023-06-09 | 2026-11-06 |
 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 | 2021-10-08 | 2026-08-22 |
 | [Tonada De Tus Labios](https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Goy Karamelo](https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC) | [Tonada De Tus Labios](https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n) | 2:57 | 2023-11-10 | 2026-08-22 |
 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 | 2021-10-08 |  |

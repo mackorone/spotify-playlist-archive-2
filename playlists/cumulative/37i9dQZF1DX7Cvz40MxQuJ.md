@@ -4,7 +4,7 @@
 
 > it’s giving medieval castlecore✨🥀
 
-90 songs - 4 hr 50 min
+91 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ground](https://open.spotify.com/track/4Zdg8cVZrR4RDKFXIJu46B) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 3:04 | 2025-04-11 |  |
 | [Guinevere Comes To Lancelot](https://open.spotify.com/track/0BeHtyBtdeFuScNjsuBOLQ) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [A Knight's Tale \- Original Motion Picture Score](https://open.spotify.com/album/0NmOv2LjxKgpb4Ztq85QrH) | 3:15 | 2025-01-10 |  |
 | [Hearth Harmony](https://open.spotify.com/track/3eoWA6YFZ2Eu96Eb0QxEQW) | [Harp of the Elvenwood](https://open.spotify.com/artist/4jC86Lz2e25Y5tUk2fPB73) | [Medieval Tavern Harp Adventures](https://open.spotify.com/album/3PV6ho9pDVaSGELidfsqRg) | 1:45 | 2025-01-10 |  |
+| [Hijo de la Luna \(Arr\. for Harp by Oksana Sidyagina\)](https://open.spotify.com/track/3wbhijvSdSI9JO8Yrgf21u) | [Jose María Cano](https://open.spotify.com/artist/7mzk8wJJpj8xczROCpXQyk), [Oksana Sidyagina](https://open.spotify.com/artist/3hf2wVzYZQzQyMV8BZO6Fz) | [Hijo de la Luna \(Arr\. for Harp by Oksana Sidyagina\)](https://open.spotify.com/album/3lSOOgSmHNZOrvcfN9uG4X) | 2:17 | 2026-11-06 |  |
 | [In Darkness Let Me Dwell \(Arr\. Xiaofu for Piano\)](https://open.spotify.com/track/0zlIMFPZoDYTfsCzKzVPO3) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Xiaofu Ju](https://open.spotify.com/artist/6L3OvfW83vCoMT4BnMVCtv) | [Mist Without](https://open.spotify.com/album/4ggQY7MLMNv5N1ksGzSl8l) | 3:25 | 2026-07-10 |  |
 | [Iphigénie en Tauride, Act II, Scene 3: 1er et 2ème menuets](https://open.spotify.com/track/5WMKKOJCY1fXoZPBOsog9n) | [Henri Desmarets](https://open.spotify.com/artist/5txCr4vSzzVyY2PgaAglCW), [André Campra](https://open.spotify.com/artist/0PqPknmYIYTP8QwfAJ76e3), [Le Concert Spirituel](https://open.spotify.com/artist/3JqPlYm35Q5oWei0xbeFiV), [Herve Niquet](https://open.spotify.com/artist/63uY29bvU5hyWZXYRTEhkq) | [Desmarest & Campra: Iphigénie en Tauride](https://open.spotify.com/album/6MpFsVHDNuThSnRUW7tSaS) | 1:14 | 2025-01-20 |  |
 | [King Arthur, or The British Worthy \(1691\) / Act 3: What Power art thou?](https://open.spotify.com/track/3vAvbk11ivWFuY4c2OiCO3) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Andreas Scholl](https://open.spotify.com/artist/2LnE7uKchgVW2Uv7vzwixZ), [Accademia Bizantina](https://open.spotify.com/artist/7vu3z34rL6rJiJVJyi9CfD), [Stefano Montanari](https://open.spotify.com/artist/4F0wl1l8bennfUYUMhrovM) | [O Solitude](https://open.spotify.com/album/4L29ejjZ86MsfnZAoldkPL) | 3:09 | 2025-01-10 |  |

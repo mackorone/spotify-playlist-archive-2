@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Victony",
-  "num_followers": 122080,
+  "num_followers": 122139,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Too Cute To Be Lonely",
-        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196509,
-      "name": "Too Cute To Be Lonely",
-      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Waiting Room",
         "url": "https://open.spotify.com/album/4OTN6499OJjQcswppxk0lv"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 182580,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/0g1yZo3wKgRtexXZzhZ98m"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "let's talk about it",
+        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 157810,
+      "name": "let\u2019s talk about it",
+      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "QR\u00d6MELIFE",
         "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 227787,
       "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky)",
       "url": "https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "let's talk about it",
-        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 157810,
-      "name": "let\u2019s talk about it",
-      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "What we want and need from love",
+        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "duration_ms": 253590,
+      "name": "What we want and need from love",
+      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "Buss Down (1 Thing)",
         "url": "https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 119986,
       "name": "Buss Down (1 Thing)",
       "url": "https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "What we want and need from love",
-        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
-      },
-      "artists": [
-        {
-          "name": "Mila Bea",
-          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
-        }
-      ],
-      "duration_ms": 253590,
-      "name": "What we want and need from love",
-      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Trillions",
-        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Trillions",
-      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "laundry song",
         "url": "https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 227541,
       "name": "laundry song",
       "url": "https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Trillions",
+        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Trillions",
+      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Believe You Me",
-        "url": "https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Call Me If You Need Me",
         "url": "https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 142869,
       "name": "Call Me If You Need Me",
       "url": "https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Believe You Me",
+        "url": "https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "Pull of the Moon",
+        "url": "https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z"
+      },
+      "artists": [
+        {
+          "name": "Billboard Style",
+          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
+        }
+      ],
+      "duration_ms": 202561,
+      "name": "I am a Man",
+      "url": "https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "Sentimental Ultra",
         "url": "https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 192500,
       "name": "Sentimental Ultra",
       "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Pull of the Moon",
-        "url": "https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z"
-      },
-      "artists": [
-        {
-          "name": "Billboard Style",
-          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
-        }
-      ],
-      "duration_ms": 202561,
-      "name": "I am a Man",
-      "url": "https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "The Point's a Truss, My Trusselina",
-        "url": "https://open.spotify.com/album/316h93vnHKcXH7iceuMJ8p"
-      },
-      "artists": [
-        {
-          "name": "Trusselina",
-          "url": "https://open.spotify.com/artist/06DYRh926LZdCKvDKWxsA9"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Gastro",
-      "url": "https://open.spotify.com/track/1ER7XeW1dL2SYsO1uTpsON"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Trace me on2 u",
         "url": "https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 181810,
       "name": "Trace me on2 u",
       "url": "https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "The Point's a Truss, My Trusselina",
+        "url": "https://open.spotify.com/album/316h93vnHKcXH7iceuMJ8p"
+      },
+      "artists": [
+        {
+          "name": "Trusselina",
+          "url": "https://open.spotify.com/artist/06DYRh926LZdCKvDKWxsA9"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Gastro",
+      "url": "https://open.spotify.com/track/1ER7XeW1dL2SYsO1uTpsON"
     },
     {
       "added_at": "2026-10-27 04:00:01",

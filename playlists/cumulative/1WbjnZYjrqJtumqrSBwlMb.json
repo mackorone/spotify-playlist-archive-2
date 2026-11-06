@@ -5029,7 +5029,7 @@
       "artists": [
         {
           "name": "blackbear",
-          "url": "https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4"
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
       "date_added": "2022-05-26",
@@ -17255,6 +17255,24 @@
     },
     {
       "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/2DRHi6w6vTAlH7pxmlx5WI"
+    },
+    {
+      "album": {
         "name": "From Me To You",
         "url": "https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa"
       },
@@ -22727,6 +22745,28 @@
     },
     {
       "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "The Colosseum (feat. Mustafa)",
+      "url": "https://open.spotify.com/track/24FP7CozXv36q27fzHKTYS"
+    },
+    {
+      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
@@ -25627,7 +25667,7 @@
       "artists": [
         {
           "name": "blackbear",
-          "url": "https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4"
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
       "date_added": "2022-03-08",

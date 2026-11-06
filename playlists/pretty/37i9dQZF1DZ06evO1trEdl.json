@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAC6p1ph7cQnI5ebBK5qsJrB",
+  "snapshot_id": "aukkAAAAAABQZbnkQAxNkc8xc3YIYycf",
   "tracks": [
     {
       "added_at": null,
@@ -263,38 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 429160,
-      "name": "If And When",
-      "url": "https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 429160,
+      "name": "If And When",
+      "url": "https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 244626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees - The Very Best Of",
         "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 218626,
       "name": "What I Did for Love",
       "url": "https://open.spotify.com/track/5ivPBMpp37NridLZrQDwsx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Northern Soul 45's",
+        "url": "https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/14mR38OKK2oS8qy1N5jjgX"
     },
     {
       "added_at": null,
@@ -544,25 +560,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Get Your Love Back",
-      "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look in My Eyes",
-        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Look in My Eyes",
-      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
+      "duration_ms": 244866,
+      "name": "Lonelier Are Fools",
+      "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
       "artists": [
         {
@@ -592,25 +592,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 153560,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Lonelier Are Fools",
-      "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
+      "duration_ms": 157773,
+      "name": "Look in My Eyes",
+      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Get Your Love Back",
+      "url": "https://open.spotify.com/track/02ApvI4KwIke5ykDbDzfSK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees Live",
         "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
       },
@@ -643,38 +643,6 @@
       "duration_ms": 228333,
       "name": "T.S.O.P. (The Sound Of Philadelphia) - Live at Bailey's, London, England - 1975",
       "url": "https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/4T3OCwCaD9eP2MlsI152kz"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 261040,
-      "name": "A Tender Lie",
-      "url": "https://open.spotify.com/track/2UsA7EMI1zxd7ABNEFzin0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "International (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
     },
     {
       "added_at": null,
@@ -707,6 +675,58 @@
       "duration_ms": 189346,
       "name": "Caught Between Two Fires",
       "url": "https://open.spotify.com/track/2BmlYNJN4MTjm0VJQFkGpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/4T3OCwCaD9eP2MlsI152kz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 261040,
+      "name": "A Tender Lie",
+      "url": "https://open.spotify.com/track/2UsA7EMI1zxd7ABNEFzin0"
     },
     {
       "added_at": null,
@@ -747,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
-      },
-      "artists": [
-        {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 151786,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Dimensions",
         "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 346800,
       "name": "Magic In The Air",
       "url": "https://open.spotify.com/track/6130TGiRy7xaXkRQ6P6jSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is the House",
+        "url": "https://open.spotify.com/album/44FJsWUUCB3iP7ENd5LDTs"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 221056,
+      "name": "This Is the House",
+      "url": "https://open.spotify.com/track/4vYn3EMWvMEafjNbcsikbG"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 226200,
       "name": "Somos Novios (It's Impossible)",
       "url": "https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is the House",
-        "url": "https://open.spotify.com/album/44FJsWUUCB3iP7ENd5LDTs"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 221056,
-      "name": "This Is the House",
-      "url": "https://open.spotify.com/track/4vYn3EMWvMEafjNbcsikbG"
     },
     {
       "added_at": null,

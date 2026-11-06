@@ -4584,7 +4584,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204622,
       "name": "call me yours",
       "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
@@ -5170,7 +5170,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 148320,
       "name": "CHATEAU",
       "url": "https://open.spotify.com/track/4swwJl5XMQxAXvrcSNo4S8"
@@ -6417,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/5o89yAWJisGXbpRHVZSQ9M"
+      },
+      "artists": [
+        {
+          "name": "Sasha Cee",
+          "url": "https://open.spotify.com/artist/4vhO32tbkt2HLcENE65OX5"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177492,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4jeRUuq7dy7rAPuPb1f4Po"
+    },
+    {
+      "album": {
         "name": "Crutches",
         "url": "https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP"
       },
@@ -6504,6 +6522,24 @@
       "duration_ms": 148778,
       "name": "Cure",
       "url": "https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd"
+    },
+    {
+      "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
     },
     {
       "album": {
@@ -8954,7 +8990,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132370,
       "name": "Exit",
       "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
@@ -18008,7 +18044,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204249,
       "name": "LY",
       "url": "https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq"
@@ -23387,6 +23423,24 @@
     },
     {
       "album": {
+        "name": "Return of the Jetty",
+        "url": "https://open.spotify.com/album/3LOszbydLGWRBP9vSsMys1"
+      },
+      "artists": [
+        {
+          "name": "link3",
+          "url": "https://open.spotify.com/artist/2hlo7e04n5T55WoJVs71XC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118383,
+      "name": "Return of the Jetty",
+      "url": "https://open.spotify.com/track/4tAnPhMEhpoc4kNofdKz3g"
+    },
+    {
+      "album": {
         "name": "Reunite",
         "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
       },
@@ -25076,6 +25130,28 @@
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+    },
+    {
+      "album": {
+        "name": "Jardim Celeste",
+        "url": "https://open.spotify.com/album/0Z68VsoFNwsAMLtacdMZj5"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        },
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139180,
+      "name": "Sigh",
+      "url": "https://open.spotify.com/track/5uBsu8EKK5V5xYMn0RHMQg"
     },
     {
       "album": {

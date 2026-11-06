@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAA6wcNR/9fPlstM5kWIhfQj",
+  "snapshot_id": "aukkAAAAAABiNJBc6tHSF2EdR3GD92kz",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Ten Ton Hammer",
-      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VINDICATE (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/33VjmcPP77gcF1cCtI918F"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/6wCwqhgCQjWUDlrQgD5bl1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 447373,
-      "name": "Hallowed Be Thy Name",
-      "url": "https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy"
+      "duration_ms": 542586,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 542586,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
+      "duration_ms": 447373,
+      "name": "Hallowed Be Thy Name",
+      "url": "https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 374666,
-      "name": "None but My Own",
-      "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 258465,
       "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
       "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 374666,
+      "name": "None but My Own",
+      "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Blood for Blood",
-      "url": "https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 246405,
       "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
       "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Blood for Blood",
+      "url": "https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 286706,
-      "name": "The Rage to Overcome",
-      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 389947,
       "name": "UNHALL\u00d8WED",
       "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 286706,
+      "name": "The Rage to Overcome",
+      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 625720,
-      "name": "SLAUGHTER THE MARTYR",
-      "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
+      "duration_ms": 355272,
+      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+      "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 355272,
-      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
-      "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
+      "duration_ms": 625720,
+      "name": "SLAUGHTER THE MARTYR",
+      "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 221918,
-      "name": "AT\u00d8MIC REVELATI\u00d8NS",
-      "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
+      "duration_ms": 212323,
+      "name": "THESE SCARS W\u00d8N'T DEFINE US",
+      "url": "https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 509817,
-      "name": "Sail Into The Black",
-      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
+      "duration_ms": 370746,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
     },
     {
       "added_at": null,
@@ -812,15 +812,15 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 212323,
-      "name": "THESE SCARS W\u00d8N'T DEFINE US",
-      "url": "https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT"
+      "duration_ms": 221918,
+      "name": "AT\u00d8MIC REVELATI\u00d8NS",
+      "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 370746,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
+      "duration_ms": 509817,
+      "name": "Sail Into The Black",
+      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
     }
   ],
   "unique_name": "This Is Machine Head",

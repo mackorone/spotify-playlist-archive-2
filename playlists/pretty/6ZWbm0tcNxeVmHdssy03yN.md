@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,572 likes - 99 songs - 5 hr 3 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,574 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 11 | [That Look](https://open.spotify.com/track/42mPqIW3wQZwJKncm4rERJ) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [That Look](https://open.spotify.com/album/5OqozeW2s2RmMsYYzFZhNR) | 3:17 |
 | 12 | [Lucifer Rising Part II](https://open.spotify.com/track/1NZ7rQJtBY3kttCWNdDLKV) | [Part Time](https://open.spotify.com/artist/5M0HAqHXyOh3q7WQnvce8o) | [Lucifer Rising](https://open.spotify.com/album/3mzKevwaIZMHn94qWD4ngm) | 4:42 |
 | 13 | [Sprinted for the Sun](https://open.spotify.com/track/2CqfurzzNmCRWPozbP6dr1) | [RubyHoo](https://open.spotify.com/artist/0K0wew1SV1rbMZjs014Xsw) | [Sprinted for the Sun](https://open.spotify.com/album/0Sv42D7iICN9Of2p1KrR5V) | 3:15 |
-| 14 | [Belligerent](https://open.spotify.com/track/5vdA8uSO5sUM9QhixewiW8) | [Urban Pipe Dream](https://open.spotify.com/artist/56mWuCNZ3xepGsDE3V3hsw), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [Belligerent](https://open.spotify.com/album/2DlNX0bHgZH7lLWPOxnyae) | 3:19 |
+| 14 | [Belligerent](https://open.spotify.com/track/5vdA8uSO5sUM9QhixewiW8) | [Urban Pipe Dream](https://open.spotify.com/artist/56mWuCNZ3xepGsDE3V3hsw), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [Belligerent](https://open.spotify.com/album/2DlNX0bHgZH7lLWPOxnyae) | 3:20 |
 | 15 | [Work My Body](https://open.spotify.com/track/58vZL2JcSpwtRsRlVJsOTj) | [Younique](https://open.spotify.com/artist/1XfTwnIs2yeSkS9kQGPGRq), [Mareya](https://open.spotify.com/artist/4xcQsJukMdZtOAVKjmJWJT) | [Work My Body](https://open.spotify.com/album/7CSDuN1H9b467V8dnlQ8zV) | 3:04 |
 | 16 | [FENDI](https://open.spotify.com/track/5YwP4dTfeUIX30WuDQV5sp) | [Armando Spence](https://open.spotify.com/artist/0byt5YysPwpfgGIL68h03n) | [BACK TO THE BRICKHOUSE](https://open.spotify.com/album/003dAWcyONfj39Z7R5l6ft) | 2:23 |
 | 17 | [Both Sides](https://open.spotify.com/track/5RmP4bEe3wQwYgI2da3dEJ) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [Both Sides](https://open.spotify.com/album/3CDZVfNb3cdlDRmsZW1KLZ) | 2:22 |

@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-967 songs - 1 day 17 hr 40 min
+968 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 | 2024-10-01 | 2025-11-11 |
 | [Where the Cowslips Grow](https://open.spotify.com/track/3uky1ugP4V2I9WsMDpXPLM) | [Gideon Strauss](https://open.spotify.com/artist/6yfie3GIPSrQb2ua7gbpap) | [Where the Cowslips Grow](https://open.spotify.com/album/2AS53MWTasvuAYKegeTlsE) | 3:04 | 2026-03-30 |  |
 | [Where The River Ends](https://open.spotify.com/track/3CqKDahwi9OVbSqErqolPY) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [Where The River Ends](https://open.spotify.com/album/6B4j3Ib3hKVSFnRvHhsmna) | 1:39 | 2022-07-01 | 2022-10-07 |
+| [Wherever it Falls](https://open.spotify.com/track/387nq06cZwc075twIZCfMI) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [Wherever it Falls](https://open.spotify.com/album/2XSQBVV09Hru5xdzNWlTdn) | 3:02 | 2026-11-06 |  |
 | [Wherever You Go](https://open.spotify.com/track/36rZRxeN4A0o6tHFKKxEdV) | [In Stars Above](https://open.spotify.com/artist/1FxVcJX21nISmUFSvaE9fh) | [Wherever You Go](https://open.spotify.com/album/0flfQByvCFombTni9ZBExX) | 3:10 | 2026-10-09 |  |
 | [Whispers of Frost](https://open.spotify.com/track/3ge3prXMCXsHRa2SfvwA43) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers of Frost](https://open.spotify.com/album/4hhQxJlnuXEYistyyZpMR6) | 3:12 | 2025-02-19 | 2025-11-11 |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2022-11-18 |

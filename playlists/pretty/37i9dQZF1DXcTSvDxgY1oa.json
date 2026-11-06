@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2167,
+  "num_followers": 2170,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "La Controversia De Valladolid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Po1hMVKf1TDLj5JsUwGyl"
+      },
+      "artists": [
+        {
+          "name": "Cedric Vermue",
+          "url": "https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh"
+        }
+      ],
+      "duration_ms": 215212,
+      "name": "A Trav\u00e9s de Sus Ojos",
+      "url": "https://open.spotify.com/track/62eSASnGb08kE9KIpB92GT"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Rewrite The Stars",
         "url": "https://open.spotify.com/album/5EE8EfeK9dlScjMZWKDu3k"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 247987,
       "name": "Rewrite The Stars",
       "url": "https://open.spotify.com/track/1T5EcQJDCp7pEa9ZlnQQK9"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "La Controversia De Valladolid (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Po1hMVKf1TDLj5JsUwGyl"
-      },
-      "artists": [
-        {
-          "name": "Cedric Vermue",
-          "url": "https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh"
-        }
-      ],
-      "duration_ms": 215212,
-      "name": "A Trav\u00e9s de Sus Ojos",
-      "url": "https://open.spotify.com/track/62eSASnGb08kE9KIpB92GT"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Overdosis",
-        "url": "https://open.spotify.com/album/4sD9uN4l8XvN8NKP56KQn7"
-      },
-      "artists": [
-        {
-          "name": "Marieke Schenk",
-          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "Overdosis",
-      "url": "https://open.spotify.com/track/2mJYFELDxg8soMNjagghDC"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "okaydokay_",
         "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 160517,
       "name": "okaydokay_",
       "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/4sD9uN4l8XvN8NKP56KQn7"
+      },
+      "artists": [
+        {
+          "name": "Marieke Schenk",
+          "url": "https://open.spotify.com/artist/0SYFuJ8cP1yG4Xp88SjEcb"
+        }
+      ],
+      "duration_ms": 160440,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/2mJYFELDxg8soMNjagghDC"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Sanguine",
-        "url": "https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H"
-      },
-      "artists": [
-        {
-          "name": "Doris Vosters",
-          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
-        }
-      ],
-      "duration_ms": 226117,
-      "name": "Sanguine",
-      "url": "https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Holes",
         "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 231000,
       "name": "Holes",
       "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/1OSX4V98LKS4thRVoBGQ8H"
+      },
+      "artists": [
+        {
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+        }
+      ],
+      "duration_ms": 226117,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/2jTWvh2TAhkT3eJqH7IuNT"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "swim (play me the deep cut)",
-        "url": "https://open.spotify.com/album/5G871464XFiXsCzwJczt4X"
-      },
-      "artists": [
-        {
-          "name": "Faradays",
-          "url": "https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD"
-        }
-      ],
-      "duration_ms": 184624,
-      "name": "swim (play me the deep cut)",
-      "url": "https://open.spotify.com/track/4JDW9ypwDDopsSk8ZXZz8D"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Crane",
         "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 164333,
       "name": "Crane",
       "url": "https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "swim (play me the deep cut)",
+        "url": "https://open.spotify.com/album/5G871464XFiXsCzwJczt4X"
+      },
+      "artists": [
+        {
+          "name": "Faradays",
+          "url": "https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "swim (play me the deep cut)",
+      "url": "https://open.spotify.com/track/4JDW9ypwDDopsSk8ZXZz8D"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Tranen In De Ambulance",
-        "url": "https://open.spotify.com/album/0qAvNefGJlplYk5PjaYtbY"
-      },
-      "artists": [
-        {
-          "name": "GIB",
-          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
-        }
-      ],
-      "duration_ms": 139804,
-      "name": "Tranen In De Ambulance",
-      "url": "https://open.spotify.com/track/2k5ucOkYFE0hlwFOGjWJIy"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "ireallylikeboys",
         "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 149163,
       "name": "ireallylikeboys",
       "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Tranen In De Ambulance",
+        "url": "https://open.spotify.com/album/0qAvNefGJlplYk5PjaYtbY"
+      },
+      "artists": [
+        {
+          "name": "GIB",
+          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
+        }
+      ],
+      "duration_ms": 139804,
+      "name": "Tranen In De Ambulance",
+      "url": "https://open.spotify.com/track/2k5ucOkYFE0hlwFOGjWJIy"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Dust Breeding",
-        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
-      },
-      "artists": [
-        {
-          "name": "aquelarre*",
-          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Dust Breeding",
-      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Wistful Way",
         "url": "https://open.spotify.com/album/3490a2LWidSgSyEhqdV1Af"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 223000,
       "name": "The Crow Won't Cry",
       "url": "https://open.spotify.com/track/5V2BQayOMDJ5vrNHVsxdA7"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Dust Breeding",
+        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
+      },
+      "artists": [
+        {
+          "name": "aquelarre*",
+          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Dust Breeding",
+      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Heart on the line",
-        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
-      },
-      "artists": [
-        {
-          "name": "LAHAYE",
-          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
-        }
-      ],
-      "duration_ms": 215485,
-      "name": "Heart on the line",
-      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 199013,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Heart on the line",
+        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+      },
+      "artists": [
+        {
+          "name": "LAHAYE",
+          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+        }
+      ],
+      "duration_ms": 215485,
+      "name": "Heart on the line",
+      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Snakes and Heartbreak(er)s",
-        "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
-      },
-      "artists": [
-        {
-          "name": "Weird Youth",
-          "url": "https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC"
-        },
-        {
-          "name": "suze who?",
-          "url": "https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG"
-        }
-      ],
-      "duration_ms": 298693,
-      "name": "Snakes and Heartbreak(er)s",
-      "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Magnum Opus",
         "url": "https://open.spotify.com/album/2wIGvz7F1jQqMeZL5dE8tu"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 149070,
       "name": "SKIN",
       "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Snakes and Heartbreak(er)s",
+        "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
+      },
+      "artists": [
+        {
+          "name": "Weird Youth",
+          "url": "https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC"
+        },
+        {
+          "name": "suze who?",
+          "url": "https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG"
+        }
+      ],
+      "duration_ms": 298693,
+      "name": "Snakes and Heartbreak(er)s",
+      "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
     },
     {
       "added_at": "2026-10-20 11:45:56",

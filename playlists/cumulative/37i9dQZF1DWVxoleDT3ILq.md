@@ -2,9 +2,9 @@
 
 ### [alt/chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Niños Del Cerro en portada.
+> Anttonias en portada.
 
-622 songs - 1 day 13 hr 23 min
+623 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Herida](https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Herida \(Deluxe\)](https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K) | 3:07 | 2023-10-27 | 2026-07-25 |
 | [Hola Qué Tal](https://open.spotify.com/track/58e7WaBoTfncrNn9AAoXTi) | [Sabina Odone](https://open.spotify.com/artist/6RCzTQcz74WFBYsX0xz9Pj), [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI) | [Hola Qué Tal](https://open.spotify.com/album/4Vm948eV7Cl64hm222UI0x) | 2:48 | 2025-09-05 | 2026-07-25 |
 | [Hollywood](https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Hollywood](https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl) | 3:20 | 2022-10-07 | 2023-01-28 |
+| [Honestidad](https://open.spotify.com/track/1Kujat540VXHBRX2vT7vlB) | [Anttonias](https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW) | [¿Qué tan romántica será la muerte?](https://open.spotify.com/album/4NDUtUv69zoHBJ4iusBzzD) | 3:37 | 2026-11-06 |  |
 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 | 2023-03-10 | 2023-05-27 |
 | [Huella](https://open.spotify.com/track/4i99HAH4jsoatFXaafktzi) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [Longitudinales](https://open.spotify.com/album/5gVtWqYnYjqHJ1jfjtpzPR) | 2:52 | 2026-09-11 |  |
 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 | 2023-01-28 |

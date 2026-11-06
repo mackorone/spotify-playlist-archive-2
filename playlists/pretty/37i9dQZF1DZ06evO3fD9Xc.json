@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103833,
+  "num_followers": 103836,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAABTey9f2S50gSkWA2OVLFhJ",
+  "snapshot_id": "aukkAAAAAABOnIsAmyb+R+JG8jchS+sW",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Bonito Es Querer",
-        "url": "https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 197238,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Lo S\u00e9 Todo",
         "url": "https://open.spotify.com/album/3ELow8rGPkFS4AyJj7sffv"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 213200,
       "name": "Ya Lo S\u00e9 Todo",
       "url": "https://open.spotify.com/track/1ErEKhh7Tro9hteuTewTLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Bonito Es Querer",
+        "url": "https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 197238,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merecemos Perdonarnos (En Vivo)",
-        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Merecemos Perdonarnos - En Vivo",
-      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Merecemos Perdonarnos (En Vivo)",
+        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Merecemos Perdonarnos - En Vivo",
+      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TERAPIA",
-        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 161314,
-      "name": "Empezar de Cero",
-      "url": "https://open.spotify.com/track/5XsZdVYMjs2DM6ODdbGnHV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 248204,
       "name": "Me dediqu\u00e9 a perderte - En Vivo",
       "url": "https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TERAPIA",
+        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 161314,
+      "name": "Empezar de Cero",
+      "url": "https://open.spotify.com/track/5XsZdVYMjs2DM6ODdbGnHV"
     },
     {
       "added_at": null,

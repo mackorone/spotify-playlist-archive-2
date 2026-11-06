@@ -1,12 +1,12 @@
 {
-  "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 123262,
+  "description": "The pulse of Latin House \ud83c\udf00 featuring Andruss & Juos",
+  "num_followers": 123281,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAiz7i6Va1p49qgPBuNPskT0ZC55",
+  "snapshot_id": "AAAAAN6Y6EDxF6M4MXRA/6Uoa5PAI1u8",
   "tracks": [
     {
       "added_at": "2026-10-30 04:00:47",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM"
     },
     {
-      "added_at": "2026-10-30 04:00:47",
+      "added_at": "2026-11-06 05:01:33",
       "album": {
-        "name": "As\u00ed q Atr\u00e9vete",
-        "url": "https://open.spotify.com/album/2qAMaRNj5sxfkTdw4OGg6I"
+        "name": "Pa' La Calle (Dale)",
+        "url": "https://open.spotify.com/album/6zJImVNmQcPH9Zvim8AbKq"
       },
       "artists": [
         {
-          "name": "Miluhska",
-          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
         }
       ],
-      "duration_ms": 195714,
-      "name": "As\u00ed q Atr\u00e9vete",
-      "url": "https://open.spotify.com/track/5YLIGr1NrZQl9xW5Dz3UHg"
+      "duration_ms": 160644,
+      "name": "Pa' La Calle (Dale)",
+      "url": "https://open.spotify.com/track/2yXPHUvKAa1F4kg9QYWXWO"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -207,22 +211,18 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Sorry Papi",
-        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+        "name": "As\u00ed q Atr\u00e9vete",
+        "url": "https://open.spotify.com/album/2qAMaRNj5sxfkTdw4OGg6I"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
         }
       ],
-      "duration_ms": 170671,
-      "name": "Sorry Papi",
-      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+      "duration_ms": 195714,
+      "name": "As\u00ed q Atr\u00e9vete",
+      "url": "https://open.spotify.com/track/5YLIGr1NrZQl9xW5Dz3UHg"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -463,22 +463,22 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Loco Loco",
-        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+        "name": "Sorry Papi",
+        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Loco Loco",
-      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+      "duration_ms": 170671,
+      "name": "Sorry Papi",
+      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -643,30 +643,22 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "CORA\u00c7AO (20th Anniversary Mix)",
-        "url": "https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p"
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
       },
       "artists": [
         {
-          "name": "Jerry Ropero",
-          "url": "https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Mijangos",
-          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
         }
       ],
-      "duration_ms": 175714,
-      "name": "CORA\u00c7AO - 20th Anniversary Mix",
-      "url": "https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g"
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -835,26 +827,30 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+        "name": "CORA\u00c7AO (20th Anniversary Mix)",
+        "url": "https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p"
       },
       "artists": [
+        {
+          "name": "Jerry Ropero",
+          "url": "https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG"
+        },
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          "name": "Mijangos",
+          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
         },
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
         }
       ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+      "duration_ms": 175714,
+      "name": "CORA\u00c7AO - 20th Anniversary Mix",
+      "url": "https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -891,6 +887,30 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
       },
@@ -907,22 +927,6 @@
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1035,6 +1039,22 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Baiana",
         "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
       },
@@ -1055,22 +1075,6 @@
       "duration_ms": 116250,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "Ti Vedo",
-        "url": "https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE"
-      },
-      "artists": [
-        {
-          "name": "LUCA SKETTI",
-          "url": "https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Ti Vedo",
-      "url": "https://open.spotify.com/track/3evz2s34Jww0c79lTV43on"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1115,6 +1119,38 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "Ti Vedo",
+        "url": "https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE"
+      },
+      "artists": [
+        {
+          "name": "LUCA SKETTI",
+          "url": "https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Ti Vedo",
+      "url": "https://open.spotify.com/track/3evz2s34Jww0c79lTV43on"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
+        "name": "No Me Mires M\u00e1s",
+        "url": "https://open.spotify.com/album/1Uuo8SstbdehX1umlem7ZJ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Surace",
+          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "No Me Mires M\u00e1s",
+      "url": "https://open.spotify.com/track/4dURWnDKDK9UqX19qnv9v7"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Dame Un Grrr (Provi Remix)",
         "url": "https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq"
       },
@@ -1135,22 +1171,6 @@
       "duration_ms": 120000,
       "name": "Dame Un Grrr - Provi Remix Radio Edit",
       "url": "https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "No Me Mires M\u00e1s",
-        "url": "https://open.spotify.com/album/1Uuo8SstbdehX1umlem7ZJ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Surace",
-          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "No Me Mires M\u00e1s",
-      "url": "https://open.spotify.com/track/4dURWnDKDK9UqX19qnv9v7"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1507,22 +1527,6 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -1535,6 +1539,22 @@
       "duration_ms": 187200,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1599,6 +1619,26 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1635,26 +1675,6 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
         "name": "AY PAPI",
         "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
       },
@@ -1667,6 +1687,22 @@
       "duration_ms": 171124,
       "name": "AY PAPI",
       "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
+        "name": "Mi Gentee EP",
+        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "duration_ms": 208782,
+      "name": "Mi Gentee",
+      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1695,18 +1731,18 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Mi Gentee EP",
-        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
       "artists": [
         {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         }
       ],
-      "duration_ms": 208782,
-      "name": "Mi Gentee",
-      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1743,22 +1779,6 @@
       "duration_ms": 194798,
       "name": "Rave En La Favela",
       "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1807,30 +1827,6 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
-      },
-      "artists": [
-        {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
-        },
-        {
-          "name": "GotSome",
-          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 116361,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1855,6 +1851,30 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 116361,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Delante",
         "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
       },
@@ -1867,30 +1887,6 @@
       "duration_ms": 145908,
       "name": "Delante",
       "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "Chimba",
-        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
-      },
-      "artists": [
-        {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
-        },
-        {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "BIG KAPOH",
-          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "Chimba",
-      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
     },
     {
       "added_at": "2026-10-30 04:00:47",
@@ -1935,6 +1931,30 @@
     {
       "added_at": "2026-10-30 04:00:47",
       "album": {
+        "name": "Chimba",
+        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
+      },
+      "artists": [
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "BIG KAPOH",
+          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "Chimba",
+      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
+    },
+    {
+      "added_at": "2026-10-30 04:00:47",
+      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1975,26 +1995,6 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-10-30 04:00:47",
-      "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 159045,
-      "name": "Claro",
-      "url": "https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4"
     }
   ],
   "unique_name": "Latin House",

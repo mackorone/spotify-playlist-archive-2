@@ -67693,6 +67693,24 @@
     },
     {
       "album": {
+        "name": "MOSQUITO",
+        "url": "https://open.spotify.com/album/44WGd1h2MnCkO1Sa3mzKwB"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "MOSQUITO",
+      "url": "https://open.spotify.com/track/1so0w64iWBDvUDqjinTXAl"
+    },
+    {
+      "album": {
         "name": "Cuando \u00c9ramos J\u00f3venes",
         "url": "https://open.spotify.com/album/7tkNFeKcjqASwvTx05BNkw"
       },

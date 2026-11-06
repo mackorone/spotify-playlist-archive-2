@@ -3720,6 +3720,24 @@
     {
       "album": {
         "name": "Passion Like Fire",
+        "url": "https://open.spotify.com/album/6wuYUnBI60QqCK8ksFADYv"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213529,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1DUiP70FoMoZeFVlh0PvCA"
+    },
+    {
+      "album": {
+        "name": "Passion Like Fire",
         "url": "https://open.spotify.com/album/3XgBuJztzOQIdaT41cnC0Y"
       },
       "artists": [
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213653,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1jgBn5AgZuUx1RjUaUSmr4"

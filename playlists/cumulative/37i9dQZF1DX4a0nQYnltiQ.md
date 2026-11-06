@@ -2,9 +2,9 @@
 
 ### [Essence](https://open.spotify.com/playlist/37i9dQZF1DX4a0nQYnltiQ)
 
-> The \#1 Destination for the best melodies in the world\. Cover: Grace Carter
+> The \#1 Destination for the best melodies in the world\. Cover: Chxrry
 
-162 songs - 8 hr 9 min
+164 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 | 2025-07-10 |  |
 | [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 | 2025-07-24 |  |
 | [Beneath Your Surface](https://open.spotify.com/track/5g4zXjdQeeGYqi101xw6hD) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Beneath Your Surface / If You Exist](https://open.spotify.com/album/2lfxmUGNqeFrsJZXQ2XTZH) | 2:51 | 2025-07-10 | 2025-10-10 |
+| [Big Shot](https://open.spotify.com/track/61opBcsBWRg15cIhxEKpFJ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [U, Me & My Ego \(Deluxe\)](https://open.spotify.com/album/6qUk95DmctTsm4StDZSFEN) | 2:49 | 2026-11-06 |  |
 | [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 | 2026-04-30 |  |
 | [Blue Moon \- Girls Trip](https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:12 | 2026-04-30 |  |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-07-10 | 2026-04-17 |
@@ -42,7 +43,7 @@
 | [cocoa body](https://open.spotify.com/track/2DSsF45LB3rzvJehF5qpcF) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [cocoa body](https://open.spotify.com/album/1aAKL6fzyKBpTF2lCX7HeH) | 2:59 | 2025-07-10 | 2026-05-01 |
 | [Come To Me](https://open.spotify.com/track/2o9hKWoBseUiXo1TeQBWzl) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/07jWdEQbgboSJ11DZugXlN) | 3:21 | 2026-06-11 | 2026-06-17 |
 | [Come To Me](https://open.spotify.com/track/5gHKTj0OrjyQz8KTwVTuMx) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/4GcNMrejFGtQtlv5P23raK) | 3:24 | 2025-11-21 |  |
-| [Confidence](https://open.spotify.com/track/7vQmu5FTPgnLeJDi14oJ9U) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [FEELUH](https://open.spotify.com/album/0aR1lBG77LniGEnLJWfR5S) | 2:00 | 2025-10-23 |  |
+| [Confidence](https://open.spotify.com/track/7vQmu5FTPgnLeJDi14oJ9U) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [FEELUH](https://open.spotify.com/album/0aR1lBG77LniGEnLJWfR5S) | 2:00 | 2025-10-23 | 2026-11-06 |
 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 | 2026-04-30 |  |
 | [Crush](https://open.spotify.com/track/75M3g2qnWgOiwaAdCEsDNz) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [Crush](https://open.spotify.com/album/5azJzrxPgl0z3tUZPDoJio) | 2:40 | 2025-07-10 | 2025-07-25 |
 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-11 |  |
@@ -113,6 +114,7 @@
 | [On Ur Time](https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:12 | 2026-01-16 |  |
 | [Only Yours For The Moment](https://open.spotify.com/track/0ehykySALxYm3XYmN43ysj) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Only Yours For The Moment](https://open.spotify.com/album/2fT2MaN9lZJrtJ6KLfOtqL) | 2:35 | 2026-10-15 |  |
 | [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 | 2025-09-25 |  |
+| [Playtime](https://open.spotify.com/track/2roMAjSYH4LosdF1VtvCjy) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [CATALYST](https://open.spotify.com/album/4PKeqaq4gG30Q4I2Rd9B8m) | 3:06 | 2026-11-06 |  |
 | [Rain](https://open.spotify.com/track/3O6B6nNBkq2czTWWL3Ff56) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Rain](https://open.spotify.com/album/3OcvJgd7tjYrjHRYeTDFrT) | 2:54 | 2025-07-10 | 2025-10-10 |
 | [Raincheck](https://open.spotify.com/track/4NiskASX90JIQ7reyPDQIP) | [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Raincheck](https://open.spotify.com/album/0Im69WG2u5xLoIDMHQPx7Z) | 2:37 | 2025-07-10 | 2025-10-10 |
 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-07-10 | 2026-04-17 |
@@ -124,7 +126,7 @@
 | [Rivers End](https://open.spotify.com/track/4iU6dFUo07jr6jBuwaUUk8) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Rivers End](https://open.spotify.com/album/4GejwOc0Vi6eRZJzw05i6X) | 3:29 | 2026-05-21 |  |
 | [RUDUMB?](https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [RUDUMB?](https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4) | 1:57 | 2025-07-10 | 2025-10-10 |
 | [Selfish](https://open.spotify.com/track/479iOebjPbBBXPXZvGKcYc) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Selfish](https://open.spotify.com/album/5epAkQBKiF1AbHuK3OjI2R) | 2:50 | 2025-07-10 | 2026-04-17 |
-| [Shawa Shawa \(Ashawo\)](https://open.spotify.com/track/0L83TBAR0ad6GJH7q2GtJP) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/album/02YMGf7oSXURkxXAblr1sw) | 2:08 | 2025-11-21 |  |
+| [Shawa Shawa \(Ashawo\)](https://open.spotify.com/track/0L83TBAR0ad6GJH7q2GtJP) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/album/02YMGf7oSXURkxXAblr1sw) | 2:08 | 2025-11-21 | 2026-11-06 |
 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-16 |  |
 | [should i give it up?](https://open.spotify.com/track/1p93g3SrDbIBvA4yK5RaQU) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [should i give it up?](https://open.spotify.com/album/1uJTd7634MZTlEXlWjuE8F) | 2:25 | 2026-03-20 |  |
 | [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 | 2026-04-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 158114,
+  "num_followers": 158116,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAABU0B5jsjZD0Yep8xduP1sG",
+  "snapshot_id": "aukkAAAAAAAy4ddjceiXkEXJ+cJfYt5U",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tyber",
-        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
       "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 248372,
-      "name": "Little Little Voice",
-      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
+      "duration_ms": 199576,
+      "name": "Labrinth - Love Is Complicated (The Angels Sing)",
+      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
     },
     {
       "added_at": null,
@@ -299,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+        "name": "Tyber",
+        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
       },
       "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 199576,
-      "name": "Labrinth - Love Is Complicated (The Angels Sing)",
-      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
+      "duration_ms": 248372,
+      "name": "Little Little Voice",
+      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Sleek Noir",
-      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
+      "duration_ms": 310626,
+      "name": "Studio",
+      "url": "https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 310626,
-      "name": "Studio",
-      "url": "https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q"
+      "duration_ms": 181986,
+      "name": "Sleek Noir",
+      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BRIDGE",
-        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 199516,
-      "name": "ALL OR NOTHING",
-      "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 284271,
       "name": "Love Goes (feat. Labrinth)",
       "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BRIDGE",
+        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 199516,
+      "name": "ALL OR NOTHING",
+      "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "To Be Human (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Kitchen (Score from the Netflix Film)",
         "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 102603,
       "name": "Accepted By The Crew",
       "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "To Be Human (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 53353,
+      "name": "What Would You Want Me To Be",
+      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electronic Earth (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 179800,
       "name": "Let the Sun Shine",
       "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 69153,
-      "name": "Benji Puts His Mum To Rest",
-      "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
     },
     {
       "added_at": null,

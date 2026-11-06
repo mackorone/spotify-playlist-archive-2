@@ -14718,7 +14718,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 117073,
       "name": "Classic",
       "url": "https://open.spotify.com/track/5pLwQA52xYGDpK0EEEFRyF"
@@ -28309,6 +28309,28 @@
     },
     {
       "album": {
+        "name": "Fresco",
+        "url": "https://open.spotify.com/album/5MXPNq5YgkWiU7q1F5wF3w"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/1qOhp9sUeynPwEfyY6kX6c"
+        },
+        {
+          "name": "Fidelitoz",
+          "url": "https://open.spotify.com/artist/5MpQQI9Jn2J23tsOAz5Vfr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111995,
+      "name": "Fresco",
+      "url": "https://open.spotify.com/track/3sPLmszVjIqFWTzetA2lyA"
+    },
+    {
+      "album": {
         "name": "Fresh Bloom",
         "url": "https://open.spotify.com/album/2tc7pWoDXmlpiWrGuaeyPA"
       },
@@ -30682,7 +30704,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 126005,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe"
@@ -58282,6 +58304,28 @@
       "duration_ms": 124735,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/4VjTchvffUm7NE0CaJ6aau"
+    },
+    {
+      "album": {
+        "name": "orchards",
+        "url": "https://open.spotify.com/album/6T2x4AMFyzSLk7kcFIP57U"
+      },
+      "artists": [
+        {
+          "name": "terrarium.",
+          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
+        },
+        {
+          "name": "Hopmax",
+          "url": "https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113846,
+      "name": "orchards",
+      "url": "https://open.spotify.com/track/2ij4G4Ix0UuyGn0hYi5jbl"
     },
     {
       "album": {

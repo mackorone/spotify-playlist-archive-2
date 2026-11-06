@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 569411,
+  "num_followers": 569399,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Dos Amantes",
-        "url": "https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 188513,
-      "name": "Dos Amantes",
-      "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 165506,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Dos Amantes",
+        "url": "https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 188513,
+      "name": "Dos Amantes",
+      "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Por un Pendejo no se llora",
-        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Por un Pendejo no se llora",
-      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Otras Alas",
         "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Por un Pendejo no se llora",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Punto de Partida",
         "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
       },
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "CAMBIAR\u00c9",
-        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
+        "name": "Me Despido",
+        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
       },
       "artists": [
         {
           "name": "Luis Fonsi",
           "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 181237,
-      "name": "CAMBIAR\u00c9",
-      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
+      "duration_ms": 169701,
+      "name": "Me Despido",
+      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1279,6 +1275,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "23",
+      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
@@ -1299,34 +1311,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "23",
-      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Me Despido",
-        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
+        "name": "CAMBIAR\u00c9",
+        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
       },
       "artists": [
         {
           "name": "Luis Fonsi",
           "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 169701,
-      "name": "Me Despido",
-      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
+      "duration_ms": 181237,
+      "name": "CAMBIAR\u00c9",
+      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Arena En Los Bolsillos",
-        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
-      },
-      "artists": [
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        }
-      ],
-      "duration_ms": 246007,
-      "name": "Pajaros de Barro",
-      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "La Cruz Del Mapa",
         "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
       },
@@ -1703,6 +1687,38 @@
       "duration_ms": 270187,
       "name": "Qu\u00e9 Bonito Es Querer",
       "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Estrella De Mar",
+        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Sin ti no soy nada",
+      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Arena En Los Bolsillos",
+        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "duration_ms": 246007,
+      "name": "Pajaros de Barro",
+      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1723,22 +1739,6 @@
       "duration_ms": 174932,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Estrella De Mar",
-        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Sin ti no soy nada",
-      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Desde Mi Azotea",
+        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+      },
+      "artists": [
+        {
+          "name": "Navajita Platea",
+          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Noches de bohemia - Radio Edit",
+      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "mariposas",
         "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Desde Mi Azotea",
-        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
         {
-          "name": "Navajita Platea",
-          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 247906,
-      "name": "Noches de bohemia - Radio Edit",
-      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1879,22 +1895,6 @@
       "duration_ms": 180757,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Canciones para el tiempo y la distancia",
-        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Turnedo",
-      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Canciones para el tiempo y la distancia",
+        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Turnedo",
+      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Desde Que No Nos Vemos",
         "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 144840,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2515,6 +2515,26 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Camiseta de Rokanrol",
+        "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        },
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 229832,
+      "name": "Camiseta de Rokanrol",
+      "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Algo M\u00e1s",
         "url": "https://open.spotify.com/album/7klB5WI25Dw2XqjHrN2JjF"
       },
@@ -2547,26 +2567,6 @@
       "duration_ms": 195279,
       "name": "NEXO 01. Me acuerdo de ti",
       "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Camiseta de Rokanrol",
-        "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        },
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 229832,
-      "name": "Camiseta de Rokanrol",
-      "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
     },
     {
       "added_at": "2026-09-17 16:51:37",

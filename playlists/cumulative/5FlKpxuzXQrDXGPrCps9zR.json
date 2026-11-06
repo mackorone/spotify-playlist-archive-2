@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 219365,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 206164,
       "name": "Cleveland!",
       "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 183129,
       "name": "Fantasize",
       "url": "https://open.spotify.com/track/1BTOxhp8UU418uOLjUdqPm"
@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "album": {
         "name": "Don't Click Play",
         "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
       },
@@ -1947,6 +1965,44 @@
     },
     {
       "album": {
+        "name": "Camp Rock 2: The Final Jam",
+        "url": "https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Jordan Francis",
+          "url": "https://open.spotify.com/artist/3HYpSvGctSamkShNEVX9gS"
+        },
+        {
+          "name": "Meaghan Martin",
+          "url": "https://open.spotify.com/artist/4D4d4SGHSnXy5TxqhfDl3H"
+        },
+        {
+          "name": "Alyson Stoner",
+          "url": "https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL"
+        },
+        {
+          "name": "Matthew \"Mdot\" Finley",
+          "url": "https://open.spotify.com/artist/6VlHZVWsWDe7xtzWk5HxCk"
+        },
+        {
+          "name": "Roshon Fegan",
+          "url": "https://open.spotify.com/artist/07bq0KjNoXHDavbLV3NQus"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "It's On - From \"Camp Rock 2: The Final Jam\"",
+      "url": "https://open.spotify.com/track/5eEmVNuqo4oKDh9MDeCAmt"
+    },
+    {
+      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
@@ -1980,7 +2036,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -2521,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179786,
+      "name": "Nancy Mulligan",
+      "url": "https://open.spotify.com/track/35QZaWQRkmnAVqBF1TLCxQ"
+    },
+    {
+      "album": {
         "name": "Found Heaven",
         "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
       },
@@ -2742,7 +2816,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -2796,7 +2870,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 190690,
       "name": "Pink Clouding",
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
@@ -2977,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "Remember My Name (From \"Locker Diaries: Camp Rock\")",
+        "url": "https://open.spotify.com/album/5suogyt7z4O3wUzwVAvPJr"
+      },
+      "artists": [
+        {
+          "name": "Camp Rock \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "Remember My Name - From \"Locker Diaries: Camp Rock\"",
+      "url": "https://open.spotify.com/track/1omYO81Zxszm85cgUKKn7Q"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -3086,7 +3178,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 272355,
       "name": "Service Receipt",
       "url": "https://open.spotify.com/track/16ZFHH1D14LVOwXnjdNK06"
@@ -3414,7 +3506,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184598,
       "name": "Special Delivery (feat. MAX)",
       "url": "https://open.spotify.com/track/1nYERUIQ42uJjsvCbDPKlU"
@@ -4014,7 +4106,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 123636,
       "name": "Tuned In Freestyle",
       "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
@@ -4142,6 +4234,24 @@
       "duration_ms": 180866,
       "name": "Washed Up",
       "url": "https://open.spotify.com/track/793tMto9guBs0X6c44R5mH"
+    },
+    {
+      "album": {
+        "name": "Camp Rock",
+        "url": "https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ"
+      },
+      "artists": [
+        {
+          "name": "Cast Of Camp Rock",
+          "url": "https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "We Rock",
+      "url": "https://open.spotify.com/track/7r6ubHsaieaig4kORmmsDy"
     },
     {
       "album": {

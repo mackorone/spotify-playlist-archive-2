@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "IBZ szn. Cover: Mita Gami",
+  "description": "IBZ szn. Cover: Ivory (IT) & Auggi\u00eb",
   "name": "Umami",
   "tracks": [
     {
@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "Afilso Good",
+        "url": "https://open.spotify.com/album/5SFgwTJRWz6vLBHMoVhdLt"
+      },
+      "artists": [
+        {
+          "name": "Clim",
+          "url": "https://open.spotify.com/artist/4dNhubNR6OmFOHF7lt3ww0"
+        },
+        {
+          "name": "Tineway",
+          "url": "https://open.spotify.com/artist/06pAeCc5gtHxKRnRNPpso4"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Afilso Good - Radio Edit",
+      "url": "https://open.spotify.com/track/0svjbomfzyKkvenoAujmD4"
+    },
+    {
+      "album": {
         "name": "AFRAID",
         "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
       },
@@ -948,6 +970,36 @@
       "duration_ms": 180000,
       "name": "After The Love",
       "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
+    },
+    {
+      "album": {
+        "name": "Love Language (Remixed, Vol. 1)",
+        "url": "https://open.spotify.com/album/297DAdyGgx5gAcGyAE0d9A"
+      },
+      "artists": [
+        {
+          "name": "HOVR",
+          "url": "https://open.spotify.com/artist/3OKJ15Et50JhoX1zbf0Cdz"
+        },
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "F\u00e1tima",
+          "url": "https://open.spotify.com/artist/7htBsYMQL8HOXgKR9iYCkh"
+        },
+        {
+          "name": "Late London",
+          "url": "https://open.spotify.com/artist/43iXd5vVYg0h1SLO3rA6qz"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282399,
+      "name": "Afterparty - Oliver Koletzki Remix",
+      "url": "https://open.spotify.com/track/3eMdyDIzNN8pUaShHjhknh"
     },
     {
       "album": {
@@ -10419,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "Glitch In My Groove",
+        "url": "https://open.spotify.com/album/13M95YYXelQcblZ5jaNJEh"
+      },
+      "artists": [
+        {
+          "name": "ADIOS 05",
+          "url": "https://open.spotify.com/artist/7alrq4gJrqjpQqUCHljANv"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Glitch In My Groove",
+      "url": "https://open.spotify.com/track/55a9qK3dWE1WEzm688Mzyq"
+    },
+    {
+      "album": {
         "name": "Globo (feat. Blessd & Kofla)",
         "url": "https://open.spotify.com/album/1kUmugvmPWIY6ZEODVrMSx"
       },
@@ -12304,6 +12374,10 @@
         {
           "name": "Maga",
           "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Scenarios",
+          "url": "https://open.spotify.com/artist/67Y8oTELtWBk3MncBMCG1H"
         }
       ],
       "date_added": "2026-08-27",
@@ -18968,7 +19042,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207804,
       "name": "My Only Crime - Radio Edit",
       "url": "https://open.spotify.com/track/0ahFA0CiTry3G8WhU85z58"
@@ -20478,7 +20552,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 212093,
       "name": "Oldskool Flavor",
       "url": "https://open.spotify.com/track/1RaDR9M8gan0KxZOSl2i8Y"
@@ -22244,6 +22318,28 @@
       "duration_ms": 227535,
       "name": "Profill",
       "url": "https://open.spotify.com/track/7G7iejjUvVun2tPL5KdhBA"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1Mcyg6pxYjil9wBNdkjbht"
+      },
+      "artists": [
+        {
+          "name": "Auggi\u00eb",
+          "url": "https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe"
+        },
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344637,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5pa3Rblf2AbLWr02CmvQ9a"
     },
     {
       "album": {
@@ -24960,7 +25056,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 229457,
       "name": "Siren Tiger",
       "url": "https://open.spotify.com/track/0QetcudUtlEE9rLA769ch5"
@@ -29170,7 +29266,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 261517,
       "name": "Uncasually",
       "url": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew"

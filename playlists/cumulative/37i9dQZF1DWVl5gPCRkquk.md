@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-426 songs - 1 day 2 hr 26 min
+427 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 | 2026-09-18 |  |
 | [Olivia](https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud) | 3:53 | 2022-04-15 | 2024-04-19 |
 | [Olivia](https://open.spotify.com/track/75ATxsSO6V87RSR4UXLj2G) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/51c0ZqXWp5SfKOeyLK3Vg5) | 3:53 | 2021-10-29 | 2022-07-29 |
-| [On Wrong Side \(with Bon Iver\)](https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:43 | 2023-10-08 |  |
+| [On Wrong Side \(with Bon Iver\)](https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:43 | 2023-10-08 | 2026-11-06 |
 | [One More Song](https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [If You Wanna Laugh, You Gotta Cry Sometimes](https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d) | 3:31 | 2026-03-20 | 2026-07-25 |
 | [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 | 2024-05-24 | 2026-03-07 |
 | [Opaline](https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:12 | 2021-10-29 |  |
@@ -338,6 +338,7 @@
 | [Ships In The Night](https://open.spotify.com/track/2tzZYEioVAEBhvyHFqsfK5) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [At First There Was Nothing](https://open.spotify.com/album/02NuBFardXF937BPFcEeun) | 4:19 | 2023-01-05 | 2023-07-29 |
 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2022-04-15 | 2024-04-19 |
 | [Should Have Known Better](https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 5:07 | 2021-10-29 | 2022-07-28 |
+| [Shoulders](https://open.spotify.com/track/1RctSA81ibMw21gUPHjbVw) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Kenneth Pattengale](https://open.spotify.com/artist/2Ji2VzBsQ0OFEhnkjUCZpE) | [People ≠ Possessions](https://open.spotify.com/album/2okBs9PB0AraOnbKROJWlY) | 3:57 | 2026-10-09 |  |
 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 | 2023-04-14 | 2024-01-13 |
 | [Sinking Ship](https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Expectations](https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm) | 4:07 | 2024-01-12 | 2024-12-21 |
 | [Six Years](https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Six Years](https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS) | 4:42 | 2021-10-29 | 2025-05-03 |

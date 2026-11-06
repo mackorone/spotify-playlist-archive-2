@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> just trying our best 📸 Henry Morris
+> just trying our best 📸 Hannah Jadagu
 
-2,929 songs - 6 day 3 hr 41 min
+2,933 songs - 6 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-04-23 |
 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 | 2026-03-20 | 2026-06-26 |
 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 | 2024-03-08 | 2024-05-18 |
+| [Curse](https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Curse](https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr) | 3:23 | 2026-11-06 |  |
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-17 | 2025-05-03 |
 | [Cute Threat](https://open.spotify.com/track/0WpSFkb2974yMoa4lhpfY7) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [Cute Threat](https://open.spotify.com/album/1PdStiDQSnQ2aJx1cQFaak) | 2:26 | 2024-11-15 | 2025-02-08 |
 | [Cuts Deep](https://open.spotify.com/track/7yDBlgy1yGXDnhJWOZuLe3) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Cuts Deep](https://open.spotify.com/album/6LTBLtbhmyAsKi2L59l7Vo) | 3:00 | 2024-10-18 | 2024-11-09 |
@@ -1180,6 +1181,7 @@
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-05-18 |
 | [Hopeless Romantic](https://open.spotify.com/track/66MpNdv7SHKoErNfWRnH1G) | [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Hopeless Romantic](https://open.spotify.com/album/3FS3QyE4TR1bPMgfE566WR) | 3:18 | 2025-01-24 | 2025-05-10 |
 | [Hora Loca](https://open.spotify.com/track/2E5NKtMEuJoDkbWTRbRuXy) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Hora Loca](https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc) | 3:30 | 2021-08-19 | 2021-10-14 |
+| [Horny, Grieving](https://open.spotify.com/track/2uvTP27swxyANQSOp2L0DH) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Horny, Grieving](https://open.spotify.com/album/5gTCLMGljymV7c9RXX4Jwn) | 3:20 | 2026-11-06 |  |
 | [Hospitalized \- Young & Sick Remix](https://open.spotify.com/track/4PZ4zaGX34YBBbnzh604yJ) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Hospitalized \(Young & Sick Remix\)](https://open.spotify.com/album/3AVixiTFGv8S1M8UItywLj) | 3:33 | 2019-05-26\* | 2020-04-25 |
 | [HOSTAGE](https://open.spotify.com/track/1p1EeOGryPK0AQRraHw6fW) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [HOSTAGE](https://open.spotify.com/album/53ZYFWC6rPIwdMuisHdMWK) | 2:21 | 2023-09-22 | 2023-10-24 |
 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 | 2024-04-05 | 2024-05-18 |
@@ -1762,7 +1764,7 @@
 | [My Vice Is Misery](https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room, sensitive to the sound](https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s) | 3:57 | 2026-10-30 |  |
 | [My Ways](https://open.spotify.com/track/5o3IfIHZBTQCJS2y1c13su) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [My Ways](https://open.spotify.com/album/0XUrFhOuZ1HOijwXToI0gM) | 3:01 | 2021-03-14 | 2021-08-28 |
 | [N.E.T.R.](https://open.spotify.com/track/3Zl5FsE1OwGtiQbSodMoSB) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [Sleepover! the mixtape :P](https://open.spotify.com/album/1Pnytm0gNpMySvKJTDRM0e) | 2:48 | 2025-05-30 | 2025-07-05 |
-| [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 | 2026-05-22 |  |
+| [Naked Chess](https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Leaving The House Is A Performance](https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs) | 3:41 | 2026-05-22 | 2026-11-06 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 | 2022-05-07 |
 | [Napkins](https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Napkins](https://open.spotify.com/album/6lQ6RVsg9TiaXuV3a4llw9) | 2:34 | 2021-08-19 | 2021-10-13 |
 | [Narcissist](https://open.spotify.com/track/3OBZSXXrip110VUE9MYOcq) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Narcissist](https://open.spotify.com/album/5UNvVGbQ0VaUPIexFJDLuL) | 2:27 | 2024-02-23 | 2024-06-08 |
@@ -1968,6 +1970,7 @@
 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 | 2023-10-13 | 2024-01-05 |
 | [Penny](https://open.spotify.com/track/24wiwgyKLZ36y1HwL5M5Yw) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Penny](https://open.spotify.com/album/4aTl0bLTNY0GMApLdUOlkt) | 2:45 | 2022-11-11 | 2022-12-24 |
 | [people don't change](https://open.spotify.com/track/4rjxIt48qyNnfrx9jc2q6r) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [people don't change](https://open.spotify.com/album/28SL67Dptmy8eOZGurIxRt) | 2:47 | 2021-12-03 | 2022-04-23 |
+| [Perfect](https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Perfect](https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs) | 3:49 | 2026-11-06 |  |
 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 | 2023-02-03 | 2023-04-23 |
 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 | 2024-06-07 | 2024-09-14 |
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-07-05 | 2024-09-14 |
@@ -2396,6 +2399,7 @@
 | [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-10-11 |
 | [STFU](https://open.spotify.com/track/74I5Zaz3B2DQp5lAgvOA3V) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [STFU](https://open.spotify.com/album/5F6OtMKcioMKLCaUSgQchc) | 3:29 | 2019-06-15 | 2020-06-07 |
 | [still be friends](https://open.spotify.com/track/0pXfzBjkfflxV8C4yaX2x1) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [still be friends](https://open.spotify.com/album/2ARfFTRWvTq8WzKHquyMjU) | 2:56 | 2026-01-09 | 2026-03-28 |
+| [still love](https://open.spotify.com/track/0nDlNp62aSOxg468sLnBUs) | [YiiiNKA](https://open.spotify.com/artist/1RtPlRQt00Wh0AXsaLFgZ2) | [still love](https://open.spotify.com/album/67GdpCJGc9oR14jHAbTdd9) | 2:25 | 2026-11-06 |  |
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-04-19 | 2021-08-15 |
 | [stitched \(on & on\)](https://open.spotify.com/track/5zSKj1LWqut5museAcupvr) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [stitched \(on & on\)](https://open.spotify.com/album/5MIxOoG0TtlyWIshOPIycZ) | 3:46 | 2026-07-10 | 2026-09-19 |
 | [Stoned Nights](https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Stoned Nights](https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2) | 3:25 | 2021-12-03 | 2022-01-08 |

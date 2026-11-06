@@ -30,7 +30,7 @@
 | [チョコレート・リバイバル](https://open.spotify.com/track/3uN4Yhwd0OIBcS6vW72hfi) | [Chiquewa](https://open.spotify.com/artist/3elqV3RHoG9CYFJAw7DeVL) | [わさび](https://open.spotify.com/album/6ecMClRAasHiPZ6XXKWBhF) | 4:09 | 2023-02-14 |  |
 | [ミント](https://open.spotify.com/track/08PiVULDW29db4qlDDHXTJ) | [ATOLS](https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM) | [ATOLS/MIKU 3](https://open.spotify.com/album/0Tmopn7b4VnvNeDcS5E0QZ) | 3:07 | 2023-02-14 |  |
 | [嘘と僕等とチョコレート](https://open.spotify.com/track/6AAEQmUmo2kbMvyQACfbnJ) | [marshahall](https://open.spotify.com/artist/6r9GCVIfhkTt6wLC7EBlWL) | [嘘と僕等とチョコレート](https://open.spotify.com/album/3xZw9pH5DWo8wFSLplwLI9) | 3:21 | 2023-02-14 |  |
-| [恋はきっと急上昇☆ \(feat\. GUMI\)](https://open.spotify.com/track/50hKEV8wv12FNZTBTLpiOH) | [Noboru](https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1) | [LOST STORY](https://open.spotify.com/album/7AZmRRu0yAcMjqCHOP5aHQ) | 3:46 | 2023-02-14 |  |
+| [恋はきっと急上昇☆ \(feat\. GUMI\)](https://open.spotify.com/track/50hKEV8wv12FNZTBTLpiOH) | [Noboru](https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1), [メグッポイド](https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD) | [LOST STORY](https://open.spotify.com/album/7AZmRRu0yAcMjqCHOP5aHQ) | 3:46 | 2023-02-14 |  |
 | [私の恋はヘルファイア \(feat\. MEIKO\)](https://open.spotify.com/track/1fqpUqtqVLbDZXrtmFK1eW) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR) | [私の恋はヘルファイア](https://open.spotify.com/album/1WyO7Ij2uvv5FDimlZTBbr) | 3:16 | 2023-02-14 |  |
 
 \*This playlist was first scraped on 2023-12-06. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Tsatsamis
+> Discover your new favourite artists from UK&IE\. Cover: IFULKI
 
-380 songs - 20 hr 21 min
+381 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 | 2022-04-21 |  |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2022-02-18 |  |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-06 | 2024-04-19 |
+| [Moment](https://open.spotify.com/track/20eth2UwZL2p2m7zWu33tb) | [IFULKI](https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T) | [Moment](https://open.spotify.com/album/6U8GwqXwPNTQ969nLfDZZU) | 3:15 | 2026-11-06 |  |
 | [Monday](https://open.spotify.com/track/5NuoHlFplMTA8jmr4nHjH9) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Monday](https://open.spotify.com/album/04B6OoFDc5mIhlx6W8fJUo) | 3:32 | 2022-02-18 | 2023-07-14 |
 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 | 2022-02-18 |  |
 | [MUM SAID](https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [MUM SAID](https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8) | 1:53 | 2026-08-27 |  |

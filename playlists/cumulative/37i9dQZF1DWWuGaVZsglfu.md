@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Gloria Jessica, Ade Govinda
 
-603 songs - 1 day 10 hr 24 min
+605 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Abadi](https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Abadi](https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX) | 3:52 | 2024-09-25 | 2024-10-17 |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-26 | 2024-07-04 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2025-03-07 |
-| [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 | 2026-03-04 |  |
+| [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 | 2026-03-04 | 2026-11-06 |
 | [Adangaatha Asuran \(From "Raayan"\)](https://open.spotify.com/track/6qtszUy5n1os6eLP337zZK) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Adangaatha Asuran \(From "Raayan"\)](https://open.spotify.com/album/6gcIDhQn4z8318osjgVNME) | 4:09 | 2024-07-31 | 2024-08-22 |
+| [ADDICTED](https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ADDICTED](https://open.spotify.com/album/0vUguBVUu74NEtzLdXh4X5) | 2:59 | 2026-11-05 |  |
 | [Adek Saye Abe Sore](https://open.spotify.com/track/1EC11OC8V8duKLN71sOklm) | [Eda Ezrin](https://open.spotify.com/artist/1v964dN0qqTk4ljQZv723W), [Den Manjo](https://open.spotify.com/artist/1ctGQ3bkMQWyiblbdj1qg9) | [Adek Saye Abe Sore](https://open.spotify.com/album/0JI4Ff6aGDjNxn6n22jGkf) | 4:13 | 2026-04-30 | 2026-09-12 |
 | [Adiwira](https://open.spotify.com/track/77Rclu7W7JH0sUdaaFNfN7) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Adiwira](https://open.spotify.com/album/7wi8NeAyOByese2502QHTO) | 3:13 | 2024-10-02 | 2024-10-30 |
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-26 | 2024-07-18 |
@@ -112,7 +113,7 @@
 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-13 | 2026-06-27 |
 | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32) | 3:32 | 2024-07-17 | 2024-08-15 |
 | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/track/5TFvDLLJZGgl4F9eJegCgd) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/album/0eX3aLzEgrPIIo7DMinZqr) | 3:32 | 2024-09-04 | 2025-01-23 |
-| [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-11 |  |
+| [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-11 | 2026-11-06 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:01 | 2026-04-08 | 2026-05-27 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-26 | 2024-08-08 |
 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 | 2026-06-19 | 2026-08-15 |
@@ -260,6 +261,7 @@
 | [Kampung Girl 普通人](https://open.spotify.com/track/4e04LfP6YfVB7Lau3hI4Qh) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [Kampung Girl 普通人](https://open.spotify.com/album/2eJ2zxPEN0ZiubESmgHK5V) | 3:33 | 2025-12-10 | 2026-01-15 |
 | [Kasih Aba Aba](https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Kasih Aba Aba](https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM) | 2:56 | 2025-06-04 | 2026-03-05 |
 | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I) | [Rombongan Bodonk Koplo](https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs) | [Kasih Tau Mama \(Malam Minggu\)](https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup) | 3:26 | 2026-02-04 | 2026-05-07 |
+| [Kasih Tercipta](https://open.spotify.com/track/3G2DGwJxuTjujZ9sUhBdxI) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Kasih Tercipta](https://open.spotify.com/album/29tX1ZowYOPoD5cUpfoC45) | 4:11 | 2026-11-05 |  |
 | [Kata](https://open.spotify.com/track/0r4bvid2oluEvinUncHv8P) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Kata](https://open.spotify.com/album/4T7pIPC4AX0wEN78e8SpEQ) | 3:29 | 2025-01-29 | 2025-02-13 |
 | [Kejutkan Aku](https://open.spotify.com/track/7o5JPZnCRZnEozCrjCQxBk) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Kejutkan Aku](https://open.spotify.com/album/7dT5I0dgGYVA3znPhDO451) | 3:02 | 2024-06-26 | 2024-07-04 |
 | [Keliling](https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Keliling](https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx) | 2:59 | 2026-04-22 | 2026-07-03 |

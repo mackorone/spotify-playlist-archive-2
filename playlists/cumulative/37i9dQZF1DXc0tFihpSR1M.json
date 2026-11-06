@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Peder Elias",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Ruben",
   "name": "Ny Pop",
   "tracks": [
     {
@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
@@ -4552,6 +4552,24 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "album": {
+        "name": "Svanehjerte",
+        "url": "https://open.spotify.com/album/3K7Js9YC5QYedcplR0wlBj"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "G\u00e5r meg vill",
+      "url": "https://open.spotify.com/track/6esvwn0nlztEM3IBi9y5FF"
     },
     {
       "album": {
@@ -5550,7 +5568,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 128986,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162946,
       "name": "Hvis han kjenner deg s\u00e5 godt",
       "url": "https://open.spotify.com/track/2ABRYmppRJ8RF9zzFm8ETo"
@@ -5958,7 +5976,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 163989,
       "name": "I et annet liv",
       "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
@@ -6464,7 +6482,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 186045,
       "name": "ILU",
       "url": "https://open.spotify.com/track/0ZnYt1zaaZOWmiekyM3E7s"
@@ -6566,6 +6584,24 @@
       "duration_ms": 151170,
       "name": "ingenting",
       "url": "https://open.spotify.com/track/47jkLimZ91JwelonbALdzp"
+    },
+    {
+      "album": {
+        "name": "intolerance",
+        "url": "https://open.spotify.com/album/3ZldIE7IW4JQ9unFK6jAUQ"
+      },
+      "artists": [
+        {
+          "name": "Susanne Lykke",
+          "url": "https://open.spotify.com/artist/6Y2MuJm11w0ZOKLSoh6RxE"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "intolerance",
+      "url": "https://open.spotify.com/track/2SogKR3YaWiOha2ijuftR6"
     },
     {
       "album": {
@@ -6736,6 +6772,24 @@
       "duration_ms": 74210,
       "name": "Ja, vi elsker",
       "url": "https://open.spotify.com/track/0HaPdi5GYozLWaF9RWOnC2"
+    },
+    {
+      "album": {
+        "name": "Jeg har aldri elsket ham",
+        "url": "https://open.spotify.com/album/3D2fGENoVFHeTOKk8LItws"
+      },
+      "artists": [
+        {
+          "name": "Synne S\u00f8rgjerd",
+          "url": "https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146554,
+      "name": "Jeg har aldri elsket ham",
+      "url": "https://open.spotify.com/track/0Dc0z7ZptrJEM6YA8S5uDv"
     },
     {
       "album": {
@@ -7380,6 +7434,24 @@
       "duration_ms": 189356,
       "name": "Lonely Road (with Jelly Roll)",
       "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+    },
+    {
+      "album": {
+        "name": "I thought this story wasn't about me",
+        "url": "https://open.spotify.com/album/2vrhyLpkOHQXewh8NMbmL2"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232625,
+      "name": "Look at me",
+      "url": "https://open.spotify.com/track/7K04ooT8CNK1ZPwiKa9XPo"
     },
     {
       "album": {
@@ -8028,7 +8100,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 199779,
       "name": "Man Out of Me",
       "url": "https://open.spotify.com/track/6EXDWi38oaSctFVmBbaPkO"
@@ -8154,7 +8226,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 216722,
       "name": "Mellom hei og hade",
       "url": "https://open.spotify.com/track/5SP8elX4Q24zwjmo0jyh0k"
@@ -8338,7 +8410,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180890,
       "name": "missing person",
       "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
@@ -9858,7 +9930,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 229983,
       "name": "Puslespill",
       "url": "https://open.spotify.com/track/3jUw91rrOGSB0v3IZpBz0q"
@@ -10448,7 +10520,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162644,
       "name": "Se meg",
       "url": "https://open.spotify.com/track/5HQifT2YhSsdems4YipbAC"
@@ -10488,6 +10560,24 @@
       "duration_ms": 237088,
       "name": "Senaste tiden",
       "url": "https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh"
+    },
+    {
+      "album": {
+        "name": "Ser du m\u00e5nen?",
+        "url": "https://open.spotify.com/album/2p0KTC367e39BtQHGjp2qJ"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Ser du m\u00e5nen?",
+      "url": "https://open.spotify.com/track/4Rxix9cTsegJUD5lx88Td5"
     },
     {
       "album": {
@@ -10600,6 +10690,24 @@
       "duration_ms": 254026,
       "name": "She\u2019s the Best",
       "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
+    },
+    {
+      "album": {
+        "name": "I Thought We Were the Same",
+        "url": "https://open.spotify.com/album/0hKPCLMN5IS0x6WnvaE9fw"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180513,
+      "name": "Shock Treatment",
+      "url": "https://open.spotify.com/track/1415LHNNQk0H9QxA1czv9q"
     },
     {
       "album": {
@@ -13364,7 +13472,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 206990,
       "name": "Want You More",
       "url": "https://open.spotify.com/track/09iNPNZu7z1WHtWn4l7CUk"

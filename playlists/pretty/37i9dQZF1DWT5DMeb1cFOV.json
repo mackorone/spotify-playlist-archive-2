@@ -1,6 +1,6 @@
 {
   "description": "La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! \ud83d\udcaa",
-  "num_followers": 1096,
+  "num_followers": 1104,
   "original_name": "Smart Working",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-08 16:22:20",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Tears Dry On Their Own",
-      "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
-    },
-    {
-      "added_at": "2024-10-08 16:22:20",
-      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2024-10-08 16:22:20",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Tears Dry On Their Own",
+      "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
     },
     {
       "added_at": "2024-10-08 16:22:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-10-08 16:22:20",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
-      },
-      "artists": [
-        {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
-    },
-    {
-      "added_at": "2024-10-08 16:22:20",
-      "album": {
         "name": "LANY",
         "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 211149,
       "name": "ILYSB",
       "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
+    },
+    {
+      "added_at": "2024-10-08 16:22:20",
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2024-10-08 16:22:20",

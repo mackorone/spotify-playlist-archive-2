@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,039 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,045 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 59 | [You Taught My Heart to Sing](https://open.spotify.com/track/6ZZSi4URY8EIS6xOWkmhdV) | [Lucía](https://open.spotify.com/artist/4pJ0viHUYhSn2o4OhaFKii) | [Lucía](https://open.spotify.com/album/0jEIDaWNl4OHLebprJV0Y7) | 4:38 |
 | 60 | [Hours Of Ours](https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP) | [Waiting For Dawn](https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd) | 5:47 |
 | 61 | [Wild Is Love](https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [Wild Is Love](https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec) | 3:42 |
-| 62 | [I'll Be Seeing You](https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:07 |
-| 63 | [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 |
+| 62 | [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 |
+| 63 | [I'll Be Seeing You](https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:07 |
 | 64 | [That Doesn't Matter](https://open.spotify.com/track/451vo0g9vAHXx6tZsWrZ8b) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [That Doesn't Matter](https://open.spotify.com/album/4k50CU7lgJN6aIAZqjOreg) | 2:49 |
 | 65 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
 | 66 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 |

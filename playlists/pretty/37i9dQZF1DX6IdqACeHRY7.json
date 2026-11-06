@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157813,
+  "num_followers": 157807,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Nice To Meet You (Mistletoe Version)",
-        "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Nice To Meet You (Mistletoe Version)",
+        "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "beholder mit t\u00f8j p\u00e5",
-        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 188425,
-      "name": "beholder mit t\u00f8j p\u00e5",
-      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Horsens (feat. Sofie1998)",
         "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "I Should Probably Go To Bed",
-        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "I Should Probably Go To Bed",
-      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "beholder mit t\u00f8j p\u00e5",
+        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 188425,
+      "name": "beholder mit t\u00f8j p\u00e5",
+      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "I Should Probably Go To Bed",
+        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "I Should Probably Go To Bed",
+      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Dagdr\u00f8mmeri",
+        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 188963,
+      "name": "Dagdr\u00f8mmeri",
+      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Allerhelst Vil Vi Elskes",
         "url": "https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 217242,
       "name": "N\u00e5r Du R\u00f8rer Ved Mig",
       "url": "https://open.spotify.com/track/1PfkILxusHTnJhul70babV"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Dagdr\u00f8mmeri",
-        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 188963,
-      "name": "Dagdr\u00f8mmeri",
-      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "v\u00e5gner",
         "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 193983,
       "name": "r\u00f8r ved hinanden (feat. Chris Burton)",
       "url": "https://open.spotify.com/track/50Kk0GqslIy4RnZ2ekLVog"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Lonely (feat. Artigeardit)",
         "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 196090,
       "name": "Lonely (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "This Morning",
         "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 196826,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Alice",
-        "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
-      },
-      "artists": [
-        {
-          "name": "Jack Curley",
-          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "The Boy I Am",
         "url": "https://open.spotify.com/album/6xz9QoMwSIVDSm2im3v1r9"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
+      },
+      "artists": [
+        {
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1839,26 +1839,6 @@
       "duration_ms": 191433,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "bl\u00e5 n\u00e6tter",
-        "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
-      },
-      "artists": [
-        {
-          "name": "Lea Ey\u00f0bj\u00f8rg",
-          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
-        },
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 158708,
-      "name": "bl\u00e5 n\u00e6tter",
-      "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1899,22 +1879,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 205978,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4KZGnVN2Uner3QBMC0Tfoc"
       },
@@ -1931,6 +1895,42 @@
       "duration_ms": 208998,
       "name": "Tabt Noget",
       "url": "https://open.spotify.com/track/4f7b2nMVkhM58F6nSnQTDZ"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "bl\u00e5 n\u00e6tter",
+        "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        },
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 158708,
+      "name": "bl\u00e5 n\u00e6tter",
+      "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 205978,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
     }
   ],
   "unique_name": "ren hygge",

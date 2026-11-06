@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 229803,
+  "num_followers": 229842,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Bitin' List",
-      "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 247239,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Bitin' List",
+      "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Take This Job And Shove It",
         "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 157773,
       "name": "Take This Job and Shove It",
       "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Snake Farm",
-        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
+        "name": "Morning Bail",
+        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
       },
       "artists": [
         {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
         }
       ],
-      "duration_ms": 233973,
-      "name": "Snake Farm",
-      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
+      "duration_ms": 174758,
+      "name": "Morning Bail",
+      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Morning Bail",
-        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
+        "name": "Snake Farm",
+        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
       },
       "artists": [
         {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
         }
       ],
-      "duration_ms": 174758,
-      "name": "Morning Bail",
-      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
+      "duration_ms": 233973,
+      "name": "Snake Farm",
+      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "The Best Of Sammi Smith",
-        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
-      },
-      "artists": [
-        {
-          "name": "Sammi Smith",
-          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Help Me Make It Through The Night",
-      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "I'm Jessi Colter",
         "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 203106,
       "name": "I'm Not Lisa",
       "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "The Best Of Sammi Smith",
+        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
+      },
+      "artists": [
+        {
+          "name": "Sammi Smith",
+          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "White River",
-        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "White River",
-      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "COUNTRY FUZZ",
         "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 208929,
       "name": "Hard Out Here For A Country Boy",
       "url": "https://open.spotify.com/track/0Mt1EgjhezhBXd1WUmsWhn"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "White River",
+        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "White River",
+      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
     },
     {
       "added_at": "2026-08-21 04:01:33",

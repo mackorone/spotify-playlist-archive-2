@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,252 likes - 516 songs - 1 day 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,254 likes - 516 songs - 1 day 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 156 | [Rumour Has It / Someone Like You \- Cover of Adele](https://open.spotify.com/track/02HWaR7BxEUIAD17hfRDZP) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee Músicas Românticas](https://open.spotify.com/album/6dUudbAQsnIKstPIBWddUg) | 3:27 |
 | 157 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/5gzZnru34wdecgMUQR2UO0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:42 |
 | 158 | [Baby Don't Lie](https://open.spotify.com/track/5t54WbqXtMwT5yF1nQSuKz) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Baby Don't Lie](https://open.spotify.com/album/5kbakTEYyPcqxotRqkkGCL) | 3:22 |
-| 159 | [Best Years](https://open.spotify.com/track/6LHDP5yKHUIQxeml0YKUQy) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:10 |
-| 160 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
+| 159 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
+| 160 | [Best Years](https://open.spotify.com/track/6LHDP5yKHUIQxeml0YKUQy) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:10 |
 | 161 | [Back for More \(TXT Ver.\)](https://open.spotify.com/track/2AdzsePCqH6NUcMq7tYYmx) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:42 |
 | 162 | [New Love](https://open.spotify.com/track/42QGdFKDbWMDvmgsYq35HP) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:16 |
 | 163 | [Marchin On](https://open.spotify.com/track/2IPpyxIgVLoDmYGIffJrol) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:11 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 214 | [Rapunzel \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:45 |
 | 215 | [Greenlight \- From "Songland"](https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greenlight \(From "Songland"\)](https://open.spotify.com/album/3RRyP3NlMJOrPGxjrRfK5l) | 3:00 |
 | 216 | [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/0otmDG441slQ7QYZUPgBcM) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:38 |
-| 217 | [Ordinary Human](https://open.spotify.com/track/0VmdveDdlr2FMGwBljCfxA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Ordinary Human](https://open.spotify.com/album/1UhPPEJiu8RHhupj6aC4kh) | 4:50 |
-| 218 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
+| 217 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
+| 218 | [Ordinary Human](https://open.spotify.com/track/0VmdveDdlr2FMGwBljCfxA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Ordinary Human](https://open.spotify.com/album/1UhPPEJiu8RHhupj6aC4kh) | 4:50 |
 | 219 | [Bigger Love](https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:50 |
 | 220 | [Seasons](https://open.spotify.com/track/6TW2OHata91dIc99MZehcT) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Never Been Better \(Expanded Edition\)](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:37 |
 | 221 | [Ain't Easy](https://open.spotify.com/track/0b9KkFVuiKep5IH8O5O8OX) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [8:47](https://open.spotify.com/album/2RxqGBW2H5j2EyZyqwc7m3) | 3:08 |
@@ -289,8 +289,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 279 | [Good In Goodbye](https://open.spotify.com/track/1rDBEE2J1D9oJhtdK29jk6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:19 |
 | 280 | [Human](https://open.spotify.com/track/5NbplIIyJnnAPrUWeJAbQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:40 |
 | 281 | [Reach Out](https://open.spotify.com/track/0NzKUImAsFDEvL4uDp1Lrz) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Reach Out](https://open.spotify.com/album/2nNquxV1Z0STeEB04RHWT7) | 4:16 |
-| 282 | [Getting Started \(Hobbs & Shaw\)](https://open.spotify.com/track/1IEH2N8txrWCakbVBy2jcY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:38 |
-| 283 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
+| 282 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
+| 283 | [Getting Started \(Hobbs & Shaw\)](https://open.spotify.com/track/1IEH2N8txrWCakbVBy2jcY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:38 |
 | 284 | [Strip Me](https://open.spotify.com/track/2371M3KFIjpbHnVmh4dw85) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:29 |
 | 285 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 |
 | 286 | [This Ain't Goodbye](https://open.spotify.com/track/2nbdAzvO2N9oT40uN5l6EG) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 4:23 |
@@ -525,4 +525,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 515 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 516 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AcgzlAAAAADYAi5MaQtC0LmHqkkPHaLK`
+Snapshot ID: `Acg5NAAAAACGRsmMviI2Gd8zuKyWKDpS`

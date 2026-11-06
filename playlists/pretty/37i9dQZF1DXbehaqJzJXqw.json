@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 720324,
+  "num_followers": 720491,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
         "name": "Attraction",
         "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 259000,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/0ik9ZRMOJjA9GK2QCcuVXj"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
-        "name": "Ilo Veyou",
-        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
-      },
-      "artists": [
-        {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 211973,
       "name": "La Pluie Et Le Beau Temps",
       "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2026-06-30 12:26:56",

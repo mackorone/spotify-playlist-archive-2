@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 prima stanza a destra e Angelica Bove in cover
+> La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 Emili Kasa in cover
 
-240 songs - 11 hr 26 min
+241 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Il tempo cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il tempo cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-22 | 2025-05-14 |
 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 | 2025-06-05 | 2026-06-11 |
 | [Intuition](https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [Intuition](https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH) | 3:28 | 2025-05-13 | 2026-06-11 |
+| [Io non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Io non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 | 2026-11-05 |  |
 | [Jack e Lacrime](https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [Jack e Lacrime](https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw) | 2:38 | 2023-04-11 | 2024-04-24 |
 | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/track/76V4fmBYiVqpOJB6GC3SHA) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/album/599Ef02IOqtzkVBd1sFlfo) | 3:08 | 2023-04-11 | 2024-04-24 |
 | [KNOCK OUT \(feat\. BigMama\)](https://open.spotify.com/track/1mwtk1gaJ8NlcHON0f22Tk) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB BLU](https://open.spotify.com/album/4dnD2Nz51WpxBXx87Izty6) | 2:50 | 2023-04-11 | 2024-04-24 |

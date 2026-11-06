@@ -1,13 +1,29 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Sigala",
-  "num_followers": 117538,
+  "num_followers": 117530,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiJaJXElQpAEMtHcDk3BmT348YZsWy",
+  "snapshot_id": "AAAiJ4Fp7p5pu7a2pH9I77+mnaw432MT",
   "tracks": [
+    {
+      "added_at": "2026-11-05 12:04:04",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/3nuWQaaxkrXa8bpWVfeSUy"
+      },
+      "artists": [
+        {
+          "name": "melih sar\u0131",
+          "url": "https://open.spotify.com/artist/4jWUd2mZBkpbX6Oj4KQktW"
+        }
+      ],
+      "duration_ms": 153259,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/08GLdJkqn0Yl8F7jSfFyW3"
+    },
     {
       "added_at": "2026-10-29 23:00:09",
       "album": {

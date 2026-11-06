@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Evangelia, Misha Miller
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Sakis Rouvas
 
-335 songs - 17 hr 1 min
+337 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Agapi Mou](https://open.spotify.com/track/0SCB23ZKWE9ve7Vpji1wLv) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT) | [Agapi Mou](https://open.spotify.com/album/5W7Bv6F9oRD67Hfo9njREK) | 2:03 | 2025-02-20 | 2025-06-14 |
 | [Agapi Mou Me Dioxneis](https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Agapi Mou Me Dioxneis](https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR) | 2:50 | 2024-10-10 | 2025-05-09 |
 | [Ah Agori Mou](https://open.spotify.com/track/7FkeGkT44JKIfwv9YIJcUm) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP), [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ah Agori Mou](https://open.spotify.com/album/3k6OSH82tRO96Fz8wBvM5T) | 3:09 | 2025-08-07 | 2026-02-27 |
-| [Aigaio](https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Aigaio](https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk) | 4:04 | 2026-04-23 |  |
+| [Aigaio](https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Aigaio](https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk) | 4:04 | 2026-04-23 | 2026-11-06 |
 | [Ainte](https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ainte](https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396) | 2:42 | 2026-07-30 |  |
 | [Alitheia Tora](https://open.spotify.com/track/00A3yDONz9b3wIgpnT9a5Y) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Alitheia Tora](https://open.spotify.com/album/4pm0OLRaeMviiqkukbDjgb) | 3:26 | 2026-07-02 |  |
 | [Alitheia?!](https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Alitheia?!](https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL) | 3:03 | 2024-10-24 | 2025-06-06 |
@@ -184,6 +184,7 @@
 | [Kornaro \- Remix](https://open.spotify.com/track/527rcJEpvVxbOZ7PEWFHUP) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Stathis Xenos](https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf) | [Kornaro \(Remix\)](https://open.spotify.com/album/6IEHylAyKOxHdWAeFEcTS3) | 3:36 | 2024-07-11 | 2024-11-08 |
 | [Kouklara](https://open.spotify.com/track/1s5qK6dOmswkeWtj0wiaB3) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Kouklara](https://open.spotify.com/album/0ZaQCTznYe8DZ4g6k7bf60) | 2:32 | 2026-04-16 | 2026-05-08 |
 | [Kounia Bella](https://open.spotify.com/track/29fkjtxUcfXLYPrrZ0sPoa) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Kounia Bella](https://open.spotify.com/album/3fZAhqF8zVjRFMZRD2cFOk) | 2:50 | 2025-07-03 | 2026-01-16 |
+| [Kragion](https://open.spotify.com/track/3gU1uRuFRxwBjbeBXj9AnV) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Kragion](https://open.spotify.com/album/654qyOBs4GUpjcbX6vC1U8) | 3:30 | 2026-11-05 |  |
 | [Krypsou](https://open.spotify.com/track/7kvlJ0hzUxHUvy6XdNn2g3) | [Jenny Georgiadi](https://open.spotify.com/artist/7CiW0X8FYCQOhskclPFkxo), [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes) | [Krypsou](https://open.spotify.com/album/5HAzznEHA6Lga7u075Pju3) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [La Luna](https://open.spotify.com/track/3tQrKUTDaEu6pDGVkgdO3Q) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [La Luna](https://open.spotify.com/album/61nNIzXToDj4oTzW5MtaSI) | 3:05 | 2024-07-04 | 2025-03-14 |
 | [LALALALA](https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 2:52 | 2024-06-27 | 2024-07-19 |
@@ -306,6 +307,7 @@
 | [TI NA NAI AYTO](https://open.spotify.com/track/6WfPI1T8GMo5Thqknubhpy) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [TI NA NAI AYTO](https://open.spotify.com/album/1NZF6YeQR259jCXfLG8G23) | 2:57 | 2025-06-13 | 2025-08-08 |
 | [Ti Sou Kanei](https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Kanei](https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG) | 3:19 | 2024-06-27 | 2024-07-27 |
 | [Ti Thelo Ego Me Sena](https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd), [Eleana Vrachali](https://open.spotify.com/artist/0L7vGwIsynB86DhC2QQmzn) | [Ti Thelo Ego Me Sena](https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A) | 2:55 | 2026-06-11 |  |
+| [Tis Nyxtes Mou Leipeis Pio Poly](https://open.spotify.com/track/69JXbZE0nCPqcH0fe9OMEi) | [Mando](https://open.spotify.com/artist/1OojDymajqO5mQAdUJ0HvV), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Tis Nyxtes Mou Leipeis Pio Poly](https://open.spotify.com/album/35dxPuxzftw1XgWxFGCGTh) | 4:33 | 2026-11-05 |  |
 | [To Eidolo Sou](https://open.spotify.com/track/3yVT1Z7AlCxCpxnM9Q70zG) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44) | [To Eidolo Sou](https://open.spotify.com/album/5AjyrEls9IpJHOEfrsfTCi) | 2:52 | 2026-09-03 |  |
 | [To Kalokairi Mas](https://open.spotify.com/track/3bN75wJ7qY6WtUquJU9jJM) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [To Kalokairi Mas](https://open.spotify.com/album/0PAkYzbapD1m3ZsXv29ENg) | 3:21 | 2024-07-25 | 2025-03-28 |
 | [To Lathos Mou](https://open.spotify.com/track/0TUTYUToTHhykqAJK2SktL) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Dimitris Shinas](https://open.spotify.com/artist/2HnNR3JccALPcFfJWBHPtv), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [To Lathos Mou](https://open.spotify.com/album/3Vo20XXjXC1NTMplTypVWT) | 3:00 | 2025-06-05 | 2026-02-13 |

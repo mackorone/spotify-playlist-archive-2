@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: The Avalanches",
+  "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: Jashim",
   "name": "Proto-",
   "tracks": [
     {
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 156780,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
@@ -7512,7 +7512,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 136000,
       "name": "COCO",
       "url": "https://open.spotify.com/track/3vlo65OpYGkFnt0r8w1LKJ"
@@ -7588,7 +7588,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 234303,
       "name": "Coil",
       "url": "https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55"
@@ -9091,6 +9091,24 @@
     },
     {
       "album": {
+        "name": "ddr",
+        "url": "https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "ddr",
+      "url": "https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO"
+    },
+    {
+      "album": {
         "name": "De Guerre (ELOI remix)",
         "url": "https://open.spotify.com/album/7hfxRPvxUWzssVOr8VO1wA"
       },
@@ -9460,6 +9478,24 @@
       "duration_ms": 170827,
       "name": "DESPECH\u00c1 RMX",
       "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
+    },
+    {
+      "album": {
+        "name": "new world disorder (reloaded)",
+        "url": "https://open.spotify.com/album/7FNA26Na17WIICzV0FzzTG"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91428,
+      "name": "desperate situation",
+      "url": "https://open.spotify.com/track/0zhm3CMsjuce6JCyBiEgxV"
     },
     {
       "album": {
@@ -11563,6 +11599,24 @@
     },
     {
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/4TNQ25B1pzIYnB62jSmxw9"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218260,
+      "name": "ESPOIR",
+      "url": "https://open.spotify.com/track/5kQ4PsjOxKx9krM47EB9WE"
+    },
+    {
+      "album": {
         "name": "EST",
         "url": "https://open.spotify.com/album/1XE8PpuoEwqy8E7vjzBDu9"
       },
@@ -11810,7 +11864,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 233015,
       "name": "Everyone - ft SEES00000",
       "url": "https://open.spotify.com/track/7cBBbJy5xDzgllQYG6lUjQ"
@@ -12825,6 +12879,24 @@
     },
     {
       "album": {
+        "name": "QWERTY III",
+        "url": "https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159618,
+      "name": "FERAL CHILD ;-0",
+      "url": "https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW"
+    },
+    {
+      "album": {
         "name": "When You Gonna Tell 'Em the Truth, Aaron?",
         "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
       },
@@ -13582,6 +13654,28 @@
       "duration_ms": 200370,
       "name": "Forever Yung",
       "url": "https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE"
+    },
+    {
+      "album": {
+        "name": "Forget Your Name",
+        "url": "https://open.spotify.com/album/6JLsJAAlF3kdAMwqkCpqxj"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Forget Your Name",
+      "url": "https://open.spotify.com/track/0fQsJwl7nuBdAzfTzlPfgF"
     },
     {
       "album": {
@@ -19141,6 +19235,24 @@
     },
     {
       "album": {
+        "name": "PEACE + WAR",
+        "url": "https://open.spotify.com/album/4Lbs1ZVwXGJ9tgFBxrpyPA"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "Jag\u00f3dki (Blueberries)",
+      "url": "https://open.spotify.com/track/5kWBBObGHpO26IH4FlQgkE"
+    },
+    {
+      "album": {
         "name": "Japanese Black Pine",
         "url": "https://open.spotify.com/album/4dPJhXTprt8iEqaZTDgJ81"
       },
@@ -19210,6 +19322,32 @@
       "duration_ms": 124422,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
+    },
+    {
+      "album": {
+        "name": "Mass Appeal",
+        "url": "https://open.spotify.com/album/5WoaWKOtFW1N4tPIi1JIvO"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Jersey Baile",
+      "url": "https://open.spotify.com/track/3g06s2sV3GzxgFcBGMEn4z"
     },
     {
       "album": {
@@ -20467,6 +20605,24 @@
     },
     {
       "album": {
+        "name": "the door",
+        "url": "https://open.spotify.com/album/6auM377vLuTQ9wsb3x7l32"
+      },
+      "artists": [
+        {
+          "name": "mathk1",
+          "url": "https://open.spotify.com/artist/6qnfSXTSCHjbOMG19HFtvJ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116035,
+      "name": "let me die",
+      "url": "https://open.spotify.com/track/43a32pUphH34sdfQDHXGYd"
+    },
+    {
+      "album": {
         "name": "let u in",
         "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
       },
@@ -20550,7 +20706,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 107320,
       "name": "Lets Make Out",
       "url": "https://open.spotify.com/track/2TUZV5w1x3bh4HKAslMouC"
@@ -21112,6 +21268,24 @@
       "duration_ms": 220500,
       "name": "LLTB",
       "url": "https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI"
+    },
+    {
+      "album": {
+        "name": "JASHIM",
+        "url": "https://open.spotify.com/album/58UUIVslrSHht7ynT9VVtW"
+      },
+      "artists": [
+        {
+          "name": "Jashim",
+          "url": "https://open.spotify.com/artist/3erJqJ388hvf1VTPKG8JDp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197410,
+      "name": "Llueven Balas en el Club",
+      "url": "https://open.spotify.com/track/50pt3yyuqzjqjKB0G17lEx"
     },
     {
       "album": {
@@ -22485,6 +22659,24 @@
     },
     {
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/3EmDGlGCYEWrs05H0JJ4gO"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317480,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0Od0JSjrcDmahzUiB5QepD"
+    },
+    {
+      "album": {
         "name": "Me, I Think I Found It",
         "url": "https://open.spotify.com/album/1ag5aiFRZbzKWgLsZWX7mI"
       },
@@ -23000,7 +23192,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 130770,
       "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
       "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
@@ -23490,6 +23682,28 @@
       "duration_ms": 142105,
       "name": "modric \u00e0 mtl",
       "url": "https://open.spotify.com/track/02wULfWLhXPvNQIOHrvJZb"
+    },
+    {
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/5wZRSCGuBM9iHk3t4VAPAB"
+      },
+      "artists": [
+        {
+          "name": "fangs",
+          "url": "https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW"
+        },
+        {
+          "name": "DJ avius",
+          "url": "https://open.spotify.com/artist/112Fr4bbHdiYYObvxLQCW8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143382,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5LnolP3epk9MJecQZirQ3m"
     },
     {
       "album": {
@@ -24538,7 +24752,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 171425,
       "name": "Never Let You Know",
       "url": "https://open.spotify.com/track/4ME2tEBxl7NC4E1m5JE1dP"
@@ -26324,7 +26538,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 108267,
       "name": "only bite when I mean it",
       "url": "https://open.spotify.com/track/4h5YxZvThbjhzv5fRuINST"
@@ -27344,6 +27558,24 @@
       "duration_ms": 170895,
       "name": "peace of mind",
       "url": "https://open.spotify.com/track/0hh5w9zgdzGcEEt9wZQhPy"
+    },
+    {
+      "album": {
+        "name": "pegasus",
+        "url": "https://open.spotify.com/album/0No2AaO00viWeDoeuJb0Yv"
+      },
+      "artists": [
+        {
+          "name": "svn4vr",
+          "url": "https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "pegasus",
+      "url": "https://open.spotify.com/track/1zgPTcmehootTzZILn55FA"
     },
     {
       "album": {
@@ -31146,7 +31378,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166154,
       "name": "Sex",
       "url": "https://open.spotify.com/track/28JTepgeSEGHe9OcvHFzAs"
@@ -34130,7 +34362,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200571,
       "name": "SttttRANGERENDER",
       "url": "https://open.spotify.com/track/5MsnJiyyTV60L9zop9wkmq"

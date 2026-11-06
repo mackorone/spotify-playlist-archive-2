@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,540 songs - 4 day 0 hr 36 min
+2,541 songs - 4 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1603,7 +1603,7 @@
 | [Once Upon A Time](https://open.spotify.com/track/5xnRYlgjP2eUNkGqusGytQ) | [Too Lamb](https://open.spotify.com/artist/49B2agZFE9BySVXPshGCqC) | [Once Upon A Time](https://open.spotify.com/album/3lmq7930x9ksc0Foz7Egzx) | 2:30 | 2022-04-15 | 2022-05-27 |
 | [One Flame](https://open.spotify.com/track/4Ff9CW1dMdIqupiUG3yn3q) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [One Flame](https://open.spotify.com/album/2P1KFMTCzA09BPBrqtmJID) | 2:44 | 2023-10-27 | 2025-07-26 |
 | [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 | 2025-07-18 |
-| [One More Page](https://open.spotify.com/track/3ubrObqREfUKohaeVQx5Ac) | [Blue Afternoon](https://open.spotify.com/artist/7I3qZKjfcA4D6lxIcVBkB5) | [One More Page](https://open.spotify.com/album/1PQKE0jVaPq7ComyS7S939) | 2:11 | 2026-09-04 |  |
+| [One More Page](https://open.spotify.com/track/3ubrObqREfUKohaeVQx5Ac) | [Blue Afternoon](https://open.spotify.com/artist/7I3qZKjfcA4D6lxIcVBkB5) | [One More Page](https://open.spotify.com/album/1PQKE0jVaPq7ComyS7S939) | 2:11 | 2026-09-04 | 2026-11-06 |
 | [One Nap At a Time](https://open.spotify.com/track/1HPkUkxIEVAyc4AcEUIqIA) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [One Nap At a Time](https://open.spotify.com/album/0Kz8fdcYlkHRYYJVoIQaYT) | 2:20 | 2022-05-13 | 2023-04-04 |
 | [One Note Steez](https://open.spotify.com/track/2I2IId1IhTbZPviHmNFCde) | [Herr Kaschke](https://open.spotify.com/artist/2dGqSVZSyxJpLWtWRkm7Ba) | [One Note Steez](https://open.spotify.com/album/5iN4X1NrR61zXIs340Dopn) | 2:24 | 2022-10-14 | 2023-01-13 |
 | [One Or Two](https://open.spotify.com/track/42Y2XqAMP2qXpNtAdi9qCU) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [One Or Two](https://open.spotify.com/album/4dbvFkMYZU4l2KdfSo8ZI0) | 2:08 | 2023-02-06 | 2023-09-29 |
@@ -1817,6 +1817,7 @@
 | [Reminds Me of Me](https://open.spotify.com/track/2qz2QDD9p4P9PfbOZN0ngF) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Reminds Me of Me](https://open.spotify.com/album/6gM2Wpa6XZiRgjs0Adb0Hd) | 2:42 | 2022-10-07 | 2023-03-09 |
 | [Reminisce](https://open.spotify.com/track/3a9FDZH7YfRaTvrfdWnn43) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Reminisce](https://open.spotify.com/album/4lslNVpFJjWTzQcypAooxN) | 2:24 | 2024-07-12 | 2024-11-16 |
 | [Remote View](https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Remote View](https://open.spotify.com/album/4qSrf2jwAUPsqeecgyEAza) | 1:16 | 2023-10-27 | 2025-07-26 |
+| [RESOLUTION](https://open.spotify.com/track/7lFW8mhko9rb4ZCGooRy5t) | [SLOWIFI](https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm) | [RESOLUTION](https://open.spotify.com/album/6xoUy0MGLiN4egMmpkQWrG) | 2:26 | 2026-11-05 |  |
 | [resonance](https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [resonance](https://open.spotify.com/album/3TYhhtSd0cqyCSPRlty5hQ) | 2:53 | 2023-02-13 | 2025-07-18 |
 | [Resonance](https://open.spotify.com/track/47O54hs8nwd4vy1DOcgMth) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Resonance](https://open.spotify.com/album/2sl0CVYk9JPGp5ub68hqd2) | 2:31 | 2023-06-06 | 2023-10-06 |
 | [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-28 | 2026-03-14 |

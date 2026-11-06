@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062f\u0646\u064a\u0627 \u0633\u0645\u064a\u0631 \u063a\u0627\u0646\u0645",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0648\u062f\u0647 \u0648\u062c\u0646\u0627\u062a",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -3761,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Khalas Ba2a / \u062e\u0644\u0627\u0635 \u0628\u0642\u0649",
+        "url": "https://open.spotify.com/album/2ra3Qbwwdbehwlx3p57Agb"
+      },
+      "artists": [
+        {
+          "name": "Youssef Ismail",
+          "url": "https://open.spotify.com/artist/2aAgaRA0NfWZbNJ3aVWVV7"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Khalas Ba2a / \u062e\u0644\u0627\u0635 \u0628\u0642\u0649",
+      "url": "https://open.spotify.com/track/0oDmozRCzSw5YzwITwJEFD"
+    },
+    {
+      "album": {
         "name": "khateera",
         "url": "https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N"
       },
@@ -5585,6 +5603,24 @@
     },
     {
       "album": {
+        "name": "Elissar",
+        "url": "https://open.spotify.com/album/57L8zq0yxYJYgocJX7Y3kh"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245430,
+      "name": "Sahla El Aziya",
+      "url": "https://open.spotify.com/track/0NxqImDsfITWJvmjCJ86ur"
+    },
+    {
+      "album": {
         "name": "Sahran",
         "url": "https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84"
       },
@@ -7248,6 +7284,28 @@
       "duration_ms": 204200,
       "name": "Zayaha Meen",
       "url": "https://open.spotify.com/track/5NBR9Pd73CpmzdCWTpBbFj"
+    },
+    {
+      "album": {
+        "name": "ZEKRA",
+        "url": "https://open.spotify.com/album/1SNBCKKs6CNPi7P9LyUvUG"
+      },
+      "artists": [
+        {
+          "name": "Khaled Ali",
+          "url": "https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1"
+        },
+        {
+          "name": "Ahmed Diaa",
+          "url": "https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196122,
+      "name": "ZEKRA",
+      "url": "https://open.spotify.com/track/32is7x8ALfhlgd04BUBbmV"
     },
     {
       "album": {

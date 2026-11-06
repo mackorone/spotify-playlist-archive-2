@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Geolier  in cover della playlist con tutte le hit 🔥
+> ADÉLA  in cover della playlist con tutte le hit 🔥
 
-387 songs - 20 hr 13 min
+388 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-06-28 | 2024-11-08 |
 | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey) | 2:24 | 2024-06-28 | 2024-09-11 |
 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 | 2025-05-19 | 2025-11-08 |
-| [Giornate perse](https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Giornate perse](https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH) | 3:39 | 2026-10-27 |  |
+| [Giornate perse](https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Giornate perse](https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH) | 3:39 | 2026-10-27 | 2026-11-06 |
 | [Girasole \(feat\. Rkomi\)](https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [La Cura, in nome di Miria](https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s) | 3:21 | 2026-01-28 | 2026-02-13 |
 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 | 2024-12-13 | 2025-05-23 |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-08-28 | 2026-06-12 |
@@ -333,6 +333,7 @@
 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 | 2024-06-28 | 2024-07-19 |
 | [Sorry Scusa Lo Siento](https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Sorry Scusa Lo Siento](https://open.spotify.com/album/6fsms67vLncXwehxDegR5I) | 3:20 | 2026-05-15 |  |
 | [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 | 2026-09-11 |  |
+| [Sparisci](https://open.spotify.com/track/6ZERZ7aiL214VIKLTBkaxS) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Sparisci](https://open.spotify.com/album/7GikXyCIkrHIANRbnjUP4e) | 2:57 | 2026-11-05 |  |
 | [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 | 2026-04-13 | 2026-04-24 |
 | [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 | 2026-06-08 | 2026-10-02 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-25 | 2024-12-13 |

@@ -4,7 +4,7 @@
 
 > Voici les hits du moment avec Charlotte Cardin
 
-759 songs - 1 day 15 hr 56 min
+760 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Rationnel](https://open.spotify.com/track/3YL8Fap75TrWDgOYd55pV7) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Rationnel](https://open.spotify.com/album/5JRIVcdABkZj7namrfmuv7) | 2:06 | 2025-10-24 | 2025-11-22 |
 | [Rester](https://open.spotify.com/track/3Q7AjkKVBoBIVjnZQLGJwQ) | [Aurèle](https://open.spotify.com/artist/2ML5nwtAFju791IlVhnHuk) | [Rester](https://open.spotify.com/album/5uRIW8misVDPOt1raepZ0g) | 3:00 | 2025-10-31 | 2026-02-14 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-28 | 2025-03-08 |
-| [Ricardo](https://open.spotify.com/track/0koMZx6hCGqzZjEeJu9Dad) | [Scooter Gas](https://open.spotify.com/artist/453w7ouxJxlKocPMXx7hqI) | [Ricardo](https://open.spotify.com/album/36iPQwFaUWTGjG70sPhtUN) | 3:11 | 2026-06-12 |  |
+| [Ricardo](https://open.spotify.com/track/0koMZx6hCGqzZjEeJu9Dad) | [Scooter Gas](https://open.spotify.com/artist/453w7ouxJxlKocPMXx7hqI) | [Ricardo](https://open.spotify.com/album/36iPQwFaUWTGjG70sPhtUN) | 3:11 | 2026-06-12 | 2026-11-06 |
 | [Rien d'plus beau](https://open.spotify.com/track/4LSoonoDaI9wC1pySjuvtg) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [Rien d'plus beau](https://open.spotify.com/album/6RZKnyEwedtnSHUscjQwpf) | 3:27 | 2026-10-02 |  |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-10-26 |
 | [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 | 2025-05-23 | 2025-10-18 |
@@ -661,6 +661,7 @@
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2023-12-15 | 2024-04-19 |
 | [T'étais où?](https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [T'étais où?](https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5) | 2:45 | 2024-08-23 | 2025-06-22 |
 | [Take Me Back](https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU) | 3:08 | 2026-06-26 | 2026-10-09 |
+| [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Take Me Back \(Leave Me There\)](https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3) | 2:58 | 2026-11-06 |  |
 | [Take Me Home](https://open.spotify.com/track/6i0Jqg9HJgOB4V18hruSWC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 3:06 | 2023-03-31 | 2023-07-01 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-20 | 2025-02-09 |
 | [Tant pis pour elle](https://open.spotify.com/track/2GDZe8GdXd0LoUtpVpMUVy) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/0D7w7NEXkbNnhMLDm1tawk) | 2:38 | 2025-09-05 | 2026-06-27 |

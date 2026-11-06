@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24753,
+  "num_followers": 24771,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "VOICE OF THE CROWN (African Dancehall)",
-        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 175682,
-      "name": "STREET CROWN (African Dancehall)",
-      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 187187,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "VOICE OF THE CROWN (African Dancehall)",
+        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 175682,
+      "name": "STREET CROWN (African Dancehall)",
+      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
       "added_at": "2026-10-23 00:01:41",

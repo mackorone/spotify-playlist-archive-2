@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945095,
+  "num_followers": 945043,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-10-23 01:38:05",
       "album": {
-        "name": "Enquanto o Sol Brilhar (Naiara 15 - Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Matogrosso & Mathias",
-          "url": "https://open.spotify.com/artist/5he1UTofdFOcdbKqnLixko"
-        }
-      ],
-      "duration_ms": 240272,
-      "name": "Enquanto o Sol Brilhar - Naiara 15 - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
         "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 201440,
       "name": "Deixa Eu Te Amar - Ao Vivo",
       "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
+    },
+    {
+      "added_at": "2026-10-23 01:38:05",
+      "album": {
+        "name": "Enquanto o Sol Brilhar (Naiara 15 - Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Matogrosso & Mathias",
+          "url": "https://open.spotify.com/artist/5he1UTofdFOcdbKqnLixko"
+        }
+      ],
+      "duration_ms": 240272,
+      "name": "Enquanto o Sol Brilhar - Naiara 15 - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9"
     },
     {
       "added_at": "2026-10-23 01:38:05",

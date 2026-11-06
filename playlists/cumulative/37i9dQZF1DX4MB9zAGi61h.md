@@ -4,7 +4,7 @@
 
 > Close Mic, Muted Strings, Cozy Vibes
 
-109 songs - 4 hr 35 min
+112 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Circumstances](https://open.spotify.com/track/1gwtkhjfBcsdZom7szIDnB) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Circumstances](https://open.spotify.com/album/40y5seW3eWuNEoBBLHkggz) | 2:08 | 2026-10-09 |  |
 | [Does everyone hate me, or do I just need to go to sleep?](https://open.spotify.com/track/0ve62dWOJlOLKby2BnJLTE) | [Monty Hancock](https://open.spotify.com/artist/3aYlsneQ7p6SOVfKONAUxP) | [Does everyone hate me, or do I just need to go to sleep?](https://open.spotify.com/album/04r5zXARSkG4u3ouvJ2XYr) | 2:09 | 2026-09-18 |  |
 | [Elysium](https://open.spotify.com/track/0FjEbmuVgksEG1TN1eE0Dk) | [Charlie Westbrook](https://open.spotify.com/artist/7fbHzE2OKP2VIVIr5RZe0E) | [Elysium](https://open.spotify.com/album/07H5h0uPqEH3HVGc2tiGLk) | 2:46 | 2026-07-24 |  |
+| [Fading Vestige](https://open.spotify.com/track/0n6355sEMLzIu92kvetYAp) | [Theodore Montreux](https://open.spotify.com/artist/1pG8mXVn8gPCoXWkUdwRWS) | [Fading Vestige](https://open.spotify.com/album/3DtpQBTmGwosln3VLp2IKU) | 2:04 | 2026-11-06 |  |
 | [Floating Between Stars](https://open.spotify.com/track/1bS7vdDehLQ2KDtQfZB2UK) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Floating Between Stars](https://open.spotify.com/album/7g8FrNoShv3oyiiQZwSHSq) | 2:13 | 2026-07-24 |  |
 | [Forest Hymn](https://open.spotify.com/track/00m8oUFIcSrD9T1R6gilMm) | [Grainlight](https://open.spotify.com/artist/3DXZnGeduxqDsHpf3EoWVT) | [Forest Hymn](https://open.spotify.com/album/116zxSyx2crTOlJiogjquY) | 2:03 | 2026-09-18 |  |
 | [Garden Beneath the Waves](https://open.spotify.com/track/4qBXeJ5rrp5uYO7wMGhRtU) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [Garden Beneath the Waves](https://open.spotify.com/album/3UFPXjWB7d5PyGnksw1nB2) | 2:19 | 2026-07-24 | 2026-08-08 |
@@ -57,7 +58,9 @@
 | [Like Falling Leaves](https://open.spotify.com/track/4dcq8Vl6dEmLSlvp9JmRsB) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Like Falling Leaves](https://open.spotify.com/album/0ZksxbzR9FmTtkFN5JiCf5) | 3:12 | 2026-10-02 |  |
 | [Long Fold](https://open.spotify.com/track/6DhRY1ZFTT406noY4GFqTT) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Long Fold](https://open.spotify.com/album/5V2b9EkDXWYsbU5llbbRer) | 2:09 | 2026-07-24 |  |
 | [Lush Moments](https://open.spotify.com/track/1w2qcmXzP2hXRbHSxTSlPZ) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Lush Moments](https://open.spotify.com/album/4B6sLcZQ22Cql1Pvh35jXX) | 2:35 | 2026-09-18 |  |
+| [Memories, All Memories](https://open.spotify.com/track/0xnn1h4L7DrIzLWsF6t6zY) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Memories, All Memories](https://open.spotify.com/album/0skQVgBSmCzSq4UYjH78rf) | 2:23 | 2026-11-06 |  |
 | [Merry Christmas \(Mr\. Lawrence\)](https://open.spotify.com/track/0YnxRllgG67hW1PbZpPWiN) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Merry Christmas \(Mr\. Lawrence\)](https://open.spotify.com/album/1Qa8o4tkuCc9uhm9TjShMC) | 3:18 | 2026-10-30 |  |
+| [Midsummer Moss](https://open.spotify.com/track/0fJHCBEwrT0Ja56ERQrT3v) | [Lyraen](https://open.spotify.com/artist/0UWho9zZbWeCzDCPKaebro) | [Midsummer Moss](https://open.spotify.com/album/0cYWV6AB6hWYYWl5Sk7ynE) | 1:52 | 2026-11-06 |  |
 | [Mirage](https://open.spotify.com/track/7H7htG1WiHeKfwjfDMZQEW) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Mirage](https://open.spotify.com/album/0EoQqDYsCWiAOJRT6Wk5i5) | 2:51 | 2026-07-24 |  |
 | [Moonbeams Surrender](https://open.spotify.com/track/37wqS4GzPzkCRpHZESj8xM) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Moonbeams Surrender](https://open.spotify.com/album/1TCp1W9GjA1GVKcdTVyqXM) | 2:12 | 2026-08-07 |  |
 | [More Than Ever](https://open.spotify.com/track/15PunCqA3vo30NXBPdd4WH) | [Nikolai Hawthorne](https://open.spotify.com/artist/2HoCd4cQaTWNWbIFEXi4hG) | [More Than Ever](https://open.spotify.com/album/296EMbEe02k12d9d8rRrGe) | 2:25 | 2026-07-24 |  |

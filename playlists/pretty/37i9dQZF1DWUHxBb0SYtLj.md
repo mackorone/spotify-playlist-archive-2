@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Canta Fino a Dieci
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,005 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,003 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,26 +36,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 26 | [RÀRECHE](https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [RÀRECHE](https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al) | 2:51 |
 | 27 | [ARIA](https://open.spotify.com/track/2VbXos2OGdq0tfCpT3ORKi) | [EMSAISI](https://open.spotify.com/artist/2eTMp0eYaCw62RedR7SBci) | [ARIA](https://open.spotify.com/album/4rBLSYQdzIS5EgOGrqYQyx) | 2:43 |
 | 28 | [non c'è cura per me](https://open.spotify.com/track/6iGpfAUKhn6F5R3EMRXTxO) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [non c'è cura per me](https://open.spotify.com/album/5oN62roGTT4JERT4rtLe3c) | 2:47 |
-| 29 | [Tierra Viva](https://open.spotify.com/track/5QsmwdOgZEjjRlHi6bzsIK) | [JANAKI](https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip) | [Tierra Viva](https://open.spotify.com/album/4LLmwpBHDK6CR6tI8cZtv1) | 2:55 |
-| 30 | [California mediterranea](https://open.spotify.com/track/1n2Y4UUAyeHCwVsGf3jEgx) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [California mediterranea](https://open.spotify.com/album/0Xc419MxKwQok6BoBXD9U7) | 3:07 |
-| 31 | [Gioielli Neri](https://open.spotify.com/track/0F34WTdm0Yn2FFJtnMu3jf) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 2:46 |
-| 32 | [Kintsugi](https://open.spotify.com/track/60auNwFo4P6tKewfxWJplG) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Kintsugi](https://open.spotify.com/album/1hgpXUQ2FLa5G2Kj0j9URe) | 4:43 |
-| 33 | [Menta](https://open.spotify.com/track/19wKMAAoVgsRDNUDlzsYKD) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Menta](https://open.spotify.com/album/7D0f3jKkX6xxEKQziwCWv5) | 3:11 |
-| 34 | [Sunset On Our Skin](https://open.spotify.com/track/5i1kTbcmQBUiQpgGVfYwDp) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Afterimage](https://open.spotify.com/album/0julwZbyM6aewu9ojznaMW) | 3:44 |
-| 35 | [Mela](https://open.spotify.com/track/0yhZZsO3lbGniqWt8z0TbX) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Mela](https://open.spotify.com/album/3ExSOClbwvrodWGoFXQXUH) | 3:03 |
-| 36 | [stare fermi mette ansia](https://open.spotify.com/track/2F4RMFMEVkEkoBkjY2o4bD) | [solamente](https://open.spotify.com/artist/6ONrPaRh4v2QlSdZBfU0d1) | [stare fermi mette ansia](https://open.spotify.com/album/6baT0j0fhdYjCDftM6YqOe) | 2:12 |
-| 37 | [DISORDINE](https://open.spotify.com/track/2CKmKxtBMPqCyuflb1dgly) | [Dolens](https://open.spotify.com/artist/0s8BTHCXvTPpSClXrhAr4l) | [DISORDINE](https://open.spotify.com/album/4JcTUMrLZMzqYQervVkxxO) | 2:52 |
-| 38 | [Cliché](https://open.spotify.com/track/0O47OpDhVaa041KA9WzD87) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Isola](https://open.spotify.com/album/22DqsM3rSU738Ffok1wCjD) | 3:11 |
-| 39 | [detto tra noi](https://open.spotify.com/track/0VniDFp03BXAxrfVDrNivj) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [detto tra noi](https://open.spotify.com/album/39qOUV61ZmnICK0OCDzyMc) | 3:26 |
-| 40 | [Miss](https://open.spotify.com/track/5PTasnhkAF8nEFH6AlIVGo) | [Paola Turci](https://open.spotify.com/artist/7dNlfF1yoOCoclHmZuUemi) | [Pezzi di Amore a Dismisura](https://open.spotify.com/album/0tlbRJescAJJmJPYhu1R7z) | 4:26 |
-| 41 | [iDOLL](https://open.spotify.com/track/0ZMDgqz55LvzpwgKSHHmJB) | [Camilla PNK](https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd) | [iDOLL](https://open.spotify.com/album/0Fz6vsPp0a6VDsIDoLsgaM) | 3:21 |
-| 42 | [Pane ed audacia](https://open.spotify.com/track/4prfcqk8hssfShMz4dUt1u) | [Elisa Benetti](https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil) | [Pane ed audacia](https://open.spotify.com/album/1sBeLZCys6fVYWAKi51gnm) | 1:58 |
-| 43 | [Niente è poi così cambiato](https://open.spotify.com/track/7LgDApofNA5T779BRZt3oJ) | [Gaia Morelli](https://open.spotify.com/artist/3tgCaL6JQGlCnLmNyjs84B) | [Niente è poi così cambiato](https://open.spotify.com/album/1JNd2HeaxsFmEHCQhPneVv) | 4:54 |
-| 44 | [Naufraghi ed eroi](https://open.spotify.com/track/1UI0DNjhWBGSydHOihkNCx) | [Gloria Tricamo](https://open.spotify.com/artist/58lKFq1ZTU6IH6NWkmObn0) | [Naufraghi ed eroi](https://open.spotify.com/album/1RQEdrRRCj9QCIRpgCKhyG) | 3:47 |
-| 45 | [uno come te](https://open.spotify.com/track/5snhyBjIzLUezG5qurRnB6) | [Corinna](https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6) | [uno come te](https://open.spotify.com/album/6wRj7L6pXCJa1IjDgHVDQT) | 3:19 |
-| 46 | [Oki](https://open.spotify.com/track/0VvjGOqozrA3l33E0NZkmE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 2:13 |
-| 47 | [MORIRE](https://open.spotify.com/track/1hsq9SzCtvn3dy3oUPwPKS) | [Sofia Ara](https://open.spotify.com/artist/3v9xDbDuSjqE4eEVjSNxAj) | [MORIRE](https://open.spotify.com/album/3XCgbLttXgoZPTvddECOFx) | 2:36 |
-| 48 | [CANTILENA](https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [CANTILENA](https://open.spotify.com/album/3ClaRhwmXv4gUZ3TWgtXsx) | 3:30 |
+| 29 | [Effetto Placebo](https://open.spotify.com/track/1fozJd7DUTXVLfP63qr5mY) | [Joe Elle](https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO) | [Effetto Placebo](https://open.spotify.com/album/4bxpuv89eUjcjrBijnsbIM) | 2:48 |
+| 30 | [Tierra Viva](https://open.spotify.com/track/5QsmwdOgZEjjRlHi6bzsIK) | [JANAKI](https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip) | [Tierra Viva](https://open.spotify.com/album/4LLmwpBHDK6CR6tI8cZtv1) | 2:55 |
+| 31 | [California mediterranea](https://open.spotify.com/track/1n2Y4UUAyeHCwVsGf3jEgx) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [California mediterranea](https://open.spotify.com/album/0Xc419MxKwQok6BoBXD9U7) | 3:07 |
+| 32 | [Gioielli Neri](https://open.spotify.com/track/0F34WTdm0Yn2FFJtnMu3jf) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 2:46 |
+| 33 | [Kintsugi](https://open.spotify.com/track/60auNwFo4P6tKewfxWJplG) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Kintsugi](https://open.spotify.com/album/1hgpXUQ2FLa5G2Kj0j9URe) | 4:43 |
+| 34 | [Menta](https://open.spotify.com/track/19wKMAAoVgsRDNUDlzsYKD) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Menta](https://open.spotify.com/album/7D0f3jKkX6xxEKQziwCWv5) | 3:11 |
+| 35 | [Sunset On Our Skin](https://open.spotify.com/track/5i1kTbcmQBUiQpgGVfYwDp) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Afterimage](https://open.spotify.com/album/0julwZbyM6aewu9ojznaMW) | 3:44 |
+| 36 | [Mela](https://open.spotify.com/track/0yhZZsO3lbGniqWt8z0TbX) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Mela](https://open.spotify.com/album/3ExSOClbwvrodWGoFXQXUH) | 3:03 |
+| 37 | [stare fermi mette ansia](https://open.spotify.com/track/2F4RMFMEVkEkoBkjY2o4bD) | [solamente](https://open.spotify.com/artist/6ONrPaRh4v2QlSdZBfU0d1) | [stare fermi mette ansia](https://open.spotify.com/album/6baT0j0fhdYjCDftM6YqOe) | 2:12 |
+| 38 | [DISORDINE](https://open.spotify.com/track/2CKmKxtBMPqCyuflb1dgly) | [Dolens](https://open.spotify.com/artist/0s8BTHCXvTPpSClXrhAr4l) | [DISORDINE](https://open.spotify.com/album/4JcTUMrLZMzqYQervVkxxO) | 2:52 |
+| 39 | [Cliché](https://open.spotify.com/track/0O47OpDhVaa041KA9WzD87) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Isola](https://open.spotify.com/album/22DqsM3rSU738Ffok1wCjD) | 3:11 |
+| 40 | [detto tra noi](https://open.spotify.com/track/0VniDFp03BXAxrfVDrNivj) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [detto tra noi](https://open.spotify.com/album/39qOUV61ZmnICK0OCDzyMc) | 3:26 |
+| 41 | [Miss](https://open.spotify.com/track/5PTasnhkAF8nEFH6AlIVGo) | [Paola Turci](https://open.spotify.com/artist/7dNlfF1yoOCoclHmZuUemi) | [Pezzi di Amore a Dismisura](https://open.spotify.com/album/0tlbRJescAJJmJPYhu1R7z) | 4:26 |
+| 42 | [iDOLL](https://open.spotify.com/track/0ZMDgqz55LvzpwgKSHHmJB) | [Camilla PNK](https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd) | [iDOLL](https://open.spotify.com/album/0Fz6vsPp0a6VDsIDoLsgaM) | 3:21 |
+| 43 | [Pane ed audacia](https://open.spotify.com/track/4prfcqk8hssfShMz4dUt1u) | [Elisa Benetti](https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil) | [Pane ed audacia](https://open.spotify.com/album/1sBeLZCys6fVYWAKi51gnm) | 1:58 |
+| 44 | [Niente è poi così cambiato](https://open.spotify.com/track/7LgDApofNA5T779BRZt3oJ) | [Gaia Morelli](https://open.spotify.com/artist/3tgCaL6JQGlCnLmNyjs84B) | [Niente è poi così cambiato](https://open.spotify.com/album/1JNd2HeaxsFmEHCQhPneVv) | 4:54 |
+| 45 | [Naufraghi ed eroi](https://open.spotify.com/track/1UI0DNjhWBGSydHOihkNCx) | [Gloria Tricamo](https://open.spotify.com/artist/58lKFq1ZTU6IH6NWkmObn0) | [Naufraghi ed eroi](https://open.spotify.com/album/1RQEdrRRCj9QCIRpgCKhyG) | 3:47 |
+| 46 | [uno come te](https://open.spotify.com/track/5snhyBjIzLUezG5qurRnB6) | [Corinna](https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6) | [uno come te](https://open.spotify.com/album/6wRj7L6pXCJa1IjDgHVDQT) | 3:19 |
+| 47 | [Oki](https://open.spotify.com/track/0VvjGOqozrA3l33E0NZkmE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 2:13 |
+| 48 | [MORIRE](https://open.spotify.com/track/1hsq9SzCtvn3dy3oUPwPKS) | [Sofia Ara](https://open.spotify.com/artist/3v9xDbDuSjqE4eEVjSNxAj) | [MORIRE](https://open.spotify.com/album/3XCgbLttXgoZPTvddECOFx) | 2:36 |
 | 49 | [che paura!](https://open.spotify.com/track/6O6eDnn6UXfpcZtqhWuFPp) | [Nuvola](https://open.spotify.com/artist/1DxW7i7SZhmYiNxXIYbV79) | [che paura!](https://open.spotify.com/album/2wonxzsDGxnZa8U6YeHgVa) | 3:02 |
 | 50 | [STRIPPER](https://open.spotify.com/track/6WwWznct55Qb36IN8gnk5y) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [STRIPPER](https://open.spotify.com/album/4YC00XnYhLvJpj54BIyzLM) | 1:54 |
 | 51 | [Una goccia nel bicchiere, una goccia nell'oceano](https://open.spotify.com/track/14XLrt2ff5WNe9sIHhwsoS) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo) | [Una goccia nel bicchiere, una goccia nell'oceano](https://open.spotify.com/album/36Ti8pA05lnr8WdJZIFk60) | 1:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 98 | [EPOPEA](https://open.spotify.com/track/05mDwE36rqUW2IgFtcYb9s) | [Dolcenera](https://open.spotify.com/artist/7lkfsloQGm2Z9S9kbmIcFU) | [EPOPEA](https://open.spotify.com/album/6ct2FPdsokHI37rESrlSne) | 3:17 |
 | 99 | [A parte me](https://open.spotify.com/track/239cYDy7zwE2yFqiswOtZL) | [Elena D'Elia](https://open.spotify.com/artist/1uWkqyyuDWWp2rcrFl1LrN) | [A parte me](https://open.spotify.com/album/3ZvhNYl6OS0g2mju1aGcae) | 2:56 |
 
-Snapshot ID: `AAAAAO97kxv3NkO1MIbnewyrUTCjOT3i`
+Snapshot ID: `AAAAADD0+U8JR235BZgv5p8Qnie9NuFh`

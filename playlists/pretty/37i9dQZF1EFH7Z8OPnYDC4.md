@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 334 songs - 19 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 334 songs - 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 295 | [So Much You Loved Me](https://open.spotify.com/track/759jerZunufrH7XU6vd4PS) | [Penny Fuller](https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 2:51 |
 | 296 | [No Song More Pleasing](https://open.spotify.com/track/6xNDaL7NdI23uTxtBkHqEs) | [Ed Evanko](https://open.spotify.com/artist/09DMGd39KE9MtB6oovugmo), [Nicol Williamson](https://open.spotify.com/artist/40RoUcmgirwMpNr79bUwU8) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 2:29 |
 | 297 | [An Old Man \(From "Two by Two"\)](https://open.spotify.com/track/76VLkCuG7iQHwJT1JwkXBO) | [MARTIN CHARNIN](https://open.spotify.com/artist/719ecBJXBS9CW9kumYz5Tn) | [Behind the Curtain \- Broadway Composers & Lyricists Sing Their Songs](https://open.spotify.com/album/0YXUWVX1yF2VP8H0llWQTS) | 2:33 |
-| 298 | [Can't You Do A Friend A Favour](https://open.spotify.com/track/1ejdkmcuPPi1rFEBYD0u6Y) | [Dick Foran](https://open.spotify.com/artist/3CjTTAjzgN2IcZ0aJxgRDS), [Vivienne Segal](https://open.spotify.com/artist/0vkidcQqa2Ytye9LfHAtES) | [A Connecticut Yankee \- Original Broadway Cast](https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh) | 3:02 |
-| 299 | [You Took Advantage of Me / Do I Hear You Saying ''I Love You'' \- From the Musical ''Present Arms''](https://open.spotify.com/track/3ewJOBNYDB8utP7crgHr5g) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Deane Janis](https://open.spotify.com/artist/6kJih1Kejtd8n7KShKto1T) | [Smash Song Hits by Rodgers & Hart](https://open.spotify.com/album/2wvr5n6mleHMPmiXkGDCv2) | 2:59 |
+| 298 | [You Took Advantage of Me / Do I Hear You Saying ''I Love You'' \- From the Musical ''Present Arms''](https://open.spotify.com/track/3ewJOBNYDB8utP7crgHr5g) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Deane Janis](https://open.spotify.com/artist/6kJih1Kejtd8n7KShKto1T) | [Smash Song Hits by Rodgers & Hart](https://open.spotify.com/album/2wvr5n6mleHMPmiXkGDCv2) | 2:59 |
+| 299 | [Can't You Do A Friend A Favour](https://open.spotify.com/track/1ejdkmcuPPi1rFEBYD0u6Y) | [Dick Foran](https://open.spotify.com/artist/3CjTTAjzgN2IcZ0aJxgRDS), [Vivienne Segal](https://open.spotify.com/artist/0vkidcQqa2Ytye9LfHAtES) | [A Connecticut Yankee \- Original Broadway Cast](https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh) | 3:02 |
 | 300 | [Bottoms Up](https://open.spotify.com/track/4YSt1z0TsYC45igIjC1UXu) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 2:06 |
 | 301 | [Here's A Hand](https://open.spotify.com/track/2g50wolJ6e6sFzgOvPap6r) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 2:37 |
 | 302 | [In The Gateway Of The Temple Of Minerva](https://open.spotify.com/track/4KVj5KAJTKiJcbAnXq6hc5) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 1:34 |
@@ -343,4 +343,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 333 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 | 334 | [She Could Shake the Maracas](https://open.spotify.com/track/4pJIB4iNu8GeqjGOwZRxmw) | [George Abbott](https://open.spotify.com/artist/4pNU6xIv6pHseJVwo9Bis1) | [Too Many Girls](https://open.spotify.com/album/035x7wyVllNXrldHkXE67P) | 2:15 |
 
-Snapshot ID: `AcgzgAAAAAAKLC9Oa3a7QMptOdPgu7PX`
+Snapshot ID: `Acg5IAAAAAC8v0UtKWiR4NsfszKH0zHb`

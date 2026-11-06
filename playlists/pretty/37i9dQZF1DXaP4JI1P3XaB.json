@@ -1,13 +1,81 @@
 {
   "description": "A warm glittering glow of ambient jazz.",
-  "num_followers": 14407,
+  "num_followers": 14464,
   "original_name": "Twinkly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAK61LHuAF2CjOM5ZpzjCXG7WBj",
+  "snapshot_id": "AAAAAD8COKyzFpTs/sqlsTJsRLdaQWMO",
   "tracks": [
+    {
+      "added_at": "2026-10-09 12:29:07",
+      "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/6IT3XFem0qpEue9Q6kXOP3"
+      },
+      "artists": [
+        {
+          "name": "Resavoir",
+          "url": "https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV"
+        }
+      ],
+      "duration_ms": 133767,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/7l4d9qUYwO1nXcMDME0WQV"
+    },
+    {
+      "added_at": "2026-11-06 02:38:13",
+      "album": {
+        "name": "as it tilts",
+        "url": "https://open.spotify.com/album/0nBB9kRqeOxucPEgOwuGin"
+      },
+      "artists": [
+        {
+          "name": "al.so",
+          "url": "https://open.spotify.com/artist/2UzGCNmaCAKmITtDdjUBdL"
+        },
+        {
+          "name": "Moses Yoofee",
+          "url": "https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ"
+        },
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6w4kDiIXFWEtuLHLbd9zSC"
+        },
+        {
+          "name": "Marius Max",
+          "url": "https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs"
+        },
+        {
+          "name": "Miriam Adefris",
+          "url": "https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev"
+        }
+      ],
+      "duration_ms": 176810,
+      "name": "as it tilts",
+      "url": "https://open.spotify.com/track/2BAqRjeyNCzsUtVptGDX0n"
+    },
+    {
+      "added_at": "2026-11-06 02:38:13",
+      "album": {
+        "name": "Moraines",
+        "url": "https://open.spotify.com/album/2767TnYKqoXJwVe5vL7Xz8"
+      },
+      "artists": [
+        {
+          "name": "Sha",
+          "url": "https://open.spotify.com/artist/4F4kkO0k46EEIFD0m5AnxS"
+        },
+        {
+          "name": "Stuart Bogie",
+          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
+        }
+      ],
+      "duration_ms": 519850,
+      "name": "Miniature 8",
+      "url": "https://open.spotify.com/track/6YT8DkYYeMdxWU3rFGp07p"
+    },
     {
       "added_at": "2026-10-23 13:05:59",
       "album": {
@@ -27,38 +95,70 @@
     {
       "added_at": "2026-10-09 12:29:07",
       "album": {
-        "name": "Above the Clouds",
-        "url": "https://open.spotify.com/album/6IT3XFem0qpEue9Q6kXOP3"
+        "name": "Nathan Haines presents The Soft Chaos",
+        "url": "https://open.spotify.com/album/2y23SBdQQTfOfHd1N8J143"
       },
       "artists": [
         {
-          "name": "Resavoir",
-          "url": "https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV"
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
         }
       ],
-      "duration_ms": 133767,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/7l4d9qUYwO1nXcMDME0WQV"
+      "duration_ms": 175248,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/7alWiD8ILInzc7RcmGztnw"
     },
     {
-      "added_at": "2026-10-02 12:27:26",
+      "added_at": "2026-11-06 02:38:13",
       "album": {
-        "name": "No Such Thing",
-        "url": "https://open.spotify.com/album/2dUPQfOFrIpDMaWIdEz8L5"
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
       },
       "artists": [
         {
-          "name": "Deniz Cuylan",
-          "url": "https://open.spotify.com/artist/7b9GgoTytN5lMnZoQFFuRY"
-        },
-        {
-          "name": "Felbm",
-          "url": "https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 230855,
-      "name": "No Such Thing",
-      "url": "https://open.spotify.com/track/3djalDl19r0uL22mWLqh5k"
+      "duration_ms": 178870,
+      "name": "Azurit",
+      "url": "https://open.spotify.com/track/13CmQg0AH6TSLez3OpCQFg"
+    },
+    {
+      "added_at": "2026-11-06 02:38:13",
+      "album": {
+        "name": "Muriel Grossmann, T\u00f5nu Naissoo",
+        "url": "https://open.spotify.com/album/4uWtJHZ9Ypyny7gFqVy6Kg"
+      },
+      "artists": [
+        {
+          "name": "Muriel Grossmann",
+          "url": "https://open.spotify.com/artist/1r212Pvjn3jYwvHUNej9FP"
+        },
+        {
+          "name": "T\u00f5nu Naissoo",
+          "url": "https://open.spotify.com/artist/20zfjm7Y1RvBhEcf1lDrW5"
+        },
+        {
+          "name": "Radomir Milojkovic",
+          "url": "https://open.spotify.com/artist/1lFfVz8JXRYM0UXV3kbeUY"
+        },
+        {
+          "name": "Uro\u0161 Stamenkovi\u0107",
+          "url": "https://open.spotify.com/artist/3nzfyPrsbBvFVPcGRIQ2EB"
+        },
+        {
+          "name": "Kristjan J\u00f5em\u00e4gi",
+          "url": "https://open.spotify.com/artist/6xQPQtO2MBTwt1XpN8Mfqh"
+        },
+        {
+          "name": "Abel Boquera",
+          "url": "https://open.spotify.com/artist/4fg0xf3LtqQW4uXaC2Qzbz"
+        }
+      ],
+      "duration_ms": 318026,
+      "name": "Mirage No.5",
+      "url": "https://open.spotify.com/track/6yNoraLnrCJbUMZVVSZncT"
     },
     {
       "added_at": "2026-10-02 12:27:26",
@@ -85,48 +185,40 @@
       "url": "https://open.spotify.com/track/2ZB1ms89d3xpy92gvTDQC5"
     },
     {
-      "added_at": "2026-10-09 12:29:07",
+      "added_at": "2026-10-02 12:27:26",
       "album": {
-        "name": "Nathan Haines presents The Soft Chaos",
-        "url": "https://open.spotify.com/album/2y23SBdQQTfOfHd1N8J143"
+        "name": "No Such Thing",
+        "url": "https://open.spotify.com/album/2dUPQfOFrIpDMaWIdEz8L5"
       },
       "artists": [
         {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+          "name": "Deniz Cuylan",
+          "url": "https://open.spotify.com/artist/7b9GgoTytN5lMnZoQFFuRY"
+        },
+        {
+          "name": "Felbm",
+          "url": "https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7"
         }
       ],
-      "duration_ms": 175248,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/7alWiD8ILInzc7RcmGztnw"
+      "duration_ms": 230855,
+      "name": "No Such Thing",
+      "url": "https://open.spotify.com/track/3djalDl19r0uL22mWLqh5k"
     },
     {
       "added_at": "2026-10-02 12:27:26",
       "album": {
-        "name": "I Pianeti",
-        "url": "https://open.spotify.com/album/6cQumlwVZZixNxJ0zAhwj1"
+        "name": "Of The Earth",
+        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
       },
       "artists": [
         {
-          "name": "Sassofono Notturno",
-          "url": "https://open.spotify.com/artist/4xMgiEVoX9qsYQb4OuKr7R"
-        },
-        {
-          "name": "Stuart Bogie",
-          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
-        },
-        {
-          "name": "Dave Harrington",
-          "url": "https://open.spotify.com/artist/2ZEtnLILrDPXloC9ujwaJS"
-        },
-        {
-          "name": "Philip Weinrobe",
-          "url": "https://open.spotify.com/artist/13ZvNYwphjUEGViDNMTW8O"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
         }
       ],
-      "duration_ms": 283990,
-      "name": "Venere",
-      "url": "https://open.spotify.com/track/49AavYj2lqPuYDE3HQ0uS6"
+      "duration_ms": 202723,
+      "name": "A Future Untold",
+      "url": "https://open.spotify.com/track/63jNzoFz5BpQw5bnD5kKzf"
     },
     {
       "added_at": "2026-10-02 12:27:26",
@@ -187,6 +279,26 @@
     {
       "added_at": "2026-10-02 12:27:26",
       "album": {
+        "name": "I Was Not Sleeping",
+        "url": "https://open.spotify.com/album/0RL4c6eMUpjjqUvWdMtBec"
+      },
+      "artists": [
+        {
+          "name": "Danalogue",
+          "url": "https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu"
+        },
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "duration_ms": 242296,
+      "name": "Guest",
+      "url": "https://open.spotify.com/track/1Wt6rf6tGjoHUfpVOPwOzG"
+    },
+    {
+      "added_at": "2026-10-02 12:27:26",
+      "album": {
         "name": "A Few We Remember",
         "url": "https://open.spotify.com/album/5ErnMxu3YtR3U3MoLaAQV7"
       },
@@ -223,22 +335,6 @@
       "duration_ms": 147916,
       "name": "Evening Rose",
       "url": "https://open.spotify.com/track/5pQKBVWIIr5gyWNcJkz1S0"
-    },
-    {
-      "added_at": "2026-10-02 12:27:26",
-      "album": {
-        "name": "Of The Earth",
-        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 202723,
-      "name": "A Future Untold",
-      "url": "https://open.spotify.com/track/63jNzoFz5BpQw5bnD5kKzf"
     },
     {
       "added_at": "2026-10-02 12:27:26",
@@ -391,26 +487,6 @@
     {
       "added_at": "2026-10-02 12:27:26",
       "album": {
-        "name": "I Was Not Sleeping",
-        "url": "https://open.spotify.com/album/0RL4c6eMUpjjqUvWdMtBec"
-      },
-      "artists": [
-        {
-          "name": "Danalogue",
-          "url": "https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu"
-        },
-        {
-          "name": "Alabaster DePlume",
-          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
-        }
-      ],
-      "duration_ms": 242296,
-      "name": "Guest",
-      "url": "https://open.spotify.com/track/1Wt6rf6tGjoHUfpVOPwOzG"
-    },
-    {
-      "added_at": "2026-10-02 12:27:26",
-      "album": {
         "name": "Perpetual Care",
         "url": "https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY"
       },
@@ -475,22 +551,6 @@
       "duration_ms": 213276,
       "name": "Inner Space",
       "url": "https://open.spotify.com/track/3ITx6f9Vc0O1rsAXgZquHR"
-    },
-    {
-      "added_at": "2026-10-02 12:27:26",
-      "album": {
-        "name": "Next Time Could Be Your Last Time",
-        "url": "https://open.spotify.com/album/4zFcfpJNmwanLWygfE7ZgR"
-      },
-      "artists": [
-        {
-          "name": "Forgiveness",
-          "url": "https://open.spotify.com/artist/2cfSM4C3th9JvT6CrdQ8yT"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Lost Fawn",
-      "url": "https://open.spotify.com/track/0UCOuHoTh2XYLRdSuUn9v5"
     },
     {
       "added_at": "2026-10-02 12:27:26",
@@ -863,26 +923,6 @@
     {
       "added_at": "2026-10-02 12:27:26",
       "album": {
-        "name": "Pavel Milyakov & Bendik Giske",
-        "url": "https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx"
-      },
-      "artists": [
-        {
-          "name": "Pavel Milyakov",
-          "url": "https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo"
-        },
-        {
-          "name": "Bendik Giske",
-          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
-        }
-      ],
-      "duration_ms": 97876,
-      "name": "Untitled 7",
-      "url": "https://open.spotify.com/track/4oAMTQjWK3APisU7CBAeYR"
-    },
-    {
-      "added_at": "2026-10-02 12:27:26",
-      "album": {
         "name": "Smartwoods",
         "url": "https://open.spotify.com/album/6glgu7cwgVkrIpdcYUT0xF"
       },
@@ -895,34 +935,6 @@
       "duration_ms": 328000,
       "name": "Maybe Life",
       "url": "https://open.spotify.com/track/6DX4o6iwsiJaAxOvf94cw5"
-    },
-    {
-      "added_at": "2026-10-02 12:27:26",
-      "album": {
-        "name": "All is Sound",
-        "url": "https://open.spotify.com/album/2ERpYfTjriYp2AOELCkbv8"
-      },
-      "artists": [
-        {
-          "name": "The Cosmic Tones Research Trio",
-          "url": "https://open.spotify.com/artist/02vPysxzhpvrvhu2C7p4gu"
-        },
-        {
-          "name": "Roman Norfleet",
-          "url": "https://open.spotify.com/artist/0meb01iABayODpvfiqenTz"
-        },
-        {
-          "name": "Harlan Silverman",
-          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
-        },
-        {
-          "name": "Kennedy Verrett",
-          "url": "https://open.spotify.com/artist/2YijCh0VTMNQA8g6odY8eR"
-        }
-      ],
-      "duration_ms": 420041,
-      "name": "Creation",
-      "url": "https://open.spotify.com/track/4skLFsoPeLjR07ua8JGx9P"
     },
     {
       "added_at": "2026-10-02 12:27:26",

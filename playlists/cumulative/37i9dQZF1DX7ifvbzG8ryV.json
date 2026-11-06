@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"https://artists.spotify.com/songwriter/0agZf9y9Jb7sG3yPPqvYBN\">Reece Pullinger</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFHr9lqIT58J2\">Abi Flynn</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 159733,
       "name": "24/7 (feat. Ink)",
       "url": "https://open.spotify.com/track/4zLSN6kmgyLcxFrk7KH9rR"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -586,6 +586,24 @@
       "duration_ms": 171120,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/5Pg9dsZZd6DuanCKlehvMx"
+    },
+    {
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188260,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/44xO8889yUQHn70P73NILS"
     },
     {
       "album": {
@@ -969,6 +987,32 @@
     },
     {
       "album": {
+        "name": "come aliv3",
+        "url": "https://open.spotify.com/album/6NGo8P8BHmRUJY8uQufDgQ"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "come aliv3",
+      "url": "https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE"
+    },
+    {
+      "album": {
         "name": "Mad Woman",
         "url": "https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq"
       },
@@ -1136,7 +1180,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204878,
       "name": "Don't Check On Me (feat. Justin Bieber & Ink)",
       "url": "https://open.spotify.com/track/7ILEWkpfdK6AjH2D7jppWk"
@@ -1158,7 +1202,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 401075,
       "name": "Don't Worry (feat. Ink)",
       "url": "https://open.spotify.com/track/2MUTyvTF8gnrxz4KKNHkCo"
@@ -1716,6 +1760,28 @@
       "duration_ms": 157500,
       "name": "Henne",
       "url": "https://open.spotify.com/track/0CZaB672nWHHlTiLT4DfRV"
+    },
+    {
+      "album": {
+        "name": "Here In Your Arms",
+        "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152561,
+      "name": "Here In Your Arms",
+      "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
     },
     {
       "album": {
@@ -2913,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/5HajT51f4NCbAIANcVrlIe"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Shayan",
+          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162651,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ"
+    },
+    {
+      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ"
       },
@@ -2928,6 +3016,24 @@
       "duration_ms": 180674,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo"
+    },
+    {
+      "album": {
+        "name": "Packs and Potions",
+        "url": "https://open.spotify.com/album/1VkcWtwCE0ktxyiZqjkCzu"
+      },
+      "artists": [
+        {
+          "name": "HAZEY",
+          "url": "https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "Packs and Potions",
+      "url": "https://open.spotify.com/track/1DxRMgLoWXgmIFF2Unp5pD"
     },
     {
       "album": {
@@ -3048,7 +3154,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 392590,
       "name": "Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet)",
       "url": "https://open.spotify.com/track/6ajiOUVtxRjYcf1EvBDoV4"
@@ -3406,7 +3512,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 262413,
       "name": "shape of my heart",
       "url": "https://open.spotify.com/track/5jsCh0ups4J9HiKGs8OZ1a"
@@ -4494,7 +4600,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182187,
       "name": "wish you well",
       "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"

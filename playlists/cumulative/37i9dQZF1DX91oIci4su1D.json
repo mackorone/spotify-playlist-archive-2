@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Giuseppe Ottaviani and Hypaton",
+  "description": "Above & Beyond is our fav bromance",
   "name": "trance mission",
   "tracks": [
     {
@@ -8806,7 +8806,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220821,
       "name": "Faultline",
       "url": "https://open.spotify.com/track/1ohbar8IexoLGkxFiwwqPT"
@@ -19004,7 +19004,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 212903,
       "name": "Origins",
       "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
@@ -24844,7 +24844,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 188108,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
@@ -28430,6 +28430,28 @@
       "duration_ms": 176518,
       "name": "Wasted On Your Love",
       "url": "https://open.spotify.com/track/3xbpj9eJNkvtw6abm806ci"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6vRwDEY1SKVzvS4WkDhOYu"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184414,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/2rhmjUU57blXd38ket5gNE"
     },
     {
       "album": {

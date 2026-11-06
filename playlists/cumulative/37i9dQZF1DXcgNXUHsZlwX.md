@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-667 songs - 1 day 15 hr 35 min
+669 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 | 2022-05-20 | 2025-02-13 |
 | [1000 Times](https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh) | [Metò](https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2) | [1000 Times](https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s) | 3:57 | 2022-09-23 | 2023-03-06 |
 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 | 2025-11-28 |  |
+| [2BL](https://open.spotify.com/track/22pEbo1EUf5EV78Iq8gLzX) | [Olivia Khoury](https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe) | [2BL](https://open.spotify.com/album/4E8hVwEh55usj2mIdawxzV) | 4:21 | 2026-11-06 |  |
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* | 2024-10-18 |
 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 | 2023-11-10 | 2026-04-04 |
 | [A Brand New Color](https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV) | [Gaspard Eden](https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu) | [Crooked Lines](https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L) | 3:22 | 2025-11-28 | 2026-05-10 |
@@ -106,7 +107,7 @@
 | [Crier tout bas](https://open.spotify.com/track/4tWyK8bdS4YUkpXZIW9uav) | [Gabriel Cyr](https://open.spotify.com/artist/2sqgY6vt8CHeaCIfLcw6J8) | [La Voix 2019](https://open.spotify.com/album/0R9SDt52a9zP9PQ1f1uN6z) | 3:46 | 2021-02-22 | 2021-05-28 |
 | [Dagues](https://open.spotify.com/track/6UzLLH6dYuOvpjnavhDQS0) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Dans le noir](https://open.spotify.com/album/6acP1CsAciv95uGVTNfNe7) | 3:51 | 2021-01-15 | 2022-06-22 |
 | [Dahlia](https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Dahlia](https://open.spotify.com/album/2JIQTUXCAVjUq0LvLbZFMr) | 4:17 | 2021-01-03\* | 2022-07-23 |
-| [Dahlia](https://open.spotify.com/track/3agckIPLw6x61oiODAdth4) | [Violette Lapierre](https://open.spotify.com/artist/2yf6K4enZDC4UntKaEdQSO), [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Dahlia](https://open.spotify.com/album/79I7Ni0EYfsnW4wjjlc8KD) | 3:22 | 2026-09-11 |  |
+| [Dahlia](https://open.spotify.com/track/3agckIPLw6x61oiODAdth4) | [Violette Lapierre](https://open.spotify.com/artist/2yf6K4enZDC4UntKaEdQSO), [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Dahlia](https://open.spotify.com/album/79I7Ni0EYfsnW4wjjlc8KD) | 3:22 | 2026-09-11 | 2026-11-06 |
 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 | 2021-11-28 |  |
 | [Dans tes bras](https://open.spotify.com/track/6MqZU9IaaFM7LPNuRnFlUf) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Dans tes bras](https://open.spotify.com/album/5SbmPKpoZHhRMMeh2KTM76) | 4:01 | 2021-01-03\* | 2021-05-08 |
 | [Dans une autre cour](https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Dans une autre cour](https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN) | 2:24 | 2026-03-27 |  |
@@ -124,7 +125,7 @@
 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 | 2024-05-17 |  |
 | [Différent](https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Différent](https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk) | 3:59 | 2026-06-19 | 2026-07-25 |
 | [Dis\-moi où tu m'emmènes](https://open.spotify.com/track/7yL5X05lVrh1oybCGCzwHg) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Dis\-moi où tu m'emmènes](https://open.spotify.com/album/1g74s7wR4aXTqv9XzIAHtE) | 3:37 | 2021-09-19 | 2021-11-13 |
-| [Dis\-moi, dis\-moi](https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg) | [Bain Marie](https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J) | [I Liked Blue After You](https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD) | 2:58 | 2026-07-24 |  |
+| [Dis\-moi, dis\-moi](https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg) | [Bain Marie](https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J) | [I Liked Blue After You](https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD) | 2:58 | 2026-07-24 | 2026-11-06 |
 | [Dizzy](https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Dizzy](https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7) | 3:03 | 2026-04-10 |  |
 | [Dog \(everybody learns\)](https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [Dog \(everybody learns\)](https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP) | 3:13 | 2026-02-27 |  |
 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 | 2024-08-23 | 2025-11-01 |
@@ -539,6 +540,7 @@
 | [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 | 2026-08-21 |  |
 | [Si on allait](https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw) | [Huriel](https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K) | [Si on allait](https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3) | 4:07 | 2026-09-18 | 2026-10-21 |
 | [Si tu reviens](https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Les grandes artères](https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY) | 3:24 | 2022-01-07 |  |
+| [Sigh](https://open.spotify.com/track/5uBsu8EKK5V5xYMn0RHMQg) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Jardim Celeste](https://open.spotify.com/album/0Z68VsoFNwsAMLtacdMZj5) | 2:19 | 2026-11-06 |  |
 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-18 |  |
 | [Silver and Red](https://open.spotify.com/track/3F1E4OIeBjrsLUiukpbxsa) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 2:20 | 2025-02-11 | 2025-11-08 |
 | [Snow Lake](https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna Nocturne](https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633) | 1:27 | 2026-06-19 | 2026-09-26 |

@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,669 songs - 4 day 1 hr 27 min
+1,671 songs - 4 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [I Want You Back](https://open.spotify.com/track/7q4Iqyw5CAs1aNKDpoIPrn) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [I Want You Back](https://open.spotify.com/album/1aiRCxVwHHvX14A8RtAD2D) | 1:40 | 2026-03-03 | 2026-03-25 |
 | [I Want You to Have His Child](https://open.spotify.com/track/43mFN59dUNwEvInNoesgLQ) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [I Want You to Have His Child](https://open.spotify.com/album/0hVr79M7UOi35HI8OieMUn) | 3:19 | 2026-08-26 | 2026-09-20 |
 | [I Will Love You from a Distance](https://open.spotify.com/track/0PepuaiCDgj52qytX7cH8T) | [Melissa Corpus](https://open.spotify.com/artist/0gju7dDWpRtQTmqAl8IH5x) | [I Will Love You from a Distance](https://open.spotify.com/album/5M0PDpmBP3Y1qAo1Fs69ue) | 3:46 | 2026-10-14 |  |
+| [I wish you stayed](https://open.spotify.com/track/4MX1Q3Ei03EF5DxcW9kdyU) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [I wish you stayed](https://open.spotify.com/album/45np5eq9SrGD3UmAyy2uiL) | 2:32 | 2026-11-05 |  |
 | [I'll Be OK](https://open.spotify.com/track/5fMsoHcyvFOSURtJF4TOXf) | [The Last Light](https://open.spotify.com/artist/7KWkGqTZIDX12N4Atp8IPl) | [I'll Be OK](https://open.spotify.com/album/5IVbzLtCTRyti6RxCMwUEs) | 3:40 | 2026-02-27 | 2026-04-12 |
 | [I'm alive and babe I feel just fine](https://open.spotify.com/track/6v5QIehM9nnneicMSAg4hk) | [nickoko](https://open.spotify.com/artist/6wObq7MdbtGkGoUtwjCf98) | [I'm alive and babe I feel just fine](https://open.spotify.com/album/3dXXfCpwn5gmnP7si8RmAH) | 3:24 | 2026-01-06 | 2026-02-03 |
 | [I'm Asking](https://open.spotify.com/track/03Jv9vcDC0TEAIDuJ5Y2QF) | [Joe Scorza](https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd) | [I'm Asking](https://open.spotify.com/album/1h16OO3LlozvuSE3snjib8) | 3:27 | 2026-08-04 | 2026-08-30 |
@@ -1340,6 +1341,7 @@
 | [Sweet Girls](https://open.spotify.com/track/77qyDQXVcgz8MzuUme9zwn) | [Nina Gabriela](https://open.spotify.com/artist/2S5l1YffxlvE9SD3I3dW3Q) | [Sweet Girls](https://open.spotify.com/album/25aLcpfG4Z6NVOQb7Vo9tm) | 3:44 | 2025-12-09 | 2026-01-05 |
 | [SWEET NIGHTMARE](https://open.spotify.com/track/0ln2EyNXSX3QVnn0GEUqrD) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [SWEET NIGHTMARE](https://open.spotify.com/album/2EXnFLTtlpycQAlvRh7ytz) | 2:53 | 2026-01-27 | 2026-02-28 |
 | [Tabarin Olimpo](https://open.spotify.com/track/0zx1sI687IumtecEwm65XF) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Nuna Shoesmith](https://open.spotify.com/artist/7eevOjRHVIZeK6Jlr1MLXT), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [Tabarin Olimpo](https://open.spotify.com/album/3lvNDzEgkO53jWIvKJfAnf) | 3:58 | 2023-04-20 | 2025-11-29 |
+| [Tables Turned](https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh) | [Stella Maria](https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X) | [Tables Turned](https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l) | 2:55 | 2026-11-05 |  |
 | [Take A Lil' Time](https://open.spotify.com/track/1oVCeQADHIZKSb492xwk1S) | [Tristan Hutton](https://open.spotify.com/artist/6bXZTbs3GVfsdT6HyQVw2w) | [Take A Lil' Time](https://open.spotify.com/album/4RAQc3RTorlP1eLpWwmVFV) | 4:00 | 2026-04-21 | 2026-06-05 |
 | [Take Another Five](https://open.spotify.com/track/1O1xN7gqn6EiJsvVu1iwlc) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Take Another Five](https://open.spotify.com/album/0NDfQWb2uYD9r0xRRI1TG4) | 2:30 | 2025-10-17 | 2026-04-12 |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-04-13 | 2026-05-14 |

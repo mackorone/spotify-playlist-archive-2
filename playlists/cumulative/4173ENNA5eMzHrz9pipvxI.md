@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Sigala
 
-2,098 songs - 4 day 5 hr 1 min
+2,099 songs - 4 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [A Shaman’s Mantra](https://open.spotify.com/track/6bPtNfftPzeFNTTtfiUgD3) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Shaman EP](https://open.spotify.com/album/4Kr0R4hyXt1nBrKVyjTHvj) | 3:03 | 2023-02-02 | 2023-02-18 |
 | [Abasazi](https://open.spotify.com/track/3r8exiq2w9lU0A2rL5snyU) | [Maurya Sevak](https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs) | [Abasazi](https://open.spotify.com/album/1Q91loVumQiTaolkqat2n9) | 3:08 | 2026-05-21 |  |
 | [About This](https://open.spotify.com/track/4kqhRmXIDxQYARJ2fKLvzC) | [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [About This](https://open.spotify.com/album/2AFW3csXkeTUI8gyMN3aiz) | 2:34 | 2022-07-15 | 2022-07-30 |
+| [Absolute](https://open.spotify.com/track/08GLdJkqn0Yl8F7jSfFyW3) | [melih sarı](https://open.spotify.com/artist/4jWUd2mZBkpbX6Oj4KQktW) | [Absolute](https://open.spotify.com/album/3nuWQaaxkrXa8bpWVfeSUy) | 2:33 | 2026-11-05 |  |
 | [Acid Trippin](https://open.spotify.com/track/2gYzy5SfOuhkRyb5wWrNnw) | [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf) | [Acid Trippin](https://open.spotify.com/album/4v3t6qrqe1op5ZG5EaWZjK) | 2:39 | 2022-10-28 | 2022-11-11 |
 | [Addicted 2 U \(feat\. Preston Harris, Trxnz\)](https://open.spotify.com/track/0TrFKndsCS4nXlNcYwrath) | [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8), [Trxnz](https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm) | [Addicted 2 U \(feat\. Preston Harris, Trxnz\)](https://open.spotify.com/album/2964GOL4YU5xRNslzMpjs3) | 2:45 | 2026-05-29 |  |
 | [Addicted To Rave](https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:49 | 2024-04-26 | 2024-05-03 |

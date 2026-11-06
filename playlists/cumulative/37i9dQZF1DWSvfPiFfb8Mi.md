@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-484 songs - 1 day 7 hr 3 min
+485 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2023-05-19 | 2024-06-05 |
 | [Break My Heart / Cosmic Girl \(Dimitri From Paris Edit\) \[Mixed\]](https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:00 | 2021-07-24 | 2025-09-27 |
 | [Bring On Up Our Love](https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Bring On Up Our Love](https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP) | 3:49 | 2024-02-21 | 2026-07-18 |
+| [Broken Dreams](https://open.spotify.com/track/6jBwae7P8LQKjEvdaddgLU) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Peter and Kerry](https://open.spotify.com/artist/1rF521dtu6ReJEyMureStC) | [Broken Dreams](https://open.spotify.com/album/7ErN0dBIRuQt76VwbXyfK3) | 2:34 | 2026-10-16 |  |
 | [Bruises](https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Bruises](https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj) | 3:10 | 2023-06-16 | 2026-05-16 |
 | [cabo player](https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [cabo player](https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO) | 2:19 | 2023-10-13 |  |
 | [california](https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb) | [SUBURBIA \(after dark\)](https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA) | 3:28 | 2025-05-23 |  |
@@ -167,7 +168,7 @@
 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 | 2024-06-21 |  |
 | [Hell](https://open.spotify.com/track/7hrhqYPpBK0Nfu7JuhfM9a) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Hell](https://open.spotify.com/album/5TsYck3BbQUYcBw3qIz6Da) | 2:19 | 2026-10-02 |  |
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2024-11-08 | 2026-05-02 |
-| [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-17 |  |
+| [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-17 | 2026-11-06 |
 | [Higher](https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Higher](https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB) | 4:38 | 2024-10-11 | 2024-11-26 |
 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-29 | 2024-04-19 |
 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 | 2022-06-20 | 2023-05-20 |

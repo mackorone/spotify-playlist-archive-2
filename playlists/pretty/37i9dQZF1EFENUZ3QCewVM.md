@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649 likes - 129 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 650 likes - 129 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 | 129 | [Waste](https://open.spotify.com/track/1rcy2FwDuIUGuwcvo6phZq) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Dove Cameron](https://open.spotify.com/album/5nF32zN0rGr66Gvx2e8qdp) | 4:06 |
 
-Snapshot ID: `AcgzlAAAAAABD+KHtqnYiQ9oFcJVlmNA`
+Snapshot ID: `Acg5PgAAAADWUfkD1bxkUTWNH0cDTGVs`

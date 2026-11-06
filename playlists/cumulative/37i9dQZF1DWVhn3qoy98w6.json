@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: La Jvnta.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Diara.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168468,
       "name": "AA Ana Psic\u00f3loga",
       "url": "https://open.spotify.com/track/3WjDjxTiTzO6rrKdsC6G8U"
@@ -8410,6 +8410,24 @@
       "duration_ms": 182080,
       "name": "Algo Contigo",
       "url": "https://open.spotify.com/track/62eH9uTkFDm68nNQYREsGi"
+    },
+    {
+      "album": {
+        "name": "Algo de Inter\u00e9s",
+        "url": "https://open.spotify.com/album/7pIbnecevzc3kmk9oHa3Fm"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Bonilla",
+          "url": "https://open.spotify.com/artist/5JFA2iVNa6JsgL9h6vkxtz"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176650,
+      "name": "Algo de Inter\u00e9s",
+      "url": "https://open.spotify.com/track/7JCmG0A5TNbFeq59PJcRv7"
     },
     {
       "album": {
@@ -14034,7 +14052,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 169715,
       "name": "As\u00ed no es - Track 15",
       "url": "https://open.spotify.com/track/6MZPRKLSI8iSUysLEyIOPD"
@@ -16348,6 +16366,24 @@
       "duration_ms": 185247,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/3HboXBVlDXwFaFrkNtamng"
+    },
+    {
+      "album": {
+        "name": "Por ah\u00ed van los tiros",
+        "url": "https://open.spotify.com/album/21yN52NAF2taoMQZObh7HD"
+      },
+      "artists": [
+        {
+          "name": "La Jvnta",
+          "url": "https://open.spotify.com/artist/1wHptSDgqHuIBNzx5YbdkH"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130977,
+      "name": "Baile de la reyerta",
+      "url": "https://open.spotify.com/track/11XVQOjlNe1nhwFwXFR4pV"
     },
     {
       "album": {
@@ -26510,7 +26546,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178275,
       "name": "Chu chu ch\u00fa",
       "url": "https://open.spotify.com/track/3dtXGL1GErn7ODzUeI1biC"
@@ -29888,7 +29924,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 106046,
       "name": "comosuena",
       "url": "https://open.spotify.com/track/2qEeGTBlpm1b86PcXN9m85"
@@ -32250,7 +32286,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 130277,
       "name": "Corro Escapo",
       "url": "https://open.spotify.com/track/5zzKOqy58PB3ptNt0BDLiH"
@@ -36388,7 +36424,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178034,
       "name": "de m\u00ed, para m\u00ed",
       "url": "https://open.spotify.com/track/4i8O73zKMIAanJ2UxiUUKu"
@@ -52029,6 +52065,24 @@
     },
     {
       "album": {
+        "name": "Esa canci\u00f3n - Track 16",
+        "url": "https://open.spotify.com/album/5um57c4paP7ZxomCU9qbJK"
+      },
+      "artists": [
+        {
+          "name": "Alba Reig",
+          "url": "https://open.spotify.com/artist/26U5AD84foleMkGN02zIJ9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146926,
+      "name": "Esa canci\u00f3n - Track 16",
+      "url": "https://open.spotify.com/track/1sN1iSTUR2ZsExc7XszYGL"
+    },
+    {
+      "album": {
         "name": "Esa Carita",
         "url": "https://open.spotify.com/album/46MVH4ChHT4yjL7kDv8GZY"
       },
@@ -53966,6 +54020,24 @@
       "duration_ms": 153027,
       "name": "Este Trago Me Recuerda a Ti",
       "url": "https://open.spotify.com/track/00jS0KKP0zAIxx5y2K1PRp"
+    },
+    {
+      "album": {
+        "name": "estecuerpom\u00edo",
+        "url": "https://open.spotify.com/album/5yY2METM47is7eKeyYyk2M"
+      },
+      "artists": [
+        {
+          "name": "T\u00c9YOU",
+          "url": "https://open.spotify.com/artist/0X6EyLnyb4fJEmg1WnBwQv"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140270,
+      "name": "estecuerpom\u00edo",
+      "url": "https://open.spotify.com/track/0b1UNLFhCOcqGD0ATKVs7v"
     },
     {
       "album": {
@@ -61674,6 +61746,24 @@
       "duration_ms": 152202,
       "name": "GUAPO",
       "url": "https://open.spotify.com/track/7Mlbm8PnW1HhyosWntcqdG"
+    },
+    {
+      "album": {
+        "name": "PERRO GRANDE",
+        "url": "https://open.spotify.com/album/1dh5pcJiDR7qtbgISXIJ5S"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9cnicas y Procedimientos",
+          "url": "https://open.spotify.com/artist/7zSpEAeV9StUa2heFItReM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Guapo vas quedar",
+      "url": "https://open.spotify.com/track/7qkx8Kk3RXuug4McFi5nOm"
     },
     {
       "album": {
@@ -76738,7 +76828,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184717,
       "name": "Las cosas que te dir\u00eda",
       "url": "https://open.spotify.com/track/2RmGyojyaBOkqjJmF1je0F"
@@ -89268,7 +89358,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184347,
       "name": "Me hicieron irme",
       "url": "https://open.spotify.com/track/2AF5SmI8DYcgZSz4V94z23"
@@ -96118,7 +96208,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192399,
       "name": "Mucho Mejor",
       "url": "https://open.spotify.com/track/3UpRb0NrUiF9uV4nVDhCx5"
@@ -100152,6 +100242,24 @@
       "duration_ms": 351025,
       "name": "Ni guerra, ni paz",
       "url": "https://open.spotify.com/track/04JgAPaTd7tA21Gss1fjFy"
+    },
+    {
+      "album": {
+        "name": "Ni Lugar Ni Manera",
+        "url": "https://open.spotify.com/album/5twQXl7YhmA4QeOjww5UG7"
+      },
+      "artists": [
+        {
+          "name": "PRENDA",
+          "url": "https://open.spotify.com/artist/4CZAm9Ahn8YEemHClytQKk"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259971,
+      "name": "Ni Lugar Ni Manera",
+      "url": "https://open.spotify.com/track/6FkhKpzAydTDW3VXcf4157"
     },
     {
       "album": {
@@ -111717,6 +111825,28 @@
     },
     {
       "album": {
+        "name": "over",
+        "url": "https://open.spotify.com/album/79VZHRNH33UVR6U3HZGqDX"
+      },
+      "artists": [
+        {
+          "name": "Diara",
+          "url": "https://open.spotify.com/artist/0fppkzuQV4SQqCciw1ofXx"
+        },
+        {
+          "name": "iseekarlo",
+          "url": "https://open.spotify.com/artist/3j4R4YNDy0bqJ2io0ieObP"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "over",
+      "url": "https://open.spotify.com/track/0xbLBpaNupOGQZFqWhTsPH"
+    },
+    {
+      "album": {
         "name": "Over Your Body",
         "url": "https://open.spotify.com/album/4I1fcbA10cIAiIcT690r5o"
       },
@@ -116636,7 +116766,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 118000,
       "name": "picapica",
       "url": "https://open.spotify.com/track/36pZ2472MnadsMnOXDhVh8"
@@ -127011,6 +127141,24 @@
     },
     {
       "album": {
+        "name": "RH4U",
+        "url": "https://open.spotify.com/album/5Mpikxo9tnGVquvKx9cSj3"
+      },
+      "artists": [
+        {
+          "name": "Capros",
+          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165973,
+      "name": "RH4U",
+      "url": "https://open.spotify.com/track/6xEPE4wqoqtKet6inoYpyw"
+    },
+    {
+      "album": {
         "name": "Rica",
         "url": "https://open.spotify.com/album/1Dit3XnuKV1Fj7Q4HXWNCv"
       },
@@ -132272,6 +132420,28 @@
       "duration_ms": 214707,
       "name": "Sexy Jane",
       "url": "https://open.spotify.com/track/50wmi19eQwMhnvjCxdJ2GA"
+    },
+    {
+      "album": {
+        "name": "SexyHOT",
+        "url": "https://open.spotify.com/album/1Rbu1T8TTJJnyZ75RNzzkd"
+      },
+      "artists": [
+        {
+          "name": "FUTURACHICAPOP",
+          "url": "https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ"
+        },
+        {
+          "name": "Juan Anselmo",
+          "url": "https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258576,
+      "name": "SexyHOT",
+      "url": "https://open.spotify.com/track/28I9DF0YnYCiVdyxIEQbFF"
     },
     {
       "album": {
@@ -138934,6 +139104,24 @@
       "duration_ms": 171208,
       "name": "subliminal",
       "url": "https://open.spotify.com/track/0ec98UvK6YrS8wTEZj3bPD"
+    },
+    {
+      "album": {
+        "name": "Submarino",
+        "url": "https://open.spotify.com/album/17WnPU2MMdVu5nyQl6cHfa"
+      },
+      "artists": [
+        {
+          "name": "Marina Dom\u00ednguez",
+          "url": "https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166094,
+      "name": "Submarino",
+      "url": "https://open.spotify.com/track/4vvQrIi4ldNlLAOI4RsHiB"
     },
     {
       "album": {

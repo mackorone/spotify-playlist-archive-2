@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 43136,
+  "num_followers": 43138,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAAF7mVSqyscUMIAjfhUNCqV",
+  "snapshot_id": "aukkAAAAAAAg6M/9Dq6u9FGqJ/xNqzzC",
   "tracks": [
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estoy Perdiendo La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 202556,
-      "name": "Estoy Perdiendo La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
         "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 272146,
       "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
       "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
     },
     {
       "added_at": null,

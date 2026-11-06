@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,472 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,488 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 40 | [Pitsch\-Patsch, Pfützenmatsch](https://open.spotify.com/track/4D4sUEL0SGireh2vsZ2fxh) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Benjamin Blümchen Liederzoo: Wi\-Wa\-Wetterlieder](https://open.spotify.com/album/5eE3bos99SlobyGrDPfnCV) | 3:14 |
 | 41 | [Wir lassen Drachen steigen](https://open.spotify.com/track/0QyVx9G9Q9QoUmCyFTPUK6) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm) | [Wir lassen Drachen steigen \- In den Herbst mit Kalle Klang](https://open.spotify.com/album/76wd7S1ucbQqC307kEWFIr) | 2:43 |
 | 42 | [Herbst](https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Herbst \- EP](https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo) | 2:07 |
-| 43 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 |
-| 44 | [Wunderbar, der Herbst ist da](https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Der Herbst ist cool!](https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q) | 3:26 |
+| 43 | [Wunderbar, der Herbst ist da](https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Der Herbst ist cool!](https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q) | 3:26 |
+| 44 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 |
 | 45 | [Ich lass mich nicht ärgern](https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [Berlin Radio Children's Choir](https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ) | [Ich lass mich nicht ärgern](https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N) | 3:19 |
 | 46 | [Bratkartoffellied](https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC) | [Max Richard Leßmann](https://open.spotify.com/artist/69vPR9aR0CPLDKwTWxDXMG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:22 |
 | 47 | [Laubkonfetti \(Es ist Herbst\)](https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR) | [Grünschnabel](https://open.spotify.com/artist/3AaffDghvkRRfHVb6T1zUO) | [Lazuli\. Kindermusik für die ganze Familie](https://open.spotify.com/album/2sfVRAR8rBKcxBKTFodFvb) | 3:17 |
-| 48 | [Laterne, Laterne](https://open.spotify.com/track/5nb0zkKJSPLG8uXbJwVttC) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder für die Kleinen \- Zwergensprache \(Vol\. 2\)](https://open.spotify.com/album/0DGNWlTCnJ4HdeeBrKqxFx) | 1:49 |
+| 48 | [Der Herbst ist da](https://open.spotify.com/track/4RNzUmThhz8m9ERjPuUIV6) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Herbst \- EP](https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo) | 1:49 |
 | 49 | [Laternen leuchten überall](https://open.spotify.com/track/3ZEWBsTwEl6erQxRQPlzte) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 3:53 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 

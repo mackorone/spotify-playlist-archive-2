@@ -1,12 +1,12 @@
 {
   "description": "The best new indie music, indie folk &amp; rock discoveries. Fresh songs for your daily chill, focus and road trips. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists. Updated daily with new releases \u2014 hit save to stay tuned!",
-  "num_followers": 1335,
+  "num_followers": 1334,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAZPMzGt4zCVbOddvF/vZxKfdXtVBJ/",
+  "snapshot_id": "AAAZPovnVzYq71pOmDq+9N4Cs1mYQNIG",
   "tracks": [
     {
       "added_at": "2026-09-19 10:09:33",
@@ -2427,6 +2427,38 @@
       "duration_ms": 214853,
       "name": "Alfonsina Sin Mar",
       "url": "https://open.spotify.com/track/6uQV5Cdwpm91ctXoCw1g8x"
+    },
+    {
+      "added_at": "2026-11-05 08:10:56",
+      "album": {
+        "name": "I wish you stayed",
+        "url": "https://open.spotify.com/album/45np5eq9SrGD3UmAyy2uiL"
+      },
+      "artists": [
+        {
+          "name": "Prince Frencho",
+          "url": "https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ"
+        }
+      ],
+      "duration_ms": 152128,
+      "name": "I wish you stayed",
+      "url": "https://open.spotify.com/track/4MX1Q3Ei03EF5DxcW9kdyU"
+    },
+    {
+      "added_at": "2026-11-05 08:11:04",
+      "album": {
+        "name": "Tables Turned",
+        "url": "https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l"
+      },
+      "artists": [
+        {
+          "name": "Stella Maria",
+          "url": "https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X"
+        }
+      ],
+      "duration_ms": 175350,
+      "name": "Tables Turned",
+      "url": "https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh"
     }
   ],
   "unique_name": "New Indie Music",

@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,061 songs - 2 day 7 hr 4 min
+1,062 songs - 2 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 | 2021-02-27 | 2022-10-14 |
 | [Hot Rod](https://open.spotify.com/track/12j3KX5TkcAswLUUPMTNqA) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7CEcveuhikJxpej7s1Nypr) | 3:24 | 2019-08-01 | 2022-07-29 |
 | [Hot Rod](https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 3:24 | 2022-09-14 | 2023-08-26 |
-| [Hotel Swimming Pool](https://open.spotify.com/track/5LqcqOHr7Mu8KoLsNTCuYd) | [Jia](https://open.spotify.com/artist/68heyqN7ygVGuO0DqJjsDf) | [Technicolour](https://open.spotify.com/album/5J2IzDKKr8p5A9elzedpqn) | 3:58 | 2026-05-29 |  |
+| [Hotel Swimming Pool](https://open.spotify.com/track/5LqcqOHr7Mu8KoLsNTCuYd) | [Jia](https://open.spotify.com/artist/68heyqN7ygVGuO0DqJjsDf) | [Technicolour](https://open.spotify.com/album/5J2IzDKKr8p5A9elzedpqn) | 3:58 | 2026-05-29 | 2026-11-06 |
 | [how the hell did we end up here?](https://open.spotify.com/track/7g2ZfScI3hUoHAdpVO0P4Z) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [ache \(demos\)](https://open.spotify.com/album/5qNyLZnMwnZBv7NFXmChtV) | 1:25 | 2022-04-29 | 2022-06-14 |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-08-08 | 2023-08-26 |
 | [How Was Your Day?](https://open.spotify.com/track/5jx99x0wf2r9hzq0ekAmRr) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [How Was Your Day?](https://open.spotify.com/album/7rUsxlkjBKrKdumIkBMieZ) | 4:20 | 2020-10-03 | 2022-07-29 |
@@ -619,7 +619,7 @@
 | [MKP](https://open.spotify.com/track/2pDrWUk0ZU0W00Cw8290y2) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [MKP](https://open.spotify.com/album/5bKkJRL5LTQhl3BVbVrJ0U) | 3:40 | 2021-05-04 | 2021-05-28 |
 | [mmmmm](https://open.spotify.com/track/29vSgGJJgVntYlzaXdMlPT) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [soft songs](https://open.spotify.com/album/4wL7nOcMIwIY0zr7B1bEnb) | 1:16 | 2020-06-12 | 2021-05-23 |
 | [Moneymaker](https://open.spotify.com/track/5tLXBOJvOu48PjpW76VStm) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Moneymaker](https://open.spotify.com/album/5XDL6RZGrCHqt8vX49KeZU) | 3:00 | 2021-03-20 | 2021-07-26 |
-| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 | 2026-09-26 |
+| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 |  |
 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 | 2024-01-12 | 2025-02-11 |
 | [More To You](https://open.spotify.com/track/3kpXsXVUkPus5T7Qld833K) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [More To You](https://open.spotify.com/album/5wOG2cUteiFYJ9u19jHkzL) | 3:54 | 2021-05-01 | 2022-04-20 |
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2019-07-30\* | 2026-10-09 |
@@ -671,7 +671,7 @@
 | [Obsessed](https://open.spotify.com/track/5ltSjMyrvgd39401QOeF4V) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu), [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Obsessed](https://open.spotify.com/album/07NYcbMaGhVn9bsash5X0P) | 3:55 | 2019-10-17 | 2021-05-28 |
 | [Obvious](https://open.spotify.com/track/6T94xsn0hat3MyN8rvG9Br) | [The Polar Boys](https://open.spotify.com/artist/57Wc6hKk68L1KrjdA3Z8cd) | [Obvious](https://open.spotify.com/album/1xthMcNXqPT3Z4zneDOVWX) | 3:08 | 2021-05-27 | 2022-05-18 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-12-14 | 2023-08-26 |
-| [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 | 2019-07-30\* |  |
+| [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 | 2019-07-30\* | 2026-11-06 |
 | [OH GOD](https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5) | 2:12 | 2021-03-19 | 2022-06-14 |
 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 | 2019-07-31 | 2023-04-18 |
 | [Oh Well](https://open.spotify.com/track/2nGYf3UkZEsYZ5MfNjPDxx) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Oh Well](https://open.spotify.com/album/5RzwMQ6Vz6sRrAEke7rqjL) | 4:53 | 2022-03-04 |  |
@@ -767,6 +767,7 @@
 | [Running](https://open.spotify.com/track/4pbZ4wFXjGa92CsOlrscDL) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Running](https://open.spotify.com/album/5PYHrR4SV1E7ZwTmhyQGw3) | 2:38 | 2020-05-17 | 2022-04-20 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-03-04 | 2022-04-16 |
 | [Rush](https://open.spotify.com/track/1YVDXfQqscsz95OHzXtYj2) | [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP), [M.R.L.N](https://open.spotify.com/artist/6FdUPIozbiZTwiaxQXzMM5) | [Rush](https://open.spotify.com/album/5frGEFPYH8gC6ziIceNHPA) | 3:02 | 2019-07-30\* | 2020-04-23 |
+| [Sad](https://open.spotify.com/track/1LsbKa4Wr0aQwDYKK1Yueq) | [Sean Davidson](https://open.spotify.com/artist/6u0XWceCyNB6MJrRzB8498) | [Notebook 26](https://open.spotify.com/album/1L5i0JLzxeqWQMZQ2IvLjP) | 2:34 | 2026-11-06 |  |
 | [Safe Bet](https://open.spotify.com/track/1M5nsffIhlZC4OtQrNMiwZ) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Safe Bet](https://open.spotify.com/album/1Cd2uRXtyORXJDai5of0iN) | 3:08 | 2026-10-09 |  |
 | [Same as It Ever Was](https://open.spotify.com/track/2p4hVPCgzyB7OXDtcdoaWQ) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Same as It Ever Was](https://open.spotify.com/album/3WVb6l4hnwAxisjsG6FDrS) | 2:28 | 2021-08-27 | 2022-04-20 |
 | [Satellite](https://open.spotify.com/track/2ZePtlVh7zuwJuRsyDf0wv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Satellite](https://open.spotify.com/album/7CqjJX9zyeD5oGqhItutRJ) | 2:59 | 2023-04-17 | 2023-04-21 |

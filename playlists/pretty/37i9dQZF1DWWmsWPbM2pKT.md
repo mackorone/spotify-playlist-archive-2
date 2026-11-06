@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,458 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,561 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 47 | [Too Soon to Tell](https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 4:07 |
 | 48 | [Durdu Dunya](https://open.spotify.com/track/2OzRao3wILud6BTrsT2cnI) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/2ErVLQ217KC5srxpS3tQz9) | 4:49 |
 | 49 | [FRENCH TIPS](https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [ESPERA](https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh) | 2:27 |
-| 50 | [Please Stay](https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [Please Stay](https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz) | 3:50 |
+| 50 | [Common Coffin](https://open.spotify.com/track/5eOMtsu5okb1yFtlBqAIn7) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Departed](https://open.spotify.com/album/1joLW4jRpV9ELUuZtzLiVp) | 3:00 |
 
 Snapshot ID: `AAAAAPU89KJE5gLqoFxBlU4LNSTHdB3x`

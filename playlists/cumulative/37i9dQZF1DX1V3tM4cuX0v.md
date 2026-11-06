@@ -4,7 +4,7 @@
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: SKYLERR & kavabanga Depo kolibri
 
-234 songs - 11 hr 53 min
+235 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Посилать](https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Посилать](https://open.spotify.com/album/1s6ntybnzHb68tXPNPScFn) | 2:56 | 2025-04-17 | 2025-10-17 |
 | [Привіт\. Hello](https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Привіт\. Hello](https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o) | 3:02 | 2026-03-26 | 2026-06-12 |
 | [Прикуті](https://open.spotify.com/track/4KfdSyCZM6LY7WlATxIgfx) | [Kristonko](https://open.spotify.com/artist/0zazzKWsThTBwSOVbwBNZY) | [Прикуті](https://open.spotify.com/album/01jiq2sZMVJcY9UQd6NnvA) | 2:25 | 2026-04-27 |  |
+| [Принцеса](https://open.spotify.com/track/09VEXQKnA8JvSqAGSINDe9) | [DYKYI](https://open.spotify.com/artist/4MQqUxGDXVC2RVzYAy0OQ0), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Принцеса](https://open.spotify.com/album/2tPEWFp9Di6ZrCQJP5P7BS) | 2:51 | 2026-11-05 |  |
 | [Півонії](https://open.spotify.com/track/6mkdNIS7OOMndjXVzgyA13) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Півонії](https://open.spotify.com/album/6CJD937GwNOJDyPgDwaron) | 2:06 | 2025-07-31 | 2026-01-15 |
 | [Пінаколада](https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno) | [Vitaliy Kozlovskiy](https://open.spotify.com/artist/1xn58akm1S6uU3ZVbNNfSw) | [Пінаколада](https://open.spotify.com/album/112jvnaQDUj6eHextLkaaS) | 3:15 | 2025-05-16 | 2026-05-08 |
 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 | 2024-10-17 | 2026-03-27 |
@@ -215,7 +216,7 @@
 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 | 2024-07-22 | 2025-02-04 |
 | [Тисяча пісень](https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Тисяча пісень](https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV) | 3:51 | 2026-09-24 |  |
 | [Токсік](https://open.spotify.com/track/3O6R6CXo0660qvmdeG6EOD) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Токсік](https://open.spotify.com/album/4hTZxscVG2XHSG12vA5Opq) | 2:59 | 2025-04-10 | 2026-02-13 |
-| [Тому що…](https://open.spotify.com/track/6wgsJzTs1dFIcmsrQyQJAe) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Тому що…](https://open.spotify.com/album/5XxRZuufy3Ego2CS0E7F23) | 2:57 | 2026-06-18 |  |
+| [Тому що…](https://open.spotify.com/track/6wgsJzTs1dFIcmsrQyQJAe) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Тому що…](https://open.spotify.com/album/5XxRZuufy3Ego2CS0E7F23) | 2:57 | 2026-06-18 | 2026-11-06 |
 | [Тримаєш мене](https://open.spotify.com/track/4IZvBgsortkhyBB9VNN0Qg) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тримаєш мене](https://open.spotify.com/album/1cW2tPQbHHwwcutjmNNABo) | 3:07 | 2026-10-15 |  |
 | [Тьотя](https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Тьотя](https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn) | 3:05 | 2025-04-14 | 2026-10-23 |
 | [Фанат](https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Фанат](https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa) | 3:18 | 2026-04-09 |  |

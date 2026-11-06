@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,065 songs - 2 day 16 hr 36 min
+1,066 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [11 y 6](https://open.spotify.com/track/0d8xQb9zET1Jt61CwLbA1o) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [11 y 6](https://open.spotify.com/album/3iYNEe0eYNFKIwCmBx3aV9) | 5:01 | 2022-02-18 | 2022-07-28 |
 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 | 2022-03-24 |  |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2022-03-24 | 2022-04-21 |
-| [50 Horas](https://open.spotify.com/track/5xiH2wHtpuOaNbxm9PAofT) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Que Esperas \(Versión Exclusiva\)](https://open.spotify.com/album/2vd3SPSRppBEPjRWoFTDRp) | 3:33 | 2021-12-24 |  |
+| [50 Horas](https://open.spotify.com/track/5xiH2wHtpuOaNbxm9PAofT) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Que Esperas \(Versión Exclusiva\)](https://open.spotify.com/album/2vd3SPSRppBEPjRWoFTDRp) | 3:33 | 2021-12-24 | 2026-11-06 |
 | [7 Rings \- Acoustic Version](https://open.spotify.com/track/47PTdbgKqE5JZFCZ9Lh4al) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [7 Rings \(Acoustic Version\)](https://open.spotify.com/album/11S56kFlwa4KbADJTpSBJv) | 3:11 | 2022-04-08 | 2022-04-12 |
 | [A Donde](https://open.spotify.com/track/5MKUw71QcmPTPSfAaYc5Ll) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ) | [A Donde](https://open.spotify.com/album/64ABDGYVFdrrT8kIzNSDmH) | 3:24 | 2022-03-28 | 2022-04-12 |
 | [A la hora de las lentas](https://open.spotify.com/track/6A70dz4k38aramzGjpQ3KK) | [Dino Gastón Ciarlo](https://open.spotify.com/artist/482iqSnaP20OapnXbeXnTx) | [Dino y sus Ciarlobacterias](https://open.spotify.com/album/1VslO3d4STeU28cWpD1QZS) | 3:21 | 2022-03-24 | 2022-04-17 |
@@ -1067,6 +1067,7 @@
 | [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-13 | 2024-11-17 |
 | [Zoe](https://open.spotify.com/track/4ukRrm8X7wezPgdgdqOaTf) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 3:34 | 2022-03-24 | 2022-04-16 |
 | [¡Gracias!](https://open.spotify.com/track/0mWxVghJRM3kwzIosQCxY1) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [¡Gracias!](https://open.spotify.com/album/3z654rjwdbqHAU9PdrrZMu) | 3:21 | 2022-04-13 | 2022-04-16 |
+| [¡Pop!](https://open.spotify.com/track/1Wqw1spmVG9hmU8MeKH402) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [I Just Wanna Make My Daddy Proud](https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX) | 3:02 | 2026-11-05 |  |
 | [¿Quién No Es una Bomba de Tiempo?](https://open.spotify.com/track/00zsVPlvtYqriZiFIuEW65) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [¿Quién No Es una Bomba de Tiempo?](https://open.spotify.com/album/7apZGtLDPlVnIC1k6xRuoP) | 3:32 | 2022-03-24 | 2022-03-28 |
 | [¿Qué Me Pasó Cuando Te Vi a los Ojos?](https://open.spotify.com/track/1vANoupgK3owNCD9DuRvIm) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [¿Qué Me Pasó Cuando Te Vi a los Ojos?](https://open.spotify.com/album/1ONz8kIsXB2Y0LDq9kectW) | 2:50 | 2022-04-01 | 2022-04-10 |
 | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 | 2024-11-07 | 2025-02-07 |

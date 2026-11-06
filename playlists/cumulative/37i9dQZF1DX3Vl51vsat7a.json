@@ -8781,6 +8781,24 @@
     },
     {
       "album": {
+        "name": "Tiptoes",
+        "url": "https://open.spotify.com/album/2ODOdUYUH0eIXmW1mdzYf3"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208880,
+      "name": "Tiptoes",
+      "url": "https://open.spotify.com/track/1qeLlMkDuVySs1febJY0fI"
+    },
+    {
+      "album": {
         "name": "Borderline Tenderness",
         "url": "https://open.spotify.com/album/5JSqzO7OU0ce12h1rkMz7c"
       },
@@ -9850,7 +9868,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205794,
       "name": "WHERE\u2019S THE FUN?",
       "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"

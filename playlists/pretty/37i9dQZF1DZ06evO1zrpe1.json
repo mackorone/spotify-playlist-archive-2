@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAABEGglVFe/JiagWPLcBxmz9",
+  "snapshot_id": "aukkAAAAAAAp3L/vY1dnlaIUBLpTnQ2G",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modo Guerra",
-        "url": "https://open.spotify.com/album/5Q9KfTIpVazBhKB9Tc9mxB"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 170100,
-      "name": "Modo Guerra",
-      "url": "https://open.spotify.com/track/6WkJOzemLNw4Z1TYVMA0IY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre la Guerra y el Amor",
         "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 178826,
       "name": "Entre la Guerra y el Amor",
       "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Modo Guerra",
+        "url": "https://open.spotify.com/album/5Q9KfTIpVazBhKB9Tc9mxB"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 170100,
+      "name": "Modo Guerra",
+      "url": "https://open.spotify.com/track/6WkJOzemLNw4Z1TYVMA0IY"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
+      "duration_ms": 172751,
+      "name": "Cuidado con El Perro",
+      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 172751,
-      "name": "Cuidado con El Perro",
-      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cigarra",
-        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+        "name": "No Me Queda M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 241726,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
+      "duration_ms": 201467,
+      "name": "No Me Queda M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Cigarra",
+        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 241726,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin \u00c9l",
         "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 193223,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Me Queda M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "No Me Queda M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde El Master Q (En Vivo)",
         "url": "https://open.spotify.com/album/3KyXJSMceOazb5KJs7vfYz"
       },
@@ -763,38 +747,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
       },
       "artists": [
         {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         },
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
         }
       ],
-      "duration_ms": 214801,
-      "name": "Le\u00f1a de Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00d3diame (En Vivo)",
-        "url": "https://open.spotify.com/album/3KzkE6ODv8I5XAIghnkUHw"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 199816,
-      "name": "\u00d3diame - En Vivo",
-      "url": "https://open.spotify.com/track/1dAknd30nacHZilqUb2fnT"
+      "duration_ms": 247737,
+      "name": "Fuiste T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 230230,
       "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
       "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d3diame (En Vivo)",
+        "url": "https://open.spotify.com/album/3KzkE6ODv8I5XAIghnkUHw"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 199816,
+      "name": "\u00d3diame - En Vivo",
+      "url": "https://open.spotify.com/track/1dAknd30nacHZilqUb2fnT"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

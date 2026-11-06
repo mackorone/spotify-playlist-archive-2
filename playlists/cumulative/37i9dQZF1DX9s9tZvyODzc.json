@@ -644,7 +644,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 277405,
       "name": "BOT\u00d3N DE P\u00c1NICO",
       "url": "https://open.spotify.com/track/1s9gjm76CMBiiiBhXLOoGj"
@@ -1330,6 +1330,32 @@
       "duration_ms": 270720,
       "name": "Dancing On The Ceiling",
       "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "album": {
+        "name": "MEIEN",
+        "url": "https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "MEIEN",
+          "url": "https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193264,
+      "name": "Decilo",
+      "url": "https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq"
     },
     {
       "album": {
@@ -4506,7 +4532,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 235520,
       "name": "Prisionero",
       "url": "https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ"
@@ -6130,6 +6156,24 @@
       "duration_ms": 175746,
       "name": "You Can't Hurry Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Make My Daddy Proud",
+        "url": "https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "\u00a1Pop!",
+      "url": "https://open.spotify.com/track/1Wqw1spmVG9hmU8MeKH402"
     },
     {
       "album": {

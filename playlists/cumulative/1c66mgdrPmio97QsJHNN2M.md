@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,189 songs - 6 day 23 hr 33 min
+3,191 songs - 6 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1737,7 +1737,7 @@
 | [Melody Rules](https://open.spotify.com/track/0H784Zsy48coFQLHTwthPA) | [Tim McInnes](https://open.spotify.com/artist/0J71GWwjERGNLrEBjOOiQX) | [Melody Rules](https://open.spotify.com/album/0Hsux3OUWvxIkTPhzTWWsm) | 3:00 | 2025-10-24 | 2025-11-26 |
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2026-01-17 | 2026-02-21 |
 | [Memories By The Sea](https://open.spotify.com/track/2cQN2GNkJxJrXaIAW4GdJv) | [Gina DiGiorgio](https://open.spotify.com/artist/5g4rQ3oztGj7XljSJ2eHe6), [Ventura Howie](https://open.spotify.com/artist/0EGmRfKAmYr9r9SDt6NgAz), [KATARINA JOVCHEVSKA](https://open.spotify.com/artist/7sbTUP3Ut789sWXF4IxCvm) | [Memories By The Sea](https://open.spotify.com/album/3YOsuX7dyYJ1NIwdPQWfhi) | 2:41 | 2025-10-20 | 2025-11-23 |
-| [Memories Of You](https://open.spotify.com/track/1qwu0OVHuuRu0sSVIROTA2) | [Crusader Beats](https://open.spotify.com/artist/6OW33Ql9e4VmMqntH6Vcqi) | [Memories Of You](https://open.spotify.com/album/1gFghSFOsfR7GxI6kGOjjF) | 3:11 | 2026-10-19 |  |
+| [Memories Of You \(Instrumental\)](https://open.spotify.com/track/1qwu0OVHuuRu0sSVIROTA2) | [Crusader Beats](https://open.spotify.com/artist/6OW33Ql9e4VmMqntH6Vcqi) | [Memories Of You \(Instrumental\)](https://open.spotify.com/album/1gFghSFOsfR7GxI6kGOjjF) | 3:11 | 2026-10-19 |  |
 | [Menace](https://open.spotify.com/track/6GEMrj3lBjaP5IVfWX3mZm) | [Shawnay Bonnana](https://open.spotify.com/artist/5O9PJuIHYEJQDZxcbvk9d9) | [It Ain’t Me Who’s Toxic](https://open.spotify.com/album/21kR4xjgVOc2tIeL78E38S) | 2:10 | 2026-01-23 | 2026-02-24 |
 | [Mending First](https://open.spotify.com/track/0kVVKz8iuneK6gYHQ1Rrd8) | [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [Mending First](https://open.spotify.com/album/40l3HZthCUDLQ7OLjCp0tO) | 2:37 | 2026-03-04 | 2026-04-05 |
 | [Mental Illness](https://open.spotify.com/track/2kmUzhT6fxrkDSozoeLu67) | [N0blanket](https://open.spotify.com/artist/68S3MrSWyLSHzMwK9w6RhK) | [Mental Illness](https://open.spotify.com/album/7oZcGHNEtoxZbwdCHWp272) | 2:33 | 2026-10-05 |  |
@@ -2590,6 +2590,7 @@
 | [Synthetic Love](https://open.spotify.com/track/5i00RvIS6HkyQoT1HrctuD) | [DEN BAURIN](https://open.spotify.com/artist/7ExDLUrSU5JolcpRRnFmGE) | [Who I Am](https://open.spotify.com/album/36k7EPAFqXODfcS3F8ctT4) | 2:10 | 2026-06-16 | 2026-07-17 |
 | [Sza Let You Know](https://open.spotify.com/track/30c71YyHDG7fdoc9x8RhKJ) | [Drillr](https://open.spotify.com/artist/6ZaoM7s1O8i7IbniJzxRzG) | [Sza Let You Know](https://open.spotify.com/album/2YqhpPWfFMrD63fyZJhQ2u) | 2:15 | 2025-10-20 | 2025-11-23 |
 | [Ta robe ébène](https://open.spotify.com/track/55barqEyVqBwZzWzpZD0YV) | [Strophes noctambules](https://open.spotify.com/artist/0FeUdQgEKYZPq10H9JRPT4) | [Vers la nuit](https://open.spotify.com/album/6HMKEKXMgbVoWTdMVlZzPq) | 3:47 | 2026-09-29 | 2026-10-30 |
+| [Tables Turned](https://open.spotify.com/track/1eSTx7137PPWIeIrTzzHPh) | [Stella Maria](https://open.spotify.com/artist/1XVo10kDAKfZbj0V06N20X) | [Tables Turned](https://open.spotify.com/album/41j3h5YJBpiaurwG6PDH5l) | 2:55 | 2026-11-05 |  |
 | [Take a Bow](https://open.spotify.com/track/4ND8DEQp5Ea3Ynl5g93pbO) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Bad Reputation Club](https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI) | 2:46 | 2026-09-14 | 2026-10-16 |
 | [take back.](https://open.spotify.com/track/6nze64HGdMtJ4ZrRSxMFS4) | [owen](https://open.spotify.com/artist/2uvFAGFmaoYgn4neysfYTD) | [take back.](https://open.spotify.com/album/1j2V0G776SQtBklIX7gMpq) | 3:10 | 2026-03-09 | 2026-04-10 |
 | [Take It Away](https://open.spotify.com/track/4QgVM6tuXmgrNGlBbTphI2) | [Fishburn](https://open.spotify.com/artist/2hZ0ipXOnImt0uNT9VbAhP) | [Take It Away](https://open.spotify.com/album/1tk1mqfPq1PhVl2tcUlY8L) | 3:47 | 2026-07-03 | 2026-08-05 |
@@ -2650,6 +2651,7 @@
 | [The Bottom Line](https://open.spotify.com/track/3VoZSjjcLzbt7RLLHJTtYE) | [ViennaCC](https://open.spotify.com/artist/0RQHomT2oBtOXNkU0ftpQ8) | [The Bottom Line](https://open.spotify.com/album/5xH3MSiyadXRUppauvetOs) | 3:30 | 2026-10-01 | 2026-11-04 |
 | [THE CALL I NEVER MADE](https://open.spotify.com/track/20rBzBZMpEDVcXZeczDTWE) | [Mr.Nak](https://open.spotify.com/artist/6KE02eyElR3My7oOowtvU7) | [THE CALL I NEVER MADE](https://open.spotify.com/album/1NaCcsUte5gjYTWdLFB3Ae) | 3:07 | 2026-06-28 | 2026-07-31 |
 | [THE CHANGE](https://open.spotify.com/track/76CXp6aMl8rsRer1wRKxNq) | [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [THE CHANGE](https://open.spotify.com/album/3VQaaicFtaPxvDlBNqE8Sn) | 2:11 | 2026-09-19 | 2026-10-23 |
+| [the circle](https://open.spotify.com/track/4SqvhT14qZeSSJU7vciRpC) | [Andrey](https://open.spotify.com/artist/34mJVdVcdXqDaQ0NdFS7ju) | [the circle](https://open.spotify.com/album/2JQRyE7uKtoFwoI1Af70KB) | 2:41 | 2026-11-05 |  |
 | [the clothes on your floor](https://open.spotify.com/track/1hyTMexMqg1LMsXEYOhUAC) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [the clothes on your floor](https://open.spotify.com/album/3yP96wgwShqGdQwMP9Nj4J) | 2:30 | 2026-05-23 | 2026-06-24 |
 | [The Colors Fading](https://open.spotify.com/track/0LAdSHvs2SUz3ipMSCUMOu) | [Maddox Gipko](https://open.spotify.com/artist/1TbdCrJzwyGovQ6CUt9vY1) | [The Colors Fading](https://open.spotify.com/album/7FIlHfzgVwbYil7Havk5TQ) | 3:21 | 2026-06-30 | 2026-07-31 |
 | [The Cost of Loving](https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ) | 3:25 | 2026-05-04 | 2026-06-05 |

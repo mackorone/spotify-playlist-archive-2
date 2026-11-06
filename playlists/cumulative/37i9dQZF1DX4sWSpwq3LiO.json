@@ -30231,6 +30231,24 @@
     },
     {
       "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/4cqFLRiPDoThLKCYozyaQA"
+      },
+      "artists": [
+        {
+          "name": "Eldur H\u00e6ttu",
+          "url": "https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161092,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/7grvfZ55ccHnQNhay3cVwK"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/6RJGBTIExhdmcKAThYYNuy"
       },

@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Dimitri Vegas, Pat B & Sylver au top des bangers dance/electro du moment !
+> David Guetta x Hypaton au top des bangers dance/electro du moment !
 
 394 songs - 18 hr 16 min
 

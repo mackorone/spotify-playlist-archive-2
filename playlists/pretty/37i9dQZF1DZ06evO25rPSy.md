@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,279 likes - 40 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,281 likes - 40 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 23 | [Mi Auto Era Una Rana](https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:58 |
 | 24 | [Qué Oscuridad](https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 4:28 |
 | 25 | [Tren Sexual](https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:08 |
-| 26 | [Ponerme a volar](https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:43 |
-| 27 | [Nadia](https://open.spotify.com/track/2ImoFJy6b3ovpai8LG4s2X) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg), [Juan Diego Flórez](https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT) | [30 Grandes Canciones](https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I) | 4:50 |
+| 26 | [Nadia](https://open.spotify.com/track/2ImoFJy6b3ovpai8LG4s2X) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg), [Juan Diego Flórez](https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT) | [30 Grandes Canciones](https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I) | 4:50 |
+| 27 | [Ponerme a volar](https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:43 |
 | 28 | [Los Niños Se Enamoran](https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 3:24 |
 | 29 | [Déjame Vivir](https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:42 |
 | 30 | [Tema del Adiós](https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy) | 4:11 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 39 | [El Triunfo Tan Soñado](https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 4:22 |
 | 40 | [Se te pararían los pelos](https://open.spotify.com/track/0KyizZMOBT02NiF1YPd4Rk) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:58 |
 
-Snapshot ID: `aufSgAAAAAC7OKIqRrQAeQmxNrZp4W7w`
+Snapshot ID: `aukkAAAAAAAON3LlIqaM+pIsqKu37rd4`

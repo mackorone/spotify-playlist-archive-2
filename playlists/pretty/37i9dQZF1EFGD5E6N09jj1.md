@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,020 likes - 228 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,019 likes - 228 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 172 | [Thoughts](https://open.spotify.com/track/7A32ilnCkeWlDNM0xsBUfw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:11 |
 | 173 | [Selfish Girl](https://open.spotify.com/track/4qo8MT581bE5mDm7FGi5qB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 3:14 |
 | 174 | [Lucky](https://open.spotify.com/track/4fSHrm2WrIZmtYMXQq0YwI) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:35 |
-| 175 | [Sucker](https://open.spotify.com/track/70un6hFtm3DkpqsYLRoRei) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:43 |
-| 176 | [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 |
+| 175 | [Xcxoplex \(with Charli XCX\)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:21 |
+| 176 | [Sucker](https://open.spotify.com/track/70un6hFtm3DkpqsYLRoRei) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:43 |
 | 177 | [I Don't Wanna Know](https://open.spotify.com/track/2wsypbBdFwN1woTAh9sq6X) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:05 |
 | 178 | [Body of My Own](https://open.spotify.com/track/4EYGBFACKU7TngonyV34Na) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:45 |
 | 179 | [Babygirl \(feat\. Uffie\)](https://open.spotify.com/track/1G2uiB6xTRkfrZvG7jk4Sc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:53 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 227 | [Moonlight](https://open.spotify.com/track/4iT8EOPws0Z01UsfQW71Qy) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [Moonlight](https://open.spotify.com/album/0fMtYan7n5gzAcWoAVBxSI) | 1:30 |
 | 228 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AcgzlAAAAAB9bu9TpxTLqGAbUq6uDUjX`
+Snapshot ID: `Acg5NAAAAADKJRfp8am/OF8f1tEDqoB2`

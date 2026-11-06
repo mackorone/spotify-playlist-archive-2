@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 9388182,
+  "num_followers": 9388492,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 294081,
+      "name": "N.Y. State of Mind",
+      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 294081,
-      "name": "N.Y. State of Mind",
-      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Hello Nasty (Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Intergalactic - Remastered 2009",
-      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 282373,
       "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Hello Nasty (Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Intergalactic - Remastered 2009",
+      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Illadelph Halflife",
         "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Elevators (Me & You)",
-      "url": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Whut? Thee Album",
         "url": "https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 201373,
       "name": "Tonight's Da Night",
       "url": "https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Elevators (Me & You)",
+      "url": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Player's Ball",
-      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 325933,
       "name": "Been Around the World (feat. The Notorious B.I.G. & Mase)",
       "url": "https://open.spotify.com/track/1siDRjAa8MdxNoCHTiiQ7B"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Player's Ball",
+      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
     },
     {
       "added_at": "2024-06-28 10:14:13",

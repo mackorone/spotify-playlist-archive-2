@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,573 songs - 7 day 5 hr 27 min
+4,575 songs - 7 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [City Street Rhapsody](https://open.spotify.com/track/0AAZ0rhfw3fjlBh26wxe46) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [City Street Rhapsody](https://open.spotify.com/album/4oHQn4tk9K2D9iYceb8m60) | 4:33 | 2019-06-08 | 2019-11-06 |
 | [City Stroll](https://open.spotify.com/track/1YG7HsQ6msnV0z2FDTptnf) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [City Stroll](https://open.spotify.com/album/2pckLaBwPp8n2hCvdAdmF2) | 2:38 | 2019-12-11 | 2020-03-31 |
 | [City Walks](https://open.spotify.com/track/7f0kjCwkamKO8UOKtxVM2U) | [Depf](https://open.spotify.com/artist/225saUhtIHdeXvHEpiGI6r) | [City Walks](https://open.spotify.com/album/3tfaGwxjnoV6N4PCxOT8HS) | 1:02 | 2022-01-20 | 2022-09-12 |
-| [Classic](https://open.spotify.com/track/5pLwQA52xYGDpK0EEEFRyF) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Classic](https://open.spotify.com/album/1UcpTP6wYotthmSrBtDg3X) | 1:57 | 2026-09-18 |  |
+| [Classic](https://open.spotify.com/track/5pLwQA52xYGDpK0EEEFRyF) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Classic](https://open.spotify.com/album/1UcpTP6wYotthmSrBtDg3X) | 1:57 | 2026-09-18 | 2026-11-06 |
 | [Clean Up](https://open.spotify.com/track/31J5q25XnU9Mmt8B9tH3ko) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Clean Up](https://open.spotify.com/album/7mV6dK2LAdqizBLDenY51b) | 2:07 | 2022-01-06 | 2022-01-28 |
 | [Clear Sky](https://open.spotify.com/track/3xRBPqo2Zap5tMgycr1Zvi) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Clear Sky](https://open.spotify.com/album/00uyeoAbCtBHNuRpWvk9VM) | 2:39 | 2023-04-13 | 2023-10-20 |
 | [Clear Sky](https://open.spotify.com/track/4GG95MoZNuj2spqbqmts9J) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Clear Sky](https://open.spotify.com/album/7vkhROUmnA9za7HUw3kwVP) | 2:04 | 2020-10-30 | 2021-03-06 |
@@ -1412,6 +1412,7 @@
 | [French Night](https://open.spotify.com/track/5bYz65rrX16obVLlKb90nL) | [Blue Fox](https://open.spotify.com/artist/4VfNwO9Vm7qytrCtUlwwGY), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [French Night](https://open.spotify.com/album/5ATqytelBSvqzeWGdZqwEj) | 2:05 | 2021-04-09 | 2021-05-28 |
 | [French Riviera](https://open.spotify.com/track/5NBi8b8yv0ZMZAqqytWaQg) | [Funk Andrews](https://open.spotify.com/artist/7qHVz54RdRADqyKWnvmYUh) | [French Riviera](https://open.spotify.com/album/2jJuGWHsxhLIpq3bDXzqKj) | 1:45 | 2021-06-12 | 2021-07-30 |
 | [Fresco](https://open.spotify.com/track/3jfPn5VTj3VwMWJCbC4Ym5) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Fresco](https://open.spotify.com/album/43SYhjj6OMA2HSfTrMiIjp) | 2:31 | 2020-12-04 | 2021-06-18 |
+| [Fresco](https://open.spotify.com/track/3sPLmszVjIqFWTzetA2lyA) | [Gianni](https://open.spotify.com/artist/1qOhp9sUeynPwEfyY6kX6c), [Fidelitoz](https://open.spotify.com/artist/5MpQQI9Jn2J23tsOAz5Vfr) | [Fresco](https://open.spotify.com/album/5MXPNq5YgkWiU7q1F5wF3w) | 1:51 | 2026-11-06 |  |
 | [Fresh Bloom](https://open.spotify.com/track/7qmcHozSGwsH5I7IjF16eU) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Fresh Bloom](https://open.spotify.com/album/2tc7pWoDXmlpiWrGuaeyPA) | 1:45 | 2023-03-16 | 2023-11-14 |
 | [fresh brew](https://open.spotify.com/track/0c2OGxZ5mUitYu0nClQBIW) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [fresh brew](https://open.spotify.com/album/2T1cSabDmh0KMDkZCGvo1S) | 2:13 | 2022-05-12 | 2022-07-22 |
 | [Fresh out the shower](https://open.spotify.com/track/57Sy84Hxj9rEiUyvphRpMO) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Fresh out the shower](https://open.spotify.com/album/3S2Lnq0i89pJ47FZkUHV19) | 2:38 | 2024-12-16 |  |
@@ -1527,7 +1528,7 @@
 | [Good Days](https://open.spotify.com/track/0D2uyP2g9J35PIPgruBw4f) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [Good Days](https://open.spotify.com/album/0uhsl9xStElxg7iywFRmA9) | 2:04 | 2024-04-04 | 2024-10-25 |
 | [Good Days](https://open.spotify.com/track/3wqzpq6GjCZba3B07Lx6zs) | [Lazy Toro](https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw) | [Good Days](https://open.spotify.com/album/3LOv68VbnZ2JotvYfBId59) | 1:51 | 2023-10-19 | 2023-11-17 |
 | [Good Feeling](https://open.spotify.com/track/41Zbx9gIwTvzLKI4W4aIRi) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Good Feeling](https://open.spotify.com/album/7b1B1AVELoNYj1cbOiyERY) | 2:00 | 2025-06-27 | 2025-07-19 |
-| [Good Life](https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Good Life](https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4) | 2:06 | 2026-01-16 |  |
+| [Good Life](https://open.spotify.com/track/2Ud7OQ3gvBuKOhMrzX1SVe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Good Life](https://open.spotify.com/album/1ICaCOfTCfaa6lIImFCKx4) | 2:06 | 2026-01-16 | 2026-11-06 |
 | [Good Life](https://open.spotify.com/track/5BPKNG6yHbj0Q2W6ksMbbH) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Good Life](https://open.spotify.com/album/14nfJf9nfZN9RcigywyrMI) | 2:20 | 2021-11-19 | 2021-12-11 |
 | [Good Morning](https://open.spotify.com/track/0RVzAEJdh4VsuRIkLqmo7t) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Good Morning](https://open.spotify.com/album/4SCB9uNYIdzpQeicMrtFFy) | 1:05 | 2020-01-17 | 2020-04-24 |
 | [Good Morning](https://open.spotify.com/track/2Vn2PKznrf5e1FtVcoIwQe) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Good Morning](https://open.spotify.com/album/1u1P4U3OIqGZGjS974agRk) | 1:36 | 2022-03-10 | 2023-04-21 |
@@ -2888,6 +2889,7 @@
 | [Orbit](https://open.spotify.com/track/2MBSsRzJ83L1Y0WRE2GEA2) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Orbit](https://open.spotify.com/album/15vHGCGcCmWQSes1a4VSuO) | 1:45 | 2024-01-18 | 2024-02-16 |
 | [Orbit](https://open.spotify.com/track/4pDc02tNDx0vukeS4au7Lx) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Orbit](https://open.spotify.com/album/7myTr51Iks5HB4Hxa7T5mW) | 2:04 | 2024-02-29 | 2024-10-25 |
 | [Orbiter](https://open.spotify.com/track/4VjTchvffUm7NE0CaJ6aau) | [wuf](https://open.spotify.com/artist/3e2HPVhdESPqMSoQMCpmtq) | [Orbiter](https://open.spotify.com/album/7ARfnnz1Vu6IjffB1vqI3y) | 2:04 | 2019-08-30 | 2020-02-11 |
+| [orchards](https://open.spotify.com/track/2ij4G4Ix0UuyGn0hYi5jbl) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf), [Hopmax](https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7) | [orchards](https://open.spotify.com/album/6T2x4AMFyzSLk7kcFIP57U) | 1:53 | 2026-11-06 |  |
 | [Orchids](https://open.spotify.com/track/1I2EjJIfDqjWdcfhpz2iEo) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Orchids](https://open.spotify.com/album/3L7tgBxOrXTTuFsfbS6eDa) | 1:40 | 2020-05-29 | 2020-08-07 |
 | [Oregon Coast](https://open.spotify.com/track/0g5QVGcBJowOXoXzamlyrW) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Oregon Coast](https://open.spotify.com/album/3UW6RaVvlXOm87WHqX2dHj) | 2:52 | 2025-01-06 | 2025-02-07 |
 | [Origin](https://open.spotify.com/track/17q9qgQvX85xW6AarzsKlW) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Origin](https://open.spotify.com/album/38BmJbd3grbOs9212eRAI0) | 2:58 | 2021-10-16 | 2022-01-07 |

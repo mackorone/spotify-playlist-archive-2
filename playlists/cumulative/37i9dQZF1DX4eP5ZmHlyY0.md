@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TWS
 
-1,168 songs - 2 day 14 hr 57 min
+1,170 songs - 2 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 | 2024-08-13 | 2025-02-28 |
 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 | 2026-08-21 |  |
 | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/track/6jBeNTZcQrzvAMr1p9QBDV) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/album/6ViNM72dBCuPDyJMetsWI6) | 3:29 | 2025-06-02 | 2025-06-25 |
+| [BLOW UP](https://open.spotify.com/track/1XbhqCEsGH47iBKERUbJLP) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [BLOW UP](https://open.spotify.com/album/3O78x7QhCrZfS21Qp4njPS) | 2:45 | 2026-11-05 |  |
 | [Blow Your Cover](https://open.spotify.com/track/1gmr7JOnYuR9eq4sqVv6pN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [Blow Your Cover](https://open.spotify.com/album/5qxa3A2fmTtqzOFTSD6rgQ) | 2:39 | 2024-04-12 | 2024-05-29 |
 | [BLUE](https://open.spotify.com/track/4IehAfAGnazAV2KiH3zfRv) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 2:41 | 2025-09-16 | 2025-10-06 |
 | [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [Serenade](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-15 | 2026-06-09 |
@@ -773,6 +774,7 @@
 | [ROSES](https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96) | 2:21 | 2026-01-23 | 2026-02-03 |
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2025-03-07 |
 | [RU\-PUM PUM \- Japanese ver.](https://open.spotify.com/track/6DHzcm29i8oid8To18mMxx) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [RU\-PUM PUM \(Japanese ver.\)](https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA) | 3:22 | 2024-03-05 | 2024-03-27 |
+| [RUN](https://open.spotify.com/track/00smZS7JjMiUMI0hw0KvTs) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [RUN](https://open.spotify.com/album/7jKeYDo31RwFTmM8qmKmLp) | 2:44 | 2026-11-05 |  |
 | [RUN IT](https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O) | 3:29 | 2026-06-24 | 2026-08-01 |
 | [Run It Back](https://open.spotify.com/track/2DHlMEVSmWkmffblREZazJ) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Run It Back](https://open.spotify.com/album/1r0FKtz7RlCiLJVDbwYVSk) | 2:26 | 2026-01-15 | 2026-05-25 |
 | [RUN TO YOU](https://open.spotify.com/track/0ku6osTANoM57WO6LWAgwZ) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [RUN TO YOU](https://open.spotify.com/album/3xPfMMh4jkzVCZ2BKRI5bA) | 3:20 | 2026-07-07 | 2026-09-12 |
@@ -971,7 +973,7 @@
 | [UV](https://open.spotify.com/track/6eKBXC5KEbiS3gNLgWWtyk) | [MASHIHO](https://open.spotify.com/artist/0pxEGHaPCDvpHEyXGc7xlc) | [ULTRA VIOLET](https://open.spotify.com/album/5JJb0PsoRNXCTNVU1leKiq) | 2:47 | 2025-03-25 | 2025-05-30 |
 | [Vanilla](https://open.spotify.com/track/40Sa8TQixEoPFU7kosThge) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [BEST OF A.B.C\-Z](https://open.spotify.com/album/0yk8RjLmJXhB9S5A0czgN1) | 4:43 | 2024-04-30 | 2024-05-15 |
 | [Veil](https://open.spotify.com/track/3s0eqXMoij2RmAz2qiN3Bq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Veil](https://open.spotify.com/album/245a7QKvETcXIn3iilhU3T) | 2:52 | 2025-09-16 | 2026-02-27 |
-| [VELVET](https://open.spotify.com/track/1K57qXujq8bUOrpBjgv8hx) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [UNIQUE Japan Edition \(Selected Version\)](https://open.spotify.com/album/43eVOiBpyNQRJBerGntSsG) | 2:47 | 2026-07-28 |  |
+| [VELVET](https://open.spotify.com/track/1K57qXujq8bUOrpBjgv8hx) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [UNIQUE Japan Edition \(Selected Version\)](https://open.spotify.com/album/43eVOiBpyNQRJBerGntSsG) | 2:47 | 2026-07-28 | 2026-11-06 |
 | [Venus](https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:18 | 2023-11-23 | 2024-05-08 |
 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 | 2026-06-08 | 2026-09-30 |
 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 | 2023-11-23 | 2024-02-28 |

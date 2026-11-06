@@ -1,13 +1,77 @@
 {
-  "description": "Featuring that new vintage. Cover: Bebe Stockwell",
-  "num_followers": 448709,
+  "description": "Featuring that new vintage. Cover: Blu DeTiger",
+  "num_followers": 448710,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMzzJUk5lcrhqj6EOmDyyfWgSF3",
+  "snapshot_id": "AAAAADV1BTzquxCSo49qiQh4fwpJGdvw",
   "tracks": [
+    {
+      "added_at": "2026-11-06 05:01:48",
+      "album": {
+        "name": "N.Y. Baby",
+        "url": "https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 208720,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN"
+    },
+    {
+      "added_at": "2026-11-06 05:01:48",
+      "album": {
+        "name": "Mine! Mine! Mine!",
+        "url": "https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Mine! Mine! Mine!",
+      "url": "https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0"
+    },
+    {
+      "added_at": "2026-11-06 05:01:48",
+      "album": {
+        "name": "Lonely Guy",
+        "url": "https://open.spotify.com/album/0RuMs1QX1Koe3oAGxmMLrT"
+      },
+      "artists": [
+        {
+          "name": "Tiger Lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 169040,
+      "name": "Lonely Guy",
+      "url": "https://open.spotify.com/track/1sd7RBCgu3CbV8QiiB7jn0"
+    },
+    {
+      "added_at": "2026-11-06 05:01:48",
+      "album": {
+        "name": "Unearth",
+        "url": "https://open.spotify.com/album/06qrAbtaNAiHB3jneCtoeD"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 219034,
+      "name": "Unearth",
+      "url": "https://open.spotify.com/track/0ctmCRc8SmNQoMSLUv3tzC"
+    },
     {
       "added_at": "2026-10-23 14:46:07",
       "album": {
@@ -1265,22 +1329,6 @@
       "url": "https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE"
     },
     {
-      "added_at": "2026-04-03 04:58:46",
-      "album": {
-        "name": "Didn't See It Coming",
-        "url": "https://open.spotify.com/album/25K8JhVpKZFKck576ODtHp"
-      },
-      "artists": [
-        {
-          "name": "Connie Talbot",
-          "url": "https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um"
-        }
-      ],
-      "duration_ms": 184642,
-      "name": "Didn't See It Coming",
-      "url": "https://open.spotify.com/track/3BktKdXTbl1Zoip0I4s9gb"
-    },
-    {
       "added_at": "2026-02-27 05:00:42",
       "album": {
         "name": "Nightingale Lane.",
@@ -1523,54 +1571,6 @@
       "duration_ms": 177601,
       "name": "I Stay I Leave I Love I Lose",
       "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
-    },
-    {
-      "added_at": "2026-01-09 05:00:48",
-      "album": {
-        "name": "The Crux",
-        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 205046,
-      "name": "Charlie's Garden",
-      "url": "https://open.spotify.com/track/4kPfzkWY23WgM902kNAQLn"
-    },
-    {
-      "added_at": "2026-01-23 05:00:23",
-      "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 160538,
-      "name": "Broke Bitch Boogie",
-      "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
-    },
-    {
-      "added_at": "2025-09-12 04:00:28",
-      "album": {
-        "name": "something like this",
-        "url": "https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR"
-      },
-      "artists": [
-        {
-          "name": "Cil",
-          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "something like this",
-      "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
     },
     {
       "added_at": "2025-09-05 04:00:05",

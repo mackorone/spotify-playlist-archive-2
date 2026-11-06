@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Chella",
+  "description": "Tracks popping off in the Afro scene. Cover: Didi B x Davido",
   "name": "Afro Station",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 128000,
       "name": "Alhaja",
       "url": "https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl"
@@ -1060,6 +1060,28 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
+    },
+    {
+      "album": {
+        "name": "The Fork and Knife",
+        "url": "https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171380,
+      "name": "Aloe Vera (feat. Asake)",
+      "url": "https://open.spotify.com/track/1qFiIVwsUNEZmmqBZuSm50"
     },
     {
       "album": {
@@ -2912,7 +2934,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170485,
       "name": "BALOLA",
       "url": "https://open.spotify.com/track/6LpcHie81yEytiFps4o1Qc"
@@ -6195,6 +6217,28 @@
     },
     {
       "album": {
+        "name": "Colado Na Bo",
+        "url": "https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Colado Na Bo",
+      "url": "https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r"
+    },
+    {
+      "album": {
         "name": "Coll\u00e9",
         "url": "https://open.spotify.com/album/1e6H14SBz2UBVuT7gcUIzl"
       },
@@ -7014,6 +7058,28 @@
       "duration_ms": 171040,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/5Oy18y0Jg89TE9aBSVcyEH"
+    },
+    {
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/3YrpMaoOnkF0d4H7vJW7c4"
+      },
+      "artists": [
+        {
+          "name": "PSON",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "Dady",
+      "url": "https://open.spotify.com/track/7DYytjdsJPAtnIfjK3P2Nh"
     },
     {
       "album": {
@@ -7888,6 +7954,28 @@
       "duration_ms": 176708,
       "name": "Disisti",
       "url": "https://open.spotify.com/track/6z7TwtbPiTUmzoAMIghoG2"
+    },
+    {
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2ogE5cHhZtk5INgUxeQJYo"
+      },
+      "artists": [
+        {
+          "name": "sleepypierre",
+          "url": "https://open.spotify.com/artist/0TAxLQ3NNRtFzkg5ZDOmpN"
+        },
+        {
+          "name": "Luzyqv",
+          "url": "https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180445,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/2QsBBAmFadqvSfLfVdHhRg"
     },
     {
       "album": {
@@ -10173,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "FIN KANOU",
+        "url": "https://open.spotify.com/album/2R2vUrdpBPwMRLxPJJlsFz"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261067,
+      "name": "FIN KANOU",
+      "url": "https://open.spotify.com/track/1YsgIvcAD491KMZWgLgUJp"
+    },
+    {
+      "album": {
         "name": "FINAL (feat. Frescool)",
         "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
       },
@@ -10750,7 +10856,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 138000,
       "name": "FRE$H",
       "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
@@ -11486,7 +11592,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171436,
-      "name": "GODDESS (feat. Lojay)",
+      "name": "GODDESS",
       "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
@@ -13050,6 +13156,32 @@
       "duration_ms": 132063,
       "name": "Ind\u00e9cis",
       "url": "https://open.spotify.com/track/7AC89GUw6Iju5Y96mNJ7BW"
+    },
+    {
+      "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/4oVtp47IW7IyevJL95hdf8"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1"
     },
     {
       "album": {
@@ -15046,7 +15178,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 163268,
       "name": "Laisse moi",
       "url": "https://open.spotify.com/track/76zKf5U7hmZjwTU2RewEw3"
@@ -15166,6 +15298,24 @@
       "duration_ms": 166430,
       "name": "Left Right - Remix",
       "url": "https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722"
+    },
+    {
+      "album": {
+        "name": "Leg In Leg Out (LILO)",
+        "url": "https://open.spotify.com/album/2rmROJOCppoXJJERHaoLcK"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Leg In Leg Out (LILO)",
+      "url": "https://open.spotify.com/track/3jjdHYJgpc2oYuQ6jCuW76"
     },
     {
       "album": {
@@ -15890,7 +16040,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164283,
       "name": "lonely (feat. L.A.X)",
       "url": "https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo"
@@ -16022,6 +16172,24 @@
       "duration_ms": 175200,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/5SDPAYcZY5jWJT9VrXhPqm"
+    },
+    {
+      "album": {
+        "name": "LOSE SLEEP",
+        "url": "https://open.spotify.com/album/11rm5iU98NJ6DAGSgI82H0"
+      },
+      "artists": [
+        {
+          "name": "Mack H.D",
+          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127476,
+      "name": "LOSE SLEEP",
+      "url": "https://open.spotify.com/track/25oP7i8yQ0fu2gwMLiy9Fd"
     },
     {
       "album": {
@@ -17250,7 +17418,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158406,
       "name": "MAYAH",
       "url": "https://open.spotify.com/track/6GgXkelC3Ws2zExxE5ib61"
@@ -17824,6 +17992,24 @@
       "duration_ms": 156986,
       "name": "Moi \u00e7a va",
       "url": "https://open.spotify.com/track/7mr82s5mlAtVAuuZNiwgXr"
+    },
+    {
+      "album": {
+        "name": "Mokonzi",
+        "url": "https://open.spotify.com/album/3TDNYdvL2yupkJIfhZJMvj"
+      },
+      "artists": [
+        {
+          "name": "Leys",
+          "url": "https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mokonzi",
+      "url": "https://open.spotify.com/track/33ly2ow7uDQNZDsdAZ4vdJ"
     },
     {
       "album": {
@@ -21329,6 +21515,28 @@
     },
     {
       "album": {
+        "name": "SHOGUN IN LAGOS",
+        "url": "https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/4uyr0Cw61kDhk0JBJOfDAK"
+    },
+    {
+      "album": {
         "name": "Party Anthem (Amapiano)",
         "url": "https://open.spotify.com/album/1zIlLVhfWA2TwGnj3UwGPB"
       },
@@ -22047,6 +22255,28 @@
     },
     {
       "album": {
+        "name": "CATALYST",
+        "url": "https://open.spotify.com/album/4PKeqaq4gG30Q4I2Rd9B8m"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186580,
+      "name": "Playtime",
+      "url": "https://open.spotify.com/track/2roMAjSYH4LosdF1VtvCjy"
+    },
+    {
+      "album": {
         "name": "Pleure pas",
         "url": "https://open.spotify.com/album/7Mj5FfLEJmnS5qbuxmwpg5"
       },
@@ -22300,7 +22530,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 137385,
       "name": "Pourquoi ??",
       "url": "https://open.spotify.com/track/1BLdz8Hfb3my3XKJapaMYG"
@@ -24528,7 +24758,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164217,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
@@ -25654,7 +25884,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 153326,
       "name": "TAKE NOBODY (featuring J Hus & Skillibeng)",
       "url": "https://open.spotify.com/track/66wdUEnKRH807QA6xWQThB"
@@ -26164,7 +26394,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"

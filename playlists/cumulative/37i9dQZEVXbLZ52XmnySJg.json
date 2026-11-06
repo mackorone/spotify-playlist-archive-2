@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 290867,
       "name": "Be Intehaan",
       "url": "https://open.spotify.com/track/04y4IqZt14y7k7pXYE19Zy"
@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160796,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
@@ -11032,7 +11032,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 260590,
       "name": "Humdard (From \"Ek Villain\")",
       "url": "https://open.spotify.com/track/5ZGtdGwdocDZDniXHkmnVA"
@@ -15749,6 +15749,28 @@
     },
     {
       "album": {
+        "name": "LAAVAN",
+        "url": "https://open.spotify.com/album/6D9AUh3v8yhDmTfoU4KxmI"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185046,
+      "name": "LAAVAN",
+      "url": "https://open.spotify.com/track/5IMWu5fFXo35nJaB3VLG3E"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa",
         "url": "https://open.spotify.com/album/4BKbiFqwZBaBG6MeDdkwID"
       },
@@ -17210,6 +17232,24 @@
       "duration_ms": 187099,
       "name": "Main Khiladi - From \"Selfiee\"",
       "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
+    },
+    {
+      "album": {
+        "name": "Ragini Mms 2",
+        "url": "https://open.spotify.com/album/4FaSRAxBUEc4ovYBVVbQId"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329072,
+      "name": "Maine Khud Ko",
+      "url": "https://open.spotify.com/track/05REArTDZQd59A9Y4XC0Aq"
     },
     {
       "album": {
@@ -22026,7 +22066,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 252569,
       "name": "Pavazha Malli - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
@@ -25538,7 +25578,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 224083,
       "name": "Shararat",
       "url": "https://open.spotify.com/track/0R7grQWU1dRxiOQGIqZm0Z"
@@ -29352,7 +29392,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 341933,
       "name": "Tu Jaane Na",
       "url": "https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO"

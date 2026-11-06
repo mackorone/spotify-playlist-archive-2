@@ -6405,6 +6405,24 @@
     },
     {
       "album": {
+        "name": "Lettera Q",
+        "url": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE"
+      },
+      "artists": [
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Poter scegliere",
+      "url": "https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC"
+    },
+    {
+      "album": {
         "name": "Prima che",
         "url": "https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP"
       },

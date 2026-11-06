@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Megan Moroney",
+  "description": "Today's top country hits. Cover: Hudson Westbrook",
   "name": "Hot Country",
   "tracks": [
     {
@@ -1506,6 +1506,24 @@
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
+    },
+    {
+      "album": {
+        "name": "Be There In A Minute",
+        "url": "https://open.spotify.com/album/25M33KTaOnCelbX3gjKINg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211087,
+      "name": "Be There In A Minute",
+      "url": "https://open.spotify.com/track/5GQpl8aWM75dq8rDCSfz8u"
     },
     {
       "album": {
@@ -11302,7 +11320,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191970,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA"
@@ -19032,7 +19050,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 166735,
       "name": "Woman",
       "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
@@ -19350,6 +19368,24 @@
       "duration_ms": 225813,
       "name": "You Didn\u2019t",
       "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
+    },
+    {
+      "album": {
+        "name": "You for Me (Smoky Mountain Demo)",
+        "url": "https://open.spotify.com/album/0ApKQYf6MjrLI4WN5Wf7iY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198675,
+      "name": "You for Me - Smoky Mountain Demo",
+      "url": "https://open.spotify.com/track/4dxPIzzrYDqrfAlaiCFaVI"
     },
     {
       "album": {

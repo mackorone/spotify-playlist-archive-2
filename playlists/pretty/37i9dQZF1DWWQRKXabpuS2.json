@@ -1,13 +1,85 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 48349,
+  "num_followers": 48358,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhhXdn1M8XJSJd+NDDd4LKDwHry",
+  "snapshot_id": "AAAAALi5ofqMMQdh97KVqZq5wcl/hcpq",
   "tracks": [
+    {
+      "added_at": "2026-11-05 12:51:02",
+      "album": {
+        "name": "Malhmet Al Sogor",
+        "url": "https://open.spotify.com/album/3kB8VwYLacqwzARGy7HdZg"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Abdu",
+          "url": "https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB"
+        },
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        },
+        {
+          "name": "Rashed Al Fares",
+          "url": "https://open.spotify.com/artist/7J900jipjzgeVmiVU3a5cf"
+        },
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        },
+        {
+          "name": "Abass Ibrahim",
+          "url": "https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T"
+        },
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        },
+        {
+          "name": "Abadi Al Johar",
+          "url": "https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf"
+        },
+        {
+          "name": "Talal Salamah",
+          "url": "https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0"
+        },
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        },
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        },
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "duration_ms": 338535,
+      "name": "Malhmet Al Sogor",
+      "url": "https://open.spotify.com/track/5BupC5rTw80k6Mmaaf6z2N"
+    },
+    {
+      "added_at": "2026-11-05 12:51:02",
+      "album": {
+        "name": "\u0630\u0631\u0649 \u0647\u0627\u0644\u062f\u0627\u0631",
+        "url": "https://open.spotify.com/album/08ZnOlZPBvVW8Ks9AgAScj"
+      },
+      "artists": [
+        {
+          "name": "Assala",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 246073,
+      "name": "\u0630\u0631\u0649 \u0647\u0627\u0644\u062f\u0627\u0631",
+      "url": "https://open.spotify.com/track/3N5LxiHrOHHuFRSE6RIhnC"
+    },
     {
       "added_at": "2026-10-30 01:06:09",
       "album": {
@@ -791,38 +863,6 @@
       "duration_ms": 218213,
       "name": "Haak Glbi",
       "url": "https://open.spotify.com/track/4ZNHWvR3qwB2r91uWFCzfY"
-    },
-    {
-      "added_at": "2026-01-15 07:48:55",
-      "album": {
-        "name": "Abdulaziz Elmuanna 2026",
-        "url": "https://open.spotify.com/album/46MLFQoXY0pnUUwnk3yKzj"
-      },
-      "artists": [
-        {
-          "name": "Abdulaziz Elmuanna",
-          "url": "https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7"
-        }
-      ],
-      "duration_ms": 237259,
-      "name": "Qooli Fenk",
-      "url": "https://open.spotify.com/track/3MGu4KPXEcVJaCYrIiENSS"
-    },
-    {
-      "added_at": "2026-01-08 11:28:43",
-      "album": {
-        "name": "Arja3 Le An",
-        "url": "https://open.spotify.com/album/1zlShYHGAXpworkwciHUI6"
-      },
-      "artists": [
-        {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
-        }
-      ],
-      "duration_ms": 310778,
-      "name": "Arja3 Le An",
-      "url": "https://open.spotify.com/track/3b4Fb82NgUrPeW6fIr9AKH"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Alfaaz",
+        "url": "https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "Alfaaz",
+      "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
+    },
+    {
+      "album": {
         "name": "ROCKSTAR WITHOUT A GUITAR",
         "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
       },
@@ -378,6 +400,28 @@
       "duration_ms": 181308,
       "name": "BETTER DAYS",
       "url": "https://open.spotify.com/track/7ysTYZIjZjI2aRGIZV4h24"
+    },
+    {
+      "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/10dC38ihjvwpAWiPpGj8YP"
+      },
+      "artists": [
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211546,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/52cfWEaNQWPS3KDF43dUhR"
     },
     {
       "album": {
@@ -692,7 +736,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 258259,
       "name": "COLOURS",
       "url": "https://open.spotify.com/track/0tNnrhUuZOmBJ4mzVHYjvb"
@@ -2603,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/538EcZt7TNvb9TwEAIGEdm"
+      },
+      "artists": [
+        {
+          "name": "Hassan Sheikh",
+          "url": "https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157190,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/6h22CfuaQ8YtscaPFGRrVc"
+    },
+    {
+      "album": {
         "name": "ROCKSTAR WITHOUT A GUITAR",
         "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
       },
@@ -2732,6 +2794,28 @@
       "duration_ms": 147000,
       "name": "Pal Pal",
       "url": "https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo"
+    },
+    {
+      "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/10dC38ihjvwpAWiPpGj8YP"
+      },
+      "artists": [
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175962,
+      "name": "Paray Jaa",
+      "url": "https://open.spotify.com/track/7KRBIwe87MeSXvz9yoajAL"
     },
     {
       "album": {
@@ -2965,6 +3049,28 @@
     },
     {
       "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/10dC38ihjvwpAWiPpGj8YP"
+      },
+      "artists": [
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "Rithmetic",
+          "url": "https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177021,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/3LWQnTmtnLL2ZaaYJBcFWD"
+    },
+    {
+      "album": {
         "name": "Saazish",
         "url": "https://open.spotify.com/album/7k07DkXFCBMGlWfbeB7iwf"
       },
@@ -3144,6 +3250,28 @@
       "duration_ms": 157048,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg"
+    },
+    {
+      "album": {
+        "name": "Same Kid",
+        "url": "https://open.spotify.com/album/4QSygv4snkeW5yNyKu3CY5"
+      },
+      "artists": [
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200629,
+      "name": "Same Kid",
+      "url": "https://open.spotify.com/track/1vSsaGIvdlZvXmRY96MIwv"
     },
     {
       "album": {

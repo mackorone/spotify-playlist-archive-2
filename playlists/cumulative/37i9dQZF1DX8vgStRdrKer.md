@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-898 songs - 3 day 7 hr 34 min
+899 songs - 3 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Daily II](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily II](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 | 2025-02-28 | 2025-06-06 |
 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 | 2024-02-09 | 2025-06-27 |
 | [DAY OF THE LORD](https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC) | [REFUGE WRSHP](https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE) | [DAY OF THE LORD](https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL) | 7:07 | 2024-04-26 | 2024-05-16 |
+| [Dear Lord](https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Dear Lord](https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r) | 8:52 | 2026-10-30 |  |
 | [Decided](https://open.spotify.com/track/24bnanTc0X1wQIxbFojZgc) | [DJ Samtop](https://open.spotify.com/artist/1QO8Ftp8j6Tlo9PJiB73Mi), [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Richard Lovings](https://open.spotify.com/artist/1sTC6qMc09R7PzvpNNKtPs) | [Decided](https://open.spotify.com/album/5dQRwhDlZIYeX1bCwwp7OJ) | 3:20 | 2025-09-19 | 2025-11-01 |
 | [Deliverance](https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Deliverance](https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw) | 3:44 | 2024-03-01 | 2024-05-04 |
 | [Deliverer \- Live](https://open.spotify.com/track/5c3CsPaBPhYcJb8N4UEv03) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Deliverer \(Live\)](https://open.spotify.com/album/13zjMXCQDasfVRhh4CXDsS) | 6:07 | 2025-09-26 | 2026-05-06 |
@@ -230,7 +231,7 @@
 | [Eyinju](https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F) | [Nifemi David](https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt) | [Eyinju](https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4) | 4:17 | 2024-02-16 | 2025-05-30 |
 | [Ezulwini Basilindile \- Live at Isibaya Casino](https://open.spotify.com/track/13vguiJ6qSsrlYubgnF8Jd) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Ezulwini Basilindile \(Live at Isibaya Casino\)](https://open.spotify.com/album/6JmRdCQmv2Cgi3l0mWoybq) | 13:31 | 2025-10-31 | 2025-12-13 |
 | [Fade Away](https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Fade Away](https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT) | 8:27 | 2024-11-08 | 2025-06-06 |
-| [Faithful](https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Faithful](https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB) | 9:46 | 2026-06-26 |  |
+| [Faithful](https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Faithful](https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB) | 9:46 | 2026-06-26 | 2026-11-06 |
 | [Faithful](https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Faithful](https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol) | 6:15 | 2024-03-22 | 2024-10-09 |
 | [Far Above All \- Live Version](https://open.spotify.com/track/3zvyQ75g2PxmYaQxkN4QJO) | [Uzo Oachi](https://open.spotify.com/artist/3UlV06XcGOAy8dL0QYVHu3) | [Far Above All \(Live Version\)](https://open.spotify.com/album/1HFjY6Uw4lyONKyQ0kjml7) | 9:31 | 2025-05-16 | 2025-07-11 |
 | [Father](https://open.spotify.com/track/2WPjFlvF3E8SQrOE2KkY9C) | [Mairo Great](https://open.spotify.com/artist/1jNE6zqcxeVgxJmYpQygon) | [Father](https://open.spotify.com/album/3teuBwGRzSIJUxY77xTDjg) | 3:16 | 2026-04-17 | 2026-05-22 |

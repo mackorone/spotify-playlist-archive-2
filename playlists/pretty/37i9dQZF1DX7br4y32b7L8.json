@@ -1,28 +1,32 @@
 {
   "description": "#fyp songs voor je playlist. Cover: Issah",
-  "num_followers": 52041,
+  "num_followers": 52060,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABuMHNmci8XhDvEz2e5LJIS++yyW",
+  "snapshot_id": "AAAAADnjevszhT/DSqfugFUuP4zKUFEk",
   "tracks": [
     {
-      "added_at": "2026-10-15 22:00:30",
+      "added_at": "2026-11-05 14:02:06",
       "album": {
-        "name": "BADDIES IN BELGICA",
-        "url": "https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k"
+        "name": "BADDIES IN HOLLANDA",
+        "url": "https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5"
       },
       "artists": [
         {
           "name": "Issah",
           "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 125536,
-      "name": "BADDIES IN BELGICA",
-      "url": "https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE"
+      "duration_ms": 125485,
+      "name": "BADDIES IN HOLLANDA",
+      "url": "https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4"
     },
     {
       "added_at": "2026-10-15 22:00:30",

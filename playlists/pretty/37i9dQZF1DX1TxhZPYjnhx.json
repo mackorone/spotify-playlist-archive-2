@@ -1,13 +1,137 @@
 {
-  "description": "Discover new favorites or tomorrow's hits today. Cover: keshi",
-  "num_followers": 13495,
+  "description": "Discover new favorites or tomorrow's hits today. Cover: Dove Cameron",
+  "num_followers": 13496,
   "original_name": "Pop Rising Singapore & Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwMMthCixdJRpG7p7fnH67eA2C/",
+  "snapshot_id": "AAAAAJwFgepvBjCxRArHoQJP8CyIR/5u",
   "tracks": [
+    {
+      "added_at": "2026-11-05 16:00:31",
+      "album": {
+        "name": "FINAL GIRL",
+        "url": "https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "breaks open",
+      "url": "https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU"
+    },
+    {
+      "added_at": "2026-11-05 16:00:31",
+      "album": {
+        "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
+        "url": "https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 216993,
+      "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
+      "url": "https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81"
+    },
+    {
+      "added_at": "2026-11-05 16:00:31",
+      "album": {
+        "name": "Dream Fatigue",
+        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Elvis (feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO"
+    },
+    {
+      "added_at": "2026-11-05 16:00:31",
+      "album": {
+        "name": "Sweet Action II",
+        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 141824,
+      "name": "TOO SOON (feat. Babyface)",
+      "url": "https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke"
+    },
+    {
+      "added_at": "2026-11-05 16:00:31",
+      "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
+    },
+    {
+      "added_at": "2026-11-05 16:00:31",
+      "album": {
+        "name": "DEPENDS",
+        "url": "https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 185229,
+      "name": "DEPENDS",
+      "url": "https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4"
+    },
+    {
+      "added_at": "2026-11-05 16:00:31",
+      "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/63skES6QZCyxqmMy1c9QtZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 187592,
+      "name": "The Wheel - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/2CogABm63uPyd2qAo259RW"
+    },
     {
       "added_at": "2026-10-23 04:05:14",
       "album": {
@@ -607,42 +731,6 @@
     {
       "added_at": "2026-10-09 04:00:39",
       "album": {
-        "name": "Unknown Planet",
-        "url": "https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Unknown Planet",
-      "url": "https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 237250,
-      "name": "So Good (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
         "name": "Pylon",
         "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
       },
@@ -1015,102 +1103,6 @@
       "duration_ms": 230104,
       "name": "World's Greatest!",
       "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "Question Of The Day",
-        "url": "https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 151003,
-      "name": "Question Of The Day",
-      "url": "https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "crank 2",
-        "url": "https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 199696,
-      "name": "crank 2",
-      "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "chilling in my bathtub",
-        "url": "https://open.spotify.com/album/7xWjvCyfTkOyyp7FtWnvhX"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 191842,
-      "name": "chilling in my bathtub",
-      "url": "https://open.spotify.com/track/4kU6toL3cyw5Tly52hCsqb"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "before",
-        "url": "https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG"
-      },
-      "artists": [
-        {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "before",
-      "url": "https://open.spotify.com/track/2Lq1w0xiEHoGAJ68vT21bp"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "Pillow Fight / I\u2019d Rather Be Alone",
-        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 141315,
-      "name": "Pillow Fight",
-      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "BBB",
-        "url": "https://open.spotify.com/album/3UJPdlqJ2Di179mRPiTe0l"
-      },
-      "artists": [
-        {
-          "name": "XONE",
-          "url": "https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "BBB",
-      "url": "https://open.spotify.com/track/0uyPzNqlpKwijyTI21wI1B"
     },
     {
       "added_at": "2026-10-09 04:00:39",
@@ -1495,58 +1487,6 @@
       "duration_ms": 156805,
       "name": "One Day I'll Learn (ft. Young Cocoa)",
       "url": "https://open.spotify.com/track/114M54VHxRmEj9uDprKQC0"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "The Weight of the Woods (Extended Edition)",
-        "url": "https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 344295,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "finally out",
-        "url": "https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY"
-      },
-      "artists": [
-        {
-          "name": "NO TIME FOR SILENCE",
-          "url": "https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "finally out",
-      "url": "https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM"
-    },
-    {
-      "added_at": "2026-10-09 04:00:39",
-      "album": {
-        "name": "JALSA",
-        "url": "https://open.spotify.com/album/4dKVRp7yPmLsbQQwT1upW7"
-      },
-      "artists": [
-        {
-          "name": "Yung Raja",
-          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
-        },
-        {
-          "name": "Killa K",
-          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "JALSA",
-      "url": "https://open.spotify.com/track/6U9u32BeswErszKG7mBOAj"
     }
   ],
   "unique_name": "Pop Rising Singapore & Malaysia",

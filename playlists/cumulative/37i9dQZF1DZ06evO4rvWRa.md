@@ -4,7 +4,7 @@
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-142 songs - 6 hr 55 min
+143 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 | 2023-06-18 |  |
 | [TOO BAD \- Alan Walker Remix](https://open.spotify.com/track/6JcKisIcNS6Pe3As4Alvmg) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [TOO BAD – Alan Walker Remix](https://open.spotify.com/album/4enxadOuHz7QgYDT1Tcn3b) | 2:28 | 2026-01-01 | 2026-02-13 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2023-06-18 | 2023-12-14 |
-| [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 | 2023-12-13 |  |
+| [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 | 2023-12-13 | 2026-11-06 |
+| [Unity](https://open.spotify.com/track/5HI2cv7hH0MB9x92FLoShu) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Unity](https://open.spotify.com/album/4ODxWrFY2tGiC045wVvNzM) | 3:24 | 2026-11-06 |  |
 | [Unsure](https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Unsure](https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P) | 2:48 | 2024-05-05 | 2025-04-29 |
 | [Void](https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Void](https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6) | 3:11 | 2026-02-15 |  |
 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 | 2024-08-02 | 2025-01-18 |

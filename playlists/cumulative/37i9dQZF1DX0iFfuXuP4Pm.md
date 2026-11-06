@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Ace Banzuelo
+> Mga nangunguna sa mundo ng OPM\. Cover: Wilbert Ross
 
-643 songs - 1 day 16 hr 12 min
+645 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,10 @@
 | [Bahala Na Sila](https://open.spotify.com/track/3Yj7S8OdTdmTk4SYFxRbKC) | [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Bahala Na Sila](https://open.spotify.com/album/5mZeVTKDwnXcNj0TZBHPGx) | 4:08 | 2025-11-27 | 2026-01-22 |
 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 | 2026-03-18 | 2026-06-26 |
 | [Baka Tayo](https://open.spotify.com/track/2zbkKNEGHrrPTNwMJhlbqK) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Baka Tayo](https://open.spotify.com/album/5yAqHOhAyHqulzlnBMoCwj) | 3:57 | 2026-06-10 |  |
-| [Bampira](https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 4:43 | 2026-09-18 |  |
+| [Bampira](https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 4:43 | 2026-09-18 | 2026-11-06 |
 | [Bandaid \(feat\. Johnoy Danao\)](https://open.spotify.com/track/7zZ4ZjBpdeVqBY12DDb5RO) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd) | [Bandaid \(feat\. Johnoy Danao\)](https://open.spotify.com/album/3LYZsMhLEpjUaAA1wFceUS) | 4:03 | 2025-08-20 | 2025-10-07 |
 | [Basta't Kasama Ka](https://open.spotify.com/track/3IHFveMyXASMzZeyyfcM9U) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Basta't Kasama Ka](https://open.spotify.com/album/3AdVxlvpAhoJI9uoXfsqEF) | 4:44 | 2026-06-26 | 2026-09-05 |
-| [Bawat Segundo](https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Bawat Segundo](https://open.spotify.com/album/3bB1fPxzbomi5nbqDcEn7M) | 4:11 | 2026-09-25 |  |
+| [Bawat Segundo](https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Bawat Segundo](https://open.spotify.com/album/3bB1fPxzbomi5nbqDcEn7M) | 4:11 | 2026-09-25 | 2026-11-06 |
 | [Bawat Taon](https://open.spotify.com/track/6kYyxKJDpeGFwQTIdhIlpp) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Bawat Taon](https://open.spotify.com/album/27Uo3d3sLqClyT7tX9ooHQ) | 3:54 | 2024-01-24 | 2024-02-15 |
 | [Bebe](https://open.spotify.com/track/48uhAuFJLnUwti49dcyjmZ) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Bebe](https://open.spotify.com/album/1iVwS9MFswan5ib1OQK4rc) | 3:10 | 2025-11-27 | 2025-12-18 |
 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-10 | 2024-08-08 |
@@ -91,6 +91,7 @@
 | [Blooming](https://open.spotify.com/track/52YkZd4cJahDlGxQquQqSa) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blooming](https://open.spotify.com/album/3lJZmrFNjrKzn6OarSVHRe) | 3:52 | 2024-11-06 | 2025-03-27 |
 | [Blow My Mind](https://open.spotify.com/track/6bznn1zsUOWLka1k0XqNPc) | [BLAZiNBONE](https://open.spotify.com/artist/3M2qdM68zYqRYtUbJXQl2r), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N) | [Blow My Mind](https://open.spotify.com/album/2NCPWqgqasKDH9u3QdZChQ) | 4:07 | 2026-10-23 |  |
 | [Bonethugs](https://open.spotify.com/track/2TpNXamV2wFVFu7guMmHWo) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Bonethugs](https://open.spotify.com/album/5eg5LO51rOWBkQ0EOK6EvN) | 3:39 | 2025-08-13 | 2025-09-18 |
+| [Buenos Dias](https://open.spotify.com/track/2gJ9yQunku9U74uOkWK2og) | [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l), [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Buenos Dias](https://open.spotify.com/album/47OBptQQJZdsSVRQXcTjzP) | 3:45 | 2026-11-06 |  |
 | [Bughaw](https://open.spotify.com/track/6C8Oy25ieRZqOsSJ6PAb86) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bughaw](https://open.spotify.com/album/2BHCBLxhR5lvCMoLiRMfDv) | 3:53 | 2024-12-11 | 2025-05-15 |
 | [Bumabalik](https://open.spotify.com/track/46eyv6NKFORLGyR5hxDhgh) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Bumabalik](https://open.spotify.com/album/1XhakE46NugfG5ylKdnxLT) | 4:20 | 2025-06-25 | 2025-08-14 |
 | [Buti Nalang](https://open.spotify.com/track/35k1RDZMyUYDYz8wcEQHO2) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Buti Nalang](https://open.spotify.com/album/2zFxPP8mY2CEFE3ZHspqfM) | 3:39 | 2024-03-27 | 2024-05-15 |
@@ -99,6 +100,7 @@
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-17 | 2024-10-24 |
 | [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/68zMRaBN30RjKDpvSa25mq) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 | 2025-12-03 | 2025-12-25 |
 | [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-19 | 2025-05-01 |
+| [Closer](https://open.spotify.com/track/7D2ZnXa4KgOg68ojItelCe) | [GEHLEE](https://open.spotify.com/artist/1OfZxFJgP1iSUivDRJRzr7) | [Closer](https://open.spotify.com/album/2WkAmRyQh7XqtnVRUWzX30) | 2:42 | 2026-11-06 |  |
 | [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 | 2024-09-26 | 2024-11-21 |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-01-24 | 2024-05-09 |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-05-15 | 2024-07-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Sammy Virji",
+  "description": "The home for alternative electronic music. Cover: Conducta",
   "name": "Altar",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 183636,
       "name": "2 Sexy 2 Be Vex",
       "url": "https://open.spotify.com/track/27vXWu7wX3GZ9SecsJEIpN"
@@ -5099,6 +5099,24 @@
     },
     {
       "album": {
+        "name": "Clean Slate",
+        "url": "https://open.spotify.com/album/50DYR6qDfzvwL1zqcUFPrW"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203312,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/0qNaUIRzOcpqlrVQEkVB7m"
+    },
+    {
+      "album": {
         "name": "Cleo",
         "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
       },
@@ -5308,7 +5326,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 203980,
       "name": "Club Feelz",
       "url": "https://open.spotify.com/track/6CGBTppIslowbb3DMrNC6x"
@@ -6196,7 +6214,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217797,
       "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
@@ -7545,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "Drive By Strokes / Primrose Mountain",
+        "url": "https://open.spotify.com/album/4fS08JJoAyyRnhLvEeNzNV"
+      },
+      "artists": [
+        {
+          "name": "Sam Girling",
+          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204166,
+      "name": "Drive By Strokes",
+      "url": "https://open.spotify.com/track/3T8hgQ4ivl2bcMZBRiqdqC"
+    },
+    {
+      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/2rVrgKwvQKGHe9wPjvpsDa"
       },
@@ -7564,6 +7600,24 @@
       "duration_ms": 253725,
       "name": "Driving On Sand",
       "url": "https://open.spotify.com/track/1XKrSSrclVXSAsrTK0E6y9"
+    },
+    {
+      "album": {
+        "name": "Drop",
+        "url": "https://open.spotify.com/album/6fGNKbBeR1kAm4M3GcJ2Ag"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/39PO3g3EGCMfMroUXSK8gD"
     },
     {
       "album": {
@@ -8579,6 +8633,24 @@
     },
     {
       "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/2VtFljXLqHG22i7OcwSD4e"
       },
@@ -9264,7 +9336,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182105,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
@@ -11748,7 +11820,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 209323,
       "name": "GRIT",
       "url": "https://open.spotify.com/track/2KMQQ1yvUUOgVjGDBStDRp"
@@ -12056,7 +12128,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 298132,
       "name": "hav u a sec",
       "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
@@ -13408,7 +13480,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 322759,
       "name": "I Don't Know What It Is",
       "url": "https://open.spotify.com/track/14ZxFBrX8ICK2W0ffsdTJB"
@@ -15492,7 +15564,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 232380,
       "name": "JUST 2 BE",
       "url": "https://open.spotify.com/track/6j00toPhg0azocuu0jgMu3"
@@ -15952,7 +16024,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 257035,
       "name": "Knight In Shining Prada",
       "url": "https://open.spotify.com/track/3liYWWSuD0zcytDMrUqsEq"
@@ -16400,7 +16472,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218823,
       "name": "Left / Right",
       "url": "https://open.spotify.com/track/4uJPbf9BuWkMrq5922a0jm"
@@ -17485,6 +17557,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3oNraxn7bql4vFjqiBfCgG"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225468,
+      "name": "Lovebird",
+      "url": "https://open.spotify.com/track/5QFv8wVSjCvukLj8onkrm6"
+    },
+    {
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
       },
@@ -18180,6 +18270,28 @@
       "duration_ms": 189207,
       "name": "Mash up the Dance",
       "url": "https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22"
+    },
+    {
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/3pbsnLYLe0fAshG1Uyzyd5"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Ceebo",
+          "url": "https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/3bhGt6n1v1htyY1pXDA4cz"
     },
     {
       "album": {
@@ -18948,7 +19060,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 178124,
       "name": "Move Shake",
       "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
@@ -21021,6 +21133,28 @@
     },
     {
       "album": {
+        "name": "out of touch",
+        "url": "https://open.spotify.com/album/1qGzDYLLsEXhIpZiYfQXy9"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "out of touch",
+      "url": "https://open.spotify.com/track/0ohMHpcILg4L9Af3jYskMs"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV"
       },
@@ -22336,7 +22470,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228977,
       "name": "PROJECT X",
       "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
@@ -22456,7 +22590,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 291956,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2TUAiQIUA0wKnQcpJslfoh"
@@ -25986,7 +26120,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 214982,
       "name": "Soft Trance, Hard Gossip - Edit",
       "url": "https://open.spotify.com/track/2fO1cps0HVeEZRzL5dW006"
@@ -26582,7 +26716,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207999,
       "name": "SQZME",
       "url": "https://open.spotify.com/track/4bCVm1YfSMPysLN7axPAtW"
@@ -27168,7 +27302,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 209323,
       "name": "Sunpetal",
       "url": "https://open.spotify.com/track/4eZ86BB6u2BZXj7ilo1mk4"
@@ -27244,6 +27378,32 @@
       "duration_ms": 223993,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9"
+    },
+    {
+      "album": {
+        "name": "Suriname (feat. brazy and King Doudou)",
+        "url": "https://open.spotify.com/album/1HN9rxwfsN0RSQzI2tXKVg"
+      },
+      "artists": [
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158369,
+      "name": "Suriname (feat. brazy & King Doudou)",
+      "url": "https://open.spotify.com/track/6DqpNUtN5omf3bTRDED58j"
     },
     {
       "album": {
@@ -27730,7 +27890,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205715,
       "name": "Tatiana",
       "url": "https://open.spotify.com/track/58AdHNWPznp7kJ6C9RzxYE"
@@ -30140,7 +30300,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 230697,
       "name": "U GO",
       "url": "https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd"
@@ -31282,6 +31442,24 @@
       "duration_ms": 173959,
       "name": "Wanna See U Again",
       "url": "https://open.spotify.com/track/61wIaRj0CMJR7MecUlW5a1"
+    },
+    {
+      "album": {
+        "name": "WANT",
+        "url": "https://open.spotify.com/album/6ImD6RfkmxfKRetuhfqjyI"
+      },
+      "artists": [
+        {
+          "name": "Another Country $$$$",
+          "url": "https://open.spotify.com/artist/3At9kBvFhiXo8y64fyHdwo"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272931,
+      "name": "WANT",
+      "url": "https://open.spotify.com/track/2tUG60GZjYMbZTYFBBSvw7"
     },
     {
       "album": {
@@ -32798,7 +32976,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 234120,
       "name": "Zonda",
       "url": "https://open.spotify.com/track/02SzQvkqj0gPmai51pkls5"

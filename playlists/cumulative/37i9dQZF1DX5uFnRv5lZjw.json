@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Brighter Moon",
+        "url": "https://open.spotify.com/album/1KbGCgPVLKggHFzsm1wX3F"
+      },
+      "artists": [
+        {
+          "name": "Ventra Moors",
+          "url": "https://open.spotify.com/artist/0doSRhuGvMCVt5wAbEVTg0"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130649,
+      "name": "Brighter Moon",
+      "url": "https://open.spotify.com/track/5FeGlZ5DCMHlciLUEXJTGX"
+    },
+    {
+      "album": {
         "name": "Can't Be Replaced",
         "url": "https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi"
       },

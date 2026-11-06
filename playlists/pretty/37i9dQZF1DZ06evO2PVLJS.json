@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1131191,
+  "num_followers": 1131216,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADby3IVS6kZR96Uv+xkZgSC",
+  "snapshot_id": "aukkAAAAAAA+0lPr8THoh6UCoVw73fFT",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Tu Camino y el M\u00edo",
-      "url": "https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso"
+      "duration_ms": 178440,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Los Mandados",
-      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
+      "duration_ms": 177706,
+      "name": "Tu Camino y el M\u00edo",
+      "url": "https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso"
     },
     {
       "added_at": null,
@@ -575,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Quisiera",
-        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
       "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
         {
           "name": "Vicente Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 189960,
-      "name": "La Misma",
-      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
+      "duration_ms": 220320,
+      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Mismo Corazon",
-        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+        "name": "Si No Te Quisiera",
+        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
       },
       "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        },
         {
           "name": "Vicente Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 220320,
-      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
+      "duration_ms": 189960,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,080 songs - 2 day 3 hr 56 min
+1,081 songs - 2 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 | 2024-04-19 |
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-19 | 2024-06-28 |
 | [Don't Run](https://open.spotify.com/track/0FODu62RBuyngvchl8H7w3) | [Kosi O](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [Don't Run](https://open.spotify.com/album/0F4QcV3VSrFtSN2v5IGYZF) | 3:34 | 2025-08-25 | 2025-09-22 |
+| [Don't Say Bye](https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH) | [Something To Die For](https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT) | 2:57 | 2026-10-23 |  |
 | [Done With Talking](https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Done With Talking](https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi) | 3:00 | 2024-04-26 | 2024-05-03 |
 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 | 2025-04-11 | 2025-08-26 |
 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 | 2025-07-25 |  |
@@ -397,7 +398,7 @@
 | [Gobe](https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Before I Blow](https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr) | 2:40 | 2026-04-17 |  |
 | [GOD DESIGN](https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GOD DESIGN](https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp) | 3:35 | 2025-04-18 | 2025-08-26 |
 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 | 2024-08-30 | 2025-03-08 |
-| [GODDESS \(feat\. Lojay\)](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 | 2026-10-16 |  |
+| [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 | 2026-10-16 |  |
 | [GOLIATH](https://open.spotify.com/track/5cI5ynzXU4SsRql9dKYnmR) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/12BoH0Ap35t0UyiuSXTMQC) | 2:34 | 2025-03-21 | 2025-04-05 |
 | [GOLIATH](https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp) | 2:34 | 2025-07-18 | 2025-08-26 |
 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 | 2025-09-05 |  |
@@ -1068,7 +1069,7 @@
 | [YAHWEH](https://open.spotify.com/track/4KfFubXepl2rdjPXH2oNNi) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:45 | 2023-03-03 | 2023-05-08 |
 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 | 2026-03-13 | 2026-03-20 |
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-05 | 2025-03-08 |
-| [YBTM](https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [YBTM](https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv) | 2:56 | 2026-06-25 |  |
+| [YBTM](https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [YBTM](https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv) | 2:56 | 2026-06-25 | 2026-11-06 |
 | [Yemi My Lover](https://open.spotify.com/track/5RQuHSlA3xJq0BNWC8l6S4) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Yemi My Lover](https://open.spotify.com/album/7c82UYgtQ7WD7rkdjhkI5s) | 2:56 | 2024-08-02 | 2024-08-14 |
 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 | 2025-08-29 | 2026-01-15 |
 | [Yori yori](https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Yori yori](https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF) | 2:43 | 2026-05-25 | 2026-08-12 |

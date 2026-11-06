@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162285,
       "name": "Holy Ground (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
@@ -3126,6 +3126,28 @@
       "duration_ms": 208427,
       "name": "One Ticket",
       "url": "https://open.spotify.com/track/6SGT6Cd6Z5xF9GAOnf0XdZ"
+    },
+    {
+      "album": {
+        "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/5hfh67t1O4R2BykWhDE7HW"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208427,
+      "name": "One Ticket",
+      "url": "https://open.spotify.com/track/7aVdBfyW1BPgezEFChrPyY"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: GeezyDee y Kris R.",
+  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: GeezyDee.",
   "name": "Trapperz Andinos",
   "tracks": [
     {
@@ -854,6 +854,28 @@
       "duration_ms": 197818,
       "name": "DESACIERTOS",
       "url": "https://open.spotify.com/track/1nNK67uDQV99OCvgmU2gvK"
+    },
+    {
+      "album": {
+        "name": "DESTACADAS",
+        "url": "https://open.spotify.com/album/6SWBdUXlCZXXkH09muagXa"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "DESTACADAS",
+      "url": "https://open.spotify.com/track/5yQpSAyNZVgJBllGiRFAgK"
     },
     {
       "album": {
@@ -2369,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "MoonWalkin",
+        "url": "https://open.spotify.com/album/4Nq2hr1B4yOCjzEefuOmhj"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170370,
+      "name": "MoonWalkin",
+      "url": "https://open.spotify.com/track/5mDiMtJXViQWCYaQ1M4ZDC"
+    },
+    {
+      "album": {
         "name": "MR CHIMB4S",
         "url": "https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm"
       },
@@ -2552,7 +2592,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 158350,
       "name": "No Le Digas a Mi Novio",
       "url": "https://open.spotify.com/track/50KexZ4gua7Wqfv0yDCYuu"
@@ -3028,7 +3068,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 189033,
       "name": "Putero",
       "url": "https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5"

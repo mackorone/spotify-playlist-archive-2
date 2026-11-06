@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: RESCENE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-572 songs - 1 day 6 hr 58 min
+573 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-20 | 2022-07-05 |
 | [remembrance candy](https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:04 | 2024-10-16 | 2024-10-22 |
 | [Renaissance](https://open.spotify.com/track/73tK3X9QfFjSjby77aeKye) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Dream your dream](https://open.spotify.com/album/6PfJc6U6hFSmFs0AxaTEeY) | 3:41 | 2021-11-29 | 2022-06-12 |
+| [Replay](https://open.spotify.com/track/1OacIJuG9iPovyPMiwRfzW) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Replay](https://open.spotify.com/album/3wOSbNWpUutUJT8TcXQGyz) | 2:57 | 2026-11-05 |  |
 | [Ridin' Out](https://open.spotify.com/track/0WRjZPy5qlpvgzM0hwBIc2) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [BAD](https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx) | 2:56 | 2024-03-18 | 2024-04-05 |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-11-29 | 2022-10-28 |
 | [Rock U](https://open.spotify.com/track/1UH0rFRBSBEtgtUdqNKFK5) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [The Best Of KARA](https://open.spotify.com/album/1hbLjh2GLYu56RMNIy5kRr) | 3:31 | 2022-03-29 | 2022-04-21 |
@@ -416,7 +417,7 @@
 | [Shine](https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:36 | 2022-01-26 | 2022-04-11 |
 | [Shining Bright](https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [DELIGHT](https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6) | 3:28 | 2023-03-30 | 2023-07-18 |
 | [Shining on you](https://open.spotify.com/track/3IsCZMnFNRssjVSF8YBbZW) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Shining on you](https://open.spotify.com/album/7t8xBLIkt24xrDwvyfzUJ5) | 3:28 | 2024-07-16 | 2024-07-25 |
-| [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 | 2025-09-12 |  |
+| [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 | 2025-09-12 | 2026-11-06 |
 | [Shooting Star](https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:03 | 2024-06-03 | 2024-09-02 |
 | [Shot thru the heart](https://open.spotify.com/track/7ut6KQCuZ2ANbnMsSe7eos) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:25 | 2022-03-29 | 2022-04-13 |
 | [SHOWMEYOURLOVE](https://open.spotify.com/track/5729t1p6g6KCWsp4gWYqvZ) | [Baek Ji](https://open.spotify.com/artist/0xQYsRfBcBJiStVACt3JDV) | [SHOWMEYOURLOVE](https://open.spotify.com/album/6nh26RBW7JikYtfynic5zp) | 3:14 | 2023-12-21 | 2024-01-21 |

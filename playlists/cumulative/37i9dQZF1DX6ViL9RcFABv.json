@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Gama WNTD",
+  "description": "Uma playlist de pura alma pop! Foto: SYRO",
   "name": "Pop PT",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 136968,
       "name": "A Coisa Vai Andando",
       "url": "https://open.spotify.com/track/1D5koDg0uGRsy8BlyIPox3"
+    },
+    {
+      "album": {
+        "name": "A Menos Um Amor de Ti",
+        "url": "https://open.spotify.com/album/1WMIVFZ4Uz78pQId9xi8tz"
+      },
+      "artists": [
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207413,
+      "name": "A Menos Um Amor de Ti",
+      "url": "https://open.spotify.com/track/3fPCUfoRxaUPNYhGPFdg1w"
     },
     {
       "album": {
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200223,
       "name": "Bam Bam (com Ney Matogrosso)",
       "url": "https://open.spotify.com/track/649nqkivTrmhPNPj31EO7y"
@@ -2155,6 +2173,28 @@
     },
     {
       "album": {
+        "name": "Colado Na Bo",
+        "url": "https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Colado Na Bo",
+      "url": "https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r"
+    },
+    {
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih"
       },
@@ -2380,6 +2420,24 @@
       "duration_ms": 196800,
       "name": "Conta-Me Tudo",
       "url": "https://open.spotify.com/track/7zz6eumA7xoGgDt6bkvknu"
+    },
+    {
+      "album": {
+        "name": "E Agora?",
+        "url": "https://open.spotify.com/album/4sGwNQcixJ5xtYFHOUJ5sp"
+      },
+      "artists": [
+        {
+          "name": "HMB",
+          "url": "https://open.spotify.com/artist/4zV7RMrLwCXYZyzLyGqDFC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "Contentores",
+      "url": "https://open.spotify.com/track/0jAI1MJ1CKajiV6UIIhRF5"
     },
     {
       "album": {
@@ -3472,6 +3530,24 @@
       "duration_ms": 213040,
       "name": "Drama",
       "url": "https://open.spotify.com/track/6N1z5XlUcO67JA1XxTdIsu"
+    },
+    {
+      "album": {
+        "name": "Viagem Sem Regresso",
+        "url": "https://open.spotify.com/album/65EksX40X95LoOfz2b9G1a"
+      },
+      "artists": [
+        {
+          "name": "Descendentes",
+          "url": "https://open.spotify.com/artist/5DpVZE4NH0yveH86S2gcjh"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "Duas Vidas",
+      "url": "https://open.spotify.com/track/5xdM4ZK9G333MOch7obCba"
     },
     {
       "album": {
@@ -5969,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "Mar Alto",
+        "url": "https://open.spotify.com/album/5jvAZpAc4rvttxdg5VjbQd"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Mar Alto",
+      "url": "https://open.spotify.com/track/3h6WcBskgWW23zaCVH8dlJ"
+    },
+    {
+      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/0SLtiqiwvr96f5M7znVlVz"
       },
@@ -6206,6 +6300,24 @@
       "duration_ms": 180000,
       "name": "Medo",
       "url": "https://open.spotify.com/track/6SdhNImhd8UMS0Tm79kRaA"
+    },
+    {
+      "album": {
+        "name": "Meio da Roda",
+        "url": "https://open.spotify.com/album/3N6qux74cQssu0TIrz1Nh5"
+      },
+      "artists": [
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Meio da Roda",
+      "url": "https://open.spotify.com/track/7E0NUC98gUAg7M6LHtVsQa"
     },
     {
       "album": {
@@ -6860,7 +6972,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 197693,
       "name": "nada \u00e9 do acaso (feat. Os Quatro e Meia)",
       "url": "https://open.spotify.com/track/32d5gYQGKPvZ87QjCNkqpD"
@@ -7979,6 +8091,24 @@
     },
     {
       "album": {
+        "name": "Parvo Que Sou",
+        "url": "https://open.spotify.com/album/7ydMS56S2gcNy3ACyVDLER"
+      },
+      "artists": [
+        {
+          "name": "Resistencia",
+          "url": "https://open.spotify.com/artist/4irQFOvJpHzEz71jyEpJ7I"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271786,
+      "name": "Parvo Que Sou",
+      "url": "https://open.spotify.com/track/4GaQsChXx9hG7gTewYzK0j"
+    },
+    {
+      "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/32C3J9lftiE87G55F5ThXW"
       },
@@ -8084,7 +8214,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186653,
       "name": "Pele e Sal",
       "url": "https://open.spotify.com/track/4tEnMO8dMoz3OoKKNQhxed"
@@ -8546,6 +8676,24 @@
       "duration_ms": 228502,
       "name": "portas do sol",
       "url": "https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4"
+    },
+    {
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/3Atrd1sPOXBjtVkJaqTrDq"
+      },
+      "artists": [
+        {
+          "name": "Mia Benita",
+          "url": "https://open.spotify.com/artist/7JUhLYbVExHkPDu3i2fc4e"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "POUCA A\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4CNNxC0M9lSlC2NtDopz2k"
     },
     {
       "album": {

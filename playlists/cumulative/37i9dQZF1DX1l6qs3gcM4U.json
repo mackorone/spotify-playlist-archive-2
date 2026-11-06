@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Garry",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -604,7 +604,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 186922,
       "name": "Amar Pela Metade",
       "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "B\u00f4 \u00c9 Di Meu",
+        "url": "https://open.spotify.com/album/7lFCP2Swrwqn0s2SlT4eEq"
+      },
+      "artists": [
+        {
+          "name": "Adi Cudz",
+          "url": "https://open.spotify.com/artist/1BdYccRPWnSKT7Hk8cZP3d"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "B\u00f4 \u00c9 Di Meu",
+      "url": "https://open.spotify.com/track/2TObdLq6IIF8t8n6i45VUV"
+    },
+    {
+      "album": {
         "name": "Museu",
         "url": "https://open.spotify.com/album/1aMmsWFPsp3xmSoOS6a1LH"
       },
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 266444,
       "name": "Chuva De Amor - Live At Est\u00e1dio De Braga",
       "url": "https://open.spotify.com/track/3eTwW60hkvQBwBMfZWj5OR"
@@ -2532,6 +2550,28 @@
       "duration_ms": 138117,
       "name": "Cola S\u00f3",
       "url": "https://open.spotify.com/track/1J7YYR7onVtLJELdNLjzkE"
+    },
+    {
+      "album": {
+        "name": "Colado Na Bo",
+        "url": "https://open.spotify.com/album/3ZJWs0JWOaYGlpIVb9zxwd"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Colado Na Bo",
+      "url": "https://open.spotify.com/track/6PJD8inlYxWwZfF6VWB87r"
     },
     {
       "album": {
@@ -3454,7 +3494,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 171083,
       "name": "Desilus\u00e3o",
       "url": "https://open.spotify.com/track/4994EGhDnRgqGY06YQ25F1"
@@ -5942,7 +5982,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 195350,
       "name": "Jungle Fever",
       "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
@@ -7650,7 +7690,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 196330,
       "name": "Menta",
       "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
@@ -8034,6 +8074,24 @@
       "duration_ms": 210648,
       "name": "Momentos",
       "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
+    },
+    {
+      "album": {
+        "name": "Mon Ch\u00e9ri",
+        "url": "https://open.spotify.com/album/65mYAuw0tbwojY0MyJqFRL"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208160,
+      "name": "Mon Ch\u00e9ri",
+      "url": "https://open.spotify.com/track/516iFo23C83jkUcVbgvEpn"
     },
     {
       "album": {
@@ -8486,6 +8544,24 @@
       "duration_ms": 207125,
       "name": "Nao Me Atrapalha",
       "url": "https://open.spotify.com/track/7vCXtuKIHb49vUSdd5Mko2"
+    },
+    {
+      "album": {
+        "name": "Narcisista",
+        "url": "https://open.spotify.com/album/6veotNMsscguWrAxurUM46"
+      },
+      "artists": [
+        {
+          "name": "Mimae",
+          "url": "https://open.spotify.com/artist/03QlhUt8l7NYoEIhxiVyHH"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240668,
+      "name": "Narcisista",
+      "url": "https://open.spotify.com/track/4Qf9B4MOILDKXGzpyUhYtC"
     },
     {
       "album": {
@@ -13084,7 +13160,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164636,
       "name": "The Best",
       "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"

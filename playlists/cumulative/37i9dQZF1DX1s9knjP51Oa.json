@@ -12295,6 +12295,24 @@
     },
     {
       "album": {
+        "name": "Silent Beachwood",
+        "url": "https://open.spotify.com/album/2nyMWwiJAn13CiLCfM0Q5Z"
+      },
+      "artists": [
+        {
+          "name": "Hidden Nat\u00far",
+          "url": "https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138007,
+      "name": "Silent Beachwood",
+      "url": "https://open.spotify.com/track/0yW0MuhfGLPdrMsJqNWnzH"
+    },
+    {
+      "album": {
         "name": "Silent joy",
         "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
       },
@@ -14924,6 +14942,24 @@
       "duration_ms": 180500,
       "name": "Unsere Reise",
       "url": "https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC"
+    },
+    {
+      "album": {
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/1NvHYJV7Sh2XsBBinKyvFN"
+      },
+      "artists": [
+        {
+          "name": "Eric Ville de Soins",
+          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180118,
+      "name": "Unspoken Words",
+      "url": "https://open.spotify.com/track/2YA8KkWl4Jqew4Yk2yGNLo"
     },
     {
       "album": {

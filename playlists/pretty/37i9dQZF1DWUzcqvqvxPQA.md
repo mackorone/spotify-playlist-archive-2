@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,503 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,513 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 37 | [You Were There](https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [You Were There](https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh) | 4:15 |
 | 38 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 |
 | 39 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
-| 40 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
-| 41 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
+| 40 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
+| 41 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
 | 42 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
 | 43 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 |
 | 44 | [Things Jesus Didn't Say](https://open.spotify.com/track/03qGBQopCiCi47Kq2ZPsn2) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Things Jesus Didn't Say](https://open.spotify.com/album/0BqDLIkQKH99l04mD2rkm7) | 2:22 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 46 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
 | 47 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 48 | [Wait For The Dawn](https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa) | 3:04 |
-| 49 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/2Gdc4bTh7MYkPQGXbMeyzr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/1m93X8VpURTvUomirYDWQT) | 4:20 |
-| 50 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
+| 49 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
+| 50 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/2Gdc4bTh7MYkPQGXbMeyzr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/1m93X8VpURTvUomirYDWQT) | 4:20 |
 | 51 | [Autumn Fires](https://open.spotify.com/track/1HQ1ywGXL08RE0cwRcrII8) | [RIVER RIVER](https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1) | [Autumn Fires](https://open.spotify.com/album/2sYPnUUk5RFoT53FM2NW3r) | 3:00 |
 | 52 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 53 | [saturday](https://open.spotify.com/track/6lXrSyrS4HVSCafgBLh79j) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [saturday](https://open.spotify.com/album/0UaGwKMT19eb7ai6Y1KAZs) | 3:30 |

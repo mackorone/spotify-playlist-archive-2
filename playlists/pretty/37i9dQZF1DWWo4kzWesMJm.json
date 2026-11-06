@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 189409,
+  "num_followers": 189420,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
+      },
+      "artists": [
+        {
+          "name": "Tom Frager",
+          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
+        }
+      ],
+      "duration_ms": 191659,
+      "name": "Lady M\u00e9lody",
+      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 210706,
       "name": "Le chemin (feat. Sita)",
       "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
-      },
-      "artists": [
-        {
-          "name": "Tom Frager",
-          "url": "https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq"
-        }
-      ],
-      "duration_ms": 191659,
-      "name": "Lady M\u00e9lody",
-      "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Le vagabond",
-        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Cette ann\u00e9e-l\u00e0",
-      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 205586,
       "name": "On \u00e9tait beau",
       "url": "https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Le vagabond",
+        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2026-04-17 09:45:18",

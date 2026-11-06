@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "Continuum II",
+        "url": "https://open.spotify.com/album/5idy1U5VVBtpGRbGZL2YZe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337827,
+      "name": "Erbarm dich mein, o Herre Gott, BWV 721 (Performed on Piano)",
+      "url": "https://open.spotify.com/track/3VA5Ba50BV9teYFJdgrPGG"
+    },
+    {
+      "album": {
         "name": "Bach, J.S.: Flute Sonatas, Vol. 1",
         "url": "https://open.spotify.com/album/3qEiV65ceIfhUpKU7aTxcj"
       },

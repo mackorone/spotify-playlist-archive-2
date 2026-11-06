@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "1/1000000",
+        "url": "https://open.spotify.com/album/0Prtm5TkBrx8MP5CnHF7rN"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6ge",
+          "url": "https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5"
+        },
+        {
+          "name": "Hukas",
+          "url": "https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf"
+        },
+        {
+          "name": "VBZ",
+          "url": "https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217368,
+      "name": "1/1000000",
+      "url": "https://open.spotify.com/track/5RPjUgaj09sC7gan1RNJFp"
+    },
+    {
+      "album": {
         "name": "PIIKA",
         "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
       },
@@ -252,7 +278,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140800,
       "name": "2 Veijaa",
       "url": "https://open.spotify.com/track/1rzU1McJYL3oCxX40Dnlhd"
@@ -1614,7 +1640,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 173374,
       "name": "Aseita ja hevosia",
       "url": "https://open.spotify.com/track/3o6XvjSx6BKg2a4TlRFR7r"
@@ -3520,7 +3546,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152706,
       "name": "DND",
       "url": "https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO"
@@ -5267,6 +5293,28 @@
     },
     {
       "album": {
+        "name": "Trapskelm\u00e4 (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZSqsXMQxbSyaNJfmHJAkt"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159845,
+      "name": "Family Guy",
+      "url": "https://open.spotify.com/track/1cWK8sG2WGS47fmnrShFut"
+    },
+    {
+      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/6QSNt9jzZpqyJcsI9QAg3J"
       },
@@ -6078,6 +6126,28 @@
       "duration_ms": 188913,
       "name": "Haikailla",
       "url": "https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG"
+    },
+    {
+      "album": {
+        "name": "Lucky Me / Hall Of Fame",
+        "url": "https://open.spotify.com/album/6VAHIQshQXdP5badmy8PKj"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Hall Of Fame",
+      "url": "https://open.spotify.com/track/1QDiquRGnKLilWcZ7WcLwm"
     },
     {
       "album": {
@@ -8951,6 +9021,24 @@
     },
     {
       "album": {
+        "name": "Kaiken j\u00e4lkeen",
+        "url": "https://open.spotify.com/album/2Tj4oH9AFR20g97SCEnCgZ"
+      },
+      "artists": [
+        {
+          "name": "LVRRY",
+          "url": "https://open.spotify.com/artist/6j8jsYzQEJVnqEobLv8oNa"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Kaiken j\u00e4lkeen",
+      "url": "https://open.spotify.com/track/6jbhYjhVLE8mToSQeNatJo"
+    },
+    {
+      "album": {
         "name": "Kaiken Varalta",
         "url": "https://open.spotify.com/album/0Z0tPqogcU0KRCFZJZH7XC"
       },
@@ -11314,7 +11402,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150000,
       "name": "Kummittelee",
       "url": "https://open.spotify.com/track/6HsZfT35UYsCXxeFJ28mYb"
@@ -13149,6 +13237,28 @@
     },
     {
       "album": {
+        "name": "Lucky Me / Hall Of Fame",
+        "url": "https://open.spotify.com/album/6VAHIQshQXdP5badmy8PKj"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/08vkNt7YE2roKvCANAUqXO"
+    },
+    {
+      "album": {
         "name": "Lumikeng\u00e4t",
         "url": "https://open.spotify.com/album/6a9bgPEamcqmrOOYbFu9OF"
       },
@@ -13244,6 +13354,32 @@
       "duration_ms": 175995,
       "name": "Luojan kiitos",
       "url": "https://open.spotify.com/track/5IqPZb08CziCtBqdfru9gi"
+    },
+    {
+      "album": {
+        "name": "Luotei",
+        "url": "https://open.spotify.com/album/1qZzwrL145HOSqaFQBU3TG"
+      },
+      "artists": [
+        {
+          "name": "Jonihey",
+          "url": "https://open.spotify.com/artist/1WtBrJQdsrplnLjCjWzLsf"
+        },
+        {
+          "name": "mie.emi",
+          "url": "https://open.spotify.com/artist/18QmxIGnB8e4qQOQMeFgwT"
+        },
+        {
+          "name": "Huntti",
+          "url": "https://open.spotify.com/artist/7LDfEgbFZ0s4JNZMiO5gQo"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179583,
+      "name": "Luotei",
+      "url": "https://open.spotify.com/track/19463be9gLbKlXBfRoX5J7"
     },
     {
       "album": {
@@ -15186,7 +15322,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207727,
       "name": "mist\u00e4 alottasin",
       "url": "https://open.spotify.com/track/3u0l9pznpQbqwN11aVjbEx"
@@ -17432,7 +17568,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207480,
       "name": "N\u00e4hd\u00e4 lintuja",
       "url": "https://open.spotify.com/track/2ze6xnwHIhOs92TTXGhKfq"
@@ -17872,7 +18008,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 127058,
       "name": "Onks t\u00e4\u00e4 v\u00e4\u00e4rin",
       "url": "https://open.spotify.com/track/3HAeCGR0Dxix7adYfPHy8v"
@@ -18230,7 +18366,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179500,
       "name": "Paha mieli",
       "url": "https://open.spotify.com/track/6bBy3A1enSlBiIKieEHNDk"
@@ -18328,7 +18464,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 206131,
       "name": "Paholaisest seuraava",
       "url": "https://open.spotify.com/track/5NBBkK5sXbthE2sLLWVpB5"
@@ -18792,7 +18928,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 205333,
       "name": "Parhain P\u00e4in",
       "url": "https://open.spotify.com/track/6gxgoVdO28LN39Y2An9GFZ"
@@ -20059,6 +20195,24 @@
     },
     {
       "album": {
+        "name": "P\u00e4\u00e4p\u00e4iv\u00e4",
+        "url": "https://open.spotify.com/album/3EWdHiuoczfjeforjdxMyu"
+      },
+      "artists": [
+        {
+          "name": "Horse Attack Sqwad",
+          "url": "https://open.spotify.com/artist/24LKxLWbV018hPbn5YQ34K"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "P\u00e4\u00e4p\u00e4iv\u00e4",
+      "url": "https://open.spotify.com/track/40E6ONXw2To75kJclO2gui"
+    },
+    {
+      "album": {
         "name": "P\u00e4\u00e4s Kii",
         "url": "https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh"
       },
@@ -20232,7 +20386,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 165403,
       "name": "RADIKAALI",
       "url": "https://open.spotify.com/track/2R6TEk7WA1vUBxRUDMhfGU"
@@ -23420,7 +23574,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150857,
       "name": "Syd\u00e4men voit pit\u00e4\u00e4",
       "url": "https://open.spotify.com/track/3VL950tLbbd0GxeoBbQNzu"
@@ -25507,6 +25661,24 @@
     },
     {
       "album": {
+        "name": "Tytt\u00f6kulta",
+        "url": "https://open.spotify.com/album/2ae1zfitXS3NoGFRKkD8VF"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162272,
+      "name": "Tytt\u00f6kulta",
+      "url": "https://open.spotify.com/track/7ujt3o5We9HzBZ2znu3Vbk"
+    },
+    {
+      "album": {
         "name": "Tyt\u00f6t",
         "url": "https://open.spotify.com/album/7uVzBsj23arhg3SA6dOZi0"
       },
@@ -25562,6 +25734,28 @@
       "duration_ms": 154629,
       "name": "Tyt\u00f6t tiet\u00e4\u00e4",
       "url": "https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238"
+    },
+    {
+      "album": {
+        "name": "Ty\u00f6mies (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/4ZBAzLWrW4AEKvWEh5oYAY"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163239,
+      "name": "Ty\u00f6mies (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/6PwzNGH8pMFMe6gsnKsLNn"
     },
     {
       "album": {
@@ -27123,6 +27317,24 @@
     },
     {
       "album": {
+        "name": "Viiden t\u00e4hden kusip\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/3WGyGd5zcmxX52nOmia7Kx"
+      },
+      "artists": [
+        {
+          "name": "Sana",
+          "url": "https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163951,
+      "name": "Viiden t\u00e4hden kusip\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/73gshWMTBPP6HIBZFYTuAT"
+    },
+    {
+      "album": {
         "name": "VIIHTYM\u00c4\u00c4",
         "url": "https://open.spotify.com/album/3fD811mZJYgS0IQi6BdVVA"
       },
@@ -27579,6 +27791,24 @@
     },
     {
       "album": {
+        "name": "Voitin maailman (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/4NTuE0G9HbecAxBNWnzP8U"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140581,
+      "name": "Voitin maailman (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/58pP6nPCciYCrJiSodLxva"
+    },
+    {
+      "album": {
         "name": "Voittajan tunti",
         "url": "https://open.spotify.com/album/5lyc8ZVOM895eyA7uxbazX"
       },
@@ -27664,6 +27894,24 @@
       "duration_ms": 149399,
       "name": "Vuosi (feat. SANNI)",
       "url": "https://open.spotify.com/track/7ka3rnsRdx8MwOydwceZRt"
+    },
+    {
+      "album": {
+        "name": "V\u00e4lil sataa",
+        "url": "https://open.spotify.com/album/0wgQqKkk6ayexHPuKoV8D0"
+      },
+      "artists": [
+        {
+          "name": "jokeri",
+          "url": "https://open.spotify.com/artist/3NawbtNZl7gINBx85aBJ9y"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167817,
+      "name": "V\u00e4lil sataa",
+      "url": "https://open.spotify.com/track/13Q8WZAv9ZmMpiCga8DfE3"
     },
     {
       "album": {

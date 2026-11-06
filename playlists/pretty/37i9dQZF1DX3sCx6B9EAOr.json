@@ -1,6 +1,6 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 119590,
+  "num_followers": 119587,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "duration_ms": 166612,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
         "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
         "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 184202,
       "name": "YEAH! YEAH!",
       "url": "https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 166612,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "We Are UNCHILD",
-        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
-      },
-      "artists": [
-        {
-          "name": "UNCHILD",
-          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "UNCHILD",
-      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "I DO ME",
         "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "We Are UNCHILD",
+        "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
+      },
+      "artists": [
+        {
+          "name": "UNCHILD",
+          "url": "https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "UNCHILD",
+      "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 178013,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "RUN IT",
-        "url": "https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "RUN IT",
-      "url": "https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "NO DOUBT",
         "url": "https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 151867,
       "name": "DEAD MAN WALKING",
       "url": "https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
+        "name": "My First Kick",
+        "url": "https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
+      "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
         "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
         "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 163844,
       "name": "Caution",
       "url": "https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "My First Kick",
-        "url": "https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j"
-      },
-      "artists": [
-        {
-          "name": "KickFlip",
-          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
-      "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"
     },
     {
       "added_at": "2026-08-27 04:18:30",

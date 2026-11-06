@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Den b\u00e4sta och st\u00f6rsta rocklistan i Sverige! Cover: Amon Amarth",
+  "description": "Den b\u00e4sta och st\u00f6rsta rocklistan i Sverige! Cover: Sabaton",
   "name": "VOLUME SWEDEN",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 218159,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
@@ -818,6 +818,24 @@
       "duration_ms": 212142,
       "name": "Beautiful Disaster",
       "url": "https://open.spotify.com/track/156pbk1UdF3CP6hiG9Szjh"
+    },
+    {
+      "album": {
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/7o6KAiSsQvYALUgwSIRjVe"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Berserker",
+      "url": "https://open.spotify.com/track/36uTmaG8pmYQIPhWVPtPNE"
     },
     {
       "album": {
@@ -2388,6 +2406,24 @@
       "duration_ms": 203200,
       "name": "DON'T B E L O N G",
       "url": "https://open.spotify.com/track/7cBK7AcFMiOhCCfMyA0xba"
+    },
+    {
+      "album": {
+        "name": "UNWANTED",
+        "url": "https://open.spotify.com/album/25RVSt8ZWQSJJ83j9RvfxL"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114140,
+      "name": "don't be fooled",
+      "url": "https://open.spotify.com/track/6U2dmcIOpqRHPIW2UeqXb3"
     },
     {
       "album": {
@@ -5092,7 +5128,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 251869,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
@@ -6379,6 +6415,28 @@
     },
     {
       "album": {
+        "name": "In the Shadow of Your Shadow",
+        "url": "https://open.spotify.com/album/2jo7MOpWqcaorbFYvAhmZL"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        },
+        {
+          "name": "Joe Duplantier",
+          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287268,
+      "name": "Sadness Will Reign",
+      "url": "https://open.spotify.com/track/25zZRrNIIPeKPXXOd76HWu"
+    },
+    {
+      "album": {
         "name": "Safe And Sound",
         "url": "https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN"
       },
@@ -6462,7 +6520,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186453,
       "name": "SAVIOR",
       "url": "https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7"
@@ -6606,7 +6664,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
@@ -9482,6 +9540,24 @@
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
+    },
+    {
+      "album": {
+        "name": "Zombie Night",
+        "url": "https://open.spotify.com/album/5cqGlDjs37YiiTSd42EdLk"
+      },
+      "artists": [
+        {
+          "name": "Priest",
+          "url": "https://open.spotify.com/artist/6niO7WSbw5n0nD58jPi2Mx"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Zombie Night",
+      "url": "https://open.spotify.com/track/4KvuZr7qcx4jzTIEKZRwCO"
     },
     {
       "album": {

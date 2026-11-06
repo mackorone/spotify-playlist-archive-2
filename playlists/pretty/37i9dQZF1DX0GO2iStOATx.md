@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi aa gaye oye!
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,905 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,963 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 32 | [Heer](https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:44 |
 | 33 | [Saanvle \(feat\. Raj Ranjodh\)](https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Saanvle \(feat\. Raj Ranjodh\)](https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X) | 3:28 |
 | 34 | [Icon](https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:28 |
-| 35 | [Midnight Desires](https://open.spotify.com/track/35imBoVE05swGqEdb17COU) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Hrmnn](https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:52 |
-| 36 | [Gunda](https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [604Blizzy](https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:14 |
+| 35 | [Gunda](https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [604Blizzy](https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:14 |
+| 36 | [Midnight Desires](https://open.spotify.com/track/35imBoVE05swGqEdb17COU) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Hrmnn](https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:52 |
 | 37 | [Future](https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Con.Fi.Den.Tial](https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD) | 2:53 |
 | 38 | [Infinite Return](https://open.spotify.com/track/24sVtO6KaTmPVH3n99THBB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 0:33 |
 | 39 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La playlist des artistes LGBTQIA+. Photo : Piche",
+  "description": "La playlist des artistes LGBTQIA+. Photo : Suzane",
   "name": "PRIDE France",
   "tracks": [
     {
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "la maison s'effondre",
+        "url": "https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "baisers puissants",
+      "url": "https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O"
+    },
+    {
+      "album": {
         "name": "BALLERINES DE BOURGE",
         "url": "https://open.spotify.com/album/1JQxGJxzNukKrEiD6jC2qY"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160631,
       "name": "Beaucoup",
       "url": "https://open.spotify.com/track/0Ql9OMKwFzW1y8Ljx4XU26"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 169773,
       "name": "Je fais de mon mieux",
       "url": "https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ"
@@ -2324,6 +2342,24 @@
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0jOs47HDY6ldbiVhtM0ipD"
+      },
+      "artists": [
+        {
+          "name": "Victor Aupecle",
+          "url": "https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/7jjruEbGo9aLEjzYgECyeb"
     },
     {
       "album": {

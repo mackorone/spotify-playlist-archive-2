@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 190704,
       "name": "Batteries",
       "url": "https://open.spotify.com/track/5SiRlTCiaDQ4r62m99Wij2"
@@ -1146,6 +1146,24 @@
       "duration_ms": 192021,
       "name": "Capri Sonne",
       "url": "https://open.spotify.com/track/5biCRSNDhZvHSuLosdlJm5"
+    },
+    {
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/09AK4QlgAwy016g88T82Xv"
+      },
+      "artists": [
+        {
+          "name": "WYNGS",
+          "url": "https://open.spotify.com/artist/70xjuAULNiA2MVAUsaBAam"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208979,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/5wQyhpDdQJWxZ3QmC8hTnQ"
     },
     {
       "album": {
@@ -3294,7 +3312,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 239954,
       "name": "Hollywood Movie",
       "url": "https://open.spotify.com/track/661DAfQnrB6nc7K7WKUAqS"
@@ -3782,7 +3800,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170009,
       "name": "It's A New Day",
       "url": "https://open.spotify.com/track/1sQzpB8StECTvUbAKWF8eK"
@@ -7807,6 +7825,24 @@
     },
     {
       "album": {
+        "name": "Tax Evasion",
+        "url": "https://open.spotify.com/album/5c5hjQcd73xOQt8gECNoRc"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276632,
+      "name": "Tax Evasion",
+      "url": "https://open.spotify.com/track/2UjS57k6pmikAipD9eWQH5"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
@@ -8030,6 +8066,24 @@
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
+    },
+    {
+      "album": {
+        "name": "The Sun Will Never Settle",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Sun Will Never Settle",
+      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist\. Cover: Issah
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,041 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,060 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 |
+| 1 | [BADDIES IN HOLLANDA](https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [BADDIES IN HOLLANDA](https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5) | 2:05 |
 | 2 | [Schijn je licht op mij](https://open.spotify.com/track/4h6oCJNPJ06eYT3M9jdCOq) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Schijn je licht op mij](https://open.spotify.com/album/0KSSoSWXL7s2IFgdK28Cve) | 2:09 |
 | 3 | [METEN & WEGEN \- BASS BOOSTED](https://open.spotify.com/track/2BzYfqpPJpBVXP8Fvsm9kC) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw) | [METEN & WEGEN \(BASS BOOSTED\)](https://open.spotify.com/album/72L32FTMEzBsXBVPKrrTd9) | 2:54 |
 | 4 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 59 | [Lijntje](https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Lijntje](https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX) | 2:51 |
 | 60 | [Without You \(feat\. Usher\)](https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:28 |
 
-Snapshot ID: `AAAAABuMHNmci8XhDvEz2e5LJIS++yyW`
+Snapshot ID: `AAAAADnjevszhT/DSqfugFUuP4zKUFEk`

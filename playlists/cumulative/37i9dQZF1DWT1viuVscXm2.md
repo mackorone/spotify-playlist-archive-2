@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-462 songs - 1 day 2 hr 0 min
+463 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 | 2021-12-24 | 2025-12-13 |
 | [Esperandote](https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Esperandote](https://open.spotify.com/album/30lzvxFlN1pmaa0NqUSvZ1) | 3:48 | 2021-12-24 | 2023-02-04 |
 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2021-12-24 | 2023-10-28 |
+| [Felicidades](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 | 2026-11-05 |  |
 | [Feliz Con Verte](https://open.spotify.com/track/40ronkEk3PwpyfZ1oKeL9Y) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Feliz Con Verte](https://open.spotify.com/album/0N5JDBWzj7yal3Z2QMpcsx) | 3:13 | 2021-12-24 | 2022-04-16 |
 | [FRUTA Y TÉ \(mañana es hoy\)](https://open.spotify.com/track/7huDzyOO3t3r92s94ybr5B) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Alanys Lagos](https://open.spotify.com/artist/7zYKWRlWkeaKjRLAeEsJzS) | [FRUTA Y TÉ \(mañana es hoy\)](https://open.spotify.com/album/2V9KxvtYH3viTwneYcEV7U) | 3:45 | 2026-10-09 |  |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-06-05 | 2025-09-20 |
@@ -195,7 +196,7 @@
 | [La Marca de la Gorra](https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 3:40 | 2025-08-26 |  |
 | [La Mejor De Todas](https://open.spotify.com/track/1AzjlvmSsC7ULBPHLCmHL7) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [La Mejor de Todas](https://open.spotify.com/album/1zfJFT7uRTwtw1ltjTSfNS) | 2:27 | 2024-11-01 | 2024-12-07 |
 | [La Noche](https://open.spotify.com/track/1WyoLJHC6VJKX9DeLUEaTr) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [La Noche](https://open.spotify.com/album/06Z89FVJ5rOZKw3wRRAexV) | 3:28 | 2022-08-12 | 2023-03-11 |
-| [La peligrosa](https://open.spotify.com/track/75TMYFaYiBf70VvfHicrzL) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [La peligrosa](https://open.spotify.com/album/754IpHbtZecj6NdTFf8eat) | 4:27 | 2025-10-24 |  |
+| [La peligrosa](https://open.spotify.com/track/75TMYFaYiBf70VvfHicrzL) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [La peligrosa](https://open.spotify.com/album/754IpHbtZecj6NdTFf8eat) | 4:27 | 2025-10-24 | 2026-11-06 |
 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 | 2021-12-24 | 2022-06-11 |
 | [La Primera Vez](https://open.spotify.com/track/6FTGItR8uFjpOQGa8AAlak) | [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [La Primera Vez](https://open.spotify.com/album/1fgbiHKQGZhwGutBh2OdFx) | 2:24 | 2023-02-03 | 2023-02-18 |
 | [La quiero a ella](https://open.spotify.com/track/305ayg5E2vWAIeIPLR4qJJ) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 3:01 | 2024-09-27 | 2025-11-08 |

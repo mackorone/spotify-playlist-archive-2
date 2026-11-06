@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1539662,
+  "num_followers": 1539496,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "VAMO A VEL",
-        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "VAMO A VEL",
-      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Peli De Terror",
         "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 162857,
       "name": "Peli De Terror",
       "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "VAMO A VEL",
+        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "VAMO A VEL",
+      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "si la ves",
-        "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 177829,
-      "name": "si la ves",
-      "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "que seas t\u00fa -- & amor herido . . .",
         "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 193125,
       "name": "que seas t\u00fa --",
       "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "si la ves",
+        "url": "https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 177829,
+      "name": "si la ves",
+      "url": "https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "JEEP",
-        "url": "https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 195886,
-      "name": "JEEP",
-      "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "No es tu estilo",
         "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 142677,
       "name": "No es tu estilo",
       "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "JEEP",
+        "url": "https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 195886,
+      "name": "JEEP",
+      "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "Te Caigo",
-        "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Te Caigo",
-      "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "todav\u00eda no vuelvo",
         "url": "https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 215583,
       "name": "santa luc\u00eda (impala)",
       "url": "https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "Te Caigo",
+        "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Te Caigo",
+      "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/7xTXZtNhkE0igCjsCYzyUw"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 208855,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/337HLzkpopP6hTZLVdoMRq"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "added_at": "2026-10-21 21:02:34",

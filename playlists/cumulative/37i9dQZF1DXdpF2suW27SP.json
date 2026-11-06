@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Agir, HeartLess, quintasz entram na zona. ",
+  "description": "Plutonio entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 127200,
       "name": "BANGLA",
       "url": "https://open.spotify.com/track/0eICBdMRCwuF8YxgaaHNRe"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 175500,
       "name": "Bem Zen",
       "url": "https://open.spotify.com/track/0EheRsG3tZgIYAVP3m9b0u"
@@ -3736,6 +3736,28 @@
       "duration_ms": 237176,
       "name": "Caix\u00f5es Personalizados Remix",
       "url": "https://open.spotify.com/track/6Aabu9h1GGqwqDN55jBcEG"
+    },
+    {
+      "album": {
+        "name": "CALA A BOCA",
+        "url": "https://open.spotify.com/album/7LpenptowipBgRY6C8WU0i"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/1eD8ms4LtG3jrXqamSifPY"
+        },
+        {
+          "name": "Dama Bete",
+          "url": "https://open.spotify.com/artist/0cFnYwwUg1OWV2AksuN22j"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "CALA A BOCA",
+      "url": "https://open.spotify.com/track/7KUwgcT6zCZsPsWTdPeaet"
     },
     {
       "album": {
@@ -5126,6 +5148,28 @@
       "duration_ms": 145161,
       "name": "Complicado",
       "url": "https://open.spotify.com/track/1QQyZdqxt6tvS57nn3XFjZ"
+    },
+    {
+      "album": {
+        "name": "CONFIA EM TI",
+        "url": "https://open.spotify.com/album/6dSG8g74wIsLwLkwXUgnM8"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "MS Capone",
+          "url": "https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161706,
+      "name": "CONFIA EM TI",
+      "url": "https://open.spotify.com/track/5PDW8lwfb5gd8QV7dzPKUb"
     },
     {
       "album": {
@@ -7172,7 +7216,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 193000,
       "name": "ESP\u00cdRITO MACI\u00c7O",
       "url": "https://open.spotify.com/track/5Vmjh474jpJv2QS0Ii9Yfg"
@@ -7398,6 +7442,24 @@
       "duration_ms": 198793,
       "name": "Eu n\u00e3o sou rom\u00e2ntico",
       "url": "https://open.spotify.com/track/62EPZM3N3z5zZW9eBKuhsr"
+    },
+    {
+      "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211809,
+      "name": "Eu Pr\u00f3prio Contra Mim",
+      "url": "https://open.spotify.com/track/15HjKW0ZWZ8D7PetkMJ9KV"
     },
     {
       "album": {
@@ -9617,6 +9679,24 @@
     },
     {
       "album": {
+        "name": "Icey",
+        "url": "https://open.spotify.com/album/2JGhudNYALbOQ3oKNNTB8M"
+      },
+      "artists": [
+        {
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Icey",
+      "url": "https://open.spotify.com/track/3Sn6Wib3xaSfPejHjgXVe7"
+    },
+    {
+      "album": {
         "name": "ICY",
         "url": "https://open.spotify.com/album/0a4fH5ti7uPl1scrXMAJRl"
       },
@@ -10048,7 +10128,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228413,
       "name": "JACQUEMUS (feat. Mulatooh, Zara G)",
       "url": "https://open.spotify.com/track/0MQRF32KYCMdhrlVk9RK2a"
@@ -11519,6 +11599,24 @@
     },
     {
       "album": {
+        "name": "Estado Limite",
+        "url": "https://open.spotify.com/album/7571tPKsYcsvxILiUZqLtn"
+      },
+      "artists": [
+        {
+          "name": "Mariela",
+          "url": "https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132270,
+      "name": "Main Character Energy",
+      "url": "https://open.spotify.com/track/2F9jpjyAeKI8r3hVvwpfGL"
+    },
+    {
+      "album": {
         "name": "Mais Antigo",
         "url": "https://open.spotify.com/album/07hsLrbvRJa57hfl7cXVgz"
       },
@@ -11774,6 +11872,24 @@
       "duration_ms": 240000,
       "name": "Mama Ka Bu Txora",
       "url": "https://open.spotify.com/track/5CEghr9OYpFrCZurmxJThm"
+    },
+    {
+      "album": {
+        "name": "MAMA SUME",
+        "url": "https://open.spotify.com/album/0exFn6W4hGx6LSGEN9UcRj"
+      },
+      "artists": [
+        {
+          "name": "For\u00e7a Suprema",
+          "url": "https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238463,
+      "name": "Mama Sume",
+      "url": "https://open.spotify.com/track/0jrDUlp6ucibkfyMyhtMXh"
     },
     {
       "album": {
@@ -15044,7 +15160,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 242000,
       "name": "ON EST L\u00c0 (feat. Wet Bed Gang)",
       "url": "https://open.spotify.com/track/6EWt6TUm52Dr5RgL2L5e4c"
@@ -16933,6 +17049,24 @@
     },
     {
       "album": {
+        "name": "VENDETTA: Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/7ndEiAxUhF1Q9LXk5dQyMs"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256605,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/4MPZOOjk5SvNt0ZJ9Cl4Fg"
+    },
+    {
+      "album": {
         "name": "Prova Viva",
         "url": "https://open.spotify.com/album/0Gl7AFk09weLECECiYx24s"
       },
@@ -17930,7 +18064,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 199626,
       "name": "ROLE",
       "url": "https://open.spotify.com/track/5dwA9IfguKqyoZz05EMC7j"
@@ -20976,7 +21110,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180000,
       "name": "Tutto Passa II",
       "url": "https://open.spotify.com/track/0Ulolx8MoTh8txlEV4dl7Z"
@@ -21850,7 +21984,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 153600,
       "name": "VIENI QUI",
       "url": "https://open.spotify.com/track/4eDwVzsgbwJGUGytEzU47a"
@@ -22662,6 +22796,24 @@
       "duration_ms": 209000,
       "name": "\u00c9 Verdade",
       "url": "https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh"
+    },
+    {
+      "album": {
+        "name": "Invictus",
+        "url": "https://open.spotify.com/album/5f6eyVG21grEq6FyNKXMO1"
+      },
+      "artists": [
+        {
+          "name": "Kelson Most Wanted",
+          "url": "https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250797,
+      "name": "\u00c9 Verdade",
+      "url": "https://open.spotify.com/track/192Tpc8jyka8lhukETX50O"
     },
     {
       "album": {

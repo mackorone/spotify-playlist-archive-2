@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 O Tortuga
 
-5,929 songs - 14 day 4 hr 35 min
+5,930 songs - 14 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3564,6 +3564,7 @@
 | [Morí en el Mediterráneo](https://open.spotify.com/track/779ND7At7SJelwuwV6jrJL) | [Sons of Aguirre](https://open.spotify.com/artist/6yAMRosx47X5w8mgH5qymJ), [Scila](https://open.spotify.com/artist/4xYWwmYOOQLNfkvk4ll3Gg) | [Morí en el Mediterráneo](https://open.spotify.com/album/6yN0KAn6brRVrDypLJhdOf) | 4:25 | 2024-04-05 | 2024-04-13 |
 | [Morón](https://open.spotify.com/track/79FUYN6gj71U8b6nUbBd4a) | [Guillermo Beresñak](https://open.spotify.com/artist/6nVfCc2kQYEbOAf5xEfN24) | [Morón](https://open.spotify.com/album/2Xc9OCYoYwxYGcpJ9aQVuh) | 3:00 | 2023-03-17 | 2023-04-01 |
 | [Mosqueteros \- En Español](https://open.spotify.com/track/663A9Myl42m3wRCN6ISUlf) | [dArtagnan](https://open.spotify.com/artist/7Lj8CmxeAuJ2c2I6YxA6AJ), [Mägo de Oz](https://open.spotify.com/artist/7z42Rmc2Z2EMufIhkogIL4), [Rafa Blas](https://open.spotify.com/artist/5b9U4EtpsTNyJ0sn3v6ptO) | [Mosqueteros \- En Español](https://open.spotify.com/album/2RWPqTcalpeqz3jBo9L3hs) | 3:13 | 2025-07-18 | 2025-08-16 |
+| [MOSQUITO](https://open.spotify.com/track/1so0w64iWBDvUDqjinTXAl) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [MOSQUITO](https://open.spotify.com/album/44WGd1h2MnCkO1Sa3mzKwB) | 3:40 | 2026-10-23 |  |
 | [Motivos](https://open.spotify.com/track/5sj8qsK8IC2U89ALnWEIEr) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Cuando Éramos Jóvenes](https://open.spotify.com/album/7tkNFeKcjqASwvTx05BNkw) | 3:33 | 2024-09-13 | 2024-09-21 |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-20 | 2023-02-04 |
 | [Movimiento](https://open.spotify.com/track/2T8F4ieqVPIloEWK8TjGYN) | [Romaric](https://open.spotify.com/artist/3e6u95VEoeFpZKbDISofWC) | [Movimiento](https://open.spotify.com/album/4ecxaOZPQwk5Ui5QEQ8KWh) | 3:30 | 2023-06-30 | 2023-07-15 |

@@ -4,7 +4,7 @@
 
 > Unwind and enjoy the long summer evenings
 
-478 songs - 20 hr 50 min
+479 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-05-20 | 2023-06-20 |
 | [Passing](https://open.spotify.com/track/5zcpF7WRlnOavcP5fCqOlK) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:28 | 2022-05-20 | 2024-03-26 |
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2022-05-20 | 2024-04-10 |
+| [Passing Light](https://open.spotify.com/track/5dxdiGh8TIyo0xwKa2Vt5R) | [Eldrin](https://open.spotify.com/artist/25AdefU7uAKNThxAZPuJ1i) | [Passing Light](https://open.spotify.com/album/5Fa2RjQcniDMK0PzQchNHb) | 2:38 | 2026-11-06 |  |
 | [Peace In Water](https://open.spotify.com/track/6MOyr6CW5FmSSC3yWDOynt) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Peace In Water](https://open.spotify.com/album/41O9tKGlJ6FIIJemBI5qF1) | 2:12 | 2022-05-20 |  |
 | [Peace N Quiet](https://open.spotify.com/track/6V5mepn6GsKZaW0xHMmLmo) | [Isabelle Laurent](https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms) | [Peace N Quiet](https://open.spotify.com/album/3e2S5B57V6O5fFCxu1mLHz) | 2:55 | 2025-08-12 |  |
 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-07-04 |  |

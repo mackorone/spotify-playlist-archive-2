@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/3o9foDPdVqXvYcx4rchgG9"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273448,
+      "name": "1111",
+      "url": "https://open.spotify.com/track/7hpn3AQMtqc69qONY67o6E"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/4bP8pr3PLqNSHohVhOA7eE"
       },
@@ -206,6 +224,28 @@
       "duration_ms": 259000,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/4n5sqkxZ9Div98rOCulMMm"
+    },
+    {
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/37Bs2f6ebkmcBCeUbDfIMK"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0cbgne6TKiFpWR8nkk0GHE"
     },
     {
       "album": {
@@ -606,7 +646,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220800,
       "name": "Be Your Girl",
       "url": "https://open.spotify.com/track/6kXqI6x2TR8lpHNmflsN9F"
@@ -2068,7 +2108,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192344,
       "name": "get it right.",
       "url": "https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP"
@@ -3555,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Moscow Drive",
+        "url": "https://open.spotify.com/album/6gdSr33oA4V6SontVi7joH"
+      },
+      "artists": [
+        {
+          "name": "Dawn Wall",
+          "url": "https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Moscow Drive",
+      "url": "https://open.spotify.com/track/3tx9k75xhKvwiatS0kytNk"
+    },
+    {
+      "album": {
         "name": "Nautic",
         "url": "https://open.spotify.com/album/05SCpmOlyRi3XnrAySMnHu"
       },
@@ -4186,7 +4244,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 267906,
       "name": "ran/fly",
       "url": "https://open.spotify.com/track/3wp2r2TEMCtgfX4OcEfyHu"
@@ -5723,6 +5781,28 @@
     },
     {
       "album": {
+        "name": "When My Love",
+        "url": "https://open.spotify.com/album/3yZ4BrsPFU402WeVCecpFe"
+      },
+      "artists": [
+        {
+          "name": "Zero T",
+          "url": "https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg"
+        },
+        {
+          "name": "Aaliyah Esprit",
+          "url": "https://open.spotify.com/artist/73JRJE3o5cLbEOIoksppmG"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247395,
+      "name": "When My Love",
+      "url": "https://open.spotify.com/track/7pDnYJ0R1wP01bfQkyKiFs"
+    },
+    {
+      "album": {
         "name": "When the Dawn Breaks",
         "url": "https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X"
       },
@@ -5840,7 +5920,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 233000,
       "name": "Where The Flowers Grow",
       "url": "https://open.spotify.com/track/6hf4kAaXmv4eqxuXu0FWB1"

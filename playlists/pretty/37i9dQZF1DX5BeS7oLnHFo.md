@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > زبدة الراب الصافية\. ١٠٠٪ صناعة محليّة
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,943 likes - 47 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,949 likes - 47 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 | 18 | [Miyat 3een](https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH) | 2:12 |
 | 19 | [Alhamdullah](https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Alhamdullah](https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y) | 3:05 |
 | 20 | [Fstan Aswad](https://open.spotify.com/track/006vXYYcdL1MTbMjlY61ro) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH) | 3:44 |
-| 21 | [7azeen Elwat \(Saudi\)](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\)](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
+| 21 | [7azeen Elwat \(Saudi\) \- Rap Shar3 \- Live](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\) \- Rap Shar3 \[Live\]](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
 | 22 | [المكتوب](https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [المكتوب](https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d) | 2:56 |
 | 23 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 |
 | 24 | [Hajes](https://open.spotify.com/track/6K1B3I4nTdtMqqOsgJvmLD) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH) | 4:00 |

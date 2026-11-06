@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-283 songs - 18 hr 3 min
+286 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Listen Close](https://open.spotify.com/track/1lgDUfZCgqa3o4ufBV4vh5) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Listen Close](https://open.spotify.com/album/5cBjLVnRViycYyFLMm1fiO) | 2:50 | 2026-08-28 |  |
 | [Little Dreamer](https://open.spotify.com/track/54p1VJ0R8SnSk3gU723PMn) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [From Moments](https://open.spotify.com/album/7qybyCXdU3XlRXOcj7isck) | 3:22 | 2026-06-12 |  |
 | [Love Came](https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Love Came](https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm) | 2:15 | 2022-12-06 |  |
+| [Lueur II](https://open.spotify.com/track/2kXJAm6pRDUcataLshBWa1) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Lueur II](https://open.spotify.com/album/78EjyfdAUEQVDEoae8xCjm) | 2:02 | 2026-11-06 |  |
 | [Løvfald](https://open.spotify.com/track/4XTplEwraobWZts4Ooxnth) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Løvfald](https://open.spotify.com/album/4IzQEolx4EfpLLccBoCspX) | 2:58 | 2022-12-06 |  |
 | [Manipura](https://open.spotify.com/track/1Cp9QNqTfWAFy4dr0y61Dg) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Nordic Pulse Ensemble](https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l) | [The Next Billion Years](https://open.spotify.com/album/767oRJMFPLQLs4iALYepfp) | 5:56 | 2022-07-27 | 2022-12-07 |
 | [Marazion \(50.127932, \-5.474548\)](https://open.spotify.com/track/4Mh2eL3BqPU9yqEUQDPu2U) | [KEYNVOR](https://open.spotify.com/artist/6D5xKOIKwUgo1i6rNzbhtx), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Preservation](https://open.spotify.com/album/1p8oryef4SxxjVYMW2LIax) | 3:57 | 2022-01-05 | 2026-06-20 |
@@ -248,6 +249,7 @@
 | [The Fertile Night](https://open.spotify.com/track/3hnQEIi6qxWltcnTM9TPr1) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Fertile Night](https://open.spotify.com/album/1jpdhVtNoFFZnk7oZErGKN) | 2:37 | 2022-09-14 |  |
 | [The Fig Tree](https://open.spotify.com/track/1drE1yyx3iSbTbn55SAGOT) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 2:35 | 2022-01-05 | 2026-06-20 |
 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 | 2022-01-05 |  |
+| [The Haze Lifts](https://open.spotify.com/track/3JmkelZ4tFaxAOmLV3Mtfp) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Haze Lifts](https://open.spotify.com/album/2YpeTVXuwM3Sg6raM7DIb8) | 2:15 | 2026-11-06 |  |
 | [The Kingdom](https://open.spotify.com/track/714swlrTc262NA0j13C7gY) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [The Kingdom](https://open.spotify.com/album/78MZv7N1OSPNXk431T19sI) | 2:55 | 2022-10-04 |  |
 | [The Mermaids Lullaby](https://open.spotify.com/track/74sYSDLujNsGX56iMwZ6TM) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw) | [The Mermaids Lullaby](https://open.spotify.com/album/2RZ5T78aQOaTQxYtpSWXTl) | 6:04 | 2026-06-12 |  |
 | [The Orchard](https://open.spotify.com/track/4ZMtUdufInP7URLPHOz0Og) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [The Orchard](https://open.spotify.com/album/1WlvWrXIDKzuakrLTFKcmC) | 3:25 | 2022-12-06 |  |
@@ -262,6 +264,7 @@
 | [Through Northern Skies](https://open.spotify.com/track/1uq57BHsrdo2mzGK6ifqOs) | [Charlie Jefferson](https://open.spotify.com/artist/4Iz3aB0M8UTyMsq2K4r3NI) | [Jumping Off Point](https://open.spotify.com/album/28hsmt1fePyM0zIB00CcfX) | 3:40 | 2026-06-12 |  |
 | [Unmoored](https://open.spotify.com/track/1SAs5oYs3N6U2S0Y2JJ3iV) | [Fog Chaser](https://open.spotify.com/artist/660gTWIyoCKgut2Yt9aDaC) | [Unmoored](https://open.spotify.com/album/1iKvwFy2Lmt7yzP1WOGItD) | 2:30 | 2022-04-13 |  |
 | [untitled](https://open.spotify.com/track/7by9I6q0q3YBQ8G0xuM1rG) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [untitled](https://open.spotify.com/album/7AEPu7sfoQkd19VCztn8nj) | 3:49 | 2026-06-12 |  |
+| [Verbena](https://open.spotify.com/track/3aF6RnKBZJR1trvD51lmfZ) | [François de Liège](https://open.spotify.com/artist/7vwCLJq5P36lyw1OPV94jS), [Ty Rex](https://open.spotify.com/artist/3HlViWKhYT4SXVbU3xPIh1) | [Verbena](https://open.spotify.com/album/1bB6wN4KoAuD0S8lHBRCtq) | 4:45 | 2026-11-06 |  |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-11 |  |
 | [Video Tape \- From "Surface"](https://open.spotify.com/track/5z3KcciOg8G1IsIaRN5ZOv) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Surface \(Music from the Original TV Series\)](https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst) | 2:17 | 2023-04-27 | 2024-04-19 |
 | [Video Tape \- From "Surface"](https://open.spotify.com/track/7zTaLLMF9A170FfPtBaL3m) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Video Tape \(From "Surface"\)](https://open.spotify.com/album/3qFNuf0WssUVPXTPdrxGho) | 2:17 | 2022-07-29 |  |

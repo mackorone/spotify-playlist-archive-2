@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: \u9999\u7530\u60a0\u771f",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: aus",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 236800,
       "name": "A View of the Ocean from My Train Window",
       "url": "https://open.spotify.com/track/4g4z42hv2X9nooDUzmYrb4"
@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 225214,
       "name": "Birds Flying In The Endless Universe",
       "url": "https://open.spotify.com/track/5hYvfvt3h8CxCUza8msT5h"
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 113000,
       "name": "Brood Board SHROOM",
       "url": "https://open.spotify.com/track/78P7wPE8GqJkZECMu3kUjx"
@@ -3560,7 +3560,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 234753,
       "name": "CON",
       "url": "https://open.spotify.com/track/2Czo9pgOr54xXZw8oz6ENk"
@@ -3810,6 +3810,46 @@
       "duration_ms": 295000,
       "name": "craftsman",
       "url": "https://open.spotify.com/track/0SSSXaBAxQaJV6RwXVggo0"
+    },
+    {
+      "album": {
+        "name": "Burning Song",
+        "url": "https://open.spotify.com/album/6rkiieHSmjekjpj5OZ05wQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402580,
+      "name": "Crawling Ashore",
+      "url": "https://open.spotify.com/track/2ZoS4bCNhoFKWDaVk5Y5vC"
+    },
+    {
+      "album": {
+        "name": "Crossing (Green-House Remix)",
+        "url": "https://open.spotify.com/album/6bAqqoVLoMON3cClOXKfqe"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        },
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Crossing - Green-House Remix",
+      "url": "https://open.spotify.com/track/6quqBM4bW1xSphBGupZV26"
     },
     {
       "album": {
@@ -4503,6 +4543,28 @@
     },
     {
       "album": {
+        "name": "Doodle Notes #16",
+        "url": "https://open.spotify.com/album/25WPjEMato2zwiUnUeIHdr"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        },
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181208,
+      "name": "Doodle Notes #16",
+      "url": "https://open.spotify.com/track/1Tr22k8kiEJ10UbezFWQfu"
+    },
+    {
+      "album": {
         "name": "Sense of",
         "url": "https://open.spotify.com/album/5X2jP13Q22TGIo3J8A8EnE"
       },
@@ -4889,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/4QoIdKlq8uTQUArDB0uSLR"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192976,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0wVIE9syWfPabVJPWuj18i"
+    },
+    {
+      "album": {
         "name": "Echo Sax",
         "url": "https://open.spotify.com/album/5X7wgoXCGlW7iy2rnHjj2u"
       },
@@ -5066,7 +5146,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 227973,
       "name": "Energy Flow (Ki No Nagare)",
       "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
@@ -5656,7 +5736,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 224960,
       "name": "First Blue Car",
       "url": "https://open.spotify.com/track/6RQexVPv8c2zeWAlnm6HQt"
@@ -7712,7 +7792,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 348166,
       "name": "I Follow a Barren Path Across the Old Mountain",
       "url": "https://open.spotify.com/track/0nCRo5tP0Q0rXRbdiKC1qh"
@@ -9822,7 +9902,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170000,
       "name": "Log_20250527",
       "url": "https://open.spotify.com/track/35Y3MPX0bABnRdVHkPzLpj"
@@ -11250,6 +11330,28 @@
       "duration_ms": 215986,
       "name": "Morning View",
       "url": "https://open.spotify.com/track/3x8OIBcws4xOW4Af4vMwfD"
+    },
+    {
+      "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/4EaXruoSMQ9F0rbERIbJh8"
+      },
+      "artists": [
+        {
+          "name": "maharishi yogo",
+          "url": "https://open.spotify.com/artist/6PUmcQDCFA2Hhl1EgFW6ja"
+        },
+        {
+          "name": "Doc No",
+          "url": "https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439880,
+      "name": "Moss & Green",
+      "url": "https://open.spotify.com/track/5g8pfpOdnPOVbNA456Fc1G"
     },
     {
       "album": {
@@ -12978,7 +13080,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 333145,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/6H9JmymSCrAOJmhIr50n0O"
@@ -13521,6 +13623,24 @@
     },
     {
       "album": {
+        "name": "quiet moment",
+        "url": "https://open.spotify.com/album/6rJbWaf04rla03SqsZaAWZ"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "quiet moment",
+      "url": "https://open.spotify.com/track/6M28w58efsT5tJvp3ZJxfY"
+    },
+    {
+      "album": {
         "name": "HipHop Vision 1",
         "url": "https://open.spotify.com/album/7gQjNQfMBGICk9f1R6jQSs"
       },
@@ -13622,7 +13742,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 238306,
       "name": "ray",
       "url": "https://open.spotify.com/track/7hMQKIuoP31YF8jw7GPsNU"
@@ -13796,6 +13916,28 @@
       "duration_ms": 404093,
       "name": "Reeling Then Again",
       "url": "https://open.spotify.com/track/6ndYaBtSmN9IjpSXyNVGOM"
+    },
+    {
+      "album": {
+        "name": "Reflecting (On Us)/Strange City",
+        "url": "https://open.spotify.com/album/4l9tFNiN9bV5SsXLF7zMje"
+      },
+      "artists": [
+        {
+          "name": "Damon Locks",
+          "url": "https://open.spotify.com/artist/6TlQM2KMbYG7xE7Zy1BMUy"
+        },
+        {
+          "name": "D-Composed",
+          "url": "https://open.spotify.com/artist/3U9BX7gopNhxOfa20DlTCI"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469760,
+      "name": "Reflecting (On Us)/Strange City",
+      "url": "https://open.spotify.com/track/04zNzFGmlKKwxKOEFYhlIN"
     },
     {
       "album": {
@@ -16082,7 +16224,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 99436,
       "name": "Sometimes I Feel So Alone - mixed",
       "url": "https://open.spotify.com/track/2wuxNGSFa5Q2jhxB5fO9pv"
@@ -16840,10 +16982,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152295,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/4vvatPD7Puf1cAZDTCIPdR"
+    },
+    {
+      "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/6IT3XFem0qpEue9Q6kXOP3"
+      },
+      "artists": [
+        {
+          "name": "Resavoir",
+          "url": "https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133767,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/7l4d9qUYwO1nXcMDME0WQV"
     },
     {
       "album": {
@@ -17847,6 +18007,24 @@
     },
     {
       "album": {
+        "name": "The Sea Inside Me",
+        "url": "https://open.spotify.com/album/7caCXE0Vw3WOEPFv7kOUsg"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "The Sea Inside Me",
+      "url": "https://open.spotify.com/track/4EJJA1D54gpQdDeVjxN3cu"
+    },
+    {
+      "album": {
         "name": "Gloaming",
         "url": "https://open.spotify.com/album/0wH8xtkWdqRxIkPt7MUYsz"
       },
@@ -18181,6 +18359,28 @@
     },
     {
       "album": {
+        "name": "Three Unisons for Four Voices",
+        "url": "https://open.spotify.com/album/1lGxRAHUXSsGtftvRZatyz"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        },
+        {
+          "name": "NO HAY BANDA",
+          "url": "https://open.spotify.com/artist/2KLAgVX4mM7Xyy7x1kPatl"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4214000,
+      "name": "Three Unisons for Four Voices",
+      "url": "https://open.spotify.com/track/7JTSYAilJ8UOYCgWIIVyd7"
+    },
+    {
+      "album": {
         "name": "Euphonious",
         "url": "https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S"
       },
@@ -18374,7 +18574,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 187200,
       "name": "tinySketch #85",
       "url": "https://open.spotify.com/track/2Wy0jAY5eFf4hnAAIuScXo"
@@ -18392,7 +18592,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182400,
       "name": "tinySketch #92",
       "url": "https://open.spotify.com/track/0WlfY3lQeWeglx8Qz2QtQi"
@@ -19858,7 +20058,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 149000,
       "name": "Weaving Of Lore",
       "url": "https://open.spotify.com/track/4QFt5VtXYwenalGBVg9OmN"
@@ -20290,7 +20490,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 255000,
       "name": "YASE",
       "url": "https://open.spotify.com/track/7gXZTMjQDyn6jNEBxMTKsV"
@@ -20308,7 +20508,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
@@ -20460,7 +20660,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 289966,
       "name": "You within me",
       "url": "https://open.spotify.com/track/5m4eFtSwBy5nmHkYpRVpyX"

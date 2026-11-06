@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk & kompa du moment. Photo : Alg\u00e9ric",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -958,7 +958,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162352,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/7lwsMcbzRwqVPHp41J9PBk"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140500,
       "name": "Concentr\u00e9",
       "url": "https://open.spotify.com/track/5YKsiqYkohePZ4bGYJaOq2"
@@ -2915,6 +2915,28 @@
     },
     {
       "album": {
+        "name": "Fais-toi belle",
+        "url": "https://open.spotify.com/album/4Vz0xUFrk1pgghZx0rYRkJ"
+      },
+      "artists": [
+        {
+          "name": "MICRO DA DON",
+          "url": "https://open.spotify.com/artist/6Y9rQRq1IbForY1k4ZYP8g"
+        },
+        {
+          "name": "Maxiimus",
+          "url": "https://open.spotify.com/artist/5eylXlggNACOEvcRzp2AVo"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229851,
+      "name": "Fais-toi belle",
+      "url": "https://open.spotify.com/track/4L5MYCNfghPAHYPCOW0okh"
+    },
+    {
+      "album": {
         "name": "FAIT POUR TOI",
         "url": "https://open.spotify.com/album/3l7QX5xnR5MGsQBfgYRb66"
       },
@@ -3268,7 +3290,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 191193,
       "name": "Haut Niveau",
       "url": "https://open.spotify.com/track/7C9uZGbqbR7p8LDlWkmG9m"
@@ -5039,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Manipulateur",
+        "url": "https://open.spotify.com/album/3MLjtVhU1P7aggjb7yIuga"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9n\u00e9dy",
+          "url": "https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191758,
+      "name": "Manipulateur",
+      "url": "https://open.spotify.com/track/7ibcfZLvRzmJyBThUnDfSH"
+    },
+    {
+      "album": {
         "name": "Manipul\u00e9",
         "url": "https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64"
       },
@@ -5478,7 +5518,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 246484,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/6qK2R1gxndSzNrYA6fofn9"
@@ -5556,6 +5596,24 @@
       "duration_ms": 210999,
       "name": "Mwen t\u00e9 l\u00e9 baw",
       "url": "https://open.spotify.com/track/1GNSusNuJjSXcVW7wiJ5nU"
+    },
+    {
+      "album": {
+        "name": "Mwen t\u00e9 par\u00e9",
+        "url": "https://open.spotify.com/album/1KMhtxfk8Px7n6Zw9YHoVp"
+      },
+      "artists": [
+        {
+          "name": "Joshua Keran",
+          "url": "https://open.spotify.com/artist/4nrRMVra3RAkH6xD5JXrvv"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222170,
+      "name": "Mwen t\u00e9 par\u00e9",
+      "url": "https://open.spotify.com/track/1CVfQzEDvxVHGrnnqPMCkq"
     },
     {
       "album": {
@@ -5830,6 +5888,28 @@
       "duration_ms": 195280,
       "name": "Nou Ki Boss",
       "url": "https://open.spotify.com/track/2kQGVOb9yckPstvJwC38RR"
+    },
+    {
+      "album": {
+        "name": "NOUS",
+        "url": "https://open.spotify.com/album/1CSLMxZzyF03Gfe17boyZF"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        },
+        {
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/28aqPACWUpArqc9MVJIOv6"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193332,
+      "name": "NOUS",
+      "url": "https://open.spotify.com/track/2rJRrn9zybkjvUifLB83Su"
     },
     {
       "album": {
@@ -6410,6 +6490,28 @@
       "duration_ms": 167007,
       "name": "Oublions le pass\u00e9",
       "url": "https://open.spotify.com/track/5JbxLDSMJSgA43VfR9nKRX"
+    },
+    {
+      "album": {
+        "name": "Oulala",
+        "url": "https://open.spotify.com/album/1a81sk8ZZQna6IokCovpnz"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        },
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194476,
+      "name": "Oulala",
+      "url": "https://open.spotify.com/track/7vVevosbAfjAYI0ZvcXEIi"
     },
     {
       "album": {
@@ -7194,7 +7296,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 217155,
       "name": "Pran Swen Dew",
       "url": "https://open.spotify.com/track/4JebHIKOj21wmr7iB63IXZ"
@@ -7506,6 +7608,28 @@
       "duration_ms": 208706,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl"
+    },
+    {
+      "album": {
+        "name": "Ring (feat. Jo\u00e9 Dw\u00e8t Fil\u00e9)",
+        "url": "https://open.spotify.com/album/0JsNbfGzaJqhqyq77YqLDF"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149813,
+      "name": "Ring (feat. Jo\u00e9 Dw\u00e8t Fil\u00e9)",
+      "url": "https://open.spotify.com/track/12dee9zdkvNce6g2geS6Yy"
     },
     {
       "album": {
@@ -8856,7 +8980,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 192000,
       "name": "Toi",
       "url": "https://open.spotify.com/track/55EYonQmO7u8bKVwkx8dc7"
@@ -9847,6 +9971,24 @@
     },
     {
       "album": {
+        "name": "Zarlor",
+        "url": "https://open.spotify.com/album/5vUdeuptW0Hur7bvrLRMbf"
+      },
+      "artists": [
+        {
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/0EKRlxxIYK2m0CKdqt31gy"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Zarlor",
+      "url": "https://open.spotify.com/track/0Y1TIh7rd6tfE5SqqVdHvE"
+    },
+    {
+      "album": {
         "name": "FOLAM",
         "url": "https://open.spotify.com/album/2Jbala2obJkpWXqT0JlkST"
       },
@@ -10008,7 +10150,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207800,
       "name": "\u00c0 l'infini",
       "url": "https://open.spotify.com/track/4vm325WI6Ip5mOsUfYiCNt"

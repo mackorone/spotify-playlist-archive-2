@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Booter Bee",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Skepta",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 155860,
       "name": "4AM",
       "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 141897,
       "name": "Baja Blast",
       "url": "https://open.spotify.com/track/3uDa6lqSqmgU8dOWkztU9f"
@@ -5392,6 +5392,52 @@
       "duration_ms": 176000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
+    },
+    {
+      "album": {
+        "name": "The Fork and Knife",
+        "url": "https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Bossman Birdie",
+          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Kibo",
+          "url": "https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn"
+        },
+        {
+          "name": "Kruz Leone",
+          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
+        },
+        {
+          "name": "Mayhem NODB",
+          "url": "https://open.spotify.com/artist/4OvtTdyyTQJhVPiagIiSah"
+        },
+        {
+          "name": "Queenie",
+          "url": "https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529014,
+      "name": "Belly (feat. Bossman Birdie, Frisco, JME, Kibo, Kruz Leone, Mayhem NODB & Queenie)",
+      "url": "https://open.spotify.com/track/14ggV3vXZCY4iI3Empi7GC"
     },
     {
       "album": {
@@ -8890,7 +8936,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 188624,
       "name": "Carnage (feat. Little Simz)",
       "url": "https://open.spotify.com/track/2DNHy7NQNQO40EkGlrgtkY"
@@ -10060,6 +10106,28 @@
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
+    },
+    {
+      "album": {
+        "name": "The Fork and Knife",
+        "url": "https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193441,
+      "name": "Cold Shower (feat. Project Pat)",
+      "url": "https://open.spotify.com/track/1hubnBM3qrUiqEr4PdpLqB"
     },
     {
       "album": {
@@ -11246,6 +11314,24 @@
       "duration_ms": 176326,
       "name": "Currency",
       "url": "https://open.spotify.com/track/6efzdUDDy1H2MH34eF2qcm"
+    },
+    {
+      "album": {
+        "name": "The Fork and Knife",
+        "url": "https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217024,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w"
     },
     {
       "album": {
@@ -17894,7 +17980,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 152533,
       "name": "GEEKIN (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/0rGxIKdpNUy15kCLea8Woh"
@@ -18032,7 +18118,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210410,
       "name": "Gets Like Dat",
       "url": "https://open.spotify.com/track/2JnBLtbhdDUiIUn3jeBY9O"
@@ -19006,7 +19092,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 137500,
       "name": "GTA 6",
       "url": "https://open.spotify.com/track/0CdBlT9EtP6u89NCTmkFqH"
@@ -22180,7 +22266,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160000,
       "name": "Innocent Smile (feat. Suggs & Chase & Status)",
       "url": "https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f"
@@ -25630,7 +25716,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 221571,
       "name": "Lively & Stravagant",
       "url": "https://open.spotify.com/track/2BFq79N2bWhHJUBXZozyet"
@@ -25886,6 +25972,28 @@
       "duration_ms": 145011,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/3ZFwfhGLhLfFp1wbDEFQxd"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN (EUROLUXE)",
+        "url": "https://open.spotify.com/album/2AaIiX1EeyiFR8ayOtVOfZ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "LOCKED IN (feat. Nono La Grinta)",
+      "url": "https://open.spotify.com/track/2zEijNLi5hVvLXiHCgbsqu"
     },
     {
       "album": {
@@ -27448,7 +27556,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 227490,
       "name": "Mazzaleen",
       "url": "https://open.spotify.com/track/2qjchnJOgJoWsuOJsfbUVr"
@@ -29148,7 +29256,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 177272,
       "name": "Morgan Rogers",
       "url": "https://open.spotify.com/track/3gXsOg3m0RtYF9zaWG24Bp"
@@ -31262,7 +31370,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 182740,
       "name": "No Way!",
       "url": "https://open.spotify.com/track/3clsu0NXBjwPQ0KI0BunEv"
@@ -33354,7 +33462,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 171940,
       "name": "Pandora's Box",
       "url": "https://open.spotify.com/track/6zpeQpV1meY5BVLKYlmgwX"
@@ -35324,7 +35432,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 116073,
       "name": "PRINCE OF THE SCENE",
       "url": "https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6"
@@ -38426,7 +38534,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 213000,
       "name": "Salah",
       "url": "https://open.spotify.com/track/15NYIB277rYGgrxZk3xCUt"
@@ -39020,7 +39128,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 133333,
       "name": "Serena Williams",
       "url": "https://open.spotify.com/track/6YarAKXOq3rfcXaCdLw6PU"
@@ -39340,7 +39448,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 183529,
       "name": "Shelloff",
       "url": "https://open.spotify.com/track/1Eu6TSgKQudrFrHbQyKGmz"
@@ -39604,7 +39712,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 209518,
       "name": "Sicily",
       "url": "https://open.spotify.com/track/2kqq6QETCXotvmP0lPxJYG"
@@ -40320,7 +40428,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 121690,
       "name": "Slipknot",
       "url": "https://open.spotify.com/track/54RdZvjWuq1Rm8fvN3EzuB"
@@ -40816,6 +40924,28 @@
       "duration_ms": 144671,
       "name": "Soulja",
       "url": "https://open.spotify.com/track/3vNkGlFj51eafYNokoW52j"
+    },
+    {
+      "album": {
+        "name": "SOUND OF THE SOUTH",
+        "url": "https://open.spotify.com/album/0l9xDGL3wCul1c8AkoarDJ"
+      },
+      "artists": [
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "SOUND OF THE SOUTH",
+      "url": "https://open.spotify.com/track/1F20jGNfCjT1qjuuE9lBkw"
     },
     {
       "album": {
@@ -45612,7 +45742,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 222400,
       "name": "Turn Off The Light",
       "url": "https://open.spotify.com/track/3SA731N5rTFYAhaiWoekQm"
@@ -45630,7 +45760,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 184109,
       "name": "Turnt To A Target",
       "url": "https://open.spotify.com/track/4hPfHFjl9GDxR3uvpZ7DMh"
@@ -49464,7 +49594,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 193714,
       "name": "Ye",
       "url": "https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9"
@@ -49504,7 +49634,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132000,
       "name": "Yep",
       "url": "https://open.spotify.com/track/2tuW2GQM4ERuLt5UMeZ1z6"

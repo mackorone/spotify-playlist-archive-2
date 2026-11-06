@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,770 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,768 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
-| 2 | [L'Humain](https://open.spotify.com/track/0iE3YcbKElhdFznONeHpcJ) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Le Plus Beau](https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq) | 3:15 |
+| 1 | [Toutes !](https://open.spotify.com/track/07gZxFSn1q40gylYxUguXZ) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [\(D\)](https://open.spotify.com/album/6oVggGFJDNDH4rVED1hgbf) | 2:56 |
+| 2 | [Les Monstres](https://open.spotify.com/track/5uN0K0RK3aLnGdmppbeRoV) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Le Plus Beau](https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq) | 3:39 |
 | 3 | [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 |
 | 4 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 |
 | 5 | [Place Massena](https://open.spotify.com/track/3U4Tf0TSxaAc78VHhs4M2O) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Ça ira](https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9) | 3:08 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 19 | [Playground](https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [BREAK](https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK) | 3:42 |
 | 20 | [MOTORSPORT](https://open.spotify.com/track/7i02gP2bcX5hRP1sH0EtKj) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L) | [MOTORSPORT](https://open.spotify.com/album/7440Kf6mbDPccaW0wKNwKc) | 2:47 |
 | 21 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 |
-| 22 | [À l'arrière de la Mercedes blanche](https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [À l'arrière de la Mercedes blanche](https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt) | 2:57 |
+| 22 | [Tapis de course](https://open.spotify.com/track/4QIpe91NInAuUEEAddIk9M) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Tapis de course](https://open.spotify.com/album/4pP8miFNFdl6vAtU5IEoTB) | 2:49 |
 | 23 | [2 aliens](https://open.spotify.com/track/1yBUBwu0LBybD7IcqknClS) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [2 aliens](https://open.spotify.com/album/3JI8NmZtUifc8YPnaXCSMm) | 2:26 |
 | 24 | [Bagues en Or](https://open.spotify.com/track/1bnGWY5TmMBOpoYx7WPBWq) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Divine](https://open.spotify.com/album/4DbXX3AdezNUsnEcNFpa3P) | 2:44 |
 | 25 | [FR DZ](https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [FR DZ](https://open.spotify.com/album/6lZ9Z2pivuWcWD8kDJuA8o) | 3:04 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 29 | [Princesse chaos \- Marine's Version](https://open.spotify.com/track/7y4qFoUVbDhJRJI0L9wVZZ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:55 |
 | 30 | [Alov](https://open.spotify.com/track/2IcYyyyn0RbB36N5Pglgmd) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Alov](https://open.spotify.com/album/5e95lZXVU60ySREfcEUd6s) | 2:38 |
 | 31 | [JIMMY DANGER](https://open.spotify.com/track/2WYN1uJfN94kzNHKHqZCId) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [JIMMY DANGER](https://open.spotify.com/album/2VJxQniCPor0DPn8e8Es5X) | 1:56 |
-| 32 | [REPOSADO](https://open.spotify.com/track/6si0HKO2Ct9eQWFiAbo5DY) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [REPOSADO](https://open.spotify.com/album/7jeTyaxI5uUC3wL2r8Qcc4) | 2:10 |
+| 32 | [CHRONOMÈTRE](https://open.spotify.com/track/4crtyCnurrjZzyTQqd3FKC) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [CHRONOMÈTRE](https://open.spotify.com/album/10vsPoJmGYCYiOCdN6gST6) | 2:15 |
 | 33 | [JE NE SERAI JAMAIS.](https://open.spotify.com/track/5CsTN4ciEHv5bwAIkeB6oL) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [LE CŒUR ET SA DICTATURE.](https://open.spotify.com/album/4rM6sNDT33rocB4UpauxyM) | 4:04 |
 | 34 | [Parfois](https://open.spotify.com/track/7wq2zHf22Eypu07sIPQXZw) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Parfois](https://open.spotify.com/album/7FQKSADlTPOvmYqmZFyesD) | 2:59 |
 | 35 | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/track/3ppZbNYEH85vpavJHgsQT9) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/album/0lrjEC7YUZYPP9ZN4HyrwI) | 2:55 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 38 | [MINUIT D'APRÈS](https://open.spotify.com/track/0mCSbQPrsIBhArYPptUqrk) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SAVASHUIA](https://open.spotify.com/album/51ZAiFItcL1kbcz5qszUqR) | 3:03 |
 | 39 | [Maman travaille trop](https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Maman travaille trop](https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ) | 2:52 |
 | 40 | [Rods and Cones](https://open.spotify.com/track/3d06jCJ7qFDQzP8UX0n5ur) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D), [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Rods and Cones](https://open.spotify.com/album/7MYy8Y34WimjOqLwZbfsjo) | 3:26 |
-| 41 | [Il faut que tu m'attendes](https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Il faut que tu m'attendes](https://open.spotify.com/album/5gYAmd2Y2Q9xaFiYZASJ3E) | 3:06 |
+| 41 | [Magazine](https://open.spotify.com/track/73uh2ljClIx1ALJL5ALqts) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [L'Heure Bleue](https://open.spotify.com/album/0wEqOXWzjdKgo7JLGLKf5B) | 3:04 |
 | 42 | [MÉDICAMENT](https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [MÉDICAMENT](https://open.spotify.com/album/4Vk4vV6FLeDiJE0uupd7Bt) | 3:06 |
 | 43 | [Flap Flap](https://open.spotify.com/track/2VbSOGBmQeIj4iHEFXdVwd) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [Flap Flap](https://open.spotify.com/album/1yIKFkmI04eG5DEi6M985B) | 1:52 |
 | 44 | [MALADE!](https://open.spotify.com/track/3YS37AuvybZaRj5w3Z9Vs9) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [MALADE!](https://open.spotify.com/album/5gTFsUMApzVa40elOuNUwf) | 1:34 |
 | 45 | [Boy](https://open.spotify.com/track/6aiO1XYF4px8guDCAYgaZt) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Boy](https://open.spotify.com/album/22vAa6RGm52KqtfRjLeEyd) | 2:18 |
-| 46 | [À l'envers](https://open.spotify.com/track/09CrknnhUZsaFzrOkw1uYD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [À l'envers](https://open.spotify.com/album/22JsKnVGchPhzn8wfPGJxk) | 3:54 |
+| 46 | [Rends\-moi mes secondes](https://open.spotify.com/track/7Fib92j6rWWhyIkN8goIxg) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Re:Naissance Part\. 1](https://open.spotify.com/album/4WdMh8A2LAf4RATENEXu9a) | 2:31 |
 | 47 | [rentier](https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [shelf](https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8) | 3:51 |
 | 48 | [Hallucination](https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Hallucination](https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy) | 2:48 |
 | 49 | [leader price](https://open.spotify.com/track/4DzSa5hqOPvoqE6cwt4Iav) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:53 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 60 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 |
 | 61 | [come into my arms](https://open.spotify.com/track/7BsF2M59SaoOQI9HOWk8bU) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls : le salon](https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43) | 2:11 |
 | 62 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 |
-| 63 | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU) | 3:03 |
+| 63 | [Replay](https://open.spotify.com/track/38bfxRHZXxdIgikV4xFYuP) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Sensation](https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM) | 2:33 |
 | 64 | [perles noires](https://open.spotify.com/track/5efYLTSFCnOxUWgxI3RoaE) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [perles noires](https://open.spotify.com/album/7g2zCBF3C74doLELLlTP5r) | 2:43 |
 | 65 | [āfa](https://open.spotify.com/track/40otVc50P4HW1QwpubR6i6) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [āfa](https://open.spotify.com/album/2jGtiClgEUtx2cxlDgsHiQ) | 3:30 |
 | 66 | [J'ai plus peur](https://open.spotify.com/track/62HZKxz2nsSlC1xpzfO52R) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Papillons](https://open.spotify.com/album/1Y5NDZF8VEdjggpGWbR6mZ) | 3:12 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 75 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 76 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 |
 
-Snapshot ID: `AAAAAOsvIdGfufFCs6BMOsbzVVIt+wbe`
+Snapshot ID: `AAAAAPGEQeiQdkKhdiokzPE5r8ihH31O`

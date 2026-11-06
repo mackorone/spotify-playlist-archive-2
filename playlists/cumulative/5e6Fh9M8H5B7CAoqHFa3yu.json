@@ -14859,6 +14859,24 @@
     },
     {
       "album": {
+        "name": "Fiesta y Calor",
+        "url": "https://open.spotify.com/album/3xucEMWLJmvDcsIeMyebeR"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181157,
+      "name": "Fiesta y Calor",
+      "url": "https://open.spotify.com/track/4SxxR7sOfxqEiyDC2rLKli"
+    },
+    {
+      "album": {
         "name": "The Legacy Of the Sun",
         "url": "https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s"
       },

@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Ciça
+> boom bap renasce todo dia\. Foto: Puro Suco, Emicida
 
-827 songs - 1 day 18 hr 52 min
+828 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [4Am In Sp](https://open.spotify.com/track/5XU90BgqEJJJLL90V2MFhD) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [4Am In Sp](https://open.spotify.com/album/2p1fu3EVIP7wk8ScA5fpsE) | 2:09 | 2022-09-30 | 2023-07-01 |
 | [4Shared](https://open.spotify.com/track/1FtxkSEWNOwtdorukGFriM) | [nabru](https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3), [Gvtx](https://open.spotify.com/artist/6Wg2pw6C5LRx9l3AuG3hmo) | [Desenredo](https://open.spotify.com/album/5cWvA8DnZO6AZRN58ycxJn) | 2:30 | 2024-11-15 | 2025-11-28 |
 | [5AM](https://open.spotify.com/track/49PonczSLhra0DxsSdSxq8) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 4:34 | 2022-03-18 | 2023-08-26 |
+| [7 mil caminhos](https://open.spotify.com/track/6NgzBc8hIelJKYB5KIfItr) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [A Contribuição Milionária de Todos os Erros](https://open.spotify.com/album/0L2OUS0v0XhkWCh3ee0WRg) | 3:44 | 2026-11-06 |  |
 | [A Barra De Espaço](https://open.spotify.com/track/7dIilgaZA1kGwgP7Z9j1Dm) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [A Barra de Espaço](https://open.spotify.com/album/4emEkYG0WlrTyI1BOGGoK9) | 4:05 | 2023-01-01 | 2023-02-04 |
 | [A Conta Não Fecha](https://open.spotify.com/track/7poOusVBigALS3jOfE4cG2) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [Miliano](https://open.spotify.com/artist/2Ck6D0bMK3wkXWAQo8IyaJ) | [A Conta Não Fecha](https://open.spotify.com/album/3wdr0v6XuL1XaMcfTZfmPp) | 3:58 | 2024-10-07 | 2024-11-30 |
 | [A luz e o Elo](https://open.spotify.com/track/1qfpq7MHmtKLF7sodAaDqj) | [Old Dirty Bacon](https://open.spotify.com/artist/47u3qUpiwYT0NFBO75umme), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [A Origem](https://open.spotify.com/album/4GSewDaotJrOML2iXwIC3X) | 3:22 | 2024-08-16 | 2024-11-30 |
@@ -438,7 +439,7 @@
 | [Meus Amigos Dizem](https://open.spotify.com/track/3EeZ1zsbjYcEQ5Ww6SGd9f) | [Caio Ocean](https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [Meus Amigos Dizem](https://open.spotify.com/album/3SulBXev3RkRga8Y8Cfmaq) | 2:15 | 2024-04-12 | 2024-09-14 |
 | [Michael B\. Jordan na fila do CAT](https://open.spotify.com/track/5QkftwgZtCYXwgHNxKyGQY) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4) | [Recolhimento](https://open.spotify.com/album/7z9EQQRt1tACIbOVftwVRg) | 2:54 | 2024-03-15 | 2024-06-08 |
 | [MIMIMI \- ato 2](https://open.spotify.com/track/5ff017rhBdV7vQmUIiZ3Ly) | [Guri mc](https://open.spotify.com/artist/5I3oLG0SOgiA12K1W0gE0s), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [MIMIMI](https://open.spotify.com/album/5FSTw6474HrP3LNwQoEyjZ) | 1:51 | 2025-05-02 | 2025-05-31 |
-| [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 | 2026-03-13 |  |
+| [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 | 2026-03-13 | 2026-11-06 |
 | [Minha Cultura](https://open.spotify.com/track/0EAzWBm9hawgoNgmFUyxbQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Laudz](https://open.spotify.com/artist/3xRm6hPQpFfaPFZTjLIYHh), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [A Mensagem](https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9) | 3:32 | 2024-11-09 | 2025-01-25 |
 | [Minha História](https://open.spotify.com/track/5sBkSctwO5z0rQdKfWrbeH) | [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE) | [Único](https://open.spotify.com/album/3NuYLeZjzwlYr0t9Y9L8zH) | 3:25 | 2022-03-18 | 2022-06-04 |
 | [Minha onda](https://open.spotify.com/track/5afa3QSWTAaVZm53Wv1ofK) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50% , Vol.2](https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG) | 3:30 | 2026-05-29 |  |

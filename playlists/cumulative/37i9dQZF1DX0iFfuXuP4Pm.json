@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Ace Banzuelo",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Wilbert Ross",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 283392,
       "name": "Bampira",
       "url": "https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 251074,
       "name": "Bawat Segundo",
       "url": "https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp"
@@ -1571,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Buenos Dias",
+        "url": "https://open.spotify.com/album/47OBptQQJZdsSVRQXcTjzP"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225937,
+      "name": "Buenos Dias",
+      "url": "https://open.spotify.com/track/2gJ9yQunku9U74uOkWK2og"
+    },
+    {
+      "album": {
         "name": "Bughaw",
         "url": "https://open.spotify.com/album/2BHCBLxhR5lvCMoLiRMfDv"
       },
@@ -1716,6 +1738,24 @@
       "duration_ms": 213021,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2WkAmRyQh7XqtnVRUWzX30"
+      },
+      "artists": [
+        {
+          "name": "GEHLEE",
+          "url": "https://open.spotify.com/artist/1OfZxFJgP1iSUivDRJRzr7"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162244,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7D2ZnXa4KgOg68ojItelCe"
     },
     {
       "album": {

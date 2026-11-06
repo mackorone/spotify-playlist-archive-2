@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/3nuWQaaxkrXa8bpWVfeSUy"
+      },
+      "artists": [
+        {
+          "name": "melih sar\u0131",
+          "url": "https://open.spotify.com/artist/4jWUd2mZBkpbX6Oj4KQktW"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153259,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/08GLdJkqn0Yl8F7jSfFyW3"
+    },
+    {
+      "album": {
         "name": "Acid Trippin",
         "url": "https://open.spotify.com/album/4v3t6qrqe1op5ZG5EaWZjK"
       },

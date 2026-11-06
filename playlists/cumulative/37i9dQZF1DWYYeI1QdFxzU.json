@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "To Understand The Why",
+        "url": "https://open.spotify.com/album/6x2lvuSvHLtdYOxjBxg9Q7"
+      },
+      "artists": [
+        {
+          "name": "Fionnlagh",
+          "url": "https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132095,
+      "name": "Built Upon a Path",
+      "url": "https://open.spotify.com/track/2aZfAQZ6h2NATlmygYEfEh"
+    },
+    {
+      "album": {
         "name": "Hosoi",
         "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
       },
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 256500,
       "name": "The Missing Piece",
       "url": "https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw"

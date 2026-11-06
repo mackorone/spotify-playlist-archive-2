@@ -3575,6 +3575,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0430",
+        "url": "https://open.spotify.com/album/2tPEWFp9Di6ZrCQJP5P7BS"
+      },
+      "artists": [
+        {
+          "name": "DYKYI",
+          "url": "https://open.spotify.com/artist/4MQqUxGDXVC2RVzYAy0OQ0"
+        },
+        {
+          "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0417\u0456\u0440\u043e\u043a",
+          "url": "https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "\u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0430",
+      "url": "https://open.spotify.com/track/09VEXQKnA8JvSqAGSINDe9"
+    },
+    {
+      "album": {
         "name": "\u041f\u0456\u0432\u043e\u043d\u0456\u0457",
         "url": "https://open.spotify.com/album/6CJD937GwNOJDyPgDwaron"
       },
@@ -3998,7 +4020,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 177000,
       "name": "\u0422\u043e\u043c\u0443 \u0449\u043e\u2026",
       "url": "https://open.spotify.com/track/6wgsJzTs1dFIcmsrQyQJAe"

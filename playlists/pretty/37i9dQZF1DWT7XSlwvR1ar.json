@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2114458,
+  "num_followers": 2114413,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 300487,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "I'm Not Bothered By The Rain",
         "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 225867,
       "name": "I'm Not Bothered By The Rain",
       "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 263976,
-      "name": "No One Knows Us",
-      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 196359,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 263976,
+      "name": "No One Knows Us",
+      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 193658,
-      "name": "Catch A Fire",
-      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "In the Clouds",
         "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
         "name": "Wild World",
         "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 213169,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "About A House",
-        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
-      },
-      "artists": [
-        {
-          "name": "Curiosity Shop",
-          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
-        }
-      ],
-      "duration_ms": 204745,
-      "name": "About A House",
-      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1659,6 +1643,22 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "About A House",
+        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "duration_ms": 204745,
+      "name": "About A House",
+      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1911,22 +1911,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Calm Yourself Down",
-        "url": "https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66"
+        "name": "Weather Balloons [Feat. Frances Cone]",
+        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
       "artists": [
         {
-          "name": "Justin Wade Tam",
-          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
         },
         {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
         }
       ],
-      "duration_ms": 195803,
-      "name": "Calm Yourself Down",
-      "url": "https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc"
+      "duration_ms": 212502,
+      "name": "Weather Balloons [Feat. Frances Cone]",
+      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -1947,22 +1947,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Weather Balloons [Feat. Frances Cone]",
-        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
+        "name": "Calm Yourself Down",
+        "url": "https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66"
       },
       "artists": [
         {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+          "name": "Justin Wade Tam",
+          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
         },
         {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
         }
       ],
-      "duration_ms": 212502,
-      "name": "Weather Balloons [Feat. Frances Cone]",
-      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+      "duration_ms": 195803,
+      "name": "Calm Yourself Down",
+      "url": "https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "A Little Bit of Love",
-        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164359,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "Late Riser",
         "url": "https://open.spotify.com/album/0WhrnQczKJFAo1Q1R9buoY"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 217026,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6oa5Vfov0r90SK63nVvTii"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     },
     {
       "added_at": "2026-09-18 04:00:59",

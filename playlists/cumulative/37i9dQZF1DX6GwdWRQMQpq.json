@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: GloRilla & Sexyy Red",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -238,6 +238,24 @@
       "duration_ms": 127228,
       "name": "90's Baby",
       "url": "https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60"
+    },
+    {
+      "album": {
+        "name": "A Girl Is a Gun",
+        "url": "https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160586,
+      "name": "A Girl Is a Gun",
+      "url": "https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT"
     },
     {
       "album": {
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 142697,
       "name": "BYB",
       "url": "https://open.spotify.com/track/3J64O7nqy9ORcZgYRvoA5m"
@@ -8333,6 +8351,28 @@
     },
     {
       "album": {
+        "name": "Jiggly Bow Bow (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "Jiggly Bow Bow (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
+    },
+    {
+      "album": {
         "name": "Hard On A 304",
         "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
       },
@@ -8948,7 +8988,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162617,
       "name": "LIAR LIAR",
       "url": "https://open.spotify.com/track/62Gd441xhMud0v7CtPHsqF"
@@ -10774,7 +10814,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 141120,
       "name": "NO CAP",
       "url": "https://open.spotify.com/track/1IMJpWsaVVZ2jq2SjVlr3e"
@@ -14799,6 +14839,24 @@
     },
     {
       "album": {
+        "name": "Spin Back",
+        "url": "https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192396,
+      "name": "Spin Back",
+      "url": "https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK"
+    },
+    {
+      "album": {
         "name": "I Love 304s",
         "url": "https://open.spotify.com/album/17525Qh1kJxVYWVSBYJB1h"
       },
@@ -15588,6 +15646,24 @@
       "duration_ms": 125760,
       "name": "Throw a Lil Mo (Do It)",
       "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+    },
+    {
+      "album": {
+        "name": "Throw That Money",
+        "url": "https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Throw That Money",
+      "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
     },
     {
       "album": {
@@ -17034,7 +17110,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 140147,
       "name": "Which One",
       "url": "https://open.spotify.com/track/5Arf8kzR32ps4iebRsgVMr"
@@ -17324,6 +17400,28 @@
       "duration_ms": 156734,
       "name": "WOAH",
       "url": "https://open.spotify.com/track/7zO39XFeFtKWpFbYtDTh3Y"
+    },
+    {
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/4yGHrisO5kZlRKv9E06RdJ"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/2frxx1BJjJZQoIQ3Ri9cwA"
     },
     {
       "album": {
@@ -17666,7 +17764,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 148586,
       "name": "YITTY ON YO TITTYS (FREESTYLE)",
       "url": "https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM"

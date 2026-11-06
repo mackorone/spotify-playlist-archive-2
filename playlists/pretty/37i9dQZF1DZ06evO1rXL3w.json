@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAADUewj0Hb1kUWGoCff6hh5i",
+  "snapshot_id": "aukkAAAAAAD/V6SxLnt9ifJtuyLZjB8c",
   "tracks": [
     {
       "added_at": null,
@@ -300,6 +300,54 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
+      "duration_ms": 95465,
+      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 166746,
+      "name": "When You Are Alone",
+      "url": "https://open.spotify.com/track/2c44MBYwfnRj7WvSVlcM48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 61321,
+      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
       "duration_ms": 206185,
       "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
       "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
@@ -332,54 +380,6 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 61321,
-      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bridgerton (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2bU8GVy0KNAzkONX5traPF"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 166746,
-      "name": "When You Are Alone",
-      "url": "https://open.spotify.com/track/2c44MBYwfnRj7WvSVlcM48"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
       "duration_ms": 77970,
       "name": "Nothing Could Keep Me Away - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/6qgk650u7bie0MlLEMcndW"
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 95465,
-      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+      "duration_ms": 83301,
+      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     },
     {
       "added_at": null,

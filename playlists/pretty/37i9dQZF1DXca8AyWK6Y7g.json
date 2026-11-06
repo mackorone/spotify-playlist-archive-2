@@ -1,13 +1,45 @@
 {
-  "description": "just trying our best \ud83d\udcf8 Henry Morris",
-  "num_followers": 1518050,
+  "description": "just trying our best \ud83d\udcf8 Hannah Jadagu",
+  "num_followers": 1517872,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKWM2XV4B+Fr7ez9GRezcxZzJN2",
+  "snapshot_id": "AAAAAF7FzH0NR25HKYIqF3k0JrjDZ09F",
   "tracks": [
+    {
+      "added_at": "2026-11-06 05:00:35",
+      "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
+    },
+    {
+      "added_at": "2026-11-06 05:00:35",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 229148,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
+    },
     {
       "added_at": "2026-10-23 04:02:30",
       "album": {
@@ -39,6 +71,22 @@
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
+    },
+    {
+      "added_at": "2026-11-06 05:00:35",
+      "album": {
+        "name": "Horny, Grieving",
+        "url": "https://open.spotify.com/album/5gTCLMGljymV7c9RXX4Jwn"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "duration_ms": 200714,
+      "name": "Horny, Grieving",
+      "url": "https://open.spotify.com/track/2uvTP27swxyANQSOp2L0DH"
     },
     {
       "added_at": "2026-10-30 04:01:53",
@@ -119,6 +167,22 @@
       "duration_ms": 181246,
       "name": "to love and to lose",
       "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
+    },
+    {
+      "added_at": "2026-11-06 05:00:35",
+      "album": {
+        "name": "still love",
+        "url": "https://open.spotify.com/album/67GdpCJGc9oR14jHAbTdd9"
+      },
+      "artists": [
+        {
+          "name": "YiiiNKA",
+          "url": "https://open.spotify.com/artist/1RtPlRQt00Wh0AXsaLFgZ2"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "still love",
+      "url": "https://open.spotify.com/track/0nDlNp62aSOxg468sLnBUs"
     },
     {
       "added_at": "2026-10-30 04:01:53",
@@ -1599,22 +1663,6 @@
       "duration_ms": 180117,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
-    },
-    {
-      "added_at": "2026-05-22 04:55:57",
-      "album": {
-        "name": "Leaving The House Is A Performance",
-        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
-      },
-      "artists": [
-        {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
-        }
-      ],
-      "duration_ms": 221717,
-      "name": "Naked Chess",
-      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
     }
   ],
   "unique_name": "young & free",

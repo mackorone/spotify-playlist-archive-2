@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Malcolm Rue
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,769 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,794 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
 | 50 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 
-Snapshot ID: `AAAAAJO+zjHGzJBMM9z9NxW0JGafP7N+`
+Snapshot ID: `AAAAADFlWYzg9CuO5/dQAvEeErHfr6/y`

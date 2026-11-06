@@ -2324,10 +2324,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 170066,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/2zwBZoOiGNnytNmesLPboA"
+    },
+    {
+      "album": {
+        "name": "b7",
+        "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170068,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0JUgHx3ON59y1sgRxlAVij"
     },
     {
       "album": {

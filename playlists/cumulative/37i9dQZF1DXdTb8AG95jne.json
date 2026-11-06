@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: ADOY)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: HANRORO)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Adeung-badeung / 100",
+        "url": "https://open.spotify.com/album/6IxkF7yC7h1LAsF5MSPaS6"
+      },
+      "artists": [
+        {
+          "name": "bongjeingan",
+          "url": "https://open.spotify.com/artist/3zyq3DzSd4aue9Q7s1qMVu"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251548,
+      "name": "Adeung-badeung",
+      "url": "https://open.spotify.com/track/0Vn9KU4Eb3cvxQ9qx9nKZX"
+    },
+    {
+      "album": {
         "name": "After the Curtain",
         "url": "https://open.spotify.com/album/2OO4T6PTY1Za5U6ev89Tk7"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 132333,
       "name": "Asymmetry Complex",
       "url": "https://open.spotify.com/track/60FUJwYyVrX9l8F3xrSHuB"
@@ -4476,6 +4494,24 @@
       "duration_ms": 298613,
       "name": "DDDD!",
       "url": "https://open.spotify.com/track/7uP6YcBFEsOMf7CxuqrjPh"
+    },
+    {
+      "album": {
+        "name": "ddr",
+        "url": "https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "ddr",
+      "url": "https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO"
     },
     {
       "album": {
@@ -12126,7 +12162,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220000,
       "name": "Lay Down On The Grass",
       "url": "https://open.spotify.com/track/1cJVKdpYK4NC1CTS8orbku"
@@ -12980,7 +13016,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 153350,
       "name": "LOVE - \u201cDamons year\u201d Remix",
       "url": "https://open.spotify.com/track/6oc2oKvVbLkWp1U5c9tNIq"
@@ -17430,6 +17466,24 @@
       "duration_ms": 263851,
       "name": "Queen of My Heart",
       "url": "https://open.spotify.com/track/3T0kl3KYmOxKtTWvFpYZ7Q"
+    },
+    {
+      "album": {
+        "name": "Question Mark",
+        "url": "https://open.spotify.com/album/5eADdEnRGT7yJfaQbbLtqe"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Question Mark",
+      "url": "https://open.spotify.com/track/5Z7D0AssXUHuYFnXsp3RyS"
     },
     {
       "album": {

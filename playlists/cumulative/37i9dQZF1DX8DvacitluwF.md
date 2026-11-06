@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Mikhalé Jones
+> The best in South African and international R&B\. Cover: KLA
 
-704 songs - 1 day 14 hr 1 min
+706 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Body Party](https://open.spotify.com/track/2tkPJsgycUtCTpK6rob0CA) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [hold me when it's cold: the cuddle pack](https://open.spotify.com/album/6Qgr0c19to4RJXIbwfxKST) | 4:22 | 2023-11-16 | 2024-02-09 |
 | [Boogie \(Get Down\)](https://open.spotify.com/track/54C0UuEWVNnHvfcXhTVmAw) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:12 | 2025-03-28 | 2025-04-25 |
 | [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 | 2023-11-16 | 2024-11-15 |
-| [Boy Bye](https://open.spotify.com/track/1qHfALx9TOCooQQ8uzILzc) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Boy Bye](https://open.spotify.com/album/4Rexq8Gfnr2HVugZtBQe32) | 3:05 | 2026-10-23 |  |
+| [Boy Bye](https://open.spotify.com/track/1qHfALx9TOCooQQ8uzILzc) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Boy Bye](https://open.spotify.com/album/4Rexq8Gfnr2HVugZtBQe32) | 3:05 | 2026-10-23 | 2026-11-06 |
 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-10-12 | 2023-11-10 |
 | [Brand New Me](https://open.spotify.com/track/3e1WiZKZSPqjejsE95MaLJ) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Brand New Me](https://open.spotify.com/album/2tUgcQUy5QVJEAgjr4XdNa) | 2:51 | 2024-08-30 | 2024-09-03 |
 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 | 2025-06-20 | 2026-05-22 |
@@ -198,6 +198,7 @@
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2023-10-12 | 2023-10-20 |
 | [FALLING FOR YOU](https://open.spotify.com/track/6DmwKKCAlA8aKoaB4O7vFd) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [LOVE LETTERS](https://open.spotify.com/album/0MDMXbXsB0P15a8piifP7W) | 2:47 | 2024-09-02 | 2024-09-12 |
 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2023-10-12 | 2024-01-26 |
+| [Fantasy](https://open.spotify.com/track/1YJEJBI6bt4v29CeN9f9Pd) | [KLA](https://open.spotify.com/artist/1LUV99kWKMrRaP1bViUquo) | [Here I Go Again](https://open.spotify.com/album/1plTKl8NLgovl2mrFAlrCO) | 3:04 | 2026-11-05 |  |
 | [Far Away](https://open.spotify.com/track/6SZremAYMTpoOpdMTWZXUC) | [Asaiowé](https://open.spotify.com/artist/6S2sQGQVsc7BzhaRzCrN4W) | [Far Away](https://open.spotify.com/album/3AYsgCOHt0Gv7nVYQBH2zD) | 3:06 | 2025-04-03 | 2025-04-25 |
 | [Far Away](https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3) | [from RUVA to El Roi](https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7) | 3:53 | 2024-05-09 | 2024-08-31 |
 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2023-11-16 | 2024-03-15 |
@@ -311,6 +312,7 @@
 | [INSIDE YOUR HEAD](https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [WAVES: Vol\. 1](https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn) | 3:45 | 2024-10-11 | 2025-04-25 |
 | [INTENTIONS](https://open.spotify.com/track/7EYKq8pLfgrd8hFzFRnrkd) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 3:58 | 2025-02-13 | 2025-03-01 |
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 | 2025-08-09 |
+| [Intertwined](https://open.spotify.com/track/46jLzeCoS4lgVRQjdrRCI8) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Only For A While](https://open.spotify.com/album/5d649NfmfBEFL1flx5pPEs) | 3:31 | 2026-11-05 |  |
 | [Intro](https://open.spotify.com/track/3FL1FKNMrzKk9Bw66LmFY8) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [AyandaMVP](https://open.spotify.com/artist/0j78LhGo6rbkwQzVxJ5XLA) | [T's & C's Apply](https://open.spotify.com/album/6DoiLrHITwH7KRzqoNXfIr) | 1:16 | 2026-07-02 | 2026-07-10 |
 | [Involved](https://open.spotify.com/track/4oVUImT0hkgyjH989I1U4u) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [THJ Radio Vol\. 1](https://open.spotify.com/album/11ZhB00zBhxQkxJOHJ4Q2a) | 2:30 | 2024-09-11 | 2024-10-25 |
 | [IQINISO](https://open.spotify.com/track/03wM9MDUWJT6D901sRFvcT) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [OHLAZA](https://open.spotify.com/album/4Ly6AteRRNVC3fcPyqkoag) | 2:43 | 2024-09-26 | 2025-06-20 |
@@ -601,7 +603,7 @@
 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 | 2025-05-01 | 2025-09-26 |
 | [Sweet Nothing](https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Sweet Nothing](https://open.spotify.com/album/0NbNpeeNiN6lr2O3I6C7y8) | 1:28 | 2023-10-12 | 2024-01-26 |
 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 | 2026-04-24 |  |
-| [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 | 2026-05-07 |  |
+| [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 | 2026-05-07 | 2026-11-06 |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2024-05-16 | 2024-08-31 |
 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-20 | 2025-12-05 |
 | [SYMPHONY](https://open.spotify.com/track/3Zbn9QI4ErtDqBrhQGudMy) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [The Decompress \(Solace Edition\)](https://open.spotify.com/album/2sc5qvyUNxiAIqtc6sqy6w) | 2:48 | 2024-11-11 | 2025-04-25 |

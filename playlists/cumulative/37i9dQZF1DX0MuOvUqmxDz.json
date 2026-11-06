@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 189983,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3pzBmTac4UZLxdYPVMRuzM"
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 264146,
       "name": "I'll Be Your Santa Tonight",
       "url": "https://open.spotify.com/track/3r0jsVshXfshN5B3NszJAc"
@@ -2950,6 +2950,24 @@
       "duration_ms": 174560,
       "name": "It's Beginning to Look a Lot Like Christmas",
       "url": "https://open.spotify.com/track/438duiec0gQXAN50WW5aaS"
+    },
+    {
+      "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/4cR5n1PGL2ROVd8l9fDxZY"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135920,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/0U68mMLSwoessj3EGlaEn3"
     },
     {
       "album": {
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168363,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk"
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 150689,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/2jPq4RYw0mBadzf7j3RbGD"
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 138653,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/5BgC5vVuhfWHHawbcXRr7h"
@@ -3626,6 +3644,28 @@
       "duration_ms": 171579,
       "name": "Let it Snow! Let it Snow! Let it Snow!",
       "url": "https://open.spotify.com/track/63clD8ke57qeOw7czBPvoz"
+    },
+    {
+      "album": {
+        "name": "Let It Snow! Let It Snow! Let It Snow! (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/0oBqA7UCiAUM9chjGyKlnM"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/1GXnG9vkH3eMUGNapFd2U3"
     },
     {
       "album": {
@@ -4526,7 +4566,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 210133,
       "name": "One More Christmas",
       "url": "https://open.spotify.com/track/10EJIwQMfN0MLgG1MOYleR"
@@ -5082,7 +5122,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 202443,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/5ajQCyeRSRwqxByzJDsQg0"
@@ -5340,7 +5380,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204373,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/7s85owcMvtlPMBRG5TWeWs"
@@ -5614,6 +5654,42 @@
       "duration_ms": 173467,
       "name": "Snow's Not The Only Thing Falling",
       "url": "https://open.spotify.com/track/2rYzzpWjrJsIJEvHvYgtax"
+    },
+    {
+      "album": {
+        "name": "Snowed In With Me",
+        "url": "https://open.spotify.com/album/2j7BarIpVo1yEXEphxuf3g"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188557,
+      "name": "Snowed In With Me",
+      "url": "https://open.spotify.com/track/3hdaU2rPibQW0AgFE2a467"
+    },
+    {
+      "album": {
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/5hdIZH76EFIz9zmKEWkHib"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/1rm5dH9ImBKUgpx6xzPdAI"
     },
     {
       "album": {
@@ -6164,7 +6240,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 230836,
       "name": "Whiskey Kinda Christmas",
       "url": "https://open.spotify.com/track/6KB2Gh8mRDkKCr13cEJTzp"

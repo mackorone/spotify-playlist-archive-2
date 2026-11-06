@@ -4,7 +4,7 @@
 
 > Classical tunes to make you feel good.
 
-140 songs - 9 hr 27 min
+141 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [My Fatherland](https://open.spotify.com/track/1SZmCwyjY8sEd7jYXke9gn) | [Anthony Hopkins](https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p), [Gregorio Nieto](https://open.spotify.com/artist/2pWETDhFJlOUsmU9s8829M), [The Bach Choir](https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM), [The Boy Choristers of Winchester Cathedral](https://open.spotify.com/artist/1aPbjvNpEWshO8HV7WOWGq), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Life is a Dream](https://open.spotify.com/album/0aROL1KZNoYSp0bipj1QoS) | 5:37 | 2026-08-21 |  |
 | [My Neighbour TOTORO](https://open.spotify.com/track/7iqFh7Vftu6YfwZCSekgtU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Dream Songs: The Essential Joe Hisaishi](https://open.spotify.com/album/0QdrFLgqjMzhaXDd0UmU1T) | 4:07 | 2021-07-02 |  |
 | [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 | 2025-02-21 |  |
+| [Naïs](https://open.spotify.com/track/386xiYDH51DUHjKBySZ5K6) | [Orchestre national de Cannes](https://open.spotify.com/artist/7wStDxALwEwWzga41B7NpR), [Benjamin Levy](https://open.spotify.com/artist/2YOZcFWhvdRmuGSERI0VhF) | [Melodies of Provence \- The Films of Marcel Pagnol](https://open.spotify.com/album/5JqCyf8DbBy8RWl3SFKX69) | 3:37 | 2026-11-06 |  |
 | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/track/5vHdzeEjuK5ZQnOyFqUTDH) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/album/03BGb4cBD5kWEg8Dng7pFs) | 4:07 | 2025-09-12 |  |
 | [Nonet in E\-Flat Major, Op\. 38: III\. Scherzo\. Vivace](https://open.spotify.com/track/2z7iDr3N4NbW4VmwpQWbTS) | [Louise Farrenc](https://open.spotify.com/artist/3cCP79U05k4MrNSU06eBy2), [Consortium Classicum](https://open.spotify.com/artist/5pXc3hdnVW50TkAvUZ3IhJ) | [Farrenc: Nonet \- Clarinet Trio](https://open.spotify.com/album/4oJtR0XATs2ZskA2RNcaHT) | 5:07 | 2021-07-02 |  |
 | [Nutcracker Suite, Op\. 71a, TH\. 35: IIc\. Danse russe Trépak \(Tempo di Trépak, molto vivace\)](https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Discoveries](https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP) | 1:07 | 2024-11-15 |  |

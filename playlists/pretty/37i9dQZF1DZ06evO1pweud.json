@@ -1,12 +1,12 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 143337,
+  "num_followers": 143368,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aufSgAAAAAACbl7FWb5x2R+jkeKxK1VY",
+  "snapshot_id": "aukkAAAAAAB1wKb2AvGDwY3zsIXSijXj",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "bop it up!",
+        "url": "https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 166638,
+      "name": "bop it up!",
+      "url": "https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hermoso",
         "url": "https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 222809,
       "name": "Memoria De Paz (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1GSq4WFwPcqRNObLWhqGC3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bop it up!",
-        "url": "https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 166638,
-      "name": "bop it up!",
-      "url": "https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm"
     },
     {
       "added_at": null,

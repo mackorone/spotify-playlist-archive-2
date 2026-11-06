@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,826 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,865 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 75 | [They Can't Take That Away from Me](https://open.spotify.com/track/1OJ2GWymJkmjgoKXsLNpok) | [Andy Bey](https://open.spotify.com/artist/6nnjKHTxPpJtw08NqB0gvJ) | [They Can't Take That Away from Me](https://open.spotify.com/album/1C5IMggxt35j85bUv5RqPL) | 3:12 |
 | 76 | [Honeysuckle Rose](https://open.spotify.com/track/1443kKss2nI8dIwvQkHpBg) | [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Honeysuckle Rose](https://open.spotify.com/album/7af6wV4XW51jX9C4BGB0p1) | 3:58 |
 | 77 | [All or Nothing at All](https://open.spotify.com/track/0JQtOJkm9JJH7psMoYJpjI) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Love Letters](https://open.spotify.com/album/6nwnnnWv9wuRRP8ScrT9eo) | 5:09 |
-| 78 | [The Very Thought of You](https://open.spotify.com/track/3QYaum9dm4oiri5zD1LNle) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Very Thought of You](https://open.spotify.com/album/1uuMIttzbmSQEcklwOKsXy) | 4:09 |
+| 78 | [The Very Thought of You](https://open.spotify.com/track/3QYaum9dm4oiri5zD1LNle) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Jeff Atmajian](https://open.spotify.com/artist/5dL76mYrr5HJ6nhnpg4UgK), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Very Thought of You](https://open.spotify.com/album/1uuMIttzbmSQEcklwOKsXy) | 4:09 |
 | 79 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Make It Another Old Fashioned, Please](https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4) | 2:52 |
 | 80 | [I'm a Fool to Want You](https://open.spotify.com/track/0xqACYs9x2hgRMTAKHpjKE) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [I'm a Fool to Want You](https://open.spotify.com/album/37HtV7Ne1VwmRth2v71hf8) | 3:19 |
 | 81 | [Avalon](https://open.spotify.com/track/06t9m5nzmqEiXuKLCnQKyG) | [Jim Caruso](https://open.spotify.com/artist/3hNU1GwmcBf1qbtIC0PH80), [Billy Stritch](https://open.spotify.com/artist/5BFCEjtWiORUGo96eKDbXi), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Avalon](https://open.spotify.com/album/0wZ030NQ0ikQ8jNuKDO14p) | 4:06 |

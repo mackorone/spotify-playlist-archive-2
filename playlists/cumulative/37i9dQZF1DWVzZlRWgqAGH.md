@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Snoh Aalegra and music for your Snoh Aalegra.
+> Leven Kali and music for your soul.
 
-1,844 songs - 4 day 12 hr 9 min
+1,846 songs - 4 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,7 +617,7 @@
 | [fxck it then](https://open.spotify.com/track/6C6CivPw9ew0qPgvvbSloL) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [fxck it then](https://open.spotify.com/album/5kNYmUqBUNBOvYhV6YqKhC) | 2:15 | 2021-02-25 | 2021-03-22 |
 | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/track/76QPCZs6SWpfMJy7tylWj0) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/album/0xeEoXE1WXKkuYFh3bEZPc) | 3:27 | 2026-05-22 | 2026-08-28 |
 | [Garage Rooftop](https://open.spotify.com/track/1dekstoglmqX3fq3K42sux) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 4:24 | 2020-12-11 | 2021-01-23 |
-| [Garble](https://open.spotify.com/track/3negAvpszuxiKrm4Kx24WY) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Ross Garren](https://open.spotify.com/artist/5O46dYO8n6HtLmzkS0QnXG) | [Sorry For All The Mouth Noises](https://open.spotify.com/album/3qwXTRo0TfEiJM21zHjdgT) | 3:36 | 2026-10-09 |  |
+| [Garble](https://open.spotify.com/track/3negAvpszuxiKrm4Kx24WY) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Ross Garren](https://open.spotify.com/artist/5O46dYO8n6HtLmzkS0QnXG) | [Sorry For All The Mouth Noises](https://open.spotify.com/album/3qwXTRo0TfEiJM21zHjdgT) | 3:36 | 2026-10-09 | 2026-11-06 |
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2021-10-10 | 2022-12-24 |
 | [GEEKIN](https://open.spotify.com/track/4HiWfodoaCudNmx2AJCgq6) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/57MWVBl4RoYDLte8WwXA3R) | 2:37 | 2023-05-12 | 2023-06-25 |
 | [GEEKIN](https://open.spotify.com/track/7kKjzWv2H6qnNDKJuerf1e) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN'](https://open.spotify.com/album/4QynZKICiI8JjZZAScjJBx) | 2:37 | 2022-12-30 | 2023-01-25 |
@@ -847,7 +847,7 @@
 | [It Belongs To You \(feat\. Jozzy\)](https://open.spotify.com/track/6qo9Y5VZZnbeF7ejEzF8L3) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 2:39 | 2023-09-29 | 2023-12-02 |
 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-24 | 2026-08-28 |
 | [It's A Man's Man's Man's World \- Live at Montreux Jazz Festival](https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Live at Montreux Jazz Festival](https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx) | 6:59 | 2024-09-13 | 2024-11-23 |
-| [It's Easier](https://open.spotify.com/track/4AeQ2QfxTQBX5iO0MEGoHo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life \- The EP](https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj) | 5:09 | 2026-10-02 |  |
+| [It's Easier](https://open.spotify.com/track/4AeQ2QfxTQBX5iO0MEGoHo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life \- The EP](https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj) | 5:09 | 2026-10-02 | 2026-11-06 |
 | [It's Time](https://open.spotify.com/track/1FPIgbXsCqB1ZuDpV8Godz) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [It's Time](https://open.spotify.com/album/2R0k5MBbrtS1ZGi8qJULqU) | 5:22 | 2021-01-07 | 2022-04-19 |
 | [itkanbe\[sonice\]](https://open.spotify.com/track/0WywlY00pAWlwsjAOFzUAr) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE) | [1988](https://open.spotify.com/album/2RmcpkbatBOMnCw8nbw7dG) | 1:43 | 2020-03-28 | 2020-04-24 |
 | [It’s A Shame](https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [It’s A Shame](https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ) | 3:41 | 2026-05-08 |  |
@@ -876,6 +876,7 @@
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-20 | 2025-09-20 |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-19 | 2024-09-14 |
 | [Just Fine](https://open.spotify.com/track/5nkLtcmInBvzPZCsHKmWJn) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Slow Summer](https://open.spotify.com/album/3PCSI1vcMZ4av5S2Uwjeli) | 3:12 | 2019-12-13 | 2020-04-24 |
+| [Just Friends](https://open.spotify.com/track/4CxmgfD19iejZ1FtVIkaCJ) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Just Friends](https://open.spotify.com/album/5RTAObv08gamZTBJG2CEk6) | 4:00 | 2026-11-06 |  |
 | [Just Show Me](https://open.spotify.com/track/6MgLIUW9vH8pngLxg3Pp3k) | [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [This Is What Happiness Looks Like](https://open.spotify.com/album/6KsQaKZxnhk2VD3ZzYBKv7) | 5:15 | 2020-10-09 | 2020-12-08 |
 | [Justify](https://open.spotify.com/track/7lvWVI3diu50eevJ4u8QNX) | [Solomon Fox](https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Sweetteeth](https://open.spotify.com/album/3Y4SMHwKptgaDwb4n33zWk) | 4:40 | 2025-11-21 | 2026-02-21 |
 | [Kanana](https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Kanana](https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky) | 5:35 | 2025-07-25 | 2025-09-27 |
@@ -1623,6 +1624,7 @@
 | [The Heat](https://open.spotify.com/track/3ZOlgtwwhbYskdH7hJ21Bu) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Eldorado](https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY) | 3:18 | 2022-07-22 | 2022-09-03 |
 | [The Heat](https://open.spotify.com/track/574JRYU1lS9Cz3zcYD8SFF) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [The Heat](https://open.spotify.com/album/1baCG4CGldkKsAE2OtUeWY) | 3:18 | 2020-07-31 | 2022-04-21 |
 | [The Hurt](https://open.spotify.com/track/4b8rDYpSbxA3nO0x0FMoeD) | [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [The Hurt](https://open.spotify.com/album/7BOefTG6O2snaUnHOx7643) | 3:59 | 2020-10-09 | 2022-04-21 |
+| [the in between \(interlude\)](https://open.spotify.com/track/7qXt7t4LsJSf5Yh2u73QUW) | [AHSIA](https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH) | [MISS UNDERSTOOD](https://open.spotify.com/album/15qL3Bv2NqMY6yaNn5PGnu) | 1:55 | 2026-11-06 |  |
 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 | 2025-04-04 | 2025-04-26 |
 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 | 2023-06-09 | 2023-07-08 |
 | [The Light \(I Need You\)](https://open.spotify.com/track/02ONt6TdguBGgJzJTzwXCN) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [The Light \(I Need You\)](https://open.spotify.com/album/62V1Z7zodlcga1W3uZeVAl) | 3:37 | 2025-03-07 | 2025-07-26 |

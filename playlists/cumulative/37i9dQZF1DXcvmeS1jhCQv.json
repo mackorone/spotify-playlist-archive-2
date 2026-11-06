@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd cover: Bleech 9:3",
+  "description": "The best new Irish music in one place \ud83d\udccd Cover: Travy",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -3028,10 +3028,28 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 118153,
       "name": "Eimear",
       "url": "https://open.spotify.com/track/2zyOvwdn3gIZaZQpajXxPa"
+    },
+    {
+      "album": {
+        "name": "eleanor",
+        "url": "https://open.spotify.com/album/46VdUaFTrzGL3xJcze4Nmp"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244943,
+      "name": "eleanor",
+      "url": "https://open.spotify.com/track/3IiOZ9DA56vcMNP6sJFyNo"
     },
     {
       "album": {
@@ -3614,6 +3632,24 @@
       "duration_ms": 184000,
       "name": "For The Boys",
       "url": "https://open.spotify.com/track/0S2pDnQzdCmDxHKOIh5taS"
+    },
+    {
+      "album": {
+        "name": "forever",
+        "url": "https://open.spotify.com/album/7Cf7TLS8c5OWPKaZXGaWGy"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172965,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/1GfIsFyh8FzrKEhSNHSzTh"
     },
     {
       "album": {
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 248918,
       "name": "how things are today",
       "url": "https://open.spotify.com/track/5cYf0ojj9Sgac6yl4czaDk"
@@ -5597,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "B4YFLA",
+        "url": "https://open.spotify.com/album/10DFSfy2T71Qday96KfQF6"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4cU229v61MuKAp6HvaP6w5"
+    },
+    {
+      "album": {
         "name": "Let's Do It",
         "url": "https://open.spotify.com/album/2UWXMQJvCyQzLv7huGCL1a"
       },
@@ -5936,6 +5990,24 @@
       "duration_ms": 176969,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
+    },
+    {
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "Lord, Let That Tesla Crash",
+      "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
     },
     {
       "album": {
@@ -7904,7 +7976,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 228977,
       "name": "PROJECT X",
       "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
@@ -7926,6 +7998,24 @@
       "duration_ms": 212959,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/02F70YYcqNe7jVKG3Ouc24"
+    },
+    {
+      "album": {
+        "name": "purple smoke",
+        "url": "https://open.spotify.com/album/4xqMcmMcQQrZdTA1v6lTRw"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135808,
+      "name": "purple smoke",
+      "url": "https://open.spotify.com/track/2YLDMfPxAgsZjHOL9Ts7Xu"
     },
     {
       "album": {
@@ -8264,7 +8354,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 179836,
       "name": "Roses",
       "url": "https://open.spotify.com/track/2qfCkiY8sSLxoVrHUD2iJg"
@@ -8798,7 +8888,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 220800,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1vJzefOeSrcqLwSGcy92es"
@@ -10382,7 +10472,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 207682,
       "name": "Through The Rain",
       "url": "https://open.spotify.com/track/6MTvGQ6OtlBd8vsb5bzZkq"
@@ -10472,7 +10562,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 180356,
       "name": "TomTom",
       "url": "https://open.spotify.com/track/1BKiRyWuOxET6txWRI7wXj"
@@ -11230,7 +11320,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
@@ -11422,7 +11512,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 164253,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/5CWstgZrgIFR6GFJHJnQ3W"

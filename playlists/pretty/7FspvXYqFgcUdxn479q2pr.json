@@ -1,13 +1,101 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: MORTEN",
-  "num_followers": 31302,
+  "num_followers": 31298,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAxS51K2NNfRdsfJ72O3zqFJ7OleoyC",
+  "snapshot_id": "AAAxUqPPHZKn/H/DJDqD7eaEHhj7bKZi",
   "tracks": [
+    {
+      "added_at": "2026-11-05 23:00:09",
+      "album": {
+        "name": "I Need Your Lovin'",
+        "url": "https://open.spotify.com/album/6U3tIlC7POyds1KyDXDJjD"
+      },
+      "artists": [
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/3Iqk3dSYSpGl2pDtHpe16p"
+    },
+    {
+      "added_at": "2026-11-05 23:00:11",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0n2Li7uErWOT5Pq4ieeqU3"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "RYOS",
+          "url": "https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M"
+        }
+      ],
+      "duration_ms": 176417,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3OhADJ9CKTfEFOTfYBEGMg"
+    },
+    {
+      "added_at": "2026-11-05 11:58:10",
+      "album": {
+        "name": "Disappear (feat. Sissa)",
+        "url": "https://open.spotify.com/album/66yalpzTWCGkwHUYBK36zZ"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Sissa",
+          "url": "https://open.spotify.com/artist/4bP00ULIcJnMrt76uXWnGY"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Disappear (feat. Sissa)",
+      "url": "https://open.spotify.com/track/219b8va1KpTSrCxI7djbDF"
+    },
+    {
+      "added_at": "2026-11-05 12:04:14",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/3nuWQaaxkrXa8bpWVfeSUy"
+      },
+      "artists": [
+        {
+          "name": "melih sar\u0131",
+          "url": "https://open.spotify.com/artist/4jWUd2mZBkpbX6Oj4KQktW"
+        }
+      ],
+      "duration_ms": 153259,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/08GLdJkqn0Yl8F7jSfFyW3"
+    },
+    {
+      "added_at": "2026-11-05 23:00:13",
+      "album": {
+        "name": "Junk Into My Mind",
+        "url": "https://open.spotify.com/album/4hN6FgeHSP9ZxdGpCF65mP"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "Junk Into My Mind",
+      "url": "https://open.spotify.com/track/6NImd5zY0QmImGanmDv1ye"
+    },
     {
       "added_at": "2026-10-29 23:00:16",
       "album": {

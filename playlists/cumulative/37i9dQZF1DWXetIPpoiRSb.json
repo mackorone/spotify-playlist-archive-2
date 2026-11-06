@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "pushing pop forwards <3!! \ncover: girl group",
+  "description": "pushing pop forwards <3!! \ncover: Yaeji",
   "name": "Evolver",
   "tracks": [
     {
@@ -6764,7 +6764,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 160626,
       "name": "car crash",
       "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
@@ -9415,6 +9415,24 @@
     },
     {
       "album": {
+        "name": "ddr",
+        "url": "https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277973,
+      "name": "ddr",
+      "url": "https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO"
+    },
+    {
+      "album": {
         "name": "Dead Girl! (Shake My Head)",
         "url": "https://open.spotify.com/album/6ILFi7b74jwewJexOOVD7n"
       },
@@ -11040,7 +11058,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 168784,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/3tkNHEBilPeEv7n9nEN8Fc"
@@ -12010,6 +12028,24 @@
       "duration_ms": 187625,
       "name": "Est",
       "url": "https://open.spotify.com/track/6T5yT9pqRn3qWcHO5Knj04"
+    },
+    {
+      "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F"
     },
     {
       "album": {
@@ -17372,6 +17408,24 @@
       "duration_ms": 235161,
       "name": "Hey Babe, I'm A Mess, I'm Sorry",
       "url": "https://open.spotify.com/track/2uDhen1tviMnGq4mKSse0n"
+    },
+    {
+      "album": {
+        "name": "hey boyyy",
+        "url": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278694,
+      "name": "hey boyyy",
+      "url": "https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo"
     },
     {
       "album": {
@@ -23146,7 +23200,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 131440,
       "name": "lao shi",
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
@@ -24930,7 +24984,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 153258,
       "name": "Lost Signal",
       "url": "https://open.spotify.com/track/2I597clj5PJWixyMR47HRi"
@@ -43728,6 +43782,24 @@
       "duration_ms": 213842,
       "name": "Wave of You",
       "url": "https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT"
+    },
+    {
+      "album": {
+        "name": "Way back to You",
+        "url": "https://open.spotify.com/album/70wK07yeUWeQiH9OnsjyTP"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121533,
+      "name": "Way back to You",
+      "url": "https://open.spotify.com/track/5VxGvEGKHDw8AfoRqdfmcR"
     },
     {
       "album": {

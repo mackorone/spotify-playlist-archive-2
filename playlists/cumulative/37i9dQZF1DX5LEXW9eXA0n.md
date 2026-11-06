@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: BOL4\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: O.WHEN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,810 songs - 4 day 21 hr 33 min
+1,815 songs - 4 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2022 Monthly Yoon June \- You're Different \(with MINSEO\)](https://open.spotify.com/track/7HPGPdO2c24RWkn1gVDKmA) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [2022 Monthly Yoon June \- You're Different](https://open.spotify.com/album/4ogb9e2IGS9Bvw4j5e3bc6) | 4:32 | 2022-07-07 | 2022-09-06 |
 | [2025 Monthly Yoon Repair June \- Today](https://open.spotify.com/track/2ArZU4LMsujnuEKTedJjHJ) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon Repair June \- Today](https://open.spotify.com/album/5KVHUxmrCYlYtNSmnPhMGP) | 4:36 | 2025-06-27 | 2025-11-06 |
 | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/track/5RdBOgpkT7aZcXJWTTQfYx) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon Repair May \- A Year](https://open.spotify.com/album/5vYgBIGxDFNRPn3zMRqQWd) | 5:03 | 2025-05-30 | 2025-10-20 |
+| [2026 Monthly Yoon Repair October \- Tear Drops \(with Gwyn Dorado\)](https://open.spotify.com/track/1IfgjnlzmJi547MEpCmuQF) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Gwyn Dorado](https://open.spotify.com/artist/7pZ42lLRSlDnoPCfINXCn9) | [2026 Monthly Yoon Repair October \- Tear Drops \(with Gwyn Dorado\)](https://open.spotify.com/album/77168fOD0uqxPAup8dZxpd) | 4:50 | 2026-11-06 |  |
 | [29](https://open.spotify.com/track/0pvf2SdsuhE1lFfJztZeHU) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [29](https://open.spotify.com/album/02xylRgbAtbTWZP3tl6Gco) | 3:53 | 2023-10-20 | 2024-01-05 |
 | [33](https://open.spotify.com/track/3tqXynBuF095sqRV9OjwNJ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [LEECHANGSUB 1st ALBUM <1991>](https://open.spotify.com/album/5p9XwPWP9van2JE9yXJGfS) | 4:00 | 2024-10-02 | 2025-03-13 |
 | [366days](https://open.spotify.com/track/0b0P9gzrkJDJMEWg2GnmNX) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [366days](https://open.spotify.com/album/12hSVBrMwIRhaxpEBXZ6OO) | 4:18 | 2022-01-17 | 2022-01-18 |
@@ -249,6 +250,7 @@
 | [can't sleep](https://open.spotify.com/track/638ZqDkW3jdwkla129O2MZ) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [can't sleep](https://open.spotify.com/album/246MVpH5qwEMIVkzGAafi0) | 4:35 | 2022-02-10 | 2022-04-21 |
 | [Can′t Live Without You](https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [YOU](https://open.spotify.com/album/30WYyl2dDYF5KWeEpJ3GF6) | 4:04 | 2022-03-29 | 2022-04-21 |
 | [Cause You \(prod\. KANGTA\)](https://open.spotify.com/track/4tmhfVKwTg8iSbXtQN4Yba) | [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Cause You \(prod\. KANGTA\) \- SM STATION](https://open.spotify.com/album/4SJpUs4YI7u0M3S2slXuOQ) | 3:55 | 2022-07-04 | 2022-10-08 |
+| [Chance & Fate](https://open.spotify.com/track/48iDGNDxoOFCSDSpmpuNAK) | [JI SUYEON](https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6) | [Pile of Paper](https://open.spotify.com/album/0pMYW0itM0jyAPGFtKOvD5) | 2:55 | 2026-11-06 |  |
 | [Change](https://open.spotify.com/track/1xVUu2AbjTJTEvQI2rpEpp) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Change](https://open.spotify.com/album/01SstNr2NESSMRU11yvCpQ) | 4:24 | 2025-10-20 | 2026-01-26 |
 | [CHECKLIST](https://open.spotify.com/track/4Qs0LHbUWwhHFQ7iflUfht) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [CHECKLIST](https://open.spotify.com/album/6tZwL5giROuqK4YZnl185Y) | 3:09 | 2022-11-01 | 2023-01-21 |
 | [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 | 2024-06-04 | 2024-09-24 |
@@ -299,6 +301,7 @@
 | [Dear Love](https://open.spotify.com/track/6rR8TIrMrrMOZ72xf81H5I) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [\#ff00ff](https://open.spotify.com/album/5PAqvFOTIUDAPpujNE54Rr) | 4:15 | 2023-02-14 | 2023-03-28 |
 | [Dear My Love](https://open.spotify.com/track/6QdzLFR1l1GP4OoiJAZNtF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [When the Weather is fine OST Part.4](https://open.spotify.com/album/2OMholRSxY7jILMGLWXuJD) | 4:45 | 2022-03-24 | 2022-04-17 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-08-12 | 2022-12-27 |
+| [Dear\. My Fool](https://open.spotify.com/track/3K3qkJSnicuNOLOBkC055j) | [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q) | [Dear\. My Fool](https://open.spotify.com/album/5W5Xx5VoxrRpnsCpZ9HIN4) | 3:58 | 2026-11-06 |  |
 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-01 |  |
 | [December 32 days](https://open.spotify.com/track/1fXcEQ3qQkXHmEtyMOoGYa) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [December 32 days](https://open.spotify.com/album/78QCfGI4tbL1ifynZHcwlK) | 4:46 | 2025-12-16 | 2026-04-17 |
 | [December's Spring\(Prod\. Sam Kim\)](https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN) | [YUN HU](https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp) | [December's Spring](https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A) | 3:30 | 2023-01-10 | 2023-02-25 |
@@ -690,6 +693,7 @@
 | [I'm in love with you](https://open.spotify.com/track/6BAZjhRiEbMj40qxX1r49d) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [I'm in love with you](https://open.spotify.com/album/4K379GrQ1F8ZHV3CbRGxoU) | 4:05 | 2024-04-15 | 2024-08-11 |
 | [I'm not even drunk](https://open.spotify.com/track/0uNTk70FsyFRhHg03O9sPr) | [Baby Blue](https://open.spotify.com/artist/4lPysgWv3ElxXrp6IKcJN1) | [I'm not even drunk](https://open.spotify.com/album/0134ShAd5n7nCkie4PYWGU) | 3:20 | 2023-10-20 | 2023-12-14 |
 | [I'm Not Okay](https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/6pfjN1lAUwifCYEWKV6pS2) | 3:43 | 2022-03-29 | 2022-04-11 |
+| [I'm Smiling](https://open.spotify.com/track/33CdhpJJkNDZOBmOkmTShB) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [I’m Smiling](https://open.spotify.com/album/1332sfyw9EFIKQCwnOBZI6) | 4:09 | 2026-11-06 |  |
 | [I'm Sorry](https://open.spotify.com/track/3QOxInGl8Qx8YJGVMzKKgv) | [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [I'm Sorry](https://open.spotify.com/album/1tfVvXMP5c0VLr6L5K4YMs) | 3:52 | 2025-08-21 | 2025-11-29 |
 | [I'm Still Here](https://open.spotify.com/track/2lATsh8Vw1NzPkcJFYAjDL) | [LEO](https://open.spotify.com/artist/0KZZD2YdkvaIsGpMEVVKVD) | [I'm Still Here](https://open.spotify.com/album/6rK6woUcQOXxJQWBWhMlUt) | 3:17 | 2022-03-24 | 2022-04-12 |
 | [I'm trying to fix it](https://open.spotify.com/track/6HRtEBk2xmbH4ed2A14Ujf) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [I'm trying to fix it](https://open.spotify.com/album/2uGscuF57AxYLVLqCwKWp8) | 3:23 | 2023-09-18 | 2023-11-14 |
@@ -1702,6 +1706,7 @@
 | [You take me over, cause..](https://open.spotify.com/track/2n74yZ4nQoxaiLMuJUowpL) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [SOMETIMES \- Take me over OST](https://open.spotify.com/album/4m9ZWqqQFht0IILSBsejj9) | 3:08 | 2023-02-24 | 2023-04-27 |
 | [You who never cried before](https://open.spotify.com/track/76pn4VPYjjfSnQqGXhfJEN) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [With the flick of a hand](https://open.spotify.com/album/5izKM0JcEfQ2iS8NAw64Ig) | 2:34 | 2024-12-24 | 2025-05-26 |
 | [You will shine](https://open.spotify.com/track/2QnzKVxbZSiunJYCmHvt5G) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi), [Insooni](https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy) | [You will shine](https://open.spotify.com/album/74hfH7A2FyGp7R5SR0m0wG) | 4:04 | 2024-08-10 | 2024-12-25 |
+| [You Will Shine \(begin again\)](https://open.spotify.com/track/1pY226XB197R5qWjrl4oYQ) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [You Will Shine \(begin again\)](https://open.spotify.com/album/1b19syphbwg8FhdKnvsfSW) | 4:08 | 2026-11-06 |  |
 | [You're acting strange](https://open.spotify.com/track/2TG4PzLhmxhM639L5ZwKPh) | [Im Jiseong](https://open.spotify.com/artist/5Hky3lwHYuhqTlqY1UQNdA) | [The Ballad of Us Story 5](https://open.spotify.com/album/4AspaX4zC3UhhOOe9P0nJJ) | 3:56 | 2025-11-06 | 2025-11-10 |
 | [You're Already The Best For Me](https://open.spotify.com/track/4o02wolAG3eS75e9rljBLv) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf) | [小暑](https://open.spotify.com/album/3rpmARrx5Z5yeQBxdfgfOd) | 3:42 | 2022-07-04 | 2022-10-08 |
 | [You're Free](https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [You're Free](https://open.spotify.com/album/26TddKetWo996P7sqj0u5Y) | 3:44 | 2021-12-23 | 2022-05-02 |

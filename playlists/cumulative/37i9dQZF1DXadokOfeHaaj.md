@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: FKJ
 
-566 songs - 1 day 11 hr 27 min
+567 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Designer Shapes](https://open.spotify.com/track/78I2iQC5jeCQNVBlaHqaxu) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Designer Shapes / Buzzers](https://open.spotify.com/album/6fS7FZ0R9GPGyyhGBGs8xM) | 5:47 | 2024-08-15 | 2025-02-14 |
 | [Desire](https://open.spotify.com/track/1LpsGhseP5CoRstvoXRhYi) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Desire / The Echo](https://open.spotify.com/album/6rOgSgLPH6OtQuJsX7inJP) | 4:49 | 2025-10-03 | 2025-10-17 |
 | [Devil](https://open.spotify.com/track/39y33UuT4HDrMVWk2jY61F) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR) | [Devil](https://open.spotify.com/album/2vmLA0MTcRva2ZJfsC5ZIr) | 2:52 | 2024-08-15 | 2025-03-06 |
-| [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 | 2026-10-02 |  |
+| [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 | 2026-10-02 | 2026-11-06 |
 | [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-29 | 2026-03-05 |
 | [DIGITiSE](https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Pat Alvarez](https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp) | [DIGITiSE](https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw) | 4:06 | 2026-06-25 | 2026-07-24 |
 | [Discotheque](https://open.spotify.com/track/1yRhh10n3BaaLCqGqanViI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Discotheque](https://open.spotify.com/album/12XCd9YPgSOFOsCzw2PW04) | 6:45 | 2024-03-01 | 2025-01-17 |
@@ -482,6 +482,7 @@
 | [Talks](https://open.spotify.com/track/1AmZK3O0XYSfY636qTahcW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Talks](https://open.spotify.com/album/74CRCBMGYhrTI6ZzX2ARxr) | 4:17 | 2021-10-28 | 2024-03-22 |
 | [TEARS4ALOVER](https://open.spotify.com/track/0pg8bRhiPSK1Dd8zrUdm8y) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [TEARS4ALOVER](https://open.spotify.com/album/0gP6xTqemZ7rnjnsICldU0) | 3:14 | 2025-02-14 | 2025-02-28 |
 | [Tell Your Friends You Love Them](https://open.spotify.com/track/4yYjB1TE1zkGZQnHqp49aQ) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Kaleidoscope](https://open.spotify.com/album/2a4KB3BrGlfUXNmOQbHPpM) | 2:13 | 2026-10-02 |  |
+| [Tension](https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Tension](https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q) | 4:45 | 2026-11-04 |  |
 | [That Place](https://open.spotify.com/track/2EaQfMhOCC7U10ah7dBwE1) | [Revelle27](https://open.spotify.com/artist/3MtB9LTUuqKNrlIx4n7wG5), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [That Place](https://open.spotify.com/album/3cX7ST6HnWsJ1YjCqMEN9E) | 2:43 | 2026-09-10 | 2026-11-05 |
 | [That's All I Ask \- HAAi Remix / Edit](https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [That's All I Ask \(HAAi Remix\)](https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX) | 4:17 | 2026-06-18 | 2026-08-21 |
 | [The City Never Felt So Good](https://open.spotify.com/track/5EPLkWx3SqtK5fS9hbiHWL) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [The City Never Felt So Good](https://open.spotify.com/album/6vZMJqI9s1DFf6tMCLPvKi) | 2:56 | 2024-06-21 | 2025-02-14 |

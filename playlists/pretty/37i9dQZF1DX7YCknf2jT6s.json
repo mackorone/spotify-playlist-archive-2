@@ -1,13 +1,29 @@
 {
-  "description": "New jazz for open minds. Cover: Adrian Younge",
-  "num_followers": 1050558,
+  "description": "New jazz for open minds. Cover: Tyreek McDole",
+  "num_followers": 1050572,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABUWf5DsmIYkOFokCOYZfk86PMW5",
+  "snapshot_id": "AAAAAC6R2JbC0L42Jp9Cg3KVpI5Xg3oo",
   "tracks": [
+    {
+      "added_at": "2026-11-06 05:00:59",
+      "album": {
+        "name": "CHROMA",
+        "url": "https://open.spotify.com/album/0d7riNgkF2SFGfe1IZi0Zs"
+      },
+      "artists": [
+        {
+          "name": "Tyreek McDole",
+          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
+        }
+      ],
+      "duration_ms": 263137,
+      "name": "CONFESSION",
+      "url": "https://open.spotify.com/track/2HRuHXtTQFmXCRNJZ2aN8S"
+    },
     {
       "added_at": "2026-10-23 04:01:39",
       "album": {
@@ -27,6 +43,30 @@
       "duration_ms": 247013,
       "name": "charm (feat. Chief Adjuah)",
       "url": "https://open.spotify.com/track/5JwvnO7XUrAk5rvGOYn8LG"
+    },
+    {
+      "added_at": "2026-11-06 05:00:59",
+      "album": {
+        "name": "Osmosis",
+        "url": "https://open.spotify.com/album/1pWe5fFtnWMaxFtMU5EStm"
+      },
+      "artists": [
+        {
+          "name": "Zohar & Adam",
+          "url": "https://open.spotify.com/artist/3jrqdkncH6CuK39BaLJ9mj"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        },
+        {
+          "name": "Skylar Tang",
+          "url": "https://open.spotify.com/artist/3i5LkHN45PzgWWyNkzh3nl"
+        }
+      ],
+      "duration_ms": 384160,
+      "name": "Osmosis",
+      "url": "https://open.spotify.com/track/25xO0lWd0uonFIYE50Wj8R"
     },
     {
       "added_at": "2026-10-23 04:01:39",
@@ -55,6 +95,42 @@
       "duration_ms": 244738,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/5xmFBg0clJhO5jE9aP0533"
+    },
+    {
+      "added_at": "2026-11-06 05:00:59",
+      "album": {
+        "name": "Sunlight Arch",
+        "url": "https://open.spotify.com/album/71PhGyohbxgyNfvtKOdxyc"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sunlight Arch",
+      "url": "https://open.spotify.com/track/2GbbKMrJcyU094JbcvJtMN"
+    },
+    {
+      "added_at": "2026-11-06 05:00:59",
+      "album": {
+        "name": "One Hundred Years Today",
+        "url": "https://open.spotify.com/album/1mA6vkKAXm6FZ7mBM7VBun"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scheinman",
+          "url": "https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Django In America (feat. Julian Lage)",
+      "url": "https://open.spotify.com/track/2VMrWBBkpewfWXNp9qLJ9p"
     },
     {
       "added_at": "2026-10-23 04:01:39",
@@ -1041,26 +1117,6 @@
       "url": "https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Honora",
-        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
-      },
-      "artists": [
-        {
-          "name": "Flea",
-          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-        },
-        {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Wichita Lineman (feat. Nick Cave)",
-      "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
-    },
-    {
       "added_at": "2026-05-15 04:01:09",
       "album": {
         "name": "CHASING LIGHT / ZERO",
@@ -1293,26 +1349,6 @@
       "url": "https://open.spotify.com/track/2PZWcfquopNgSaOSQBRd2x"
     },
     {
-      "added_at": "2026-04-10 04:01:37",
-      "album": {
-        "name": "My Big Break",
-        "url": "https://open.spotify.com/album/07xlkv0gxnb1H1JBkdVmyU"
-      },
-      "artists": [
-        {
-          "name": "Dolphin Hyperspace",
-          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
-        },
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 202147,
-      "name": "My Big Break",
-      "url": "https://open.spotify.com/track/3d98mX8DJAmkqRN8cIgLe4"
-    },
-    {
       "added_at": "2026-05-01 04:11:09",
       "album": {
         "name": "Dawn Patrol",
@@ -1403,34 +1439,6 @@
       "duration_ms": 162099,
       "name": "Red Deer",
       "url": "https://open.spotify.com/track/49wWdpiIvXzLMjyJnhusIT"
-    },
-    {
-      "added_at": "2026-04-24 04:01:10",
-      "album": {
-        "name": "Touch The Sky",
-        "url": "https://open.spotify.com/album/2cK2WYjk51oAOWsKsmLuKe"
-      },
-      "artists": [
-        {
-          "name": "Tom Hemby",
-          "url": "https://open.spotify.com/artist/18DYBJxCpac3YG86xhVPqM"
-        },
-        {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        }
-      ],
-      "duration_ms": 292360,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/29AFgr0uT5aIHGO1RzuAoF"
     },
     {
       "added_at": "2026-04-17 04:03:56",
@@ -2027,26 +2035,6 @@
       "duration_ms": 160586,
       "name": "Feeling The Pressure",
       "url": "https://open.spotify.com/track/2jwqf5LH5a3jHMN5oXZYcf"
-    },
-    {
-      "added_at": "2026-04-10 04:01:37",
-      "album": {
-        "name": "Hazy",
-        "url": "https://open.spotify.com/album/57MB9ySL2vMZnWGWRVWKNC"
-      },
-      "artists": [
-        {
-          "name": "Matthew Stevens",
-          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
-        },
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        }
-      ],
-      "duration_ms": 297600,
-      "name": "Hazy",
-      "url": "https://open.spotify.com/track/0BS8ogW9FMliIJfoRNofd6"
     },
     {
       "added_at": "2026-04-24 04:01:10",

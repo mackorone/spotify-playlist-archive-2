@@ -2,9 +2,9 @@
 
 ### [Jazz Argentino](https://open.spotify.com/playlist/37i9dQZF1DX5dJFQ9iAw5v)
 
-> De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
+> De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Mariano Otero
 
-132 songs - 11 hr 16 min
+133 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/album/6Nau4XGTWFFJEURJrD8L0g) | 6:36 | 2022-08-12 | 2026-10-28 |
 | [Ordóñez y Ernestina \(o el Banquito de Ordóñez\)](https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 5:47 | 2022-08-12 |  |
 | [Parque Chas](https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [ESCALECTRIC](https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x) | 4:46 | 2023-12-08 | 2025-10-04 |
+| [Parque hotel](https://open.spotify.com/track/5rwDaon6pd9p7dH3u45ilc) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Baladas Rotas, Vol\. 1](https://open.spotify.com/album/3T3vmncGWKTebPMn2HRD3n) | 5:29 | 2026-11-06 |  |
 | [Pianistico \(Junto a Lito Vitale\)](https://open.spotify.com/track/1ABl9JwT8wDDu0VkVuQu6v) | [Alejo Leon](https://open.spotify.com/artist/3GUkiSQ2yK6hHubgoLQVmm), [Joana Gieco](https://open.spotify.com/artist/5yFDRiZNBV7oHf4es80nfG), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [Pianistico \(Junto a Lito Vitale\)](https://open.spotify.com/album/4RirLmsbvetn3o23WRSUE4) | 5:44 | 2025-03-28 |  |
 | [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 | 2022-10-28 | 2026-02-23 |
 | [Pop](https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:40 | 2022-08-12 |  |
@@ -136,7 +137,7 @@
 | [Veinte Trajes Verdes](https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2) | [Roberto Pettinato](https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5), [Andrés Marino](https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP), [Hernán Cassibba](https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8), [Omar Menendez](https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK) | [Pettinato Plays García](https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO) | 5:39 | 2022-08-12 |  |
 | [Vengo a ofrecer mi corazón \(Fito Páez\) \- Francisco De Rosa \(Ss\), Horacio "Kid" Leotta \(Tp\), Gustavo Barragán \(Guit\), Pablo Elorza \(Bass\) y Santiago Hernández \(Drum\)](https://open.spotify.com/track/5p8TjTMINuuCCBpSWknwHI) | [Francisco De Rosa](https://open.spotify.com/artist/7L94fTdnKbG07A0lVCCeu7), [Francisco De Rosa Quinteto](https://open.spotify.com/artist/2pEmQvGc28QuYWMoDKSOIx) | [Lúdico](https://open.spotify.com/album/2sZ7QbXywKgxPJRSsuLRhb) | 5:06 | 2022-08-12 |  |
 | [Viernes 3AM](https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Adrián Iaies](https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh) | [Cinemateca Finlandesa](https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3) | 4:36 | 2022-08-12 |  |
-| [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 | 2022-08-12 |  |
+| [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 | 2022-08-12 | 2026-11-06 |
 | [Wave](https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7) | [Mensajes Secretos](https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g) | 8:44 | 2022-08-12 | 2025-07-26 |
 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 | 2022-08-12 |  |
 | [Willie](https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF) | [Guillermo Vadala](https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD) | [Bajo Piel](https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH) | 5:01 | 2022-08-12 |  |

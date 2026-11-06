@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,146 likes - 256 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,145 likes - 256 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 197 | [Let Them Know](https://open.spotify.com/track/61ryc0ai8Gb2VFv4sqN8zJ) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Let Them Know](https://open.spotify.com/album/4CwLgbWCYB50IV0sLEJjTF) | 2:59 |
 | 198 | [What Do You Know \- Interlude](https://open.spotify.com/track/5tm7yd2y5JhbCIGjSxs7Uu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/6JHzz5eTPAcY7QkZRWVBFv) | 1:41 |
 | 199 | [Loneliness](https://open.spotify.com/track/36C8pBTFMofLEikkkQWRd0) | [Karise Eden](https://open.spotify.com/artist/0dJwWgFktKXVoomwZGmUV8) | [Things I've Done](https://open.spotify.com/album/4WNiIAQqHRgCeLhulhId0r) | 3:50 |
-| 200 | [Tomboys Have Feelings Too \- Interlude](https://open.spotify.com/track/6qu3x4okjnBqHYZpmEWGuR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:24 |
-| 201 | [Unless It’s You](https://open.spotify.com/track/0dmKU576R699dWtqpGxfAm) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:30 |
+| 200 | [Unless It’s You](https://open.spotify.com/track/0dmKU576R699dWtqpGxfAm) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:30 |
+| 201 | [Tomboys Have Feelings Too \- Interlude](https://open.spotify.com/track/6qu3x4okjnBqHYZpmEWGuR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:24 |
 | 202 | [Something In My Eye](https://open.spotify.com/track/7Ct8rxhUnBUfSSWxb0X7em) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:44 |
 | 203 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 | 204 | [Amnesia](https://open.spotify.com/track/52zws8gg9knDauxewOuvNX) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:59 |
@@ -233,9 +233,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 223 | [Break My Heart](https://open.spotify.com/track/0YwVv5OCbuCoc1Qyso1Ree) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:43 |
 | 224 | [I Might](https://open.spotify.com/track/0qP7Rly316Y10D0wzzlGVk) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 3:22 |
 | 225 | [South Beach](https://open.spotify.com/track/39acyx9XcUS1l8dJm5VJL0) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:27 |
-| 226 | [Jeffrey](https://open.spotify.com/track/264ukRrqfqyc8aumMKCyUY) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:39 |
-| 227 | [Mood](https://open.spotify.com/track/7sYqaQ8AlDtOay9KcjEYql) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 4:03 |
-| 228 | [Better days](https://open.spotify.com/track/0FbTEOuQAi28ycMRmOPNAK) | [dojian kim](https://open.spotify.com/artist/7rbp9r87mufVA5rcABSsY9) | [Better days](https://open.spotify.com/album/0kgFlh063jEF2R19ejFgPJ) | 3:57 |
+| 226 | [Better days](https://open.spotify.com/track/0FbTEOuQAi28ycMRmOPNAK) | [dojian kim](https://open.spotify.com/artist/7rbp9r87mufVA5rcABSsY9) | [Better days](https://open.spotify.com/album/0kgFlh063jEF2R19ejFgPJ) | 3:57 |
+| 227 | [Jeffrey](https://open.spotify.com/track/264ukRrqfqyc8aumMKCyUY) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:39 |
+| 228 | [Mood](https://open.spotify.com/track/7sYqaQ8AlDtOay9KcjEYql) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 4:03 |
 | 229 | [What's Hannin'](https://open.spotify.com/track/1Bt5SsyEoWBCYEszpiv0cY) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:34 |
 | 230 | [Road Trip](https://open.spotify.com/track/4DiTzj5a3YAnDOjx7srHki) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Sketch](https://open.spotify.com/album/6pTgLbKoE6GYtVZUvIhwE4) | 3:44 |
 | 231 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 255 | [Intro](https://open.spotify.com/track/2voUe1ZoydUCnrjjSBymNz) | [Monet](https://open.spotify.com/artist/258AGqI6omKexzEte9BXci), [Mellow Bora](https://open.spotify.com/artist/77EKywL0RK6rDMGuxvxZmj) | [Popo](https://open.spotify.com/album/61VeYxptr7wSy5QfxLHzR2) | 2:16 |
 | 256 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcgzlAAAAADmPNZJmPwtTTcivzG4sen2`
+Snapshot ID: `Acg5SAAAAAAkwgGv5Mb/e5Q+1yF3Ck9r`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ultraligera.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 186513,
       "name": "Azul",
       "url": "https://open.spotify.com/track/09wFZTljEFzOvXXCJseHQP"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 162116,
       "name": "British Museum style",
       "url": "https://open.spotify.com/track/5yqAz2yl5EbySJzMXzboIM"
@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Era m\u00e1s barato llorar",
+        "url": "https://open.spotify.com/album/7vQETHlYHamxeBxyfqGDeX"
+      },
+      "artists": [
+        {
+          "name": "Marina Dom\u00ednguez",
+          "url": "https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139857,
+      "name": "Cada vez mejor",
+      "url": "https://open.spotify.com/track/5kJOBbDS0mlcoLnDJb34NT"
+    },
+    {
+      "album": {
         "name": "Caen Imperios",
         "url": "https://open.spotify.com/album/4q0NWJdIip4fAtIxHOWqQo"
       },
@@ -2042,6 +2060,42 @@
       "duration_ms": 125040,
       "name": "Calle Plata",
       "url": "https://open.spotify.com/track/6VsaC41vcwH8AczuZZZERO"
+    },
+    {
+      "album": {
+        "name": "CAMBIAR",
+        "url": "https://open.spotify.com/album/7z72rA2tE09R5OscbyKR0c"
+      },
+      "artists": [
+        {
+          "name": "Guilan",
+          "url": "https://open.spotify.com/artist/39XMEGKT5GZwWp5FlPAj1F"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198356,
+      "name": "CAMBIAR",
+      "url": "https://open.spotify.com/track/5hwHhklZKVM4aUGUYd5GOg"
+    },
+    {
+      "album": {
+        "name": "Dej\u00e9moslo Como Estaba",
+        "url": "https://open.spotify.com/album/5DdqS1tEM2HzExhj0fXK1G"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Campos De Golf",
+      "url": "https://open.spotify.com/track/2POzBe7i64yZF0ngCST3MG"
     },
     {
       "album": {
@@ -2490,6 +2544,24 @@
       "duration_ms": 279029,
       "name": "Cola del vicio",
       "url": "https://open.spotify.com/track/18vMC4pw4zvZxslDqxgvMQ"
+    },
+    {
+      "album": {
+        "name": "Colectivo Nostalgia",
+        "url": "https://open.spotify.com/album/2D1akSzXyxkfN2IdtwTac3"
+      },
+      "artists": [
+        {
+          "name": "Belarte",
+          "url": "https://open.spotify.com/artist/2HNADS1yqggfwoMmurRRvM"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224459,
+      "name": "Colectivo Nostalgia",
+      "url": "https://open.spotify.com/track/28PvBQbL9KsOaLJ6Uh5Fke"
     },
     {
       "album": {
@@ -3320,7 +3392,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 226386,
       "name": "Denver, Colorado",
       "url": "https://open.spotify.com/track/5M20UikR4ugUlgOCdvMW86"
@@ -3872,7 +3944,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 243490,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/0rSMq0gQW1hgNVHark2pKO"
@@ -4797,6 +4869,24 @@
     },
     {
       "album": {
+        "name": "Era yo la que apuntaba",
+        "url": "https://open.spotify.com/album/6HjeY3Gi8xIUKSAVUk6osn"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206797,
+      "name": "Era yo la que apuntaba",
+      "url": "https://open.spotify.com/track/0Dbcv5NW0ZkBVxfJ8vRSvx"
+    },
+    {
+      "album": {
         "name": "Eres Un Regalo",
         "url": "https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b"
       },
@@ -5434,7 +5524,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 173228,
       "name": "fomo",
       "url": "https://open.spotify.com/track/4ROctoOfcP8DPrnl6jt4RT"
@@ -5966,7 +6056,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 159026,
       "name": "Gu\u00e1rdame un sitio",
       "url": "https://open.spotify.com/track/6BvLC6nkFc5NMxarhEo5cy"
@@ -9333,6 +9423,24 @@
     },
     {
       "album": {
+        "name": "MOSQUITO",
+        "url": "https://open.spotify.com/album/44WGd1h2MnCkO1Sa3mzKwB"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "MOSQUITO",
+      "url": "https://open.spotify.com/track/1so0w64iWBDvUDqjinTXAl"
+    },
+    {
+      "album": {
         "name": "Mundo hostil",
         "url": "https://open.spotify.com/album/5F20WyirAP1yfVDq2Zx90A"
       },
@@ -10486,7 +10594,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 204738,
       "name": "Ojal\u00e1 todo fueran huesos",
       "url": "https://open.spotify.com/track/4w2RsrJ8kdnXDg1vYXuwxx"
@@ -11806,6 +11914,24 @@
       "duration_ms": 205477,
       "name": "Qu\u00e9 dice el colegio de ingenieros",
       "url": "https://open.spotify.com/track/2Mejas3fYLPrptdwjObo1e"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Dir\u00e1n",
+        "url": "https://open.spotify.com/album/6WqEXLKjDWPRyx3lDf6gEU"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195629,
+      "name": "Qu\u00e9 Dir\u00e1n",
+      "url": "https://open.spotify.com/track/3CMl9ajUF0gqHHLahmoqw2"
     },
     {
       "album": {
@@ -13352,7 +13478,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-06",
       "duration_ms": 200532,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/7f82oGFu5NtNGvVYJVULd2"

@@ -1,15 +1,135 @@
 {
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 237066,
+  "num_followers": 237124,
   "original_name": "Black Coffee's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFq+KqlLldbUWcDHmyS8GOz0t675",
+  "snapshot_id": "AAAAAMclVW24fRbVDIp8ZCOqPO2XT+gL",
   "tracks": [
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
+      "album": {
+        "name": "Watcha",
+        "url": "https://open.spotify.com/album/3ZqVpnFKs1hbdhzyhyiHYk"
+      },
+      "artists": [
+        {
+          "name": "EMIR",
+          "url": "https://open.spotify.com/artist/13OKS8AUFauFwHwqIKhVq3"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "\u00dcDOR\u0100",
+          "url": "https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq"
+        }
+      ],
+      "duration_ms": 239624,
+      "name": "Watcha",
+      "url": "https://open.spotify.com/track/1YXTnjLJWqHK4uLeFb2uA6"
+    },
+    {
+      "added_at": "2026-11-05 19:08:39",
+      "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/2DYQulm46UefALdSyo85EM"
+      },
+      "artists": [
+        {
+          "name": "Xavier Dragner",
+          "url": "https://open.spotify.com/artist/25DLgS5KimLaA06q3NOh1u"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/5WGh6dX4gFZ66iUz1t6yM7"
+    },
+    {
+      "added_at": "2026-11-05 19:08:39",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/0epH5VlXvRDCvGqjGdxEr3"
+      },
+      "artists": [
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "MIDIMI",
+          "url": "https://open.spotify.com/artist/1RpMPUTXUpwORiuGxyBEds"
+        },
+        {
+          "name": "Untitled Audio",
+          "url": "https://open.spotify.com/artist/0P49O12yf6UlMdBsN7sPt0"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "duration_ms": 465233,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/0JzFIwL1dr6HSnEGG0M2ot"
+    },
+    {
+      "added_at": "2026-11-05 19:08:39",
+      "album": {
+        "name": "Mood Colors",
+        "url": "https://open.spotify.com/album/7IcEiMBkoFryGP2wwSyEkV"
+      },
+      "artists": [
+        {
+          "name": "Lohrasp Kansara",
+          "url": "https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy"
+        },
+        {
+          "name": "Joy Marquez",
+          "url": "https://open.spotify.com/artist/700561iHdHLXORJkglae4v"
+        },
+        {
+          "name": "Norman Alexander",
+          "url": "https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Mood Colors",
+      "url": "https://open.spotify.com/track/5msq7XGP6pIcA5e3vHtMOl"
+    },
+    {
+      "added_at": "2026-11-05 19:08:39",
+      "album": {
+        "name": "In And Out",
+        "url": "https://open.spotify.com/album/41U5AjBiUKySBBuS15OJdv"
+      },
+      "artists": [
+        {
+          "name": "SOMMERS (UK)",
+          "url": "https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Ninae",
+          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
+        }
+      ],
+      "duration_ms": 252250,
+      "name": "In And Out",
+      "url": "https://open.spotify.com/track/6p7aiwjnAhpQHIm8bryN9U"
+    },
+    {
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Speak To Me (Edit)",
         "url": "https://open.spotify.com/album/78GRqnbuWUylb8fBGw4W0s"
@@ -37,7 +157,7 @@
       "url": "https://open.spotify.com/track/6tJQwfmNiz0zxDRDNRLzVH"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "MONKS OF AMANI",
         "url": "https://open.spotify.com/album/69HucacmTc1rADwF0Y2tR1"
@@ -53,7 +173,7 @@
       "url": "https://open.spotify.com/track/5yJ2cnPCyXa1txhV7sqUe3"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Tiki Tak Tak (Remix)",
         "url": "https://open.spotify.com/album/0v7OZYJ1dGCSd6VMxXovzM"
@@ -77,7 +197,7 @@
       "url": "https://open.spotify.com/track/73Uvm6CEKEQpbGdRtA2ih1"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "No Limits",
         "url": "https://open.spotify.com/album/4TSlDNvEnli9PtxhBSgsPd"
@@ -93,7 +213,7 @@
       "url": "https://open.spotify.com/track/47rAU1hUr8OX4uiCY2bgc1"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Trippin on Sirens",
         "url": "https://open.spotify.com/album/4BnsvJ035Cj7o7YWtCXChY"
@@ -113,7 +233,7 @@
       "url": "https://open.spotify.com/track/5ysRc42NKXadCFoOZ9Oj2S"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2w1Cv9QCDZPnJFajuN9CUe"
@@ -129,7 +249,7 @@
       "url": "https://open.spotify.com/track/5lvwcNUEwjgohvoTkl1xMS"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/6TXyTXq5pbjKAqfZQAA3Bf"
@@ -153,7 +273,7 @@
       "url": "https://open.spotify.com/track/0iqlsYBNRPHDzCRnFfJ8eC"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Blur The Lights",
         "url": "https://open.spotify.com/album/7rRUvUOcPAMqsGlPx7skif"
@@ -173,7 +293,7 @@
       "url": "https://open.spotify.com/track/4NLLGrdclcdRjSbb5ovupT"
     },
     {
-      "added_at": "2026-11-02 12:39:37",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Obaba",
         "url": "https://open.spotify.com/album/4GphTjK12P1UElFxEmw40s"
@@ -197,7 +317,7 @@
       "url": "https://open.spotify.com/track/3DeJEEwFGkxxtBBwXc3x0G"
     },
     {
-      "added_at": "2026-10-12 10:31:46",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Holdin' on EP",
         "url": "https://open.spotify.com/album/0BauG227PB8D9uBuYmJRrh"
@@ -217,7 +337,7 @@
       "url": "https://open.spotify.com/track/3KEqpV02GVVH1THDf2g3lT"
     },
     {
-      "added_at": "2026-10-15 16:08:27",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Niweke - The Remixes, Part II",
         "url": "https://open.spotify.com/album/6FBdvmv2L3BIHwBXtb1Olh"
@@ -241,7 +361,7 @@
       "url": "https://open.spotify.com/track/64lp2UUGR9yIAkO7jLaskx"
     },
     {
-      "added_at": "2026-10-15 16:08:27",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Wombie",
         "url": "https://open.spotify.com/album/1xPkBGMwWE1nUhgqaxdECO"
@@ -261,7 +381,7 @@
       "url": "https://open.spotify.com/track/5lM24N47lXJoD78F7SpA9m"
     },
     {
-      "added_at": "2026-10-15 16:08:27",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "The Night",
         "url": "https://open.spotify.com/album/4Ao0XfhyIzkmQ6jA3iNh1u"
@@ -277,7 +397,7 @@
       "url": "https://open.spotify.com/track/2ZBjwsvdIDD4yyKD1IxQAn"
     },
     {
-      "added_at": "2026-10-15 16:08:27",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "See My Eyes",
         "url": "https://open.spotify.com/album/0kqmOFcDnvIh3jEQXRIGDX"
@@ -297,7 +417,7 @@
       "url": "https://open.spotify.com/track/0e1fUqDgztQz7fZ4nnqrkr"
     },
     {
-      "added_at": "2026-10-15 16:08:27",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Merengon",
         "url": "https://open.spotify.com/album/2VlAzuiPqPH96mv2t0Os6S"
@@ -317,7 +437,7 @@
       "url": "https://open.spotify.com/track/0ViHwLeYRQ5gtXn7ierwZ9"
     },
     {
-      "added_at": "2026-10-12 10:31:46",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Warriors, Pt. II",
         "url": "https://open.spotify.com/album/5J8RtKmGSSBJ2ixiBVazuM"
@@ -337,7 +457,7 @@
       "url": "https://open.spotify.com/track/00hDeEpGvuNjqez59VIx1T"
     },
     {
-      "added_at": "2026-10-12 10:31:46",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Buyani (\u00dcDOR\u0100 & Native P. Remix)",
         "url": "https://open.spotify.com/album/6Fdbync8wVOqqWoa6gltIA"
@@ -365,7 +485,7 @@
       "url": "https://open.spotify.com/track/2t28EUokksGpEVkqAuT8zu"
     },
     {
-      "added_at": "2026-10-12 10:31:46",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Love Is Freedom",
         "url": "https://open.spotify.com/album/7ah9Cao4VZ9ibsesZJxpEg"
@@ -381,7 +501,7 @@
       "url": "https://open.spotify.com/track/14Te7QZGC6H2wZxMsPD9MD"
     },
     {
-      "added_at": "2026-10-07 11:38:00",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/2DIWOTpdF5arSVXzqUifiS"
@@ -401,7 +521,7 @@
       "url": "https://open.spotify.com/track/3368nB00QVs4L0gLt0V3kS"
     },
     {
-      "added_at": "2026-10-07 11:38:00",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "G\u00e2i tama",
         "url": "https://open.spotify.com/album/0V6I0pZZ94XoskuXz65FII"
@@ -429,7 +549,7 @@
       "url": "https://open.spotify.com/track/6CavqsBFAGPBw5cL7p68et"
     },
     {
-      "added_at": "2026-10-07 11:38:00",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Bun Is Bun!",
         "url": "https://open.spotify.com/album/4bhAOO1bAljTnlfNleZvRH"
@@ -445,7 +565,7 @@
       "url": "https://open.spotify.com/track/03fFGoob44yTJstYZkpkXG"
     },
     {
-      "added_at": "2026-10-07 11:38:00",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Mwezi (Radio Edit)",
         "url": "https://open.spotify.com/album/0iAveOlq44X1L5AKg3zq1q"
@@ -465,7 +585,7 @@
       "url": "https://open.spotify.com/track/6cUg2NkJJ6ONoTUQlqydZ2"
     },
     {
-      "added_at": "2026-10-07 11:38:00",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Taciturn",
         "url": "https://open.spotify.com/album/1QPcShD196R234JbnkYmXZ"
@@ -485,7 +605,7 @@
       "url": "https://open.spotify.com/track/4BOlMj3W2ORsfhDwNrLncu"
     },
     {
-      "added_at": "2026-09-25 11:31:09",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "NALA",
         "url": "https://open.spotify.com/album/4vI2SaXlAe9D4I5SFY9T5n"
@@ -509,7 +629,7 @@
       "url": "https://open.spotify.com/track/1Ki95fAh0UZpHGLiofTRuw"
     },
     {
-      "added_at": "2026-09-25 11:31:09",
+      "added_at": "2026-11-05 19:08:39",
       "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/3hlp5u8rmvXmXignpdczKB"
@@ -527,114 +647,6 @@
       "duration_ms": 370000,
       "name": "Sanity - Extended Mix",
       "url": "https://open.spotify.com/track/5YJjRDZf7EReVn284ZqOQv"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Salaam",
-        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Hiya",
-          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Jekalo",
-        "url": "https://open.spotify.com/album/2OE43gckEmbUY17BpnNAre"
-      },
-      "artists": [
-        {
-          "name": "Leo Guardo",
-          "url": "https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD"
-        },
-        {
-          "name": "Simone Glad",
-          "url": "https://open.spotify.com/artist/23qU7I4dEm0phzNweQiVE7"
-        },
-        {
-          "name": "eL-Jay",
-          "url": "https://open.spotify.com/artist/3AdQcvHPUsbnXLvuCFtjZE"
-        }
-      ],
-      "duration_ms": 199170,
-      "name": "Jekalo",
-      "url": "https://open.spotify.com/track/6ONeracdIO8ijLL9bK18dW"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Masaa",
-        "url": "https://open.spotify.com/album/3XEHky9JmUviDHuE8HKRAW"
-      },
-      "artists": [
-        {
-          "name": "Ghedi",
-          "url": "https://open.spotify.com/artist/0Lyny0hbx38TM6ZoXSCONO"
-        },
-        {
-          "name": "Mura",
-          "url": "https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd"
-        },
-        {
-          "name": "Hiribae",
-          "url": "https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3"
-        },
-        {
-          "name": "Paps Okwach",
-          "url": "https://open.spotify.com/artist/6iYbvYlNp3oOx3Dr35YVPH"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Masaa",
-      "url": "https://open.spotify.com/track/3QElrrfOjmiD0QXjkNvF1B"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/7pMvtoft0Jc906cQV7D4Ip"
-      },
-      "artists": [
-        {
-          "name": "Madmix",
-          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
-        },
-        {
-          "name": "PA NGU",
-          "url": "https://open.spotify.com/artist/6sMU60D1GkWWUbBRjt1xFO"
-        }
-      ],
-      "duration_ms": 226967,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0EWbCIe0CmNmSE55W1huLq"
-    },
-    {
-      "added_at": "2026-09-25 11:31:09",
-      "album": {
-        "name": "Rift Valley (2026 Rework)",
-        "url": "https://open.spotify.com/album/7i2Y4z0OLEM5DlMtLe5Ncx"
-      },
-      "artists": [
-        {
-          "name": "KEENE",
-          "url": "https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS"
-        }
-      ],
-      "duration_ms": 403550,
-      "name": "Rift Valley - 2026 Rework",
-      "url": "https://open.spotify.com/track/2sKy3sbnArMST1tVIW8aQQ"
     }
   ],
   "unique_name": "Black Coffee's track IDs",
